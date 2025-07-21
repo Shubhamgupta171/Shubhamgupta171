@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamgupta171" alt="shubhamgupta171" /></a> </p>
 
-- 🌱 I’m currently learning **React JS Node JS**
+- 🌱 I’m **Full stack Developer ,Software Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shubhamgupta171](https://github.com/Shubhamgupta171)
 
