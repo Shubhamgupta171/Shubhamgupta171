@@ -17,14 +17,16 @@ jobs:
       - name: Pull latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: 7
+          max_post_count: 6
           comment_tag_name: "BLOG-POST-LIST"
-          template: "- 🔹 [**$title**]($url)"
-          title_max_length: 110
+          tag_post_pre_newline: "true"
+          template: "$newline> 🔹 **[$title]($url)**"
+          title_max_length: 120
           commit_message: "chore: refresh latest tech headlines"
           committer_username: "Shubham Gupta"
           committer_email: "inboxshubhamgupta17@gmail.com"
           remove_duplicates: "true"
           retry_count: 3
           retry_wait_time: 2
-          feed_list: "https://dev.to/feed/tag/systemdesign,https://dev.to/feed/tag/microservices,https://dev.to/feed/tag/backend,https://dev.to/feed/tag/devops,http://feeds.feedburner.com/HighScalability,https://martinfowler.com/feed.atom,https://aws.amazon.com/blogs/aws/feed/,https://engineering.atspotify.com/feed/,https://github.blog/engineering/feed/,https://blog.cloudflare.com/rss/"
+          item_exec: "if (/claude api|chatgpt|gpt-[3-9]|openai|ai agent|gen z|skool|scraper api|apicraw|apify|hallucinat|seller analytics|buy now|crypto/i.test(post.title)) { throw new Error('filtered'); }"
+          feed_list: "https://dev.to/feed/tag/systemdesign,https://dev.to/feed/tag/microservices,http://feeds.feedburner.com/HighScalability,https://martinfowler.com/feed.atom,https://aws.amazon.com/blogs/aws/feed/,https://engineering.atspotify.com/feed/,https://github.blog/engineering/feed/,https://blog.cloudflare.com/rss/,https://stackoverflow.blog/engineering/feed/"

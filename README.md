@@ -24,13 +24,30 @@
 
 ---
 
-## 📰 Today's Headlines — Backend, Cloud & System Design
+## 📰 Today's Headlines — Backend · Cloud · System Design
 
-<div align="center"><i>Fresh picks from the best engineering blogs · auto-refreshed every 6 hours ⏱</i></div>
+<div align="center">
+  <i>🔥 Curated from the best engineering blogs · auto-refreshed every 6 hours</i>
+</div>
 
-<!-- BLOG-POST-LIST:START -->- 🔹 [**How I automated dead endpoint detection and removed 16,000 lines from our Node.js codebase**](https://dev.to/miguel_lopes_966962540a43/how-i-automated-dead-endpoint-detection-and-removed-16000-lines-from-our-nodejs-codebase-1fan)- 🔹 [**Cómo Automaticé el Onboarding de Mi Comunidad Skool con n8n + Apify &lpar;y Perdí 138 Miembros por No Monitorear&rpar;**](https://dev.to/cristiantalasanchez/como-automatice-el-onboarding-de-mi-comunidad-skool-con-n8n-apify-y-perdi-138-miembros-por-no-pce)- 🔹 [**Day 13: Seller Analytics Dashboard - AI System Design in Seconds**](https://dev.to/matt_frank_usa/day-13-seller-analytics-dashboard-ai-system-design-in-seconds-3ghh)- 🔹 [**Vercel + Fly.io Hybrid is Nept Cloud — Made by Gen Z**](https://dev.to/mr_k_8abd46e280d29060e34/vercel-flyio-hybrid-is-nept-cloud-made-by-gen-z-274i)- 🔹 [**End-To-End DevOps + AIOps Project- 2**](https://dev.to/kalpesh47/end-to-end-devops-aiops-project-2-4ipj)- 🔹 [**End-To-End DevOps + AIOps Project- 2**](https://dev.to/kalpesh47/end-to-end-devops-aiops-project-2-4ipj)- 🔹 [**When should you use canary deployments?**](https://dev.to/coderabbitai/when-should-you-use-canary-deployments-2ch9)<!-- BLOG-POST-LIST:END -->
+<br/>
 
-<div align="center"><sub>📡 Sources: <b>Dev.to</b> (backend · systemdesign · devops · microservices · architecture · api) · <b>High Scalability</b> · <b>Martin Fowler</b> · <b>AWS</b> · <b>Spotify Eng</b> · <b>GitHub Eng</b> · <b>Cloudflare</b></sub></div>
+<!-- BLOG-POST-LIST:START -->
+> 🔹 *Loading fresh headlines from Dev.to, High Scalability, Martin Fowler, AWS, Cloudflare, GitHub Eng, Stack Overflow Eng & Spotify Eng …*
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+<div align="center">
+  <sub>📡 <b>Sources:</b> Dev.to (systemdesign · microservices) · High Scalability · Martin Fowler · AWS · Spotify Eng · GitHub Eng · Stack Overflow Eng · Cloudflare</sub>
+  <br/>
+  <a href="https://github.com/Shubhamgupta171/Shubhamgupta171/actions/workflows/blog-headlines.yml">
+    <img src="https://img.shields.io/badge/🔄_Refresh_now-black?style=flat-square" alt="refresh" />
+  </a>
+  <a href="https://github.com/Shubhamgupta171/Shubhamgupta171/blob/main/.github/workflows/blog-headlines.yml">
+    <img src="https://img.shields.io/badge/⚙️_How_it_works-gray?style=flat-square" alt="how" />
+  </a>
+</div>
 
 ---
 
