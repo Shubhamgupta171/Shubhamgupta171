@@ -19,23 +19,14 @@ jobs:
         with:
           max_post_count: 8
           comment_tag_name: "BLOG-POST-LIST"
-          template: "- 🔹 [**$title**]($url)"
+          template: "- 🔹 [**$title**]($url) <sub>— $description</sub>"
+          description_max_length: 90
+          title_max_length: 100
           commit_message: "chore: refresh latest tech headlines"
           committer_username: "Shubham Gupta"
           committer_email: "inboxshubhamgupta17@gmail.com"
+          remove_duplicates: "true"
           retry_count: 3
           retry_wait_time: 2
-          feed_list: >-
-            https://dev.to/feed/tag/backend,
-            https://dev.to/feed/tag/systemdesign,
-            https://dev.to/feed/tag/webdev,
-            https://dev.to/feed/tag/devops,
-            https://dev.to/feed/tag/node,
-            https://dev.to/feed/tag/microservices,
-            https://dev.to/feed/tag/architecture,
-            https://dev.to/feed/tag/api,
-            http://feeds.feedburner.com/HighScalability,
-            https://martinfowler.com/feed.atom,
-            https://aws.amazon.com/blogs/aws/feed/,
-            https://engineering.atspotify.com/feed/,
-            https://netflixtechblog.com/feed
+          filter_comments: "dev.to/comment"
+          feed_list: "https://dev.to/feed/tag/backend,https://dev.to/feed/tag/systemdesign,https://dev.to/feed/tag/devops,https://dev.to/feed/tag/microservices,https://dev.to/feed/tag/architecture,https://dev.to/feed/tag/api,http://feeds.feedburner.com/HighScalability,https://martinfowler.com/feed.atom,https://aws.amazon.com/blogs/aws/feed/,https://engineering.atspotify.com/feed/,https://netflixtechblog.com/feed,https://github.blog/engineering/feed/"
