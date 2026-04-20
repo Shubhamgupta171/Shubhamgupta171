@@ -163,31 +163,6 @@ email:       inboxshubhamgupta17@gmail.com
   </picture>
 </div>
 
-> ⚙️ **This image appears after the workflow runs once.** Create `.github/workflows/profile-3d.yml` in your profile repo (`Shubhamgupta171/Shubhamgupta171`) with the snippet below, then trigger it manually once from the *Actions* tab. After the first run, the SVG will be committed to `profile-3d-contrib/` and render here automatically.
->
-> ```yaml
-> name: GitHub-Profile-3D-Contrib
-> on:
->   schedule: [{ cron: "0 18 * * *" }]
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     permissions: { contents: write }
->     steps:
->       - uses: actions/checkout@v4
->       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
->           USERNAME:     ${{ github.repository_owner }}
->       - run: |
->           git config user.name  "github-actions[bot]"
->           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
->           git add -A .
->           git commit -m "chore: update 3d contribution graph" || exit 0
->           git push
-> ```
-
 ---
 
 ## 🐍 Contribution Snake
@@ -199,32 +174,6 @@ email:       inboxshubhamgupta17@gmail.com
     <img src="https://raw.githubusercontent.com/shubhamgupta171/shubhamgupta171/output/github-snake.svg" alt="snake animation" width="95%" />
   </picture>
 </div>
-
-> ⚙️ **Setup:** add `.github/workflows/snake.yml` with the snippet below to your profile repo. First run commits the SVG to an `output` branch and the image starts rendering.
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 */12 * * *" }]
->   workflow_dispatch:
-> permissions: { contents: write }
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
