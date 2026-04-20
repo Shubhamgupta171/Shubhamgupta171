@@ -46,7 +46,7 @@
 <br/>
 
 <div align="center">
-  <sub>📡 <b>Sources:</b> High Scalability · Martin Fowler · AWS · Spotify Eng · GitHub Eng · Stack Overflow Eng · Cloudflare · Meta Eng · Stripe · Airbnb Eng · Netflix Tech</sub>
+  <sub>📡 <b>Sources:</b> High Scalability · Martin Fowler · AWS · Spotify · GitHub · Stack Overflow · Cloudflare · Meta · Stripe · Airbnb · <b>Towards Data Science</b> · <b>Better Programming</b> · <b>Level Up Coding</b> · Medium (<i>system-design · data-structures · backend · AI</i>)</sub>
   <br/>
   <a href="https://github.com/Shubhamgupta171/Shubhamgupta171/actions/workflows/blog-headlines.yml">
     <img src="https://img.shields.io/badge/🔄_Refresh_now-black?style=flat-square" alt="refresh" />

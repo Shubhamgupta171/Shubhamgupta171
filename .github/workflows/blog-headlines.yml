@@ -17,15 +17,15 @@ jobs:
       - name: Pull latest engineering-blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: 7
+          max_post_count: 8
           comment_tag_name: "BLOG-POST-LIST"
           tag_post_pre_newline: "true"
           template: "$newline> 🔹 **[$title]($url)**"
-          title_max_length: 120
+          title_max_length: 95
           commit_message: "chore: refresh latest tech headlines"
           committer_username: "Shubham Gupta"
           committer_email: "inboxshubhamgupta17@gmail.com"
           remove_duplicates: "true"
           retry_count: 3
           retry_wait_time: 2
-          feed_list: "http://feeds.feedburner.com/HighScalability,https://martinfowler.com/feed.atom,https://aws.amazon.com/blogs/aws/feed/,https://engineering.atspotify.com/feed/,https://github.blog/engineering/feed/,https://stackoverflow.blog/engineering/feed/,https://blog.cloudflare.com/rss/,https://engineering.fb.com/feed/,https://stripe.com/blog/feed.rss,https://medium.com/feed/airbnb-engineering,https://netflixtechblog.medium.com/feed"
+          feed_list: "http://feeds.feedburner.com/HighScalability,https://martinfowler.com/feed.atom,https://aws.amazon.com/blogs/aws/feed/,https://engineering.atspotify.com/feed/,https://github.blog/engineering/feed/,https://stackoverflow.blog/engineering/feed/,https://blog.cloudflare.com/rss/,https://engineering.fb.com/feed/,https://stripe.com/blog/feed.rss,https://medium.com/feed/airbnb-engineering,https://towardsdatascience.com/feed,https://betterprogramming.pub/feed,https://levelup.gitconnected.com/feed,https://medium.com/feed/tag/system-design,https://medium.com/feed/tag/data-structures,https://medium.com/feed/tag/backend-development,https://medium.com/feed/tag/artificial-intelligence"
