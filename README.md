@@ -24,6 +24,24 @@
 
 ---
 
+## 🖥️ `whoami`
+
+```bash
+shubham@dev:~$ cat about.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 👤  Shubham Gupta — Software Engineer · Backend & Full-Stack
+ 📍  Gurugram, India  🇮🇳
+ 🛠   Specialty:    Scalable APIs · Cloud-native systems · Clean code
+ ⚙️   Daily tools:  Node.js · FastAPI · TypeScript · AWS · Docker · Mongo
+ 🎯  Mission:      Turn vague requirements into battle-tested code
+ ⚡  Fuel:         ☕ chai · 🎧 lo-fi · 🌙 midnight commits
+ 📬  Email:        inboxshubhamgupta17@gmail.com
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+shubham@dev:~$ █
+```
+
+---
+
 ## 👨‍💻 About Me
 
 <img align="right" height="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer coding animation" />
@@ -49,57 +67,21 @@ A **Backend & Full-Stack Software Engineer** from **Gurugram 🇮🇳** who love
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tools I Wield
 
 <div align="center">
 
-**Languages**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs,graphql,typescript,javascript,python,cpp,go&perline=10" alt="backend stack" />
+</a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux,figma,postman&perline=10" alt="frontend & tools" />
+</a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,aws,gcp,docker,kubernetes,nginx,linux,git,github&perline=12" alt="infra & data" />
+</a>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-**Backend · APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Cloud · DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<sub>Hover any icon on <a href="https://skillicons.dev">skillicons.dev</a></sub>
 
 </div>
 
@@ -138,6 +120,58 @@ A **Backend & Full-Stack Software Engineer** from **Gurugram 🇮🇳** who love
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamgupta171&theme=tokyo-night&bg_color=1a1b27&hide_border=true&line=70a5fd&point=70a5fd&area=true&area_color=70a5fd" alt="activity graph" width="95%" />
 
 </div>
+
+---
+
+## 🧠 DSA Playground
+
+<div align="center">
+
+<a href="https://leetcode.com/shubham171">
+  <img src="https://leetcard.jacoblin.cool/shubham171?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode stats" />
+</a>
+
+<sub>💪 Consistency &gt; intensity — a little DSA every day.</sub>
+
+</div>
+
+---
+
+## 💭 Dev Wisdom of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote of the day" />
+
+<br/><br/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random dev joke" />
+
+<sub>✨ Refreshes on every visit — come back tomorrow for a new one!</sub>
+
+</div>
+
+---
+
+## 🗺️ How I Approach Problems
+
+```mermaid
+flowchart LR
+    A[🤔 Problem] --> B{Understand<br/>Deeply}
+    B --> C[🧩 Break Into<br/>Invariants]
+    C --> D[✍️ Design<br/>Before Code]
+    D --> E[🔨 Build Small<br/>Testable Pieces]
+    E --> F{Does it<br/>Solve It?}
+    F -->|❌ No| B
+    F -->|✅ Yes| G[🚀 Ship + Monitor]
+    G --> H[📊 Measure &<br/>Iterate]
+    H --> A
+
+    style A fill:#1f6feb,stroke:#58a6ff,color:#fff
+    style G fill:#2ea043,stroke:#56d364,color:#fff
+    style B fill:#7c3aed,stroke:#a855f7,color:#fff
+    style F fill:#d97757,stroke:#f97316,color:#fff
+```
 
 ---
 
@@ -247,6 +281,26 @@ A **Backend & Full-Stack Software Engineer** from **Gurugram 🇮🇳** who love
 
 ---
 
+## 📮 Sign My Guestbook
+
+<div align="center">
+
+<a href="https://github.com/Shubhamgupta171/Shubhamgupta171/issues/new?title=%F0%9F%91%8B+Visiting+your+profile!&body=Hey+Shubham!%0A%0AJust+dropped+by+to+say+hi.%0A%0A-+Where+I+found+you%3A+%0A-+What+caught+my+eye%3A+%0A-+Something+I%27m+working+on%3A+%0A%0A(Optional%3A+share+a+dev+tip%2C+fun+fact%2C+or+just+a+%F0%9F%91%8B)&labels=guestbook">
+  <img src="https://img.shields.io/badge/✍️_Leave_me_a_message-FF69B4?style=for-the-badge&labelColor=1a1b27" alt="guestbook" height="50" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Shubhamgupta171/Shubhamgupta171/issues?q=label%3Aguestbook">
+  <img src="https://img.shields.io/badge/📖_Read_other_visitors'_messages-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="read guestbook" height="40" />
+</a>
+
+<sub>💡 Opens a pre-filled GitHub issue — takes ~30 seconds. I reply to every one.</sub>
+
+</div>
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -282,5 +336,20 @@ A **Backend & Full-Stack Software Engineer** from **Gurugram 🇮🇳** who love
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
 
 <sub>⭐ <i>If you like my work, consider starring a repo or two — it truly helps!</i> ⭐</sub>
+
+<br/><br/>
+
+<details>
+  <summary>🤫 <b>Psst... you made it to the bottom. Click for a secret.</b></summary>
+  <br/>
+  <p align="center">
+    <i>"The best code is no code at all. The second best is code so clear it reads itself."</i><br/><br/>
+    🎁 <b>Reward for curious explorers:</b><br/>
+    <a href="https://shubhamgupta171.github.io/retro-arcade/">🕹️ Free pass to my arcade</a> · 
+    <a href="mailto:inboxshubhamgupta17@gmail.com?subject=Found%20the%20easter%20egg!">📧 Mention "easter egg" and I'll reply faster</a>
+    <br/><br/>
+    <code>console.log("Thanks for scrolling to the end. You're my kind of person. 💙");</code>
+  </p>
+</details>
 
 </div>
