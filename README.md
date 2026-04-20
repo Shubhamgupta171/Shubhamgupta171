@@ -26,22 +26,26 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name:        Shubham Gupta
-role:        Software Engineer · Backend & Full-Stack
-location:    Gurugram, India 🇮🇳
-focus:       Scalable APIs · Cloud-native systems · Clean architecture
-stack:       Node.js · FastAPI · TypeScript · React · AWS · MongoDB · PostgreSQL
-current:     Building production backends & sharpening system-design fundamentals
-interests:   Distributed systems · Developer tooling · DSA · Open Source
-email:       inboxshubhamgupta17@gmail.com
-```
+<img align="right" height="230" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="developer coding animation" />
 
-- 🔭 Currently engineering **production-grade backend services** with Node.js, FastAPI and AWS
-- 🧠 Deep-diving into **system design, microservices, and cloud architecture**
-- 💬 Ask me about **Backend Engineering · APIs · Databases · DSA**
-- 🎯 Open to **SDE / Backend Engineer roles at product companies**
-- 📫 Reach me at **inboxshubhamgupta17@gmail.com**
+> *"Good code is clear code — writing for humans first, machines second."*
+
+### 👋 Hey, I'm Shubham!
+
+A **Backend & Full-Stack Software Engineer** from **Gurugram 🇮🇳** who loves designing clean APIs and shipping reliable, scalable services. I believe great engineering is equal parts **curiosity**, **clarity**, and **craft**.
+
+- 🔭 Currently engineering **production-grade backend services** with `Node.js`, `FastAPI` and `AWS`
+- 🧠 Deep-diving into **system design · microservices · cloud architecture**
+- 💡 Daily toolkit → `TypeScript` · `Python` · `Docker` · `MongoDB` · `PostgreSQL` · `Redis`
+- 🤝 Love **pairing, code reviews, and mentoring peers**
+- 🎯 Open to **SDE / Backend Engineer** roles at product companies
+- 📫 Reach me → [**inboxshubhamgupta17@gmail.com**](mailto:inboxshubhamgupta17@gmail.com)
+
+<br clear="right"/>
+
+<div align="center">
+<sub>🎧 Coding to lo-fi beats &nbsp;·&nbsp; ☕ Powered by chai &nbsp;·&nbsp; 🌙 Debugging past midnight</sub>
+</div>
 
 ---
 
