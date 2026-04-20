@@ -33,7 +33,14 @@
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-> 🔹 *Loading fresh headlines from Dev.to, High Scalability, Martin Fowler, AWS, Cloudflare, GitHub Eng, Stack Overflow Eng & Spotify Eng …*
+
+> 🔹 **[AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more &lpar;April 20, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/)**
+> 🔹 **[Building the agentic cloud: everything we launched during Agents Week 2026](https://blog.cloudflare.com/agents-week-in-review/)**
+> 🔹 **[The AI engineering stack we built internally — on the platform we ship](https://blog.cloudflare.com/internal-ai-engineering-stack/)**
+> 🔹 **[Orchestrating AI Code Review at scale](https://blog.cloudflare.com/ai-code-review/)**
+> 🔹 **[Introducing the Agent Readiness score. Is your site agent-ready?](https://blog.cloudflare.com/agent-readiness/)**
+> 🔹 **[Shared Dictionaries: compression that keeps up with the agentic web](https://blog.cloudflare.com/shared-dictionaries/)**
+> 🔹 **[Redirects for AI Training enforces canonical content](https://blog.cloudflare.com/ai-redirects/)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
