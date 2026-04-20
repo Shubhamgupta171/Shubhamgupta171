@@ -24,6 +24,19 @@
 
 ---
 
+## 📰 Today's Headlines — Backend, Cloud & System Design
+
+<div align="center"><i>Fresh picks from the best engineering blogs · auto-refreshed every 6 hours ⏱</i></div>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- 🤖 Auto-populated by .github/workflows/blog-headlines.yml — headlines appear here after the first run. -->
+- 🔹 *Loading latest headlines from Dev.to, High Scalability, Martin Fowler, AWS, InfoQ …*
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center"><sub>📡 Sources: <b>Dev.to</b> (backend · systemdesign · webdev · devops) · <b>High Scalability</b> · <b>Martin Fowler</b> · <b>AWS Blog</b> · <b>InfoQ</b></sub></div>
+
+---
+
 ## 🖥️ `whoami`
 
 ```bash

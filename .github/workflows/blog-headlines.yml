@@ -1,0 +1,38 @@
+name: Latest Tech & Backend Headlines
+
+on:
+  schedule:
+    - cron: "15 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 8
+          comment_tag_name: "BLOG-POST-LIST"
+          template: "- 🔹 [**$title**]($url)"
+          commit_message: "chore: refresh latest tech headlines"
+          commit_user_name: "Shubham Gupta"
+          commit_user_email: "inboxshubhamgupta17@gmail.com"
+          commit_author_name: "Shubham Gupta"
+          commit_author_email: "inboxshubhamgupta17@gmail.com"
+          feed_list: >-
+            https://dev.to/feed/tag/backend,
+            https://dev.to/feed/tag/systemdesign,
+            https://dev.to/feed/tag/webdev,
+            https://dev.to/feed/tag/devops,
+            https://dev.to/feed/tag/node,
+            https://dev.to/feed/tag/microservices,
+            http://feeds.feedburner.com/HighScalability,
+            https://martinfowler.com/feed.atom,
+            https://aws.amazon.com/blogs/aws/feed/,
+            https://feed.infoq.com/development/
