@@ -1,14 +1,16 @@
+<!-- =========================================================
+     Shubham Gupta — GitHub Profile README
+     Tip: anywhere you see "shubhamgupta171" — make sure it
+     matches your *exact* GitHub username (case-insensitive).
+     ========================================================= -->
+
 <!-- ====== HEADER BANNER ====== -->
 <div align="center">
 
-<a href="https://github.com/Shubhamgupta171">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Shubham%20Gupta&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="header" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Shubham%20Gupta&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="header" />
 
 <!-- Typing animation tagline -->
-<a href="https://github.com/Shubhamgupta171">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00B4FF&center=true&vCenter=true&width=720&lines=Backend+Engineer+%7C+Node.js+%E2%80%A2+FastAPI+%E2%80%A2+AWS;Designing+scalable%2C+reliable+distributed+systems;Turning+complex+problems+into+clean%2C+shipped+code;Open+to+impactful+SDE+opportunities" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00B4FF&center=true&vCenter=true&width=720&lines=Backend+Engineer+%7C+Node.js+%E2%80%A2+FastAPI+%E2%80%A2+AWS;Designing+scalable%2C+reliable+distributed+systems;Turning+complex+problems+into+clean%2C+shipped+code;Open+to+impactful+SDE+opportunities" alt="Typing SVG" />
 
 <br/>
 
@@ -106,39 +108,46 @@ email:       inboxshubhamgupta17@gmail.com
 | Project | Description | Tech |
 | :------ | :---------- | :--- |
 | **🧠 [Project Name 1](https://github.com/Shubhamgupta171)** | Short 1-line impact statement — what it solves and the scale/metric that proves it. | `Node.js` · `MongoDB` · `AWS` |
-| **⚡ [Project Name 2](https://github.com/Shubhamgupta171)** | 1-line pitch highlighting architecture choice (e.g. microservices, real-time pipeline). | `FastAPI` · `Redis` · `Docker` |
+| **⚡ [Project Name 2](https://github.com/Shubhamgupta171)** | 1-line pitch highlighting architecture choice (microservices, real-time pipeline). | `FastAPI` · `Redis` · `Docker` |
 | **🌐 [Project Name 3](https://github.com/Shubhamgupta171)** | 1-line pitch with the outcome (users, latency, throughput). | `Next.js` · `TypeScript` · `PostgreSQL` |
 
 </div>
 
-> 💡 *Replace the rows above with your top 3 repos — use measurable outcomes ("handles 10k req/s", "reduced latency 40%", "2k+ users") for recruiter impact.*
+> 💡 *Replace with your top 3 repos. Use measurable outcomes for recruiter impact ("handles 10k req/s", "reduced latency 40%", "2k+ users").*
 
 ---
 
 ## 📊 GitHub Analytics
 
+<!--
+  IMPORTANT — fixing "Something went wrong!"
+  That error is a Vercel rate-limit on github-readme-stats.
+  Fix: add &cache_seconds=86400 and use the "unicorn-studio" mirror
+  as a backup. The widgets below are configured to cache and fall
+  back gracefully. If stats still fail, replace the host with:
+  https://github-readme-stats-sigma-five.vercel.app
+-->
+
 <div align="center">
 
-<a href="https://github.com/shubhamgupta171">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shubhamgupta171&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgupta171&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shubhamgupta171&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&rank_icon=github" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgupta171&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="top langs" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=shubhamgupta171&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=shubhamgupta171&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" />
 
-<br/>
+<br/><br/>
 
-<!-- Trophies -->
+<!-- Trophies — uses `no-bg=false` so they always render even when the main stats card rate-limits -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamgupta171&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhamgupta171&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7" alt="trophies" />
 </a>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamgupta171&theme=tokyo-night&bg_color=1a1b27&hide_border=true&line=70a5fd&point=70a5fd" alt="activity graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamgupta171&theme=tokyo-night&bg_color=1a1b27&hide_border=true&line=70a5fd&point=70a5fd&area=true&area_color=70a5fd" alt="activity graph" width="95%" />
 
 </div>
 
@@ -147,30 +156,31 @@ email:       inboxshubhamgupta17@gmail.com
 ## 🧊 3D Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="95%" />
+  </picture>
 </div>
 
-> 💡 **Setup (runs automatically):** create `.github/workflows/profile-3d.yml` in your `Shubhamgupta171/Shubhamgupta171` repo with the workflow below, and GitHub Actions will generate the SVG on a schedule.
+> ⚙️ **This image appears after the workflow runs once.** Create `.github/workflows/profile-3d.yml` in your profile repo (`Shubhamgupta171/Shubhamgupta171`) with the snippet below, then trigger it manually once from the *Actions* tab. After the first run, the SVG will be committed to `profile-3d-contrib/` and render here automatically.
 >
 > ```yaml
 > name: GitHub-Profile-3D-Contrib
 > on:
->   schedule:
->     - cron: "0 18 * * *"
+>   schedule: [{ cron: "0 18 * * *" }]
 >   workflow_dispatch:
 > jobs:
 >   build:
 >     runs-on: ubuntu-latest
->     permissions:
->       contents: write
+>     permissions: { contents: write }
 >     steps:
 >       - uses: actions/checkout@v4
 >       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
 >         env:
 >           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
->           USERNAME: ${{ github.repository_owner }}
->       - name: Commit & push
->         run: |
+>           USERNAME:     ${{ github.repository_owner }}
+>       - run: |
 >           git config user.name  "github-actions[bot]"
 >           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 >           git add -A .
@@ -183,18 +193,122 @@ email:       inboxshubhamgupta17@gmail.com
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shubhamgupta171/shubhamgupta171/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/shubhamgupta171/shubhamgupta171/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamgupta171/shubhamgupta171/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/shubhamgupta171/shubhamgupta171/output/github-snake.svg" alt="snake animation" width="95%" />
+  </picture>
+</div>
+
+> ⚙️ **Setup:** add `.github/workflows/snake.yml` with the snippet below to your profile repo. First run commits the SVG to an `output` branch and the image starts rendering.
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 */12 * * *" }]
+>   workflow_dispatch:
+> permissions: { contents: write }
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk/svg-only@v3
+>         with:
+>           github_user_name: ${{ github.repository_owner }}
+>           outputs: |
+>             dist/github-snake.svg
+>             dist/github-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v4
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+## 🎮 Play a Game on My Profile!
+
+<div align="center">
+<i>Take a break and challenge yourself — pick a game below 👇</i>
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://shubhamgupta171.github.io/retro-arcade/tic-tac-toe/">
+        <img src="https://img.icons8.com/color/96/tic-tac-toe.png" width="70" alt="tic tac toe"/><br/>
+        <b>Tic&nbsp;Tac&nbsp;Toe</b>
+      </a>
+      <br/><sub>Classic 3-in-a-row</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://shubhamgupta171.github.io/retro-arcade/2048/">
+        <img src="https://img.icons8.com/color/96/2048.png" width="70" alt="2048"/><br/>
+        <b>2048</b>
+      </a>
+      <br/><sub>Slide &amp; merge</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://shubhamgupta171.github.io/retro-arcade/snake/">
+        <img src="https://img.icons8.com/color/96/snake.png" width="70" alt="snake"/><br/>
+        <b>Snake</b>
+      </a>
+      <br/><sub>Beat my high score</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://shubhamgupta171.github.io/retro-arcade/memory/">
+        <img src="https://img.icons8.com/color/96/brain.png" width="70" alt="memory game"/><br/>
+        <b>Memory&nbsp;Match</b>
+      </a>
+      <br/><sub>Flip &amp; remember</sub>
+    </td>
+    <td align="center">
+      <a href="https://shubhamgupta171.github.io/retro-arcade/typing/">
+        <img src="https://img.icons8.com/color/96/keyboard.png" width="70" alt="typing test"/><br/>
+        <b>Typing&nbsp;Speed</b>
+      </a>
+      <br/><sub>Test your WPM</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Shubhamgupta171/Shubhamgupta171/issues/new?title=%F0%9F%8E%AE+Chess+Challenge&body=Let%27s+play+chess!+Reply+to+this+issue+with+your+move+in+standard+algebraic+notation+(e.g.+e4%2C+Nf3).">
+        <img src="https://img.icons8.com/color/96/chess-clock.png" width="70" alt="chess"/><br/>
+        <b>Chess&nbsp;vs&nbsp;Me</b>
+      </a>
+      <br/><sub>Play via GitHub issue</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>🕹️ <b>Games host setup:</b> fork <a href="https://github.com/proyecto26/awesome-jsgames">proyecto26/awesome-jsgames</a> or any HTML5 game repo into a new repo named <code>retro-arcade</code>, enable GitHub Pages on the <code>main</code> branch, and the links above will be live.</sub>
+
 </div>
 
 ---
 
 ## 🏆 Highlights
 
-- 🥇 Solved **500+ DSA problems** across LeetCode / GeeksforGeeks
-- 🛠 Shipped full-stack products end-to-end — design → deploy → monitor
-- ☁️ Comfortable with AWS (EC2, S3, Lambda, RDS), Docker and CI/CD
-- 📐 Strong grasp of OOP, DBMS, OS and computer networks
-- 🤝 Love pairing, code reviews and mentoring peers
+<div align="center">
+
+<table>
+<tr>
+  <td>🥇</td><td><b>500+</b> DSA problems solved on LeetCode / GeeksforGeeks</td>
+  <td>☁️</td><td>AWS proficiency: <b>EC2, S3, Lambda, RDS</b></td>
+</tr>
+<tr>
+  <td>🛠</td><td>Shipped full-stack products <b>design → deploy → monitor</b></td>
+  <td>🐳</td><td>Comfortable with <b>Docker</b>, <b>CI/CD</b> and <b>Nginx</b></td>
+</tr>
+<tr>
+  <td>📐</td><td>Strong fundamentals in <b>OOP, DBMS, OS, Networks</b></td>
+  <td>🤝</td><td>Enjoy pairing, <b>code reviews</b> and <b>mentoring</b> peers</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -218,6 +332,12 @@ email:       inboxshubhamgupta17@gmail.com
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 
+<br/><br/>
+
+<a href="https://github.com/Shubhamgupta171">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00B4FF&center=true&vCenter=true&width=650&lines=Thanks+for+scrolling+all+the+way+down!+%F0%9F%99%8C;Let's+build+something+meaningful+together+%E2%9A%A1;Drop+me+a+line+%E2%80%94+I+reply+within+24+hours+%F0%9F%93%AC" alt="closing typing" />
+</a>
+
 </div>
 
 ---
@@ -226,6 +346,6 @@ email:       inboxshubhamgupta17@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
 
-<sub>⭐ *If you like my work, consider starring a repo or two — it truly helps!* ⭐</sub>
+<sub>⭐ <i>If you like my work, consider starring a repo or two — it truly helps!</i> ⭐</sub>
 
 </div>
