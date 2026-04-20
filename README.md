@@ -35,7 +35,7 @@
 
 &lt;p&gt;The original B...</sub><!-- BLOG-POST-LIST:END -->
 
-<div align="center"><sub>📡 Sources: <b>Dev.to</b> (backend · systemdesign · devops · microservices · architecture · api) · <b>High Scalability</b> · <b>Martin Fowler</b> · <b>AWS Blog</b> · <b>Netflix</b> · <b>Spotify</b> · <b>GitHub Eng</b></sub></div>
+<div align="center"><sub>📡 Sources: <b>Dev.to</b> (backend · systemdesign · devops · microservices · architecture · api) · <b>High Scalability</b> · <b>Martin Fowler</b> · <b>AWS</b> · <b>Spotify Eng</b> · <b>GitHub Eng</b> · <b>Cloudflare</b></sub></div>
 
 ---
 

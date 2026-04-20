@@ -29,4 +29,4 @@ jobs:
           retry_count: 3
           retry_wait_time: 2
           filter_comments: "dev.to/comment"
-          feed_list: "https://dev.to/feed/tag/backend,https://dev.to/feed/tag/systemdesign,https://dev.to/feed/tag/devops,https://dev.to/feed/tag/microservices,https://dev.to/feed/tag/architecture,https://dev.to/feed/tag/api,http://feeds.feedburner.com/HighScalability,https://martinfowler.com/feed.atom,https://aws.amazon.com/blogs/aws/feed/,https://engineering.atspotify.com/feed/,https://netflixtechblog.com/feed,https://github.blog/engineering/feed/"
+          feed_list: "https://dev.to/feed/tag/backend,https://dev.to/feed/tag/systemdesign,https://dev.to/feed/tag/devops,https://dev.to/feed/tag/microservices,https://dev.to/feed/tag/architecture,https://dev.to/feed/tag/api,http://feeds.feedburner.com/HighScalability,https://martinfowler.com/feed.atom,https://aws.amazon.com/blogs/aws/feed/,https://engineering.atspotify.com/feed/,https://github.blog/engineering/feed/,https://blog.cloudflare.com/rss/"
