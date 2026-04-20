@@ -38,9 +38,9 @@
 > 🔹 **[Building the agentic cloud: everything we launched during Agents Week 2026](https://blog.cloudflare.com/agents-week-in-review/)**
 > 🔹 **[The AI engineering stack we built internally — on the platform we ship](https://blog.cloudflare.com/internal-ai-engineering-stack/)**
 > 🔹 **[Orchestrating AI Code Review at scale](https://blog.cloudflare.com/ai-code-review/)**
+> 🔹 **[The Human Infrastructure: How Netflix Built the Operations Layer Behind Live at Scale](https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597?source=rss-c3aeaf49d8a4------2)**
 > 🔹 **[Introducing the Agent Readiness score. Is your site agent-ready?](https://blog.cloudflare.com/agent-readiness/)**
 > 🔹 **[Shared Dictionaries: compression that keeps up with the agentic web](https://blog.cloudflare.com/shared-dictionaries/)**
-> 🔹 **[Redirects for AI Training enforces canonical content](https://blog.cloudflare.com/ai-redirects/)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
