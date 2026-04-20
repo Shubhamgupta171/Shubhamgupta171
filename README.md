@@ -39,7 +39,7 @@
 <br/>
 
 <div align="center">
-  <sub>📡 <b>Sources:</b> Dev.to (systemdesign · microservices) · High Scalability · Martin Fowler · AWS · Spotify Eng · GitHub Eng · Stack Overflow Eng · Cloudflare</sub>
+  <sub>📡 <b>Sources:</b> High Scalability · Martin Fowler · AWS · Spotify Eng · GitHub Eng · Stack Overflow Eng · Cloudflare · Meta Eng · Stripe · Uber Eng</sub>
   <br/>
   <a href="https://github.com/Shubhamgupta171/Shubhamgupta171/actions/workflows/blog-headlines.yml">
     <img src="https://img.shields.io/badge/🔄_Refresh_now-black?style=flat-square" alt="refresh" />
