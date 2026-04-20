@@ -171,52 +171,50 @@ email:       inboxshubhamgupta17@gmail.com
   <tr>
     <td align="center" width="33%">
       <a href="https://shubhamgupta171.github.io/retro-arcade/tic-tac-toe/">
-        <img src="https://img.icons8.com/color/96/tic-tac-toe.png" width="70" alt="tic tac toe"/><br/>
-        <b>Tic&nbsp;Tac&nbsp;Toe</b>
+        <div style="font-size:56px">❌⭕</div>
+        <h3>Tic&nbsp;Tac&nbsp;Toe</h3>
       </a>
-      <br/><sub>Classic 3-in-a-row</sub>
+      <sub>Classic 3-in-a-row</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://shubhamgupta171.github.io/retro-arcade/2048/">
-        <img src="https://img.icons8.com/color/96/2048.png" width="70" alt="2048"/><br/>
-        <b>2048</b>
+        <div style="font-size:56px">🔢</div>
+        <h3>2048</h3>
       </a>
-      <br/><sub>Slide &amp; merge</sub>
+      <sub>Slide &amp; merge</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://shubhamgupta171.github.io/retro-arcade/snake/">
-        <img src="https://img.icons8.com/color/96/snake.png" width="70" alt="snake"/><br/>
-        <b>Snake</b>
+        <div style="font-size:56px">🐍</div>
+        <h3>Snake</h3>
       </a>
-      <br/><sub>Beat my high score</sub>
+      <sub>Beat my high score</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://shubhamgupta171.github.io/retro-arcade/memory/">
-        <img src="https://img.icons8.com/color/96/brain.png" width="70" alt="memory game"/><br/>
-        <b>Memory&nbsp;Match</b>
+        <div style="font-size:56px">🧠</div>
+        <h3>Memory&nbsp;Match</h3>
       </a>
-      <br/><sub>Flip &amp; remember</sub>
+      <sub>Flip &amp; remember</sub>
     </td>
     <td align="center">
       <a href="https://shubhamgupta171.github.io/retro-arcade/typing/">
-        <img src="https://img.icons8.com/color/96/keyboard.png" width="70" alt="typing test"/><br/>
-        <b>Typing&nbsp;Speed</b>
+        <div style="font-size:56px">⌨️</div>
+        <h3>Typing&nbsp;Speed</h3>
       </a>
-      <br/><sub>Test your WPM</sub>
+      <sub>Test your WPM</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Shubhamgupta171/Shubhamgupta171/issues/new?title=%F0%9F%8E%AE+Chess+Challenge&body=Let%27s+play+chess!+Reply+to+this+issue+with+your+move+in+standard+algebraic+notation+(e.g.+e4%2C+Nf3).">
-        <img src="https://img.icons8.com/color/96/chess-clock.png" width="70" alt="chess"/><br/>
-        <b>Chess&nbsp;vs&nbsp;Me</b>
+        <div style="font-size:56px">♟️</div>
+        <h3>Chess&nbsp;vs&nbsp;Me</h3>
       </a>
-      <br/><sub>Play via GitHub issue</sub>
+      <sub>Play via GitHub issue</sub>
     </td>
   </tr>
 </table>
-
-<sub>🕹️ <b>Games host setup:</b> fork <a href="https://github.com/proyecto26/awesome-jsgames">proyecto26/awesome-jsgames</a> or any HTML5 game repo into a new repo named <code>retro-arcade</code>, enable GitHub Pages on the <code>main</code> branch, and the links above will be live.</sub>
 
 </div>
 
