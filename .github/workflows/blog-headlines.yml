@@ -17,16 +17,14 @@ jobs:
       - name: Pull latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: 8
+          max_post_count: 7
           comment_tag_name: "BLOG-POST-LIST"
-          template: "- 🔹 [**$title**]($url) <sub>— $description</sub>"
-          description_max_length: 90
-          title_max_length: 100
+          template: "- 🔹 [**$title**]($url)"
+          title_max_length: 110
           commit_message: "chore: refresh latest tech headlines"
           committer_username: "Shubham Gupta"
           committer_email: "inboxshubhamgupta17@gmail.com"
           remove_duplicates: "true"
           retry_count: 3
           retry_wait_time: 2
-          filter_comments: "dev.to/comment"
-          feed_list: "https://dev.to/feed/tag/backend,https://dev.to/feed/tag/systemdesign,https://dev.to/feed/tag/devops,https://dev.to/feed/tag/microservices,https://dev.to/feed/tag/architecture,https://dev.to/feed/tag/api,http://feeds.feedburner.com/HighScalability,https://martinfowler.com/feed.atom,https://aws.amazon.com/blogs/aws/feed/,https://engineering.atspotify.com/feed/,https://github.blog/engineering/feed/,https://blog.cloudflare.com/rss/"
+          feed_list: "https://dev.to/feed/tag/systemdesign,https://dev.to/feed/tag/microservices,https://dev.to/feed/tag/backend,https://dev.to/feed/tag/devops,http://feeds.feedburner.com/HighScalability,https://martinfowler.com/feed.atom,https://aws.amazon.com/blogs/aws/feed/,https://engineering.atspotify.com/feed/,https://github.blog/engineering/feed/,https://blog.cloudflare.com/rss/"
