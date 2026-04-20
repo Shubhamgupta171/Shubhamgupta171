@@ -34,13 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more &lpar;April 20, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/)**
-> 🔹 **[Building the agentic cloud: everything we launched during Agents Week 2026](https://blog.cloudflare.com/agents-week-in-review/)**
-> 🔹 **[The AI engineering stack we built internally — on the platform we ship](https://blog.cloudflare.com/internal-ai-engineering-stack/)**
-> 🔹 **[Orchestrating AI Code Review at scale](https://blog.cloudflare.com/ai-code-review/)**
-> 🔹 **[The Human Infrastructure: How Netflix Built the Operations Layer Behind Live at Scale](https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597?source=rss-c3aeaf49d8a4------2)**
-> 🔹 **[Introducing the Agent Readiness score. Is your site agent-ready?](https://blog.cloudflare.com/agent-readiness/)**
-> 🔹 **[Shared Dictionaries: compression that keeps up with the agentic web](https://blog.cloudflare.com/shared-dictionaries/)**
+> 🔹 **[When AGI Occurs, Here’s What AIs Think Will Happen to Humanity](https://medium.com/illumination/when-agi-occurs-heres-what-ais-think-will-happen-to-humanity-af9f32c9825a?source=rss------artificial_intelligence-5)**
+> 🔹 **[MCP for Oracle EBS Explained: Two Ways to Connect AI to Your System](https://miaurman.medium.com/mcp-for-oracle-ebs-explained-two-ways-to-connect-ai-to-your-system-b8ad4874b138?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 Ways to Use AI at Work Without Your Boss Knowing &lpar;That Are Completely Ethical&rpar;](https://medium.com/@theaisimplifier/7-ways-to-use-ai-at-work-without-your-boss-knowing-that-are-completely-ethical-6e74d3e4d89f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The debate on AI feasibility, adoption rates, and baseline capabilities has effectively conclud...](https://medium.com/@dsingh.analyst/the-debate-on-ai-feasibility-adoption-rates-and-baseline-capabilities-has-effectively-concluded-7f7764810282?source=rss------artificial_intelligence-5)**
+> 🔹 **[I was introduced to this AI by ChatGPT — and it said it’s the best.](https://medium.com/@patrickchinedum700/i-was-introduced-to-this-ai-by-chatgpt-and-it-said-its-the-best-70b3e2a80e75?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Isn’t Taking Your Job in 2026 &lpar;And How to Be the One Who Stays&rpar;](https://medium.com/illumination/why-ai-isnt-taking-your-job-in-2026-and-how-to-be-the-one-who-stays-eb7602266d88?source=rss------artificial_intelligence-5)**
+> 🔹 **[023 The Book Without Words 5--3](https://medium.com/@chenyongfong/023-the-book-without-words-5-3-f34907848322?source=rss------artificial_intelligence-5)**
+> 🔹 **[Not Everything Worth Having Pays](https://plaintes-mineures.medium.com/not-everything-worth-having-pays-8c33fabd6c24?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
