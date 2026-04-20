@@ -28,4 +28,4 @@ jobs:
           remove_duplicates: "true"
           retry_count: 3
           retry_wait_time: 2
-          feed_list: "http://feeds.feedburner.com/HighScalability,https://martinfowler.com/feed.atom,https://aws.amazon.com/blogs/aws/feed/,https://engineering.atspotify.com/feed/,https://github.blog/engineering/feed/,https://stackoverflow.blog/engineering/feed/,https://blog.cloudflare.com/rss/,https://engineering.fb.com/feed/,https://stripe.com/blog/feed.rss,https://www.uber.com/blog/rss/"
+          feed_list: "http://feeds.feedburner.com/HighScalability,https://martinfowler.com/feed.atom,https://aws.amazon.com/blogs/aws/feed/,https://engineering.atspotify.com/feed/,https://github.blog/engineering/feed/,https://stackoverflow.blog/engineering/feed/,https://blog.cloudflare.com/rss/,https://engineering.fb.com/feed/,https://stripe.com/blog/feed.rss,https://medium.com/feed/airbnb-engineering,https://netflixtechblog.medium.com/feed"
