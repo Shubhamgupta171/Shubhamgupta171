@@ -101,22 +101,6 @@ email:       inboxshubhamgupta17@gmail.com
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-| :------ | :---------- | :--- |
-| **🧠 [Project Name 1](https://github.com/Shubhamgupta171)** | Short 1-line impact statement — what it solves and the scale/metric that proves it. | `Node.js` · `MongoDB` · `AWS` |
-| **⚡ [Project Name 2](https://github.com/Shubhamgupta171)** | 1-line pitch highlighting architecture choice (microservices, real-time pipeline). | `FastAPI` · `Redis` · `Docker` |
-| **🌐 [Project Name 3](https://github.com/Shubhamgupta171)** | 1-line pitch with the outcome (users, latency, throughput). | `Next.js` · `TypeScript` · `PostgreSQL` |
-
-</div>
-
-> 💡 *Replace with your top 3 repos. Use measurable outcomes for recruiter impact ("handles 10k req/s", "reduced latency 40%", "2k+ users").*
-
----
-
 ## 📊 GitHub Analytics
 
 <!--
