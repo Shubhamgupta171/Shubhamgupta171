@@ -25,5 +25,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          committer: Shubham Gupta <inboxshubhamgupta17@gmail.com>
+          author: Shubham Gupta <inboxshubhamgupta17@gmail.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
