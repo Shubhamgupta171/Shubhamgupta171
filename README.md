@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why human advantage in AI will come from framing, not speed](https://medium.com/@mattwood.uk_89443/why-human-advantage-in-ai-will-come-from-framing-not-speed-c84a04ffb7b7?source=rss------artificial_intelligence-5)**
-> 🔹 **[A General Theory of Human Advantage with AI](https://medium.com/@mattwood.uk_89443/a-general-theory-of-human-advantage-with-ai-1716d31f0fc7?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Technology Is Redefining Productivity in 2026](https://medium.com/@aimoneyproofficial/how-technology-is-redefining-productivity-in-2026-f520e3edbc10?source=rss------artificial_intelligence-5)**
-> 🔹 **[Laravel MCP Explained → How It Works in 2026](https://medium.com/@laracopilot/laravel-mcp-explained-how-it-works-in-2026-adee56fa6840?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mastering @RequestParam in Spring Boot](https://publication.masteringbackend.com/mastering-requestparam-in-spring-boot-dafa08119e55?source=rss------backend_development-5)**
-> 🔹 **[AI is a trick that will eventually exploit you hard](https://medium.com/@rohitalntra/ai-is-a-trick-that-will-eventually-exploit-you-hard-6918e7871032?source=rss------artificial_intelligence-5)**
-> 🔹 **[A guide on how to write bad code with confidence](https://medium.com/@volvogroup/a-guide-on-how-to-write-bad-code-with-confidence-24d0f4335449?source=rss------backend_development-5)**
-> 🔹 **[The AI Pandemic](https://medium.com/@alexanderpinate/the-ai-pandemic-c556a87cedac?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Enterprise Case for AI Bill of Materials: Understanding AI Ownership, Risk, and Control](https://medium.com/probabl/the-enterprise-case-for-ai-bill-of-materials-understanding-ai-ownership-risk-and-control-a53f6ec66287?source=rss------artificial_intelligence-5)**
+> 🔹 **[SEO Is Changing Fast: 5 AEO Hacks to Win AI Search in 2026](https://medium.com/@cayley_72411/seo-is-changing-fast-5-aeo-hacks-to-win-ai-search-in-2026-f5b396c167b9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Agent That Actually Learns From You: Inside Hermes by Nous Research](https://pub.towardsai.net/the-ai-agent-that-actually-learns-from-you-inside-hermes-by-nous-research-fd074717a8e7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Intelligence as an Asset Class](https://medium.com/@michelle.dsouza02/intelligence-as-an-asset-class-749cde022e8e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Assisted Intuition](https://medium.com/@eholan/assisted-intuition-f2b3e942c369?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Keeps Forgetting Your Rules? The 4-Part System That Fix It All](https://medium.com/@hecate_he/claude-keeps-forgetting-your-rules-the-4-part-system-that-fix-it-all-f15eb16e3e85?source=rss------artificial_intelligence-5)**
+> 🔹 **[The designers AI is replacing aren&#39;t the ones you think](https://nurxmedov.medium.com/the-designers-ai-is-replacing-arent-the-ones-you-think-e6f1b8d56ff1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gartner Says 40% of Agentic AI Projects Will Fail by 2027. Here’s the One Thing They’re All Mis...](https://medium.com/@halifax5566/gartner-says-40-of-agentic-ai-projects-will-fail-by-2027-heres-the-one-thing-they-re-all-missing-5b1cc0488b0e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
