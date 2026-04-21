@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[5 Business Processes You Should Automate First Using AI](https://medium.com/@sneha.patil2703/5-business-processes-you-should-automate-first-using-ai-57c38f9e60c9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Top 7 Tools Used by Every AI Development Company in 2026](https://medium.com/@maryam180697/top-7-tools-used-by-every-ai-development-company-in-2026-89cfb20db747?source=rss------artificial_intelligence-5)**
-> 🔹 **[How NLP Models Represent Meaning &lpar;Embeddings Explained Simply&rpar;](https://medium.com/@kishorekumarp161002/how-nlp-models-represent-meaning-embeddings-explained-simply-9e405edd8e6e?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Didn’t Turn to AI Because We Were Lonely. We’re Lonely Because We Turned to AI.](https://medium.com/@surabhi7pradhan/we-didnt-turn-to-ai-because-we-were-lonely-we-re-lonely-because-we-turned-to-ai-aabe887d455f?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built 4 AI Projects This Year.](https://medium.com/@balasubramanim/i-built-4-ai-projects-this-year-acf7a7a57c30?source=rss------artificial_intelligence-5)**
-> 🔹 **[The $50 Billion IDE: Why Cursor’s $2B Mega-Raise Just Broke the AI Coding Matrix](https://medium.com/@ruler547/the-50-billion-ide-why-cursors-2b-mega-raise-just-broke-the-ai-coding-matrix-3a6475c5b9b8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why I Filed 40+ Patents and What I’m Building Through OMnithion](https://medium.com/@chasefororegon/why-i-filed-40-patents-and-what-im-building-through-omnithion-d8ffb039a4fb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Creative AI Is Overrated. Reliable AI Will Win the Next Wave.](https://medium.com/@anil.futuristic/creative-ai-is-overrated-reliable-ai-will-win-the-next-wave-89790803b20f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why human advantage in AI will come from framing, not speed](https://medium.com/@mattwood.uk_89443/why-human-advantage-in-ai-will-come-from-framing-not-speed-c84a04ffb7b7?source=rss------artificial_intelligence-5)**
+> 🔹 **[A General Theory of Human Advantage with AI](https://medium.com/@mattwood.uk_89443/a-general-theory-of-human-advantage-with-ai-1716d31f0fc7?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Technology Is Redefining Productivity in 2026](https://medium.com/@aimoneyproofficial/how-technology-is-redefining-productivity-in-2026-f520e3edbc10?source=rss------artificial_intelligence-5)**
+> 🔹 **[Laravel MCP Explained → How It Works in 2026](https://medium.com/@laracopilot/laravel-mcp-explained-how-it-works-in-2026-adee56fa6840?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mastering @RequestParam in Spring Boot](https://publication.masteringbackend.com/mastering-requestparam-in-spring-boot-dafa08119e55?source=rss------backend_development-5)**
+> 🔹 **[AI is a trick that will eventually exploit you hard](https://medium.com/@rohitalntra/ai-is-a-trick-that-will-eventually-exploit-you-hard-6918e7871032?source=rss------artificial_intelligence-5)**
+> 🔹 **[A guide on how to write bad code with confidence](https://medium.com/@volvogroup/a-guide-on-how-to-write-bad-code-with-confidence-24d0f4335449?source=rss------backend_development-5)**
+> 🔹 **[The AI Pandemic](https://medium.com/@alexanderpinate/the-ai-pandemic-c556a87cedac?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
