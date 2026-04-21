@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Enterprise Case for AI Bill of Materials: Understanding AI Ownership, Risk, and Control](https://medium.com/probabl/the-enterprise-case-for-ai-bill-of-materials-understanding-ai-ownership-risk-and-control-a53f6ec66287?source=rss------artificial_intelligence-5)**
-> 🔹 **[SEO Is Changing Fast: 5 AEO Hacks to Win AI Search in 2026](https://medium.com/@cayley_72411/seo-is-changing-fast-5-aeo-hacks-to-win-ai-search-in-2026-f5b396c167b9?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Agent That Actually Learns From You: Inside Hermes by Nous Research](https://pub.towardsai.net/the-ai-agent-that-actually-learns-from-you-inside-hermes-by-nous-research-fd074717a8e7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Intelligence as an Asset Class](https://medium.com/@michelle.dsouza02/intelligence-as-an-asset-class-749cde022e8e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Assisted Intuition](https://medium.com/@eholan/assisted-intuition-f2b3e942c369?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Keeps Forgetting Your Rules? The 4-Part System That Fix It All](https://medium.com/@hecate_he/claude-keeps-forgetting-your-rules-the-4-part-system-that-fix-it-all-f15eb16e3e85?source=rss------artificial_intelligence-5)**
-> 🔹 **[The designers AI is replacing aren&#39;t the ones you think](https://nurxmedov.medium.com/the-designers-ai-is-replacing-arent-the-ones-you-think-e6f1b8d56ff1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gartner Says 40% of Agentic AI Projects Will Fail by 2027. Here’s the One Thing They’re All Mis...](https://medium.com/@halifax5566/gartner-says-40-of-agentic-ai-projects-will-fail-by-2027-heres-the-one-thing-they-re-all-missing-5b1cc0488b0e?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPT-4 Has 1.8 Trillion Parameters. It Uses 2% of Them Per Token.](https://medium.com/@swarnenduiitb2020/gpt-4-has-1-8-trillion-parameters-it-uses-2-of-them-per-token-8ef247b91fcf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is AI Making University Students Less Independent Thinkers?](https://medium.com/@yyan0550/is-ai-making-university-students-less-independent-thinkers-bd38389c3d7e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Quantum Moment Has Arrived: Why 2026 Is the Year Computing Changes Forever](https://medium.com/@luciano.lamberti00/the-quantum-moment-has-arrived-why-2026-is-the-year-computing-changes-forever-7da1ea317c55?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why 2026 Is the Year Tech Finally Feels Human](https://medium.com/@ayeshha2398/why-2026-is-the-year-tech-finally-feels-human-25edbea635bb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Cat That Ate 70 Billion Parameters](https://medium.com/monk-e-wrenched/the-cat-that-ate-70-billion-parameters-62355acfa60b?source=rss------artificial_intelligence-5)**
+> 🔹 **[20 NumPy Tricks That Make Your Data Science Code 10× Faster. Most Tutorials Skip 15 of These.](https://medium.com/@swarnenduiitb2020/20-numpy-tricks-that-make-your-data-science-code-10-faster-most-tutorials-skip-15-of-these-b74dd74bfd8d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Computer Is Not Your Computer](https://medium.com/@hassanalisardar001/your-computer-is-not-your-computer-c6c8707deb7c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Day ChatGPT Stopped Being Free.](https://medium.com/@takaallianceai/the-day-chatgpt-stopped-being-free-45b4960f4cdf?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
