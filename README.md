@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The AI Reality Check](https://medium.com/@jtrevino/the-ai-reality-check-eae298115b51?source=rss------artificial_intelligence-5)**
-> 🔹 **[Lessons as a Forward Deployed Engineer](https://medium.com/@huangshaohang.98/lessons-as-a-forward-deployed-engineer-7cda2c20fac0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Where Should Designers Start Learning Coding? A Beginner-Friendly Roadmap for UX Designers](https://medium.com/@divinestocks/where-should-designers-start-learning-coding-a-beginner-friendly-roadmap-for-ux-designers-c16792b01802?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gongju-Style Engineering: A System Instruction for High-Density AI Resonance](https://medium.com/@tigerjooperformance/gongju-style-engineering-a-system-instruction-for-high-density-ai-resonance-96689f8435e7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Are More People Pivoting To Making Music On Computers Nowadays?](https://medium.com/the-music-magnet/are-more-people-pivoting-to-making-music-on-computers-nowadays-4d3941ebcc05?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best AI and Cloud Learning Platforms 2026](https://medium.com/@ryan.scott151694/best-ai-and-cloud-learning-platforms-2026-341d7189644e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building Production AI Agents: A Complete Architecture Guide](https://medium.com/@er.rajkumaar/building-production-ai-agents-a-complete-architecture-guide-2c4f85670b31?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Writing From Scratch. Your Next Client Is One Prompt Away.](https://medium.com/@Thegrowthxmedia/stop-writing-from-scratch-your-next-client-is-one-prompt-away-9be8c91ac724?source=rss------artificial_intelligence-5)**
+> 🔹 **[Satellite Internet in India The Next Big Telecom Revolution](https://medium.com/@narendra007singhshekhawat/satellite-internet-in-india-the-next-big-telecom-revolution-ad54d02136dd?source=rss------artificial_intelligence-5)**
+> 🔹 **[The ‘-parameters’ Flag Nobody Told You About, a Custom Parent POM, and a Runtime Error Out of…](https://medium.com/@rsuryanshu/the-parameters-flag-nobody-told-you-about-a-custom-parent-pom-and-a-runtime-error-out-of-08ba20f61ad8?source=rss------backend_development-5)**
+> 🔹 **[AI Daily Update April-22-2026](https://medium.com/@stephen.stanley777/ai-daily-update-april-22-2026-7f949fab72a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Deep CNN Knowledge Refresh — The Parts Nobody Explains Well](https://medium.com/@droptovaishnavi/deep-cnn-knowledge-refresh-the-parts-nobody-explains-well-c8a2bd0626d1?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Good, the Bad and the Ugly — Part I: The Good](https://medium.com/@dperezarbues/the-good-the-bad-and-the-ugly-part-i-the-good-c24ea2ec21b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Bigger Controllers Alone Will Not Deliver Long-Running AGI](https://medium.com/@omanyuk/why-bigger-controllers-alone-will-not-deliver-long-running-agi-7d79c588f3a7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Things ChatGPT &amp; Claude Still Can’t Do in 2026 — That Surprise People](https://medium.com/@DivyanshChawla/things-chatgpt-claude-still-cant-do-in-2026-that-surprise-people-d4e118886ba9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Code Routines Changes Everything About Agentic Dev Workflows](https://medium.com/@phoenixai.hub/claude-code-routines-changes-everything-about-agentic-dev-workflows-28fd69b6a138?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
