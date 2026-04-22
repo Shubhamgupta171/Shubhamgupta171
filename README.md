@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How Unclear Interface States Break Trust in Carsharing Apps](https://medium.com/@byfiolev/how-unclear-interface-states-break-trust-in-carsharing-apps-06600883abfa?source=rss------system_design-5)**
-> 🔹 **[How Much Does It Cost to Update a Website? A UI/UX Perspective](https://medium.com/@designstudiouiux/how-much-does-it-cost-to-update-a-website-a-ui-ux-perspective-f5d264ff9612?source=rss------system_design-5)**
-> 🔹 **[Ninety Percent of CEOs Say AI Changed Nothing. The Other Ten Percent Have a PR Team.](https://medium.com/@wgcorrea/ninety-percent-of-ceos-say-ai-changed-nothing-the-other-ten-percent-have-a-pr-team-a3763a1a9908?source=rss------artificial_intelligence-5)**
-> 🔹 **[Notifications Are Broken. Here&#39;s How They Could Finally Be Fixed.](https://medium.com/@tedashiitasiano/notifications-are-broken-heres-how-they-could-finally-be-fixed-82b89a8ca486?source=rss------artificial_intelligence-5)**
-> 🔹 **[CAP Theorem: The Rule Every Microservice Must Live By](https://mdjamilkashemporosh.medium.com/cap-theorem-the-rule-every-microservice-must-live-by-790100247b15?source=rss------backend_development-5)**
-> 🔹 **[The Friction Index](https://medium.com/@cesar_lontok680/the-friction-index-041c368cec0b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Modelos epidemiológicos SIR com redes neurais: usando a dinâmica do sistema como função objetiv...](https://medium.com/@andersonaed/modelos-epidemiol%C3%B3gicos-sir-com-redes-neurais-usando-a-din%C3%A2mica-do-sistema-como-fun%C3%A7%C3%A3o-objetivo-62be5c786a04?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Makes My Income Almost Double](https://medium.com/write-a-catalyst/ai-makes-my-income-almost-double-3452f6947da2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Background Coding Agents: Supercharging Downstream Consumer Dataset Migrations &lpar;Honk, Part 4&rpar;](https://engineering.atspotify.com/2026/4/background-coding-agents-dataset-migrations-honk-part-4/)**
+> 🔹 **[He Quit Tech Because of AI. Now He Runs Eight Restaurants With It.](https://medium.com/human-offset/he-quit-tech-because-of-ai-now-he-runs-eight-restaurants-with-it-0e1672e6336e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building for Impact: How I Led Build With AI OAU 2026’s Web Development Pre-Series](https://dotun-oyetunde.medium.com/building-for-impact-how-i-led-build-with-ai-oau-2026s-web-development-pre-series-e7debb91269d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Choosing the Right Database: Not Just SQL vs NoSQL Anymore](https://medium.com/@selvamrhce/choosing-the-right-database-not-just-sql-vs-nosql-anymore-3befce4b4f8b?source=rss------system_design-5)**
+> 🔹 **[B-Tree Basics: What Really Happens Under the Hood?](https://mammadyahya.medium.com/b-tree-basics-what-really-happens-under-the-hood-add6899fc87b?source=rss------data_structures-5)**
+> 🔹 **[The AI Explosion of April 2026: 5 Releases That Are Rewriting the Rules](https://medium.com/@herogammer370/the-ai-explosion-of-april-2026-5-releases-that-are-rewriting-the-rules-c3a966dda9ec?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nasce LeggoloTherapy: la tecnologia diventa il custode della salute mentale degli studenti](https://medium.com/@officialomnia30/nasce-leggolotherapy-la-tecnologia-diventa-il-custode-della-salute-mentale-degli-studenti-0965631e7b94?source=rss------artificial_intelligence-5)**
+> 🔹 **[People no longer want long courses.](https://medium.com/@mohmmedbenine/people-no-longer-want-long-courses-932ec524aeac?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
