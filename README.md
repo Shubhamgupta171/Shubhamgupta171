@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Background Coding Agents: Supercharging Downstream Consumer Dataset Migrations &lpar;Honk, Part 4&rpar;](https://engineering.atspotify.com/2026/4/background-coding-agents-dataset-migrations-honk-part-4/)**
-> 🔹 **[He Quit Tech Because of AI. Now He Runs Eight Restaurants With It.](https://medium.com/human-offset/he-quit-tech-because-of-ai-now-he-runs-eight-restaurants-with-it-0e1672e6336e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building for Impact: How I Led Build With AI OAU 2026’s Web Development Pre-Series](https://dotun-oyetunde.medium.com/building-for-impact-how-i-led-build-with-ai-oau-2026s-web-development-pre-series-e7debb91269d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Choosing the Right Database: Not Just SQL vs NoSQL Anymore](https://medium.com/@selvamrhce/choosing-the-right-database-not-just-sql-vs-nosql-anymore-3befce4b4f8b?source=rss------system_design-5)**
-> 🔹 **[B-Tree Basics: What Really Happens Under the Hood?](https://mammadyahya.medium.com/b-tree-basics-what-really-happens-under-the-hood-add6899fc87b?source=rss------data_structures-5)**
-> 🔹 **[The AI Explosion of April 2026: 5 Releases That Are Rewriting the Rules](https://medium.com/@herogammer370/the-ai-explosion-of-april-2026-5-releases-that-are-rewriting-the-rules-c3a966dda9ec?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nasce LeggoloTherapy: la tecnologia diventa il custode della salute mentale degli studenti](https://medium.com/@officialomnia30/nasce-leggolotherapy-la-tecnologia-diventa-il-custode-della-salute-mentale-degli-studenti-0965631e7b94?source=rss------artificial_intelligence-5)**
-> 🔹 **[People no longer want long courses.](https://medium.com/@mohmmedbenine/people-no-longer-want-long-courses-932ec524aeac?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Device That Can’t Legally Exist in a Room With Children](https://medium.com/@tgil212121/the-device-that-cant-legally-exist-in-a-room-with-children-d8f270e03485?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Can Win Math Olympiads — But Still Can’t Read a Clock](https://medium.com/write-a-catalyst/ai-can-win-math-olympiads-but-still-cant-read-a-clock-83dc7cea1c2e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Interactive Tools Will Beat PDF Sales](https://medium.com/write-a-catalyst/why-interactive-tools-will-beat-pdf-sales-ad7e9cfa28b8?source=rss------artificial_intelligence-5)**
+> 🔹 **[One in Four Americans Talks to ChatGPT Instead of a Doctor.](https://medium.com/write-a-catalyst/one-in-four-americans-talks-to-chatgpt-instead-of-a-doctor-1a20a14022a5?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future of Education:](https://medium.com/@iqbalwrites/the-future-of-education-ddfef968d1ba?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI’s Workspace Agents Signal the End of “Personal AI” — and the Rise of “Team AI”](https://medium.com/@no_ai_no_life/openais-workspace-agents-signal-the-end-of-personal-ai-and-the-rise-of-team-ai-368c408a51d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Do You Really Know AI and Its Types? If Not… Read This Before It’s Too Late….](https://medium.com/write-a-catalyst/do-you-really-know-ai-and-its-types-if-not-read-this-before-its-too-late-c999b2ccdf0e?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Not Here to Replace You. It’s Here to Expose Whether You’ve Been Growing.](https://medium.com/@devata001god/ai-is-not-here-to-replace-you-its-here-to-expose-whether-you-ve-been-growing-71f6c578a290?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
