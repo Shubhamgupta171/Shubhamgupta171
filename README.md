@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your AI Agent Can’t Do Anything Because Your Workflows Were Built for Humans, Not Machines](https://medium.com/@halifax5566/your-ai-agent-cant-do-anything-because-your-workflows-were-built-for-humans-not-machines-46a625e1ac8b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Choosing Between Snowflake Cortex Search, Analyst, and Agent: A Practical Architecture Guide](https://medium.com/snowflake/choosing-between-snowflake-cortex-search-analyst-and-agent-a-practical-architecture-guide-843afd44612d?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Personal System to Framework Others Can Use](https://medium.com/@michelle.dsouza02/from-personal-system-to-framework-others-can-use-afdc169eb77d?source=rss------artificial_intelligence-5)**
-> 🔹 **[#17 Getting Started with Agentic Commerce Protocol &lpar;ACP&rpar;](https://medium.com/ai-commerce/17-getting-started-with-agentic-commerce-protocol-acp-75b4499bbe5b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Should AI Obey Humans? HAL 9000, Antinomy, and the Voices We Don’t Hear](https://medium.com/@dosukoi.yamada/why-should-ai-obey-humans-hal-9000-antinomy-and-the-voices-we-dont-hear-0aa1a0eb5a1f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Black box AI drift: AI tools are making design decisions nobody asked for](https://stackoverflow.blog/2026/04/23/black-box-ai-drift-ai-tools-are-making-design-decisions-nobody-asked-for/)**
-> 🔹 **[The “Glitch” in the System: Why 2026 Is the Year of the Non-Linear Mind](https://medium.com/illumination/the-glitch-in-the-system-why-2026-is-the-year-of-the-non-linear-mind-ce82f195ee89?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT Has a Secret Mode. It Can Think Like a God](https://medium.com/write-a-catalyst/chatgpt-has-a-secret-mode-it-can-think-like-a-god-c208eb27163b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Infosys Interview Experience | Digital Specialist Engineer | HackWithInfy](https://medium.com/@sarthakchandvaria/infosys-interview-experience-digital-specialist-engineer-hackwithinfy-4961a0476062?source=rss------data_structures-5)**
+> 🔹 **[Claude Shannon Died in 2001.](https://medium.com/@swarnenduiitb2020/claude-shannon-died-in-2001-0f4b31e9f96c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 10X myth](https://medium.com/@anishthanaseelan/the-10x-myth-3e536d151347?source=rss------artificial_intelligence-5)**
+> 🔹 **[Polisi Sita Aset Milik Istri-Anak Bandar Narkoba Ko Erwin](https://medium.com/@pelangicuan025/polisi-sita-aset-milik-istri-anak-bandar-narkoba-ko-erwin-ebe3db20a2d3?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Learn a New Language Twice as Fast Using AI &lpar;The Complete Beginner’s Guide&rpar;](https://medium.com/@theaisimplifier/how-to-learn-a-new-language-twice-as-fast-using-ai-the-complete-beginners-guide-466143670141?source=rss------artificial_intelligence-5)**
+> 🔹 **[‎AI Voice Cloning Scams: How Criminals Are Stealing Millions.](https://medium.com/@ddmatiq762/ai-voice-cloning-scams-how-criminals-are-stealing-millions-34c4711831e5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Spring AI Tool Calling: Build Java AI Agents That Actually Do Things](https://medium.com/ai-meets-java/spring-ai-tool-calling-build-java-ai-agents-that-actually-do-things-1c3911eee6a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[There is no consciousness without forgetting](https://medium.com/@victorsteuck/there-is-no-consciousness-without-forgetting-f1f4f3f09f46?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
