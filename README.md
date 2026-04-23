@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Pattern Recognition System That Worked Too Well](https://blog.stackademic.com/the-pattern-recognition-system-that-worked-too-well-567d64000a5c?source=rss------system_design-5)**
-> 🔹 **[Why Modern Systems Rely on Structured Logic More Than Raw Processing Power](https://medium.com/@backlink.twentysix1/why-modern-systems-rely-on-structured-logic-more-than-raw-processing-power-a2e22e465636?source=rss------system_design-5)**
-> 🔹 **[How a Fractional GTM Lead Unifies Inbound and Outbound Strategies](https://talhafakhar.medium.com/how-a-fractional-gtm-lead-unifies-inbound-and-outbound-strategies-b91ee2cef540?source=rss------artificial_intelligence-5)**
-> 🔹 **[If You Understand These 5 AI Terms, You’re Ahead of 90% of People](https://medium.com/@tomaskadlec/if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people-343c3c3c0925?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Proof Problem](https://medium.com/@timo.hallberg/the-proof-problem-205664638607?source=rss------artificial_intelligence-5)**
-> 🔹 **[The $60 Billion Problem Nobody in B2B Sales Is Talking About — And the AI That’s Fixing It](https://medium.com/@rohith_61028/the-60-billion-problem-nobody-in-b2b-sales-is-talking-about-and-the-ai-thats-fixing-it-777facd33072?source=rss------artificial_intelligence-5)**
-> 🔹 **[Sebelum dan Sesudah AI: Bagaimana Teknologi Ini Mengubah Produktivitas](https://medium.com/@aziziyahhaq/sebelum-dan-sesudah-ai-bagaimana-teknologi-ini-mengubah-produktivitas-c5df43a864ac?source=rss------artificial_intelligence-5)**
-> 🔹 **[Microservices Architecture: Beyond the Hype into Production Reality](https://blog.stackademic.com/microservices-architecture-beyond-the-hype-into-production-reality-c3df93f6071e?source=rss------system_design-5)**
+> 🔹 **[Your AI Agent Can’t Do Anything Because Your Workflows Were Built for Humans, Not Machines](https://medium.com/@halifax5566/your-ai-agent-cant-do-anything-because-your-workflows-were-built-for-humans-not-machines-46a625e1ac8b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Choosing Between Snowflake Cortex Search, Analyst, and Agent: A Practical Architecture Guide](https://medium.com/snowflake/choosing-between-snowflake-cortex-search-analyst-and-agent-a-practical-architecture-guide-843afd44612d?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Personal System to Framework Others Can Use](https://medium.com/@michelle.dsouza02/from-personal-system-to-framework-others-can-use-afdc169eb77d?source=rss------artificial_intelligence-5)**
+> 🔹 **[#17 Getting Started with Agentic Commerce Protocol &lpar;ACP&rpar;](https://medium.com/ai-commerce/17-getting-started-with-agentic-commerce-protocol-acp-75b4499bbe5b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Should AI Obey Humans? HAL 9000, Antinomy, and the Voices We Don’t Hear](https://medium.com/@dosukoi.yamada/why-should-ai-obey-humans-hal-9000-antinomy-and-the-voices-we-dont-hear-0aa1a0eb5a1f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Black box AI drift: AI tools are making design decisions nobody asked for](https://stackoverflow.blog/2026/04/23/black-box-ai-drift-ai-tools-are-making-design-decisions-nobody-asked-for/)**
+> 🔹 **[The “Glitch” in the System: Why 2026 Is the Year of the Non-Linear Mind](https://medium.com/illumination/the-glitch-in-the-system-why-2026-is-the-year-of-the-non-linear-mind-ce82f195ee89?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT Has a Secret Mode. It Can Think Like a God](https://medium.com/write-a-catalyst/chatgpt-has-a-secret-mode-it-can-think-like-a-god-c208eb27163b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
