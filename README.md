@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Device That Can’t Legally Exist in a Room With Children](https://medium.com/@tgil212121/the-device-that-cant-legally-exist-in-a-room-with-children-d8f270e03485?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Can Win Math Olympiads — But Still Can’t Read a Clock](https://medium.com/write-a-catalyst/ai-can-win-math-olympiads-but-still-cant-read-a-clock-83dc7cea1c2e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Interactive Tools Will Beat PDF Sales](https://medium.com/write-a-catalyst/why-interactive-tools-will-beat-pdf-sales-ad7e9cfa28b8?source=rss------artificial_intelligence-5)**
-> 🔹 **[One in Four Americans Talks to ChatGPT Instead of a Doctor.](https://medium.com/write-a-catalyst/one-in-four-americans-talks-to-chatgpt-instead-of-a-doctor-1a20a14022a5?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Future of Education:](https://medium.com/@iqbalwrites/the-future-of-education-ddfef968d1ba?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenAI’s Workspace Agents Signal the End of “Personal AI” — and the Rise of “Team AI”](https://medium.com/@no_ai_no_life/openais-workspace-agents-signal-the-end-of-personal-ai-and-the-rise-of-team-ai-368c408a51d2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Do You Really Know AI and Its Types? If Not… Read This Before It’s Too Late….](https://medium.com/write-a-catalyst/do-you-really-know-ai-and-its-types-if-not-read-this-before-its-too-late-c999b2ccdf0e?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Not Here to Replace You. It’s Here to Expose Whether You’ve Been Growing.](https://medium.com/@devata001god/ai-is-not-here-to-replace-you-its-here-to-expose-whether-you-ve-been-growing-71f6c578a290?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Pattern Recognition System That Worked Too Well](https://blog.stackademic.com/the-pattern-recognition-system-that-worked-too-well-567d64000a5c?source=rss------system_design-5)**
+> 🔹 **[Why Modern Systems Rely on Structured Logic More Than Raw Processing Power](https://medium.com/@backlink.twentysix1/why-modern-systems-rely-on-structured-logic-more-than-raw-processing-power-a2e22e465636?source=rss------system_design-5)**
+> 🔹 **[How a Fractional GTM Lead Unifies Inbound and Outbound Strategies](https://talhafakhar.medium.com/how-a-fractional-gtm-lead-unifies-inbound-and-outbound-strategies-b91ee2cef540?source=rss------artificial_intelligence-5)**
+> 🔹 **[If You Understand These 5 AI Terms, You’re Ahead of 90% of People](https://medium.com/@tomaskadlec/if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people-343c3c3c0925?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Proof Problem](https://medium.com/@timo.hallberg/the-proof-problem-205664638607?source=rss------artificial_intelligence-5)**
+> 🔹 **[The $60 Billion Problem Nobody in B2B Sales Is Talking About — And the AI That’s Fixing It](https://medium.com/@rohith_61028/the-60-billion-problem-nobody-in-b2b-sales-is-talking-about-and-the-ai-thats-fixing-it-777facd33072?source=rss------artificial_intelligence-5)**
+> 🔹 **[Sebelum dan Sesudah AI: Bagaimana Teknologi Ini Mengubah Produktivitas](https://medium.com/@aziziyahhaq/sebelum-dan-sesudah-ai-bagaimana-teknologi-ini-mengubah-produktivitas-c5df43a864ac?source=rss------artificial_intelligence-5)**
+> 🔹 **[Microservices Architecture: Beyond the Hype into Production Reality](https://blog.stackademic.com/microservices-architecture-beyond-the-hype-into-production-reality-c3df93f6071e?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
