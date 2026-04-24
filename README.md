@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Infosys Interview Experience | Digital Specialist Engineer | HackWithInfy](https://medium.com/@sarthakchandvaria/infosys-interview-experience-digital-specialist-engineer-hackwithinfy-4961a0476062?source=rss------data_structures-5)**
-> 🔹 **[Claude Shannon Died in 2001.](https://medium.com/@swarnenduiitb2020/claude-shannon-died-in-2001-0f4b31e9f96c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 10X myth](https://medium.com/@anishthanaseelan/the-10x-myth-3e536d151347?source=rss------artificial_intelligence-5)**
-> 🔹 **[Polisi Sita Aset Milik Istri-Anak Bandar Narkoba Ko Erwin](https://medium.com/@pelangicuan025/polisi-sita-aset-milik-istri-anak-bandar-narkoba-ko-erwin-ebe3db20a2d3?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Learn a New Language Twice as Fast Using AI &lpar;The Complete Beginner’s Guide&rpar;](https://medium.com/@theaisimplifier/how-to-learn-a-new-language-twice-as-fast-using-ai-the-complete-beginners-guide-466143670141?source=rss------artificial_intelligence-5)**
-> 🔹 **[‎AI Voice Cloning Scams: How Criminals Are Stealing Millions.](https://medium.com/@ddmatiq762/ai-voice-cloning-scams-how-criminals-are-stealing-millions-34c4711831e5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Spring AI Tool Calling: Build Java AI Agents That Actually Do Things](https://medium.com/ai-meets-java/spring-ai-tool-calling-build-java-ai-agents-that-actually-do-things-1c3911eee6a0?source=rss------artificial_intelligence-5)**
-> 🔹 **[There is no consciousness without forgetting](https://medium.com/@victorsteuck/there-is-no-consciousness-without-forgetting-f1f4f3f09f46?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Silent Witness : How Fingerprints Expose the Truth](https://medium.com/@sr1989267/the-silent-witness-how-fingerprints-expose-the-truth-37b1db6cdd59?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Documentation Gap in Governed AI Work](https://medium.com/@basilpuglisi/the-documentation-gap-in-governed-ai-work-608a86e9b3dd?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Attention to Understanding: A Transformer Deep Dive &lpar;Part II&rpar;](https://nija.medium.com/from-attention-to-understanding-a-transformer-deep-dive-part-ii-b7f1ab265c9c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bug Itu Lolos. Lagi.](https://medium.com/@fauzanabdillah0606/bug-itu-lolos-lagi-719e8808b548?source=rss------artificial_intelligence-5)**
+> 🔹 **[There’s Now an AI Tool That Adds Typos to Your Emails So You Don’t Look Like You Used AI](https://medium.com/@bucek.tomas/theres-now-an-ai-tool-that-adds-typos-to-your-emails-so-you-don-t-look-like-you-used-ai-df6f05adac28?source=rss------artificial_intelligence-5)**
+> 🔹 **[But What is Stacking Regressor ? &lpar;A Brief Introduction&rpar;](https://medium.com/@vishwasjoshi1607/but-what-is-stacking-regressor-a-brief-introduction-981f691531c2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building AI Agents Part 1: Defining Purpose, Designing Prompts, and Selecting Models](https://medium.com/@er.rajkumaar/building-ai-agents-part-1-defining-purpose-designing-prompts-and-selecting-models-944959f385ec?source=rss------artificial_intelligence-5)**
+> 🔹 **[LLM Latency Optimization Techniques: A Practical Guide for Beginners](https://medium.com/@vasanthancomrads/llm-latency-optimization-techniques-a-practical-guide-for-beginners-968c2017e0b2?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
