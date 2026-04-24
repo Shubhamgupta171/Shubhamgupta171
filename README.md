@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Read 50 Books a Year Using AI &lpar;Without Speed Reading or Skipping Anything&rpar;](https://medium.com/@theaisimplifier/how-to-read-50-books-a-year-using-ai-without-speed-reading-or-skipping-anything-4a1662a99a27?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence AI: The Game Changer of Today and Tomorrow | TechwithYash](https://medium.com/@kyashrajpoot/artificial-intelligence-ai-the-game-changer-of-today-and-tomorrow-techwithyash-da145fb6ff67?source=rss------artificial_intelligence-5)**
-> 🔹 **[Engineering Sovereign AI: Architecting Secure, Always-On Local Agents with OpenClaw and NVIDIA…](https://pub.towardsai.net/engineering-sovereign-ai-architecting-secure-always-on-local-agents-with-openclaw-and-nvidia-20cdcae8a2c1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why I’ve Never Been a Good Prompt Engineer](https://medium.com/@crispyrosellc/why-ive-never-been-a-good-prompt-engineer-748f9868f73b?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Navigator: Meta is back on the AI race, OpenAI’s New Economic Framework, and a Co-Pilot Powe...](https://medium.com/@Grailen_Made/ai-navigator-meta-is-back-on-the-ai-race-openais-new-economic-framework-and-a-co-pilot-power-37671e208dd1?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Learners to a Tribe &lpar;Building a Community Around Intelligence&rpar;](https://medium.com/@michelle.dsouza02/from-learners-to-a-tribe-building-a-community-around-intelligence-77879376c06f?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested GPT-5.5 and Claude Opus 4.7 Back to Back. One of Them Is Embarrassingly Better](https://saurabhkhan.medium.com/i-tested-gpt-5-5-and-claude-opus-4-7-back-to-back-one-of-them-is-embarrassingly-better-372b6a44e171?source=rss------artificial_intelligence-5)**
-> 🔹 **[Modelos epidemiológicos SIR com redes neurais: inferindo parâmetros a partir de dados de incidê...](https://medium.com/@andersonaed/modelos-epidemiol%C3%B3gicos-sir-com-redes-neurais-inferindo-par%C3%A2metros-a-partir-de-dados-de-incid%C3%AAncia-be521d809198?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Philosopher Was Already Right](https://medium.com/noor-diaries/the-philosopher-was-already-right-f9a6f0e8af79?source=rss------artificial_intelligence-5)**
+> 🔹 **[# I Tested 5 GPU Cloud Providers So You Don&#39;t Have To Waste Your Money](https://medium.com/@zeinstech/i-tested-5-gpu-cloud-providers-so-you-dont-have-to-waste-your-money-56b3e7d1e322?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Prompts to Outcomes: Inside Google’s Project Jitro](https://medium.com/@ranjanunicode22/from-prompts-to-outcomes-inside-googles-project-jitro-4c113554b6ea?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Real Future of Coding](https://milind-divre.medium.com/the-real-future-of-coding-bada89c2fe1f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future of No-Code Is Prompts, Not Drag-and-Drop](https://medium.com/@prompthall/the-future-of-no-code-is-prompts-not-drag-and-drop-f52db6fea790?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Loud Beat True, We Amplified Dishonesty](https://medium.com/activated-thinker/when-loud-beat-true-we-amplified-dishonesty-bb439c40347d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bridging the Field and the Algorithm: Documenting BRDs for AI in Agriculture](https://oleg-dubetcky.medium.com/bridging-the-field-and-the-algorithm-documenting-brds-for-ai-in-agriculture-fd572ec64ab5?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Write Better Prompts and Get Better Results From AI](https://medium.com/the-content-ledger/how-to-write-better-prompts-and-get-better-results-from-ai-7c4be50e5b65?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
