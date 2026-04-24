@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Silent Witness : How Fingerprints Expose the Truth](https://medium.com/@sr1989267/the-silent-witness-how-fingerprints-expose-the-truth-37b1db6cdd59?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Documentation Gap in Governed AI Work](https://medium.com/@basilpuglisi/the-documentation-gap-in-governed-ai-work-608a86e9b3dd?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Attention to Understanding: A Transformer Deep Dive &lpar;Part II&rpar;](https://nija.medium.com/from-attention-to-understanding-a-transformer-deep-dive-part-ii-b7f1ab265c9c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Bug Itu Lolos. Lagi.](https://medium.com/@fauzanabdillah0606/bug-itu-lolos-lagi-719e8808b548?source=rss------artificial_intelligence-5)**
-> 🔹 **[There’s Now an AI Tool That Adds Typos to Your Emails So You Don’t Look Like You Used AI](https://medium.com/@bucek.tomas/theres-now-an-ai-tool-that-adds-typos-to-your-emails-so-you-don-t-look-like-you-used-ai-df6f05adac28?source=rss------artificial_intelligence-5)**
-> 🔹 **[But What is Stacking Regressor ? &lpar;A Brief Introduction&rpar;](https://medium.com/@vishwasjoshi1607/but-what-is-stacking-regressor-a-brief-introduction-981f691531c2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building AI Agents Part 1: Defining Purpose, Designing Prompts, and Selecting Models](https://medium.com/@er.rajkumaar/building-ai-agents-part-1-defining-purpose-designing-prompts-and-selecting-models-944959f385ec?source=rss------artificial_intelligence-5)**
-> 🔹 **[LLM Latency Optimization Techniques: A Practical Guide for Beginners](https://medium.com/@vasanthancomrads/llm-latency-optimization-techniques-a-practical-guide-for-beginners-968c2017e0b2?source=rss------artificial_intelligence-5)**
+> 🔹 **[LLM Inference Is a Job, Not a Function Call](https://medium.com/@srinib100/llm-inference-is-a-job-not-a-function-call-ada651492515?source=rss------system_design-5)**
+> 🔹 **[#Extra Article: TARK WITH OBOSHI](https://medium.com/@oboshi/extra-article-tark-with-oboshi-333688e32380?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Basic SMS to Intelligent Maternal Care: A Practical Roadmap for Rural Kenya](https://medium.com/@muthokatitus/from-basic-sms-to-intelligent-maternal-care-a-practical-roadmap-for-rural-kenya-7e24bf1945ac?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI Just Released GPT-5.5](https://medium.com/ai-tomorrow/openai-just-released-gpt-5-5-62366a15c938?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Vendor Governance Failures in 2025: Five Cases Where the Internal Framework Wasn’t Enough](https://medium.com/@shmidik/ai-vendor-governance-failures-in-2025-five-cases-where-the-internal-framework-wasnt-enough-72693319f5ab?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 50-workflow library I wish I’d built two years ago](https://medium.com/miles-metrics/the-50-workflow-library-i-wish-id-built-two-years-ago-1b44360cf33c?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Daily Update April-24-2026](https://medium.com/@stephen.stanley777/ai-daily-update-april-24-2026-23781eb6d6f8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Vibe Coding Isn’t the Problem — It’s Your Approvals Process](https://medium.com/@kristopherleads/vibe-coding-isnt-the-problem-it-s-your-approvals-process-379f884d1f42?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
