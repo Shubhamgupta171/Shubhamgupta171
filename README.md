@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[CQRS For Fintech In 2026: Ledgers, Limits, Risk, And The Fight Over Truth](https://medium.com/@the_atomic_architect/cqrs-fintech-2026-ledger-truth-bdbbcfeb65dc?source=rss------system_design-5)**
-> 🔹 **[Can You Run a Local LLM on Your Android Phone? Here’s What Actually Works](https://medium.com/@engineeredai_net/can-you-run-a-local-llm-on-your-android-phone-heres-what-actually-works-97035a116e83?source=rss------artificial_intelligence-5)**
-> 🔹 **[Does AI Favor Islam? — Or a Case Study in Bad Prompts and False Conclusions](https://medium.com/@w.adeleke/does-ai-favor-islam-or-a-case-study-in-bad-prompts-and-false-conclusions-6546d0b5a4f0?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 9 Roles SMBs Will Hire AI Employees for First](https://medium.com/@sinan.yaman/the-9-roles-smbs-will-hire-ai-employees-for-first-7aa72a61e63d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google’s $40B Anthropic Bet: Buying the Competition or Just Buying Time?&quot;](https://medium.com/@StackedThoughts/googles-40b-anthropic-bet-buying-the-competition-or-just-buying-time-9d08349a36f7?source=rss------artificial_intelligence-5)**
-> 🔹 **[ReAct Pattern — Reason + Act Explained](https://arvita-writes.medium.com/react-pattern-reason-act-explained-5a0b196e860c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Debugging ML Gets Weird When Time Is the Bug](https://medium.com/@sparknp1/debugging-ml-gets-weird-when-time-is-the-bug-0a416367e890?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Developers Who Will Still Have Jobs in 2028 Are Not Learning More.](https://medium.com/@toyezyadav/the-developers-who-will-still-have-jobs-in-2028-are-not-learning-more-122d9f10dac3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the Green Plaza: How Adaptive Microclimatic Design, Living Infrastructure Systems, and…](https://medium.com/@Architects_Blog/beyond-the-green-plaza-how-adaptive-microclimatic-design-living-infrastructure-systems-and-605a5473e33d?source=rss------system_design-5)**
+> 🔹 **[You Already Have Logistic Regression. So Why Does LDA Even Exist?](https://medium.com/@its.shoryabisht/you-already-have-logistic-regression-so-why-does-lda-even-exist-df11c2e29dc3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Pixel Art Might Be the Smartest UI Strategy No One Is Using Properly](https://medium.com/@hello_1371/why-pixel-art-might-be-the-smartest-ui-strategy-no-one-is-using-properly-e5d852198fa7?source=rss------system_design-5)**
+> 🔹 **[The Productivity Trap: Why Doing More Is Slowing Leaders Down &lpar;And How AI Fixes It&rpar;](https://medium.com/@keshow1/the-productivity-trap-why-doing-more-is-slowing-leaders-down-and-how-ai-fixes-it-effd6ddda81e?source=rss------artificial_intelligence-5)**
+> 🔹 **[How LLMs Are Cracking Single-Cell Biology: A Hands-On Guide to the New ZAPBench Dataset &lpar;With…](https://medium.com/ai-analytics-diaries/how-llms-are-cracking-single-cell-biology-a-hands-on-guide-to-the-new-zapbench-dataset-with-fcdaa7d1b3b2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Role of AGI in Shaping the Future of Automation and Robotics](https://mrgulshanyadav.medium.com/the-role-of-agi-in-shaping-the-future-of-automation-and-robotics-6a66dcd4b1ce?source=rss------artificial_intelligence-5)**
+> 🔹 **[&quot;Best AI Tools for Passive Income in 2026 — That Actually Pay &lpar;Complete Guide&rpar;&quot;](https://medium.com/@craftureexports/best-ai-tools-for-passive-income-in-2026-that-actually-pay-complete-guide-3bf3485761c5?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Have a “Missing Science” Problem, not a “Missing Scientists” Problem](https://avi-loeb.medium.com/we-have-a-missing-science-problem-not-a-missing-scientists-problem-bde161729b99?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
