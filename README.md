@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Beyond the Green Plaza: How Adaptive Microclimatic Design, Living Infrastructure Systems, and…](https://medium.com/@Architects_Blog/beyond-the-green-plaza-how-adaptive-microclimatic-design-living-infrastructure-systems-and-605a5473e33d?source=rss------system_design-5)**
-> 🔹 **[You Already Have Logistic Regression. So Why Does LDA Even Exist?](https://medium.com/@its.shoryabisht/you-already-have-logistic-regression-so-why-does-lda-even-exist-df11c2e29dc3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Pixel Art Might Be the Smartest UI Strategy No One Is Using Properly](https://medium.com/@hello_1371/why-pixel-art-might-be-the-smartest-ui-strategy-no-one-is-using-properly-e5d852198fa7?source=rss------system_design-5)**
-> 🔹 **[The Productivity Trap: Why Doing More Is Slowing Leaders Down &lpar;And How AI Fixes It&rpar;](https://medium.com/@keshow1/the-productivity-trap-why-doing-more-is-slowing-leaders-down-and-how-ai-fixes-it-effd6ddda81e?source=rss------artificial_intelligence-5)**
-> 🔹 **[How LLMs Are Cracking Single-Cell Biology: A Hands-On Guide to the New ZAPBench Dataset &lpar;With…](https://medium.com/ai-analytics-diaries/how-llms-are-cracking-single-cell-biology-a-hands-on-guide-to-the-new-zapbench-dataset-with-fcdaa7d1b3b2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Role of AGI in Shaping the Future of Automation and Robotics](https://mrgulshanyadav.medium.com/the-role-of-agi-in-shaping-the-future-of-automation-and-robotics-6a66dcd4b1ce?source=rss------artificial_intelligence-5)**
-> 🔹 **[&quot;Best AI Tools for Passive Income in 2026 — That Actually Pay &lpar;Complete Guide&rpar;&quot;](https://medium.com/@craftureexports/best-ai-tools-for-passive-income-in-2026-that-actually-pay-complete-guide-3bf3485761c5?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Have a “Missing Science” Problem, not a “Missing Scientists” Problem](https://avi-loeb.medium.com/we-have-a-missing-science-problem-not-a-missing-scientists-problem-bde161729b99?source=rss------artificial_intelligence-5)**
+> 🔹 **[Structured Intelligence: A Universal Artifact Schema for AI-Assisted Network Troubleshooting](https://medium.com/@ajay.jrs/structured-intelligence-a-universal-artifact-schema-for-ai-assisted-network-troubleshooting-d1f907a59a0b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Strategy Is Only as Good as the Surface You’re Using](https://medium.com/@pascal.gerardus/your-ai-strategy-is-only-as-good-as-the-surface-youre-using-93cd2e346dd9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why You’re Not Getting Hired &lpar;Even If You’re Qualified&rpar;](https://medium.com/@hirepool.ai/why-youre-not-getting-hired-even-if-you-re-qualified-3564d5317d07?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bittensor solved AI compute. Nobody’s solved AI agent identity. Here’s why that matters.](https://medium.com/@skeetcrypto/bittensor-solved-ai-compute-nobodys-solved-ai-agent-identity-here-s-why-that-matters-1480c2e2a98f?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Just Found a 27-Year-Old Bug in One of the World’s Most Secure Operating Systems.](https://pub.towardsai.net/ai-just-found-a-27-year-old-bug-in-one-of-the-worlds-most-secure-operating-systems-b489bea53390?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mastering the Art of Model Performance: Sampling, Cross-Validation, and Tuning](https://medium.com/@sachincredible9/mastering-the-art-of-model-performance-sampling-cross-validation-and-tuning-38e255a2a6aa?source=rss------artificial_intelligence-5)**
+> 🔹 **[20 MCP Servers That Turn Claude Into a Senior Engineer](https://medium.com/tech-and-ai-guild/20-mcp-servers-that-turn-claude-into-a-senior-engineer-db985e414b06?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 API Types Every Developer Must Understand &lpar;REST Is Just the Beginning&rpar;](https://medium.com/ai-engineering-simplified/7-api-types-every-developer-must-understand-rest-is-just-the-beginning-84f41e5243de?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
