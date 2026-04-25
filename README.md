@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Most Valuable Backend Developers Now Think Like Incident Responders](https://medium.com/@hadiyolworld007/the-most-valuable-backend-developers-now-think-like-incident-responders-585632c698fc?source=rss------backend_development-5)**
-> 🔹 **[Stop Using Zapier. Here’s Why N8N + Claude is 100x More Powerful for the Same Price](https://medium.com/write-a-catalyst/stop-using-zapier-heres-why-n8n-claude-is-100x-more-powerful-for-the-same-price-d2ad286c7f80?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Infection, say it as it is.](https://medium.com/@aaron2727aaron/artificial-infection-say-it-as-it-is-4f0a99422441?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google DS &amp; Algo Round Interview Questions 2026](https://medium.com/@prashant558908/google-ds-algo-round-interview-questions-2026-c07a8677b366?source=rss------data_structures-5)**
-> 🔹 **[RAM vs VRAM — What’s the Difference?](https://iyui.medium.com/ram-vs-vram-whats-the-difference-569ee8908344?source=rss------artificial_intelligence-5)**
-> 🔹 **[What if the biggest reliability challenge in India isn’t your code, but a food delivery platfor...](https://iyui.medium.com/what-if-the-biggest-reliability-challenge-in-india-isnt-your-code-but-a-food-delivery-platform-1070613fd6f0?source=rss------artificial_intelligence-5)**
-> 🔹 **[The biggest misconception about AI and jobs is that it’s about loss.](https://medium.com/write-a-catalyst/the-biggest-misconception-about-ai-and-jobs-is-that-its-about-loss-e13c9f6e7608?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Set to Reshape, Not Replace Jobs](https://medium.com/@jenishdjenish74/ai-set-to-reshape-not-replace-jobs-63fd62bc0eb1?source=rss------artificial_intelligence-5)**
+> 🔹 **[CQRS For Fintech In 2026: Ledgers, Limits, Risk, And The Fight Over Truth](https://medium.com/@the_atomic_architect/cqrs-fintech-2026-ledger-truth-bdbbcfeb65dc?source=rss------system_design-5)**
+> 🔹 **[Can You Run a Local LLM on Your Android Phone? Here’s What Actually Works](https://medium.com/@engineeredai_net/can-you-run-a-local-llm-on-your-android-phone-heres-what-actually-works-97035a116e83?source=rss------artificial_intelligence-5)**
+> 🔹 **[Does AI Favor Islam? — Or a Case Study in Bad Prompts and False Conclusions](https://medium.com/@w.adeleke/does-ai-favor-islam-or-a-case-study-in-bad-prompts-and-false-conclusions-6546d0b5a4f0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 9 Roles SMBs Will Hire AI Employees for First](https://medium.com/@sinan.yaman/the-9-roles-smbs-will-hire-ai-employees-for-first-7aa72a61e63d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google’s $40B Anthropic Bet: Buying the Competition or Just Buying Time?&quot;](https://medium.com/@StackedThoughts/googles-40b-anthropic-bet-buying-the-competition-or-just-buying-time-9d08349a36f7?source=rss------artificial_intelligence-5)**
+> 🔹 **[ReAct Pattern — Reason + Act Explained](https://arvita-writes.medium.com/react-pattern-reason-act-explained-5a0b196e860c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Debugging ML Gets Weird When Time Is the Bug](https://medium.com/@sparknp1/debugging-ml-gets-weird-when-time-is-the-bug-0a416367e890?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Developers Who Will Still Have Jobs in 2028 Are Not Learning More.](https://medium.com/@toyezyadav/the-developers-who-will-still-have-jobs-in-2028-are-not-learning-more-122d9f10dac3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
