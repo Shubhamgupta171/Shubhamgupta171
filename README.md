@@ -34,15 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Paste Your Last 10 Git Commits Into This AI Tool. Then Try Not to Feel Attacked.](https://medium.com/@sukritidhritisingh17/paste-your-last-10-git-commits-into-this-ai-tool-then-try-not-to-feel-attacked-e17fc83d4d11?source=rss------artificial_intelligence-5)**
-> 🔹 **[INDUSTRY INSIGHTS | TECHNOLOGY &amp; AUTOMATION
-From Industry 1.0](https://blackhaze1.medium.com/industry-insights-technology-automation-from-industry-1-0-4b882f023a75?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cracking the Million-Token Barrier: A Deep Dive into DeepSeek-V4’s Architecture](https://towardsdev.com/cracking-the-million-token-barrier-a-deep-dive-into-deepseek-v4s-architecture-3a11c6a87b40?source=rss------artificial_intelligence-5)**
-> 🔹 **[An Open Model Just Ranked #23 Best Competitive Programmer in the World. Against Humans.](https://medium.com/@kakadaaryan10/an-open-model-just-ranked-23-best-competitive-programmer-in-the-world-against-humans-75a994d95ab9?source=rss------artificial_intelligence-5)**
-> 🔹 **[ما هو GEO وكيف يختلف عن SEO والـ AEO؟](https://medium.com/@arabiaitools/%D9%85%D8%A7-%D9%87%D9%88-geo-%D9%88%D9%83%D9%8A%D9%81-%D9%8A%D8%AE%D8%AA%D9%84%D9%81-%D8%B9%D9%86-seo-%D9%88%D8%A7%D9%84%D9%80-aeo-79bd4771abd0?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Developers Who Stopped Learning Fundamentals Are Getting Fired First](https://medium.com/@bacharadjao/the-developers-who-stopped-learning-fundamentals-are-getting-fired-first-7beae252ebab?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT 2.0: How AI is Changing the Way We Work and Communicate](https://johanzemi.medium.com/chatgpt-2-0-how-ai-is-changing-the-way-we-work-and-communicate-94345eb9a002?source=rss------artificial_intelligence-5)**
-> 🔹 **[Two Users. One Station. Twenty Milliseconds.](https://medium.com/@bimal.ray99/two-users-one-station-twenty-milliseconds-4e5527a195b2?source=rss------backend_development-5)**
+> 🔹 **[Every New Machine Broke My Claude Code Setup. So I Built ACM to Fix That.](https://medium.com/@terry_27189/every-new-machine-broke-my-claude-code-setup-so-i-built-acm-to-fix-that-dcbef0943998?source=rss------artificial_intelligence-5)**
+> 🔹 **[Scale Business with AI Automation in 2026 — Complete Growth Guide](https://medium.com/@surajverma711/scale-business-with-ai-automation-in-2026-complete-growth-guide-101f1c3901e2?source=rss------artificial_intelligence-5)**
+> 🔹 **[THE FIVE–SIX FIELD: A STRUCTURAL NOTE ON UNIFIED DYNAMICS](https://medium.com/@GnomeBadhi/the-five-six-field-a-structural-note-on-unified-dynamics-b10642dee1c2?source=rss------artificial_intelligence-5)**
+> 🔹 **[We don’t understand our own brains. So how do we understand AI?](https://medium.com/@loda1212/we-dont-understand-our-own-brains-so-how-do-we-understand-ai-c9a16001da7d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Build an Enterprise-Grade SKILL.md for Cortex Code — Part 2: Building the Workflow](https://medium.com/@srivathsan.v91/how-to-build-an-enterprise-grade-skill-md-for-cortex-code-part-2-building-the-workflow-80b58c3a6c6b?source=rss------artificial_intelligence-5)**
+> 🔹 **[China’s “Four Little Dragons” of AI Are Conquering the World — And They’re Doing It With Your…](https://medium.com/@tatsuru.okada/chinas-four-little-dragons-of-ai-are-conquering-the-world-and-they-re-doing-it-with-your-62ac0d045916?source=rss------artificial_intelligence-5)**
+> 🔹 **[Elon Musk convoqué par la justice française : ce qu’on sait de l’enquête visant X
+Elon Musk est...](https://medium.com/@gbetmehomelnsi/elon-musk-convoqu%C3%A9-par-la-justice-fran%C3%A7aise-ce-quon-sait-de-l-enqu%C3%AAte-visant-x-elon-musk-est-30dc8aec865d?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT Plus vs Claude Pro: The Only AI Subscriptions I Actually Pay for as a Staff Engineer](https://medium.com/@kefayatullah/chatgpt-plus-vs-claude-pro-the-only-ai-subscriptions-i-actually-pay-for-as-a-staff-engineer-15319301b5f2?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
