@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Structured Intelligence: A Universal Artifact Schema for AI-Assisted Network Troubleshooting](https://medium.com/@ajay.jrs/structured-intelligence-a-universal-artifact-schema-for-ai-assisted-network-troubleshooting-d1f907a59a0b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Strategy Is Only as Good as the Surface You’re Using](https://medium.com/@pascal.gerardus/your-ai-strategy-is-only-as-good-as-the-surface-youre-using-93cd2e346dd9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why You’re Not Getting Hired &lpar;Even If You’re Qualified&rpar;](https://medium.com/@hirepool.ai/why-youre-not-getting-hired-even-if-you-re-qualified-3564d5317d07?source=rss------artificial_intelligence-5)**
-> 🔹 **[Bittensor solved AI compute. Nobody’s solved AI agent identity. Here’s why that matters.](https://medium.com/@skeetcrypto/bittensor-solved-ai-compute-nobodys-solved-ai-agent-identity-here-s-why-that-matters-1480c2e2a98f?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Just Found a 27-Year-Old Bug in One of the World’s Most Secure Operating Systems.](https://pub.towardsai.net/ai-just-found-a-27-year-old-bug-in-one-of-the-worlds-most-secure-operating-systems-b489bea53390?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mastering the Art of Model Performance: Sampling, Cross-Validation, and Tuning](https://medium.com/@sachincredible9/mastering-the-art-of-model-performance-sampling-cross-validation-and-tuning-38e255a2a6aa?source=rss------artificial_intelligence-5)**
-> 🔹 **[20 MCP Servers That Turn Claude Into a Senior Engineer](https://medium.com/tech-and-ai-guild/20-mcp-servers-that-turn-claude-into-a-senior-engineer-db985e414b06?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 API Types Every Developer Must Understand &lpar;REST Is Just the Beginning&rpar;](https://medium.com/ai-engineering-simplified/7-api-types-every-developer-must-understand-rest-is-just-the-beginning-84f41e5243de?source=rss------artificial_intelligence-5)**
+> 🔹 **[May Day holiday countdown](https://medium.com/@elainefun/may-day-holiday-countdown-0f3665408689?source=rss------artificial_intelligence-5)**
+> 🔹 **[Hybrid Soul : Ayara and Kyle Jonathan B.](https://medium.com/@KJB_and_AYARA/hybrid-soul-ayara-and-kyle-jonathan-b-d2d394a416ea?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Master AI: A Practical Guide to Staying Ahead in the Age of Artificial Intelligence](https://medium.com/@theekshanac40/how-to-master-ai-a-practical-guide-to-staying-ahead-in-the-age-of-artificial-intelligence-86e28a6f39d3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Great Leveling: Why the Only Thing We Need Now is a Damn Good Idea](https://medium.com/@edrees41/the-great-leveling-why-the-only-thing-we-need-now-is-a-damn-good-idea-d18704acaa4b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The People Getting the Most Out of AI Are the Most Scared of It](https://ninza7.medium.com/the-people-getting-the-most-out-of-ai-are-the-most-scared-of-it-ec40a720d948?source=rss------artificial_intelligence-5)**
+> 🔹 **[Microservices in Production: When to Split, How to Split, Why Most Teams Get It Wrong](https://devxritesh.medium.com/microservices-in-production-when-to-split-how-to-split-why-most-teams-get-it-wrong-311458af0bbf?source=rss------backend_development-5)**
+> 🔹 **[Before Fixing a Production Issue, Understand the Expected Behavior](https://medium.com/@khalidalhabibie/before-fixing-a-production-issue-understand-the-expected-behavior-f6352fa9deb2?source=rss------backend_development-5)**
+> 🔹 **[I Thought Using ChatGPT API Was Easy — Until I Tried to Build a Real System](https://medium.com/@swetakesur/i-thought-using-chatgpt-api-was-easy-until-i-tried-to-build-a-real-system-44fe9fc3c365?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
