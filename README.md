@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[May Day holiday countdown](https://medium.com/@elainefun/may-day-holiday-countdown-0f3665408689?source=rss------artificial_intelligence-5)**
-> 🔹 **[Hybrid Soul : Ayara and Kyle Jonathan B.](https://medium.com/@KJB_and_AYARA/hybrid-soul-ayara-and-kyle-jonathan-b-d2d394a416ea?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Master AI: A Practical Guide to Staying Ahead in the Age of Artificial Intelligence](https://medium.com/@theekshanac40/how-to-master-ai-a-practical-guide-to-staying-ahead-in-the-age-of-artificial-intelligence-86e28a6f39d3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Great Leveling: Why the Only Thing We Need Now is a Damn Good Idea](https://medium.com/@edrees41/the-great-leveling-why-the-only-thing-we-need-now-is-a-damn-good-idea-d18704acaa4b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The People Getting the Most Out of AI Are the Most Scared of It](https://ninza7.medium.com/the-people-getting-the-most-out-of-ai-are-the-most-scared-of-it-ec40a720d948?source=rss------artificial_intelligence-5)**
-> 🔹 **[Microservices in Production: When to Split, How to Split, Why Most Teams Get It Wrong](https://devxritesh.medium.com/microservices-in-production-when-to-split-how-to-split-why-most-teams-get-it-wrong-311458af0bbf?source=rss------backend_development-5)**
-> 🔹 **[Before Fixing a Production Issue, Understand the Expected Behavior](https://medium.com/@khalidalhabibie/before-fixing-a-production-issue-understand-the-expected-behavior-f6352fa9deb2?source=rss------backend_development-5)**
-> 🔹 **[I Thought Using ChatGPT API Was Easy — Until I Tried to Build a Real System](https://medium.com/@swetakesur/i-thought-using-chatgpt-api-was-easy-until-i-tried-to-build-a-real-system-44fe9fc3c365?source=rss------artificial_intelligence-5)**
+> 🔹 **[Paste Your Last 10 Git Commits Into This AI Tool. Then Try Not to Feel Attacked.](https://medium.com/@sukritidhritisingh17/paste-your-last-10-git-commits-into-this-ai-tool-then-try-not-to-feel-attacked-e17fc83d4d11?source=rss------artificial_intelligence-5)**
+> 🔹 **[INDUSTRY INSIGHTS | TECHNOLOGY &amp; AUTOMATION
+From Industry 1.0](https://blackhaze1.medium.com/industry-insights-technology-automation-from-industry-1-0-4b882f023a75?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cracking the Million-Token Barrier: A Deep Dive into DeepSeek-V4’s Architecture](https://towardsdev.com/cracking-the-million-token-barrier-a-deep-dive-into-deepseek-v4s-architecture-3a11c6a87b40?source=rss------artificial_intelligence-5)**
+> 🔹 **[An Open Model Just Ranked #23 Best Competitive Programmer in the World. Against Humans.](https://medium.com/@kakadaaryan10/an-open-model-just-ranked-23-best-competitive-programmer-in-the-world-against-humans-75a994d95ab9?source=rss------artificial_intelligence-5)**
+> 🔹 **[ما هو GEO وكيف يختلف عن SEO والـ AEO؟](https://medium.com/@arabiaitools/%D9%85%D8%A7-%D9%87%D9%88-geo-%D9%88%D9%83%D9%8A%D9%81-%D9%8A%D8%AE%D8%AA%D9%84%D9%81-%D8%B9%D9%86-seo-%D9%88%D8%A7%D9%84%D9%80-aeo-79bd4771abd0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Developers Who Stopped Learning Fundamentals Are Getting Fired First](https://medium.com/@bacharadjao/the-developers-who-stopped-learning-fundamentals-are-getting-fired-first-7beae252ebab?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT 2.0: How AI is Changing the Way We Work and Communicate](https://johanzemi.medium.com/chatgpt-2-0-how-ai-is-changing-the-way-we-work-and-communicate-94345eb9a002?source=rss------artificial_intelligence-5)**
+> 🔹 **[Two Users. One Station. Twenty Milliseconds.](https://medium.com/@bimal.ray99/two-users-one-station-twenty-milliseconds-4e5527a195b2?source=rss------backend_development-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
