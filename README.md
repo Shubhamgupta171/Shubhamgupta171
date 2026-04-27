@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How Every Try Catch Block In Your Controller Is Technical Debt You Chose to Write](https://medium.com/@siddhesh.y/how-every-try-catch-block-in-your-controller-is-technical-debt-you-chose-to-write-e4e08936b4a4?source=rss------backend_development-5)**
-> 🔹 **[*RAW vs Mossad: शतरंज के दो बादशाह ♟️*](https://medium.com/@agarmukesh1008/raw-vs-mossad-%E0%A4%B6%E0%A4%A4%E0%A4%B0%E0%A4%82%E0%A4%9C-%E0%A4%95%E0%A5%87-%E0%A4%A6%E0%A5%8B-%E0%A4%AC%E0%A4%BE%E0%A4%A6%E0%A4%B6%E0%A4%BE%E0%A4%B9-%EF%B8%8F-01c2b52ab7ed?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Used Claude Instead of ChatGPT for 30 Days. Here’s What Actually Changed.](https://medium.com/@vijaygadhave2014/i-used-claude-instead-of-chatgpt-for-30-days-heres-what-actually-changed-97900c1d14ce?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cache Memory: Concept &amp; Levels Explained](https://medium.com/@25csa2bc065/cache-memory-concept-levels-explained-a42743af8745?source=rss------data_structures-5)**
-> 🔹 **[Boardroom AI: Monday Reality Check](https://medium.com/@yn.6197/boardroom-ai-monday-reality-check-7a2b5d83d404?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gen X Job Search Reality: Resumes, AI, and Career Reinvention](https://freshhorizonsjourney.medium.com/gen-x-job-search-reality-resumes-ai-and-career-reinvention-a30079a862ef?source=rss------artificial_intelligence-5)**
-> 🔹 **[Running Hermes Agent on MicroK8s and Leveraging K8s CronJobs](https://medium.com/@mo.figueroa/running-hermes-agent-on-microk8s-and-leveraging-k8s-cronjobs-c24403373a24?source=rss------artificial_intelligence-5)**
-> 🔹 **[SaaSpocalypse: Claude Design Broke Figma and Unleashed New AI Security Risks](https://medium.com/@saadith2002/saaspocalypse-claude-design-broke-figma-and-unleashed-new-ai-security-risks-bacdc1c1dacc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic AI: When Machines Stop Waiting for Instructions and Start Taking Action](https://rakshathimmaiah213.medium.com/agentic-ai-when-machines-stop-waiting-for-instructions-and-start-taking-action-b097360cde4b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Designing a locally Document → Knowledge Graph Pipeline for Invoice Processing](https://medium.com/@farooq.kaiser/designing-a-locally-document-knowledge-graph-pipeline-for-invoice-processing-4532fd2f5799?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Typing to Writing, a Habit That Helped Me Achieve Better Focus and Retention.](https://medium.com/@danielmalvaez41/from-typing-to-writing-a-habit-that-helped-me-achieve-better-focus-and-retention-b7f69e538c9e?source=rss------artificial_intelligence-5)**
+> 🔹 **[“I’m a Painting Contractor. I Do My Admin in 60 Seconds. Here’s How.”](https://medium.com/@kfre1810/im-a-painting-contractor-i-do-my-admin-in-60-seconds-here-s-how-d9056f0fd3a4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Manna 4--3](https://medium.com/@chenyongfong/the-hidden-manna-4-3-e68ae4d708da?source=rss------artificial_intelligence-5)**
+> 🔹 **[“In the Age of AI, Strength Matters as Much as Intelligence”](https://medium.com/@hafsa.ajiaz/in-the-age-of-ai-strength-matters-as-much-as-intelligence-38d4ea22cb76?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everyone Is Worried About AI Making Decisions. That’s Not the Real Problem.](https://lkakada.medium.com/everyone-is-worried-about-ai-making-decisions-thats-not-the-real-problem-96ee879b7c05?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Claude Design Actually Is &lpar;And Why Everyone’s Confused&rpar;](https://medium.com/@anil.futuristic/what-claude-design-actually-is-and-why-everyones-confused-8fe1e5ccdf34?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
