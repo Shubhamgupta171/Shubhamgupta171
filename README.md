@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Boardroom AI: Monday Reality Check](https://medium.com/@yn.6197/boardroom-ai-monday-reality-check-c5b1f580232b?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Redefining Engineering Leadership — And That’s Exactly What We’re Missing](https://medium.com/@rosadita/ai-is-redefining-engineering-leadership-and-thats-exactly-what-we-re-missing-7f7f872fd3af?source=rss------artificial_intelligence-5)**
-> 🔹 **[Meta Is Watching Your Every Click — And Calling It Innovation](https://medium.com/@mayhemcode/meta-is-watching-your-every-click-and-calling-it-innovation-1e08826cd8da?source=rss------artificial_intelligence-5)**
-> 🔹 **[More Quantum Speedup for Music: HHL](https://alexiskirke.medium.com/more-quantum-speedup-for-music-hhl-5a56385fcb86?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI LAB DIGEST](https://medium.com/@mohamedhassan_63979/ai-lab-digest-a0c0b27174a5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Emotionally Resonant AI Needs More Than Text Generation](https://medium.com/@EMergentMR/why-emotionally-resonant-ai-needs-more-than-text-generation-34b6d4982f53?source=rss------artificial_intelligence-5)**
-> 🔹 **[*Why We Can’t Always Depend on AI* _The Butler, Not the Boss: What machines get wrong, and why…](https://medium.com/@faiqrathore/why-we-cant-always-depend-on-ai-the-butler-not-the-boss-what-machines-get-wrong-and-why-3a4dd42ec4e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why OFM Chatters Who Sound Great Still Can’t Hit 30% Conversion](https://medium.com/@ChatSan/why-ofm-chatters-who-sound-great-still-cant-hit-30-conversion-04af213a55f5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Hashtable vs Dictionary&lt;TKey , TValues&gt;](https://medium.com/@hibrahimar21/hashtable-vs-dictionary-tkey-tvalues-20e6aa045b44?source=rss------data_structures-5)**
+> 🔹 **[How Would You Design TinyURL? A Deep Dive into System Design](https://levelup.gitconnected.com/how-would-you-design-tinyurl-a-deep-dive-into-system-design-f30b05aeee15?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Recommending Movies: Powered by AI](https://levelup.gitconnected.com/recommending-movies-powered-by-ai-5e33d714ccbc?source=rss----5517fd7b58a6---4)**
+> 🔹 **[One of the Best Ways &lpar;Practical&rpar; To Stop Overthinking](https://medium.com/illumination/one-of-the-best-ways-practical-to-stop-overthinking-d35a3fa5022c?source=rss------artificial_intelligence-5)**
+> 🔹 **[One Keyword, One Song: Why the “AI Song Blueprint” is Changing the Game for AI Music](https://medium.com/@balazs.francz/one-keyword-one-song-why-the-ai-song-blueprint-is-changing-the-game-for-ai-music-b010598ad09c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Google, Uber, and Lyft Quietly Killed Their Mobile Multi-Repo Setup &lpar;And You Should Too&rpar;](https://levelup.gitconnected.com/why-google-uber-and-lyft-quietly-killed-their-mobile-multi-repo-setup-and-you-should-too-1b56678b5e4d?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Apache Spark Explained: How It Works &lpar;Architecture + Core Concepts&rpar;](https://levelup.gitconnected.com/what-is-spark-a-clear-and-detailed-guide-to-how-it-works-810a85079d00?source=rss----5517fd7b58a6---4)**
+> 🔹 **[What is OLAP? Architecture, Use Cases, and How It Works in Data Warehousing](https://levelup.gitconnected.com/olap-explained-everything-you-need-to-know-to-start-working-adfc7cb739c5?source=rss----5517fd7b58a6---4)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
