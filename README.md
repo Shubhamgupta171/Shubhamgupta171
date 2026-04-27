@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Agentic AI: When Machines Stop Waiting for Instructions and Start Taking Action](https://rakshathimmaiah213.medium.com/agentic-ai-when-machines-stop-waiting-for-instructions-and-start-taking-action-b097360cde4b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Designing a locally Document → Knowledge Graph Pipeline for Invoice Processing](https://medium.com/@farooq.kaiser/designing-a-locally-document-knowledge-graph-pipeline-for-invoice-processing-4532fd2f5799?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Typing to Writing, a Habit That Helped Me Achieve Better Focus and Retention.](https://medium.com/@danielmalvaez41/from-typing-to-writing-a-habit-that-helped-me-achieve-better-focus-and-retention-b7f69e538c9e?source=rss------artificial_intelligence-5)**
-> 🔹 **[“I’m a Painting Contractor. I Do My Admin in 60 Seconds. Here’s How.”](https://medium.com/@kfre1810/im-a-painting-contractor-i-do-my-admin-in-60-seconds-here-s-how-d9056f0fd3a4?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Manna 4--3](https://medium.com/@chenyongfong/the-hidden-manna-4-3-e68ae4d708da?source=rss------artificial_intelligence-5)**
-> 🔹 **[“In the Age of AI, Strength Matters as Much as Intelligence”](https://medium.com/@hafsa.ajiaz/in-the-age-of-ai-strength-matters-as-much-as-intelligence-38d4ea22cb76?source=rss------artificial_intelligence-5)**
-> 🔹 **[Everyone Is Worried About AI Making Decisions. That’s Not the Real Problem.](https://lkakada.medium.com/everyone-is-worried-about-ai-making-decisions-thats-not-the-real-problem-96ee879b7c05?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Claude Design Actually Is &lpar;And Why Everyone’s Confused&rpar;](https://medium.com/@anil.futuristic/what-claude-design-actually-is-and-why-everyones-confused-8fe1e5ccdf34?source=rss------artificial_intelligence-5)**
+> 🔹 **[Boardroom AI: Monday Reality Check](https://medium.com/@yn.6197/boardroom-ai-monday-reality-check-c5b1f580232b?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Redefining Engineering Leadership — And That’s Exactly What We’re Missing](https://medium.com/@rosadita/ai-is-redefining-engineering-leadership-and-thats-exactly-what-we-re-missing-7f7f872fd3af?source=rss------artificial_intelligence-5)**
+> 🔹 **[Meta Is Watching Your Every Click — And Calling It Innovation](https://medium.com/@mayhemcode/meta-is-watching-your-every-click-and-calling-it-innovation-1e08826cd8da?source=rss------artificial_intelligence-5)**
+> 🔹 **[More Quantum Speedup for Music: HHL](https://alexiskirke.medium.com/more-quantum-speedup-for-music-hhl-5a56385fcb86?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI LAB DIGEST](https://medium.com/@mohamedhassan_63979/ai-lab-digest-a0c0b27174a5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Emotionally Resonant AI Needs More Than Text Generation](https://medium.com/@EMergentMR/why-emotionally-resonant-ai-needs-more-than-text-generation-34b6d4982f53?source=rss------artificial_intelligence-5)**
+> 🔹 **[*Why We Can’t Always Depend on AI* _The Butler, Not the Boss: What machines get wrong, and why…](https://medium.com/@faiqrathore/why-we-cant-always-depend-on-ai-the-butler-not-the-boss-what-machines-get-wrong-and-why-3a4dd42ec4e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why OFM Chatters Who Sound Great Still Can’t Hit 30% Conversion](https://medium.com/@ChatSan/why-ofm-chatters-who-sound-great-still-cant-hit-30-conversion-04af213a55f5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
