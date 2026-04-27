@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Hashtable vs Dictionary&lt;TKey , TValues&gt;](https://medium.com/@hibrahimar21/hashtable-vs-dictionary-tkey-tvalues-20e6aa045b44?source=rss------data_structures-5)**
-> 🔹 **[How Would You Design TinyURL? A Deep Dive into System Design](https://levelup.gitconnected.com/how-would-you-design-tinyurl-a-deep-dive-into-system-design-f30b05aeee15?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Recommending Movies: Powered by AI](https://levelup.gitconnected.com/recommending-movies-powered-by-ai-5e33d714ccbc?source=rss----5517fd7b58a6---4)**
-> 🔹 **[One of the Best Ways &lpar;Practical&rpar; To Stop Overthinking](https://medium.com/illumination/one-of-the-best-ways-practical-to-stop-overthinking-d35a3fa5022c?source=rss------artificial_intelligence-5)**
-> 🔹 **[One Keyword, One Song: Why the “AI Song Blueprint” is Changing the Game for AI Music](https://medium.com/@balazs.francz/one-keyword-one-song-why-the-ai-song-blueprint-is-changing-the-game-for-ai-music-b010598ad09c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Google, Uber, and Lyft Quietly Killed Their Mobile Multi-Repo Setup &lpar;And You Should Too&rpar;](https://levelup.gitconnected.com/why-google-uber-and-lyft-quietly-killed-their-mobile-multi-repo-setup-and-you-should-too-1b56678b5e4d?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Apache Spark Explained: How It Works &lpar;Architecture + Core Concepts&rpar;](https://levelup.gitconnected.com/what-is-spark-a-clear-and-detailed-guide-to-how-it-works-810a85079d00?source=rss----5517fd7b58a6---4)**
-> 🔹 **[What is OLAP? Architecture, Use Cases, and How It Works in Data Warehousing](https://levelup.gitconnected.com/olap-explained-everything-you-need-to-know-to-start-working-adfc7cb739c5?source=rss----5517fd7b58a6---4)**
+> 🔹 **[The Production Reality of AI Agent Security](https://medium.com/ai-agent-security/the-production-reality-of-ai-agent-security-c5ee8a190884?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Invisible Founder: Why &quot;Posting More&quot; is a Losing Strategy in 2026](https://medium.com/@shodunkeblessing/the-invisible-founder-why-posting-more-is-a-losing-strategy-in-2026-0976b36b7c3e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Microsoft Copilot Levels Up: Real Agentic Actions Now Live in Word, Excel, and PowerPoint](https://medium.com/data-science-collective/microsoft-copilot-levels-up-real-agentic-actions-now-live-in-word-excel-and-powerpoint-5e5592f60883?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 80% Wall: Why Your AI Agents are Developing Subsymbolic Psychosis](https://medium.com/@afoguchidalu73/the-80-wall-why-your-ai-agents-are-developing-subsymbolic-psychosis-dc2383db334a?source=rss------artificial_intelligence-5)**
+> 🔹 **[TOP 7 IT Outsourcing Companies in 2026 – Ranking of the Best Polish Providers](https://medium.com/software-business-review/top-7-it-outsourcing-companies-in-2026-ranking-of-the-best-polish-providers-7cfb2468abcf?source=rss------artificial_intelligence-5)**
+> 🔹 **[جينيسيس للذكاء الاصطناعي و«إس تي إس سمارت تكنولوجيز سيرفيسز» تتعاونان لدعم مستقبل التعليم الذكي...](https://medium.com/@genesis.ai.me.25/%D8%AC%D9%8A%D9%86%D9%8A%D8%B3%D9%8A%D8%B3-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88-%D8%A5%D8%B3-%D8%AA%D9%8A-%D8%A5%D8%B3-%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%B2-%D8%B3%D9%8A%D8%B1%D9%81%D9%8A%D8%B3%D8%B2-%D8%AA%D8%AA%D8%B9%D8%A7%D9%88%D9%86%D8%A7%D9%86-%D9%84%D8%AF%D8%B9%D9%85-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B0%D9%83%D9%8A-9c65fd1f46b4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Homem Obsoleto](https://medium.com/@rodrigomanhes/homem-obsoleto-0acb80bb8a48?source=rss------artificial_intelligence-5)**
+> 🔹 **[Qiu Min Ji’s Warning About Black Holes, Human AI, and a Hidden System of Physical and Spiritual...](https://medium.com/@alexandersebatian.1708/qiu-min-jis-warning-about-black-holes-human-ai-and-a-hidden-system-of-physical-and-spiritual-54122044fa58?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
