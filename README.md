@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Production Reality of AI Agent Security](https://medium.com/ai-agent-security/the-production-reality-of-ai-agent-security-c5ee8a190884?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Invisible Founder: Why &quot;Posting More&quot; is a Losing Strategy in 2026](https://medium.com/@shodunkeblessing/the-invisible-founder-why-posting-more-is-a-losing-strategy-in-2026-0976b36b7c3e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Microsoft Copilot Levels Up: Real Agentic Actions Now Live in Word, Excel, and PowerPoint](https://medium.com/data-science-collective/microsoft-copilot-levels-up-real-agentic-actions-now-live-in-word-excel-and-powerpoint-5e5592f60883?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 80% Wall: Why Your AI Agents are Developing Subsymbolic Psychosis](https://medium.com/@afoguchidalu73/the-80-wall-why-your-ai-agents-are-developing-subsymbolic-psychosis-dc2383db334a?source=rss------artificial_intelligence-5)**
-> 🔹 **[TOP 7 IT Outsourcing Companies in 2026 – Ranking of the Best Polish Providers](https://medium.com/software-business-review/top-7-it-outsourcing-companies-in-2026-ranking-of-the-best-polish-providers-7cfb2468abcf?source=rss------artificial_intelligence-5)**
-> 🔹 **[جينيسيس للذكاء الاصطناعي و«إس تي إس سمارت تكنولوجيز سيرفيسز» تتعاونان لدعم مستقبل التعليم الذكي...](https://medium.com/@genesis.ai.me.25/%D8%AC%D9%8A%D9%86%D9%8A%D8%B3%D9%8A%D8%B3-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88-%D8%A5%D8%B3-%D8%AA%D9%8A-%D8%A5%D8%B3-%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%B2-%D8%B3%D9%8A%D8%B1%D9%81%D9%8A%D8%B3%D8%B2-%D8%AA%D8%AA%D8%B9%D8%A7%D9%88%D9%86%D8%A7%D9%86-%D9%84%D8%AF%D8%B9%D9%85-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B0%D9%83%D9%8A-9c65fd1f46b4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Homem Obsoleto](https://medium.com/@rodrigomanhes/homem-obsoleto-0acb80bb8a48?source=rss------artificial_intelligence-5)**
-> 🔹 **[Qiu Min Ji’s Warning About Black Holes, Human AI, and a Hidden System of Physical and Spiritual...](https://medium.com/@alexandersebatian.1708/qiu-min-jis-warning-about-black-holes-human-ai-and-a-hidden-system-of-physical-and-spiritual-54122044fa58?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Learned Python in 30 Days — Here’s My Complete Roadmap](https://medium.com/@AI_Treasure/how-i-learned-python-in-30-days-heres-my-complete-roadmap-00da552e5cbf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Under the Hood: AI Systems](https://medium.com/@yn.6197/under-the-hood-ai-systems-6ea0c83cb38e?source=rss------artificial_intelligence-5)**
+> 🔹 **[NVIDIA Nemotron 3 Nano Omni](https://cobusgreyling.medium.com/nvidia-nemotron-3-nano-omni-fdecc9a4a125?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI Starts to Write Code That Actually Works: LLMs Master the Art of Medical Imaging](https://akmaier.medium.com/when-ai-starts-to-write-code-that-actually-works-llms-master-the-art-of-medical-imaging-5bc928c23b1b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Data Contract: Why Your AI Infrastructure Will Fail Without It](https://medium.com/@aibeginner/the-data-contract-why-your-ai-infrastructure-will-fail-without-it-f378541f607a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Where should AI agents have autonomy — and where must they be restricted?](https://medium.com/@pandu.1212/where-should-ai-agents-have-autonomy-and-where-must-they-be-restricted-814c95d5d372?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Would Start SEO in 2026 Using AI &lpar;If I Had to Start From Zero&rpar;](https://medium.com/@cp44520/how-i-would-start-seo-in-2026-using-ai-if-i-had-to-start-from-zero-f41b81f4e058?source=rss------artificial_intelligence-5)**
+> 🔹 **[Early May 2026 Is Packed With New Game Releases](https://medium.com/@lordsky.gg/early-may-2026-is-packed-with-new-game-releases-5465b3a42f93?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
