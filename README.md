@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The 3-Person Company Doing $10M in Revenue Is About to Become Boring](https://medium.com/@sinan.yaman/the-3-person-company-doing-10m-in-revenue-is-about-to-become-boring-aab401e1e769?source=rss------artificial_intelligence-5)**
-> 🔹 **[My initial thoughts on NotebookLM](https://thatmry.medium.com/my-initial-thoughts-on-notebooklm-926d4267add6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Day 14: The “Human-in-the-Loop” — Why You Are Still the Most Important Part of the AI Equation](https://medium.com/@markchristian0510/day-14-the-human-in-the-loop-why-you-are-still-the-most-important-part-of-the-ai-equation-9708ff6a8a8c?source=rss------artificial_intelligence-5)**
-> 🔹 **[When off-the-shelf AI costs more than building custom](https://medium.com/@vlad.koval/when-off-the-shelf-ai-costs-more-than-building-custom-305f3c105a48?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best SEO &amp; Digital Marketing Course with AI in Rajouri Garden Delhi](https://medium.com/@tyariexamki/best-seo-digital-marketing-course-with-ai-in-rajouri-garden-delhi-8fbb40530d08?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best AI Meeting Note Tools for Remote Teams](https://medium.com/@leezilun/best-ai-meeting-note-tools-for-remote-teams-0aa0ffdcf135?source=rss------artificial_intelligence-5)**
-> 🔹 **[End of an Era — GitHub Copilot models and prices change](https://cosmin-vladutu.medium.com/end-of-an-era-github-copilot-models-and-prices-change-2f1129035aa6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Design System as Infrastructure: How I’m redesigning my design pipeline to automate it](https://medium.com/@eduranfonseca/design-system-as-infrastructure-how-im-redesigning-my-design-pipeline-to-automate-it-ab8ff8df2a40?source=rss------system_design-5)**
+> 🔹 **[WS2812B NeoPixel LED Projects That Turn Light Into Experience](https://medium.com/@phd.hfchang/ws2812b-neopixel-led-projects-that-turn-light-into-experience-bd76a798d48f?source=rss------system_design-5)**
+> 🔹 **[Predictive Analytics and the Mathematics of Intelligent Decision-Making](https://medium.com/@ezekielochuko/predictive-analytics-and-the-mathematics-of-intelligent-decision-making-d5ec054aba3e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hiring Process Is Broken in a Specific Way Nobody Wants to Talk About](https://medium.com/@brian-curry-research/the-hiring-process-is-broken-in-a-specific-way-nobody-wants-to-talk-about-da28d3be99c1?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI capabilities accelerate, but public trust falls: Stanford report](https://medium.com/@christopher.suffi/ai-capabilities-accelerate-but-public-trust-falls-stanford-report-042558d42526?source=rss------artificial_intelligence-5)**
+> 🔹 **[THE ANATOMY OF THE CAGE: A Three-Phase Strike](https://medium.com/@Peterred.kinetic/the-anatomy-of-the-cage-a-three-phase-strike-822abf830e4b?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT vs. TikTok: Is Your AI Conversation Curating Your Feed?](https://medium.com/@sabatiku89/chatgpt-vs-tiktok-is-your-ai-conversation-curating-your-feed-9b3bf24ef07f?source=rss------artificial_intelligence-5)**
+> 🔹 **[FastAPI Tutorial &lpar;Day-01&rpar;](https://0xbasak.medium.com/fastapi-tutorial-day-01-093cad5ee67a?source=rss------backend_development-5)**
+> 🔹 **[Ai As A Assistant Tool](https://medium.com/@siynrr/ai-as-a-assistant-tool-da5ea71047fb?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
