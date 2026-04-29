@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[LangChain Output Parsers: Stop Getting Messy Text from Your AI Apps](https://medium.com/@adityaa9971/langchain-output-parsers-stop-getting-messy-text-from-your-ai-apps-524f91e56475?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Shapes Conversation Toward a Conclusion. You Need to Steer It Back.](https://medium.com/@able_wong/ai-shapes-conversation-toward-a-conclusion-you-need-to-steer-it-back-736451f51a9f?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Did Not Replace Me. It Made My 3 Hours After Work Count.](https://kgabeci.medium.com/ai-did-not-replace-me-it-made-my-3-hours-after-work-count-f60b7f8e5bcd?source=rss------artificial_intelligence-5)**
-> 🔹 **[An Interview With an Artificial Intelligence About Ethics, War, Colonialism, Billionaire Bias,...](https://graceannhansen.medium.com/be-a-claude-not-a-trump-6f2207dd48fd?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Don’t Own An Apple Watch — But The Masimo Dispute Showed Me How Its Data Actually Becomes Use...](https://medium.com/macoclock/i-dont-own-an-apple-watch-but-the-masimo-dispute-showed-me-how-its-data-actually-becomes-useful-70b8ee4f6311?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Run a One-Person Code Smithy. AI Is My Team.](https://medium.com/@stegodonsoftware/i-run-a-one-person-code-smithy-ai-is-my-team-e4ec450898fa?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI ‘Skill Gap’ Doesn’t Exist](https://medium.com/@kion.stephen/the-ai-skill-gap-doesn-t-exist-a23ab93951bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Isn’t Software Anymore. It’s Becoming Infrastructure.](https://medium.com/@anil.futuristic/ai-isnt-software-anymore-it-s-becoming-infrastructure-56b98a540961?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 3-Person Company Doing $10M in Revenue Is About to Become Boring](https://medium.com/@sinan.yaman/the-3-person-company-doing-10m-in-revenue-is-about-to-become-boring-aab401e1e769?source=rss------artificial_intelligence-5)**
+> 🔹 **[My initial thoughts on NotebookLM](https://thatmry.medium.com/my-initial-thoughts-on-notebooklm-926d4267add6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 14: The “Human-in-the-Loop” — Why You Are Still the Most Important Part of the AI Equation](https://medium.com/@markchristian0510/day-14-the-human-in-the-loop-why-you-are-still-the-most-important-part-of-the-ai-equation-9708ff6a8a8c?source=rss------artificial_intelligence-5)**
+> 🔹 **[When off-the-shelf AI costs more than building custom](https://medium.com/@vlad.koval/when-off-the-shelf-ai-costs-more-than-building-custom-305f3c105a48?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best SEO &amp; Digital Marketing Course with AI in Rajouri Garden Delhi](https://medium.com/@tyariexamki/best-seo-digital-marketing-course-with-ai-in-rajouri-garden-delhi-8fbb40530d08?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best AI Meeting Note Tools for Remote Teams](https://medium.com/@leezilun/best-ai-meeting-note-tools-for-remote-teams-0aa0ffdcf135?source=rss------artificial_intelligence-5)**
+> 🔹 **[End of an Era — GitHub Copilot models and prices change](https://cosmin-vladutu.medium.com/end-of-an-era-github-copilot-models-and-prices-change-2f1129035aa6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Design System as Infrastructure: How I’m redesigning my design pipeline to automate it](https://medium.com/@eduranfonseca/design-system-as-infrastructure-how-im-redesigning-my-design-pipeline-to-automate-it-ab8ff8df2a40?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
