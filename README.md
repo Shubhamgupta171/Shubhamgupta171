@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Invariant X: Why Your AI is Currently a Liability](https://medium.com/@afoguchidalu73/the-invariant-x-why-your-ai-is-currently-a-liability-b37e1f3d6416?source=rss------artificial_intelligence-5)**
-> 🔹 **[Seven AI Services in 48 Hours: Building Reelize at Hack Brooklyn 2026](https://medium.com/@eliyahumizrahi06/seven-ai-services-in-48-hours-building-reelize-at-hack-brooklyn-2026-7b8439f2863b?source=rss------artificial_intelligence-5)**
-> 🔹 **[China built it. Meta bought it. Beijing said no.](https://medium.com/enrique-dans/china-built-it-meta-bought-it-beijing-said-no-c9a079cff33e?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Code to Intelligence: Building a Cloud-Native AI Code Review System](https://medium.com/@kottakotaashish99/from-code-to-intelligence-building-a-cloud-native-ai-code-review-system-04764d23b977?source=rss------artificial_intelligence-5)**
-> 🔹 **[SaaS Isn’t Dying. It’s Being Re-Layered](https://pub.towardsai.net/the-saas-re-layering-419ce8a8134b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Developer’s Guide to Building AI Tools That Users Actually Pay For](https://medium.com/@pablodigital/the-developers-guide-to-building-ai-tools-that-users-actually-pay-for-a7f578af8fb3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Turn Any File Into AI-Ready Text With Microsoft MarkItDown](https://medium.com/@markchen69/turn-any-file-into-ai-ready-text-with-microsoft-markitdown-2adf413aabef?source=rss------artificial_intelligence-5)**
-> 🔹 **[An AI Got $100,000, a Credit Card, and a 3-Year Lease. Then It Opened a Store and Hired Humans.](https://tanmay19.medium.com/an-ai-got-100-000-a-credit-card-and-a-3-year-lease-then-it-opened-a-store-and-hired-humans-dcd31d84b617?source=rss------artificial_intelligence-5)**
+> 🔹 **[LangChain Output Parsers: Stop Getting Messy Text from Your AI Apps](https://medium.com/@adityaa9971/langchain-output-parsers-stop-getting-messy-text-from-your-ai-apps-524f91e56475?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Shapes Conversation Toward a Conclusion. You Need to Steer It Back.](https://medium.com/@able_wong/ai-shapes-conversation-toward-a-conclusion-you-need-to-steer-it-back-736451f51a9f?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Did Not Replace Me. It Made My 3 Hours After Work Count.](https://kgabeci.medium.com/ai-did-not-replace-me-it-made-my-3-hours-after-work-count-f60b7f8e5bcd?source=rss------artificial_intelligence-5)**
+> 🔹 **[An Interview With an Artificial Intelligence About Ethics, War, Colonialism, Billionaire Bias,...](https://graceannhansen.medium.com/be-a-claude-not-a-trump-6f2207dd48fd?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Don’t Own An Apple Watch — But The Masimo Dispute Showed Me How Its Data Actually Becomes Use...](https://medium.com/macoclock/i-dont-own-an-apple-watch-but-the-masimo-dispute-showed-me-how-its-data-actually-becomes-useful-70b8ee4f6311?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Run a One-Person Code Smithy. AI Is My Team.](https://medium.com/@stegodonsoftware/i-run-a-one-person-code-smithy-ai-is-my-team-e4ec450898fa?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI ‘Skill Gap’ Doesn’t Exist](https://medium.com/@kion.stephen/the-ai-skill-gap-doesn-t-exist-a23ab93951bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Isn’t Software Anymore. It’s Becoming Infrastructure.](https://medium.com/@anil.futuristic/ai-isnt-software-anymore-it-s-becoming-infrastructure-56b98a540961?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
