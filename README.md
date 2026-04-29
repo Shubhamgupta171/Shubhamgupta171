@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[WS2812B NeoPixel LED Projects That Turn Light Into Experience](https://medium.com/@phd.hfchang/ws2812b-neopixel-led-projects-that-turn-light-into-experience-bd76a798d48f?source=rss------system_design-5)**
-> 🔹 **[Predictive Analytics and the Mathematics of Intelligent Decision-Making](https://medium.com/@ezekielochuko/predictive-analytics-and-the-mathematics-of-intelligent-decision-making-d5ec054aba3e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hiring Process Is Broken in a Specific Way Nobody Wants to Talk About](https://medium.com/@brian-curry-research/the-hiring-process-is-broken-in-a-specific-way-nobody-wants-to-talk-about-da28d3be99c1?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI capabilities accelerate, but public trust falls: Stanford report](https://medium.com/@christopher.suffi/ai-capabilities-accelerate-but-public-trust-falls-stanford-report-042558d42526?source=rss------artificial_intelligence-5)**
-> 🔹 **[THE ANATOMY OF THE CAGE: A Three-Phase Strike](https://medium.com/@Peterred.kinetic/the-anatomy-of-the-cage-a-three-phase-strike-822abf830e4b?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT vs. TikTok: Is Your AI Conversation Curating Your Feed?](https://medium.com/@sabatiku89/chatgpt-vs-tiktok-is-your-ai-conversation-curating-your-feed-9b3bf24ef07f?source=rss------artificial_intelligence-5)**
-> 🔹 **[FastAPI Tutorial &lpar;Day-01&rpar;](https://0xbasak.medium.com/fastapi-tutorial-day-01-093cad5ee67a?source=rss------backend_development-5)**
-> 🔹 **[Ai As A Assistant Tool](https://medium.com/@siynrr/ai-as-a-assistant-tool-da5ea71047fb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)**
+> 🔹 **[Why Coinbase and Binance are Betting on Autonomous AI](https://medium.com/the-well-lit-cryptocurrency-market/why-coinbase-and-binance-are-betting-on-autonomous-ai-4d970077c963?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Overpaying for Mother’s Day Gifts](https://medium.com/@zapia_ai/stop-overpaying-for-mothers-day-gifts-29a1685008ca?source=rss------artificial_intelligence-5)**
+> 🔹 **[AG-UI: Streaming Agent Responses to Real-Time Frontends](https://medium.com/@gazzumatteo/ag-ui-streaming-agent-responses-to-real-time-frontends-61ce935617af?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Too Helpful AI Problem](https://medium.com/@diamondjana/the-too-helpful-ai-problem-7f72a457c118?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best Free AI Image Generators in 2026: Top Tools Ranked](https://medium.com/@aanchal_takyar/best-free-ai-image-generators-in-2025-top-tools-ranked-c83cd896549f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Quiet Realization](https://medium.com/@dianepreeper_51667/the-quiet-realization-198fad537c06?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built 3 AI Tools in 30 Days. Here’s What Actually Worked.](https://medium.com/@pablodigital/i-built-3-ai-tools-in-30-days-heres-what-actually-worked-b93929a02caa?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
