@@ -35,13 +35,13 @@
 <!-- BLOG-POST-LIST:START -->
 
 > 🔹 **[Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)**
-> 🔹 **[Why Coinbase and Binance are Betting on Autonomous AI](https://medium.com/the-well-lit-cryptocurrency-market/why-coinbase-and-binance-are-betting-on-autonomous-ai-4d970077c963?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Overpaying for Mother’s Day Gifts](https://medium.com/@zapia_ai/stop-overpaying-for-mothers-day-gifts-29a1685008ca?source=rss------artificial_intelligence-5)**
-> 🔹 **[AG-UI: Streaming Agent Responses to Real-Time Frontends](https://medium.com/@gazzumatteo/ag-ui-streaming-agent-responses-to-real-time-frontends-61ce935617af?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Too Helpful AI Problem](https://medium.com/@diamondjana/the-too-helpful-ai-problem-7f72a457c118?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best Free AI Image Generators in 2026: Top Tools Ranked](https://medium.com/@aanchal_takyar/best-free-ai-image-generators-in-2025-top-tools-ranked-c83cd896549f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Quiet Realization](https://medium.com/@dianepreeper_51667/the-quiet-realization-198fad537c06?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built 3 AI Tools in 30 Days. Here’s What Actually Worked.](https://medium.com/@pablodigital/i-built-3-ai-tools-in-30-days-heres-what-actually-worked-b93929a02caa?source=rss------artificial_intelligence-5)**
+> 🔹 **[Java Performance Optimization, Tips Every Developer Should Know](https://medium.com/@onkar20/java-performance-optimization-tips-every-developer-should-know-89e8c5f29e8e?source=rss------system_design-5)**
+> 🔹 **[UPCOMING TEACHING](https://medium.com/@afrolifeministry/upcoming-teaching-090691616e19?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Foundations of Generative AI: From Concepts to Reality](https://medium.com/@kritifaujdar/the-foundations-of-generative-ai-from-concepts-to-reality-f01e6edb1181?source=rss------artificial_intelligence-5)**
+> 🔹 **[Satori and the Rise of Community-Owned Intelligence.](https://medium.com/@Anatolydiggle/satori-and-the-rise-of-community-owned-intelligence-a996704f6b7e?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenClaw: Building a Self-Hosted AI Assistant That Lives Inside Your Workflow](https://medium.com/@disandup1/openclaw-building-a-self-hosted-ai-assistant-that-lives-inside-your-workflow-3084994294af?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future of Work: From Employees to AI Systems](https://medium.com/@youssefelhannouf443/the-future-of-work-from-employees-to-ai-systems-27ef1f93e195?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Tools Are Dangerous](https://tanmoyda.medium.com/ai-tools-are-dangerous-5f752d896be7?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
