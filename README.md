@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)**
-> 🔹 **[Paint 3D &lpar;2026&rpar; — Simplified Rewrite](https://medium.com/@dpaint0786/paint-3d-2026-simplified-rewrite-fd70960aedd1?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Comply with Digital Banking Regulations Using Face Recognition in Thailand &lpar;2026&rpar;](https://medium.com/@YuanliTechnology/how-to-comply-with-digital-banking-regulations-using-face-recognition-in-thailand-2026-f2d627e6ae78?source=rss------artificial_intelligence-5)**
-> 🔹 **[NVIDIA Nemotron 3 Super: The AI Model That Thinks Beyond Simple Chatbots](https://medium.com/@nhu27/nvidia-nemotron-3-super-the-ai-model-that-thinks-beyond-simple-chatbots-5406d1149660?source=rss------artificial_intelligence-5)**
-> 🔹 **[Interior Design and AI: When Technology Meets Human Sensibility](https://medium.com/@idrissihatim/interior-design-and-ai-when-technology-meets-human-sensibility-a810012fafec?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI in DevOps: Hidden Risks and Challenges Nobody Talks About](https://ultimeztechnologyhubli.medium.com/ai-in-devops-hidden-risks-and-challenges-nobody-talks-about-24317541ba5e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mesa: The Filesystem AI Agents Were Obviously Going to Need](https://abvcreative.medium.com/mesa-the-filesystem-ai-agents-were-obviously-going-to-need-947ffc76a279?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Vibe Coding Ends in 2026 &lpar;Karpathy Explains&rpar;](https://medium.com/ai-systems-lab/why-vibe-coding-ends-in-2026-karpathy-explains-f9c490f5f019?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Worst Coder in the World goes agentic: building a leaderboard cracking AI](https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic/)**
+> 🔹 **[Improve Your Programming Logic Using Smart Prompts](https://medium.com/@vijayakrishna.rofficial/improve-your-programming-logic-using-smart-prompts-a30bfe12a604?source=rss------artificial_intelligence-5)**
+> 🔹 **[Burning Down the House: Design Debt, UX Failure, and Scaled Exclusion](https://medium.com/@reginamcdonaldrussian/burning-down-the-house-design-debt-ux-failure-and-scaled-exclusion-b1e7c4ce3781?source=rss------system_design-5)**
+> 🔹 **[Building a Business Without a Big Team](https://medium.com/@aimoneyproofficial/building-a-business-without-a-big-team-9e966f81ecbb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bad Data Is Killing 60% of AI Projects: The 2026 Data Quality Playbook](https://blog.stackademic.com/bad-data-is-killing-60-of-ai-projects-the-2026-data-quality-playbook-d92f78f1d3d7?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT ranked Who’s In #1 for “Best Free RSVP Apps in 2026”
+ — here’s what it said](https://medium.com/@craigpollard/chatgpt-ranked-whos-in-1-for-best-free-rsvp-apps-in-2026-here-s-what-it-said-ff04f71e1d7a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic AI is changing how businesses operate.](https://medium.com/@roysantuhdfc/agentic-ai-is-changing-how-businesses-operate-a69db58d84d1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Code Cheat Sheet](https://blog.howtoprofitai.com/claude-code-cheat-sheet-4047ff39fe9f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
