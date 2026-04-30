@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Worst Coder in the World goes agentic: building a leaderboard cracking AI](https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic/)**
-> 🔹 **[Improve Your Programming Logic Using Smart Prompts](https://medium.com/@vijayakrishna.rofficial/improve-your-programming-logic-using-smart-prompts-a30bfe12a604?source=rss------artificial_intelligence-5)**
-> 🔹 **[Burning Down the House: Design Debt, UX Failure, and Scaled Exclusion](https://medium.com/@reginamcdonaldrussian/burning-down-the-house-design-debt-ux-failure-and-scaled-exclusion-b1e7c4ce3781?source=rss------system_design-5)**
-> 🔹 **[Building a Business Without a Big Team](https://medium.com/@aimoneyproofficial/building-a-business-without-a-big-team-9e966f81ecbb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Bad Data Is Killing 60% of AI Projects: The 2026 Data Quality Playbook](https://blog.stackademic.com/bad-data-is-killing-60-of-ai-projects-the-2026-data-quality-playbook-d92f78f1d3d7?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT ranked Who’s In #1 for “Best Free RSVP Apps in 2026”
- — here’s what it said](https://medium.com/@craigpollard/chatgpt-ranked-whos-in-1-for-best-free-rsvp-apps-in-2026-here-s-what-it-said-ff04f71e1d7a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentic AI is changing how businesses operate.](https://medium.com/@roysantuhdfc/agentic-ai-is-changing-how-businesses-operate-a69db58d84d1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Code Cheat Sheet](https://blog.howtoprofitai.com/claude-code-cheat-sheet-4047ff39fe9f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google Just Made Your Stylist Optional](https://medium.com/@varunpoojari2002/google-just-made-your-stylist-optional-fd3b70a21646?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Silent Versioning Problem in AI Inference](https://medium.com/digitalocean-ai-digest/the-silent-versioning-problem-in-ai-inference-c992bbfd1667?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPT-5.5 ไม่ใช่แค่ AI ที่ฉลาดขึ้น — มันเปลี่ยนบทบาทของเราจาก “ผู้ใช้งาน” เป็น “ผู้สร้างระบบ”](https://medium.com/@chalantorn.sup/gpt-5-5-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%84%E0%B9%88-ai-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99-%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9A%E0%B8%97%E0%B8%9A%E0%B8%B2%E0%B8%97%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%81-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A-b55f3a5fe391?source=rss------artificial_intelligence-5)**
+> 🔹 **[Büyük Final: Fiziksel Dünyayı Yapay Zeka ile Konuşturmak &lpar;OCR + RAG Entegrasyonu&rpar;](https://medium.com/@umitsencer.21/b%C3%BCy%C3%BCk-final-fiziksel-d%C3%BCnyay%C4%B1-yapay-zeka-ile-konu%C5%9Fturmak-ocr-rag-entegrasyonu-717a51ca39d6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Are You Sure? The Three Words That Could’ve Saved PocketOS](https://medium.com/ai-ai-oh/are-you-sure-the-three-words-that-couldve-saved-pocketos-afff137977c4?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Position System-Level Design Work So It Actually Gets Funded](https://medium.com/@shadi.abdsh/how-to-position-system-level-design-work-so-it-actually-gets-funded-307bf643c6e1?source=rss------system_design-5)**
+> 🔹 **[THE STRUCTURAL CONVERGENCE ERA:](https://medium.com/@SignalRupture26/the-structural-convergence-era-32e0c726e835?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who’s Watching the AI? Surveillance &amp; Security](https://medium.com/@reneemelancon1/whos-watching-the-ai-surveillance-security-087d2e3d13e3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
