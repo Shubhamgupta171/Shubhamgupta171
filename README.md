@@ -35,13 +35,13 @@
 <!-- BLOG-POST-LIST:START -->
 
 > 🔹 **[Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)**
-> 🔹 **[Java Performance Optimization, Tips Every Developer Should Know](https://medium.com/@onkar20/java-performance-optimization-tips-every-developer-should-know-89e8c5f29e8e?source=rss------system_design-5)**
-> 🔹 **[UPCOMING TEACHING](https://medium.com/@afrolifeministry/upcoming-teaching-090691616e19?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Foundations of Generative AI: From Concepts to Reality](https://medium.com/@kritifaujdar/the-foundations-of-generative-ai-from-concepts-to-reality-f01e6edb1181?source=rss------artificial_intelligence-5)**
-> 🔹 **[Satori and the Rise of Community-Owned Intelligence.](https://medium.com/@Anatolydiggle/satori-and-the-rise-of-community-owned-intelligence-a996704f6b7e?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenClaw: Building a Self-Hosted AI Assistant That Lives Inside Your Workflow](https://medium.com/@disandup1/openclaw-building-a-self-hosted-ai-assistant-that-lives-inside-your-workflow-3084994294af?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Future of Work: From Employees to AI Systems](https://medium.com/@youssefelhannouf443/the-future-of-work-from-employees-to-ai-systems-27ef1f93e195?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Tools Are Dangerous](https://tanmoyda.medium.com/ai-tools-are-dangerous-5f752d896be7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Paint 3D &lpar;2026&rpar; — Simplified Rewrite](https://medium.com/@dpaint0786/paint-3d-2026-simplified-rewrite-fd70960aedd1?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Comply with Digital Banking Regulations Using Face Recognition in Thailand &lpar;2026&rpar;](https://medium.com/@YuanliTechnology/how-to-comply-with-digital-banking-regulations-using-face-recognition-in-thailand-2026-f2d627e6ae78?source=rss------artificial_intelligence-5)**
+> 🔹 **[NVIDIA Nemotron 3 Super: The AI Model That Thinks Beyond Simple Chatbots](https://medium.com/@nhu27/nvidia-nemotron-3-super-the-ai-model-that-thinks-beyond-simple-chatbots-5406d1149660?source=rss------artificial_intelligence-5)**
+> 🔹 **[Interior Design and AI: When Technology Meets Human Sensibility](https://medium.com/@idrissihatim/interior-design-and-ai-when-technology-meets-human-sensibility-a810012fafec?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI in DevOps: Hidden Risks and Challenges Nobody Talks About](https://ultimeztechnologyhubli.medium.com/ai-in-devops-hidden-risks-and-challenges-nobody-talks-about-24317541ba5e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mesa: The Filesystem AI Agents Were Obviously Going to Need](https://abvcreative.medium.com/mesa-the-filesystem-ai-agents-were-obviously-going-to-need-947ffc76a279?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Vibe Coding Ends in 2026 &lpar;Karpathy Explains&rpar;](https://medium.com/ai-systems-lab/why-vibe-coding-ends-in-2026-karpathy-explains-f9c490f5f019?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
