@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Build an AI Voice Receptionist to Automate Front Desk Operations in 2026](https://medium.com/coinmonks/how-to-build-an-ai-voice-receptionist-to-automate-front-desk-operations-in-2026-1d0bf4008f1b?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Talked to an AI Chatbot About My Anxiety at 2am — And It Made Me Feel More Alone](https://medium.com/@ommaske90/i-talked-to-an-ai-chatbot-about-my-anxiety-at-2am-and-it-made-me-feel-more-alone-e64f4109a3bb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Onchain Sarcasm — Mighty Ducks Dueling For Quantum Security](https://medium.com/coinmonks/onchain-sarcasm-mighty-ducks-dueling-for-quantum-security-947d37a17a0d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Designing Scalable Data Storage Systems for AI: From Early Architecture to Production Scale](https://medium.com/@billygareth01/designing-scalable-data-storage-systems-for-ai-from-early-architecture-to-production-scale-47beed798681?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Strategy Consulting: What It Is, What It Costs, and What ROI to Expect](https://medium.com/@ani.modi/ai-strategy-consulting-what-it-is-what-it-costs-and-what-roi-to-expect-e6daefbfeb82?source=rss------artificial_intelligence-5)**
-> 🔹 **[Keeping Your Job in the Age of AI](https://medium.com/human-at-work/keeping-your-job-in-the-age-of-ai-5a20c921b602?source=rss------artificial_intelligence-5)**
-> 🔹 **[LLM01 - Prompt Injection](https://erdemstar.medium.com/llm01-prompt-injection-c3b77be7157c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mechanical Qualia: Practical System Distinctions](https://medium.com/@texasmikeksu2688/mechanical-qualia-practical-system-distinctions-efcd39d0b693?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Three Words Killing Enterprise AI Projects](https://medium.com/@hello_93978/the-three-words-killing-enterprise-ai-projects-a15324ddae27?source=rss------artificial_intelligence-5)**
+> 🔹 **[Custom Middleware &amp; Security Features— Path to Laravel &lpar;Article 18&rpar; ️](https://dinushkatharidu.medium.com/custom-middleware-security-features-path-to-laravel-article-18-%EF%B8%8F-a8776a93e8df?source=rss------backend_development-5)**
+> 🔹 **[How Deloitte reduced environment provisioning from 45 minutes to under 5 minutes, saved 500+ ho...](https://medium.com/@jappreets4747/how-deloitte-reduced-environment-provisioning-from-45-minutes-to-under-5-minutes-saved-500-hours-8ca4b54177b9?source=rss------system_design-5)**
+> 🔹 **[Why Apple’s Hidden Claude.md File Reveals Its Real AI Strategy](https://medium.com/@sebuzdugan/why-apples-hidden-claude-md-file-reveals-its-real-ai-strategy-bffb10ee0614?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future of Cyber Warfare: Invisible Frontlines and Unseen Consequences](https://rakshathimmaiah213.medium.com/the-future-of-cyber-warfare-invisible-frontlines-and-unseen-consequences-f634d2ac2e05?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best AI Clip Generator Tools in 2026: Create Viral Content in Minutes](https://medium.com/@vfxai_inc/best-ai-clip-generator-tools-in-2026-create-viral-content-in-minutes-a00fe76a8ef6?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Isn’t Magic. You’re Just Finally Seeing How It Thinks.](https://medium.com/@nathalieelbarche/ai-isnt-magic-you-re-just-finally-seeing-how-it-thinks-b2b7ddb25862?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Fooled Me. Then I Became a Developer and Saw What It Actually Is.](https://medium.com/@pravinraj213/ai-fooled-me-then-i-became-a-developer-and-saw-what-it-actually-is-339cc3ba61b5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
