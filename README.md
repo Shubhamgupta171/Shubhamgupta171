@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Google Just Made Your Stylist Optional](https://medium.com/@varunpoojari2002/google-just-made-your-stylist-optional-fd3b70a21646?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Silent Versioning Problem in AI Inference](https://medium.com/digitalocean-ai-digest/the-silent-versioning-problem-in-ai-inference-c992bbfd1667?source=rss------artificial_intelligence-5)**
-> 🔹 **[GPT-5.5 ไม่ใช่แค่ AI ที่ฉลาดขึ้น — มันเปลี่ยนบทบาทของเราจาก “ผู้ใช้งาน” เป็น “ผู้สร้างระบบ”](https://medium.com/@chalantorn.sup/gpt-5-5-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%84%E0%B9%88-ai-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99-%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9A%E0%B8%97%E0%B8%9A%E0%B8%B2%E0%B8%97%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%81-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A-b55f3a5fe391?source=rss------artificial_intelligence-5)**
-> 🔹 **[Büyük Final: Fiziksel Dünyayı Yapay Zeka ile Konuşturmak &lpar;OCR + RAG Entegrasyonu&rpar;](https://medium.com/@umitsencer.21/b%C3%BCy%C3%BCk-final-fiziksel-d%C3%BCnyay%C4%B1-yapay-zeka-ile-konu%C5%9Fturmak-ocr-rag-entegrasyonu-717a51ca39d6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Are You Sure? The Three Words That Could’ve Saved PocketOS](https://medium.com/ai-ai-oh/are-you-sure-the-three-words-that-couldve-saved-pocketos-afff137977c4?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Position System-Level Design Work So It Actually Gets Funded](https://medium.com/@shadi.abdsh/how-to-position-system-level-design-work-so-it-actually-gets-funded-307bf643c6e1?source=rss------system_design-5)**
-> 🔹 **[THE STRUCTURAL CONVERGENCE ERA:](https://medium.com/@SignalRupture26/the-structural-convergence-era-32e0c726e835?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who’s Watching the AI? Surveillance &amp; Security](https://medium.com/@reneemelancon1/whos-watching-the-ai-surveillance-security-087d2e3d13e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Treating Matt Pocock’s Skills as Prompts. That’s Why Yours Aren’t Working.](https://medium.com/@anup.karanjkar08/stop-treating-matt-pococks-skills-as-prompts-that-s-why-yours-aren-t-working-708f2c74edfc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your English-Centric Internet is a Prison. AI is the Key to the Other 50%.](https://medium.com/@sasaya1978/your-english-centric-internet-is-a-prison-ai-is-the-key-to-the-other-50-0f4193c7bfcc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Real Problem With AI Isn’t Capability — It’s Trust](https://medium.com/@infrasuiteai/the-real-problem-with-ai-isnt-capability-it-s-trust-9f0fbfc9674e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Most Professionals Misuse AI Assistants — and What They’re Missing](https://medium.com/@abhinav.sprintzeal/why-most-professionals-misuse-ai-assistants-and-what-theyre-missing-315997eea078?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Implement Intuitive Design in Real Life: Practical UX Strategies That Actually Work](https://medium.com/@divinestocks/how-to-implement-intuitive-design-in-real-life-practical-ux-strategies-that-actually-work-406c2a5a089a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Upcoming Great Skills Reset with Humanoid AI](https://harsha-srivatsa.medium.com/the-upcoming-great-skills-reset-with-humanoid-ai-754e6cefaa74?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Teaching in Kenya Taught Me About What Children Actually Need&quot;](https://medium.com/@kimanikelvin122/what-teaching-in-kenya-taught-me-about-what-children-actually-need-ff8d1112c2df?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 120 — Core Components of Terraform: A Beginner-Friendly Guide with AI Workload Examples](https://medium.com/@alokrahuldevops/day-120-core-components-of-terraform-a-beginner-friendly-guide-with-ai-workload-examples-36f3d2fcd78c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
