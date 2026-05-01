@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Stop Treating Matt Pocock’s Skills as Prompts. That’s Why Yours Aren’t Working.](https://medium.com/@anup.karanjkar08/stop-treating-matt-pococks-skills-as-prompts-that-s-why-yours-aren-t-working-708f2c74edfc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your English-Centric Internet is a Prison. AI is the Key to the Other 50%.](https://medium.com/@sasaya1978/your-english-centric-internet-is-a-prison-ai-is-the-key-to-the-other-50-0f4193c7bfcc?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Real Problem With AI Isn’t Capability — It’s Trust](https://medium.com/@infrasuiteai/the-real-problem-with-ai-isnt-capability-it-s-trust-9f0fbfc9674e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Most Professionals Misuse AI Assistants — and What They’re Missing](https://medium.com/@abhinav.sprintzeal/why-most-professionals-misuse-ai-assistants-and-what-theyre-missing-315997eea078?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Implement Intuitive Design in Real Life: Practical UX Strategies That Actually Work](https://medium.com/@divinestocks/how-to-implement-intuitive-design-in-real-life-practical-ux-strategies-that-actually-work-406c2a5a089a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Upcoming Great Skills Reset with Humanoid AI](https://harsha-srivatsa.medium.com/the-upcoming-great-skills-reset-with-humanoid-ai-754e6cefaa74?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Teaching in Kenya Taught Me About What Children Actually Need&quot;](https://medium.com/@kimanikelvin122/what-teaching-in-kenya-taught-me-about-what-children-actually-need-ff8d1112c2df?source=rss------artificial_intelligence-5)**
-> 🔹 **[Day 120 — Core Components of Terraform: A Beginner-Friendly Guide with AI Workload Examples](https://medium.com/@alokrahuldevops/day-120-core-components-of-terraform-a-beginner-friendly-guide-with-ai-workload-examples-36f3d2fcd78c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Build an AI Voice Receptionist to Automate Front Desk Operations in 2026](https://medium.com/coinmonks/how-to-build-an-ai-voice-receptionist-to-automate-front-desk-operations-in-2026-1d0bf4008f1b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Talked to an AI Chatbot About My Anxiety at 2am — And It Made Me Feel More Alone](https://medium.com/@ommaske90/i-talked-to-an-ai-chatbot-about-my-anxiety-at-2am-and-it-made-me-feel-more-alone-e64f4109a3bb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Onchain Sarcasm — Mighty Ducks Dueling For Quantum Security](https://medium.com/coinmonks/onchain-sarcasm-mighty-ducks-dueling-for-quantum-security-947d37a17a0d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Designing Scalable Data Storage Systems for AI: From Early Architecture to Production Scale](https://medium.com/@billygareth01/designing-scalable-data-storage-systems-for-ai-from-early-architecture-to-production-scale-47beed798681?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Strategy Consulting: What It Is, What It Costs, and What ROI to Expect](https://medium.com/@ani.modi/ai-strategy-consulting-what-it-is-what-it-costs-and-what-roi-to-expect-e6daefbfeb82?source=rss------artificial_intelligence-5)**
+> 🔹 **[Keeping Your Job in the Age of AI](https://medium.com/human-at-work/keeping-your-job-in-the-age-of-ai-5a20c921b602?source=rss------artificial_intelligence-5)**
+> 🔹 **[LLM01 - Prompt Injection](https://erdemstar.medium.com/llm01-prompt-injection-c3b77be7157c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mechanical Qualia: Practical System Distinctions](https://medium.com/@texasmikeksu2688/mechanical-qualia-practical-system-distinctions-efcd39d0b693?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
