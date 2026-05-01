@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Three Words Killing Enterprise AI Projects](https://medium.com/@hello_93978/the-three-words-killing-enterprise-ai-projects-a15324ddae27?source=rss------artificial_intelligence-5)**
-> 🔹 **[Custom Middleware &amp; Security Features— Path to Laravel &lpar;Article 18&rpar; ️](https://dinushkatharidu.medium.com/custom-middleware-security-features-path-to-laravel-article-18-%EF%B8%8F-a8776a93e8df?source=rss------backend_development-5)**
-> 🔹 **[How Deloitte reduced environment provisioning from 45 minutes to under 5 minutes, saved 500+ ho...](https://medium.com/@jappreets4747/how-deloitte-reduced-environment-provisioning-from-45-minutes-to-under-5-minutes-saved-500-hours-8ca4b54177b9?source=rss------system_design-5)**
-> 🔹 **[Why Apple’s Hidden Claude.md File Reveals Its Real AI Strategy](https://medium.com/@sebuzdugan/why-apples-hidden-claude-md-file-reveals-its-real-ai-strategy-bffb10ee0614?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Future of Cyber Warfare: Invisible Frontlines and Unseen Consequences](https://rakshathimmaiah213.medium.com/the-future-of-cyber-warfare-invisible-frontlines-and-unseen-consequences-f634d2ac2e05?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best AI Clip Generator Tools in 2026: Create Viral Content in Minutes](https://medium.com/@vfxai_inc/best-ai-clip-generator-tools-in-2026-create-viral-content-in-minutes-a00fe76a8ef6?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Isn’t Magic. You’re Just Finally Seeing How It Thinks.](https://medium.com/@nathalieelbarche/ai-isnt-magic-you-re-just-finally-seeing-how-it-thinks-b2b7ddb25862?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Fooled Me. Then I Became a Developer and Saw What It Actually Is.](https://medium.com/@pravinraj213/ai-fooled-me-then-i-became-a-developer-and-saw-what-it-actually-is-339cc3ba61b5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Reading Is the Most Critical Skill for Software Engineers in the AI Era](https://medium.com/@gitesh.shinde907/why-reading-is-the-most-critical-skill-for-software-engineers-in-the-ai-era-71eff8847471?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Code Writer to AI Orchestrator: The New Era of Software Engineering](https://medium.com/@dhavalshah1993/from-code-writer-to-ai-orchestrator-the-new-era-of-software-engineering-38b775673555?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Gadget That Didn’t Just Watch Me — It Became Me](https://medium.com/@ayeshha2398/the-ai-gadget-that-didnt-just-watch-me-it-became-me-24bd2dc6f75a?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Gave 80+ GenAI Interviews in 6 Months. Here’s Everything You Need to Know to Crack One.](https://towardsdev.com/i-gave-80-genai-interviews-in-6-months-heres-everything-you-need-to-know-to-crack-one-f65bcb5fbaf0?source=rss------artificial_intelligence-5)**
+> 🔹 **[15 Best Chatgpt prompts for photos Free &lpar;Copy &amp; Paste&rpar;](https://medium.com/@itbasetech/15-best-chatgpt-prompts-for-photos-free-copy-paste-1e438ae2cfab?source=rss------artificial_intelligence-5)**
+> 🔹 **[Free Local AI Coding Setup — That Actually Works](https://medium.com/@raviteja777/free-local-ai-coding-setup-that-actually-works-8f3c1ec624fd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why I Am Relearning AI and Full-Stack Development in Public — And What I Hope to Prove](https://medium.com/@mohan-01/why-i-am-relearning-ai-and-full-stack-development-in-public-and-what-i-hope-to-prove-1f5ac6231a62?source=rss------artificial_intelligence-5)**
+> 🔹 **[Wallet Risk Scoring Explained: How to Identify Risky Onchain Behavior](https://medium.com/@siddharthvaishya00/wallet-risk-scoring-explained-how-to-identify-risky-onchain-behavior-277f8868d53c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
