@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[You’re Not Thinking Anymore. AI Is Doing It for You.](https://timepersonified.medium.com/youre-not-thinking-anymore-ai-is-doing-it-for-you-2f0a8a8ee8b8?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Isn’t Killing Music. It’s Giving Trained Creators a Bigger Studio.](https://kevinsurace.medium.com/ai-isnt-killing-music-it-s-giving-trained-creators-a-bigger-studio-c6292b93d9cb?source=rss------artificial_intelligence-5)**
-> 🔹 **[9 Python Features That Make Code More Pythonic](https://python.plainenglish.io/9-python-features-that-make-code-more-pythonic-8129bf142477?source=rss------artificial_intelligence-5)**
-> 🔹 **[Our Go Test Suite Ran in 11 Minutes. After These Changes, It Runs in 53 Seconds.](https://elsyarifx.medium.com/our-go-test-suite-ran-in-11-minutes-after-these-changes-it-runs-in-53-seconds-d0a3c8399fb1?source=rss------backend_development-5)**
-> 🔹 **[What Real-World Data Reveals About Near-Miss Events in Transport Systems — and How AI Is Changi...](https://medium.com/@labibsalam0/what-real-world-data-reveals-about-near-miss-events-in-transport-systems-and-how-ai-is-changing-74a1fc4efcad?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Cloud CAD Is Moving Beyond Files to Conversation-Driven Design](https://medium.com/@zixel3d.ai/why-cloud-cad-is-moving-beyond-files-to-conversation-driven-design-de76f1d83425?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agent, Memory, ReAct, RAG, Multi-Agent](https://medium.com/@amitshekhar/ai-agent-memory-react-rag-multi-agent-fc1a3959f2d7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Five AI Risks No One Wants to Remove](https://medium.com/@jani1973/five-ai-risks-no-one-wants-to-remove-a49e96fa3f20?source=rss------artificial_intelligence-5)**
+> 🔹 **[✅ AUTOMATE ORDER PROCESSING — Order-to-Cash &lpar;VERY SIMPLE WAY&rpar;](https://medium.com/@shibojit.official96/automate-order-processing-order-to-cash-very-simple-way-e1ef54d39106?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Chatbots are Not Your Friends](https://medium.com/ai-ai-oh/ai-chatbots-are-not-your-friends-1bc8e7ac151c?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Won’t Replace You, But a Person Using AI Will: 5 Skills You Need in 2026](https://medium.com/@bc230410381kta/ai-wont-replace-you-but-a-person-using-ai-will-5-skills-you-need-in-2026-fad4c7f615da?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Daily Update May-2-2026](https://medium.com/@stephen.stanley777/ai-daily-update-may-2-2026-5a196cf7b82b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Memprediksi Rating Game Steam Menggunakan Machine Learning: Pendekatan Regresi Linier dan…](https://medium.com/@revanarnanta/memprediksi-rating-game-steam-menggunakan-machine-learning-pendekatan-regresi-linier-dan-697bf2235f14?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Visibility Illusion](https://medium.com/@davidmpeterson1998/the-ai-visibility-illusion-992a5a1240cf?source=rss------artificial_intelligence-5)**
+> 🔹 **[How medical consultations may be generating data for AI](https://generativeai.pub/clinical-ai-privacy-reidentification-patient-data-risk-dafb97612bd3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Truth About Passive Income With AI &lpar;What Nobody Tells You&rpar;](https://medium.com/@unlockedai/the-truth-about-passive-income-with-ai-what-nobody-tells-you-25ee68cd4e2c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
