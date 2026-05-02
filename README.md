@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[E-Commerce GST Guide: Amazon &amp; Flipkart Sellers — TCS, Invoicing &amp; Settlement Made Simple](https://medium.com/@mery43651/e-commerce-gst-guide-amazon-flipkart-sellers-tcs-invoicing-settlement-made-simple-095fc7a813ae?source=rss------artificial_intelligence-5)**
-> 🔹 **[Everyone’s Reading Copilot’s New Pricing Wrong. It’s the Best AI Benchmark Ever Published](https://drpicox.medium.com/everyones-reading-copilot-s-new-pricing-wrong-it-s-the-best-ai-benchmark-ever-published-7cbde794d96b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Logic Behind AI Systems &lpar;And Why Most People Misunderstand Them&rpar;](https://medium.com/@xathosc/the-hidden-logic-behind-ai-systems-and-why-most-people-misunderstand-them-d461edfa0158?source=rss------artificial_intelligence-5)**
-> 🔹 **[Token: The Most Expensive Currency Right Now](https://levelup.gitconnected.com/token-the-most-expensive-currency-right-now-401a41f319c9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Most consultants approach webinars as isolated events.](https://medium.com/@futurebyte.ai.media/most-consultants-approach-webinars-as-isolated-events-3927db87197d?source=rss------artificial_intelligence-5)**
-> 🔹 **[AutoData and the Hypergraph Revolution: How AI Is Reinventing the Way We Collect Web Data](https://medium.com/ai-artistry/autodata-and-the-hypergraph-revolution-how-ai-is-reinventing-the-way-we-collect-web-data-2a4496fcfef0?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Get Started with AI Calling: A Practical FAQ Guide for Decision Makers](https://medium.com/@topaiwebdesigningagencymumbai/how-to-get-started-with-ai-calling-a-practical-faq-guide-for-decision-makers-bce02fb1cd8e?source=rss------artificial_intelligence-5)**
-> 🔹 **[RAG Is Stateless. That Is Its Fatal Flaw.](https://medium.com/@bacharadjao/rag-is-stateless-that-is-its-fatal-flaw-82a280cb3f15?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Happens to Vinod Khosla’s Billion-Dollar OpenAI Bet If Elon Musk Wins the Lawsuit?](https://medium.com/@fahey_james/what-happens-to-vinod-khoslas-billion-dollar-openai-bet-if-elon-musk-wins-the-lawsuit-c09aeadc4ac2?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT vs NotebookLM vs ChatYT: Which AI Tool Actually Understands Video Content?](https://medium.com/@hikmatrajabli/chatgpt-vs-notebooklm-vs-chatyt-which-ai-tool-actually-understands-video-content-25006c10e40e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building an LLM From Scratch. Here’s Where It All Starts.](https://pub.towardsai.net/building-an-llm-from-scratch-heres-where-it-all-starts-071d7f1ab870?source=rss------artificial_intelligence-5)**
+> 🔹 **[Statistics for Data Science — Part 2](https://alkapandey.medium.com/statistics-for-data-science-part-2-7ae011ba2894?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Single Entry Point Paradox: High-Availability Without a Single Point of Failure](https://blog.stackademic.com/the-single-entry-point-paradox-high-availability-without-a-single-point-of-failure-120c6a30130c?source=rss------backend_development-5)**
+> 🔹 **[Autonomous AI Research Agent: From Paper to Code](https://medium.com/@ahmad.saleh.faour/autonomous-ai-research-agent-from-paper-to-code-7407df52963d?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Companions, Loneliness, and Mislocated Intimacy: Safe and Unsafe Human–AI Attachment](https://medium.com/@vladisav.jov/ai-companions-loneliness-and-mislocated-intimacy-safe-and-unsafe-human-ai-attachment-78a29a6287b4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Next Trillion Users Won’t Be Human: Why the Web Needs a Zero-Trust Agent Protocol](https://medium.com/@abdrhmnsaeed/the-next-trillion-users-wont-be-human-why-the-web-needs-a-zero-trust-agent-protocol-13a3da734f52?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
