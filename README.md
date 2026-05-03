@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Satırların Ötesi: Neo4j, Kafka ve .NET ile Grafik Tabanlı Promosyon Suistimali Tespiti](https://burak-ozkan.medium.com/sat%C4%B1rlar%C4%B1n-%C3%B6tesi-neo4j-kafka-ve-net-ile-grafik-tabanl%C4%B1-promosyon-suistimali-tespiti-7aba96ae59cc?source=rss------system_design-5)**
-> 🔹 **[The Art of No Reaction](https://medium.com/@beconsistentatanycost/the-art-of-no-reaction-fbd56deabe0e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The emperor is naked: LLMs were never built to run a company](https://medium.com/enrique-dans/the-emperor-is-naked-llms-were-never-built-to-run-a-company-a3ee418d04f8?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Hiring Bias in 2026: Why AI Resume Screening Picks AI-Written Resumes — And How to Fix It](https://medium.com/@ontostandard/ai-hiring-bias-in-2026-why-ai-resume-screening-picks-ai-written-resumes-and-how-to-fix-it-d1a55b309a47?source=rss------artificial_intelligence-5)**
-> 🔹 **[Real Earnings on Medium: The Truth No One Tells You &lpar;2026 Guide&rpar;
-If you’re thinking about makin...](https://medium.com/@misstrader2005/real-earnings-on-medium-the-truth-no-one-tells-you-2026-guide-if-youre-thinking-about-making-b12a21c76bde?source=rss------artificial_intelligence-5)**
-> 🔹 **[Fairy tales, Grief, and Gothic Dreams: An Interview with Artist and Piercer Amy Jane](https://medium.com/@johnnylarran/fairy-tales-grief-and-gothic-dreams-an-interview-with-artist-and-piercer-amy-jane-83acd80cb405?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Sunday NotebookLM Reset: Your Focus Factory Reset Starts Today](https://medium.com/@kombib/sunday-notebooklm-reset-factory-reset-your-focus-71fd54531f4b?source=rss------artificial_intelligence-5)**
-> 🔹 **[What is AI? A Beginner-Friendly Introduction](https://medium.com/@akmphyu/what-is-ai-a-beginner-friendly-introduction-e8e4c8d47021?source=rss------artificial_intelligence-5)**
+> 🔹 **[From 45 Warehouses to 20: Inside the Architecture of an Agentic Supply Chain.](https://medium.com/@daverendon/from-45-warehouses-to-20-inside-the-architecture-of-an-agentic-supply-chain-904787356f7f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Role of Artificial Intelligence in Digital Marketing](https://medium.com/@aj4jk1597/role-of-artificial-intelligence-in-digital-marketing-8a45451b3fbd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Code Routines, end-to-end: I shipped a feature by typing “go”](https://medium.com/@prateekj24/claude-code-routines-end-to-end-i-shipped-a-feature-by-typing-go-fd791444a748?source=rss------artificial_intelligence-5)**
+> 🔹 **[Otter Wants to Be Your Search Engine. That’s the Wrong Instinct.](https://medium.com/storypath/otter-wants-to-be-your-search-engine-thats-the-wrong-instinct-592ecffd8614?source=rss------artificial_intelligence-5)**
+> 🔹 **[YC Just Told You Exactly What to Build in 2026](https://medium.com/@Nontechpreneur/yc-just-told-you-exactly-what-to-build-in-2026-32096054c844?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 5 Hottest Generative AI Tools of 2026 — And Why They’re Changing Everything](https://kasata.medium.com/the-5-hottest-generative-ai-tools-of-2026-and-why-theyre-changing-everything-2eac5041cc9e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Deep Learning Demystified: Concepts, Models, and Real-World Applications](https://mrgulshanyadav.medium.com/deep-learning-demystified-concepts-models-and-real-world-applications-2a9df87f09fe?source=rss------artificial_intelligence-5)**
+> 🔹 **[Five Doctrinal Pathways to Invalidate the Anti-Distillation Clause](https://medium.com/@gastonrey76/five-doctrinal-pathways-to-invalidate-the-anti-distillation-clause-2fb5ba818eea?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
