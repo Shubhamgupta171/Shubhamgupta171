@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[From 45 Warehouses to 20: Inside the Architecture of an Agentic Supply Chain.](https://medium.com/@daverendon/from-45-warehouses-to-20-inside-the-architecture-of-an-agentic-supply-chain-904787356f7f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Role of Artificial Intelligence in Digital Marketing](https://medium.com/@aj4jk1597/role-of-artificial-intelligence-in-digital-marketing-8a45451b3fbd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Code Routines, end-to-end: I shipped a feature by typing “go”](https://medium.com/@prateekj24/claude-code-routines-end-to-end-i-shipped-a-feature-by-typing-go-fd791444a748?source=rss------artificial_intelligence-5)**
-> 🔹 **[Otter Wants to Be Your Search Engine. That’s the Wrong Instinct.](https://medium.com/storypath/otter-wants-to-be-your-search-engine-thats-the-wrong-instinct-592ecffd8614?source=rss------artificial_intelligence-5)**
-> 🔹 **[YC Just Told You Exactly What to Build in 2026](https://medium.com/@Nontechpreneur/yc-just-told-you-exactly-what-to-build-in-2026-32096054c844?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 5 Hottest Generative AI Tools of 2026 — And Why They’re Changing Everything](https://kasata.medium.com/the-5-hottest-generative-ai-tools-of-2026-and-why-theyre-changing-everything-2eac5041cc9e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Deep Learning Demystified: Concepts, Models, and Real-World Applications](https://mrgulshanyadav.medium.com/deep-learning-demystified-concepts-models-and-real-world-applications-2a9df87f09fe?source=rss------artificial_intelligence-5)**
-> 🔹 **[Five Doctrinal Pathways to Invalidate the Anti-Distillation Clause](https://medium.com/@gastonrey76/five-doctrinal-pathways-to-invalidate-the-anti-distillation-clause-2fb5ba818eea?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Harder Version of the Prediction](https://medium.com/@MZNCOMPANY/the-harder-version-of-the-prediction-fc70b7fd0e2e?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Reusable Claude/Codex Skills to Ship Mobile Apps Faster](https://medium.com/tech-and-ai-guild/5-reusable-claude-codex-skills-to-ship-mobile-apps-faster-b9a2faf001a8?source=rss------artificial_intelligence-5)**
+> 🔹 **[You’re Not Losing Your Job — You’re Losing Your Value](https://medium.com/@nomanshaikh298/youre-not-losing-your-job-you-re-losing-your-value-163d5f3822dc?source=rss------artificial_intelligence-5)**
+> 🔹 **[A IA médica que apenas prevê risco já nasceu incompleta](https://medium.com/@albertbacelar/a-ia-m%C3%A9dica-que-apenas-prev%C3%AA-risco-j%C3%A1-nasceu-incompleta-68515b9c299f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Failure Mode Every AI Engineer Encounters Eventually](https://observabilityguy.medium.com/the-failure-mode-every-ai-engineer-encounters-eventually-0e3772112a47?source=rss------artificial_intelligence-5)**
+> 🔹 **[Friction Deficit Disorder: Three tiers of a professional condition and the structural pathology...](https://manosvenieris.medium.com/friction-deficit-disorder-three-tiers-of-a-professional-condition-and-the-structural-pathology-9c2f961c929d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Scaffolding Is Easy. Getting AI Behaviour Right in Healthcare Isn’t](https://medium.com/@teri.leung/scaffolding-is-easy-getting-ai-behaviour-right-in-healthcare-isnt-6f7527016c48?source=rss------artificial_intelligence-5)**
+> 🔹 **[From DevOps to AI Platform Engineering: Understanding the Five-Layer AI Stack](https://atic-yugandhar.medium.com/from-devops-to-ai-platform-engineering-understanding-the-five-layer-ai-stack-bd7f8afb7936?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
