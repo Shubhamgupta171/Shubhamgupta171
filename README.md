@@ -34,16 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[This Post Took Longer to Write Than the System I Built](https://medium.com/@gallmanned/this-post-took-longer-to-write-than-the-system-i-built-092031c6e295?source=rss------system_design-5)**
-> 🔹 **[I Tested NVIDIA&#39;s 30B Nemotron Nano Omni on 18 Tasks — It Killed GPT-4V at 9× the Throughput](https://medium.com/@chewloongnian/i-tested-nvidias-30b-nemotron-nano-omni-on-18-tasks-it-killed-gpt-4v-at-9-the-throughput-7aff78f9738a?source=rss------artificial_intelligence-5)**
-> 🔹 **[War-Proof](https://medium.com/@v.langston.journalist/war-proof-20592be1b147?source=rss------artificial_intelligence-5)**
-> 🔹 **[When Qubits Learn: How Quantum Computing and AI Could Redesign the Future of Intelligence](https://arpitkulsh.medium.com/when-qubits-learn-how-quantum-computing-and-ai-could-redesign-the-future-of-intelligence-e087e8276c3b?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Version History Is Turning Into Engineering Intelligence in Cloud CAD](https://medium.com/@zixel3d.ai/how-version-history-is-turning-into-engineering-intelligence-in-cloud-cad-ba08d94ef236?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Evaluation Metrics Can Be Misleading in NLP](https://medium.com/@kishorekumarp161002/why-evaluation-metrics-can-be-misleading-in-nlp-373e8acc0bd1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Remote Repositories: Mastering Push, Pull, Fetch, and Origin](https://monilsaraswat.medium.com/remote-repositories-mastering-push-pull-fetch-and-origin-dbe56b5e0dab?source=rss------artificial_intelligence-5)**
-> 🔹 **[Name of Student:- Anand murli Lade Roll Number:- SE2021
-Subjects:- AIML &lpar;2024 PATTERN&rpar;
-FACULTY…](https://medium.com/@anandlade52/name-of-student-anand-murli-lade-roll-number-se2021-subjects-aiml-2024-pattern-faculty-33aa68ca941d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Satırların Ötesi: Neo4j, Kafka ve .NET ile Grafik Tabanlı Promosyon Suistimali Tespiti](https://burak-ozkan.medium.com/sat%C4%B1rlar%C4%B1n-%C3%B6tesi-neo4j-kafka-ve-net-ile-grafik-tabanl%C4%B1-promosyon-suistimali-tespiti-7aba96ae59cc?source=rss------system_design-5)**
+> 🔹 **[The Art of No Reaction](https://medium.com/@beconsistentatanycost/the-art-of-no-reaction-fbd56deabe0e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The emperor is naked: LLMs were never built to run a company](https://medium.com/enrique-dans/the-emperor-is-naked-llms-were-never-built-to-run-a-company-a3ee418d04f8?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Hiring Bias in 2026: Why AI Resume Screening Picks AI-Written Resumes — And How to Fix It](https://medium.com/@ontostandard/ai-hiring-bias-in-2026-why-ai-resume-screening-picks-ai-written-resumes-and-how-to-fix-it-d1a55b309a47?source=rss------artificial_intelligence-5)**
+> 🔹 **[Real Earnings on Medium: The Truth No One Tells You &lpar;2026 Guide&rpar;
+If you’re thinking about makin...](https://medium.com/@misstrader2005/real-earnings-on-medium-the-truth-no-one-tells-you-2026-guide-if-youre-thinking-about-making-b12a21c76bde?source=rss------artificial_intelligence-5)**
+> 🔹 **[Fairy tales, Grief, and Gothic Dreams: An Interview with Artist and Piercer Amy Jane](https://medium.com/@johnnylarran/fairy-tales-grief-and-gothic-dreams-an-interview-with-artist-and-piercer-amy-jane-83acd80cb405?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Sunday NotebookLM Reset: Your Focus Factory Reset Starts Today](https://medium.com/@kombib/sunday-notebooklm-reset-factory-reset-your-focus-71fd54531f4b?source=rss------artificial_intelligence-5)**
+> 🔹 **[What is AI? A Beginner-Friendly Introduction](https://medium.com/@akmphyu/what-is-ai-a-beginner-friendly-introduction-e8e4c8d47021?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
