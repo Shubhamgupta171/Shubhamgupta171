@@ -34,14 +34,16 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What Happens to Vinod Khosla’s Billion-Dollar OpenAI Bet If Elon Musk Wins the Lawsuit?](https://medium.com/@fahey_james/what-happens-to-vinod-khoslas-billion-dollar-openai-bet-if-elon-musk-wins-the-lawsuit-c09aeadc4ac2?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT vs NotebookLM vs ChatYT: Which AI Tool Actually Understands Video Content?](https://medium.com/@hikmatrajabli/chatgpt-vs-notebooklm-vs-chatyt-which-ai-tool-actually-understands-video-content-25006c10e40e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building an LLM From Scratch. Here’s Where It All Starts.](https://pub.towardsai.net/building-an-llm-from-scratch-heres-where-it-all-starts-071d7f1ab870?source=rss------artificial_intelligence-5)**
-> 🔹 **[Statistics for Data Science — Part 2](https://alkapandey.medium.com/statistics-for-data-science-part-2-7ae011ba2894?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Single Entry Point Paradox: High-Availability Without a Single Point of Failure](https://blog.stackademic.com/the-single-entry-point-paradox-high-availability-without-a-single-point-of-failure-120c6a30130c?source=rss------backend_development-5)**
-> 🔹 **[Autonomous AI Research Agent: From Paper to Code](https://medium.com/@ahmad.saleh.faour/autonomous-ai-research-agent-from-paper-to-code-7407df52963d?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Companions, Loneliness, and Mislocated Intimacy: Safe and Unsafe Human–AI Attachment](https://medium.com/@vladisav.jov/ai-companions-loneliness-and-mislocated-intimacy-safe-and-unsafe-human-ai-attachment-78a29a6287b4?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Next Trillion Users Won’t Be Human: Why the Web Needs a Zero-Trust Agent Protocol](https://medium.com/@abdrhmnsaeed/the-next-trillion-users-wont-be-human-why-the-web-needs-a-zero-trust-agent-protocol-13a3da734f52?source=rss------artificial_intelligence-5)**
+> 🔹 **[This Post Took Longer to Write Than the System I Built](https://medium.com/@gallmanned/this-post-took-longer-to-write-than-the-system-i-built-092031c6e295?source=rss------system_design-5)**
+> 🔹 **[I Tested NVIDIA&#39;s 30B Nemotron Nano Omni on 18 Tasks — It Killed GPT-4V at 9× the Throughput](https://medium.com/@chewloongnian/i-tested-nvidias-30b-nemotron-nano-omni-on-18-tasks-it-killed-gpt-4v-at-9-the-throughput-7aff78f9738a?source=rss------artificial_intelligence-5)**
+> 🔹 **[War-Proof](https://medium.com/@v.langston.journalist/war-proof-20592be1b147?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Qubits Learn: How Quantum Computing and AI Could Redesign the Future of Intelligence](https://arpitkulsh.medium.com/when-qubits-learn-how-quantum-computing-and-ai-could-redesign-the-future-of-intelligence-e087e8276c3b?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Version History Is Turning Into Engineering Intelligence in Cloud CAD](https://medium.com/@zixel3d.ai/how-version-history-is-turning-into-engineering-intelligence-in-cloud-cad-ba08d94ef236?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Evaluation Metrics Can Be Misleading in NLP](https://medium.com/@kishorekumarp161002/why-evaluation-metrics-can-be-misleading-in-nlp-373e8acc0bd1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Remote Repositories: Mastering Push, Pull, Fetch, and Origin](https://monilsaraswat.medium.com/remote-repositories-mastering-push-pull-fetch-and-origin-dbe56b5e0dab?source=rss------artificial_intelligence-5)**
+> 🔹 **[Name of Student:- Anand murli Lade Roll Number:- SE2021
+Subjects:- AIML &lpar;2024 PATTERN&rpar;
+FACULTY…](https://medium.com/@anandlade52/name-of-student-anand-murli-lade-roll-number-se2021-subjects-aiml-2024-pattern-faculty-33aa68ca941d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
