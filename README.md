@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How Much Does AI Real Estate Software Cost in 2026? Features, Budget &amp; Insights](https://medium.com/@chitrasoni1901/how-much-does-ai-real-estate-software-cost-in-2026-features-budget-insights-c3bad4c79f46?source=rss------artificial_intelligence-5)**
-> 🔹 **[Slop In, Signal Out: The Augmentation Stack and Why Knowledge Management Is the Fitness Functio...](https://medium.com/@brian-curry-research/slop-in-signal-out-the-augmentation-stack-and-why-knowledge-management-is-the-fitness-function-15ae9c7bde44?source=rss------artificial_intelligence-5)**
-> 🔹 **[Copper Is Becoming the Constraint Trade Inside the AI Supercycle](https://medium.com/@arnulfo_pinacho458/copper-is-becoming-the-constraint-trade-inside-the-ai-supercycle-790e9adc6315?source=rss------artificial_intelligence-5)**
-> 🔹 **[Writing for Machines That Understand Meaning, Not Just Words](https://pub.aimind.so/writing-for-machines-that-understand-meaning-not-just-words-5de14eb0fd31?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Anonymous Writing Platforms Like AFK Confessions Are Changing How People Share Online](https://medium.com/@ongoing555555/why-anonymous-writing-platforms-like-afk-confessions-are-changing-how-people-share-online-9d3441e5a682?source=rss------artificial_intelligence-5)**
-> 🔹 **[From “Operational Drift” to Strategic Impact: Why Prompt Management Is the New Superpower for…](https://pub.aimind.so/from-operational-drift-to-strategic-impact-why-prompt-management-is-the-new-superpower-for-59a8eb588b46?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Doesn’t Book Hotels. It Chooses Outcomes.](https://mlev.medium.com/ai-doesnt-book-hotels-it-chooses-outcomes-53fc7dc96fbb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Runs on Gaming Chips: The Simple Story Behind GPUs and Machine Learning](https://pub.aimind.so/why-ai-runs-on-gaming-chips-the-simple-story-behind-gpus-and-machine-learning-6f881950888a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Our Fraud Detection Was Running 8 Hours Behind.](https://medium.com/@lekhana.sandra/our-fraud-detection-was-running-8-hours-behind-18187dbf85f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Interview Process Lost a Third of Its Best Candidates](https://medium.com/fonzi-ai/the-interview-process-lost-a-third-of-its-best-candidates-4afbad12d7c0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Here’s an assignment we can’t avoid any longer: reinventing homework for an AI world](https://medium.com/enrique-dans/heres-an-assignment-we-can-t-avoid-any-longer-reinventing-homework-for-an-ai-world-9ce6ce8bb30b?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI-Based Spam Detection: Achieving 98% Accuracy with Machine Learning](https://medium.com/@sidrataranum52/ai-based-spam-detection-achieving-98-accuracy-with-machine-learning-e616d4ad9860?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Has Miss Universe Rarely Been Chosen from the Middle East?](https://medium.com/@sahla5337/why-has-miss-universe-rarely-been-chosen-from-the-middle-east-aeeb2b729d58?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Telling AI “Write My Resume” These 10 Prompts Are How You Actually Get Hired in 2026](https://medium.com/ai-tomorrow/stop-telling-ai-write-my-resume-these-10-prompts-are-how-you-actually-get-hired-in-2026-fcc51a07c4a6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Your Child Should Learn AI and Coding Before Age 16](https://medium.com/@atomyumacademy/why-your-child-should-learn-ai-and-coding-before-age-16-5dfd570e9191?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Copper Stack Is Getting Rebuilt From the Bottom Up](https://medium.com/@collin-schaut690/the-copper-stack-is-getting-rebuilt-from-the-bottom-up-5fa62dad2181?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
