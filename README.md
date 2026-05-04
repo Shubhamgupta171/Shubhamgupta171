@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Harder Version of the Prediction](https://medium.com/@MZNCOMPANY/the-harder-version-of-the-prediction-fc70b7fd0e2e?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Reusable Claude/Codex Skills to Ship Mobile Apps Faster](https://medium.com/tech-and-ai-guild/5-reusable-claude-codex-skills-to-ship-mobile-apps-faster-b9a2faf001a8?source=rss------artificial_intelligence-5)**
-> 🔹 **[You’re Not Losing Your Job — You’re Losing Your Value](https://medium.com/@nomanshaikh298/youre-not-losing-your-job-you-re-losing-your-value-163d5f3822dc?source=rss------artificial_intelligence-5)**
-> 🔹 **[A IA médica que apenas prevê risco já nasceu incompleta](https://medium.com/@albertbacelar/a-ia-m%C3%A9dica-que-apenas-prev%C3%AA-risco-j%C3%A1-nasceu-incompleta-68515b9c299f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Failure Mode Every AI Engineer Encounters Eventually](https://observabilityguy.medium.com/the-failure-mode-every-ai-engineer-encounters-eventually-0e3772112a47?source=rss------artificial_intelligence-5)**
-> 🔹 **[Friction Deficit Disorder: Three tiers of a professional condition and the structural pathology...](https://manosvenieris.medium.com/friction-deficit-disorder-three-tiers-of-a-professional-condition-and-the-structural-pathology-9c2f961c929d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Scaffolding Is Easy. Getting AI Behaviour Right in Healthcare Isn’t](https://medium.com/@teri.leung/scaffolding-is-easy-getting-ai-behaviour-right-in-healthcare-isnt-6f7527016c48?source=rss------artificial_intelligence-5)**
-> 🔹 **[From DevOps to AI Platform Engineering: Understanding the Five-Layer AI Stack](https://atic-yugandhar.medium.com/from-devops-to-ai-platform-engineering-understanding-the-five-layer-ai-stack-bd7f8afb7936?source=rss------artificial_intelligence-5)**
+> 🔹 **[Build Backends Faster. Write Less Code. Use ONQL.](https://onql.medium.com/build-backends-faster-write-less-code-use-onql-3698e4e9699d?source=rss------backend_development-5)**
+> 🔹 **[How AI Tools Like ChatGPT Are Changing Data Science Learning](https://medium.com/@cronosus99/how-ai-tools-like-chatgpt-are-changing-data-science-learning-ad72d6e72225?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI Starts Stress-Testing Your Idea &lpar;And Still Keeps It&rpar;](https://medium.com/@darren_83346/when-ai-starts-stress-testing-your-idea-and-still-keeps-it-775962454b9f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Most Popular AI Model Is Now Explaining Discovery in Resolution Terms](https://medium.com/@darren_83346/the-most-popular-ai-model-is-now-explaining-discovery-in-resolution-terms-84e58b1df43e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Load Balancers: The Silent System That Keeps Everything Fast &amp; Alive ⚖️](https://python.plainenglish.io/load-balancers-the-silent-system-that-keeps-everything-fast-alive-%EF%B8%8F-72f66a7b603c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Design Metadata Is Becoming the Foundation of AI-Powered CAD](https://medium.com/@zixel3d.ai/why-design-metadata-is-becoming-the-foundation-of-ai-powered-cad-2a57e3faeba8?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Software Learns to Pay for Itself](https://medium.com/@butsch_79/when-software-learns-to-pay-for-itself-6c8c2a2b7052?source=rss------artificial_intelligence-5)**
+> 🔹 **[Groundbreaking Latent State Recursive Multi-Agent Systems is 2.4x Faster Uses 75.6% Cheaper](https://medium.com/@ithinkbot/groundbreaking-latent-state-recursive-multi-agent-systems-is-2-4x-faster-uses-75-6-cheaper-ddcba480ae02?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
