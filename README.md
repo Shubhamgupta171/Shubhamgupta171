@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Build Backends Faster. Write Less Code. Use ONQL.](https://onql.medium.com/build-backends-faster-write-less-code-use-onql-3698e4e9699d?source=rss------backend_development-5)**
-> 🔹 **[How AI Tools Like ChatGPT Are Changing Data Science Learning](https://medium.com/@cronosus99/how-ai-tools-like-chatgpt-are-changing-data-science-learning-ad72d6e72225?source=rss------artificial_intelligence-5)**
-> 🔹 **[When AI Starts Stress-Testing Your Idea &lpar;And Still Keeps It&rpar;](https://medium.com/@darren_83346/when-ai-starts-stress-testing-your-idea-and-still-keeps-it-775962454b9f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Most Popular AI Model Is Now Explaining Discovery in Resolution Terms](https://medium.com/@darren_83346/the-most-popular-ai-model-is-now-explaining-discovery-in-resolution-terms-84e58b1df43e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Load Balancers: The Silent System That Keeps Everything Fast &amp; Alive ⚖️](https://python.plainenglish.io/load-balancers-the-silent-system-that-keeps-everything-fast-alive-%EF%B8%8F-72f66a7b603c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Design Metadata Is Becoming the Foundation of AI-Powered CAD](https://medium.com/@zixel3d.ai/why-design-metadata-is-becoming-the-foundation-of-ai-powered-cad-2a57e3faeba8?source=rss------artificial_intelligence-5)**
-> 🔹 **[When Software Learns to Pay for Itself](https://medium.com/@butsch_79/when-software-learns-to-pay-for-itself-6c8c2a2b7052?source=rss------artificial_intelligence-5)**
-> 🔹 **[Groundbreaking Latent State Recursive Multi-Agent Systems is 2.4x Faster Uses 75.6% Cheaper](https://medium.com/@ithinkbot/groundbreaking-latent-state-recursive-multi-agent-systems-is-2-4x-faster-uses-75-6-cheaper-ddcba480ae02?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Small Localisation Details Can Make or Break UX](https://medium.com/@vedantv21/why-small-localisation-details-can-make-or-break-ux-8fdac8d01143?source=rss------system_design-5)**
+> 🔹 **[When building got easy, the PM job got harder to explain](https://medium.com/@markymark/when-building-got-easy-the-pm-job-got-harder-to-explain-c0bdd835a5cf?source=rss------artificial_intelligence-5)**
+> 🔹 **[The problem is not AI](https://medium.com/science-fiction/the-problem-is-not-ai-c13e6fcc3adf?source=rss------artificial_intelligence-5)**
+> 🔹 **[The biggest AI career risk may not be that you get replaced.](https://medium.com/@evgenedoronin/the-biggest-ai-career-risk-may-not-be-that-you-get-replaced-35619209e868?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence: Understanding the Technology That’s Quietly Rewriting Everything](https://medium.com/@vertika2050/artificial-intelligence-understanding-the-technology-thats-quietly-rewriting-everything-afb2af924e1a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can We Build AI That Supports Human and Artificial Welfare Without Pretending to Know Happiness...](https://medium.com/@omanyuk/can-we-build-ai-that-supports-human-and-artificial-welfare-without-pretending-to-know-happiness-6493ec931f04?source=rss------artificial_intelligence-5)**
+> 🔹 **[Wenn Worte zu Tränen werden: Warum 500 Herzen gerade erst der Anfang sind](https://medium.com/@sportsgrube/wenn-worte-zu-tr%C3%A4nen-werden-warum-500-herzen-gerade-erst-der-anfang-sind-06bb7269a554?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Best AI App Builders in 2026: Prototype to Production](https://medium.com/@marketing_9640/5-best-ai-app-builders-in-2026-prototype-to-production-d6ccd58aa23e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
