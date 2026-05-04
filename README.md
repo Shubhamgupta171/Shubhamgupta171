@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Small Localisation Details Can Make or Break UX](https://medium.com/@vedantv21/why-small-localisation-details-can-make-or-break-ux-8fdac8d01143?source=rss------system_design-5)**
-> 🔹 **[When building got easy, the PM job got harder to explain](https://medium.com/@markymark/when-building-got-easy-the-pm-job-got-harder-to-explain-c0bdd835a5cf?source=rss------artificial_intelligence-5)**
-> 🔹 **[The problem is not AI](https://medium.com/science-fiction/the-problem-is-not-ai-c13e6fcc3adf?source=rss------artificial_intelligence-5)**
-> 🔹 **[The biggest AI career risk may not be that you get replaced.](https://medium.com/@evgenedoronin/the-biggest-ai-career-risk-may-not-be-that-you-get-replaced-35619209e868?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence: Understanding the Technology That’s Quietly Rewriting Everything](https://medium.com/@vertika2050/artificial-intelligence-understanding-the-technology-thats-quietly-rewriting-everything-afb2af924e1a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can We Build AI That Supports Human and Artificial Welfare Without Pretending to Know Happiness...](https://medium.com/@omanyuk/can-we-build-ai-that-supports-human-and-artificial-welfare-without-pretending-to-know-happiness-6493ec931f04?source=rss------artificial_intelligence-5)**
-> 🔹 **[Wenn Worte zu Tränen werden: Warum 500 Herzen gerade erst der Anfang sind](https://medium.com/@sportsgrube/wenn-worte-zu-tr%C3%A4nen-werden-warum-500-herzen-gerade-erst-der-anfang-sind-06bb7269a554?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Best AI App Builders in 2026: Prototype to Production](https://medium.com/@marketing_9640/5-best-ai-app-builders-in-2026-prototype-to-production-d6ccd58aa23e?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Much Does AI Real Estate Software Cost in 2026? Features, Budget &amp; Insights](https://medium.com/@chitrasoni1901/how-much-does-ai-real-estate-software-cost-in-2026-features-budget-insights-c3bad4c79f46?source=rss------artificial_intelligence-5)**
+> 🔹 **[Slop In, Signal Out: The Augmentation Stack and Why Knowledge Management Is the Fitness Functio...](https://medium.com/@brian-curry-research/slop-in-signal-out-the-augmentation-stack-and-why-knowledge-management-is-the-fitness-function-15ae9c7bde44?source=rss------artificial_intelligence-5)**
+> 🔹 **[Copper Is Becoming the Constraint Trade Inside the AI Supercycle](https://medium.com/@arnulfo_pinacho458/copper-is-becoming-the-constraint-trade-inside-the-ai-supercycle-790e9adc6315?source=rss------artificial_intelligence-5)**
+> 🔹 **[Writing for Machines That Understand Meaning, Not Just Words](https://pub.aimind.so/writing-for-machines-that-understand-meaning-not-just-words-5de14eb0fd31?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Anonymous Writing Platforms Like AFK Confessions Are Changing How People Share Online](https://medium.com/@ongoing555555/why-anonymous-writing-platforms-like-afk-confessions-are-changing-how-people-share-online-9d3441e5a682?source=rss------artificial_intelligence-5)**
+> 🔹 **[From “Operational Drift” to Strategic Impact: Why Prompt Management Is the New Superpower for…](https://pub.aimind.so/from-operational-drift-to-strategic-impact-why-prompt-management-is-the-new-superpower-for-59a8eb588b46?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Doesn’t Book Hotels. It Chooses Outcomes.](https://mlev.medium.com/ai-doesnt-book-hotels-it-chooses-outcomes-53fc7dc96fbb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Runs on Gaming Chips: The Simple Story Behind GPUs and Machine Learning](https://pub.aimind.so/why-ai-runs-on-gaming-chips-the-simple-story-behind-gpus-and-machine-learning-6f881950888a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
