@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Future of Artificial Intelligence: Transforming Businesses in 2026](https://medium.com/@Abhishektula30/the-future-of-artificial-intelligence-transforming-businesses-in-2026-31b67229b0f9?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Vibe Code like a Product Manager](https://medium.com/@paulangusbark/how-to-vibe-code-like-a-product-manager-65d2384de096?source=rss------artificial_intelligence-5)**
-> 🔹 **[Model Deployment Strategies: From Simple APIs to Canary Releases and Shadow Testing](https://medium.com/@billygareth01/model-deployment-strategies-from-simple-apis-to-canary-releases-and-shadow-testing-73cbd20d5328?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building Multi-Agent Workflows with AI-powered developer tools &lpar;BMAD Thinking&rpar;](https://medium.com/@martinstm/building-multi-agent-workflows-with-ai-powered-developer-tools-bmad-thinking-d970162875e6?source=rss------artificial_intelligence-5)**
-> 🔹 **[DeFi Doesn’t Remove Trust — It Engineers It](https://medium.com/@onyedikachihenry75/defi-doesnt-remove-trust-it-engineers-it-83da7babf0fb?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Gave Claude Code Access to Our Entire Stack. Here&#39;s What the Workflow Looks Like Now.](https://medium.com/@lorenzovangi/we-gave-claude-code-access-to-our-entire-stack-heres-what-the-workflow-looks-like-now-7920bb247f82?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Turning My $5,000 Freelance Projects Into $500 Tasks](https://medium.com/codetodeploy/ai-is-turning-my-5-000-freelance-projects-into-500-tasks-ff7f9d6f9520?source=rss------artificial_intelligence-5)**
-> 🔹 **[Genie 2 Makes Worlds Cheap Until Studios Try to Ship](https://medium.com/kairi-ai/genie-2-makes-worlds-cheap-until-studios-try-to-ship-1d65e0bbdfd8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Python ve Yerel LLM’ler ile Kendi Siber Güvenlik Asistanınızı Geliştirin: “AI Cyber Sentinel”…](https://medium.com/@barannilgunn/python-ve-yerel-llmler-ile-kendi-siber-g%C3%BCvenlik-asistan%C4%B1n%C4%B1z%C4%B1-geli%C5%9Ftirin-ai-cyber-sentinel-36d7a92c8dab?source=rss------artificial_intelligence-5)**
+> 🔹 **[Build a Fully Offline RAG System in Python &lpar;No Internet, No API&rpar;](https://medium.com/@muruganantham52524/build-a-fully-offline-rag-system-in-python-no-internet-no-api-75d7289667ab?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Designed an AI Customer Support System for a Procurement Company &lpar;And Why It Wasn’t Deplo...](https://medium.com/@chideraanajekwu16/how-i-designed-an-ai-customer-support-system-for-a-procurement-company-and-why-it-wasnt-deployed-05e2926035a2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Presented By: FREQUENCY ONE](https://medium.com/@privateadvisory.f1/presented-by-frequency-one-6ae33e019be8?source=rss------artificial_intelligence-5)**
+> 🔹 **[This Very Subtle Yet Common Sign Screams “AI Wrote This”](https://medium.com/ai-ai-oh/this-very-subtle-yet-common-sign-screams-ai-wrote-this-7ed175491629?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Coming for Your Job — and Maybe Your Girlfriend Too. Choose Wisely.](https://medium.com/@anuragkatrerd/ai-is-coming-for-your-job-and-maybe-your-girlfriend-too-choose-wisely-77296e4f0081?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Hacking for Beginners: A Five-Article Series](https://meetcyber.net/ai-hacking-for-beginners-a-five-article-series-14457431a872?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the Hype: Is Project Glasswing a Safety Moat or a Marketing Trench?](https://medium.com/@khedkaromkars/beyond-the-hype-is-project-glasswing-a-safety-moat-or-a-marketing-trench-92bfed85a61e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
