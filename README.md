@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Our Fraud Detection Was Running 8 Hours Behind.](https://medium.com/@lekhana.sandra/our-fraud-detection-was-running-8-hours-behind-18187dbf85f6?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Interview Process Lost a Third of Its Best Candidates](https://medium.com/fonzi-ai/the-interview-process-lost-a-third-of-its-best-candidates-4afbad12d7c0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Here’s an assignment we can’t avoid any longer: reinventing homework for an AI world](https://medium.com/enrique-dans/heres-an-assignment-we-can-t-avoid-any-longer-reinventing-homework-for-an-ai-world-9ce6ce8bb30b?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI-Based Spam Detection: Achieving 98% Accuracy with Machine Learning](https://medium.com/@sidrataranum52/ai-based-spam-detection-achieving-98-accuracy-with-machine-learning-e616d4ad9860?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Has Miss Universe Rarely Been Chosen from the Middle East?](https://medium.com/@sahla5337/why-has-miss-universe-rarely-been-chosen-from-the-middle-east-aeeb2b729d58?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Telling AI “Write My Resume” These 10 Prompts Are How You Actually Get Hired in 2026](https://medium.com/ai-tomorrow/stop-telling-ai-write-my-resume-these-10-prompts-are-how-you-actually-get-hired-in-2026-fcc51a07c4a6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Your Child Should Learn AI and Coding Before Age 16](https://medium.com/@atomyumacademy/why-your-child-should-learn-ai-and-coding-before-age-16-5dfd570e9191?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Copper Stack Is Getting Rebuilt From the Bottom Up](https://medium.com/@collin-schaut690/the-copper-stack-is-getting-rebuilt-from-the-bottom-up-5fa62dad2181?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI Just Broke Up With Microsoft. Here’s What Every Developer Should Do Right Now.](https://medium.com/@jeromequeck2004/openai-just-broke-up-with-microsoft-heres-what-every-developer-should-do-right-now-28573caf643f?source=rss------artificial_intelligence-5)**
+> 🔹 **[44% of New Music Uploaded Daily Is AI-Generated.](https://medium.com/@jeromequeck2004/44-of-new-music-uploaded-daily-is-ai-generated-cf2e846b51b9?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built an AI Agent That Organizes My Emails Automatically](https://medium.com/@maxader_ing/ai-agent-email-automation-make-chatgpt-95a8b9bae2fe?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Spot an AI-Written Post? I Can Do it in 3 Seconds](https://medium.com/write-a-catalyst/how-to-spot-an-ai-written-post-i-can-do-it-in-3-seconds-deffc5a6226c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond Models: Where Enterprise AI Systems Actually Begin](https://medium.com/@sandeep.panigrahi/beyond-models-where-enterprise-ai-systems-actually-begin-56a4168e67b5?source=rss------system_design-5)**
+> 🔹 **[Beyond Models: Where Enterprise AI Systems Actually Begin](https://medium.com/@sandeep.panigrahi/beyond-models-where-enterprise-ai-systems-actually-begin-56a4168e67b5?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Brutal Truth About ‘Scalable’ Data Infrastructure in 2026](https://aws.plainenglish.io/the-brutal-truth-about-scalable-data-infrastructure-in-2026-ffd18550cc5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why I Trust Lava Lamps &lpar;true randomness&rpar; More Than Most Boardrooms](https://medium.com/@sourabhr1994/why-i-trust-lava-lamps-true-randomness-more-than-most-boardrooms-2b785d21fd4b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
