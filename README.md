@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Python ve Yerel LLM’ler ile Kendi Siber Güvenlik Asistanınızı Geliştirin: “AI Cyber Sentinel”…](https://medium.com/@barannilgunn/python-ve-yerel-llmler-ile-kendi-siber-g%C3%BCvenlik-asistan%C4%B1n%C4%B1z%C4%B1-geli%C5%9Ftirin-ai-cyber-sentinel-36d7a92c8dab?source=rss------artificial_intelligence-5)**
-> 🔹 **[Build a Fully Offline RAG System in Python &lpar;No Internet, No API&rpar;](https://medium.com/@muruganantham52524/build-a-fully-offline-rag-system-in-python-no-internet-no-api-75d7289667ab?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Designed an AI Customer Support System for a Procurement Company &lpar;And Why It Wasn’t Deplo...](https://medium.com/@chideraanajekwu16/how-i-designed-an-ai-customer-support-system-for-a-procurement-company-and-why-it-wasnt-deployed-05e2926035a2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Presented By: FREQUENCY ONE](https://medium.com/@privateadvisory.f1/presented-by-frequency-one-6ae33e019be8?source=rss------artificial_intelligence-5)**
-> 🔹 **[This Very Subtle Yet Common Sign Screams “AI Wrote This”](https://medium.com/ai-ai-oh/this-very-subtle-yet-common-sign-screams-ai-wrote-this-7ed175491629?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Coming for Your Job — and Maybe Your Girlfriend Too. Choose Wisely.](https://medium.com/@anuragkatrerd/ai-is-coming-for-your-job-and-maybe-your-girlfriend-too-choose-wisely-77296e4f0081?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Hacking for Beginners: A Five-Article Series](https://meetcyber.net/ai-hacking-for-beginners-a-five-article-series-14457431a872?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the Hype: Is Project Glasswing a Safety Moat or a Marketing Trench?](https://medium.com/@khedkaromkars/beyond-the-hype-is-project-glasswing-a-safety-moat-or-a-marketing-trench-92bfed85a61e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 85 Percent Problem](https://medium.com/@v.langston.journalist/the-85-percent-problem-68385672ce84?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building AI-Powered Android Apps with Gemma](https://medium.com/@anandgaur2207/building-ai-powered-android-apps-with-gemma-06298afb29f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Engineering Workflows Need the Same Transparency as Software Development](https://medium.com/@zixel3d.ai/why-engineering-workflows-need-the-same-transparency-as-software-development-53979812bfd8?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents Need Sandboxes: The Security Mistake Most Developers Ignore](https://pub.towardsai.net/ai-agents-need-sandboxes-the-security-mistake-most-developers-ignore-b5ce4fbac676?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Exams to Escape Rooms: How We Learned to Test AI](https://medium.com/@kevinjtech/from-exams-to-escape-rooms-how-we-learned-to-test-ai-01f75a9d1f44?source=rss------artificial_intelligence-5)**
+> 🔹 **[Simplifying Business Workflows with n8n Automation](https://medium.com/@dineshkumar.k_72164/simplifying-business-workflows-with-n8n-automation-c49c6f373e97?source=rss------artificial_intelligence-5)**
+> 🔹 **[为什么多账号团队不能只靠表格管理 Profile、代理和任务](https://birgitbears.medium.com/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%9A%E8%B4%A6%E5%8F%B7%E5%9B%A2%E9%98%9F%E4%B8%8D%E8%83%BD%E5%8F%AA%E9%9D%A0%E8%A1%A8%E6%A0%BC%E7%AE%A1%E7%90%86-profile-%E4%BB%A3%E7%90%86%E5%92%8C%E4%BB%BB%E5%8A%A1-bff1fd976b03?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Divide: Why Some Careers Will Skyrocket While Others Quietly Disappear](https://medium.com/@jt.kp100/the-ai-divide-why-some-careers-will-skyrocket-while-others-quietly-disappear-2fe72332be83?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
