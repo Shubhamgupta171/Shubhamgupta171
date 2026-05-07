@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Tested AI Tools for 30 Days to Build Online Income From India. Here’s What Nobody Tells You.](https://medium.com/@dhules43/i-tested-ai-tools-for-30-days-to-build-online-income-from-india-heres-what-nobody-tells-you-7cf77e2fad9f?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Ranked #1 on Google — And Still Got No Traffic](https://medium.com/@rachelrachelgreen1997/i-ranked-1-on-google-and-still-got-no-traffic-98114d16486d?source=rss------artificial_intelligence-5)**
-> 🔹 **[B2B SaaS AI 챗봇 개발 실패담, 챗봇이 실패했던 세 가지 이유](https://blog.toktokhan.dev/b2b-saas-ai-chatbot-failure-243e72ecd96d?source=rss------artificial_intelligence-5)**
-> 🔹 **[You paid $10,000/month to deploy GPT-4o.
-You deployed nothing.](https://iyui.medium.com/you-paid-10-000-month-to-deploy-gpt-4o-you-deployed-nothing-165444947658?source=rss------artificial_intelligence-5)**
-> 🔹 **[POV: you&#39;re in production, everything looks clean, and then you realize the AI has been casuall...](https://iyui.medium.com/pov-youre-in-production-everything-looks-clean-and-then-you-realize-the-ai-has-been-casually-935363e8d832?source=rss------artificial_intelligence-5)**
-> 🔹 **[Carry, not answer: a sharper lens for evaluating frontier AI](https://medium.com/@tan.sean/carry-not-answer-b47875ee8bbb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Network Automation, AI, and Machine Learning in Modern Networking](https://medium.com/@user7.9/network-automation-ai-and-machine-learning-in-modern-networking-48bd94b2cd41?source=rss------artificial_intelligence-5)**
-> 🔹 **[[Latest] NVIDIA and Corning Forge Major Partnership for AI Infrastructure Optical Connectivity…](https://tai-semicon.medium.com/latest-nvidia-and-corning-forge-major-partnership-for-ai-infrastructure-optical-connectivity-f367e5c9bfbb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Distributed Transaction Dilemma: Why Modern Systems Traded ACID for Sagas](https://medium.com/@aliiqbal208/the-distributed-transaction-dilemma-why-modern-systems-traded-acid-for-sagas-bccdc5f0e261?source=rss------system_design-5)**
+> 🔹 **[What Is a Multi-Agent System?](https://medium.com/@marketing_9640/what-is-a-multi-agent-system-be5a772b54c8?source=rss------artificial_intelligence-5)**
+> 🔹 **[OnSpace AI Review 2026: A Limitations-First Look at No-Code App Building](https://medium.com/@trelvek/onspace-ai-review-2026-a-limitations-first-look-at-no-code-app-building-12342a67b678?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Çağında QA Automation Engineer’ın Rolü Nasıl Değişiyor?](https://medium.com/@eyupcanbilgin/ai-%C3%A7a%C4%9F%C4%B1nda-qa-automation-engineer%C4%B1n-rol%C3%BC-nas%C4%B1l-de%C4%9Fi%C5%9Fiyor-b1c71dc24810?source=rss------artificial_intelligence-5)**
+> 🔹 **[Most Enterprise AI Fails Because the Systems Don’t Work Together](https://medium.com/@automatrixinnovation/most-enterprise-ai-fails-because-the-systems-dont-work-together-abcf178b5e32?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cara Mudah Deteksi Tepi Gambar Menggunakan Algoritma Sobel di Python](https://medium.com/@gilangadys7/cara-mudah-deteksi-tepi-gambar-menggunakan-algoritma-sobel-di-python-7bbbe960db82?source=rss------artificial_intelligence-5)**
+> 🔹 **[I cut 60% of my meeting times by being intentional.](https://medium.com/@dixonmelitt/i-cut-60-of-my-meeting-times-by-being-intentional-5bd7e661c671?source=rss------artificial_intelligence-5)**
+> 🔹 **[Criando um Bot para jogar meu videogame](https://medium.com/@pedro.araca/criando-um-bot-para-jogar-meu-videogame-cb58f890351f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
