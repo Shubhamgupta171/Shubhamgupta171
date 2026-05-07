@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Distributed Transaction Dilemma: Why Modern Systems Traded ACID for Sagas](https://medium.com/@aliiqbal208/the-distributed-transaction-dilemma-why-modern-systems-traded-acid-for-sagas-bccdc5f0e261?source=rss------system_design-5)**
-> 🔹 **[What Is a Multi-Agent System?](https://medium.com/@marketing_9640/what-is-a-multi-agent-system-be5a772b54c8?source=rss------artificial_intelligence-5)**
-> 🔹 **[OnSpace AI Review 2026: A Limitations-First Look at No-Code App Building](https://medium.com/@trelvek/onspace-ai-review-2026-a-limitations-first-look-at-no-code-app-building-12342a67b678?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Çağında QA Automation Engineer’ın Rolü Nasıl Değişiyor?](https://medium.com/@eyupcanbilgin/ai-%C3%A7a%C4%9F%C4%B1nda-qa-automation-engineer%C4%B1n-rol%C3%BC-nas%C4%B1l-de%C4%9Fi%C5%9Fiyor-b1c71dc24810?source=rss------artificial_intelligence-5)**
-> 🔹 **[Most Enterprise AI Fails Because the Systems Don’t Work Together](https://medium.com/@automatrixinnovation/most-enterprise-ai-fails-because-the-systems-dont-work-together-abcf178b5e32?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cara Mudah Deteksi Tepi Gambar Menggunakan Algoritma Sobel di Python](https://medium.com/@gilangadys7/cara-mudah-deteksi-tepi-gambar-menggunakan-algoritma-sobel-di-python-7bbbe960db82?source=rss------artificial_intelligence-5)**
-> 🔹 **[I cut 60% of my meeting times by being intentional.](https://medium.com/@dixonmelitt/i-cut-60-of-my-meeting-times-by-being-intentional-5bd7e661c671?source=rss------artificial_intelligence-5)**
-> 🔹 **[Criando um Bot para jogar meu videogame](https://medium.com/@pedro.araca/criando-um-bot-para-jogar-meu-videogame-cb58f890351f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Give Your AI Unlimited Updated Context](https://towardsdatascience.com/give-your-ai-unlimited-updated-context/)**
+> 🔹 **[You’re Reflecting Constantly but Learning Slowly](https://reachmeatrajan.medium.com/youre-reflecting-constantly-but-learning-slowly-ea9dd82224ac?source=rss------artificial_intelligence-5)**
+> 🔹 **[On emergence, as the operation that produced complexity, humans, and AI](https://medium.com/@bergel/on-emergence-as-the-operation-that-produced-complexity-humans-and-ai-fd96742dda0c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Simple AI System I Wish I Followed Earlier &lpar;Beginner Friendly&rpar;](https://medium.com/@hibajaved307/the-simple-ai-system-i-wish-i-followed-earlier-beginner-friendly-0c3cb860fe4e?source=rss------artificial_intelligence-5)**
+> 🔹 **[How To Make AgenticAI Startups](https://dhirajpatra.medium.com/how-to-make-agenticai-startups-78a14ecf98ef?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Biggest Problem in AI Right Now Is Not Technology](https://medium.com/@sanjaynegi309/the-biggest-problem-in-ai-right-now-is-not-technology-64abdee7a2fa?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a 3-Agent AI Pipeline That Researches, Analyzes, and Writes Technical Articles — Here’s...](https://medium.com/@contact_50659/i-built-a-3-agent-ai-pipeline-that-researches-analyzes-and-writes-technical-articles-heres-how-ccfdb16ff180?source=rss------artificial_intelligence-5)**
+> 🔹 **[IA na Comunicação Corporativa: Riscos e Oportunidades](https://medium.com/@invivenusblog/ia-na-comunica%C3%A7%C3%A3o-corporativa-riscos-e-oportunidades-882ecef1535c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
