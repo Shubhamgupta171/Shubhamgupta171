@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[为什么广告投放团队需要统一管理账号环境、代理和巡检任务](https://birgitbears.medium.com/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%BF%E5%91%8A%E6%8A%95%E6%94%BE%E5%9B%A2%E9%98%9F%E9%9C%80%E8%A6%81%E7%BB%9F%E4%B8%80%E7%AE%A1%E7%90%86%E8%B4%A6%E5%8F%B7%E7%8E%AF%E5%A2%83-%E4%BB%A3%E7%90%86%E5%92%8C%E5%B7%A1%E6%A3%80%E4%BB%BB%E5%8A%A1-2dfbf44a2d24?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Did a Full Security Audit on My Own App. Here is Every Scary Thing I Found.](https://medium.com/@devlogicwrites/i-did-a-full-security-audit-on-my-own-app-here-is-every-scary-thing-i-found-56346baae017?source=rss------backend_development-5)**
-> 🔹 **[AI Dev SF 2026 Recap: 7 Structural Shifts in AI Engineering](https://medium.com/@fabian.skalski/ai-dev-sf-2026-recap-7-structural-shifts-in-ai-engineering-1fe1cd597e04?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Death of the Credential: How Outsiders Are Winning in Finance.](https://medium.com/@jaromestorm/the-death-of-the-credential-how-outsiders-are-winning-in-finance-76e8bb6f690f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Grade 6 Math Is a Turning Point for Ontario Students — And Why AI May Become Every Child’s…](https://medium.com/@mathbridgeai/why-grade6-math-is-hard-95d3b4b4e37e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Skills, Done Like an Engineer: From “Nice Prompt” to Measurable System](https://medium.com/jin-system-architect/claude-skills-done-like-an-engineer-from-nice-prompt-to-measurable-system-255e2c710ff1?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Trillion-Dollar AI Bet: On-Premise, Not Cloud](https://medium.com/@tathagat.banerjee/the-trillion-dollar-ai-bet-on-premise-not-cloud-58094b0ea78c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Freshworks Fired All Their QAs. EA Just Hired More. What Happened? And Who’s Next?](https://medium.com/@abhishekjohri2001/freshworks-fired-all-their-qas-ea-just-hired-more-what-happened-and-whos-next-16269d4ee5d6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Prompting. Start Commanding. Why Most People Are Using Claude AI Wrong — and How to Fix It](https://medium.com/@barronqasem/stop-prompting-start-commanding-why-most-people-are-using-claude-ai-wrong-and-how-to-fix-it-481aeee7d92f?source=rss------artificial_intelligence-5)**
+> 🔹 **[New Economy Patterns With Xoob And Nomisma](https://medium.com/coinmonks/new-economy-patterns-with-xoob-and-nomisma-bad630ed39ef?source=rss------artificial_intelligence-5)**
+> 🔹 **[Python 3.14 Removed the GIL. My App Got 8x Faster.](https://medium.com/@inprogrammer/python-3-14-removed-the-gil-my-app-got-8x-faster-56566c7b7a39?source=rss------backend_development-5)**
+> 🔹 **[Report de l’AI Act : la gouvernance IA ne peut pas attendre](https://medium.com/@svaria.pro/report-de-lai-act-la-gouvernance-ia-ne-peut-pas-attendre-763122b0a269?source=rss------artificial_intelligence-5)**
+> 🔹 **[I spent years moving other people’s products. Then I found something better.](https://trilochan-bhalla.medium.com/i-spent-years-moving-other-peoples-products-then-i-found-something-better-c03d84bc6b04?source=rss------artificial_intelligence-5)**
+> 🔹 **[Article 3: Short-Horizon Demand Forecasting for SMBs](https://medium.com/@ayush.tripathi955/article-3-short-horizon-demand-forecasting-for-smbs-05fd069d8660?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the POC: What it really takes to build an AI governance platform for healthcare data](https://medium.com/@sahil-thakur/beyond-the-poc-what-it-really-takes-to-build-an-ai-governance-platform-for-healthcare-data-e95c2dc8b8bb?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Can Detect Deepfakes and Protect Digital Media — My Learning Experience](https://medium.com/@samhitarajesh19/how-ai-can-detect-deepfakes-and-protect-digital-media-my-learning-experience-90a33b6a42f0?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
