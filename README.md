@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[No Dumb Questions: What is an MCP server and why do I care?](https://stackoverflow.blog/2026/05/08/no-dumb-questions-mcp/)**
-> 🔹 **[Fine Tuning Qwen2-VL with QLoRA for Document to Markdown Generation](https://medium.com/@ashiasad546/fine-tuning-qwen2-vl-with-qlora-for-document-to-markdown-generation-2cff4d0f791b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Death of the Data Center “Neighbor”](https://medium.com/@chriskilgore85/https-www-rebisglobal-com-cold-insights-o0tennnzsta9jl6wko6y9c6z8i19in-e979d833315c?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT just turned my laptop into a real-time stock scanner.](https://medium.com/@marocsofiane20/chatgpt-just-turned-my-laptop-into-a-real-time-stock-scanner-c56b1fbe3ae4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Applications fiables pour investir quand on débute](https://medium.com/@lucascastel0210/applications-fiables-pour-investir-quand-on-d%C3%A9bute-8967403632ea?source=rss------artificial_intelligence-5)**
-> 🔹 **[“What 10 Gigawatts Actually Means”](https://medium.com/@smarrazzo/what-10-gigawatts-actually-means-dd5aa9e07fa0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Sweden Recently Hit Russia Where It Hurts](https://medium.com/@Owenwarner/sweden-recently-hit-russia-where-it-hurts-19fe4237dde3?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Was Told It Would Take 2 Years. I Did It in 3 Months. And Nobody Knows My Name Yet.](https://medium.com/@james_60694/i-was-told-it-would-take-2-years-i-did-it-in-3-months-and-nobody-knows-my-name-yet-908bee0b94f5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building an Android App With AI — Without Writing Code](https://medium.com/@bhavyabhas/building-an-android-app-with-ai-without-writing-code-2689c0d465a8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Machine That Learned How Drugs Earn Trust](https://scufieldiakhoa.medium.com/the-machine-that-learned-how-drugs-earn-trust-f27236400b4b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Modern AI, IT Project Management, and the Future of Intelligent Systems](https://medium.com/@ranayaqoot/modern-ai-it-project-management-and-the-future-of-intelligent-systems-158b9d19bb14?source=rss------artificial_intelligence-5)**
+> 🔹 **[Replacing humans is the least ambitious goal for AI.](https://medium.com/@osar/replacing-humans-is-the-least-ambitious-goal-for-ai-ee5795f6e1d5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI-First Customer Service Still Needs Humans to Win](https://medium.com/@CallBotics_Insights/why-ai-first-customer-service-still-needs-humans-to-win-df79dafdec29?source=rss------artificial_intelligence-5)**
+> 🔹 **[Collective Insanity: How Humanity Keeps Digging Its Own Grave](https://medium.com/@gebreyohaniskasaye/collective-insanity-how-humanity-keeps-digging-its-own-grave-5e37ef283450?source=rss------artificial_intelligence-5)**
+> 🔹 **[The consultant’s quiet problem and why visibility is infrastructure, not vanity](https://medium.com/@TheBrandOS/consultant-visibility-infrastructure-personal-brand-be856a3604a3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Africa AI Policy Opportunities Digest vol. 3](https://medium.com/digitalcognoscente/africa-ai-policy-opportunities-digest-vol-3-6ae97952b505?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
