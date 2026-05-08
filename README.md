@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The End of Cheap Vibe Coding](https://medium.com/everyday-ai/the-end-of-cheap-vibe-coding-a071f5b49a46?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Responsibility to Global Markets](https://medium.com/@EadwulfS/a-responsibility-to-global-markets-ada394af31c5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Pekerja Kreatif: Apakah Masih Relevan Di Era AI?](https://medium.com/@madlouvey/pekerja-kreatif-apakah-masih-relevan-di-era-ai-b1c07f1f31aa?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Lost a Warm-Intro AI Client in Two Weeks. Here’s What I Learned.](https://medium.com/@piratedeepak/i-lost-a-warm-intro-ai-client-in-two-weeks-heres-what-i-learned-a47ec2ea34fd?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Freelancers Are Making Real Money With AI in 2026](https://medium.com/illumination/how-freelancers-are-making-real-money-with-ai-in-2026-5c20321717e5?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Automation Is Transforming Healthcare, Finance, and SaaS](https://medium.com/@markeltree/how-ai-automation-is-transforming-healthcare-finance-and-saas-18766c162be2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Used AI to Fix the Most Painful Part of Every BI Project — And It Worked](https://medium.com/@jegazhu/used-ai-to-fix-the-most-painful-part-of-every-bi-project-and-it-worked-f86bf89c0df1?source=rss------artificial_intelligence-5)**
-> 🔹 **[At 6:47 AM On a Tuesday I Got the Email That Ended a $180K Engagement.](https://medium.com/@aioperatorshq/at-6-47-am-on-a-tuesday-i-got-the-email-that-ended-a-180k-engagement-eb9e5d908cdf?source=rss------artificial_intelligence-5)**
+> 🔹 **[为什么广告投放团队需要统一管理账号环境、代理和巡检任务](https://birgitbears.medium.com/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%BF%E5%91%8A%E6%8A%95%E6%94%BE%E5%9B%A2%E9%98%9F%E9%9C%80%E8%A6%81%E7%BB%9F%E4%B8%80%E7%AE%A1%E7%90%86%E8%B4%A6%E5%8F%B7%E7%8E%AF%E5%A2%83-%E4%BB%A3%E7%90%86%E5%92%8C%E5%B7%A1%E6%A3%80%E4%BB%BB%E5%8A%A1-2dfbf44a2d24?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Did a Full Security Audit on My Own App. Here is Every Scary Thing I Found.](https://medium.com/@devlogicwrites/i-did-a-full-security-audit-on-my-own-app-here-is-every-scary-thing-i-found-56346baae017?source=rss------backend_development-5)**
+> 🔹 **[AI Dev SF 2026 Recap: 7 Structural Shifts in AI Engineering](https://medium.com/@fabian.skalski/ai-dev-sf-2026-recap-7-structural-shifts-in-ai-engineering-1fe1cd597e04?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Death of the Credential: How Outsiders Are Winning in Finance.](https://medium.com/@jaromestorm/the-death-of-the-credential-how-outsiders-are-winning-in-finance-76e8bb6f690f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Grade 6 Math Is a Turning Point for Ontario Students — And Why AI May Become Every Child’s…](https://medium.com/@mathbridgeai/why-grade6-math-is-hard-95d3b4b4e37e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Skills, Done Like an Engineer: From “Nice Prompt” to Measurable System](https://medium.com/jin-system-architect/claude-skills-done-like-an-engineer-from-nice-prompt-to-measurable-system-255e2c710ff1?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Trillion-Dollar AI Bet: On-Premise, Not Cloud](https://medium.com/@tathagat.banerjee/the-trillion-dollar-ai-bet-on-premise-not-cloud-58094b0ea78c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Freshworks Fired All Their QAs. EA Just Hired More. What Happened? And Who’s Next?](https://medium.com/@abhishekjohri2001/freshworks-fired-all-their-qas-ea-just-hired-more-what-happened-and-whos-next-16269d4ee5d6?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
