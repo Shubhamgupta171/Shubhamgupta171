@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Stop Prompting. Start Commanding. Why Most People Are Using Claude AI Wrong — and How to Fix It](https://medium.com/@barronqasem/stop-prompting-start-commanding-why-most-people-are-using-claude-ai-wrong-and-how-to-fix-it-481aeee7d92f?source=rss------artificial_intelligence-5)**
-> 🔹 **[New Economy Patterns With Xoob And Nomisma](https://medium.com/coinmonks/new-economy-patterns-with-xoob-and-nomisma-bad630ed39ef?source=rss------artificial_intelligence-5)**
-> 🔹 **[Python 3.14 Removed the GIL. My App Got 8x Faster.](https://medium.com/@inprogrammer/python-3-14-removed-the-gil-my-app-got-8x-faster-56566c7b7a39?source=rss------backend_development-5)**
-> 🔹 **[Report de l’AI Act : la gouvernance IA ne peut pas attendre](https://medium.com/@svaria.pro/report-de-lai-act-la-gouvernance-ia-ne-peut-pas-attendre-763122b0a269?source=rss------artificial_intelligence-5)**
-> 🔹 **[I spent years moving other people’s products. Then I found something better.](https://trilochan-bhalla.medium.com/i-spent-years-moving-other-peoples-products-then-i-found-something-better-c03d84bc6b04?source=rss------artificial_intelligence-5)**
-> 🔹 **[Article 3: Short-Horizon Demand Forecasting for SMBs](https://medium.com/@ayush.tripathi955/article-3-short-horizon-demand-forecasting-for-smbs-05fd069d8660?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the POC: What it really takes to build an AI governance platform for healthcare data](https://medium.com/@sahil-thakur/beyond-the-poc-what-it-really-takes-to-build-an-ai-governance-platform-for-healthcare-data-e95c2dc8b8bb?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Can Detect Deepfakes and Protect Digital Media — My Learning Experience](https://medium.com/@samhitarajesh19/how-ai-can-detect-deepfakes-and-protect-digital-media-my-learning-experience-90a33b6a42f0?source=rss------artificial_intelligence-5)**
+> 🔹 **[No Dumb Questions: What is an MCP server and why do I care?](https://stackoverflow.blog/2026/05/08/no-dumb-questions-mcp/)**
+> 🔹 **[Fine Tuning Qwen2-VL with QLoRA for Document to Markdown Generation](https://medium.com/@ashiasad546/fine-tuning-qwen2-vl-with-qlora-for-document-to-markdown-generation-2cff4d0f791b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Death of the Data Center “Neighbor”](https://medium.com/@chriskilgore85/https-www-rebisglobal-com-cold-insights-o0tennnzsta9jl6wko6y9c6z8i19in-e979d833315c?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT just turned my laptop into a real-time stock scanner.](https://medium.com/@marocsofiane20/chatgpt-just-turned-my-laptop-into-a-real-time-stock-scanner-c56b1fbe3ae4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Applications fiables pour investir quand on débute](https://medium.com/@lucascastel0210/applications-fiables-pour-investir-quand-on-d%C3%A9bute-8967403632ea?source=rss------artificial_intelligence-5)**
+> 🔹 **[“What 10 Gigawatts Actually Means”](https://medium.com/@smarrazzo/what-10-gigawatts-actually-means-dd5aa9e07fa0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Sweden Recently Hit Russia Where It Hurts](https://medium.com/@Owenwarner/sweden-recently-hit-russia-where-it-hurts-19fe4237dde3?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Was Told It Would Take 2 Years. I Did It in 3 Months. And Nobody Knows My Name Yet.](https://medium.com/@james_60694/i-was-told-it-would-take-2-years-i-did-it-in-3-months-and-nobody-knows-my-name-yet-908bee0b94f5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
