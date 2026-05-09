@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What if Organizations Had a Brain?](https://medium.com/@nachiappan4uni/what-if-organizations-had-a-brain-8989a18042e0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Natix is Sunsetting Drive&amp; for Something Much Bigger](https://hattyhats.medium.com/why-natix-is-sunsetting-drive-for-something-much-bigger-60278cc9c6b1?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Best Free AI Tools for Creators With Zero Budget](https://medium.com/@benjaminfianudezor881/the-best-free-ai-tools-for-creators-with-zero-budget-00bf689d304e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why the Leader We Need in the Age of AI Looks Like Kagaya Ubuyashiki &lpar;Demon Slayer&rpar;](https://medium.com/@tokyozurich/why-the-leader-we-need-in-the-age-of-ai-looks-like-kagaya-ubuyashiki-demon-slayer-e55c819e127d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Logistic Regression &lpar;Lojistik Regresyon&rpar; Nedir?](https://medium.com/@m.edakulahci_47769/logistic-regression-lojistik-regresyon-nedir-5a042a92e681?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Knowledge AI Cannot Contain](https://medium.com/@lolasaez93/the-knowledge-ai-cannot-contain-08d16676bdf4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ever Heard About Affluency Rate?](https://critic-pratik.medium.com/ever-heard-about-affluency-rate-3a00fa7b3987?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Built a High-End Logo Business with Zero Design Skills &lpar;Using Gemini Gems&rpar;](https://medium.com/@issakwisawilliam/how-to-built-a-high-end-logo-business-with-zero-design-skills-using-gemini-gems-80e7e920cd9d?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Recepciós: A Jövő Megérkezett a Magyar KKV-khoz](https://medium.com/@yellowgurzo/ai-recepci%C3%B3s-a-j%C3%B6v%C5%91-meg%C3%A9rkezett-a-magyar-kkv-khoz-4e5e9e217333?source=rss------artificial_intelligence-5)**
+> 🔹 **[14 Best AI Tools That Actually Work in 2026](https://medium.com/write-a-catalyst/14-best-ai-tools-that-actually-work-in-2026-799902fa46c9?source=rss------artificial_intelligence-5)**
+> 🔹 **[KazeneOS and Royalty OS](https://medium.com/@shir75532/kazeneos-and-royalty-os-b7e5cab6db64?source=rss------artificial_intelligence-5)**
+> 🔹 **[From 4.8GB RAM to 190MB: Porting a Node.js Service to Rust in Production](https://medium.com/@daxx5/from-4-8gb-ram-to-190mb-porting-a-node-js-service-to-rust-in-production-42cf40f42828?source=rss------backend_development-5)**
+> 🔹 **[TCM Practical AI Pentest Associate &lpar;PAPA&rpar; Review: My Honest Experience &lpar;2026 — English Version&rpar;](https://medium.com/@artwerty23/tcm-practical-ai-pentest-associate-papa-review-my-honest-experience-2026-english-version-ab1f2bea1ab8?source=rss------artificial_intelligence-5)**
+> 🔹 **[TCM Practical AI Pentest Associate &lpar;PAPA&rpar; Review: My Honest Experience &lpar;2026 — Thai Version&rpar;](https://medium.com/@artwerty23/tcm-practical-ai-pentest-associate-papa-review-my-honest-experience-2026-thai-version-2df70319bd89?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Making You a Better Reviewer and a Worse Thinker. Zettelkasten Is the Fix.](https://medium.com/@mohammadzeyaahmad/ai-is-making-you-a-better-reviewer-and-a-worse-thinker-zettelkasten-is-the-fix-47dcabb1913f?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Nobody Tells You About Selling Code Online](https://medium.com/@pablodigital/what-nobody-tells-you-about-selling-code-online-ba5d36b0bdec?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
