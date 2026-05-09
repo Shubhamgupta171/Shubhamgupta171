@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Cerebellum of Physical AI: The Missing Layer That No Training Regime Can Replace](https://medium.com/physical-ai/the-cerebellum-of-physical-ai-the-missing-layer-that-no-training-regime-can-replace-816038c49c3d?source=rss------artificial_intelligence-5)**
-> 🔹 **[How LLMs Are Evaluated: Benchmarks, Metrics, and the Race to Be the Best](https://medium.com/@adityaa9971/how-llms-are-evaluated-benchmarks-metrics-and-the-race-to-be-the-best-c20a9842e23e?source=rss------artificial_intelligence-5)**
-> 🔹 **[LM Studio: The Desktop AI Lab That Brings Powerful LLMs to Your Own Machine](https://arpitkulsh.medium.com/lm-studio-the-desktop-ai-lab-that-brings-powerful-llms-to-your-own-machine-687b40ca69e4?source=rss------artificial_intelligence-5)**
-> 🔹 **[RIP ChatGPT Plugins. Claude’s New Computer Use Just did Everything They Promised — in One Promp...](https://medium.com/@SenaQuinnBlog/rip-chatgpt-plugins-claudes-new-computer-use-just-did-everything-they-promised-in-one-prompt-8da4b42e47d8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Dark Side of AI in Data Engineering Nobody Talks About!](https://medium.com/@shenoy.shashwath/the-dark-side-of-ai-in-data-engineering-nobody-talks-about-6ec26dc69643?source=rss------artificial_intelligence-5)**
-> 🔹 **[Git Internals: Objects, Trees, and How Git Really Works](https://monilsaraswat.medium.com/git-internals-objects-trees-and-how-git-really-works-180b57e837e4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Before the Agent Starts: How GitHub Copilot&#39;s Customization Layer Actually Works](https://nivedv.medium.com/before-the-agent-starts-how-github-copilots-customization-layer-actually-works-a7db689c795e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Tribal Knowledge Bottleneck](https://medium.com/@sidharth.bedi/the-tribal-knowledge-bottleneck-79ab0c7eb5f1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Emotional Intelligence is the Ultimate Hard Skill Beyond Intellectualizing Human Emotion](https://medium.com/write-your-world/why-emotional-intelligence-is-the-ultimate-hard-skill-beyond-intellectualizing-human-emotion-c073d9407505?source=rss------artificial_intelligence-5)**
+> 🔹 **[Brevity = humanity?](https://medium.com/optilife/brevity-humanity-eae47da2cfb0?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Just Cut Entry-Level IT Jobs by 25%. Your Degree Did Not Warn You This Was Coming.](https://medium.com/@hello_22019/ai-just-cut-entry-level-it-jobs-by-25-your-degree-did-not-warn-you-this-was-coming-c9cfbe3ef4a2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The SaaS Massacre: Why the World is Quietly Deleting Every App on Its Phone](https://medium.com/@info_69552/the-saas-massacre-why-the-world-is-quietly-deleting-every-app-on-its-phone-1b2bbb28c436?source=rss------artificial_intelligence-5)**
+> 🔹 **[Fix Database Connection Timeouts in Spring Boot: Complete HikariCP Configuration Guide](https://medium.com/@ujjawalr/fix-database-connection-timeouts-in-spring-boot-complete-hikaricp-configuration-guide-eebff0a9ca52?source=rss------backend_development-5)**
+> 🔹 **[Anthropic Shipped Outcomes and Real Story Is Verification Becoming a SKU](https://medium.com/data-science-collective/anthropic-shipped-outcomes-and-real-story-is-verification-becoming-a-sku-085ab74d5203?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Does an LLM Answer Our Questions?](https://medium.com/@bervice/how-does-an-llm-answer-our-questions-f061dfde8b32?source=rss------artificial_intelligence-5)**
+> 🔹 **[The New Internet Economy Belongs to People Who Build Publicly](https://medium.com/@sagarmajumdersocialmedia/the-new-internet-economy-belongs-to-people-who-build-publicly-8fbd61fb8ce4?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
