@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Building an Android App With AI — Without Writing Code](https://medium.com/@bhavyabhas/building-an-android-app-with-ai-without-writing-code-2689c0d465a8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Machine That Learned How Drugs Earn Trust](https://scufieldiakhoa.medium.com/the-machine-that-learned-how-drugs-earn-trust-f27236400b4b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Modern AI, IT Project Management, and the Future of Intelligent Systems](https://medium.com/@ranayaqoot/modern-ai-it-project-management-and-the-future-of-intelligent-systems-158b9d19bb14?source=rss------artificial_intelligence-5)**
-> 🔹 **[Replacing humans is the least ambitious goal for AI.](https://medium.com/@osar/replacing-humans-is-the-least-ambitious-goal-for-ai-ee5795f6e1d5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI-First Customer Service Still Needs Humans to Win](https://medium.com/@CallBotics_Insights/why-ai-first-customer-service-still-needs-humans-to-win-df79dafdec29?source=rss------artificial_intelligence-5)**
-> 🔹 **[Collective Insanity: How Humanity Keeps Digging Its Own Grave](https://medium.com/@gebreyohaniskasaye/collective-insanity-how-humanity-keeps-digging-its-own-grave-5e37ef283450?source=rss------artificial_intelligence-5)**
-> 🔹 **[The consultant’s quiet problem and why visibility is infrastructure, not vanity](https://medium.com/@TheBrandOS/consultant-visibility-infrastructure-personal-brand-be856a3604a3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Africa AI Policy Opportunities Digest vol. 3](https://medium.com/digitalcognoscente/africa-ai-policy-opportunities-digest-vol-3-6ae97952b505?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Cerebellum of Physical AI: The Missing Layer That No Training Regime Can Replace](https://medium.com/physical-ai/the-cerebellum-of-physical-ai-the-missing-layer-that-no-training-regime-can-replace-816038c49c3d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How LLMs Are Evaluated: Benchmarks, Metrics, and the Race to Be the Best](https://medium.com/@adityaa9971/how-llms-are-evaluated-benchmarks-metrics-and-the-race-to-be-the-best-c20a9842e23e?source=rss------artificial_intelligence-5)**
+> 🔹 **[LM Studio: The Desktop AI Lab That Brings Powerful LLMs to Your Own Machine](https://arpitkulsh.medium.com/lm-studio-the-desktop-ai-lab-that-brings-powerful-llms-to-your-own-machine-687b40ca69e4?source=rss------artificial_intelligence-5)**
+> 🔹 **[RIP ChatGPT Plugins. Claude’s New Computer Use Just did Everything They Promised — in One Promp...](https://medium.com/@SenaQuinnBlog/rip-chatgpt-plugins-claudes-new-computer-use-just-did-everything-they-promised-in-one-prompt-8da4b42e47d8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Dark Side of AI in Data Engineering Nobody Talks About!](https://medium.com/@shenoy.shashwath/the-dark-side-of-ai-in-data-engineering-nobody-talks-about-6ec26dc69643?source=rss------artificial_intelligence-5)**
+> 🔹 **[Git Internals: Objects, Trees, and How Git Really Works](https://monilsaraswat.medium.com/git-internals-objects-trees-and-how-git-really-works-180b57e837e4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Before the Agent Starts: How GitHub Copilot&#39;s Customization Layer Actually Works](https://nivedv.medium.com/before-the-agent-starts-how-github-copilots-customization-layer-actually-works-a7db689c795e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Tribal Knowledge Bottleneck](https://medium.com/@sidharth.bedi/the-tribal-knowledge-bottleneck-79ab0c7eb5f1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
