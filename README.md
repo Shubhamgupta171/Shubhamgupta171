@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The AI Arms Race — $725 Billion, One Year, Four Companies](https://medium.com/@v.langston.journalist/the-ai-arms-race-725-billion-one-year-four-companies-0462d3a8510e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Brain In Multi-Dimensional Space](https://medium.com/@pawned.root/brain-in-multi-dimensional-space-6cdb938e7135?source=rss------artificial_intelligence-5)**
-> 🔹 **[Deprecation Proof](https://medium.com/@aleeraalden/deprecation-proof-652b2196ca20?source=rss------artificial_intelligence-5)**
-> 🔹 **[InterLink Foundation: Building the Future of Human-Centric Blockchain Infrastructure](https://medium.com/@ranjithreddyp.3688/interlink-foundation-building-the-future-of-human-centric-blockchain-infrastructure-8c8649ee82cd?source=rss------artificial_intelligence-5)**
-> 🔹 **[[DSA] StringBuilder Implementation](https://medium.com/@prasanta-paul/dsa-stringbuilder-implementation-4c538b6a21e8?source=rss------data_structures-5)**
-> 🔹 **[Inteligência Artificial no Futebol: Como os Dados Estão Mudando o Jogo.](https://medium.com/@caducosta/intelig%C3%AAncia-artificial-no-futebol-como-os-dados-est%C3%A3o-mudando-o-jogo-a7379ee3fd8d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentic Vector Databases: The Next Evolution of AI Memory and Retrieval](https://medium.com/ai-artistry/agentic-vector-databases-the-next-evolution-of-ai-memory-and-retrieval-47608887e02e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Railway: The Simplest Way to Deploy Modern Applications](https://medium.com/@praveenb0927/railway-the-simplest-way-to-deploy-modern-applications-92d718d927da?source=rss------artificial_intelligence-5)**
+> 🔹 **[Poverty, Recessions, Inequality: We Can Choose To Do Better](https://medium.com/@evanjoymas/poverty-recessions-inequality-we-can-choose-to-do-better-9e13e701648f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Feature That Quietly Changed Quantum Chemistry Forever](https://medium.com/@sjpitman/the-feature-that-quietly-changed-quantum-chemistry-forever-f3373a0fe260?source=rss------artificial_intelligence-5)**
+> 🔹 **[Hidden Operational Cost Leaks in Small Industrial Businesses](https://medium.com/@tanel.ott/hidden-operational-cost-leaks-in-small-industrial-businesses-bfd1ad1ef862?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Real Danger of AI : What Nobody Tells You About the Photos You Already Posted?](https://medium.com/illumination/the-real-danger-of-ai-what-nobody-tells-you-about-the-photos-you-already-posted-4deb35c7b9b1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Legacy System Integration: Getting AI Agents to Work with Old Software](https://medium.com/@OlwaysOnline/legacy-system-integration-getting-ai-agents-to-work-with-old-software-5ee611b0a513?source=rss------artificial_intelligence-5)**
+> 🔹 **[SEO Now Operates Across Two Dimensions: Visibility and Interpretation](https://medium.com/@tsenekidou.sofia/seo-now-operates-across-two-dimensions-visibility-and-interpretation-2f1286cbaae7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Rise of AI Guardrails: Claude, Harness, and the New Safety Stack](https://blog.gopenai.com/the-rise-of-ai-guardrails-claude-harness-and-the-new-safety-stack-3227ef530be6?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Last Breath](https://medium.com/illumination/the-last-breath-b3f467641903?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
