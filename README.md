@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Poverty, Recessions, Inequality: We Can Choose To Do Better](https://medium.com/@evanjoymas/poverty-recessions-inequality-we-can-choose-to-do-better-9e13e701648f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Feature That Quietly Changed Quantum Chemistry Forever](https://medium.com/@sjpitman/the-feature-that-quietly-changed-quantum-chemistry-forever-f3373a0fe260?source=rss------artificial_intelligence-5)**
-> 🔹 **[Hidden Operational Cost Leaks in Small Industrial Businesses](https://medium.com/@tanel.ott/hidden-operational-cost-leaks-in-small-industrial-businesses-bfd1ad1ef862?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Real Danger of AI : What Nobody Tells You About the Photos You Already Posted?](https://medium.com/illumination/the-real-danger-of-ai-what-nobody-tells-you-about-the-photos-you-already-posted-4deb35c7b9b1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Legacy System Integration: Getting AI Agents to Work with Old Software](https://medium.com/@OlwaysOnline/legacy-system-integration-getting-ai-agents-to-work-with-old-software-5ee611b0a513?source=rss------artificial_intelligence-5)**
-> 🔹 **[SEO Now Operates Across Two Dimensions: Visibility and Interpretation](https://medium.com/@tsenekidou.sofia/seo-now-operates-across-two-dimensions-visibility-and-interpretation-2f1286cbaae7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Rise of AI Guardrails: Claude, Harness, and the New Safety Stack](https://blog.gopenai.com/the-rise-of-ai-guardrails-claude-harness-and-the-new-safety-stack-3227ef530be6?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Last Breath](https://medium.com/illumination/the-last-breath-b3f467641903?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Claude Draft System: How I Write, Edit, and Score Every Medium Article Before It Goes Live](https://medium.com/@Ella456/the-claude-draft-system-how-i-write-edit-and-score-every-medium-article-before-it-goes-live-f14f9f6dde58?source=rss------artificial_intelligence-5)**
+> 🔹 **[What broke when we shipped Alexa Prime Video voice-purchase to 10M users — and what I’d do…](https://medium.com/@jabbalarajamohan/what-broke-when-we-shipped-alexa-prime-video-voice-purchase-to-10m-users-and-what-id-do-d61cd5371c81?source=rss------artificial_intelligence-5)**
+> 🔹 **[AltaySec AI &amp; Human Security Platform](https://medium.com/@yarendaspinar/altaysec-ai-human-security-platform-c36673017fa0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Designing Coordinator Agents: Hub-and-Spoke Architectures for Reliable AI Workflows](https://medium.com/@anmjawad007/designing-coordinator-agents-hub-and-spoke-architectures-for-reliable-ai-workflows-3cb6831d4a49?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Not Intelligent. You’re Just Thinking Less](https://medium.com/@rajbhupendra588/ai-is-not-intelligent-youre-just-thinking-less-4f8354872a2a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Curiosity Dividend: Why Your “Weird” Hobbies are Your Best Career Assets](https://adj5.medium.com/the-curiosity-dividend-why-your-weird-hobbies-are-your-best-career-assets-182920eb2a41?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I built a voice AI agent that answers phone calls and remembers callers](https://medium.com/@matebot.kit/how-i-built-a-voice-ai-agent-that-answers-phone-calls-and-remembers-callers-92fbc2b9d5cf?source=rss------artificial_intelligence-5)**
+> 🔹 **[MCP vs A2A vs A2UI vs AG-UI: The Communication Stack Powering Modern AI Applications](https://medium.com/@vishal369mehta/mcp-vs-a2a-vs-a2ui-vs-ag-ui-the-communication-stack-powering-modern-ai-applications-d8ee7d43d536?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
