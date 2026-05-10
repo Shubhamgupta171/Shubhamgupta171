@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Claude Draft System: How I Write, Edit, and Score Every Medium Article Before It Goes Live](https://medium.com/@Ella456/the-claude-draft-system-how-i-write-edit-and-score-every-medium-article-before-it-goes-live-f14f9f6dde58?source=rss------artificial_intelligence-5)**
-> 🔹 **[What broke when we shipped Alexa Prime Video voice-purchase to 10M users — and what I’d do…](https://medium.com/@jabbalarajamohan/what-broke-when-we-shipped-alexa-prime-video-voice-purchase-to-10m-users-and-what-id-do-d61cd5371c81?source=rss------artificial_intelligence-5)**
-> 🔹 **[AltaySec AI &amp; Human Security Platform](https://medium.com/@yarendaspinar/altaysec-ai-human-security-platform-c36673017fa0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Designing Coordinator Agents: Hub-and-Spoke Architectures for Reliable AI Workflows](https://medium.com/@anmjawad007/designing-coordinator-agents-hub-and-spoke-architectures-for-reliable-ai-workflows-3cb6831d4a49?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Not Intelligent. You’re Just Thinking Less](https://medium.com/@rajbhupendra588/ai-is-not-intelligent-youre-just-thinking-less-4f8354872a2a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Curiosity Dividend: Why Your “Weird” Hobbies are Your Best Career Assets](https://adj5.medium.com/the-curiosity-dividend-why-your-weird-hobbies-are-your-best-career-assets-182920eb2a41?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I built a voice AI agent that answers phone calls and remembers callers](https://medium.com/@matebot.kit/how-i-built-a-voice-ai-agent-that-answers-phone-calls-and-remembers-callers-92fbc2b9d5cf?source=rss------artificial_intelligence-5)**
-> 🔹 **[MCP vs A2A vs A2UI vs AG-UI: The Communication Stack Powering Modern AI Applications](https://medium.com/@vishal369mehta/mcp-vs-a2a-vs-a2ui-vs-ag-ui-the-communication-stack-powering-modern-ai-applications-d8ee7d43d536?source=rss------system_design-5)**
+> 🔹 **[Static Analysis for LLM Prompt Security: A Methodology for Pre-Deploy Vulnerability Detection](https://pub.towardsai.net/static-analysis-for-llm-prompt-security-a-methodology-for-pre-deploy-vulnerability-detection-7cd35b32a914?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Spent $500 Testing AI Companion Apps, Real Monthly Costs Revealed &lpar;2026&rpar;](https://medium.com/@companaya/i-spent-500-testing-ai-companion-apps-real-monthly-costs-revealed-2026-8a6c0532778d?source=rss------artificial_intelligence-5)**
+> 🔹 **[There are 1.6 million open AI and Machine Learning jobs right now.](https://namiflyofficial.medium.com/there-are-1-6-million-open-ai-and-machine-learning-jobs-right-now-9c55ab319c37?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI just switched sides — Claude found 271 Firefox holes before any hacker did](https://medium.com/readers-club/ai-just-switched-sides-claude-found-271-firefox-holes-before-any-hacker-did-407b926aff51?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Backend Engineer Who Ignores AI Will Lose. So Will The One Who Only Knows AI](https://blog.startupstash.com/the-backend-engineer-who-ignores-ai-will-lose-so-will-the-one-who-only-knows-ai-028e0283b34d?source=rss------artificial_intelligence-5)**
+> 🔹 **[70% Adoption: How the UAE Became the World’s First AI-Saturated Economy](https://medium.com/@robertikhwani/70-adoption-how-the-uae-became-the-worlds-first-ai-saturated-economy-8486f2e2525f?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Your AI Agent Stops Listening: How One Thumbs-Down Creates Lasting Discipline](https://medium.com/@iganapolsky_62116/when-your-ai-agent-stops-listening-how-one-thumbs-down-creates-lasting-discipline-a77851c0c466?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Strange Reality of Eventual Consistency](https://medium.com/@firdevsakbyrr/the-strange-reality-of-eventual-consistency-2169a72e9f6c?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
