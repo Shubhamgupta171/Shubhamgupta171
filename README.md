@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI Recepciós: A Jövő Megérkezett a Magyar KKV-khoz](https://medium.com/@yellowgurzo/ai-recepci%C3%B3s-a-j%C3%B6v%C5%91-meg%C3%A9rkezett-a-magyar-kkv-khoz-4e5e9e217333?source=rss------artificial_intelligence-5)**
-> 🔹 **[14 Best AI Tools That Actually Work in 2026](https://medium.com/write-a-catalyst/14-best-ai-tools-that-actually-work-in-2026-799902fa46c9?source=rss------artificial_intelligence-5)**
-> 🔹 **[KazeneOS and Royalty OS](https://medium.com/@shir75532/kazeneos-and-royalty-os-b7e5cab6db64?source=rss------artificial_intelligence-5)**
-> 🔹 **[From 4.8GB RAM to 190MB: Porting a Node.js Service to Rust in Production](https://medium.com/@daxx5/from-4-8gb-ram-to-190mb-porting-a-node-js-service-to-rust-in-production-42cf40f42828?source=rss------backend_development-5)**
-> 🔹 **[TCM Practical AI Pentest Associate &lpar;PAPA&rpar; Review: My Honest Experience &lpar;2026 — English Version&rpar;](https://medium.com/@artwerty23/tcm-practical-ai-pentest-associate-papa-review-my-honest-experience-2026-english-version-ab1f2bea1ab8?source=rss------artificial_intelligence-5)**
-> 🔹 **[TCM Practical AI Pentest Associate &lpar;PAPA&rpar; Review: My Honest Experience &lpar;2026 — Thai Version&rpar;](https://medium.com/@artwerty23/tcm-practical-ai-pentest-associate-papa-review-my-honest-experience-2026-thai-version-2df70319bd89?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Making You a Better Reviewer and a Worse Thinker. Zettelkasten Is the Fix.](https://medium.com/@mohammadzeyaahmad/ai-is-making-you-a-better-reviewer-and-a-worse-thinker-zettelkasten-is-the-fix-47dcabb1913f?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Nobody Tells You About Selling Code Online](https://medium.com/@pablodigital/what-nobody-tells-you-about-selling-code-online-ba5d36b0bdec?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Arms Race — $725 Billion, One Year, Four Companies](https://medium.com/@v.langston.journalist/the-ai-arms-race-725-billion-one-year-four-companies-0462d3a8510e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Brain In Multi-Dimensional Space](https://medium.com/@pawned.root/brain-in-multi-dimensional-space-6cdb938e7135?source=rss------artificial_intelligence-5)**
+> 🔹 **[Deprecation Proof](https://medium.com/@aleeraalden/deprecation-proof-652b2196ca20?source=rss------artificial_intelligence-5)**
+> 🔹 **[InterLink Foundation: Building the Future of Human-Centric Blockchain Infrastructure](https://medium.com/@ranjithreddyp.3688/interlink-foundation-building-the-future-of-human-centric-blockchain-infrastructure-8c8649ee82cd?source=rss------artificial_intelligence-5)**
+> 🔹 **[[DSA] StringBuilder Implementation](https://medium.com/@prasanta-paul/dsa-stringbuilder-implementation-4c538b6a21e8?source=rss------data_structures-5)**
+> 🔹 **[Inteligência Artificial no Futebol: Como os Dados Estão Mudando o Jogo.](https://medium.com/@caducosta/intelig%C3%AAncia-artificial-no-futebol-como-os-dados-est%C3%A3o-mudando-o-jogo-a7379ee3fd8d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic Vector Databases: The Next Evolution of AI Memory and Retrieval](https://medium.com/ai-artistry/agentic-vector-databases-the-next-evolution-of-ai-memory-and-retrieval-47608887e02e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Railway: The Simplest Way to Deploy Modern Applications](https://medium.com/@praveenb0927/railway-the-simplest-way-to-deploy-modern-applications-92d718d927da?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
