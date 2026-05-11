@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[It’s Here. It’s Real.](https://medium.com/@ianppines/its-here-it-s-real-62f015cbabd3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Your AI is Blind: Giving Agentic Workflows a Map of Your Codebase](https://medium.com/@marketing_38292/why-your-ai-is-blind-giving-agentic-workflows-a-map-of-your-codebase-fd7d4e650ff5?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Can Finally Read an AI’s Thoughts. What We Found Inside Should Scare You](https://medium.com/@jaysenpatil158/we-can-finally-read-an-ais-thoughts-what-we-found-inside-should-scare-you-a32d1de37ebb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Top 5 Problems TPOs Face During Placement Season &lpar;And the Tech Solutions That Fix Them&rpar;](https://medium.com/@sboruah878/top-5-problems-tpos-face-during-placement-season-and-the-tech-solutions-that-fix-them-55cef4c2f61b?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a Deterministic Agentic Operating System in One Day. Here’s Exactly How.](https://medium.com/@shindeadityau/i-built-a-deterministic-agentic-operating-system-in-one-day-heres-exactly-how-efe493af3806?source=rss------artificial_intelligence-5)**
-> 🔹 **[Okara AI Review 2026: Team Fit for Small Teams That Need Marketing Help](https://medium.com/@miracalder_93891/okara-ai-review-2026-team-fit-for-small-teams-that-need-marketing-help-614e6f691aa4?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a grep Clone in Rust 32 Days After Writing My First Line of Rust](https://levelup.gitconnected.com/i-built-a-grep-clone-in-rust-32-days-after-writing-my-first-line-of-rust-28d074e03ed1?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Internal Working of Java HashMap: What Most Developers Never Learn &lpar;Practical, No Theory&rpar;](https://medium.com/javarevisited/internal-working-of-java-hashmap-what-most-developers-never-learn-practical-no-theory-2300be9fcfd7?source=rss------data_structures-5)**
+> 🔹 **[Communication Trends: AI-Powered Text Messaging in Higher Ed](https://medium.com/@msnyder_43709/communication-trends-ai-powered-text-messaging-in-higher-ed-b979952ac114?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Does Zomato Show the Driver’s Live Location Without Refreshing the Page?](https://medium.com/@kalp.note/how-does-zomato-show-the-drivers-live-location-without-refreshing-the-page-799bcaf2b8d0?source=rss------system_design-5)**
+> 🔹 **[Hermes Agent: The Hype, The Reality, and Who Should Actually Use It](https://www.towardsdeeplearning.com/hermes-agent-the-hype-the-reality-and-who-should-actually-use-it-acc20bc94d32?source=rss------artificial_intelligence-5)**
+> 🔹 **[Learning Word Vectors for Sentiment Analysis: A Python Reproduction](https://towardsdatascience.com/learning-word-vectors-for-sentiment-analysis-a-python-reproduction/)**
+> 🔹 **[I built a free DSA tracker that opens in your browser, requires zero login, and remembers…](https://medium.com/@divyanshusainialok/i-built-a-free-dsa-tracker-that-opens-in-your-browser-requires-zero-login-and-remembers-1f98aa543883?source=rss------data_structures-5)**
+> 🔹 **[Quick guide to Claude on AWS: Platform vs. Bedrock](https://medium.com/@irbbb/quick-guide-to-claude-on-aws-platform-vs-bedrock-929f7c6be0f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[I’m up $2,546 in one week because I trusted an AI with my portfolio.](https://medium.com/@austin-starks/im-up-2-546-in-one-week-because-i-trusted-an-ai-with-my-portfolio-03c59e9ad815?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Projects Failing? Metadata Might Be Why.](https://medium.com/@naveenadavay/ai-projects-failing-metadata-might-be-why-88480e0d4d10?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
