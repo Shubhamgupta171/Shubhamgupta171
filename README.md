@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Replaced My Entire Workflow With AI Tools for 30 Days — Here’s What Actually Worked](https://medium.com/@telmoflorespato/i-replaced-my-entire-workflow-with-ai-tools-for-30-days-heres-what-actually-worked-ca800494f5ee?source=rss------artificial_intelligence-5)**
-> 🔹 **[Metadesign como antídoto para alucinações de LLM em Design Systems](https://brasil.uxdesign.cc/metadesign-como-antidoto-para-alucinacoes-de-llm-em-design-systems-788482d45097?source=rss------system_design-5)**
-> 🔹 **[機器學習:自然語言處理&lpar;NLP&rpar; — 1](https://medium.com/@cs.lwong4/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86-nlp-1-ba27e0026880?source=rss------artificial_intelligence-5)**
-> 🔹 **[Every few years, businesses rush to buy the latest technology.](https://medium.com/@t.iqbal_43053/every-few-years-businesses-rush-to-buy-the-latest-technology-28f8ba6f863f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude vs. Gemini vs. ChatGPT for Writing: What’s Actually Different in 2026](https://sageastraorion.medium.com/claude-vs-gemini-vs-chatgpt-for-writing-whats-actually-different-in-2026-611aad709c60?source=rss------artificial_intelligence-5)**
-> 🔹 **[Kickstart Your Career with Playwright Training with AI!](https://medium.com/@shravankumargoud55/kickstart-your-career-with-playwright-training-with-ai-1f1701231a64?source=rss------artificial_intelligence-5)**
-> 🔹 **[Boost Your Career with Our Digital Marketing Course!](https://medium.com/@shravankumargoud55/boost-your-career-with-our-digital-marketing-course-82d75dc7e5fc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Create Once. Get Found Forever. Here’s How TrueTalent Works](https://medium.com/@social_39695/create-once-get-found-forever-heres-how-truetalent-works-7a950ff5c63a?source=rss------artificial_intelligence-5)**
+> 🔹 **[It’s Here. It’s Real.](https://medium.com/@ianppines/its-here-it-s-real-62f015cbabd3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Your AI is Blind: Giving Agentic Workflows a Map of Your Codebase](https://medium.com/@marketing_38292/why-your-ai-is-blind-giving-agentic-workflows-a-map-of-your-codebase-fd7d4e650ff5?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Can Finally Read an AI’s Thoughts. What We Found Inside Should Scare You](https://medium.com/@jaysenpatil158/we-can-finally-read-an-ais-thoughts-what-we-found-inside-should-scare-you-a32d1de37ebb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Top 5 Problems TPOs Face During Placement Season &lpar;And the Tech Solutions That Fix Them&rpar;](https://medium.com/@sboruah878/top-5-problems-tpos-face-during-placement-season-and-the-tech-solutions-that-fix-them-55cef4c2f61b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Deterministic Agentic Operating System in One Day. Here’s Exactly How.](https://medium.com/@shindeadityau/i-built-a-deterministic-agentic-operating-system-in-one-day-heres-exactly-how-efe493af3806?source=rss------artificial_intelligence-5)**
+> 🔹 **[Okara AI Review 2026: Team Fit for Small Teams That Need Marketing Help](https://medium.com/@miracalder_93891/okara-ai-review-2026-team-fit-for-small-teams-that-need-marketing-help-614e6f691aa4?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a grep Clone in Rust 32 Days After Writing My First Line of Rust](https://levelup.gitconnected.com/i-built-a-grep-clone-in-rust-32-days-after-writing-my-first-line-of-rust-28d074e03ed1?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Internal Working of Java HashMap: What Most Developers Never Learn &lpar;Practical, No Theory&rpar;](https://medium.com/javarevisited/internal-working-of-java-hashmap-what-most-developers-never-learn-practical-no-theory-2300be9fcfd7?source=rss------data_structures-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
