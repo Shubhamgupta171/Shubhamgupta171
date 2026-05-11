@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Chain-of-Thought Reasoning in AI: How Enterprise Systems Solve Complex Problems Step by Step](https://medium.com/@Segmetriqanalytics/chain-of-thought-reasoning-in-ai-how-enterprise-systems-solve-complex-problems-step-by-step-5a2f572fbe7b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The “Deep Blue” Era: Why Software Engineering is Losing Its Soul](https://medium.com/@josh_tucker/the-deep-blue-era-why-software-engineering-is-losing-its-soul-ca3d7a1ae481?source=rss------artificial_intelligence-5)**
-> 🔹 **[Papers Explained 556: The Art of Asking](https://ritvik19.medium.com/papers-explained-556-the-art-of-asking-604ba808ff26?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Trap of Offline RL: When Data Goes Thin](https://medium.com/@sparknp1/the-hidden-trap-of-offline-rl-when-data-goes-thin-745749847b6e?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Actually Happens Inside Forward Proxy vs Reverse Proxy in Production Systems](https://medium.com/beyond-localhost/what-actually-happens-inside-forward-proxy-vs-reverse-proxy-in-production-systems-2e28930ad1bb?source=rss------system_design-5)**
-> 🔹 **[What Actually Happens Inside Forward Proxy vs Reverse Proxy in Production Systems](https://sachinkasana.medium.com/what-actually-happens-inside-forward-proxy-vs-reverse-proxy-in-production-systems-2e28930ad1bb?source=rss------backend_development-5)**
-> 🔹 **[I Found a Free GitHub Repo That Saved Me Weeks of Claude Code Setup](https://medium.com/everyday-ai/i-found-a-free-github-repo-that-saved-me-weeks-of-claude-code-setup-82c739933eb7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Estate Planning for Beginners: Trusts, Taxes, and Gifting Stock](https://medium.com/write-your-world/estate-planning-for-beginners-trusts-taxes-and-gifting-stock-13cb1f3d938c?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Replaced My Entire Workflow With AI Tools for 30 Days — Here’s What Actually Worked](https://medium.com/@telmoflorespato/i-replaced-my-entire-workflow-with-ai-tools-for-30-days-heres-what-actually-worked-ca800494f5ee?source=rss------artificial_intelligence-5)**
+> 🔹 **[Metadesign como antídoto para alucinações de LLM em Design Systems](https://brasil.uxdesign.cc/metadesign-como-antidoto-para-alucinacoes-de-llm-em-design-systems-788482d45097?source=rss------system_design-5)**
+> 🔹 **[機器學習:自然語言處理&lpar;NLP&rpar; — 1](https://medium.com/@cs.lwong4/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86-nlp-1-ba27e0026880?source=rss------artificial_intelligence-5)**
+> 🔹 **[Every few years, businesses rush to buy the latest technology.](https://medium.com/@t.iqbal_43053/every-few-years-businesses-rush-to-buy-the-latest-technology-28f8ba6f863f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude vs. Gemini vs. ChatGPT for Writing: What’s Actually Different in 2026](https://sageastraorion.medium.com/claude-vs-gemini-vs-chatgpt-for-writing-whats-actually-different-in-2026-611aad709c60?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kickstart Your Career with Playwright Training with AI!](https://medium.com/@shravankumargoud55/kickstart-your-career-with-playwright-training-with-ai-1f1701231a64?source=rss------artificial_intelligence-5)**
+> 🔹 **[Boost Your Career with Our Digital Marketing Course!](https://medium.com/@shravankumargoud55/boost-your-career-with-our-digital-marketing-course-82d75dc7e5fc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Create Once. Get Found Forever. Here’s How TrueTalent Works](https://medium.com/@social_39695/create-once-get-found-forever-heres-how-truetalent-works-7a950ff5c63a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
