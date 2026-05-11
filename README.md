@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Static Analysis for LLM Prompt Security: A Methodology for Pre-Deploy Vulnerability Detection](https://pub.towardsai.net/static-analysis-for-llm-prompt-security-a-methodology-for-pre-deploy-vulnerability-detection-7cd35b32a914?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Spent $500 Testing AI Companion Apps, Real Monthly Costs Revealed &lpar;2026&rpar;](https://medium.com/@companaya/i-spent-500-testing-ai-companion-apps-real-monthly-costs-revealed-2026-8a6c0532778d?source=rss------artificial_intelligence-5)**
-> 🔹 **[There are 1.6 million open AI and Machine Learning jobs right now.](https://namiflyofficial.medium.com/there-are-1-6-million-open-ai-and-machine-learning-jobs-right-now-9c55ab319c37?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI just switched sides — Claude found 271 Firefox holes before any hacker did](https://medium.com/readers-club/ai-just-switched-sides-claude-found-271-firefox-holes-before-any-hacker-did-407b926aff51?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Backend Engineer Who Ignores AI Will Lose. So Will The One Who Only Knows AI](https://blog.startupstash.com/the-backend-engineer-who-ignores-ai-will-lose-so-will-the-one-who-only-knows-ai-028e0283b34d?source=rss------artificial_intelligence-5)**
-> 🔹 **[70% Adoption: How the UAE Became the World’s First AI-Saturated Economy](https://medium.com/@robertikhwani/70-adoption-how-the-uae-became-the-worlds-first-ai-saturated-economy-8486f2e2525f?source=rss------artificial_intelligence-5)**
-> 🔹 **[When Your AI Agent Stops Listening: How One Thumbs-Down Creates Lasting Discipline](https://medium.com/@iganapolsky_62116/when-your-ai-agent-stops-listening-how-one-thumbs-down-creates-lasting-discipline-a77851c0c466?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Strange Reality of Eventual Consistency](https://medium.com/@firdevsakbyrr/the-strange-reality-of-eventual-consistency-2169a72e9f6c?source=rss------system_design-5)**
+> 🔹 **[Chain-of-Thought Reasoning in AI: How Enterprise Systems Solve Complex Problems Step by Step](https://medium.com/@Segmetriqanalytics/chain-of-thought-reasoning-in-ai-how-enterprise-systems-solve-complex-problems-step-by-step-5a2f572fbe7b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The “Deep Blue” Era: Why Software Engineering is Losing Its Soul](https://medium.com/@josh_tucker/the-deep-blue-era-why-software-engineering-is-losing-its-soul-ca3d7a1ae481?source=rss------artificial_intelligence-5)**
+> 🔹 **[Papers Explained 556: The Art of Asking](https://ritvik19.medium.com/papers-explained-556-the-art-of-asking-604ba808ff26?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Trap of Offline RL: When Data Goes Thin](https://medium.com/@sparknp1/the-hidden-trap-of-offline-rl-when-data-goes-thin-745749847b6e?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Actually Happens Inside Forward Proxy vs Reverse Proxy in Production Systems](https://medium.com/beyond-localhost/what-actually-happens-inside-forward-proxy-vs-reverse-proxy-in-production-systems-2e28930ad1bb?source=rss------system_design-5)**
+> 🔹 **[What Actually Happens Inside Forward Proxy vs Reverse Proxy in Production Systems](https://sachinkasana.medium.com/what-actually-happens-inside-forward-proxy-vs-reverse-proxy-in-production-systems-2e28930ad1bb?source=rss------backend_development-5)**
+> 🔹 **[I Found a Free GitHub Repo That Saved Me Weeks of Claude Code Setup](https://medium.com/everyday-ai/i-found-a-free-github-repo-that-saved-me-weeks-of-claude-code-setup-82c739933eb7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Estate Planning for Beginners: Trusts, Taxes, and Gifting Stock](https://medium.com/write-your-world/estate-planning-for-beginners-trusts-taxes-and-gifting-stock-13cb1f3d938c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
