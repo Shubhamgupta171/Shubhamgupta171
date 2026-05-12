@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Hybrid Search and Re-Ranking in Production RAG](https://towardsdatascience.com/hybrid-search-and-re-ranking-in-production-rag/)**
-> 🔹 **[The Industrial Revolution Started It, AI Finished It.](https://medium.com/never-stop-writing/the-industrial-revolution-started-it-ai-finished-it-8215c138a145?source=rss------artificial_intelligence-5)**
-> 🔹 **[Polyhyle: Simulating Human Behavior Before Business Decisions Go Live](https://medium.com/@hvabqdxzrsstwdahnz/polyhyle-simulating-human-behavior-before-business-decisions-go-live-3bf9f10d5ee3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is AI Making Humans Think Less? New Research Raises Serious Concerns About Cognitive Dependency](https://medium.com/@YasirAwan4831/is-ai-making-humans-think-less-new-research-raises-serious-concerns-about-cognitive-dependency-b3498bbdaff7?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agent로 개발 생산성과 워크플로우를 개선하는 방법](https://medium.com/@Zero-1016/ai-agent%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EA%B3%BC-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EB%A5%BC-%EA%B0%9C%EC%84%A0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-8726fdcfbb9a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Russia Captured 141km² But Claimed Victory Everywhere. AI Did It.](https://medium.com/@fuadbondhon7061/russia-ai-propaganda-fake-victories-ukraine-ff27766fa22c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The ElevAItor Ride](https://walter-j-robinson.medium.com/the-elevaitor-ride-2a9f5ec3d6a4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Nvidia Is Pouring Billions Into Photonics](https://stephwynne.medium.com/why-nvidia-is-pouring-billions-into-photonics-95e23c73050d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Conundrum for Students: Avoiding Over‑Dos and Over‑Don’ts](https://medium.com/@singhalyesh/the-ai-conundrum-for-students-avoiding-over-dos-and-over-donts-872222c940a3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building Secure Data Pipelines: Where SAST Fits in the Development Lifecycle](https://odsc.medium.com/building-secure-data-pipelines-where-sast-fits-in-the-development-lifecycle-4f020c6fd0b2?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I’d Start a Clothing Brand With $0 Today](https://medium.com/@youssefsameh600/how-id-start-a-clothing-brand-with-0-today-a8bf05e7f8e1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Yapay Zekada 2026 Gerçekliği: Süper Zeka İllüzyonu ve Ajanların Yükselişi](https://medium.com/@iremguzel74/yapay-zekada-2026-ger%C3%A7ekli%C4%9Fi-s%C3%BCper-zeka-i%CC%87ll%C3%BCzyonu-ve-ajanlar%C4%B1n-y%C3%BCkseli%C5%9Fi-51afa38e71ab?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Asylum...and Interior Design](https://wallerart.medium.com/the-asylum-and-interior-design-030ddcecf75e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Recent Advancements in Robotics and Automation: Transforming the Future](https://medium.com/@janvikamilla/recent-advancements-in-robotics-and-automation-transforming-the-future-97bd05d323b9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Chronicles of AI | Episode 2: Rise of Retrieval](https://medium.com/activated-thinker/the-chronicles-of-ai-episode-2-rise-of-retrieval-2e70af2a2628?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Spent Six Months On A Project That Got Cancelled In A Fifteen Minute Meeting.](https://medium.com/activated-thinker/i-spent-six-months-on-a-project-that-got-cancelled-in-a-fifteen-minute-meeting-2d1c3c198035?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
