@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Async threads](https://medium.com/@shinysherbina/async-threads-6a6f2e227179?source=rss------backend_development-5)**
-> 🔹 **[Building AI Agentic Workflows in Python: A Hands-On Guide to Building Production-Ready Systems](https://medium.com/@RC.Adhikari/building-ai-agentic-workflows-in-python-a-hands-on-guide-to-building-production-ready-systems-f86a1c2e3a57?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Ultimate Guide: Why NVIDIA L40S Is the Best GPU for Video Rendering in 2026](https://medium.com/@LeoServers/the-ultimate-guide-why-nvidia-l40s-is-the-best-gpu-for-video-rendering-in-2026-510e39d303ae?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Second Genesis: When the Omega Point Meets the Silicon God](https://medium.com/@demiverse42/the-second-genesis-when-the-omega-point-meets-the-silicon-god-5875f390f7db?source=rss------artificial_intelligence-5)**
-> 🔹 **[Hermes Agent — Configure Voice Control from Your Phone](https://medium.com/@rosgluk/https-www-glukhov-org-ai-systems-hermes-hermes-voice-control-87d6a71d2ed8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Most AI Content Fails to Rank](https://medium.com/@sanwalzia/why-most-ai-content-fails-to-rank-7b0e57928447?source=rss------artificial_intelligence-5)**
-> 🔹 **[Recursion](https://medium.com/@syamsundarvenkata/recursion-602704c706d1?source=rss------data_structures-5)**
-> 🔹 **[Firecrawl: Search, Scrape &amp; Crawl the Web for AI](https://medium.com/@kawsarlog/firecrawl-search-scrape-crawl-the-web-for-ai-64e339597b08?source=rss------artificial_intelligence-5)**
+> 🔹 **[Hybrid Search and Re-Ranking in Production RAG](https://towardsdatascience.com/hybrid-search-and-re-ranking-in-production-rag/)**
+> 🔹 **[The Industrial Revolution Started It, AI Finished It.](https://medium.com/never-stop-writing/the-industrial-revolution-started-it-ai-finished-it-8215c138a145?source=rss------artificial_intelligence-5)**
+> 🔹 **[Polyhyle: Simulating Human Behavior Before Business Decisions Go Live](https://medium.com/@hvabqdxzrsstwdahnz/polyhyle-simulating-human-behavior-before-business-decisions-go-live-3bf9f10d5ee3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is AI Making Humans Think Less? New Research Raises Serious Concerns About Cognitive Dependency](https://medium.com/@YasirAwan4831/is-ai-making-humans-think-less-new-research-raises-serious-concerns-about-cognitive-dependency-b3498bbdaff7?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agent로 개발 생산성과 워크플로우를 개선하는 방법](https://medium.com/@Zero-1016/ai-agent%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EA%B3%BC-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EB%A5%BC-%EA%B0%9C%EC%84%A0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-8726fdcfbb9a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Russia Captured 141km² But Claimed Victory Everywhere. AI Did It.](https://medium.com/@fuadbondhon7061/russia-ai-propaganda-fake-victories-ukraine-ff27766fa22c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The ElevAItor Ride](https://walter-j-robinson.medium.com/the-elevaitor-ride-2a9f5ec3d6a4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Nvidia Is Pouring Billions Into Photonics](https://stephwynne.medium.com/why-nvidia-is-pouring-billions-into-photonics-95e23c73050d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
