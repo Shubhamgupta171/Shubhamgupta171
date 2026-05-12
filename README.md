@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Communication Trends: AI-Powered Text Messaging in Higher Ed](https://medium.com/@msnyder_43709/communication-trends-ai-powered-text-messaging-in-higher-ed-b979952ac114?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Does Zomato Show the Driver’s Live Location Without Refreshing the Page?](https://medium.com/@kalp.note/how-does-zomato-show-the-drivers-live-location-without-refreshing-the-page-799bcaf2b8d0?source=rss------system_design-5)**
-> 🔹 **[Hermes Agent: The Hype, The Reality, and Who Should Actually Use It](https://www.towardsdeeplearning.com/hermes-agent-the-hype-the-reality-and-who-should-actually-use-it-acc20bc94d32?source=rss------artificial_intelligence-5)**
-> 🔹 **[Learning Word Vectors for Sentiment Analysis: A Python Reproduction](https://towardsdatascience.com/learning-word-vectors-for-sentiment-analysis-a-python-reproduction/)**
-> 🔹 **[I built a free DSA tracker that opens in your browser, requires zero login, and remembers…](https://medium.com/@divyanshusainialok/i-built-a-free-dsa-tracker-that-opens-in-your-browser-requires-zero-login-and-remembers-1f98aa543883?source=rss------data_structures-5)**
-> 🔹 **[Quick guide to Claude on AWS: Platform vs. Bedrock](https://medium.com/@irbbb/quick-guide-to-claude-on-aws-platform-vs-bedrock-929f7c6be0f6?source=rss------artificial_intelligence-5)**
-> 🔹 **[I’m up $2,546 in one week because I trusted an AI with my portfolio.](https://medium.com/@austin-starks/im-up-2-546-in-one-week-because-i-trusted-an-ai-with-my-portfolio-03c59e9ad815?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Projects Failing? Metadata Might Be Why.](https://medium.com/@naveenadavay/ai-projects-failing-metadata-might-be-why-88480e0d4d10?source=rss------artificial_intelligence-5)**
+> 🔹 **[The End of Guesswork: How AI Forecasting Is Changing Business in 2026](https://medium.com/@suprajatycoon/the-end-of-guesswork-how-ai-forecasting-is-changing-business-in-2026-7cbf27681737?source=rss------artificial_intelligence-5)**
+> 🔹 **[Honest Comparisons: When AI Tools Help and When They Don’t](https://medium.com/@benjaminfianudezor881/honest-comparisons-when-ai-tools-help-and-when-they-dont-2ca547f1ff01?source=rss------artificial_intelligence-5)**
+> 🔹 **[Sliding Window Pattern &lpar;Part 4&rpar;: From Numbers to Strings &lpar;Frequency Changes Everything&rpar;](https://medium.com/@saachikaur19/sliding-window-pattern-part-4-from-numbers-to-strings-frequency-changes-everything-ee42bf73168c?source=rss------data_structures-5)**
+> 🔹 **[AI Is Increasing Output. But Quietly Reducing Confidence.](https://medium.com/@richaagrawal_14742/ai-is-increasing-output-but-quietly-reducing-confidence-f95f7e402b59?source=rss------artificial_intelligence-5)**
+> 🔹 **[Sliding Window Pattern &lpar;Part 3&rpar;: When “Maximum” Changes to “Count” &lpar;Interview Trap Explained&rpar;](https://medium.com/@saachikaur19/sliding-window-pattern-part-3-when-maximum-changes-to-count-interview-trap-explained-0b11345eac2f?source=rss------data_structures-5)**
+> 🔹 **[Nobody Warned Me That Backend Development Would Become Prompt Engineering](https://medium.com/@pudarimadhavi99/nobody-warned-me-that-backend-development-would-become-prompt-engineering-e14098308c43?source=rss------backend_development-5)**
+> 🔹 **[Nobody Warned Me That Backend Development Would Become Prompt Engineering](https://medium.com/@pudarimadhavi99/nobody-warned-me-that-backend-development-would-become-prompt-engineering-e14098308c43?source=rss------artificial_intelligence-5)**
+> 🔹 **[Before Copying an AI Workflow, Ask Why It Exists](https://medium.com/@heavenis0113/before-copying-an-ai-workflow-ask-why-it-exists-11d7ee0f9285?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
