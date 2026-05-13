@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The AI Conundrum for Students: Avoiding Over‑Dos and Over‑Don’ts](https://medium.com/@singhalyesh/the-ai-conundrum-for-students-avoiding-over-dos-and-over-donts-872222c940a3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building Secure Data Pipelines: Where SAST Fits in the Development Lifecycle](https://odsc.medium.com/building-secure-data-pipelines-where-sast-fits-in-the-development-lifecycle-4f020c6fd0b2?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I’d Start a Clothing Brand With $0 Today](https://medium.com/@youssefsameh600/how-id-start-a-clothing-brand-with-0-today-a8bf05e7f8e1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Yapay Zekada 2026 Gerçekliği: Süper Zeka İllüzyonu ve Ajanların Yükselişi](https://medium.com/@iremguzel74/yapay-zekada-2026-ger%C3%A7ekli%C4%9Fi-s%C3%BCper-zeka-i%CC%87ll%C3%BCzyonu-ve-ajanlar%C4%B1n-y%C3%BCkseli%C5%9Fi-51afa38e71ab?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Asylum...and Interior Design](https://wallerart.medium.com/the-asylum-and-interior-design-030ddcecf75e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Recent Advancements in Robotics and Automation: Transforming the Future](https://medium.com/@janvikamilla/recent-advancements-in-robotics-and-automation-transforming-the-future-97bd05d323b9?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Chronicles of AI | Episode 2: Rise of Retrieval](https://medium.com/activated-thinker/the-chronicles-of-ai-episode-2-rise-of-retrieval-2e70af2a2628?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Spent Six Months On A Project That Got Cancelled In A Fifteen Minute Meeting.](https://medium.com/activated-thinker/i-spent-six-months-on-a-project-that-got-cancelled-in-a-fifteen-minute-meeting-2d1c3c198035?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Braze’s CTO is rethinking engineering for the agentic area](https://stackoverflow.blog/2026/05/13/rethinking-engineering-for-the-agentic-area/)**
+> 🔹 **[I Use AI and I Hate It](https://medium.com/@estentrik/i-use-ai-and-i-hate-it-4a35418f3973?source=rss------artificial_intelligence-5)**
+> 🔹 **[I asked Cursor to rename a function. It sent 8,400 tokens. I checked.](https://gdsks.medium.com/i-asked-cursor-to-rename-a-function-it-sent-8-400-tokens-i-checked-f43854d19929?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Chip That Runs the World](https://medium.com/@v.langston.journalist/the-chip-that-runs-the-world-612508c9187e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Prompt Engineering Is the New Career Skill Professionals Need to Learn](https://medium.com/@vikashsinghy2k/why-prompt-engineering-is-the-new-career-skill-professionals-need-to-learn-2f79b04f0c2b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why The World AI Sees Is Incomplete](https://medium.com/@sangeetagautam290/why-the-world-ai-sees-is-incomplete-f7139196d457?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If Surveys Felt Like a Game—Right Inside WhatsApp?](https://senslyze.medium.com/what-if-surveys-felt-like-a-game-right-inside-whatsapp-181581a4bfad?source=rss------artificial_intelligence-5)**
+> 🔹 **[Occam’s Razor* for Knowledge Use](https://ken-tingey.medium.com/occams-razor-for-knowledge-use-f9ca876ca840?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
