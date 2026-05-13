@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The End of “Safe” Careers](https://medium.com/the-pillionaire-diaries/the-end-of-safe-careers-b60922aeffce?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Next Three Years Could Change Human History Faster Than the Last Fifty](https://medium.com/@alsaifcons/the-next-three-years-could-change-human-history-faster-than-the-last-fifty-2bc9255c0c49?source=rss------artificial_intelligence-5)**
-> 🔹 **[Signal and Simulacrum](https://medium.com/@maydew24/signal-and-simulacrum-29c482df959b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Demo Works. Does the Workflow Survive?](https://pranaysuyash.medium.com/the-demo-works-does-the-workflow-survive-32a5510cf0dd?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Human Anchor of Product Systems](https://medium.com/@f.brinkmann-design/the-human-anchor-of-product-systems-3efb6514a599?source=rss------system_design-5)**
-> 🔹 **[The Human Anchor of Product Systems](https://medium.com/@f.brinkmann-design/the-human-anchor-of-product-systems-3efb6514a599?source=rss------artificial_intelligence-5)**
-> 🔹 **[Draft Seven](https://medium.com/@natevoss.dev/draft-seven-a1c3f95b4956?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Services Deliver Industry-Specific AI Implementation Strategies](https://medium.com/@gavin.ellis/how-ai-services-deliver-industry-specific-ai-implementation-strategies-b8754085be4f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can AI Help Swiss SMEs Survive the Productivity Challenge?](https://medium.com/@diegomanganadelrio/can-ai-help-swiss-smes-survive-the-productivity-challenge-8e37e134ee88?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Thought AI Would Save Me Time — At First, It Actually Wasted It](https://medium.com/@hibajaved307/i-thought-ai-would-save-me-time-at-first-it-actually-wasted-it-82eb73c07cae?source=rss------artificial_intelligence-5)**
+> 🔹 **[Production RAG: Shipping a RAG System Into an Enterprise Product](https://medium.com/@protox/production-rag-shipping-a-rag-system-into-an-enterprise-product-33547cb71e38?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI’s Agent Traces Just Made Pretty Demos Dangerous](https://medium.com/kairi-ai/openais-agent-traces-just-made-pretty-demos-dangerous-2306da7670c9?source=rss------artificial_intelligence-5)**
+> 🔹 **[What AI in Procurement in 2026 Looks Like After a Decade of Building AI Solutions](https://medium.com/@procurement-intelligence/what-ai-in-procurement-in-2026-looks-like-after-a-decade-of-building-ai-solutions-a14ad2161c63?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Using AI to Write for You. Use It to Think Instead.](https://medium.com/@singhakshu1011/stop-using-ai-to-write-for-you-use-it-to-think-instead-915c853413c3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Gentle Team: A Path Forward for Human-AI Interaction](https://medium.com/@giftofpeace/the-gentle-team-a-path-forward-for-human-ai-interaction-49175546f6aa?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Talent Stack Is Changing Faster Than the Tech Stack](https://jtower09.medium.com/the-talent-stack-is-changing-faster-than-the-tech-stack-41886b2df6d9?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
