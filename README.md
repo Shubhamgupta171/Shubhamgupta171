@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How Braze’s CTO is rethinking engineering for the agentic area](https://stackoverflow.blog/2026/05/13/rethinking-engineering-for-the-agentic-area/)**
-> 🔹 **[I Use AI and I Hate It](https://medium.com/@estentrik/i-use-ai-and-i-hate-it-4a35418f3973?source=rss------artificial_intelligence-5)**
-> 🔹 **[I asked Cursor to rename a function. It sent 8,400 tokens. I checked.](https://gdsks.medium.com/i-asked-cursor-to-rename-a-function-it-sent-8-400-tokens-i-checked-f43854d19929?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Chip That Runs the World](https://medium.com/@v.langston.journalist/the-chip-that-runs-the-world-612508c9187e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Prompt Engineering Is the New Career Skill Professionals Need to Learn](https://medium.com/@vikashsinghy2k/why-prompt-engineering-is-the-new-career-skill-professionals-need-to-learn-2f79b04f0c2b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why The World AI Sees Is Incomplete](https://medium.com/@sangeetagautam290/why-the-world-ai-sees-is-incomplete-f7139196d457?source=rss------artificial_intelligence-5)**
-> 🔹 **[What If Surveys Felt Like a Game—Right Inside WhatsApp?](https://senslyze.medium.com/what-if-surveys-felt-like-a-game-right-inside-whatsapp-181581a4bfad?source=rss------artificial_intelligence-5)**
-> 🔹 **[Occam’s Razor* for Knowledge Use](https://ken-tingey.medium.com/occams-razor-for-knowledge-use-f9ca876ca840?source=rss------artificial_intelligence-5)**
+> 🔹 **[The End of “Safe” Careers](https://medium.com/the-pillionaire-diaries/the-end-of-safe-careers-b60922aeffce?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Next Three Years Could Change Human History Faster Than the Last Fifty](https://medium.com/@alsaifcons/the-next-three-years-could-change-human-history-faster-than-the-last-fifty-2bc9255c0c49?source=rss------artificial_intelligence-5)**
+> 🔹 **[Signal and Simulacrum](https://medium.com/@maydew24/signal-and-simulacrum-29c482df959b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Demo Works. Does the Workflow Survive?](https://pranaysuyash.medium.com/the-demo-works-does-the-workflow-survive-32a5510cf0dd?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Human Anchor of Product Systems](https://medium.com/@f.brinkmann-design/the-human-anchor-of-product-systems-3efb6514a599?source=rss------system_design-5)**
+> 🔹 **[The Human Anchor of Product Systems](https://medium.com/@f.brinkmann-design/the-human-anchor-of-product-systems-3efb6514a599?source=rss------artificial_intelligence-5)**
+> 🔹 **[Draft Seven](https://medium.com/@natevoss.dev/draft-seven-a1c3f95b4956?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Services Deliver Industry-Specific AI Implementation Strategies](https://medium.com/@gavin.ellis/how-ai-services-deliver-industry-specific-ai-implementation-strategies-b8754085be4f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
