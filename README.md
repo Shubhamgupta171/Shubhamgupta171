@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Digital Literacy Skills That Matter More Than Ever Today](https://medium.com/@adi0480519999/digital-literacy-skills-that-matter-more-than-ever-today-cfe8dec7d7d2?source=rss------artificial_intelligence-5)**
-> 🔹 **[When Normal Looks Like Truth](https://medium.com/@crispyrosellc/when-normal-looks-like-truth-71f6ed19b51d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Does Teaching a 9-Year-Old Programming in the Age of AI Still Make Sense? A Parent’s Reflection...](https://medium.com/@honorata.gortat/does-teaching-a-9-year-old-programming-in-the-age-of-ai-still-make-sense-a-parents-reflection-db8be83ff366?source=rss------artificial_intelligence-5)**
-> 🔹 **[Basically Your AI vs My AI : Cybersecurity just became worse &amp; Everyone getting Hacked](https://medium.com/@kram254/basically-your-ai-vs-my-ai-cybersecurity-just-became-worse-everyone-getting-hacked-61e42fea80fd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Multi-leg atomic settlement vs sequential routing: what your DEX aggregator can’t guarantee acr...](https://medium.com/@barszen/multi-leg-atomic-settlement-vs-sequential-routing-what-your-dex-aggregator-cant-guarantee-across-833ce3d09df6?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 90,000-Star Markdown File: Why AI Coding Needs a “Constitution”](https://medium.com/@mohammedouasli7/the-90-000-star-markdown-file-why-ai-coding-needs-a-constitution-74d98a21f33c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Talent Overfitting: When Perfect Resumes Become a Hiring Nightmare](https://medium.com/@ripudamanlko/the-ai-talent-overfitting-when-perfect-resumes-become-a-hiring-nightmare-948cc22745b0?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Automation vs Human Judgment: Why the Future of Work Belongs to Both](https://medium.com/@aikithub/ai-automation-vs-human-judgment-why-the-future-of-work-belongs-to-both-02aefefe3dc8?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If AI Investigated: Prince — Part 3: The Verdict](https://medium.com/@jamie_gray027/what-if-ai-investigated-prince-part-3-the-verdict-e6d9a642c854?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cuando la inteligencia dejó de pertenecernos](https://medium.com/@ammontenegrod/cuando-la-inteligencia-dej%C3%B3-de-pertenecernos-4c0b0c93f30c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is AI Making Us Think Less?](https://medium.com/@omkar.frontenddev/is-ai-making-us-think-less-f08727b128e5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Transforming Chaos Into Comfort](https://medium.com/@dr.lodge.mccammon/transforming-chaos-into-comfort-5494c50aa1c5?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Boy Who Rented Happiness](https://medium.com/@raflead513/the-boy-who-rented-happiness-00628d0f7c77?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Mythos spells the end of Europe’s cybersecurity illusions](https://medium.com/enrique-dans/why-mythos-spells-the-end-of-europes-cybersecurity-illusions-fecb1db0d97a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Ditch Google Forms: Build Better Forms with AI and Google Sheets](https://lovespreadsheets.medium.com/ditch-google-forms-build-better-forms-with-ai-and-google-sheets-fa2bc6e1637b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Build a Face-Based Age Verification System with API](https://medium.com/@ai-engine/build-a-face-based-age-verification-system-with-api-98826598b367?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
