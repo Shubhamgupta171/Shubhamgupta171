@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Deepfakes et désinformation : la menace est là](https://medium.com/@webworkto15/deepfakes-et-d%C3%A9sinformation-la-menace-est-l%C3%A0-5e3c9719d606?source=rss------artificial_intelligence-5)**
-> 🔹 **[Machines and Consciousness &lpar;Part 2&rpar;](https://shadowscribe.medium.com/machines-and-consciousness-part-2-467399cd5902?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agencia de IA Para Talleres Mecánicos: automatización de procesos en talleres mecánicos con IA](https://medium.com/@guardaloentumente/agencia-de-ia-para-talleres-mec%C3%A1nicos-automatizaci%C3%B3n-de-procesos-en-talleres-mec%C3%A1nicos-con-ia-c4e690e90681?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the Bot | 5 Careers AI Can’t Touch &lpar;And Why &quot;Being Different&quot; is Your Only Safety Net&rpar;](https://medium.com/@binulnethaka297/beyond-the-bot-5-careers-ai-cant-touch-and-why-being-different-is-your-only-safety-net-fc3c1b82ac91?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude AI Told Me I Was Building the Wrong Business](https://medium.com/word-garden/claude-ai-told-me-i-was-building-the-wrong-business-ddb9f60273b8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Human Brain Was Never Designed for AI](https://sarkar21.medium.com/the-human-brain-was-never-designed-for-ai-02bca1238c72?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 3-Step Reset That Saves Any AI Conversation Going Off the Rails](https://pub.towardsai.net/the-3-step-reset-that-saves-any-ai-conversation-going-off-the-rails-7d2624606667?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Code: Why Everyone’s Talking About It](https://odsc.medium.com/claude-code-why-everyones-talking-about-it-264b599893cd?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI and the Right to a Fair Trial: Why Nigeria Must Act Before Algorithms Enter the Courtroom](https://medium.com/@odunayol733/ai-and-the-right-to-a-fair-trial-why-nigeria-must-act-before-algorithms-enter-the-courtroom-ff9f82e22c54?source=rss------artificial_intelligence-5)**
+> 🔹 **[Title:
+&quot;VoxtrynAI — The World&#39;s Most Powerful FREE AI Platform That Will Change How You Use AI…](https://medium.com/@voxtrynai/title-voxtrynai-the-worlds-most-powerful-free-ai-platform-that-will-change-how-you-use-ai-e8fc767ebb43?source=rss------artificial_intelligence-5)**
+> 🔹 **[Could AI Replace Your Job Before Your Next Appraisal?](https://medium.com/pen-with-paper/could-ai-replace-your-job-before-your-next-appraisal-b13e7b7c6fdf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Prompt Engineering Is Dead. Here’s What Actually Matters in 2026.](https://medium.com/@nitin.bisht96/prompt-engineering-is-dead-heres-what-actually-matters-in-2026-93be0a2bbeff?source=rss------artificial_intelligence-5)**
+> 🔹 **[Spotify Isn’t Recommending Songs. It’s Mapping Your Mind.](https://medium.com/@priyanka_43429/spotify-isnt-recommending-songs-it-s-mapping-your-mind-a995d2679b57?source=rss------artificial_intelligence-5)**
+> 🔹 **[Hybrid Search Looks Great on Paper. Running It in Production Is a Different Story.](https://medium.com/@priyanka_43429/hybrid-search-looks-great-on-paper-running-it-in-production-is-a-different-story-f9b782047420?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 1999 Pattern in 2026 — Liquidity, AI Capex, and Why One Small-Cap Tells the Whole Macro Sto...](https://medium.datadriveninvestor.com/the-1999-pattern-in-2026-liquidity-ai-capex-and-why-one-small-cap-tells-the-whole-macro-story-2176f971018f?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Don’t Need a Face to Build a YouTube Empire in 2026](https://medium.com/@bsarithagoud28/you-dont-need-a-face-to-build-a-youtube-empire-in-2026-e4aae961150e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
