@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Binary Search](https://medium.com/@syamsundarvenkata/binary-search-45bb2b6293da?source=rss------data_structures-5)**
-> 🔹 **[6 Python Libraries That Help You Understand Your Codebase](https://python.plainenglish.io/6-python-libraries-that-help-you-understand-your-codebase-d62489654106?source=rss------artificial_intelligence-5)**
-> 🔹 **[AISEO 成效系統｜Day 3 開發日誌](https://medium.com/@ringlin_63099/aiseo-%E6%88%90%E6%95%88%E7%B3%BB%E7%B5%B1-day-3-%E9%96%8B%E7%99%BC%E6%97%A5%E8%AA%8C-a01bf146be7b?source=rss------artificial_intelligence-5)**
-> 🔹 **[In 2026, the gap between people building serious income with AI and people watching from the…](https://medium.com/@barronqasem/in-2026-the-gap-between-people-building-serious-income-with-ai-and-people-watching-from-the-9f47bef0ac1f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Real-Time vs Batch Data Pipelines in Travel: Why the Gap Is Killing Your AI Roadmap](https://onix-systems.medium.com/real-time-vs-batch-data-pipelines-in-travel-why-the-gap-is-killing-your-ai-roadmap-88c07d76d749?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Artificial Intelligence&lpar;AI&rpar; is Changing the Future](https://medium.com/@rajveersandhu123.q/how-artificial-intelligence-ai-is-changing-the-future-86224d03c29e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Preparing for Tech Jobs Like It’s 2020](https://medium.com/@aryanraj2912n/stop-preparing-for-tech-jobs-like-its-2020-42885fdffab5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why China Open Sources AI While America Keeps It Closed](https://medium.com/@nima.aksoy/why-china-open-sources-ai-while-america-keeps-it-closed-d6289d6a936b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Digital Literacy Skills That Matter More Than Ever Today](https://medium.com/@adi0480519999/digital-literacy-skills-that-matter-more-than-ever-today-cfe8dec7d7d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Normal Looks Like Truth](https://medium.com/@crispyrosellc/when-normal-looks-like-truth-71f6ed19b51d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Does Teaching a 9-Year-Old Programming in the Age of AI Still Make Sense? A Parent’s Reflection...](https://medium.com/@honorata.gortat/does-teaching-a-9-year-old-programming-in-the-age-of-ai-still-make-sense-a-parents-reflection-db8be83ff366?source=rss------artificial_intelligence-5)**
+> 🔹 **[Basically Your AI vs My AI : Cybersecurity just became worse &amp; Everyone getting Hacked](https://medium.com/@kram254/basically-your-ai-vs-my-ai-cybersecurity-just-became-worse-everyone-getting-hacked-61e42fea80fd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Multi-leg atomic settlement vs sequential routing: what your DEX aggregator can’t guarantee acr...](https://medium.com/@barszen/multi-leg-atomic-settlement-vs-sequential-routing-what-your-dex-aggregator-cant-guarantee-across-833ce3d09df6?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 90,000-Star Markdown File: Why AI Coding Needs a “Constitution”](https://medium.com/@mohammedouasli7/the-90-000-star-markdown-file-why-ai-coding-needs-a-constitution-74d98a21f33c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Talent Overfitting: When Perfect Resumes Become a Hiring Nightmare](https://medium.com/@ripudamanlko/the-ai-talent-overfitting-when-perfect-resumes-become-a-hiring-nightmare-948cc22745b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Automation vs Human Judgment: Why the Future of Work Belongs to Both](https://medium.com/@aikithub/ai-automation-vs-human-judgment-why-the-future-of-work-belongs-to-both-02aefefe3dc8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
