@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What If AI Investigated: Prince — Part 3: The Verdict](https://medium.com/@jamie_gray027/what-if-ai-investigated-prince-part-3-the-verdict-e6d9a642c854?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cuando la inteligencia dejó de pertenecernos](https://medium.com/@ammontenegrod/cuando-la-inteligencia-dej%C3%B3-de-pertenecernos-4c0b0c93f30c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is AI Making Us Think Less?](https://medium.com/@omkar.frontenddev/is-ai-making-us-think-less-f08727b128e5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Transforming Chaos Into Comfort](https://medium.com/@dr.lodge.mccammon/transforming-chaos-into-comfort-5494c50aa1c5?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Boy Who Rented Happiness](https://medium.com/@raflead513/the-boy-who-rented-happiness-00628d0f7c77?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Mythos spells the end of Europe’s cybersecurity illusions](https://medium.com/enrique-dans/why-mythos-spells-the-end-of-europes-cybersecurity-illusions-fecb1db0d97a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ditch Google Forms: Build Better Forms with AI and Google Sheets](https://lovespreadsheets.medium.com/ditch-google-forms-build-better-forms-with-ai-and-google-sheets-fa2bc6e1637b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Build a Face-Based Age Verification System with API](https://medium.com/@ai-engine/build-a-face-based-age-verification-system-with-api-98826598b367?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future of RAG: Dead, Evolving… or Becoming the Brain of AI?](https://madhavmansuriya40.medium.com/the-future-of-rag-dead-evolving-or-becoming-the-brain-of-ai-11fad56c9c5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Factory Must Grow &lpar;Part IV&rpar;: Testing AI To Walk Away From the Keyboard](https://logicalicy.medium.com/the-factory-must-grow-part-iv-testing-ai-to-walk-away-from-the-keyboard-dd8749b4be97?source=rss------artificial_intelligence-5)**
+> 🔹 **[THE INTERNET IS SMART BUT ARE WE SAFE?](https://notyournormalone.medium.com/the-internet-is-smart-but-are-we-safe-b8b733c96fe9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Cybersecurity Professionals Shouldn’t Fear “Claude Mythos” — They Should Properly Model It…](https://medium.com/@huzaifahtahir/why-cybersecurity-professionals-shouldnt-fear-claude-mythos-they-should-properly-model-it-6112e9e431bd?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Was Supposed to Save Us Time. So Why Is Everyone More Exhausted?](https://medium.com/@pkbillionaire1999/ai-was-supposed-to-save-us-time-so-why-is-everyone-more-exhausted-b41682126d20?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude for Small Business : 15 workflows pour automatiser votre PME](https://medium.com/@Abestit/claude-for-small-business-15-workflows-pour-automatiser-votre-pme-5e50b8c34b52?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Most Affordable NVIDIA H200 GPU in the Cloud: A Complete Guide to Ocean Network](https://medium.com/@collinsanike1/the-most-affordable-nvidia-h200-gpu-in-the-cloud-a-complete-guide-to-ocean-network-621d2691dc2f?source=rss------artificial_intelligence-5)**
+> 🔹 **[What is an MCP Server? How Model Context Protocol &lpar;MCP&rpar; Works in AI Applications](https://medium.com/@divinestocks/what-is-an-mcp-server-how-model-context-protocol-mcp-works-in-ai-applications-d8a5eacd158f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
