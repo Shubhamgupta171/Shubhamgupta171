@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Affiliate Marketing for Beginners: A Simple Way to Start Making Money Online](https://medium.com/@membongpaulmiki/affiliate-marketing-for-beginners-a-simple-way-to-start-making-money-online-1f51bd431a17?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI-ML on AWS — Extended Glossary Bookmark #1. Category: Artificial Intelligence](https://medium.com/ai-ml-human-training-coaching/ai-ml-on-aws-extended-glossary-bookmark-1-category-artificial-intelligence-2873ed3d0702?source=rss------artificial_intelligence-5)**
-> 🔹 **[Start a Generative AI Course in Hyderabad Online](https://medium.com/@receptionnight15/start-a-generative-ai-course-in-hyderabad-online-69981af0340b?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenAI Keeps Making ChatGPT Smarter.](https://medium.com/@deeya_89689/openai-keeps-making-chatgpt-smarter-b527d85eb8fc?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI IS THE NEW INTERVIEW LANGUAGE: MODERN CANDIDATE](https://hrtechwizard.medium.com/ai-is-the-new-interview-language-modern-candidate-6951defd17a7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Rise of Lab Grown Intelligence](https://medium.com/@carolin.romberg/the-rise-of-lab-grown-intelligence-3717bcf20710?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why UK Patients Are Turning to AI Chatbots Before Visiting a Doctor](https://medium.com/@getmyai.ai/why-uk-patients-are-turning-to-ai-chatbots-before-visiting-a-doctor-3d0909ae03e6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Load Balancer Just Sold the Same iPhone to Two People. Here’s Why.](https://medium.com/@darshanpadia5/your-load-balancer-just-sold-the-same-iphone-to-two-people-heres-why-5105b1998ab1?source=rss------system_design-5)**
+> 🔹 **[No Dumb Questions: What is cloud computing and why is everyone doing it?](https://stackoverflow.blog/2026/05/15/no-dumb-questions-cloud-computing/)**
+> 🔹 **[Claude Now Dreams: Inside Anthropic’s 6x Memory Feature &amp; 3 Hidden Risks](https://levelup.gitconnected.com/claude-dreaming-anthropic-memory-explained-a038f17f7d13?source=rss----5517fd7b58a6---4)**
+> 🔹 **[The Mac mini and Mac Studio Are Mini PCs Too — And They Break Every Rule of the Category](https://levelup.gitconnected.com/the-mac-mini-and-mac-studio-are-mini-pcs-too-and-they-break-every-rule-of-the-category-5d1e631ee784?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Stop Your AI Agent From Bleeding Tokens. Start Building Harnesses.](https://levelup.gitconnected.com/stop-your-ai-agent-from-bleeding-tokens-start-building-harnesses-b855ce210a9b?source=rss----5517fd7b58a6---4)**
+> 🔹 **[AI-Driven Productivity Gains and the Distribution Problem](https://levelup.gitconnected.com/ai-driven-productivity-gains-and-the-distribution-problem-2e7eab2f5e67?source=rss----5517fd7b58a6---4)**
+> 🔹 **[I Tried Both Ways to Let Claude Code Run Alone — Only One Actually Works](https://levelup.gitconnected.com/i-tried-both-ways-to-let-claude-code-run-alone-only-one-actually-works-3da5e8a02dbe?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Your AI Coding Tool Is 12 Months Behind on AWS. Here’s the Free Fix.](https://levelup.gitconnected.com/your-ai-coding-tool-is-12-months-behind-on-aws-heres-the-free-fix-7496bb7d78c9?source=rss----5517fd7b58a6---4)**
+> 🔹 **[The wider harness](https://levelup.gitconnected.com/the-wider-harness-c5c061310195?source=rss----5517fd7b58a6---4)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
