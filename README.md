@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[No Dumb Questions: What is cloud computing and why is everyone doing it?](https://stackoverflow.blog/2026/05/15/no-dumb-questions-cloud-computing/)**
-> 🔹 **[Claude Now Dreams: Inside Anthropic’s 6x Memory Feature &amp; 3 Hidden Risks](https://levelup.gitconnected.com/claude-dreaming-anthropic-memory-explained-a038f17f7d13?source=rss----5517fd7b58a6---4)**
-> 🔹 **[The Mac mini and Mac Studio Are Mini PCs Too — And They Break Every Rule of the Category](https://levelup.gitconnected.com/the-mac-mini-and-mac-studio-are-mini-pcs-too-and-they-break-every-rule-of-the-category-5d1e631ee784?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Stop Your AI Agent From Bleeding Tokens. Start Building Harnesses.](https://levelup.gitconnected.com/stop-your-ai-agent-from-bleeding-tokens-start-building-harnesses-b855ce210a9b?source=rss----5517fd7b58a6---4)**
-> 🔹 **[AI-Driven Productivity Gains and the Distribution Problem](https://levelup.gitconnected.com/ai-driven-productivity-gains-and-the-distribution-problem-2e7eab2f5e67?source=rss----5517fd7b58a6---4)**
-> 🔹 **[I Tried Both Ways to Let Claude Code Run Alone — Only One Actually Works](https://levelup.gitconnected.com/i-tried-both-ways-to-let-claude-code-run-alone-only-one-actually-works-3da5e8a02dbe?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Your AI Coding Tool Is 12 Months Behind on AWS. Here’s the Free Fix.](https://levelup.gitconnected.com/your-ai-coding-tool-is-12-months-behind-on-aws-heres-the-free-fix-7496bb7d78c9?source=rss----5517fd7b58a6---4)**
-> 🔹 **[The wider harness](https://levelup.gitconnected.com/the-wider-harness-c5c061310195?source=rss----5517fd7b58a6---4)**
+> 🔹 **[From Cron Jobs to BullMQ: Scaling Background Tasks in Node.js](https://medium.com/@Daaniyahkhan/from-cron-jobs-to-bullmq-scaling-background-tasks-in-node-js-3e23c2c8baef?source=rss------backend_development-5)**
+> 🔹 **[Monet Incident and Impressionist Slop.](https://medium.com/merzazine/monet-incident-and-impressionist-slop-fbceb2d67130?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Private Rust Backend to Power 18 Developer Tools — Here’s the Architecture](https://medium.com/codex/i-built-a-private-rust-backend-to-power-18-developer-tools-heres-the-architecture-4077112e2a81?source=rss------backend_development-5)**
+> 🔹 **[I love working, that’s the problem](https://medium.com/no-time/i-love-working-thats-the-problem-f5058badd9fc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Dirty Truth About Financial Data Nobody Talks About Before Building AI Models](https://pub.towardsai.net/the-dirty-truth-about-financial-data-nobody-talks-about-before-building-ai-models-776064328d87?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Cannot Replace Human Software Developers](https://medium.com/@seobestpeers/why-ai-cannot-replace-human-software-developers-195ee31b6923?source=rss------artificial_intelligence-5)**
+> 🔹 **[Simplifying Web3 and AI: Why Good Community Content Matters](https://medium.com/@annisatiaaaf25/simplifying-web3-and-ai-why-good-community-content-matters-d95b60ec066b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Vendors Are Using AI — But You’re Still Assessing Them Like It’s 2015](https://medium.com/@rhajela/your-vendors-are-using-ai-but-youre-still-assessing-them-like-it-s-2015-f48df9e46138?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
