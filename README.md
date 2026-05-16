@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[From Cron Jobs to BullMQ: Scaling Background Tasks in Node.js](https://medium.com/@Daaniyahkhan/from-cron-jobs-to-bullmq-scaling-background-tasks-in-node-js-3e23c2c8baef?source=rss------backend_development-5)**
-> 🔹 **[Monet Incident and Impressionist Slop.](https://medium.com/merzazine/monet-incident-and-impressionist-slop-fbceb2d67130?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a Private Rust Backend to Power 18 Developer Tools — Here’s the Architecture](https://medium.com/codex/i-built-a-private-rust-backend-to-power-18-developer-tools-heres-the-architecture-4077112e2a81?source=rss------backend_development-5)**
-> 🔹 **[I love working, that’s the problem](https://medium.com/no-time/i-love-working-thats-the-problem-f5058badd9fc?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Dirty Truth About Financial Data Nobody Talks About Before Building AI Models](https://pub.towardsai.net/the-dirty-truth-about-financial-data-nobody-talks-about-before-building-ai-models-776064328d87?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Cannot Replace Human Software Developers](https://medium.com/@seobestpeers/why-ai-cannot-replace-human-software-developers-195ee31b6923?source=rss------artificial_intelligence-5)**
-> 🔹 **[Simplifying Web3 and AI: Why Good Community Content Matters](https://medium.com/@annisatiaaaf25/simplifying-web3-and-ai-why-good-community-content-matters-d95b60ec066b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Vendors Are Using AI — But You’re Still Assessing Them Like It’s 2015](https://medium.com/@rhajela/your-vendors-are-using-ai-but-youre-still-assessing-them-like-it-s-2015-f48df9e46138?source=rss------artificial_intelligence-5)**
+> 🔹 **[Skills That Will Still Pay You Well in 2030](https://neel1701.medium.com/skills-that-will-still-pay-you-well-in-2030-25fb04ae0c4b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can ChatGPT Really Teach You Machine Learning? I Tried It for 7 Days](https://medium.com/@sadanandl8147/can-chatgpt-really-teach-you-machine-learning-i-tried-it-for-7-days-dd7439d67c05?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Power of Being Different.](https://medium.com/@lemuelmaraan/the-power-of-being-different-0638a7dc63cc?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Made My First $1,000 Using AI &lpar;Without Any Tech Skills&rpar;](https://thegrowthcure.medium.com/how-i-made-my-first-1-000-using-ai-without-any-tech-skills-70f8f4d386f7?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Were Already Getting Dumber. AI Just Made It Official.](https://anindyamishra.medium.com/we-were-already-getting-dumber-ai-just-made-it-official-18f798cadfee?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your LLM Is Lying to You in Eight Different Ways Right Now. Here Is How to Catch Each One.](https://medium.com/@swarnenduiitb2020/your-llm-is-lying-to-you-in-eight-different-ways-right-now-here-is-how-to-catch-each-one-80911ce1996e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Architecture of Unified Intelligence](https://medium.com/@juan.jeffery/the-architecture-of-unified-intelligence-9e1656751798?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Knowledge Architecture Mistake That Ruins RAG](https://medium.com/@rosgluk/the-knowledge-architecture-mistake-that-ruins-rag-4490192cd356?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
