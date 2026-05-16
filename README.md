@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Raw Manga Reader’s Dilemma: Why You Need a Dedicated Chrome Extension](https://medium.com/@peterslab/best-manga-translator-chrome-extension-2026-b7b370c96d82?source=rss------artificial_intelligence-5)**
-> 🔹 **[Have We Reached the End of Legacy Code?](https://drpicox.medium.com/have-we-reached-the-end-of-legacy-code-dc65c7c67cdd?source=rss------artificial_intelligence-5)**
-> 🔹 **[“Workspace Agents”: The Shift That Makes OpenAI’s Direction Different](https://medium.com/@keshni.naidoo/workspace-agents-the-shift-that-makes-openais-direction-different-c35574ffcb55?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 meilleures apps d’IA pour Mac et comment les utiliser](https://medium.com/@Abestit/7-meilleures-apps-dia-pour-mac-et-comment-les-utiliser-0aa180e21d94?source=rss------artificial_intelligence-5)**
-> 🔹 **[From “Prompt Engineer” to “Agent Architect”: The New Dev Role Forming in 2026](https://medium.com/@solaan/from-prompt-engineer-to-agent-architect-the-new-dev-role-forming-in-2026-45bffdb74856?source=rss------artificial_intelligence-5)**
-> 🔹 **[Live Chat vs AI Chatbot: What Actually Converts Better?](https://medium.com/@KShevchenco/live-chat-vs-ai-chatbot-what-actually-converts-better-ed26cad64d33?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Security Patch That only Fixed Half the Problem](https://medium.com/@katriel.moses/the-security-patch-that-only-fixed-half-the-problem-79ac0b1b7722?source=rss------system_design-5)**
-> 🔹 **[Rethinking Multi‑Agent Systems](https://sdivye92.medium.com/rethinking-multi-agent-systems-c06d1a354aa6?source=rss------artificial_intelligence-5)**
+> 🔹 **[ระบบเก่ายังอยู่ ระบบใหม่ก็ต้องมี: Sync 2 DB ด้วย Transactional Outbox Pattern](https://medium.com/@sirichai.no/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88-%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%81%E0%B9%87%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B5-sync-2-db-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-transactional-outbox-pattern-4de81edfbf6f?source=rss------system_design-5)**
+> 🔹 **[Trump: The Beijing Disaster](https://medium.com/the-geopolitical-economist/trump-the-beijing-disaster-4d2372db09f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Idempotency in Order Placement: Designing Systems That Survive Reality](https://medium.com/@gayathiri.muralitharan04/idempotency-in-order-placement-designing-systems-that-survive-reality-ba3cee77ddcb?source=rss------system_design-5)**
+> 🔹 **[The undo problem in AI products](https://uxdesign.cc/the-undo-problem-in-ai-products-c90ff080de3b?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI is Revolutionizing Healthcare: The Future of Medicine is Here](https://medium.com/@anasraheem03012/how-ai-is-revolutionizing-healthcare-the-future-of-medicine-is-here-10a942ab4c62?source=rss------artificial_intelligence-5)**
+> 🔹 **[STUDIO DI RICERCA ASTRONOMICA — ONDE GRAVITAZIONALI](https://medium.com/@santeiurescia81/studio-di-ricerca-astronomica-onde-gravitazionali-853c34cdacf6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Designing for AI Fatigue: Stop Making Users the Prompt Engineer](https://medium.com/design-bootcamp/designing-for-ai-fatigue-stop-making-users-the-prompt-engineer-8a27e0a4d0b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Memory Palace Feature Explanation:
+Memory Palace is VoxtrynAI’s advanced long-term memory syste...](https://medium.com/@voxtrynai/memory-palace-feature-explanation-memory-palace-is-voxtrynais-advanced-long-term-memory-system-b28d164ab01d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
