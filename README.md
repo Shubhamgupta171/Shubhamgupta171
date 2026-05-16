@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Skills That Will Still Pay You Well in 2030](https://neel1701.medium.com/skills-that-will-still-pay-you-well-in-2030-25fb04ae0c4b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can ChatGPT Really Teach You Machine Learning? I Tried It for 7 Days](https://medium.com/@sadanandl8147/can-chatgpt-really-teach-you-machine-learning-i-tried-it-for-7-days-dd7439d67c05?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Power of Being Different.](https://medium.com/@lemuelmaraan/the-power-of-being-different-0638a7dc63cc?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Made My First $1,000 Using AI &lpar;Without Any Tech Skills&rpar;](https://thegrowthcure.medium.com/how-i-made-my-first-1-000-using-ai-without-any-tech-skills-70f8f4d386f7?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Were Already Getting Dumber. AI Just Made It Official.](https://anindyamishra.medium.com/we-were-already-getting-dumber-ai-just-made-it-official-18f798cadfee?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your LLM Is Lying to You in Eight Different Ways Right Now. Here Is How to Catch Each One.](https://medium.com/@swarnenduiitb2020/your-llm-is-lying-to-you-in-eight-different-ways-right-now-here-is-how-to-catch-each-one-80911ce1996e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Architecture of Unified Intelligence](https://medium.com/@juan.jeffery/the-architecture-of-unified-intelligence-9e1656751798?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Knowledge Architecture Mistake That Ruins RAG](https://medium.com/@rosgluk/the-knowledge-architecture-mistake-that-ruins-rag-4490192cd356?source=rss------artificial_intelligence-5)**
+> 🔹 **[Hermes Agent détrône OpenClaw comme agent open source numéro un](https://medium.com/@Abestit/hermes-agent-d%C3%A9tr%C3%B4ne-openclaw-comme-agent-open-source-num%C3%A9ro-un-ba24ec131520?source=rss------artificial_intelligence-5)**
+> 🔹 **[Responsible AI Consulting: Governance Frameworks for 2026](https://ai.plainenglish.io/responsible-ai-consulting-governance-frameworks-for-2026-ce016e988a79?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Claude AI Prompts That Save Me 10 Hours Every Week &lpar;Copy &amp; Paste Ready&rpar;](https://ai.plainenglish.io/5-claude-ai-prompts-that-save-me-10-hours-every-week-copy-paste-ready-349a57ee676a?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Agentic AI Workflows Are Transforming Small Business Operations](https://ai.plainenglish.io/how-agentic-ai-workflows-are-transforming-small-business-operations-d1b3eb3f26d4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Common Pitfalls in Machine Learning: Why Models Fail in the Real World](https://ai.plainenglish.io/common-pitfalls-in-machine-learning-why-models-fail-in-the-real-world-90f05c8d1a5d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Simplest Explanation of AI I Could Think Of](https://ai.plainenglish.io/the-simplest-explanation-of-ai-i-could-think-of-e0b11d53792d?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Let ChatGPT Replace My Writing Process for 24 Hours — Here’s What Happened](https://ai.plainenglish.io/i-let-chatgpt-replace-my-writing-process-for-24-hours-heres-what-happened-6c50f557dd3b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Desktop vs Web Applications for PDF Accessibility Validation](https://ai.plainenglish.io/desktop-vs-web-applications-for-pdf-accessibility-validation-83b95a093df4?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
