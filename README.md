@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Hermes Agent détrône OpenClaw comme agent open source numéro un](https://medium.com/@Abestit/hermes-agent-d%C3%A9tr%C3%B4ne-openclaw-comme-agent-open-source-num%C3%A9ro-un-ba24ec131520?source=rss------artificial_intelligence-5)**
-> 🔹 **[Responsible AI Consulting: Governance Frameworks for 2026](https://ai.plainenglish.io/responsible-ai-consulting-governance-frameworks-for-2026-ce016e988a79?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Claude AI Prompts That Save Me 10 Hours Every Week &lpar;Copy &amp; Paste Ready&rpar;](https://ai.plainenglish.io/5-claude-ai-prompts-that-save-me-10-hours-every-week-copy-paste-ready-349a57ee676a?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Agentic AI Workflows Are Transforming Small Business Operations](https://ai.plainenglish.io/how-agentic-ai-workflows-are-transforming-small-business-operations-d1b3eb3f26d4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Common Pitfalls in Machine Learning: Why Models Fail in the Real World](https://ai.plainenglish.io/common-pitfalls-in-machine-learning-why-models-fail-in-the-real-world-90f05c8d1a5d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Simplest Explanation of AI I Could Think Of](https://ai.plainenglish.io/the-simplest-explanation-of-ai-i-could-think-of-e0b11d53792d?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Let ChatGPT Replace My Writing Process for 24 Hours — Here’s What Happened](https://ai.plainenglish.io/i-let-chatgpt-replace-my-writing-process-for-24-hours-heres-what-happened-6c50f557dd3b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Desktop vs Web Applications for PDF Accessibility Validation](https://ai.plainenglish.io/desktop-vs-web-applications-for-pdf-accessibility-validation-83b95a093df4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Raw Manga Reader’s Dilemma: Why You Need a Dedicated Chrome Extension](https://medium.com/@peterslab/best-manga-translator-chrome-extension-2026-b7b370c96d82?source=rss------artificial_intelligence-5)**
+> 🔹 **[Have We Reached the End of Legacy Code?](https://drpicox.medium.com/have-we-reached-the-end-of-legacy-code-dc65c7c67cdd?source=rss------artificial_intelligence-5)**
+> 🔹 **[“Workspace Agents”: The Shift That Makes OpenAI’s Direction Different](https://medium.com/@keshni.naidoo/workspace-agents-the-shift-that-makes-openais-direction-different-c35574ffcb55?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 meilleures apps d’IA pour Mac et comment les utiliser](https://medium.com/@Abestit/7-meilleures-apps-dia-pour-mac-et-comment-les-utiliser-0aa180e21d94?source=rss------artificial_intelligence-5)**
+> 🔹 **[From “Prompt Engineer” to “Agent Architect”: The New Dev Role Forming in 2026](https://medium.com/@solaan/from-prompt-engineer-to-agent-architect-the-new-dev-role-forming-in-2026-45bffdb74856?source=rss------artificial_intelligence-5)**
+> 🔹 **[Live Chat vs AI Chatbot: What Actually Converts Better?](https://medium.com/@KShevchenco/live-chat-vs-ai-chatbot-what-actually-converts-better-ed26cad64d33?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Security Patch That only Fixed Half the Problem](https://medium.com/@katriel.moses/the-security-patch-that-only-fixed-half-the-problem-79ac0b1b7722?source=rss------system_design-5)**
+> 🔹 **[Rethinking Multi‑Agent Systems](https://sdivye92.medium.com/rethinking-multi-agent-systems-c06d1a354aa6?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
