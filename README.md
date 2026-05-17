@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why I’m Stepping Back From The AI Noise to Reclaim My Brain](https://medium.com/@harivishnudadi006/why-im-stepping-back-from-the-ai-noise-to-reclaim-my-brain-162987b67917?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Generative AI Bubble Inside Engineering Teams](https://msalinas92.medium.com/the-generative-ai-bubble-inside-engineering-teams-fac44511a61f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Crisis Is Not Information. It Is Interpretation](https://medium.com/where-thought-bends/the-crisis-is-not-information-it-is-interpretation-094f5f0b2174?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 2026 AI Glossary: 10 Terms You Need to Know to Survive the Next Wave of Tech](https://medium.com/@vapt.audits/the-2026-ai-glossary-10-terms-you-need-to-know-to-survive-the-next-wave-of-tech-c6fa67d0bef9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Web Development — Detailed Guide with Examples](https://medium.com/@yasvanthdurairaj747/web-development-detailed-guide-with-examples-31e9123fed2c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Guarded Agency: The Mission Command Model for AI-Era Defense](https://medium.com/@m.thiessmeier/guarded-agency-the-mission-command-model-for-ai-era-defense-525bf8fd5ffc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building the Future: The Quest for Artificial Super Intelligence](https://medium.com/cuesoft/building-the-future-the-quest-for-artificial-superintelligence-35f704c849dd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Forget ChatGPT &amp; Gemini — These New AI Tools Are Quietly Changing Business Productivity in 2026](https://medium.com/@theinsightdiary28/forget-chatgpt-gemini-these-new-ai-tools-are-quietly-changing-business-productivity-in-2026-232eeca8909b?source=rss------artificial_intelligence-5)**
+> 🔹 **[A AI Festival não foi sobre inteligência artificial. Foi sobre burrice humana.](https://victor-hugo-bin.medium.com/a-ai-festival-n%C3%A3o-foi-sobre-intelig%C3%AAncia-artificial-foi-sobre-burrice-humana-efd88630ca1a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Rise of the People &amp; Performance Management Operating System](https://medium.com/@benay.guner/the-rise-of-the-people-performance-management-operating-system-2974f096f893?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Just Spent 20 Minutes on a Video Call With a Thief](https://medium.com/@info_69552/you-just-spent-20-minutes-on-a-video-call-with-a-thief-a8b4accaeac4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Take the Front-row seat to Back-End](https://creativerohit.medium.com/take-the-front-row-seat-to-back-end-9c92cb54d4b7?source=rss------backend_development-5)**
+> 🔹 **[Harness Is for Animals. Intelligence Needs a Cognition Access Layer](https://medium.com/@maxdolphin/harness-is-for-animals-intelligence-needs-a-cognition-access-layer-7db3f91b88f2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 5-Meter Radius Sunday](https://medium.com/@shiroandco.office/the-5-meter-radius-sunday-fd97dd1365a7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Algorithm ABC for Newbies: SubSet Sum &lpar;Part-2&rpar;](https://muzahid-nafiz.medium.com/algorithm-abc-for-newbies-subset-sum-part-2-b394e91aeda2?source=rss------data_structures-5)**
+> 🔹 **[The Power of Natural Language Processing: Teaching Machines to Understand Humans](https://medium.com/@ishikasethiya16/the-power-of-natural-language-processing-teaching-machines-to-understand-humans-1dae30f7792e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
