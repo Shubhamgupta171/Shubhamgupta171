@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AItopia | プロローグ
-静かなる終焉](https://medium.com/@kazue_18846/aitopia-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0-%E9%9D%99%E3%81%8B%E3%81%AA%E3%82%8B%E7%B5%82%E7%84%89-d29344e6dc5d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Verificative AI fixes what generative AI gets wrong.](https://medium.com/@mz_90442/verificative-ai-fixes-what-generative-ai-gets-wrong-df41c5b28579?source=rss------artificial_intelligence-5)**
-> 🔹 **[Skills, MCP, and Tool Calling: The Three Layers of Agent Extension](https://kotrotsos.medium.com/skills-mcp-and-tool-calling-the-three-layers-of-agent-extension-6620c9d7710e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Next Big GenAI Battle Will Be About Trust, Not Intelligence](https://medium.com/@pranavprakash4777/the-next-big-genai-battle-will-be-about-trust-not-intelligence-acb2145e6755?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Designer’s Secret Weapon: Advanced AI Tools That’ll Change How You Work Forever](https://medium.com/@mathewmani023/the-designers-secret-weapon-advanced-ai-tools-that-ll-change-how-you-work-forever-95592dd95913?source=rss------artificial_intelligence-5)**
-> 🔹 **[System Design-Movie Booking #1](https://medium.com/@contactmanoharbatra/system-design-movie-booking-9eae158ebe4d?source=rss------system_design-5)**
-> 🔹 **[5 AI Tools That Save Time Every Day](https://medium.com/@mosadahmedharb02/5-ai-tools-that-save-time-every-day-56e07bfb6439?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Not Replacing Designers, It’s Giving Them a Superpower](https://medium.com/@nishelakashi318/ai-is-not-replacing-designers-its-giving-them-a-superpower-da6cb67c258c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why I’m Stepping Back From The AI Noise to Reclaim My Brain](https://medium.com/@harivishnudadi006/why-im-stepping-back-from-the-ai-noise-to-reclaim-my-brain-162987b67917?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Generative AI Bubble Inside Engineering Teams](https://msalinas92.medium.com/the-generative-ai-bubble-inside-engineering-teams-fac44511a61f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Crisis Is Not Information. It Is Interpretation](https://medium.com/where-thought-bends/the-crisis-is-not-information-it-is-interpretation-094f5f0b2174?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 2026 AI Glossary: 10 Terms You Need to Know to Survive the Next Wave of Tech](https://medium.com/@vapt.audits/the-2026-ai-glossary-10-terms-you-need-to-know-to-survive-the-next-wave-of-tech-c6fa67d0bef9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Web Development — Detailed Guide with Examples](https://medium.com/@yasvanthdurairaj747/web-development-detailed-guide-with-examples-31e9123fed2c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Guarded Agency: The Mission Command Model for AI-Era Defense](https://medium.com/@m.thiessmeier/guarded-agency-the-mission-command-model-for-ai-era-defense-525bf8fd5ffc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building the Future: The Quest for Artificial Super Intelligence](https://medium.com/cuesoft/building-the-future-the-quest-for-artificial-superintelligence-35f704c849dd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Forget ChatGPT &amp; Gemini — These New AI Tools Are Quietly Changing Business Productivity in 2026](https://medium.com/@theinsightdiary28/forget-chatgpt-gemini-these-new-ai-tools-are-quietly-changing-business-productivity-in-2026-232eeca8909b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
