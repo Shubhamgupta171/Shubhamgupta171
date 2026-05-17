@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[ระบบเก่ายังอยู่ ระบบใหม่ก็ต้องมี: Sync 2 DB ด้วย Transactional Outbox Pattern](https://medium.com/@sirichai.no/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88-%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%81%E0%B9%87%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B5-sync-2-db-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-transactional-outbox-pattern-4de81edfbf6f?source=rss------system_design-5)**
-> 🔹 **[Trump: The Beijing Disaster](https://medium.com/the-geopolitical-economist/trump-the-beijing-disaster-4d2372db09f6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Idempotency in Order Placement: Designing Systems That Survive Reality](https://medium.com/@gayathiri.muralitharan04/idempotency-in-order-placement-designing-systems-that-survive-reality-ba3cee77ddcb?source=rss------system_design-5)**
-> 🔹 **[The undo problem in AI products](https://uxdesign.cc/the-undo-problem-in-ai-products-c90ff080de3b?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI is Revolutionizing Healthcare: The Future of Medicine is Here](https://medium.com/@anasraheem03012/how-ai-is-revolutionizing-healthcare-the-future-of-medicine-is-here-10a942ab4c62?source=rss------artificial_intelligence-5)**
-> 🔹 **[STUDIO DI RICERCA ASTRONOMICA — ONDE GRAVITAZIONALI](https://medium.com/@santeiurescia81/studio-di-ricerca-astronomica-onde-gravitazionali-853c34cdacf6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Designing for AI Fatigue: Stop Making Users the Prompt Engineer](https://medium.com/design-bootcamp/designing-for-ai-fatigue-stop-making-users-the-prompt-engineer-8a27e0a4d0b3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Memory Palace Feature Explanation:
-Memory Palace is VoxtrynAI’s advanced long-term memory syste...](https://medium.com/@voxtrynai/memory-palace-feature-explanation-memory-palace-is-voxtrynais-advanced-long-term-memory-system-b28d164ab01d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Famva: The AI Wellness Platform Transforming Elderly Care](https://medium.com/@hello.famva/famva-the-ai-wellness-platform-transforming-elderly-care-d21219de2f34?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Lazy Person’s Guide to Making Money With AI](https://dropvaultco.medium.com/the-lazy-persons-guide-to-making-money-with-ai-15456202e2e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Not the Revolution — It’s the Redistribution of Power](https://medium.com/@sagarmajumdersocialmedia/ai-is-not-the-revolution-its-the-redistribution-of-power-ac22672af33c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Decoding the Invariant Spectrum of Primes: Arithmetic Spectral Theory and the Quantification of...](https://medium.com/ai-simplified-in-plain-english/decoding-the-invariant-spectrum-of-primes-arithmetic-spectral-theory-and-the-quantification-of-the-ecffe1531638?source=rss------artificial_intelligence-5)**
+> 🔹 **[“The Kubernetes Gateway API and its role in Cloud Native API Management.”](https://medium.com/@rushipatil19/the-kubernetes-gateway-api-and-its-role-in-cloud-native-api-management-3aa6c599cb95?source=rss------backend_development-5)**
+> 🔹 **[It’s Not the AI That’s Wrong — It’s Our Methods That Need to Change](https://bangwin.medium.com/its-not-the-ai-that-s-wrong-it-s-our-methods-that-need-to-change-adb6af389b66?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 5-Stage AI Job-Hunting System for 2026 &lpar;With the Exact Prompts&rpar;](https://medium.com/write-rise/the-5-stage-ai-job-hunting-system-for-2026-with-the-exact-prompts-8174fd70210c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Only 3 Claude Certificates I’d Put On My LinkedIn](https://trilochan-bhalla.medium.com/the-only-3-claude-certificates-id-put-on-my-linkedin-277bfc3a01f9?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
