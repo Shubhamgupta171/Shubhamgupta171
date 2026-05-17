@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Famva: The AI Wellness Platform Transforming Elderly Care](https://medium.com/@hello.famva/famva-the-ai-wellness-platform-transforming-elderly-care-d21219de2f34?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Lazy Person’s Guide to Making Money With AI](https://dropvaultco.medium.com/the-lazy-persons-guide-to-making-money-with-ai-15456202e2e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Not the Revolution — It’s the Redistribution of Power](https://medium.com/@sagarmajumdersocialmedia/ai-is-not-the-revolution-its-the-redistribution-of-power-ac22672af33c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Decoding the Invariant Spectrum of Primes: Arithmetic Spectral Theory and the Quantification of...](https://medium.com/ai-simplified-in-plain-english/decoding-the-invariant-spectrum-of-primes-arithmetic-spectral-theory-and-the-quantification-of-the-ecffe1531638?source=rss------artificial_intelligence-5)**
-> 🔹 **[“The Kubernetes Gateway API and its role in Cloud Native API Management.”](https://medium.com/@rushipatil19/the-kubernetes-gateway-api-and-its-role-in-cloud-native-api-management-3aa6c599cb95?source=rss------backend_development-5)**
-> 🔹 **[It’s Not the AI That’s Wrong — It’s Our Methods That Need to Change](https://bangwin.medium.com/its-not-the-ai-that-s-wrong-it-s-our-methods-that-need-to-change-adb6af389b66?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 5-Stage AI Job-Hunting System for 2026 &lpar;With the Exact Prompts&rpar;](https://medium.com/write-rise/the-5-stage-ai-job-hunting-system-for-2026-with-the-exact-prompts-8174fd70210c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Only 3 Claude Certificates I’d Put On My LinkedIn](https://trilochan-bhalla.medium.com/the-only-3-claude-certificates-id-put-on-my-linkedin-277bfc3a01f9?source=rss------artificial_intelligence-5)**
+> 🔹 **[AItopia | プロローグ
+静かなる終焉](https://medium.com/@kazue_18846/aitopia-%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0-%E9%9D%99%E3%81%8B%E3%81%AA%E3%82%8B%E7%B5%82%E7%84%89-d29344e6dc5d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Verificative AI fixes what generative AI gets wrong.](https://medium.com/@mz_90442/verificative-ai-fixes-what-generative-ai-gets-wrong-df41c5b28579?source=rss------artificial_intelligence-5)**
+> 🔹 **[Skills, MCP, and Tool Calling: The Three Layers of Agent Extension](https://kotrotsos.medium.com/skills-mcp-and-tool-calling-the-three-layers-of-agent-extension-6620c9d7710e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Next Big GenAI Battle Will Be About Trust, Not Intelligence](https://medium.com/@pranavprakash4777/the-next-big-genai-battle-will-be-about-trust-not-intelligence-acb2145e6755?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Designer’s Secret Weapon: Advanced AI Tools That’ll Change How You Work Forever](https://medium.com/@mathewmani023/the-designers-secret-weapon-advanced-ai-tools-that-ll-change-how-you-work-forever-95592dd95913?source=rss------artificial_intelligence-5)**
+> 🔹 **[System Design-Movie Booking #1](https://medium.com/@contactmanoharbatra/system-design-movie-booking-9eae158ebe4d?source=rss------system_design-5)**
+> 🔹 **[5 AI Tools That Save Time Every Day](https://medium.com/@mosadahmedharb02/5-ai-tools-that-save-time-every-day-56e07bfb6439?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Not Replacing Designers, It’s Giving Them a Superpower](https://medium.com/@nishelakashi318/ai-is-not-replacing-designers-its-giving-them-a-superpower-da6cb67c258c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
