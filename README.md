@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[7 Powerful AI Trends Developers Should Watch in 2026](https://medium.com/@fenngjo/7-powerful-ai-trends-developers-should-watch-in-2026-f56108693e3d?source=rss------artificial_intelligence-5)**
-> 🔹 **[B.F. Skinner Had a Rat. I Have AIs.](https://medium.com/@yvan.rotrou/b-f-skinner-had-a-rat-i-have-ais-6362d8230dfe?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Didn’t Replace Humans. It Exposed Them.](https://medium.com/@umeshladumor2011/ai-didnt-replace-humans-it-exposed-them-e2b64ef713a0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Taste as infrastructure](https://medium.com/@swethasridhar1511/taste-as-infrastructure-67c3cf6915c1?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 AI Tricks That Quietly Double D2C Sales Fast](https://medium.com/@tensrmedia/5-ai-tricks-that-quietly-double-d2c-sales-fast-bd3620adfda1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gold chains and the road to Gas Town](https://medium.com/analytics-and-data/gold-chains-and-the-road-to-gas-town-5046c2f469d3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Problem With AI Automation Everyone Ignores](https://medium.com/@tanu_72940/the-hidden-problem-with-ai-automation-everyone-ignores-4da34b43b4d7?source=rss------artificial_intelligence-5)**
-> 🔹 **[20 Days of Artificial Intelligence — Day 19 of 20 — AI Agents](https://medium.com/@krthiak/20-days-of-artificial-intelligence-day-19-of-20-ai-agents-da4c272fa26f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why the Ocean Has No Chance?](https://medium.com/@MxBv/why-the-ocean-has-no-chance-da91eea34dbe?source=rss------artificial_intelligence-5)**
+> 🔹 **[Our Agent Burned Through $40 in 3 Minutes. Here’s How We Got It to $0.03 Per Query](https://medium.com/@itsmereddy1211/our-agent-burned-through-40-in-3-minutes-heres-how-we-got-it-to-0-03-per-query-f1220c65adf6?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Built an Interactive System Design Simulator to Make Learning Easier](https://medium.com/@devonmobile/how-i-built-an-interactive-system-design-simulator-to-make-learning-easier-6e3e7f840ad7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mustafa Sandal, “Saygı” ve Yapay Zeka Üretimi Eserler Üzerine Sanatçı İncitici Düşüncelerim](https://medium.com/@ilkimguven/mustafa-sandal-sayg%C4%B1-ve-yapay-zeka-%C3%BCretimi-eserler-%C3%BCzerine-sanat%C3%A7%C4%B1-i%CC%87ncitici-d%C3%BC%C5%9F%C3%BCncelerim-312d507a4e5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Digital Financial Platforms Are Focusing More on Accessibility](https://medium.com/@ok966968678/why-digital-financial-platforms-are-focusing-more-on-accessibility-6f0054c660a9?source=rss------artificial_intelligence-5)**
+> 🔹 **[O Problema Invisível Sob os Navios](https://medium.com/@giselle_9978/o-problema-invis%C3%ADvel-sob-os-navios-4ed9bad54bf3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Rereading Confusing Textbooks: Use This “Feynman” AI Prompt Instead](https://medium.com/@ragzvaz08/stop-rereading-confusing-textbooks-use-this-feynman-ai-prompt-instead-fdf93e4d9819?source=rss------artificial_intelligence-5)**
+> 🔹 **[Star Fox’s Katt Monroe changed greatly a character change that makes no sense, until now.](https://medium.com/@volkcolopatrion4/star-foxs-katt-monroe-changed-greatly-a-character-change-that-makes-no-sense-until-now-c38c129f035a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
