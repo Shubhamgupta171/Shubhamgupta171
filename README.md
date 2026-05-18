@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[A AI Festival não foi sobre inteligência artificial. Foi sobre burrice humana.](https://victor-hugo-bin.medium.com/a-ai-festival-n%C3%A3o-foi-sobre-intelig%C3%AAncia-artificial-foi-sobre-burrice-humana-efd88630ca1a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Rise of the People &amp; Performance Management Operating System](https://medium.com/@benay.guner/the-rise-of-the-people-performance-management-operating-system-2974f096f893?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Just Spent 20 Minutes on a Video Call With a Thief](https://medium.com/@info_69552/you-just-spent-20-minutes-on-a-video-call-with-a-thief-a8b4accaeac4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Take the Front-row seat to Back-End](https://creativerohit.medium.com/take-the-front-row-seat-to-back-end-9c92cb54d4b7?source=rss------backend_development-5)**
-> 🔹 **[Harness Is for Animals. Intelligence Needs a Cognition Access Layer](https://medium.com/@maxdolphin/harness-is-for-animals-intelligence-needs-a-cognition-access-layer-7db3f91b88f2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 5-Meter Radius Sunday](https://medium.com/@shiroandco.office/the-5-meter-radius-sunday-fd97dd1365a7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Algorithm ABC for Newbies: SubSet Sum &lpar;Part-2&rpar;](https://muzahid-nafiz.medium.com/algorithm-abc-for-newbies-subset-sum-part-2-b394e91aeda2?source=rss------data_structures-5)**
-> 🔹 **[The Power of Natural Language Processing: Teaching Machines to Understand Humans](https://medium.com/@ishikasethiya16/the-power-of-natural-language-processing-teaching-machines-to-understand-humans-1dae30f7792e?source=rss------artificial_intelligence-5)**
+> 🔹 **[What is the ReAct Framework in AI? A Practical Enterprise Guide to Reasoning + Acting AI System...](https://medium.com/@Segmetriqanalytics/what-is-the-react-framework-in-ai-a-practical-enterprise-guide-to-reasoning-acting-ai-systems-c9767deb2e9a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Embedding Models and the Challenge of Company-Specific Terminology in RAG Systems](https://medium.com/@pralaynawasare/embedding-models-and-the-challenge-of-company-specific-terminology-in-rag-systems-27d242f32199?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tested Every AI Writing Tool So You Don’t Have To — Only 3 Are Worth It in 2026](https://medium.com/activated-thinker/i-tested-every-ai-writing-tool-so-you-dont-have-to-only-3-are-worth-it-in-2026-50c602d0cd18?source=rss------artificial_intelligence-5)**
+> 🔹 **[If I Had to Start AI Again in 2026, I’d Do This](https://medium.com/activated-thinker/if-i-had-to-start-ai-again-in-2026-id-do-this-eb2249a1019a?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Was A Senior Engineer At Amazon. At The Startup I Was Just The Person Who&#39;d Been At Amazon.](https://medium.com/activated-thinker/i-was-a-senior-engineer-at-amazon-at-the-startup-i-was-just-the-person-whod-been-at-amazon-a76d8691ad87?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building a Causal AI Prototype for Heart Failure: From Risk Prediction to Counterfactual Treatm...](https://veliation.medium.com/building-a-causal-ai-prototype-for-heart-failure-from-risk-prediction-to-counterfactual-treatment-8998555f31d4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Context Forking and On-Demand Knowledge: The Architecture Behind Claude Code Skills](https://medium.com/neuralnotions/context-forking-and-on-demand-knowledge-the-architecture-behind-claude-code-skills-e17b9a9fa058?source=rss------artificial_intelligence-5)**
+> 🔹 **[I’m a Fresher in Tech, and These 5 New Realities Are Making My Head Spin &lpar;in the Best Way&rpar;](https://medium.com/@deva29008/im-a-fresher-in-tech-and-these-5-new-realities-are-making-my-head-spin-in-the-best-way-c5c996675f23?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
