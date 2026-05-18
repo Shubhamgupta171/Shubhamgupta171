@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why the Ocean Has No Chance?](https://medium.com/@MxBv/why-the-ocean-has-no-chance-da91eea34dbe?source=rss------artificial_intelligence-5)**
-> 🔹 **[Our Agent Burned Through $40 in 3 Minutes. Here’s How We Got It to $0.03 Per Query](https://medium.com/@itsmereddy1211/our-agent-burned-through-40-in-3-minutes-heres-how-we-got-it-to-0-03-per-query-f1220c65adf6?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Built an Interactive System Design Simulator to Make Learning Easier](https://medium.com/@devonmobile/how-i-built-an-interactive-system-design-simulator-to-make-learning-easier-6e3e7f840ad7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mustafa Sandal, “Saygı” ve Yapay Zeka Üretimi Eserler Üzerine Sanatçı İncitici Düşüncelerim](https://medium.com/@ilkimguven/mustafa-sandal-sayg%C4%B1-ve-yapay-zeka-%C3%BCretimi-eserler-%C3%BCzerine-sanat%C3%A7%C4%B1-i%CC%87ncitici-d%C3%BC%C5%9F%C3%BCncelerim-312d507a4e5c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Digital Financial Platforms Are Focusing More on Accessibility](https://medium.com/@ok966968678/why-digital-financial-platforms-are-focusing-more-on-accessibility-6f0054c660a9?source=rss------artificial_intelligence-5)**
-> 🔹 **[O Problema Invisível Sob os Navios](https://medium.com/@giselle_9978/o-problema-invis%C3%ADvel-sob-os-navios-4ed9bad54bf3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Rereading Confusing Textbooks: Use This “Feynman” AI Prompt Instead](https://medium.com/@ragzvaz08/stop-rereading-confusing-textbooks-use-this-feynman-ai-prompt-instead-fdf93e4d9819?source=rss------artificial_intelligence-5)**
-> 🔹 **[Star Fox’s Katt Monroe changed greatly a character change that makes no sense, until now.](https://medium.com/@volkcolopatrion4/star-foxs-katt-monroe-changed-greatly-a-character-change-that-makes-no-sense-until-now-c38c129f035a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stanford’s 2026 AI Index Reveals an Embarrassing Truth About the AI Economy](https://sergeykleftzov.medium.com/stanfords-2026-ai-index-reveals-an-embarrassing-truth-about-the-ai-economy-5a6755b2b8ca?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building a Local AI Developer Factory with Ollama, Docker, and Telegram](https://medium.com/@abhishwithu/building-a-local-ai-developer-factory-with-ollama-docker-and-telegram-6d42dd227f91?source=rss------artificial_intelligence-5)**
+> 🔹 **[Modern businesses cannot afford unexpected storage downtime.](https://medium.com/@ulinkdadriveanalyzer/modern-businesses-cannot-afford-unexpected-storage-downtime-6b64a706b3b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Build a Real-Time Group Chat with Django Channels &amp; WebSockets](https://medium.com/@moizsardar056/build-a-real-time-group-chat-with-django-channels-websockets-778d6137a762?source=rss------backend_development-5)**
+> 🔹 **[Beyond Generative AI: Why World Models May Define the Next Era of Intelligence](https://medium.com/@muslumyildiz17/beyond-generative-ai-why-world-models-may-define-the-next-era-of-intelligence-7408d0cb2242?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Apple Silicon Inference Needs Diffusion Drafters, Not Diffusion LLMs](https://medium.com/@michael.hannecke/why-apple-silicon-inference-needs-diffusion-drafters-not-diffusion-llms-b6ec009409ac?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everyone Is Vibe Coding. Almost No One Is Making Money From It](https://blog.startupstash.com/everyone-is-vibe-coding-almost-no-one-is-making-money-from-it-4f6d6aca7b53?source=rss------artificial_intelligence-5)**
+> 🔹 **[Putin in Beijing: China Becomes the Center of World Politics](https://medium.com/the-geopolitical-economist/putin-in-beijing-china-becomes-the-center-of-world-politics-5790181e49a9?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
