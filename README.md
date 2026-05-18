@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What is the ReAct Framework in AI? A Practical Enterprise Guide to Reasoning + Acting AI System...](https://medium.com/@Segmetriqanalytics/what-is-the-react-framework-in-ai-a-practical-enterprise-guide-to-reasoning-acting-ai-systems-c9767deb2e9a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Embedding Models and the Challenge of Company-Specific Terminology in RAG Systems](https://medium.com/@pralaynawasare/embedding-models-and-the-challenge-of-company-specific-terminology-in-rag-systems-27d242f32199?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested Every AI Writing Tool So You Don’t Have To — Only 3 Are Worth It in 2026](https://medium.com/activated-thinker/i-tested-every-ai-writing-tool-so-you-dont-have-to-only-3-are-worth-it-in-2026-50c602d0cd18?source=rss------artificial_intelligence-5)**
-> 🔹 **[If I Had to Start AI Again in 2026, I’d Do This](https://medium.com/activated-thinker/if-i-had-to-start-ai-again-in-2026-id-do-this-eb2249a1019a?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Was A Senior Engineer At Amazon. At The Startup I Was Just The Person Who&#39;d Been At Amazon.](https://medium.com/activated-thinker/i-was-a-senior-engineer-at-amazon-at-the-startup-i-was-just-the-person-whod-been-at-amazon-a76d8691ad87?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building a Causal AI Prototype for Heart Failure: From Risk Prediction to Counterfactual Treatm...](https://veliation.medium.com/building-a-causal-ai-prototype-for-heart-failure-from-risk-prediction-to-counterfactual-treatment-8998555f31d4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Context Forking and On-Demand Knowledge: The Architecture Behind Claude Code Skills](https://medium.com/neuralnotions/context-forking-and-on-demand-knowledge-the-architecture-behind-claude-code-skills-e17b9a9fa058?source=rss------artificial_intelligence-5)**
-> 🔹 **[I’m a Fresher in Tech, and These 5 New Realities Are Making My Head Spin &lpar;in the Best Way&rpar;](https://medium.com/@deva29008/im-a-fresher-in-tech-and-these-5-new-realities-are-making-my-head-spin-in-the-best-way-c5c996675f23?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 Powerful AI Trends Developers Should Watch in 2026](https://medium.com/@fenngjo/7-powerful-ai-trends-developers-should-watch-in-2026-f56108693e3d?source=rss------artificial_intelligence-5)**
+> 🔹 **[B.F. Skinner Had a Rat. I Have AIs.](https://medium.com/@yvan.rotrou/b-f-skinner-had-a-rat-i-have-ais-6362d8230dfe?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Didn’t Replace Humans. It Exposed Them.](https://medium.com/@umeshladumor2011/ai-didnt-replace-humans-it-exposed-them-e2b64ef713a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Taste as infrastructure](https://medium.com/@swethasridhar1511/taste-as-infrastructure-67c3cf6915c1?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 AI Tricks That Quietly Double D2C Sales Fast](https://medium.com/@tensrmedia/5-ai-tricks-that-quietly-double-d2c-sales-fast-bd3620adfda1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gold chains and the road to Gas Town](https://medium.com/analytics-and-data/gold-chains-and-the-road-to-gas-town-5046c2f469d3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Problem With AI Automation Everyone Ignores](https://medium.com/@tanu_72940/the-hidden-problem-with-ai-automation-everyone-ignores-4da34b43b4d7?source=rss------artificial_intelligence-5)**
+> 🔹 **[20 Days of Artificial Intelligence — Day 19 of 20 — AI Agents](https://medium.com/@krthiak/20-days-of-artificial-intelligence-day-19-of-20-ai-agents-da4c272fa26f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
