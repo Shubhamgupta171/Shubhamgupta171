@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Removed 60% Boilerplate Using FastAPI + GPT-5](https://medium.com/@shubhamnalawade037/i-removed-60-boilerplate-using-fastapi-gpt-5-eee644913d2b?source=rss------backend_development-5)**
-> 🔹 **[I Shipped 6 Months of Work in 9 Days Using AI](https://medium.com/@shubhamnalawade037/i-shipped-6-months-of-work-in-9-days-using-ai-b1d955db04ec?source=rss------backend_development-5)**
-> 🔹 **[The Human Target: Why Hackers are Bypassing Security Tools to Target You Directly](https://medium.com/@marketing_30607/the-human-target-why-hackers-are-bypassing-security-tools-to-target-you-directly-b4359d177e06?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Revolution — Are We Going Forward Or Backward?](https://medium.com/activated-thinker/ai-revolution-are-we-going-forward-or-backward-21b0ad2fbd5c?source=rss------artificial_intelligence-5)**
-> 🔹 **[HikariCP: The Complete Guide
-From Internals to Production Incidents](https://medium.com/@yashpal22.work/hikaricp-the-complete-guide-from-internals-to-production-incidents-4b03ee73b49d?source=rss------backend_development-5)**
-> 🔹 **[Best AI Video Tools for Small Teams: Where Pollo.ai Fits in 2026](https://medium.com/@miracalder_93891/best-ai-video-tools-for-small-teams-where-pollo-ai-fits-in-2026-d39f5a37c07b?source=rss------artificial_intelligence-5)**
-> 🔹 **[10 Real Ways to Make Money Online for Beginners in 2026](https://medium.com/@kchege2058/10-real-ways-to-make-money-online-for-beginners-in-2026-9d4bbb3bdca9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Training Keeps Crashing on Your Laptop &lpar;And the 3 Hardware Bottlenecks Most People Miss&rpar;](https://medium.com/@mumbamweni3/why-training-keeps-crashing-on-your-laptop-and-the-3-hardware-bottlenecks-most-people-miss-d11d7cb5b75b?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPUs Aren’t the Bottleneck Anymore — The Grid Is](https://medium.com/@peretyachenkovitaly/gpus-arent-the-bottleneck-anymore-the-grid-is-17b6ad9fdb9d?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Idea to Go-Live — How MessageDrop Came to Life](https://medium.com/@jacktoolsnet/from-idea-to-go-live-how-messagedrop-came-to-life-9600216ff398?source=rss------artificial_intelligence-5)**
+> 🔹 **[Solving Single-Key LLM Rate Limits Is Not About Blind Retry](https://medium.com/@foks.wang/solving-single-key-llm-rate-limits-is-not-about-blind-retry-2e1093d5f0e6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop thinking in WebSockets. Start thinking in rooms.](https://medium.com/@7003425114klp/stop-thinking-in-websockets-start-thinking-in-rooms-a76405e776b3?source=rss------backend_development-5)**
+> 🔹 **[Did I write this, or did AI?](https://medium.com/@kevinjtech/did-i-write-this-or-did-ai-1530fa16227c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Rational Party: Rethinking Democracy in the Age of AI](https://medium.com/@gtoravane/the-rational-party-rethinking-democracy-in-the-age-of-ai-75250ebbc2db?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI SEO: Why Most Websites Are Invisible to AI Systems](https://shivang-rathod.medium.com/ai-seo-why-most-websites-are-invisible-to-ai-systems-f8a652901c1f?source=rss------artificial_intelligence-5)**
+> 🔹 **[LinkedIn Optimizer](https://medium.com/@fabio_wallys/linkedin-optimizer-4471440368d1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
