@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Goddes Project: AXI](https://medium.com/thecinderellaproject/the-goddes-project-axi-4fd22c3b0dc2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The End of Chatbots: Why Google I/O 2026 Just Redefined the AI Race](https://medium.com/@joeljohnsonthomas77/the-end-of-chatbots-why-google-i-o-2026-just-redefined-the-ai-race-ab9ae5d71bbf?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Overviews Zero Click Search 2026: SEO Survival &amp; Growth Framework](https://medium.com/@n311311/ai-overviews-zero-click-search-2026-seo-survival-growth-framework-804a1c9ad259?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Triad of Agentic Architecture: Decoupling SKILLS.md, Prompts, and Context](https://medium.com/@ankursaran_59645/the-triad-of-agentic-architecture-decoupling-skills-md-prompts-and-context-73f618bb2649?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI and its two entropies: a paradox at the heart of cutting-edge technology](https://medium.com/illumination/ai-and-its-two-entropies-a-paradox-at-the-heart-of-cutting-edge-technology-35bda2b401f1?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Engineer Interview Questions 2026: The One Question That Separates $180K Candidates From $34...](https://medium.com/the-programmer/ai-engineer-interview-questions-2026-the-one-question-that-separates-180k-candidates-from-340k-0939c5731851?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Simple Idea Behind RAG](https://medium.com/@shiv.i.ghariwala/the-simple-idea-behind-rag-1a39283f393c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Tokenmaxxing: When Your AI Adoption Strategy Becomes a Performance](https://medium.com/@frankowums/tokenmaxxing-when-your-ai-adoption-strategy-becomes-a-performance-cbb7e0fdfd5b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Trie Data Structure Explained with Real Autocomplete System](https://medium.com/@dassahil31998/trie-data-structure-explained-with-real-autocomplete-system-75ccf08ae8fe?source=rss------data_structures-5)**
+> 🔹 **[The Trojan Horse of Distribution: How Corporate VCs Accelerate Enterprise Sales for Tech Startu...](https://kpnventures.medium.com/the-trojan-horse-of-distribution-how-corporate-vcs-accelerate-enterprise-sales-for-tech-startups-42aa4fd606bd?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Can Now Talk to Your Gmail Inbox — Google’s AI Vision Gets More Personal at I/O 2026](https://medium.com/@richwebs.in/you-can-now-talk-to-your-gmail-inbox-googles-ai-vision-gets-more-personal-at-i-o-2026-55ff17548770?source=rss------artificial_intelligence-5)**
+> 🔹 **[It’s the internet, Jim, but not as we know it.](https://stratigeer.medium.com/its-the-internet-jim-but-not-as-we-know-it-8c8e2bdca7ab?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Stole the Fun of Creating](https://medium.com/@elijah96/ai-stole-the-fun-of-creating-1e4ced858ff5?source=rss------artificial_intelligence-5)**
+> 🔹 **[The global technology landscape in 2026 is undergoing a fundamental shift from reactive generat...](https://medium.com/@david.wilson.digital/the-global-technology-landscape-in-2026-is-undergoing-a-fundamental-shift-from-reactive-generative-998824286a2d?source=rss------artificial_intelligence-5)**
+> 🔹 **[76% of Companies Now Have a Chief AI Officer — and the Chief Data Officer Is Having an Identity...](https://ai.plainenglish.io/76-of-companies-now-have-a-chief-ai-officer-and-the-chief-data-officer-is-having-an-identity-61dee8a7cc75?source=rss------artificial_intelligence-5)**
+> 🔹 **[Como estamos estruturando software com Spec-Driven Development na Kognar](https://ocleitontavares.medium.com/como-estamos-estruturando-software-com-spec-driven-development-na-kognar-dc5c03394fde?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
