@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[See Yourself as a King Before the World Does](https://medium.com/@mehul_20554/see-yourself-as-a-king-before-the-world-does-2e98b7fa22b9?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Revolution Isn’t Scary—It’s Actually a Love Letter to Humanity
-Why We Got AI Wrong, and...](https://medium.com/@devayaniliji11/the-ai-revolution-isnt-scary-it-s-actually-a-love-letter-to-humanity-why-we-got-ai-wrong-and-what-99ee8e745feb?source=rss------artificial_intelligence-5)**
-> 🔹 **[GEOTHERMAL ENERGY-THE UNSCALED ENERGY BUNDLE](https://futureoffuture.medium.com/geothermal-energy-the-unscaled-energy-bundle-55fe19d593ea?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Build-vs-Buy Line For AI Agents Moved](https://medium.com/@mohit15856/the-build-vs-buy-line-for-ai-agents-moved-a1a9b77c5bf3?source=rss------artificial_intelligence-5)**
-> 🔹 **[LLM03 - Supply Chain](https://erdemstar.medium.com/3-llm03-supply-chain-16766c6ffc4e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Markdown vs HTML in AI: What Anthropic Actually Meant](https://medium.com/@abdulsana1431/markdown-vs-html-in-ai-what-anthropic-actually-meant-f81c749462c4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Kiro + Claude Opus 4.7  Best AI Combo for Penetration Testing](https://medium.com/@pentesterclubpvtltd/kiro-claude-opus-4-7-best-ai-combo-for-penetration-testing-97c5c21a1308?source=rss------artificial_intelligence-5)**
-> 🔹 **[A full trading intelligence system. Inside one HTML file…This shouldn’t exist.](https://medium.com/@kidsinger15.8809/a-full-trading-intelligence-system-inside-one-html-file-this-shouldnt-exist-cc50d1a31a8d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The results are in: LLMs think like us. No word salad.](https://medium.com/@paul.k.pallaghy/the-results-are-in-llms-think-like-us-no-word-salad-5decd46e1815?source=rss------artificial_intelligence-5)**
+> 🔹 **[​Dekodowanie Matrixa: Czas na czystą prawdę](https://medium.com/@whiteowl.bialassowa/dekodowanie-matrixa-czas-na-czyst%C4%85-prawd%C4%99-eb3f7acc179a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cross-Validation in Machine Learning: The Simple Idea That Took Me Some Time to Really Understa...](https://medium.com/@rahultiwari065/cross-validation-in-machine-learning-the-simple-idea-that-took-me-some-time-to-really-understand-a5d633a83590?source=rss------artificial_intelligence-5)**
+> 🔹 **[Porque a IA Agentica é um grande salto?](https://medium.com/@felipebispomoura/porque-a-ia-agentica-%C3%A9-um-grande-salto-f4aa02af89c0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Proof of Health™: How XRP Healthcare Is Redefining AI-Driven Healthcare Rewards](https://medium.com/@XRPHealthcare/proof-of-health-how-xrp-healthcare-is-redefining-ai-driven-healthcare-rewards-ebf86f77fefa?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Rewiring Corporate Survival: What Actually Changed in 2026](https://medium.com/@himanshusharma_4140/how-ai-is-rewiring-corporate-survival-what-actually-changed-in-2026-6624c97ed71e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Most People Use Claude Wrong – Here Are The 3 Prompts That Changed Everything](https://medium.com/@fran.mullings007/most-people-use-claude-wrong-here-are-the-3-prompts-that-changed-everything-c972f7cc2101?source=rss------artificial_intelligence-5)**
+> 🔹 **[Super Intelligent Multilingual Knowledge Search with Qdrant Vectorization](https://medium.com/@05.ankitarora/super-intelligent-multilingual-knowledge-search-with-qdrant-vectorization-0e7df745a3cb?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
