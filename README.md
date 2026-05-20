@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Trie Data Structure Explained with Real Autocomplete System](https://medium.com/@dassahil31998/trie-data-structure-explained-with-real-autocomplete-system-75ccf08ae8fe?source=rss------data_structures-5)**
-> 🔹 **[The Trojan Horse of Distribution: How Corporate VCs Accelerate Enterprise Sales for Tech Startu...](https://kpnventures.medium.com/the-trojan-horse-of-distribution-how-corporate-vcs-accelerate-enterprise-sales-for-tech-startups-42aa4fd606bd?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Can Now Talk to Your Gmail Inbox — Google’s AI Vision Gets More Personal at I/O 2026](https://medium.com/@richwebs.in/you-can-now-talk-to-your-gmail-inbox-googles-ai-vision-gets-more-personal-at-i-o-2026-55ff17548770?source=rss------artificial_intelligence-5)**
-> 🔹 **[It’s the internet, Jim, but not as we know it.](https://stratigeer.medium.com/its-the-internet-jim-but-not-as-we-know-it-8c8e2bdca7ab?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Stole the Fun of Creating](https://medium.com/@elijah96/ai-stole-the-fun-of-creating-1e4ced858ff5?source=rss------artificial_intelligence-5)**
-> 🔹 **[The global technology landscape in 2026 is undergoing a fundamental shift from reactive generat...](https://medium.com/@david.wilson.digital/the-global-technology-landscape-in-2026-is-undergoing-a-fundamental-shift-from-reactive-generative-998824286a2d?source=rss------artificial_intelligence-5)**
-> 🔹 **[76% of Companies Now Have a Chief AI Officer — and the Chief Data Officer Is Having an Identity...](https://ai.plainenglish.io/76-of-companies-now-have-a-chief-ai-officer-and-the-chief-data-officer-is-having-an-identity-61dee8a7cc75?source=rss------artificial_intelligence-5)**
-> 🔹 **[Como estamos estruturando software com Spec-Driven Development na Kognar](https://ocleitontavares.medium.com/como-estamos-estruturando-software-com-spec-driven-development-na-kognar-dc5c03394fde?source=rss------artificial_intelligence-5)**
+> 🔹 **[See Yourself as a King Before the World Does](https://medium.com/@mehul_20554/see-yourself-as-a-king-before-the-world-does-2e98b7fa22b9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Revolution Isn’t Scary—It’s Actually a Love Letter to Humanity
+Why We Got AI Wrong, and...](https://medium.com/@devayaniliji11/the-ai-revolution-isnt-scary-it-s-actually-a-love-letter-to-humanity-why-we-got-ai-wrong-and-what-99ee8e745feb?source=rss------artificial_intelligence-5)**
+> 🔹 **[GEOTHERMAL ENERGY-THE UNSCALED ENERGY BUNDLE](https://futureoffuture.medium.com/geothermal-energy-the-unscaled-energy-bundle-55fe19d593ea?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Build-vs-Buy Line For AI Agents Moved](https://medium.com/@mohit15856/the-build-vs-buy-line-for-ai-agents-moved-a1a9b77c5bf3?source=rss------artificial_intelligence-5)**
+> 🔹 **[LLM03 - Supply Chain](https://erdemstar.medium.com/3-llm03-supply-chain-16766c6ffc4e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Markdown vs HTML in AI: What Anthropic Actually Meant](https://medium.com/@abdulsana1431/markdown-vs-html-in-ai-what-anthropic-actually-meant-f81c749462c4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kiro + Claude Opus 4.7  Best AI Combo for Penetration Testing](https://medium.com/@pentesterclubpvtltd/kiro-claude-opus-4-7-best-ai-combo-for-penetration-testing-97c5c21a1308?source=rss------artificial_intelligence-5)**
+> 🔹 **[A full trading intelligence system. Inside one HTML file…This shouldn’t exist.](https://medium.com/@kidsinger15.8809/a-full-trading-intelligence-system-inside-one-html-file-this-shouldnt-exist-cc50d1a31a8d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
