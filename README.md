@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[GPUs Aren’t the Bottleneck Anymore — The Grid Is](https://medium.com/@peretyachenkovitaly/gpus-arent-the-bottleneck-anymore-the-grid-is-17b6ad9fdb9d?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Idea to Go-Live — How MessageDrop Came to Life](https://medium.com/@jacktoolsnet/from-idea-to-go-live-how-messagedrop-came-to-life-9600216ff398?source=rss------artificial_intelligence-5)**
-> 🔹 **[Solving Single-Key LLM Rate Limits Is Not About Blind Retry](https://medium.com/@foks.wang/solving-single-key-llm-rate-limits-is-not-about-blind-retry-2e1093d5f0e6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop thinking in WebSockets. Start thinking in rooms.](https://medium.com/@7003425114klp/stop-thinking-in-websockets-start-thinking-in-rooms-a76405e776b3?source=rss------backend_development-5)**
-> 🔹 **[Did I write this, or did AI?](https://medium.com/@kevinjtech/did-i-write-this-or-did-ai-1530fa16227c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Rational Party: Rethinking Democracy in the Age of AI](https://medium.com/@gtoravane/the-rational-party-rethinking-democracy-in-the-age-of-ai-75250ebbc2db?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI SEO: Why Most Websites Are Invisible to AI Systems](https://shivang-rathod.medium.com/ai-seo-why-most-websites-are-invisible-to-ai-systems-f8a652901c1f?source=rss------artificial_intelligence-5)**
-> 🔹 **[LinkedIn Optimizer](https://medium.com/@fabio_wallys/linkedin-optimizer-4471440368d1?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Goddes Project: AXI](https://medium.com/thecinderellaproject/the-goddes-project-axi-4fd22c3b0dc2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The End of Chatbots: Why Google I/O 2026 Just Redefined the AI Race](https://medium.com/@joeljohnsonthomas77/the-end-of-chatbots-why-google-i-o-2026-just-redefined-the-ai-race-ab9ae5d71bbf?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Overviews Zero Click Search 2026: SEO Survival &amp; Growth Framework](https://medium.com/@n311311/ai-overviews-zero-click-search-2026-seo-survival-growth-framework-804a1c9ad259?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Triad of Agentic Architecture: Decoupling SKILLS.md, Prompts, and Context](https://medium.com/@ankursaran_59645/the-triad-of-agentic-architecture-decoupling-skills-md-prompts-and-context-73f618bb2649?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI and its two entropies: a paradox at the heart of cutting-edge technology](https://medium.com/illumination/ai-and-its-two-entropies-a-paradox-at-the-heart-of-cutting-edge-technology-35bda2b401f1?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Engineer Interview Questions 2026: The One Question That Separates $180K Candidates From $34...](https://medium.com/the-programmer/ai-engineer-interview-questions-2026-the-one-question-that-separates-180k-candidates-from-340k-0939c5731851?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Simple Idea Behind RAG](https://medium.com/@shiv.i.ghariwala/the-simple-idea-behind-rag-1a39283f393c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Tokenmaxxing: When Your AI Adoption Strategy Becomes a Performance](https://medium.com/@frankowums/tokenmaxxing-when-your-ai-adoption-strategy-becomes-a-performance-cbb7e0fdfd5b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
