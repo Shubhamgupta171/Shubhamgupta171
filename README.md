@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Tested GPT-5.5 for a Week. Then Claude Mythos Dropped and Changed the Math.](https://medium.com/@pixipace/i-tested-gpt-5-5-for-a-week-then-claude-mythos-dropped-and-changed-the-math-fa791c75fbca?source=rss------artificial_intelligence-5)**
-> 🔹 **[MBA and Artificial Intelligence Engineering for Future Careers](https://medium.com/@ramaiahinstitute123/mba-and-artificial-intelligence-engineering-for-future-careers-eb1661ce4973?source=rss------artificial_intelligence-5)**
-> 🔹 **[Data Engineering Without Humans: A Vision for Fully Agentic Cloud Platforms](https://medium.com/@kushvanthchowdarynagabhyru/data-engineering-without-humans-a-vision-for-fully-agentic-cloud-platforms-6ec9b96b679e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Studio Is Not a Folder System](https://bhys.medium.com/your-studio-is-not-a-folder-system-4dd28d341471?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Switched from Cursor to Claude Code for 30 Days. Here’s What Nobody Gets Right About the Cost...](https://medium.com/@pixipace/i-switched-from-cursor-to-claude-code-for-30-days-heres-what-nobody-gets-right-about-the-cost-f14a5786f7c7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Understanding Naive Bayes in Machine Learning](https://medium.com/@kagithaladurgaprasad/understanding-naive-bayes-in-machine-learning-93230b3ebb94?source=rss------artificial_intelligence-5)**
-> 🔹 **[Build a Task Planning AI Agent](https://amankharwal.medium.com/build-a-task-planning-ai-agent-23bf9af89f44?source=rss------artificial_intelligence-5)**
-> 🔹 **[Top 10 AI Development Companies in Leicester UK &lpar;2026&rpar;](https://medium.com/@devstree.uk/top-10-ai-development-companies-in-leicester-uk-2026-b781f059f0a2?source=rss------artificial_intelligence-5)**
+> 🔹 **[ElevenLabs Review 2026: The Pros and Cons for Teams Buying AI Voice](https://medium.com/@miracalder_93891/elevenlabs-review-2026-the-pros-and-cons-for-teams-buying-ai-voice-1fb1810951a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google Just Dropped Gemini Omni. I’m Not Sure the Internet Is Ready for What Comes Next.](https://medium.com/illumination/google-just-dropped-gemini-omni-im-not-sure-the-internet-is-ready-for-what-comes-next-730cd3a7fa4c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Build an Eye-Controlled Mouse with Python, OpenCV, and MediaPipe](https://medium.com/@priyadharshinik200507/build-an-eye-controlled-mouse-with-python-opencv-and-mediapipe-8ece6f6d33ff?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Built 70+ Claude Skills. These Are The Best](https://medium.com/artificial-corner/we-built-70-claude-skills-these-are-the-best-f68034e32dbb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Java Interview Questions — Part 1: Beginner &lpar;Top 50 Must-Know Q&amp;A&rpar;](https://medium.com/@anjalimishraa17/java-interview-questions-part-1-beginner-top-50-must-know-q-a-813b14681f39?source=rss------backend_development-5)**
+> 🔹 **[My Kids Nixed a Summer Camp Over Bad AI Art](https://medium.com/the-parenting-portal/my-kids-nixed-a-summer-camp-over-bad-ai-art-8eb8f8f20c2a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Is Changing Not Only Search but Also How We Build Websites and Applications](https://medium.com/@oneentrycloud/why-ai-is-changing-not-only-search-but-also-how-we-build-websites-and-applications-e8eb12c552e8?source=rss------backend_development-5)**
+> 🔹 **[Prompt injection invisível em PDF: o que o caso TRT-8 mostra sobre integrar LLMs em sistemas…](https://medium.com/@contact_98441/prompt-injection-invis%C3%ADvel-em-pdf-o-que-o-caso-trt-8-mostra-sobre-integrar-llms-em-sistemas-b9527d82aa52?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
