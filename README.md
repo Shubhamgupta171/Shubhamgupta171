@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Manual Visa Processing Is Dead](https://medium.com/@visakix.ai/manual-visa-processing-is-dead-28452f620052?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gologin Anti Detect Browser: Browser Isolation Guide &lpar;2026&rpar;](https://medium.com/@don724969/gologin-anti-detect-browser-browser-isolation-guide-2026-a83d485d43ad?source=rss------artificial_intelligence-5)**
-> 🔹 **[What a day
-May 20, 2026 by Jim Carter Jr.](https://medium.com/@jimccarterjr/what-a-day-may-20-2026-by-jim-carter-jr-e478403d284e?source=rss------artificial_intelligence-5)**
-> 🔹 **[What AI Consulting Actually Costs in 2026 And Why Most Founders Budget It Wrong](https://medium.com/@dextra_labs/what-ai-consulting-actually-costs-in-2026-and-why-most-founders-budget-it-wrong-cd0dae31a8df?source=rss------artificial_intelligence-5)**
-> 🔹 **[What I Noticed While Observing Local Businesses and Digital Growth](https://medium.com/@upadhyaytanu66/what-i-noticed-while-observing-local-businesses-and-digital-growth-0bed39582030?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Tech Oligarch’s Republic: Palantir’s Vision of AI-Powered Dominance](https://medium.com/@marklimgam/the-tech-oligarchs-republic-palantir-s-vision-of-ai-powered-dominance-eaeaf1970340?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI is Quietly Becoming the Most Valuable Employee in Business](https://medium.com/@sofia.morettilibero/ai-is-quietly-becoming-the-most-valuable-employee-in-business-c13f81cd2670?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Machine of Concealment That Altered Genealogy](https://medium.com/sma-crown-confidential/a-machine-of-concealment-that-altered-genealogy-7d09a13b4bf7?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tested GPT-5.5 for a Week. Then Claude Mythos Dropped and Changed the Math.](https://medium.com/@pixipace/i-tested-gpt-5-5-for-a-week-then-claude-mythos-dropped-and-changed-the-math-fa791c75fbca?source=rss------artificial_intelligence-5)**
+> 🔹 **[MBA and Artificial Intelligence Engineering for Future Careers](https://medium.com/@ramaiahinstitute123/mba-and-artificial-intelligence-engineering-for-future-careers-eb1661ce4973?source=rss------artificial_intelligence-5)**
+> 🔹 **[Data Engineering Without Humans: A Vision for Fully Agentic Cloud Platforms](https://medium.com/@kushvanthchowdarynagabhyru/data-engineering-without-humans-a-vision-for-fully-agentic-cloud-platforms-6ec9b96b679e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Studio Is Not a Folder System](https://bhys.medium.com/your-studio-is-not-a-folder-system-4dd28d341471?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Switched from Cursor to Claude Code for 30 Days. Here’s What Nobody Gets Right About the Cost...](https://medium.com/@pixipace/i-switched-from-cursor-to-claude-code-for-30-days-heres-what-nobody-gets-right-about-the-cost-f14a5786f7c7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Understanding Naive Bayes in Machine Learning](https://medium.com/@kagithaladurgaprasad/understanding-naive-bayes-in-machine-learning-93230b3ebb94?source=rss------artificial_intelligence-5)**
+> 🔹 **[Build a Task Planning AI Agent](https://amankharwal.medium.com/build-a-task-planning-ai-agent-23bf9af89f44?source=rss------artificial_intelligence-5)**
+> 🔹 **[Top 10 AI Development Companies in Leicester UK &lpar;2026&rpar;](https://medium.com/@devstree.uk/top-10-ai-development-companies-in-leicester-uk-2026-b781f059f0a2?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
