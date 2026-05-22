@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[TrueTalent: India’s Leading Intelligent Hiring Platform Combining AI Matching With Human Expert...](https://medium.com/@social_39695/truetalent-indias-leading-intelligent-hiring-platform-combining-ai-matching-with-human-expertise-54725fde52be?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Not “Intelligent”: It Operates on Distribution — AI Behavior Analysis &lpar;CaseX / 10-part…](https://medium.com/@kazumiihara/ai-is-not-intelligent-it-operates-on-distribution-ai-behavior-analysis-casex-10-part-f6863a3c29d3?source=rss------artificial_intelligence-5)**
-> 🔹 **[When Tablets, AI, and 2,800 Aircraft Unite: The Coming Turbulence Prediction Ecosystem](https://medium.com/@97kjkj/when-tablets-ai-and-2-800-aircraft-unite-the-coming-turbulence-prediction-ecosystem-3bb02b4a91c6?source=rss------artificial_intelligence-5)**
-> 🔹 **[What a Week in Tech Taught Me About Persistence, Problem Solving, and AI Innovation](https://medium.com/@kimberlyayeta/what-a-week-in-tech-taught-me-about-persistence-problem-solving-and-ai-innovation-20d5515bf65d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google’s New TPU Chips Explained: Is This The End of GPUs?](https://medium.com/the-ai-studio/googles-new-tpu-chips-explained-is-this-the-end-of-gpus-afa16bf86bef?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested Qwen 3.7-Max on 18 Agent Tasks — It Ran 1,000 Tool Calls Without Losing the Plot](https://pub.towardsai.net/i-tested-qwen-3-7-max-on-18-agent-tasks-it-ran-1-000-tool-calls-without-losing-the-plot-b654d134eea6?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI in Automotive: Transforming Digital Mobility Solutions](https://medium.com/@marketing.hiteshi/ai-in-automotive-transforming-digital-mobility-solutions-56cc1d4b9d72?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Quiet AI Revolution:](https://maclordcookey7.medium.com/the-quiet-ai-revolution-713940a12e98?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Django ORM Query That Returns Wrong Results After Midnight](https://levelup.gitconnected.com/the-django-orm-query-that-returns-wrong-results-after-midnight-db130c740dd5?source=rss----5517fd7b58a6---4)**
+> 🔹 **[The Django ORM Query That Returns Wrong Results After Midnight](https://levelup.gitconnected.com/the-django-orm-query-that-returns-wrong-results-after-midnight-db130c740dd5?source=rss------backend_development-5)**
+> 🔹 **[If AI Writes the Code, What Exactly Are We Measuring Now?](https://levelup.gitconnected.com/if-ai-writes-the-code-what-exactly-are-we-measuring-now-d23675059e35?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Anthropic acquires Stainless to improve Claude developer tools](https://levelup.gitconnected.com/anthropic-acquires-stainless-to-improve-claude-developer-tools-12053ca952c4?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Amazon Bedrock adds Advanced Prompt Optimization](https://levelup.gitconnected.com/amazon-bedrock-adds-advanced-prompt-optimization-c7beab1e2569?source=rss----5517fd7b58a6---4)**
+> 🔹 **[We Migrated Our Node.js](https://levelup.gitconnected.com/we-migrated-our-node-js-43413311ae18?source=rss----5517fd7b58a6---4)**
+> 🔹 **[On NPM Supply Chain Attacks](https://levelup.gitconnected.com/on-npm-supply-chain-attacks-cebb85fd0ba1?source=rss----5517fd7b58a6---4)**
+> 🔹 **[What Happens to Your Brain When You Are Rude to a Machine](https://levelup.gitconnected.com/what-happens-to-your-brain-when-you-are-rude-to-a-machine-5575a1903848?source=rss----5517fd7b58a6---4)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
