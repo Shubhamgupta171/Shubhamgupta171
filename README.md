@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Django ORM Query That Returns Wrong Results After Midnight](https://levelup.gitconnected.com/the-django-orm-query-that-returns-wrong-results-after-midnight-db130c740dd5?source=rss----5517fd7b58a6---4)**
-> 🔹 **[The Django ORM Query That Returns Wrong Results After Midnight](https://levelup.gitconnected.com/the-django-orm-query-that-returns-wrong-results-after-midnight-db130c740dd5?source=rss------backend_development-5)**
-> 🔹 **[If AI Writes the Code, What Exactly Are We Measuring Now?](https://levelup.gitconnected.com/if-ai-writes-the-code-what-exactly-are-we-measuring-now-d23675059e35?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Anthropic acquires Stainless to improve Claude developer tools](https://levelup.gitconnected.com/anthropic-acquires-stainless-to-improve-claude-developer-tools-12053ca952c4?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Amazon Bedrock adds Advanced Prompt Optimization](https://levelup.gitconnected.com/amazon-bedrock-adds-advanced-prompt-optimization-c7beab1e2569?source=rss----5517fd7b58a6---4)**
-> 🔹 **[We Migrated Our Node.js](https://levelup.gitconnected.com/we-migrated-our-node-js-43413311ae18?source=rss----5517fd7b58a6---4)**
-> 🔹 **[On NPM Supply Chain Attacks](https://levelup.gitconnected.com/on-npm-supply-chain-attacks-cebb85fd0ba1?source=rss----5517fd7b58a6---4)**
-> 🔹 **[What Happens to Your Brain When You Are Rude to a Machine](https://levelup.gitconnected.com/what-happens-to-your-brain-when-you-are-rude-to-a-machine-5575a1903848?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Adapt or Liquidate: The Brutal Reality of 2026 Trading](https://medium.com/@tradewithfrank/adapt-or-liquidate-the-brutal-reality-of-2026-trading-50ead24b9357?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Hiring Bias: What the Workday Case Means for HR](https://medium.com/@frankowums/ai-hiring-bias-what-the-workday-case-means-for-hr-9c54af6851b2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Systems Struggle With Truth, Trust, and Reliability](https://medium.com/@Ab.oussan/why-ai-systems-struggle-with-truth-trust-and-reliability-4ce905656c1a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Creating Music Independently in the Digital Era](https://medium.com/@moroccanswag.official/creating-music-independently-in-the-digital-era-506c12516314?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Picking Between Vector and Graph. Real Production AI Needs Three Databases.](https://pub.towardsai.net/stop-picking-between-vector-and-graph-real-production-ai-needs-three-databases-eb5b16e92cb2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Algorithm Wears Prada: How AI Is Quietly Revolutionizing Fashion’s Sustainability Crisis](https://medium.com/@ayazkhan2020/the-algorithm-wears-prada-how-ai-is-quietly-revolutionizing-fashions-sustainability-crisis-240c597a4cb2?source=rss------artificial_intelligence-5)**
+> 🔹 **[BECOMING AN AI PAYMENTS PM · SERIES](https://medium.com/@spxandroid/becoming-an-ai-payments-pm-series-a6933b89bc22?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cap, Gowns, and Boos: The Age of AI Discontent](https://medium.com/the-leaders-journey/cap-gowns-and-boos-the-age-of-ai-discontent-435ed43bdde4?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
