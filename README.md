@@ -34,16 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[SCHMERZMITTEL.](https://medium.com/@ruth37890d/schmerzmittel-4ab5486c8218?source=rss------artificial_intelligence-5)**
-> 🔹 **[Asi se grabo ‘‘Buscandot3’’ Desde medellin](https://medium.com/@pedro.ls023/asi-se-grabo-buscandot3-desde-medellin-db45e4533128?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google’s Gemini Spark: The AI Agent That Works While You Sleep](https://blog.gopenai.com/googles-gemini-spark-the-ai-agent-that-works-while-you-sleep-808711cfafaf?source=rss------artificial_intelligence-5)**
-> 🔹 **[They Made Me The Tech Lead. I Spent The First Month Pretending I Had Answers.](https://medium.com/illumination/they-made-me-the-tech-lead-i-spent-the-first-month-pretending-i-had-answers-f4dee7999b7f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the Hype: The Naked Reality of AI &lpar;And What It Actually Means for Your Future&rpar;](https://medium.com/@sudarshanagunathilaka/beyond-the-hype-the-naked-reality-of-ai-and-what-it-actually-means-for-your-future-d3939db0db3b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Sangbulgyeong Yogācāra Part 5
-Buddhism After the Singularity
-Superintelligence and a New Awaken...](https://medium.com/@10choyh3361/sangbulgyeong-yog%C4%81c%C4%81ra-part-5-buddhism-after-the-singularity-superintelligence-and-a-new-awakening-842cf4d79c19?source=rss------artificial_intelligence-5)**
-> 🔹 **[Taming the Autonomous Beast: 5 Production Challenges in Agentic AI &lpar;With Code Fixes&rpar;](https://kuldeeparya3794.medium.com/taming-the-autonomous-beast-5-production-challenges-in-agentic-ai-with-code-fixes-a62765279875?source=rss------artificial_intelligence-5)**
-> 🔹 **[Secret AI Prompts for Product Design #3: The Prompt That Helped Me Simulate User Pushback](https://medium.com/@ganesh_govalkar/secret-ai-prompts-for-product-design-3-the-prompt-that-helped-me-simulate-user-pushback-af2e50b017ff?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 19 of 100: How to Build an FAQ Generation AI Agent That Answers What Users Are Actually Ask...](https://medium.com/@pratikabnave97/day-19-of-100-how-to-build-an-faq-generation-ai-agent-that-answers-what-users-are-actually-asking-99528e988c20?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Hackers Are Manipulating AI Using Prompt Injection](https://infosecwriteups.com/how-hackers-are-manipulating-ai-using-prompt-injection-7b58e792a88f?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 Future AI Jobs That Didn’t Exist Before ChatGPT](https://ai.plainenglish.io/7-future-ai-jobs-that-didnt-exist-before-chatgpt-600b935afb9e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Industrial SEO: How Manufacturers Can Rank on Google and Generate High-Value B2B Leads](https://medium.com/@rankaistudio/industrial-seo-how-manufacturers-can-rank-on-google-and-generate-high-value-b2b-leads-eb5879168355?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 AI Signals Predicting Market Moves Before Traders React](https://medium.com/@inprogrammer651/7-ai-signals-predicting-market-moves-before-traders-react-54717b4d87b6?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Turning Firms Into Exception Machines](https://medium.com/@erezitay/ai-is-turning-firms-into-exception-machines-707aac1a94ea?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Floor That Might Not Hold: Why India’s SIP Boom Is Vulnerable](https://medium.com/@Ramuknura/the-floor-that-might-not-hold-why-indias-sip-boom-is-vulnerable-b346a3b76223?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Sent 12,500 AI-Generated Job Applications.](https://medium.com/@tharakesh.iitp/i-sent-12-500-ai-generated-job-applications-42b6cb50a92f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
