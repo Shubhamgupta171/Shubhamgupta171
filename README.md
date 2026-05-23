@@ -34,14 +34,16 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Adapt or Liquidate: The Brutal Reality of 2026 Trading](https://medium.com/@tradewithfrank/adapt-or-liquidate-the-brutal-reality-of-2026-trading-50ead24b9357?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Hiring Bias: What the Workday Case Means for HR](https://medium.com/@frankowums/ai-hiring-bias-what-the-workday-case-means-for-hr-9c54af6851b2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Systems Struggle With Truth, Trust, and Reliability](https://medium.com/@Ab.oussan/why-ai-systems-struggle-with-truth-trust-and-reliability-4ce905656c1a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Creating Music Independently in the Digital Era](https://medium.com/@moroccanswag.official/creating-music-independently-in-the-digital-era-506c12516314?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Picking Between Vector and Graph. Real Production AI Needs Three Databases.](https://pub.towardsai.net/stop-picking-between-vector-and-graph-real-production-ai-needs-three-databases-eb5b16e92cb2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Algorithm Wears Prada: How AI Is Quietly Revolutionizing Fashion’s Sustainability Crisis](https://medium.com/@ayazkhan2020/the-algorithm-wears-prada-how-ai-is-quietly-revolutionizing-fashions-sustainability-crisis-240c597a4cb2?source=rss------artificial_intelligence-5)**
-> 🔹 **[BECOMING AN AI PAYMENTS PM · SERIES](https://medium.com/@spxandroid/becoming-an-ai-payments-pm-series-a6933b89bc22?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cap, Gowns, and Boos: The Age of AI Discontent](https://medium.com/the-leaders-journey/cap-gowns-and-boos-the-age-of-ai-discontent-435ed43bdde4?source=rss------artificial_intelligence-5)**
+> 🔹 **[SCHMERZMITTEL.](https://medium.com/@ruth37890d/schmerzmittel-4ab5486c8218?source=rss------artificial_intelligence-5)**
+> 🔹 **[Asi se grabo ‘‘Buscandot3’’ Desde medellin](https://medium.com/@pedro.ls023/asi-se-grabo-buscandot3-desde-medellin-db45e4533128?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google’s Gemini Spark: The AI Agent That Works While You Sleep](https://blog.gopenai.com/googles-gemini-spark-the-ai-agent-that-works-while-you-sleep-808711cfafaf?source=rss------artificial_intelligence-5)**
+> 🔹 **[They Made Me The Tech Lead. I Spent The First Month Pretending I Had Answers.](https://medium.com/illumination/they-made-me-the-tech-lead-i-spent-the-first-month-pretending-i-had-answers-f4dee7999b7f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the Hype: The Naked Reality of AI &lpar;And What It Actually Means for Your Future&rpar;](https://medium.com/@sudarshanagunathilaka/beyond-the-hype-the-naked-reality-of-ai-and-what-it-actually-means-for-your-future-d3939db0db3b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Sangbulgyeong Yogācāra Part 5
+Buddhism After the Singularity
+Superintelligence and a New Awaken...](https://medium.com/@10choyh3361/sangbulgyeong-yog%C4%81c%C4%81ra-part-5-buddhism-after-the-singularity-superintelligence-and-a-new-awakening-842cf4d79c19?source=rss------artificial_intelligence-5)**
+> 🔹 **[Taming the Autonomous Beast: 5 Production Challenges in Agentic AI &lpar;With Code Fixes&rpar;](https://kuldeeparya3794.medium.com/taming-the-autonomous-beast-5-production-challenges-in-agentic-ai-with-code-fixes-a62765279875?source=rss------artificial_intelligence-5)**
+> 🔹 **[Secret AI Prompts for Product Design #3: The Prompt That Helped Me Simulate User Pushback](https://medium.com/@ganesh_govalkar/secret-ai-prompts-for-product-design-3-the-prompt-that-helped-me-simulate-user-pushback-af2e50b017ff?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
