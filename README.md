@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Bureaucratic Leap: Why Agentic AI is the New Sovereign Weapon of the UAE](https://medium.com/@martareyessuarez25/the-bureaucratic-leap-why-agentic-ai-is-the-new-sovereign-weapon-of-the-uae-9d2c25a7160d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Future of Wealth: How Artificial Intelligence is Redefining Investment Platforms and Adviso...](https://medium.com/@howaicheng2005/the-future-of-wealth-how-artificial-intelligence-is-redefining-investment-platforms-and-advisory-8683afaf8c40?source=rss------artificial_intelligence-5)**
-> 🔹 **[Learning New A.I. Editing Techniques in Photoshop 2026](https://medium.com/counterarts/learning-new-a-i-editing-techniques-in-photoshop-2026-803ee8f64bd5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Working Knowledge: Your Supply Chain Crisis and How to Avoid It](https://medium.com/@stunspot/working-knowledge-your-supply-chain-crisis-and-how-to-avoid-it-90f834246c64?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Create Stunning T-Shirt Designs with AI — Even If You’re Not a Designer](https://medium.com/@pecef911/how-to-create-stunning-t-shirt-designs-with-ai-even-if-youre-not-a-designer-d3c9b6a5faab?source=rss------artificial_intelligence-5)**
-> 🔹 **[Everyone Is Talking About AGI, Nobody Is Talking About AI Burnout](https://medium.com/@orbis86/everyone-is-talking-about-agi-nobody-is-talking-about-ai-burnout-9ee0edf714a8?source=rss------artificial_intelligence-5)**
-> 🔹 **[“Why Your App Looks Cheap — And the UI/UX Rules That Fix It”](https://medium.com/@rishavdutta.kgp/why-your-app-looks-cheap-and-the-ui-ux-rules-that-fix-it-209a178e6ec0?source=rss------system_design-5)**
-> 🔹 **[Frank Bot: Engineering Consistency in a Chaotic Market](https://medium.com/@tradewithfrank/frank-bot-engineering-consistency-in-a-chaotic-market-23dd6961f793?source=rss------artificial_intelligence-5)**
+> 🔹 **[3 SQL Statements That Handle 90% of Real Data Science Work](https://medium.com/@manojgour6811/3-sql-statements-that-handle-90-of-real-data-science-work-207a319581aa?source=rss------backend_development-5)**
+> 🔹 **[High-Performance AI Gateways: Solving the Latency vs. Telemetry Conundrum in Go](https://medium.com/@waheedsyed291/high-performance-ai-gateways-solving-the-latency-vs-telemetry-conundrum-in-go-07856fa6a2a1?source=rss------system_design-5)**
+> 🔹 **[Human, we’re all human](https://medium.com/@jimccarterjr/human-were-all-human-1e5485204007?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Wrapper Bubble: Why Capital is Mispricing Operational Reality](https://medium.com/@realyashpatel1111/the-ai-wrapper-bubble-why-capital-is-mispricing-operational-reality-123a31cd39f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[xAI isn’t the Future. It’s a $1.75 Trillion Tech Illusion.](https://medium.com/@realyashpatel1111/xai-isnt-the-future-it-s-a-1-75-trillion-tech-illusion-c823f218efcc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gemini Omni Video Review: The Best Free Alternative to Gemini Omni Flash?](https://medium.com/@a766770266/gemini-omni-video-review-the-best-free-alternative-to-gemini-omni-flash-ef38c0fd009e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google’s AI Permanently Banned a Manga Artist’s Account. He Never Did Anything Wrong](https://medium.com/pen-with-paper/googles-ai-permanently-banned-a-manga-artist-s-account-he-never-did-anything-wrong-8bffd692b403?source=rss------artificial_intelligence-5)**
+> 🔹 **[Exploring the Nexus of AI &amp; QA: Weekly Insights — 11/05/2026 to 24/05/2026](https://medium.com/ai-qa-nexus/exploring-the-nexus-of-ai-qa-weekly-insights-11-05-2026-to-24-05-2026-6b65766697bd?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
