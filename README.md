@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[3 SQL Statements That Handle 90% of Real Data Science Work](https://medium.com/@manojgour6811/3-sql-statements-that-handle-90-of-real-data-science-work-207a319581aa?source=rss------backend_development-5)**
-> 🔹 **[High-Performance AI Gateways: Solving the Latency vs. Telemetry Conundrum in Go](https://medium.com/@waheedsyed291/high-performance-ai-gateways-solving-the-latency-vs-telemetry-conundrum-in-go-07856fa6a2a1?source=rss------system_design-5)**
-> 🔹 **[Human, we’re all human](https://medium.com/@jimccarterjr/human-were-all-human-1e5485204007?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Wrapper Bubble: Why Capital is Mispricing Operational Reality](https://medium.com/@realyashpatel1111/the-ai-wrapper-bubble-why-capital-is-mispricing-operational-reality-123a31cd39f6?source=rss------artificial_intelligence-5)**
-> 🔹 **[xAI isn’t the Future. It’s a $1.75 Trillion Tech Illusion.](https://medium.com/@realyashpatel1111/xai-isnt-the-future-it-s-a-1-75-trillion-tech-illusion-c823f218efcc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gemini Omni Video Review: The Best Free Alternative to Gemini Omni Flash?](https://medium.com/@a766770266/gemini-omni-video-review-the-best-free-alternative-to-gemini-omni-flash-ef38c0fd009e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google’s AI Permanently Banned a Manga Artist’s Account. He Never Did Anything Wrong](https://medium.com/pen-with-paper/googles-ai-permanently-banned-a-manga-artist-s-account-he-never-did-anything-wrong-8bffd692b403?source=rss------artificial_intelligence-5)**
-> 🔹 **[Exploring the Nexus of AI &amp; QA: Weekly Insights — 11/05/2026 to 24/05/2026](https://medium.com/ai-qa-nexus/exploring-the-nexus-of-ai-qa-weekly-insights-11-05-2026-to-24-05-2026-6b65766697bd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Designing a Scalable Crypto Wallet Architecture That Handles Retries, Ledger Integrity, and…](https://medium.com/@rummansiddiqui1990/designing-a-scalable-crypto-wallet-architecture-that-handles-retries-ledger-integrity-and-b491149d8fcc?source=rss------backend_development-5)**
+> 🔹 **[Nirmala Sitharaman Called an Emergency Meeting.](https://medium.com/@aryanraj2912n/nirmala-sitharaman-called-an-emergency-meeting-be83ccba92ef?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is CQRS? CQRS Explained Without Making Your Brain Cry](https://medium.com/@nishantkeshav29107/what-is-cqrs-cqrs-explained-without-making-your-brain-cry-e862d878db6f?source=rss------system_design-5)**
+> 🔹 **[What Is CQRS? CQRS Explained Without Making Your Brain Cry](https://medium.com/@nishantkeshav29107/what-is-cqrs-cqrs-explained-without-making-your-brain-cry-e862d878db6f?source=rss------backend_development-5)**
+> 🔹 **[The SaaS Apocalypse: A Stark Executive Warning and the Path to the Enterprise Operating System](https://medium.com/@mkishore1974/the-saas-apocalypse-a-stark-executive-warning-and-the-path-to-the-enterprise-operating-system-ac8b370e0d64?source=rss------artificial_intelligence-5)**
+> 🔹 **[CLAUDE 101](https://medium.com/@kucurcenkay/claude-101-3dbd9c0f5938?source=rss------artificial_intelligence-5)**
+> 🔹 **[In B2B SaaS, the Domain Core Is Often Hidden Inside the Workflow](https://medium.com/@crystalhyomin/in-b2b-saas-the-domain-core-is-often-hidden-inside-the-workflow-06a93283957d?source=rss------backend_development-5)**
+> 🔹 **[The Most Dangerous Enterprise AI Projects Are the Ones That Look Successful](https://medium.com/@asimadnan/the-most-dangerous-enterprise-ai-projects-are-the-ones-that-look-successful-b20adf8d7623?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
