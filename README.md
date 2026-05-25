@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The 5-Question Audit to Tell if Your Startup Is AI-Ready in 2026](https://blog.startupstash.com/the-5-question-audit-to-tell-if-your-startup-is-ai-ready-in-2026-c1bcb9bd034b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Computer Vision Yolculuğu — Gün 7: OpenCV ve MediaPipe ile Gesture Mapping ve Smoothing Sisteml...](https://medium.com/@m.edakulahci_47769/computer-vision-yolculu%C4%9Fu-g%C3%BCn-7-opencv-ve-mediapipe-ile-gesture-mapping-ve-smoothing-sistemleri-4dc918bc7400?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Most Important System Most People Never Build](https://medium.com/@darianlim/the-most-important-system-most-people-never-build-88c1e83af892?source=rss------system_design-5)**
-> 🔹 **[I Stopped Switching Between AI Tools. Then I Discovered MCP.](https://medium.com/@vivekjha1213/i-stopped-switching-between-ai-tools-then-i-discovered-mcp-369ed567b84f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Everyone Can Write with AI, But Not Every Piece of Writing Has Value](https://medium.com/@alia.saepudin/everyone-can-write-with-ai-but-not-every-piece-of-writing-has-value-b04301207b34?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Crash Will Start September 2026.](https://medium.com/write-a-catalyst/the-crash-will-start-september-2026-47a402d266cf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Pemanfaatan Artificial Intelligence sebagai Alat Pembuatan Konten Pemasaran di Media Sosial](https://medium.com/@alifarrostambate/pemanfaatan-artificial-intelligence-sebagai-alat-pembuatan-konten-pemasaran-di-media-sosial-b493366bbbea?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Most Valuable AI May Be the One That Already Knows How You Work](https://medium.com/@00leonmarks00/the-most-valuable-ai-may-be-the-one-that-already-knows-how-you-work-841d596e5960?source=rss------artificial_intelligence-5)**
+> 🔹 **[SEBI’s AI Advisory Is a Wake-Up Call for Financial Cybersecurity](https://medium.com/@gulliyalakshita/sebis-ai-advisory-is-a-wake-up-call-for-financial-cybersecurity-74178ca88c12?source=rss------artificial_intelligence-5)**
+> 🔹 **[How a Single Selfie Took Down Twitter](https://medium.com/@asimsk757/how-a-single-selfie-took-down-twitter-1ff454ed0abc?source=rss------backend_development-5)**
+> 🔹 **[AI Problems From the Last 20 Years That Became Irrelevant — And Today’s AI Problems That May…](https://medium.com/@outermostkt/ai-problems-from-the-last-20-years-that-became-irrelevant-and-todays-ai-problems-that-may-e79a3355a879?source=rss------artificial_intelligence-5)**
+> 🔹 **[How a Freezing Rainstorm, Ice Cream Sticks, and 48 Sleepless Hours Won Us DevHackathon 2026](https://medium.com/@roaziy/how-a-freezing-rainstorm-ice-cream-sticks-and-48-sleepless-hours-won-us-devhackathon-2026-1bfd8442dc40?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Used ChatGPT to Start a Side Hustle with Zero Investment &lpar;And Made My First $500&rpar;
+By Nath...](https://medium.com/@nathanblake_39516/how-i-used-chatgpt-to-start-a-side-hustle-with-zero-investment-and-made-my-first-500-by-nathan-6cb0103219e9?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agent Observability: Tracking Decisions in Multi-Agent Workflows](https://medium.com/towards-data-engineering/ai-agent-observability-tracking-decisions-in-multi-agent-workflows-92a9396db120?source=rss------artificial_intelligence-5)**
+> 🔹 **[What is RAG Architecture?](https://medium.com/@Segmetriqanalytics/what-is-rag-architecture-e119a890f720?source=rss------artificial_intelligence-5)**
+> 🔹 **[Top Technologies Businesses Look for in Software Developers in 2026](https://medium.com/@alexandra.pierce.official/top-technologies-businesses-look-for-in-software-developers-in-2026-6e26584795fa?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
