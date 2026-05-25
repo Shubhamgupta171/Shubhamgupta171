@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI a Game Changer for Career Counselling](https://jobboosterindia.medium.com/ai-a-game-changer-for-career-counselling-4dee1ae08d52?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Concordium&#39;s Hockey Partnership Is Bigger Than Crypto Marketing](https://kingpaulsteve.medium.com/why-concordiums-hockey-partnership-is-bigger-than-crypto-marketing-22e0aa6dfa39?source=rss------artificial_intelligence-5)**
-> 🔹 **[Autonomous Driving Signals #5 — Autonomy Still Scales Like an Industrial System](https://medium.com/@on_autonomous_eco_systems/autonomous-driving-signals-5-autonomy-still-scales-like-an-industrial-system-76559374f71f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why the Model Context Protocol &lpar;MCP&rpar; is the Next Big Shift in AI Architecture](https://medium.com/@jeya.lakshmi/why-the-model-context-protocol-mcp-is-the-next-big-shift-in-ai-architecture-36c6e94b53e7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The World of Artificial Intelligence: AI to Generative AI](https://medium.com/@shaikresh05/the-world-of-artificial-intelligence-ai-to-generative-ai-cedbceef447e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Will AI Replace Software Engineers 2026? The Truth Every Student Must Know](https://medium.com/@marketing_20381/will-ai-replace-software-engineers-2026-the-truth-every-student-must-know-fef2abc7adc3?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Agents Are Reshaping the BPO Industry](https://medium.com/@seointern22/how-ai-agents-are-reshaping-the-bpo-industry-db01102b413f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Second Blind Spot in AI Safety: Emotional Load, Not Emotional Logic](https://medium.com/@airicamartel/the-second-blind-spot-in-ai-safety-emotional-load-not-emotional-logic-0fdf56c1b7d9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Praktikum Struktur Data #9 Hashing: Implementasi Hash Table, Linear Probing, dan Chaining dalam...](https://medium.com/@hilmimufid21/praktikum-struktur-data-9-hashing-implementasi-hash-table-linear-probing-dan-chaining-dalam-77cea8a16473?source=rss------data_structures-5)**
+> 🔹 **[How Instagram Stores Reels, Photos, and Drafts Behind the Scenes](https://medium.com/@pratksharma/how-instagram-stores-reels-photos-and-drafts-behind-the-scenes-e9b422d6b1b8?source=rss------system_design-5)**
+> 🔹 **[How We Built and Deployed a Full-Stack React &amp; Node.js](https://medium.com/@agsvwimalasiri/how-we-built-and-deployed-a-full-stack-react-node-js-c1aa7db621ac?source=rss------backend_development-5)**
+> 🔹 **[Why DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost quietly fail...](https://medium.com/@sebuzdugan/why-deepseek-reasonix-deepseek-native-coding-agent-with-high-caching-and-low-cost-quietly-fails-at-e68af9393f1e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence: Transforming the Future](https://medium.com/@aman.cse123022/artificial-intelligence-transforming-the-future-b89f19565525?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Ran a Side-by-Side VS Code Test Between Claude and Kimi AI. Here Is What Happened!](https://medium.com/@zayed.iba.bba076/i-ran-a-side-by-side-vs-code-test-between-claude-and-kimi-ai-here-is-what-happened-e4614bdf08dd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Zigzag Conversion — LeetCode 6](https://medium.com/@indy0214_19547/zigzag-conversion-leetcode-6-5c4fa69822cf?source=rss------data_structures-5)**
+> 🔹 **[How to Build Real Estate AI Software in 2026: Features, Tech Stack &amp; Costs](https://medium.com/@sagarsahaybhatnagar/how-to-build-real-estate-ai-software-in-2026-features-tech-stack-costs-0d4e7f83fd7b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
