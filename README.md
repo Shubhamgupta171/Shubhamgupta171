@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Praktikum Struktur Data #9 Hashing: Implementasi Hash Table, Linear Probing, dan Chaining dalam...](https://medium.com/@hilmimufid21/praktikum-struktur-data-9-hashing-implementasi-hash-table-linear-probing-dan-chaining-dalam-77cea8a16473?source=rss------data_structures-5)**
-> 🔹 **[How Instagram Stores Reels, Photos, and Drafts Behind the Scenes](https://medium.com/@pratksharma/how-instagram-stores-reels-photos-and-drafts-behind-the-scenes-e9b422d6b1b8?source=rss------system_design-5)**
-> 🔹 **[How We Built and Deployed a Full-Stack React &amp; Node.js](https://medium.com/@agsvwimalasiri/how-we-built-and-deployed-a-full-stack-react-node-js-c1aa7db621ac?source=rss------backend_development-5)**
-> 🔹 **[Why DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost quietly fail...](https://medium.com/@sebuzdugan/why-deepseek-reasonix-deepseek-native-coding-agent-with-high-caching-and-low-cost-quietly-fails-at-e68af9393f1e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence: Transforming the Future](https://medium.com/@aman.cse123022/artificial-intelligence-transforming-the-future-b89f19565525?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Ran a Side-by-Side VS Code Test Between Claude and Kimi AI. Here Is What Happened!](https://medium.com/@zayed.iba.bba076/i-ran-a-side-by-side-vs-code-test-between-claude-and-kimi-ai-here-is-what-happened-e4614bdf08dd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Zigzag Conversion — LeetCode 6](https://medium.com/@indy0214_19547/zigzag-conversion-leetcode-6-5c4fa69822cf?source=rss------data_structures-5)**
-> 🔹 **[How to Build Real Estate AI Software in 2026: Features, Tech Stack &amp; Costs](https://medium.com/@sagarsahaybhatnagar/how-to-build-real-estate-ai-software-in-2026-features-tech-stack-costs-0d4e7f83fd7b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Kludge Economy](https://medium.com/@nathanhardy/the-kludge-economy-5422bef2e59e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building a Production-Ready RAG Pipeline with LangChain and AWS](https://medium.com/@sveerla011/building-a-production-ready-rag-pipeline-with-langchain-and-aws-20660acdc012?source=rss------artificial_intelligence-5)**
+> 🔹 **[SpecFlow: Spec-Driven Development &lpar;SDD&rpar; with a 4-Agent AI Workflow in Cursor](https://medium.com/@matias_86078/specflow-spec-driven-development-sdd-with-a-4-agent-ai-workflow-in-cursor-21bcc8c4e375?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nobody Saw the ATM Coming Either](https://medium.com/@zsnc/nobody-saw-the-atm-coming-either-607887e2b9c1?source=rss------artificial_intelligence-5)**
+> 🔹 **[A5 – The Operational Safety Layer](https://medium.com/@terryshamilton/a5-the-operational-safety-layer-8b6fe021bd8c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Video Agency: How Generative Tech is Rewriting the Rules of Content Businesses](https://medium.com/@pablodigital/the-ai-video-agency-how-generative-tech-is-rewriting-the-rules-of-content-businesses-d9e6c9577ac6?source=rss------artificial_intelligence-5)**
+> 🔹 **[LinkedIn Profile Tips That Actually Get You Noticed by Canadian IT Recruiters](https://medium.com/@2iresourcing/linkedin-profile-tips-that-actually-get-you-noticed-by-canadian-it-recruiters-002e0abbeff4?source=rss------artificial_intelligence-5)**
+> 🔹 **[This Looks Less Like a Rally and More Like the Start of a New Metals Supercycle](https://medium.com/@dirk_zitnik173/this-looks-less-like-a-rally-and-more-like-the-start-of-a-new-metals-supercycle-f5f87888f53c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
