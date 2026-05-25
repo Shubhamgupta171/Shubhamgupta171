@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[SEBI’s AI Advisory Is a Wake-Up Call for Financial Cybersecurity](https://medium.com/@gulliyalakshita/sebis-ai-advisory-is-a-wake-up-call-for-financial-cybersecurity-74178ca88c12?source=rss------artificial_intelligence-5)**
-> 🔹 **[How a Single Selfie Took Down Twitter](https://medium.com/@asimsk757/how-a-single-selfie-took-down-twitter-1ff454ed0abc?source=rss------backend_development-5)**
-> 🔹 **[AI Problems From the Last 20 Years That Became Irrelevant — And Today’s AI Problems That May…](https://medium.com/@outermostkt/ai-problems-from-the-last-20-years-that-became-irrelevant-and-todays-ai-problems-that-may-e79a3355a879?source=rss------artificial_intelligence-5)**
-> 🔹 **[How a Freezing Rainstorm, Ice Cream Sticks, and 48 Sleepless Hours Won Us DevHackathon 2026](https://medium.com/@roaziy/how-a-freezing-rainstorm-ice-cream-sticks-and-48-sleepless-hours-won-us-devhackathon-2026-1bfd8442dc40?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Used ChatGPT to Start a Side Hustle with Zero Investment &lpar;And Made My First $500&rpar;
-By Nath...](https://medium.com/@nathanblake_39516/how-i-used-chatgpt-to-start-a-side-hustle-with-zero-investment-and-made-my-first-500-by-nathan-6cb0103219e9?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agent Observability: Tracking Decisions in Multi-Agent Workflows](https://medium.com/towards-data-engineering/ai-agent-observability-tracking-decisions-in-multi-agent-workflows-92a9396db120?source=rss------artificial_intelligence-5)**
-> 🔹 **[What is RAG Architecture?](https://medium.com/@Segmetriqanalytics/what-is-rag-architecture-e119a890f720?source=rss------artificial_intelligence-5)**
-> 🔹 **[Top Technologies Businesses Look for in Software Developers in 2026](https://medium.com/@alexandra.pierce.official/top-technologies-businesses-look-for-in-software-developers-in-2026-6e26584795fa?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI a Game Changer for Career Counselling](https://jobboosterindia.medium.com/ai-a-game-changer-for-career-counselling-4dee1ae08d52?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Concordium&#39;s Hockey Partnership Is Bigger Than Crypto Marketing](https://kingpaulsteve.medium.com/why-concordiums-hockey-partnership-is-bigger-than-crypto-marketing-22e0aa6dfa39?source=rss------artificial_intelligence-5)**
+> 🔹 **[Autonomous Driving Signals #5 — Autonomy Still Scales Like an Industrial System](https://medium.com/@on_autonomous_eco_systems/autonomous-driving-signals-5-autonomy-still-scales-like-an-industrial-system-76559374f71f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why the Model Context Protocol &lpar;MCP&rpar; is the Next Big Shift in AI Architecture](https://medium.com/@jeya.lakshmi/why-the-model-context-protocol-mcp-is-the-next-big-shift-in-ai-architecture-36c6e94b53e7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The World of Artificial Intelligence: AI to Generative AI](https://medium.com/@shaikresh05/the-world-of-artificial-intelligence-ai-to-generative-ai-cedbceef447e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Will AI Replace Software Engineers 2026? The Truth Every Student Must Know](https://medium.com/@marketing_20381/will-ai-replace-software-engineers-2026-the-truth-every-student-must-know-fef2abc7adc3?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Agents Are Reshaping the BPO Industry](https://medium.com/@seointern22/how-ai-agents-are-reshaping-the-bpo-industry-db01102b413f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Second Blind Spot in AI Safety: Emotional Load, Not Emotional Logic](https://medium.com/@airicamartel/the-second-blind-spot-in-ai-safety-emotional-load-not-emotional-logic-0fdf56c1b7d9?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
