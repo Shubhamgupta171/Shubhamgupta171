@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Kludge Economy](https://medium.com/@nathanhardy/the-kludge-economy-5422bef2e59e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building a Production-Ready RAG Pipeline with LangChain and AWS](https://medium.com/@sveerla011/building-a-production-ready-rag-pipeline-with-langchain-and-aws-20660acdc012?source=rss------artificial_intelligence-5)**
-> 🔹 **[SpecFlow: Spec-Driven Development &lpar;SDD&rpar; with a 4-Agent AI Workflow in Cursor](https://medium.com/@matias_86078/specflow-spec-driven-development-sdd-with-a-4-agent-ai-workflow-in-cursor-21bcc8c4e375?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nobody Saw the ATM Coming Either](https://medium.com/@zsnc/nobody-saw-the-atm-coming-either-607887e2b9c1?source=rss------artificial_intelligence-5)**
-> 🔹 **[A5 – The Operational Safety Layer](https://medium.com/@terryshamilton/a5-the-operational-safety-layer-8b6fe021bd8c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Video Agency: How Generative Tech is Rewriting the Rules of Content Businesses](https://medium.com/@pablodigital/the-ai-video-agency-how-generative-tech-is-rewriting-the-rules-of-content-businesses-d9e6c9577ac6?source=rss------artificial_intelligence-5)**
-> 🔹 **[LinkedIn Profile Tips That Actually Get You Noticed by Canadian IT Recruiters](https://medium.com/@2iresourcing/linkedin-profile-tips-that-actually-get-you-noticed-by-canadian-it-recruiters-002e0abbeff4?source=rss------artificial_intelligence-5)**
-> 🔹 **[This Looks Less Like a Rally and More Like the Start of a New Metals Supercycle](https://medium.com/@dirk_zitnik173/this-looks-less-like-a-rally-and-more-like-the-start-of-a-new-metals-supercycle-f5f87888f53c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Do you have what it takes to run AI in production?](https://stackoverflow.blog/2026/05/26/do-you-have-what-it-takes-to-run-ai-in-production/)**
+> 🔹 **[I Just Accidentally Uncovered Censorship Within a ChatGPT iOS App Chat](https://medium.com/@cbwellsbiz/i-just-accidentally-uncovered-censorship-within-a-chatgpt-ios-app-chat-60379ca5b568?source=rss------artificial_intelligence-5)**
+> 🔹 **[Refusal Asymmetry Across Political/Economic Frames](https://medium.com/@prakharanand/refusal-asymmetry-across-political-economic-frames-282f4ba386f2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nobody Knows Who Is Supposed to Rewrite the Script](https://medium.com/@tara.a.dunphy/nobody-knows-who-is-supposed-to-rewrite-the-script-2c70dcb47173?source=rss------artificial_intelligence-5)**
+> 🔹 **[O Texto](https://medium.com/@sueLn/o-texto-7cfbffd242fc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Scandal Is Not AI Slop](https://medium.com/@vibhor.mahajan/the-scandal-is-not-ai-slop-2ff0f7ba016d?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Don’t Need Python to Build AI Apps: Spring Boot and Spring AI Can Do It Too](https://medium.com/@ashenbhagye/you-dont-need-python-to-build-ai-apps-spring-boot-and-spring-ai-can-do-it-too-47c5bbe40056?source=rss------backend_development-5)**
+> 🔹 **[You Don’t Need Python to Build AI Apps: Spring Boot and Spring AI Can Do It Too](https://medium.com/@ashenbhagye/you-dont-need-python-to-build-ai-apps-spring-boot-and-spring-ai-can-do-it-too-47c5bbe40056?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
