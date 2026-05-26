@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Spent $700 on the “Best AI Gadgets for Home Office” So You Don’t Have to Make the Same Mistak...](https://medium.com/@Ella456/i-spent-700-on-the-best-ai-gadgets-for-home-office-so-you-dont-have-to-make-the-same-mistakes-i-69807f78e946?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Components Bottleneck at 1M AI Requests Per Day?](https://medium.com/digitalocean-ai-digest/what-components-bottleneck-at-1m-ai-requests-per-day-70248b30260a?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI First ou AI fast?](https://medium.com/@leticia.amante_/ai-first-ou-ai-fast-8ab2dbf73063?source=rss------artificial_intelligence-5)**
-> 🔹 **[Top 10 Best Passwordless Authentication Solutions in 2026](https://medium.com/@marketing_30607/top-10-best-passwordless-authentication-solutions-in-2026-70a901d47609?source=rss------artificial_intelligence-5)**
-> 🔹 **[Jeffrey Epstein’s Traum der Unsterblichkeit](https://medium.com/r3fl3ct1ons/jeffrey-epsteins-traum-der-unsterblichkeit-3f6c18941aa6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Evidence Over Permission: Building an Auditable Biology Platform From the Outside](https://scufieldiakhoa.medium.com/evidence-over-permission-building-an-auditable-biology-platform-from-the-outside-7ff9fc6274eb?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Death of Vibe SEO: Why Real Differentiation Is the Only Moat Left in 2026](https://medium.com/@contact_85797/the-death-of-vibe-seo-why-real-differentiation-is-the-only-moat-left-in-2026-de26650a0add?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 Deadly Coding Mistakes Every Developer Eventually Regrets](https://medium.com/@diyasanjaysatpute147/7-deadly-coding-mistakes-every-developer-eventually-regrets-c8f87061e1ba?source=rss------backend_development-5)**
+> 🔹 **[Low Level Design: The Strategy Pattern — And Why It Quietly Runs Half Your Favourite Products](https://medium.com/@parasagrawal_/low-level-design-the-strategy-pattern-and-why-it-quietly-runs-half-your-favourite-products-afd20d4da7be?source=rss------system_design-5)**
+> 🔹 **[What to Learn as a Developer in the AI Era — Part 2](https://medium.com/@girmish/what-to-learn-as-a-developer-in-the-ai-era-part-2-67dd9d377f05?source=rss------artificial_intelligence-5)**
+> 🔹 **[Computer Vision Yolculuğu — Gün 8: Pycaw ile Gerçek Zamanlı Gesture Volume Control](https://medium.com/@m.edakulahci_47769/computer-vision-yolculu%C4%9Fu-g%C3%BCn-8-pycaw-ile-ger%C3%A7ek-zamanl%C4%B1-gesture-volume-control-6747d1b2e8da?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Stateful Research Agent Inside a Sandbox. Here’s What the Numbers Actually Looked Lik...](https://pub.towardsai.net/i-built-a-stateful-research-agent-inside-a-sandbox-heres-what-the-numbers-actually-looked-like-2004aa378683?source=rss------artificial_intelligence-5)**
+> 🔹 **[Component Examples as Data](https://medium.com/@nathanacurtis/component-examples-as-data-11f56b1b9130?source=rss------system_design-5)**
+> 🔹 **[Check Constraints in SQL Tables](https://medium.com/@AlexanderObregon/check-constraints-in-sql-tables-5f85f9140cec?source=rss------backend_development-5)**
+> 🔹 **[AI is Red Hot, but not New](https://medium.com/@secollins102/ai-is-red-hot-but-not-new-10bb742424b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Plato Would Have Loved the Algorithm. That Should Terrify You.](https://medium.com/@zeeshankhan0094/plato-would-have-loved-the-algorithm-that-should-terrify-you-4e153c9e874f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
