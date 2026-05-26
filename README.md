@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Do you have what it takes to run AI in production?](https://stackoverflow.blog/2026/05/26/do-you-have-what-it-takes-to-run-ai-in-production/)**
-> 🔹 **[I Just Accidentally Uncovered Censorship Within a ChatGPT iOS App Chat](https://medium.com/@cbwellsbiz/i-just-accidentally-uncovered-censorship-within-a-chatgpt-ios-app-chat-60379ca5b568?source=rss------artificial_intelligence-5)**
-> 🔹 **[Refusal Asymmetry Across Political/Economic Frames](https://medium.com/@prakharanand/refusal-asymmetry-across-political-economic-frames-282f4ba386f2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nobody Knows Who Is Supposed to Rewrite the Script](https://medium.com/@tara.a.dunphy/nobody-knows-who-is-supposed-to-rewrite-the-script-2c70dcb47173?source=rss------artificial_intelligence-5)**
-> 🔹 **[O Texto](https://medium.com/@sueLn/o-texto-7cfbffd242fc?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Scandal Is Not AI Slop](https://medium.com/@vibhor.mahajan/the-scandal-is-not-ai-slop-2ff0f7ba016d?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Don’t Need Python to Build AI Apps: Spring Boot and Spring AI Can Do It Too](https://medium.com/@ashenbhagye/you-dont-need-python-to-build-ai-apps-spring-boot-and-spring-ai-can-do-it-too-47c5bbe40056?source=rss------backend_development-5)**
-> 🔹 **[You Don’t Need Python to Build AI Apps: Spring Boot and Spring AI Can Do It Too](https://medium.com/@ashenbhagye/you-dont-need-python-to-build-ai-apps-spring-boot-and-spring-ai-can-do-it-too-47c5bbe40056?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Companies Make Money: The Business of Intelligence](https://medium.com/@adityaa9971/how-ai-companies-make-money-the-business-of-intelligence-251d028eb6a1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Next Expansion Phase $AIC](https://medium.com/@aicompanions/next-expansion-phase-aic-4d993c6ab243?source=rss------artificial_intelligence-5)**
+> 🔹 **[비개발자를 위한 클로드 코워크 B2B 영업 자동화 완벽 가이드](https://blog.toktokhan.dev/claude-cowork-b2b-sales-automation-skills-guide-f6cdb88c521a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Sales AI for Revenue Teams: Why Opinionated Beats Neutral](https://proshort.medium.com/sales-ai-for-revenue-teams-why-opinionated-beats-neutral-eafed1b3c9a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The “System Prompt” Era Is Ending: Why AI Agents Require a Dedicated Governance Runtime](https://medium.com/@AI_Human_Revolutions/the-system-prompt-era-is-ending-why-ai-agents-require-a-dedicated-governance-runtime-6a5346b8270c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why enterprise AI isn’t delivering ROI yet — and the infrastructure layer that will change that](https://medium.com/emerge-edtech-insights/why-enterprise-ai-isnt-delivering-roi-yet-and-the-infrastructure-layer-that-will-change-that-faa02ba824fd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why traditional time trackers are failing the era of AI](https://ken-vde.medium.com/why-traditional-time-trackers-are-failing-the-era-of-ai-c06433a8865e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Microservices API Design: The 5 Contracts I Wish I’d Written on Day One](https://medium.com/@davide.mib/microservices-api-design-the-5-contracts-i-wish-id-written-on-day-one-8c3769b06c26?source=rss------backend_development-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
