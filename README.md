@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Scoring Table](https://medium.com/@matthew.fredenburg/llm-intelligence-experiments-scoring-table-7ffc87ba3b9c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Categories Table](https://medium.com/@matthew.fredenburg/llm-intelligence-experiments-categories-table-4529f5bfba3d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Attention Problem Nobody Has Solved — Until Now?](https://vishal-ai.medium.com/the-attention-problem-nobody-has-solved-until-now-bce5f3397ac9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Single vs Multi-Agent, The Cost-Per-Task Decision Framework](https://medium.com/@ai_transfer_lab/single-vs-multi-agent-the-cost-per-task-decision-framework-781eeac550ee?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Tools Productivity in 2026: The Smartest Tools Making Work Faster and Easier](https://medium.com/@prashantweb3task/ai-tools-productivity-in-2026-the-smartest-tools-making-work-faster-and-easier-5f8f5ceeeaaf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Whatever Nvidia Does, We Do the Opposite](https://medium.com/@warpie/whatever-nvidia-does-we-do-the-opposite-2722855327d6?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Isn’t Replacing Junior Devs — Your Org Chart Is](https://medium.com/@anuragdubey000007/ai-isnt-replacing-junior-devs-your-org-chart-is-9776b6a8cf0e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Hashing](https://medium.com/@emad-mohamed/hashing-3a2c8f09b2f7?source=rss------data_structures-5)**
+> 🔹 **[If You’re an Outlier, Get Ready for 1000 Rejections !](https://medium.com/@expressboldtv/if-youre-an-outlier-get-ready-for-1000-rejections-94d25e801308?source=rss------system_design-5)**
+> 🔹 **[I&#39;ve Been Using AI Tools Daily for Over a Year. Here&#39;s What I Actually Kept.](https://sageastraorion.medium.com/ive-been-using-ai-tools-daily-for-over-a-year-here-s-what-i-actually-kept-1a5661d3d7fb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The $10,000 Tech Education You Can Get for FREE in 2026 &lpar;73 Premium Courses&rpar;](https://medium.com/@ieibra366/the-10-000-tech-education-you-can-get-for-free-in-2026-73-premium-courses-c165155200be?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Digital Marketing Creates Better Job Opportunities](https://infycle.medium.com/how-digital-marketing-creates-better-job-opportunities-a82f469c8a1c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why the Freelancers Who Earn the Most in 2026 Aren’t Selling AI Skills](https://medium.com/womenintechnology/why-the-freelancers-who-earn-the-most-in-2026-arent-selling-ai-skills-6c95e888a0e6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Ahmed Ashfaq, “Governable Execution and Digital Asset Custody: A Computational Governance Model...](https://medium.com/@ahmed_ashfaq/ahmed-ashfaq-governable-execution-and-digital-asset-custody-a-computational-governance-model-for-4219faafc742?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Not Killing Developers. It’s Doing What We Always Did to Ourselves.](https://medium.com/@homolibere/ai-is-not-killing-developers-its-doing-what-we-always-did-to-ourselves-bb6731c6168f?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Creating a Trust Crisis in Finance — And Nobody Is Ready for It](https://medium.com/@rajeew.vishvakarma/ai-is-creating-a-trust-crisis-in-finance-and-nobody-is-ready-for-it-dee6ba7c1e65?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
