@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[If You’re an Outlier, Get Ready for 1000 Rejections !](https://medium.com/@expressboldtv/if-youre-an-outlier-get-ready-for-1000-rejections-94d25e801308?source=rss------system_design-5)**
-> 🔹 **[I&#39;ve Been Using AI Tools Daily for Over a Year. Here&#39;s What I Actually Kept.](https://sageastraorion.medium.com/ive-been-using-ai-tools-daily-for-over-a-year-here-s-what-i-actually-kept-1a5661d3d7fb?source=rss------artificial_intelligence-5)**
-> 🔹 **[The $10,000 Tech Education You Can Get for FREE in 2026 &lpar;73 Premium Courses&rpar;](https://medium.com/@ieibra366/the-10-000-tech-education-you-can-get-for-free-in-2026-73-premium-courses-c165155200be?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Digital Marketing Creates Better Job Opportunities](https://infycle.medium.com/how-digital-marketing-creates-better-job-opportunities-a82f469c8a1c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why the Freelancers Who Earn the Most in 2026 Aren’t Selling AI Skills](https://medium.com/womenintechnology/why-the-freelancers-who-earn-the-most-in-2026-arent-selling-ai-skills-6c95e888a0e6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ahmed Ashfaq, “Governable Execution and Digital Asset Custody: A Computational Governance Model...](https://medium.com/@ahmed_ashfaq/ahmed-ashfaq-governable-execution-and-digital-asset-custody-a-computational-governance-model-for-4219faafc742?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Not Killing Developers. It’s Doing What We Always Did to Ourselves.](https://medium.com/@homolibere/ai-is-not-killing-developers-its-doing-what-we-always-did-to-ourselves-bb6731c6168f?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Creating a Trust Crisis in Finance — And Nobody Is Ready for It](https://medium.com/@rajeew.vishvakarma/ai-is-creating-a-trust-crisis-in-finance-and-nobody-is-ready-for-it-dee6ba7c1e65?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Types of Pavement Distress Can AI Detect?](https://medium.com/@shreyaaa180/what-types-of-pavement-distress-can-ai-detect-70d3fd4aff71?source=rss------artificial_intelligence-5)**
+> 🔹 **[Understanding the Strategy Design Pattern](https://medium.com/@gupta_harshal/understanding-the-strategy-design-pattern-e76736c15485?source=rss------backend_development-5)**
+> 🔹 **[The Vatican and the AI Age](https://medium.com/@huqingyun/the-vatican-and-the-ai-age-50e37ad369b9?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to migrate TrueFi Rebrands to Brila.](https://medium.com/@barman9/how-to-migrate-truefi-rebrands-to-brila-a9ac2db4931f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The $1.99 SEO Hack: How to Monitor Premium Keyword Rankings for Pennies](https://medium.com/@setoketa123/the-1-99-seo-hack-how-to-monitor-premium-keyword-rankings-for-pennies-60b524f1d913?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Just Ate WordPress for Breakfast — Here’s How I Built a Website in Minutes with v0](https://medium.com/@sedatbaar/ai-just-ate-wordpress-for-breakfast-heres-how-i-built-a-website-in-minutes-with-v0-6ca7933ca46d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Ce que j’ai appris en construisant mon premier système multi-agents IA pour un client non-tech](https://medium.com/@tristan.dez_64404/ce-que-jai-appris-en-construisant-mon-premier-syst%C3%A8me-multi-agents-ia-pour-un-client-non-tech-05af455554fd?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI-Native Architecture: How AI-Native Companies Work](https://neemz.medium.com/the-ai-native-architecture-how-ai-native-companies-work-9c2504229259?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
