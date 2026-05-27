@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What Types of Pavement Distress Can AI Detect?](https://medium.com/@shreyaaa180/what-types-of-pavement-distress-can-ai-detect-70d3fd4aff71?source=rss------artificial_intelligence-5)**
-> 🔹 **[Understanding the Strategy Design Pattern](https://medium.com/@gupta_harshal/understanding-the-strategy-design-pattern-e76736c15485?source=rss------backend_development-5)**
-> 🔹 **[The Vatican and the AI Age](https://medium.com/@huqingyun/the-vatican-and-the-ai-age-50e37ad369b9?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to migrate TrueFi Rebrands to Brila.](https://medium.com/@barman9/how-to-migrate-truefi-rebrands-to-brila-a9ac2db4931f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The $1.99 SEO Hack: How to Monitor Premium Keyword Rankings for Pennies](https://medium.com/@setoketa123/the-1-99-seo-hack-how-to-monitor-premium-keyword-rankings-for-pennies-60b524f1d913?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Just Ate WordPress for Breakfast — Here’s How I Built a Website in Minutes with v0](https://medium.com/@sedatbaar/ai-just-ate-wordpress-for-breakfast-heres-how-i-built-a-website-in-minutes-with-v0-6ca7933ca46d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ce que j’ai appris en construisant mon premier système multi-agents IA pour un client non-tech](https://medium.com/@tristan.dez_64404/ce-que-jai-appris-en-construisant-mon-premier-syst%C3%A8me-multi-agents-ia-pour-un-client-non-tech-05af455554fd?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI-Native Architecture: How AI-Native Companies Work](https://neemz.medium.com/the-ai-native-architecture-how-ai-native-companies-work-9c2504229259?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Your AI Results Are Only As Good As Your Prompts — And What You Need to Fix That](https://medium.com/@donaldsithole405/why-your-ai-results-are-only-as-good-as-your-prompts-and-what-you-need-to-fix-that-fb226cce7b03?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI-Assisted vs. Agentic Wealth Software: The Operational Difference That Actually Matters](https://medium.com/@arin.dey/ai-assisted-vs-agentic-wealth-software-the-operational-difference-that-actually-matters-fee5e7e3335a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Truth About Being a CSE Student in the AI Era](https://medium.com/@ps944977/the-truth-about-being-a-cse-student-in-the-ai-era-2e1a2f8d2d62?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Product Development Is Really About System Alignment](https://medium.com/@evan.m3rcer/why-ai-product-development-is-really-about-system-alignment-bfd255a1f8c3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Scariest Part About AI Isn’t Job Loss. It’s Identity Loss.](https://garimadua.medium.com/the-scariest-part-about-ai-isnt-job-loss-it-s-identity-loss-7a42006315e8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Ghost in the Context Window: Introducing memoscope](https://medium.com/@prakulhiremath/the-ghost-in-the-context-window-introducing-memoscope-5011be9a01c9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Auteur of the Exit: The Deep-Time Absurdism of David William James Elliott](https://medium.com/@dxr7/the-auteur-of-the-exit-the-deep-time-absurdism-of-david-william-james-elliott-8b6bf3783dd3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The SQLite Pattern Most Python Tutorials Never Teach You](https://medium.com/@mostafa.amaan/sqlite-python-expense-tracker-3f11736c1ca3?source=rss------backend_development-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
