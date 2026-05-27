@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Low Level Design: The Strategy Pattern — And Why It Quietly Runs Half Your Favourite Products](https://medium.com/@parasagrawal_/low-level-design-the-strategy-pattern-and-why-it-quietly-runs-half-your-favourite-products-afd20d4da7be?source=rss------system_design-5)**
-> 🔹 **[What to Learn as a Developer in the AI Era — Part 2](https://medium.com/@girmish/what-to-learn-as-a-developer-in-the-ai-era-part-2-67dd9d377f05?source=rss------artificial_intelligence-5)**
-> 🔹 **[Computer Vision Yolculuğu — Gün 8: Pycaw ile Gerçek Zamanlı Gesture Volume Control](https://medium.com/@m.edakulahci_47769/computer-vision-yolculu%C4%9Fu-g%C3%BCn-8-pycaw-ile-ger%C3%A7ek-zamanl%C4%B1-gesture-volume-control-6747d1b2e8da?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a Stateful Research Agent Inside a Sandbox. Here’s What the Numbers Actually Looked Lik...](https://pub.towardsai.net/i-built-a-stateful-research-agent-inside-a-sandbox-heres-what-the-numbers-actually-looked-like-2004aa378683?source=rss------artificial_intelligence-5)**
-> 🔹 **[Component Examples as Data](https://medium.com/@nathanacurtis/component-examples-as-data-11f56b1b9130?source=rss------system_design-5)**
-> 🔹 **[Check Constraints in SQL Tables](https://medium.com/@AlexanderObregon/check-constraints-in-sql-tables-5f85f9140cec?source=rss------backend_development-5)**
-> 🔹 **[AI is Red Hot, but not New](https://medium.com/@secollins102/ai-is-red-hot-but-not-new-10bb742424b3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Plato Would Have Loved the Algorithm. That Should Terrify You.](https://medium.com/@zeeshankhan0094/plato-would-have-loved-the-algorithm-that-should-terrify-you-4e153c9e874f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Scoring Table](https://medium.com/@matthew.fredenburg/llm-intelligence-experiments-scoring-table-7ffc87ba3b9c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Categories Table](https://medium.com/@matthew.fredenburg/llm-intelligence-experiments-categories-table-4529f5bfba3d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Attention Problem Nobody Has Solved — Until Now?](https://vishal-ai.medium.com/the-attention-problem-nobody-has-solved-until-now-bce5f3397ac9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Single vs Multi-Agent, The Cost-Per-Task Decision Framework](https://medium.com/@ai_transfer_lab/single-vs-multi-agent-the-cost-per-task-decision-framework-781eeac550ee?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Tools Productivity in 2026: The Smartest Tools Making Work Faster and Easier](https://medium.com/@prashantweb3task/ai-tools-productivity-in-2026-the-smartest-tools-making-work-faster-and-easier-5f8f5ceeeaaf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Whatever Nvidia Does, We Do the Opposite](https://medium.com/@warpie/whatever-nvidia-does-we-do-the-opposite-2722855327d6?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Isn’t Replacing Junior Devs — Your Org Chart Is](https://medium.com/@anuragdubey000007/ai-isnt-replacing-junior-devs-your-org-chart-is-9776b6a8cf0e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Hashing](https://medium.com/@emad-mohamed/hashing-3a2c8f09b2f7?source=rss------data_structures-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
