@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Top 10 Jobs That May Disappear Before 2027 Because of AI](https://medium.com/@dverma9699/top-10-jobs-that-may-disappear-before-2027-because-of-ai-b6c2e21036e9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why the MediaTek Dimensity 9500s Is the Smarter Choice](https://medium.com/@agastyadewan/why-the-mediatek-dimensity-9500s-is-the-smarter-choice-cfc3df6b2d6b?source=rss------artificial_intelligence-5)**
-> 🔹 **[PAI3.AI Talks About The Future of Open and Affordable AI](https://medium.com/@pai3.ai/pai3-ai-talks-about-the-future-of-open-and-affordable-ai-c6ed61dc518a?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agents: Same Backend Problems, New Buzzwords](https://medium.com/@nikolakusibojoski/ai-agents-same-backend-problems-new-buzzwords-bcf2d0900316?source=rss------backend_development-5)**
-> 🔹 **[I Built All 8 AI Systems Agencies Are Selling for $1k-$4k — Here’s What Each One Actually Costs...](https://medium.com/mr-plan-publication/i-built-all-8-ai-systems-agencies-are-selling-for-1k-4k-heres-what-each-one-actually-costs-to-0ebd728bbac4?source=rss------artificial_intelligence-5)**
-> 🔹 **[9 Mac Apps That Make Developers Look 10x More Organized Than They Actually Are](https://medium.com/@christopher.hiroki.zoritch/9-mac-apps-that-make-developers-look-10x-more-organized-than-they-actually-are-b11541da22e5?source=rss------artificial_intelligence-5)**
-> 🔹 **[SEM PathoDiff: A Deep Learning Dataset for Automated Pathogenic Bacteria Detection Using Scanni...](https://medium.com/@emanfatima.ai/sem-pathodiff-a-deep-learning-dataset-for-automated-pathogenic-bacteria-detection-using-scanning-60ee8c213b05?source=rss------artificial_intelligence-5)**
-> 🔹 **[INTERFERENZE [01] — Una Gerarchia Aggrovigliata / INTERFERENCES [01] — A Tangled Hierarchy](https://medium.com/@parasolis.plandelatour/interferenze-01-una-gerarchia-aggrovigliata-interferences-01-a-tangled-hierarchy-2eb48fb75372?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Got Tired of Rewriting AI Prompts Every Day — So I Built a Simple Tool](https://medium.com/@siva.dev5340/i-got-tired-of-rewriting-ai-prompts-every-day-so-i-built-a-simple-tool-4d0750570fe2?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI agent failure loops: when persistence becomes a quality bug](https://medium.com/@GregShevchenko/ai-agent-failure-loops-when-persistence-becomes-a-quality-bug-e651ae61fe24?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Mirror With Good Posture](https://medium.com/@prabhakarsingh214/the-mirror-with-good-posture-4d0b327762ef?source=rss------artificial_intelligence-5)**
+> 🔹 **[The world of design is changing fast — but are the foundations in place to keep up with it?](https://medium.com/@jackanglesea/the-world-of-design-is-changing-fast-but-are-the-foundations-in-place-to-keep-up-with-it-0d2f3feac953?source=rss------system_design-5)**
+> 🔹 **[Only Robots May Apply](https://medium.com/new-literary-society/only-robots-may-apply-2b210f1b7dda?source=rss------artificial_intelligence-5)**
+> 🔹 **[Ultimate Guide to Remix Season 1: Inside the $30,000 AI Gaming Sweepstakes](https://medium.com/@cznanja/ultimate-guide-to-remix-season-1-inside-the-30-000-ai-gaming-sweepstakes-6b89fa693ea7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Countries Modernizing Fastest Will Control the Next Global Economy](https://medium.com/@anvesh.emani/the-countries-modernizing-fastest-will-control-the-next-global-economy-4e19c63ad792?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Were Born at the Most Important Moment in Human History. Are You Ready?](https://medium.com/@shabnamksoni09/you-were-born-at-the-most-important-moment-in-human-history-are-you-ready-5b8d48efcbe0?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
