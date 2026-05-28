@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Got Tired of Rewriting AI Prompts Every Day — So I Built a Simple Tool](https://medium.com/@siva.dev5340/i-got-tired-of-rewriting-ai-prompts-every-day-so-i-built-a-simple-tool-4d0750570fe2?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI agent failure loops: when persistence becomes a quality bug](https://medium.com/@GregShevchenko/ai-agent-failure-loops-when-persistence-becomes-a-quality-bug-e651ae61fe24?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Mirror With Good Posture](https://medium.com/@prabhakarsingh214/the-mirror-with-good-posture-4d0b327762ef?source=rss------artificial_intelligence-5)**
-> 🔹 **[The world of design is changing fast — but are the foundations in place to keep up with it?](https://medium.com/@jackanglesea/the-world-of-design-is-changing-fast-but-are-the-foundations-in-place-to-keep-up-with-it-0d2f3feac953?source=rss------system_design-5)**
-> 🔹 **[Only Robots May Apply](https://medium.com/new-literary-society/only-robots-may-apply-2b210f1b7dda?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ultimate Guide to Remix Season 1: Inside the $30,000 AI Gaming Sweepstakes](https://medium.com/@cznanja/ultimate-guide-to-remix-season-1-inside-the-30-000-ai-gaming-sweepstakes-6b89fa693ea7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Countries Modernizing Fastest Will Control the Next Global Economy](https://medium.com/@anvesh.emani/the-countries-modernizing-fastest-will-control-the-next-global-economy-4e19c63ad792?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Were Born at the Most Important Moment in Human History. Are You Ready?](https://medium.com/@shabnamksoni09/you-were-born-at-the-most-important-moment-in-human-history-are-you-ready-5b8d48efcbe0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI agent cost dashboard is a speedometer. You also need a brake pedal.](https://medium.com/@iganapolsky_62116/your-ai-agent-cost-dashboard-is-a-speedometer-you-also-need-a-brake-pedal-08fa8cf8168f?source=rss------artificial_intelligence-5)**
+> 🔹 **[11 Architecture Principles Every Engineer Should Actually Understand](https://nishantyadav770.medium.com/11-architecture-principles-every-engineer-should-actually-understand-feff7e049b75?source=rss------system_design-5)**
+> 🔹 **[From one server to millions of users](https://medium.com/@rituparnodas_24749/from-one-server-to-millions-of-users-c3b9054f4a8e?source=rss------backend_development-5)**
+> 🔹 **[The Scam Economy Isn’t Broken. It’s Working Exactly as Designed](https://medium.com/secrets-and-mysteries/the-scam-economy-isnt-broken-it-s-working-exactly-as-designed-64741adf1d23?source=rss------artificial_intelligence-5)**
+> 🔹 **[Edit Distance — DP Interview Series #8](https://medium.com/@kumar_sachin/edit-distance-dp-interview-series-8-7c9f6b548c9e?source=rss------data_structures-5)**
+> 🔹 **[MCP Is Not Infrastructure Yet](https://medium.com/@wonderingmax/mcp-is-not-infrastructure-yet-985f57f56abe?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Business Case for Running Your Own AI Models](https://medium.com/@christophe.atten/the-business-case-for-running-your-own-ai-models-5ea5e4561c14?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nathan Haslick: Why the Human Side of Data Science Matters More Than Ever](https://medium.com/@nathanhaslick/nathan-haslick-why-the-human-side-of-data-science-matters-more-than-ever-46ad0182a5bc?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
