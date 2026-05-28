@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Om Patil: My Journey as an AI Student, AI/ML Engineer, and Startup Builder at AskLumenAI](https://medium.com/@patilom1906/om-patil-my-journey-as-an-ai-student-ai-ml-engineer-and-startup-builder-at-asklumenai-8b68018fe849?source=rss------artificial_intelligence-5)**
-> 🔹 **[How a Laravel Development Company Builds Secure Enterprise Applications](https://medium.com/@ninascott646/how-a-laravel-development-company-builds-secure-enterprise-applications-74b04ca255d7?source=rss------backend_development-5)**
-> 🔹 **[How I Designed a Production Grade RAG System : And What Most Tutorials Skip](https://medium.com/@swetasaraswat2/how-i-designed-a-production-grade-rag-system-and-what-most-tutorials-skip-32be57fc6dee?source=rss------artificial_intelligence-5)**
-> 🔹 **[Tool-Shaped Objects in UX, Part 1: A Question AI Forces Designers to Answer Because It Will Cha...](https://medium.com/@usabilitycounts/tool-shaped-objects-in-ux-part-1-a-question-ai-forces-designers-to-answer-because-it-will-change-8b6f5e414c24?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nobody Admits It, But Most “AI Experts” Are Just Repackaging Each Other](https://shiksha-news-expert.medium.com/nobody-admits-it-but-most-ai-experts-are-just-repackaging-each-other-7c3c7a2f06e7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Critical Thinking Is Indispensable in the Age of AI and Information Overload?](https://medium.com/@tsanggu807/why-critical-thinking-is-indispensable-in-the-age-of-ai-and-information-overload-e3e0e0632858?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Voice Assistant for Inbound Calls Explained](https://medium.com/@sofia.morettilibero/ai-voice-assistant-for-inbound-calls-explained-ebab4aae23d6?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Trial of Cheap AI](https://medium.com/@singh.rishabh1999/the-trial-of-cheap-ai-7fb7f7e4808d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Top 10 Jobs That May Disappear Before 2027 Because of AI](https://medium.com/@dverma9699/top-10-jobs-that-may-disappear-before-2027-because-of-ai-b6c2e21036e9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why the MediaTek Dimensity 9500s Is the Smarter Choice](https://medium.com/@agastyadewan/why-the-mediatek-dimensity-9500s-is-the-smarter-choice-cfc3df6b2d6b?source=rss------artificial_intelligence-5)**
+> 🔹 **[PAI3.AI Talks About The Future of Open and Affordable AI](https://medium.com/@pai3.ai/pai3-ai-talks-about-the-future-of-open-and-affordable-ai-c6ed61dc518a?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents: Same Backend Problems, New Buzzwords](https://medium.com/@nikolakusibojoski/ai-agents-same-backend-problems-new-buzzwords-bcf2d0900316?source=rss------backend_development-5)**
+> 🔹 **[I Built All 8 AI Systems Agencies Are Selling for $1k-$4k — Here’s What Each One Actually Costs...](https://medium.com/mr-plan-publication/i-built-all-8-ai-systems-agencies-are-selling-for-1k-4k-heres-what-each-one-actually-costs-to-0ebd728bbac4?source=rss------artificial_intelligence-5)**
+> 🔹 **[9 Mac Apps That Make Developers Look 10x More Organized Than They Actually Are](https://medium.com/@christopher.hiroki.zoritch/9-mac-apps-that-make-developers-look-10x-more-organized-than-they-actually-are-b11541da22e5?source=rss------artificial_intelligence-5)**
+> 🔹 **[SEM PathoDiff: A Deep Learning Dataset for Automated Pathogenic Bacteria Detection Using Scanni...](https://medium.com/@emanfatima.ai/sem-pathodiff-a-deep-learning-dataset-for-automated-pathogenic-bacteria-detection-using-scanning-60ee8c213b05?source=rss------artificial_intelligence-5)**
+> 🔹 **[INTERFERENZE [01] — Una Gerarchia Aggrovigliata / INTERFERENCES [01] — A Tangled Hierarchy](https://medium.com/@parasolis.plandelatour/interferenze-01-una-gerarchia-aggrovigliata-interferences-01-a-tangled-hierarchy-2eb48fb75372?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
