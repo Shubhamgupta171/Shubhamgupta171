@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Your AI Results Are Only As Good As Your Prompts — And What You Need to Fix That](https://medium.com/@donaldsithole405/why-your-ai-results-are-only-as-good-as-your-prompts-and-what-you-need-to-fix-that-fb226cce7b03?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI-Assisted vs. Agentic Wealth Software: The Operational Difference That Actually Matters](https://medium.com/@arin.dey/ai-assisted-vs-agentic-wealth-software-the-operational-difference-that-actually-matters-fee5e7e3335a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Truth About Being a CSE Student in the AI Era](https://medium.com/@ps944977/the-truth-about-being-a-cse-student-in-the-ai-era-2e1a2f8d2d62?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Product Development Is Really About System Alignment](https://medium.com/@evan.m3rcer/why-ai-product-development-is-really-about-system-alignment-bfd255a1f8c3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Scariest Part About AI Isn’t Job Loss. It’s Identity Loss.](https://garimadua.medium.com/the-scariest-part-about-ai-isnt-job-loss-it-s-identity-loss-7a42006315e8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Ghost in the Context Window: Introducing memoscope](https://medium.com/@prakulhiremath/the-ghost-in-the-context-window-introducing-memoscope-5011be9a01c9?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Auteur of the Exit: The Deep-Time Absurdism of David William James Elliott](https://medium.com/@dxr7/the-auteur-of-the-exit-the-deep-time-absurdism-of-david-william-james-elliott-8b6bf3783dd3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The SQLite Pattern Most Python Tutorials Never Teach You](https://medium.com/@mostafa.amaan/sqlite-python-expense-tracker-3f11736c1ca3?source=rss------backend_development-5)**
+> 🔹 **[Om Patil: My Journey as an AI Student, AI/ML Engineer, and Startup Builder at AskLumenAI](https://medium.com/@patilom1906/om-patil-my-journey-as-an-ai-student-ai-ml-engineer-and-startup-builder-at-asklumenai-8b68018fe849?source=rss------artificial_intelligence-5)**
+> 🔹 **[How a Laravel Development Company Builds Secure Enterprise Applications](https://medium.com/@ninascott646/how-a-laravel-development-company-builds-secure-enterprise-applications-74b04ca255d7?source=rss------backend_development-5)**
+> 🔹 **[How I Designed a Production Grade RAG System : And What Most Tutorials Skip](https://medium.com/@swetasaraswat2/how-i-designed-a-production-grade-rag-system-and-what-most-tutorials-skip-32be57fc6dee?source=rss------artificial_intelligence-5)**
+> 🔹 **[Tool-Shaped Objects in UX, Part 1: A Question AI Forces Designers to Answer Because It Will Cha...](https://medium.com/@usabilitycounts/tool-shaped-objects-in-ux-part-1-a-question-ai-forces-designers-to-answer-because-it-will-change-8b6f5e414c24?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nobody Admits It, But Most “AI Experts” Are Just Repackaging Each Other](https://shiksha-news-expert.medium.com/nobody-admits-it-but-most-ai-experts-are-just-repackaging-each-other-7c3c7a2f06e7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Critical Thinking Is Indispensable in the Age of AI and Information Overload?](https://medium.com/@tsanggu807/why-critical-thinking-is-indispensable-in-the-age-of-ai-and-information-overload-e3e0e0632858?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Voice Assistant for Inbound Calls Explained](https://medium.com/@sofia.morettilibero/ai-voice-assistant-for-inbound-calls-explained-ebab4aae23d6?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Trial of Cheap AI](https://medium.com/@singh.rishabh1999/the-trial-of-cheap-ai-7fb7f7e4808d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
