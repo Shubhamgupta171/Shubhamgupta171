@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The find out stage of AI is just supply chain and password protection​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍...](https://stackoverflow.blog/2026/05/29/find-out-stage-ai-supply-chain-password-protection/)**
-> 🔹 **[Software Architecture: The Invisible Blueprint Behind Every Great Software System](https://medium.com/@hashinifernando/software-architecture-the-invisible-blueprint-behind-every-great-software-system-b0e122227ad8?source=rss------system_design-5)**
-> 🔹 **[Software Architecture: The Invisible Blueprint Behind Every Great Software System](https://medium.com/@hashinifernando/software-architecture-the-invisible-blueprint-behind-every-great-software-system-b0e122227ad8?source=rss------backend_development-5)**
-> 🔹 **[Predictive Analytics and Machine Learning: Solving Real-World Problems with Data](https://medium.com/@shreyashgade2001/predictive-analytics-and-machine-learning-solving-real-world-problems-with-data-4aba82fdeaff?source=rss------artificial_intelligence-5)**
-> 🔹 **[Did you know that among Medicare Part D enrollees with chronic conditions, those who have a hig...](https://cruizviquez.medium.com/did-you-know-that-among-medicare-part-d-enrollees-with-chronic-conditions-those-who-have-a-high-95004918c3eb?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Made Me a Better Programmer… and a Worse One Too](https://medium.com/@shahbishwa21/ai-made-me-a-better-programmer-and-a-worse-one-too-f6337bfc8e5f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Free Model Providers to Use with Hermes Agent](https://dalenguyen.medium.com/free-model-providers-to-use-with-hermes-agent-5dcb847dd26e?source=rss------artificial_intelligence-5)**
-> 🔹 **[My AI Chatbot Had the Memory of a Goldfish. Here’s How I Fixed It.](https://medium.com/@ronikdedhia/my-ai-chatbot-had-the-memory-of-a-goldfish-heres-how-i-fixed-it-33eb46b492ba?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Everyone Can Build Software, Attention Becomes the New Compiler](https://medium.com/@franziska.fink.rpllc/when-everyone-can-build-software-attention-becomes-the-new-compiler-62f6c9384e4d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 17 of 100: I’m Trying a New AI Tool Every Day So You Don’t Have To](https://medium.com/@veekshac18/day-17-of-100-im-trying-a-new-ai-tool-every-day-so-you-don-t-have-to-67808e7fe3af?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents: The Next Big Leap Beyond Chatbots](https://medium.com/powerbi-microsoft-fabric/ai-agents-the-next-big-leap-beyond-chatbots-53220b451771?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Just Predicting the Next Word. So Why Does It Feel Like Intelligence?](https://medium.com/@shrudhisatya/ai-is-just-predicting-the-next-word-so-why-does-it-feel-like-intelligence-9c2c1cabd1bc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Qoma AI by Cartory: A Conversational AI Assistant Built in Bangladesh](https://medium.com/@cartory7107/qoma-ai-by-cartory-a-conversational-ai-assistant-built-in-bangladesh-be06ac9e7b2d?source=rss------artificial_intelligence-5)**
+> 🔹 **[SEO Is No Longer About Rankings. It’s About Becoming Part of the Answer.](https://medium.com/@shariqmohamedyusuf/seo-is-no-longer-about-rankings-its-about-becoming-part-of-the-answer-0cd722639984?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Corporate Training is Important for Organizations](https://medium.com/@mazenet/why-ai-corporate-training-is-important-for-organizations-59f3df581f73?source=rss------artificial_intelligence-5)**
+> 🔹 **[Flask Design System](https://medium.com/@vny.ux/flask-design-system-4abde390ec8b?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
