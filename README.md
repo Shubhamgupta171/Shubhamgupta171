@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your AI agent cost dashboard is a speedometer. You also need a brake pedal.](https://medium.com/@iganapolsky_62116/your-ai-agent-cost-dashboard-is-a-speedometer-you-also-need-a-brake-pedal-08fa8cf8168f?source=rss------artificial_intelligence-5)**
-> 🔹 **[11 Architecture Principles Every Engineer Should Actually Understand](https://nishantyadav770.medium.com/11-architecture-principles-every-engineer-should-actually-understand-feff7e049b75?source=rss------system_design-5)**
-> 🔹 **[From one server to millions of users](https://medium.com/@rituparnodas_24749/from-one-server-to-millions-of-users-c3b9054f4a8e?source=rss------backend_development-5)**
-> 🔹 **[The Scam Economy Isn’t Broken. It’s Working Exactly as Designed](https://medium.com/secrets-and-mysteries/the-scam-economy-isnt-broken-it-s-working-exactly-as-designed-64741adf1d23?source=rss------artificial_intelligence-5)**
-> 🔹 **[Edit Distance — DP Interview Series #8](https://medium.com/@kumar_sachin/edit-distance-dp-interview-series-8-7c9f6b548c9e?source=rss------data_structures-5)**
-> 🔹 **[MCP Is Not Infrastructure Yet](https://medium.com/@wonderingmax/mcp-is-not-infrastructure-yet-985f57f56abe?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Business Case for Running Your Own AI Models](https://medium.com/@christophe.atten/the-business-case-for-running-your-own-ai-models-5ea5e4561c14?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nathan Haslick: Why the Human Side of Data Science Matters More Than Ever](https://medium.com/@nathanhaslick/nathan-haslick-why-the-human-side-of-data-science-matters-more-than-ever-46ad0182a5bc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The find out stage of AI is just supply chain and password protection​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍...](https://stackoverflow.blog/2026/05/29/find-out-stage-ai-supply-chain-password-protection/)**
+> 🔹 **[Software Architecture: The Invisible Blueprint Behind Every Great Software System](https://medium.com/@hashinifernando/software-architecture-the-invisible-blueprint-behind-every-great-software-system-b0e122227ad8?source=rss------system_design-5)**
+> 🔹 **[Software Architecture: The Invisible Blueprint Behind Every Great Software System](https://medium.com/@hashinifernando/software-architecture-the-invisible-blueprint-behind-every-great-software-system-b0e122227ad8?source=rss------backend_development-5)**
+> 🔹 **[Predictive Analytics and Machine Learning: Solving Real-World Problems with Data](https://medium.com/@shreyashgade2001/predictive-analytics-and-machine-learning-solving-real-world-problems-with-data-4aba82fdeaff?source=rss------artificial_intelligence-5)**
+> 🔹 **[Did you know that among Medicare Part D enrollees with chronic conditions, those who have a hig...](https://cruizviquez.medium.com/did-you-know-that-among-medicare-part-d-enrollees-with-chronic-conditions-those-who-have-a-high-95004918c3eb?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Made Me a Better Programmer… and a Worse One Too](https://medium.com/@shahbishwa21/ai-made-me-a-better-programmer-and-a-worse-one-too-f6337bfc8e5f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Free Model Providers to Use with Hermes Agent](https://dalenguyen.medium.com/free-model-providers-to-use-with-hermes-agent-5dcb847dd26e?source=rss------artificial_intelligence-5)**
+> 🔹 **[My AI Chatbot Had the Memory of a Goldfish. Here’s How I Fixed It.](https://medium.com/@ronikdedhia/my-ai-chatbot-had-the-memory-of-a-goldfish-heres-how-i-fixed-it-33eb46b492ba?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
