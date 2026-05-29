@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[When Everyone Can Build Software, Attention Becomes the New Compiler](https://medium.com/@franziska.fink.rpllc/when-everyone-can-build-software-attention-becomes-the-new-compiler-62f6c9384e4d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Day 17 of 100: I’m Trying a New AI Tool Every Day So You Don’t Have To](https://medium.com/@veekshac18/day-17-of-100-im-trying-a-new-ai-tool-every-day-so-you-don-t-have-to-67808e7fe3af?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agents: The Next Big Leap Beyond Chatbots](https://medium.com/powerbi-microsoft-fabric/ai-agents-the-next-big-leap-beyond-chatbots-53220b451771?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Just Predicting the Next Word. So Why Does It Feel Like Intelligence?](https://medium.com/@shrudhisatya/ai-is-just-predicting-the-next-word-so-why-does-it-feel-like-intelligence-9c2c1cabd1bc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Qoma AI by Cartory: A Conversational AI Assistant Built in Bangladesh](https://medium.com/@cartory7107/qoma-ai-by-cartory-a-conversational-ai-assistant-built-in-bangladesh-be06ac9e7b2d?source=rss------artificial_intelligence-5)**
-> 🔹 **[SEO Is No Longer About Rankings. It’s About Becoming Part of the Answer.](https://medium.com/@shariqmohamedyusuf/seo-is-no-longer-about-rankings-its-about-becoming-part-of-the-answer-0cd722639984?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Corporate Training is Important for Organizations](https://medium.com/@mazenet/why-ai-corporate-training-is-important-for-organizations-59f3df581f73?source=rss------artificial_intelligence-5)**
-> 🔹 **[Flask Design System](https://medium.com/@vny.ux/flask-design-system-4abde390ec8b?source=rss------system_design-5)**
+> 🔹 **[LLMs Forget Instructions at 8k Tokens ?](https://medium.com/@AnalystHQ/llms-forget-instructions-at-8k-tokens-627b851c0f7a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 122B Model Inside a Mac Mini](https://medium.com/@raell.dottin/the-122b-model-inside-a-mac-mini-92717895d7d0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building a Production Multi-Agent Content Pipeline With N8N and OpenRouter: Five Agents, Five…](https://pub.towardsai.net/building-a-production-multi-agent-content-pipeline-with-n8n-and-openrouter-five-agents-five-6bb1066d1bcb?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI-Powered CAD Is Redefining Design Apprenticeship and Learning](https://medium.com/@zixel3d.ai/how-ai-powered-cad-is-redefining-design-apprenticeship-and-learning-76f64c2ba39b?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Explainable CAD Is Transforming Collaboration and Knowledge in Modern Engineering](https://medium.com/@zixel3d.ai/how-explainable-cad-is-transforming-collaboration-and-knowledge-in-modern-engineering-a95049263bf2?source=rss------artificial_intelligence-5)**
+> 🔹 **[ArXiv Is Cracking Down on AI-Generated Research Papers and Manufactured Citations](https://medium.com/@virtualguild.ai/arxiv-is-cracking-down-on-ai-generated-research-papers-and-manufactured-citations-bba2cb0b6b3a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Career Bubble Nobody Is Talking About: Why Generic AI Builders Will Struggle in 2026?](https://medium.com/data-science-collective/the-ai-career-bubble-nobody-is-talking-about-why-generic-ai-builders-will-struggle-in-2026-7ffa29066607?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is the AI Bubble Finally Getting Popped?](https://medium.com/@Daniel.O.Ayo/is-the-ai-bubble-finally-getting-popped-0e8886eea003?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
