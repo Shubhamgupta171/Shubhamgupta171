@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[LLMs Forget Instructions at 8k Tokens ?](https://medium.com/@AnalystHQ/llms-forget-instructions-at-8k-tokens-627b851c0f7a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 122B Model Inside a Mac Mini](https://medium.com/@raell.dottin/the-122b-model-inside-a-mac-mini-92717895d7d0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building a Production Multi-Agent Content Pipeline With N8N and OpenRouter: Five Agents, Five…](https://pub.towardsai.net/building-a-production-multi-agent-content-pipeline-with-n8n-and-openrouter-five-agents-five-6bb1066d1bcb?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI-Powered CAD Is Redefining Design Apprenticeship and Learning](https://medium.com/@zixel3d.ai/how-ai-powered-cad-is-redefining-design-apprenticeship-and-learning-76f64c2ba39b?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Explainable CAD Is Transforming Collaboration and Knowledge in Modern Engineering](https://medium.com/@zixel3d.ai/how-explainable-cad-is-transforming-collaboration-and-knowledge-in-modern-engineering-a95049263bf2?source=rss------artificial_intelligence-5)**
-> 🔹 **[ArXiv Is Cracking Down on AI-Generated Research Papers and Manufactured Citations](https://medium.com/@virtualguild.ai/arxiv-is-cracking-down-on-ai-generated-research-papers-and-manufactured-citations-bba2cb0b6b3a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Career Bubble Nobody Is Talking About: Why Generic AI Builders Will Struggle in 2026?](https://medium.com/data-science-collective/the-ai-career-bubble-nobody-is-talking-about-why-generic-ai-builders-will-struggle-in-2026-7ffa29066607?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is the AI Bubble Finally Getting Popped?](https://medium.com/@Daniel.O.Ayo/is-the-ai-bubble-finally-getting-popped-0e8886eea003?source=rss------artificial_intelligence-5)**
+> 🔹 **[Sick of the “AI Tone”: Why We’re desperate to read human words again](https://medium.com/@brendamolinari/sick-of-the-ai-tone-why-were-desperate-to-read-human-words-again-be570c5fcb2d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Sharpening the Dual Sheet Model: What It Is, What It Isn’t, and Why That Matters](https://medium.com/@mattygh01/sharpening-the-dual-sheet-model-what-it-is-what-it-isnt-and-why-that-matters-3750b6938685?source=rss------artificial_intelligence-5)**
+> 🔹 **[My GitHub knew what I built. My Notion knew what I planned. Coral helped me connect the two.](https://medium.com/@manishmanice2003/my-github-knew-what-i-built-my-notion-knew-what-i-planned-coral-helped-me-connect-the-two-2f50f6579c55?source=rss------backend_development-5)**
+> 🔹 **[El “Efecto Arjona” de la Inteligencia Artificial.](https://medium.com/@brendamolinari/el-efecto-arjona-de-la-inteligencia-artificial-71c345549709?source=rss------artificial_intelligence-5)**
+> 🔹 **[Antimicrobial Resistance: A Five-Year Investigation](https://medium.com/@blakevanderhyde/antimicrobial-resistance-five-year-investigation-efc558e21754?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Most Expensive AI Mistake Is Picking the Pattern Before Knowing the Problem](https://medium.com/@himadri.abm/the-most-expensive-ai-mistake-is-picking-the-pattern-before-knowing-the-problem-0670d9354f66?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why LLM Portfolio Advice Needs Post-Generation Guardrails](https://medium.com/@gauravkukreja06_87034/why-llm-portfolio-advice-needs-post-generation-guardrails-800179e1bf4c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Viral](https://medium.com/@jm7420626/viral-c05d30d7994e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
