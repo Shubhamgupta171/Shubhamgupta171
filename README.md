@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Criticizing AI’s Electricity and Water Consumption Despite Bigger Users is Not Hypocritical](https://medium.com/@floydchan9999/criticizing-ais-electricity-and-water-consumption-despite-bigger-users-is-not-hypocritical-026305e081af?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tried Microsoft’s MarkItDown, and It Might Be the Missing Link for AI Workflows](https://pub.towardsai.net/i-tried-microsofts-markitdown-and-it-might-be-the-missing-link-for-ai-workflows-572ec7ea65ee?source=rss------artificial_intelligence-5)**
-> 🔹 **[Apple’s Counterkill and the AI Hardware Graveyard: Why Giants Are Never Toppled by Their Imitat...](https://medium.com/@finsages/apples-counterkill-and-the-ai-hardware-graveyard-why-giants-are-never-toppled-by-their-imitators-ebce52bb7831?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Can Generate Kubernetes YAML — But Is the CKA Still Worth It in 2026?](https://medium.com/@shahzadaliahmad/ai-can-generate-kubernetes-yaml-but-is-the-cka-still-worth-it-in-2026-3c2d742605a8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Pilots Fail in Enterprises](https://chanukadissanayake.medium.com/why-ai-pilots-fail-in-enterprises-5242a60b40e7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The New AI Literacy, What to Know When You Can’t Know Everything](https://medium.com/@yashmunnalalg/the-new-ai-literacy-what-to-know-when-you-cant-know-everything-ef966e196e66?source=rss------artificial_intelligence-5)**
-> 🔹 **[Anthropic is Worth $965B. Samsung is Worth $1.5T. We Need to Talk.](https://colinritman.medium.com/anthropic-is-worth-965b-samsung-is-worth-1-5t-we-need-to-talk-0b5a2c7fbe64?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Switched to OpenRouter Six Months Ago — Here’s What Nobody Tells You About It](https://nitingavhane.medium.com/i-switched-to-openrouter-six-months-ago-heres-what-nobody-tells-you-about-it-741eead334a8?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Images to Structured Signals](https://medium.com/@2rusnoil2/from-images-to-structured-signals-18796dde9e8f?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Kraya AI Helps Indian Businesses Stop Losing Leads in 2026](https://medium.com/@Prerna212/how-kraya-ai-helps-indian-businesses-stop-losing-leads-in-2026-1a9e0ad996e6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Vibe Coding: How to Use AI Without Losing the Skill to Build](https://medium.com/@garvish67/stop-vibe-coding-how-to-use-ai-without-losing-the-skill-to-build-efc4feb08170?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Backend Engineering Roadmap I want to follow — And Why I’m Sharing It.](https://medium.com/@id.inyang9/the-backend-engineering-roadmap-i-want-to-follow-and-why-im-sharing-it-63bb3f5da7e2?source=rss------system_design-5)**
+> 🔹 **[Rally &amp; Operly: La Rivoluzione dell’AI e la Nuova Era della Produttività Digitale](https://medium.com/@roberto.rusiello/rally-operly-la-rivoluzione-dellai-e-la-nuova-era-della-produttivit%C3%A0-digitale-f8a4666d92ec?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can Data Save Mothers? The Role of Predictive Analytics in Maternal Health.](https://medium.com/@chemiriammbong/can-data-save-mothers-the-role-of-predictive-analytics-in-maternal-health-8d1c970a32f4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Writing Cost Queries. Just Ask Cortex Code.](https://snowflakechronicles.medium.com/stop-writing-cost-queries-just-ask-cortex-code-1062ac5eaf02?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Use ChatGPT for Productivity in 2026 &lpar;Save Time Every Day&rpar;](https://modernaiguide.medium.com/how-to-use-chatgpt-for-productivity-in-2026-save-time-every-day-7b81506e18a0?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
