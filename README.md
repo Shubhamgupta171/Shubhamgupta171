@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Sick of the “AI Tone”: Why We’re desperate to read human words again](https://medium.com/@brendamolinari/sick-of-the-ai-tone-why-were-desperate-to-read-human-words-again-be570c5fcb2d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Sharpening the Dual Sheet Model: What It Is, What It Isn’t, and Why That Matters](https://medium.com/@mattygh01/sharpening-the-dual-sheet-model-what-it-is-what-it-isnt-and-why-that-matters-3750b6938685?source=rss------artificial_intelligence-5)**
-> 🔹 **[My GitHub knew what I built. My Notion knew what I planned. Coral helped me connect the two.](https://medium.com/@manishmanice2003/my-github-knew-what-i-built-my-notion-knew-what-i-planned-coral-helped-me-connect-the-two-2f50f6579c55?source=rss------backend_development-5)**
-> 🔹 **[El “Efecto Arjona” de la Inteligencia Artificial.](https://medium.com/@brendamolinari/el-efecto-arjona-de-la-inteligencia-artificial-71c345549709?source=rss------artificial_intelligence-5)**
-> 🔹 **[Antimicrobial Resistance: A Five-Year Investigation](https://medium.com/@blakevanderhyde/antimicrobial-resistance-five-year-investigation-efc558e21754?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Most Expensive AI Mistake Is Picking the Pattern Before Knowing the Problem](https://medium.com/@himadri.abm/the-most-expensive-ai-mistake-is-picking-the-pattern-before-knowing-the-problem-0670d9354f66?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why LLM Portfolio Advice Needs Post-Generation Guardrails](https://medium.com/@gauravkukreja06_87034/why-llm-portfolio-advice-needs-post-generation-guardrails-800179e1bf4c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Viral](https://medium.com/@jm7420626/viral-c05d30d7994e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Criticizing AI’s Electricity and Water Consumption Despite Bigger Users is Not Hypocritical](https://medium.com/@floydchan9999/criticizing-ais-electricity-and-water-consumption-despite-bigger-users-is-not-hypocritical-026305e081af?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tried Microsoft’s MarkItDown, and It Might Be the Missing Link for AI Workflows](https://pub.towardsai.net/i-tried-microsofts-markitdown-and-it-might-be-the-missing-link-for-ai-workflows-572ec7ea65ee?source=rss------artificial_intelligence-5)**
+> 🔹 **[Apple’s Counterkill and the AI Hardware Graveyard: Why Giants Are Never Toppled by Their Imitat...](https://medium.com/@finsages/apples-counterkill-and-the-ai-hardware-graveyard-why-giants-are-never-toppled-by-their-imitators-ebce52bb7831?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Can Generate Kubernetes YAML — But Is the CKA Still Worth It in 2026?](https://medium.com/@shahzadaliahmad/ai-can-generate-kubernetes-yaml-but-is-the-cka-still-worth-it-in-2026-3c2d742605a8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Pilots Fail in Enterprises](https://chanukadissanayake.medium.com/why-ai-pilots-fail-in-enterprises-5242a60b40e7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The New AI Literacy, What to Know When You Can’t Know Everything](https://medium.com/@yashmunnalalg/the-new-ai-literacy-what-to-know-when-you-cant-know-everything-ef966e196e66?source=rss------artificial_intelligence-5)**
+> 🔹 **[Anthropic is Worth $965B. Samsung is Worth $1.5T. We Need to Talk.](https://colinritman.medium.com/anthropic-is-worth-965b-samsung-is-worth-1-5t-we-need-to-talk-0b5a2c7fbe64?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Switched to OpenRouter Six Months Ago — Here’s What Nobody Tells You About It](https://nitingavhane.medium.com/i-switched-to-openrouter-six-months-ago-heres-what-nobody-tells-you-about-it-741eead334a8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
