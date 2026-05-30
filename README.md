@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[From Images to Structured Signals](https://medium.com/@2rusnoil2/from-images-to-structured-signals-18796dde9e8f?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Kraya AI Helps Indian Businesses Stop Losing Leads in 2026](https://medium.com/@Prerna212/how-kraya-ai-helps-indian-businesses-stop-losing-leads-in-2026-1a9e0ad996e6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Vibe Coding: How to Use AI Without Losing the Skill to Build](https://medium.com/@garvish67/stop-vibe-coding-how-to-use-ai-without-losing-the-skill-to-build-efc4feb08170?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Backend Engineering Roadmap I want to follow — And Why I’m Sharing It.](https://medium.com/@id.inyang9/the-backend-engineering-roadmap-i-want-to-follow-and-why-im-sharing-it-63bb3f5da7e2?source=rss------system_design-5)**
-> 🔹 **[Rally &amp; Operly: La Rivoluzione dell’AI e la Nuova Era della Produttività Digitale](https://medium.com/@roberto.rusiello/rally-operly-la-rivoluzione-dellai-e-la-nuova-era-della-produttivit%C3%A0-digitale-f8a4666d92ec?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can Data Save Mothers? The Role of Predictive Analytics in Maternal Health.](https://medium.com/@chemiriammbong/can-data-save-mothers-the-role-of-predictive-analytics-in-maternal-health-8d1c970a32f4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Writing Cost Queries. Just Ask Cortex Code.](https://snowflakechronicles.medium.com/stop-writing-cost-queries-just-ask-cortex-code-1062ac5eaf02?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Use ChatGPT for Productivity in 2026 &lpar;Save Time Every Day&rpar;](https://modernaiguide.medium.com/how-to-use-chatgpt-for-productivity-in-2026-save-time-every-day-7b81506e18a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Reduced Screen Design Time by 70% Using Master Screens](https://medium.com/design-bootcamp/how-i-reduced-screen-design-time-by-70-using-master-screens-a43d6eeef1d0?source=rss------system_design-5)**
+> 🔹 **[What Really Happens After You Click Login?](https://medium.com/@iamaman7389/what-really-happens-after-you-click-login-2c6ab9bc7979?source=rss------backend_development-5)**
+> 🔹 **[The Psychology of Motion: How to Hook Viewer Attention Using AI Cinematic Storytelling](https://medium.com/@pablodigital/the-psychology-of-motion-how-to-hook-viewer-attention-using-ai-cinematic-storytelling-08a02ca67ab0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cutting Edge Technologies for best-performing software and implementation in Health Care System...](https://medium.com/@reetha7gupta/cutting-edge-technologies-for-best-performing-software-and-implementation-in-health-care-systems-097f690e346e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The “Vibe Coding” Trap: Why Running Blindly on AI Agents is Blowing Up Corporate Budgets and…](https://medium.com/@razakhanzada100/the-vibe-coding-trap-why-running-blindly-on-ai-agents-is-blowing-up-corporate-budgets-and-ab7dce63a447?source=rss------artificial_intelligence-5)**
+> 🔹 **[Free Internship Programs That Help Students Build Real Skills](https://medium.com/@rachelrachelgreen1997/free-internship-programs-that-help-students-build-real-skills-cddf109d5205?source=rss------artificial_intelligence-5)**
+> 🔹 **[Networking Fundamentals for Software Engineers: IP Addresses, OSI Model, TCP &amp;UDP Explained](https://medium.com/@drishsh1328/networking-fundamentals-for-software-engineers-ip-addresses-osi-model-tcp-udp-explained-8070cb7df263?source=rss------system_design-5)**
+> 🔹 **[Networking Fundamentals for Software Engineers: IP Addresses, OSI Model, TCP &amp;UDP Explained](https://medium.com/@drishsh1328/networking-fundamentals-for-software-engineers-ip-addresses-osi-model-tcp-udp-explained-8070cb7df263?source=rss------backend_development-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
