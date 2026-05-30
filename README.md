@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How I Reduced Screen Design Time by 70% Using Master Screens](https://medium.com/design-bootcamp/how-i-reduced-screen-design-time-by-70-using-master-screens-a43d6eeef1d0?source=rss------system_design-5)**
-> 🔹 **[What Really Happens After You Click Login?](https://medium.com/@iamaman7389/what-really-happens-after-you-click-login-2c6ab9bc7979?source=rss------backend_development-5)**
-> 🔹 **[The Psychology of Motion: How to Hook Viewer Attention Using AI Cinematic Storytelling](https://medium.com/@pablodigital/the-psychology-of-motion-how-to-hook-viewer-attention-using-ai-cinematic-storytelling-08a02ca67ab0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cutting Edge Technologies for best-performing software and implementation in Health Care System...](https://medium.com/@reetha7gupta/cutting-edge-technologies-for-best-performing-software-and-implementation-in-health-care-systems-097f690e346e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The “Vibe Coding” Trap: Why Running Blindly on AI Agents is Blowing Up Corporate Budgets and…](https://medium.com/@razakhanzada100/the-vibe-coding-trap-why-running-blindly-on-ai-agents-is-blowing-up-corporate-budgets-and-ab7dce63a447?source=rss------artificial_intelligence-5)**
-> 🔹 **[Free Internship Programs That Help Students Build Real Skills](https://medium.com/@rachelrachelgreen1997/free-internship-programs-that-help-students-build-real-skills-cddf109d5205?source=rss------artificial_intelligence-5)**
-> 🔹 **[Networking Fundamentals for Software Engineers: IP Addresses, OSI Model, TCP &amp;UDP Explained](https://medium.com/@drishsh1328/networking-fundamentals-for-software-engineers-ip-addresses-osi-model-tcp-udp-explained-8070cb7df263?source=rss------system_design-5)**
-> 🔹 **[Networking Fundamentals for Software Engineers: IP Addresses, OSI Model, TCP &amp;UDP Explained](https://medium.com/@drishsh1328/networking-fundamentals-for-software-engineers-ip-addresses-osi-model-tcp-udp-explained-8070cb7df263?source=rss------backend_development-5)**
+> 🔹 **[The Scary Reason AI Is Getting Better at Understanding Your Emotions Than Your Friends](https://medium.com/@queen.of.words.22/the-scary-reason-ai-is-getting-better-at-understanding-your-emotions-than-your-friends-e688fc3757e1?source=rss------artificial_intelligence-5)**
+> 🔹 **[When the Machine Holds the Pen: AI Co-authorship and the Emergence of a Paratext-Dependent Lite...](https://medium.com/@missroy0505/when-the-machine-holds-the-pen-ai-co-authorship-and-the-emergence-of-a-paratext-dependent-literary-860b85adf4af?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Checking Your Finances Every Day Can Actually Make Things Worse](https://medium.com/@theaifinanceguide/why-checking-your-finances-every-day-can-actually-make-things-worse-f8c371708265?source=rss------artificial_intelligence-5)**
+> 🔹 **[Withholding as a Design Principle: Socratic Tutoring in Structured Simulation Environments](https://medium.com/@adhamfouad123/withholding-as-a-design-principle-socratic-tutoring-in-structured-simulation-environments-a1008b094ed4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop prompting, start tuning: Why Claude Opus 4.8 killed “prompt engineering”](https://nikhilvarma07.medium.com/stop-prompting-start-tuning-why-claude-opus-4-8-killed-prompt-engineering-d5e0be1f70e7?source=rss------artificial_intelligence-5)**
+> 🔹 **[MIÉRT BESZÉLNEK HIRTELENÜL ANNÁL SOKAN A MÍTOSZOKRÓL?](https://medium.com/@ludazoltan5/mi%C3%A9rt-besz%C3%A9lnek-hirtelen%C3%BCl-ann%C3%A1l-sokan-a-m%C3%ADtoszokr%C3%B3l-bdacb90896b5?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Fatigue of AI-Assisted Work](https://medium.com/swati-seela-quality-engineering-sense/the-hidden-fatigue-of-ai-assisted-work-2bef366e5128?source=rss------artificial_intelligence-5)**
+> 🔹 **[Invisible Architecture: Creating Emotion With Darkness in Midjourney](https://medium.com/@libelune/invisible-architecture-creating-emotion-with-darkness-in-midjourney-e09a2c490b74?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
