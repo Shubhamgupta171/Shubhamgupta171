@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[An Analysis of Five Backend Database Tools](https://fuadh369.medium.com/an-analysis-of-five-backend-database-tools-4ed353f834a0?source=rss------backend_development-5)**
-> 🔹 **[The Irreplaceable Human: 5 Core Skills That Will Shine Brightest in the Age of AI](https://medium.com/@sketch.paintings/the-irreplaceable-human-5-core-skills-that-will-shine-brightest-in-the-age-of-ai-b0e3c7755e5c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Tools Actually Worth Learning in 2026](https://medium.com/@argoskouji/the-ai-tools-actually-worth-learning-in-2026-fa35feeed22f?source=rss------artificial_intelligence-5)**
-> 🔹 **[I’ve Seen the Future of Agriculture.](https://medium.com/@senaaravichandran/ive-seen-the-future-of-agriculture-1049cc1f6b6f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Fired by the AI You Trained? The Shocking Meta AI Layoffs](https://medium.com/the-techtonic/fired-by-the-ai-you-trained-the-shocking-meta-ai-layoffs-663ca11dfeaf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Prompt Engineering Is Dead. Context Engineering Is Next.](https://medium.com/ai-analytics-diaries/prompt-engineering-is-dead-context-engineering-is-next-a6c5e1e6012c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Python Requests vs httpx vs aiohttp. I Benchmarked All 3 on Real Traffic](https://medium.com/@atharvjaiswal56/python-requests-vs-httpx-vs-aiohttp-i-benchmarked-all-3-on-real-traffic-77eb20545476?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building a Real-Time AI API with Claude &amp; ASP.NET Core](https://odhavanivipul92.medium.com/building-a-real-time-ai-api-with-claude-asp-net-core-848470f14273?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Replaced Google With AI for 30 Days. Here’s What Happened to My Productivity &lpar;And My Sanity&rpar;](https://medium.com/@liveyourfantasy0/i-replaced-google-with-ai-for-30-days-heres-what-happened-to-my-productivity-and-my-sanity-7012c0561d9e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why LinkedIn Is Becoming Less Effective for Hiring in 2026](https://medium.com/@iriskedemfederman/why-linkedin-is-becoming-less-effective-for-hiring-in-2026-ab630126f239?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic Engineering 101: Roles, Contracts &amp; Failure Modes](https://medium.com/@a21ai/agentic-engineering-101-roles-contracts-failure-modes-356e40a1bc85?source=rss------artificial_intelligence-5)**
+> 🔹 **[6 AI Automation Tools I Tested for 30 Days — My Honest Review &lpar;2026&rpar;](https://medium.com/@hinabhatti963/6-ai-automation-tools-i-tested-for-30-days-my-honest-review-2026-6c6d5073ca77?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Microservices Are Talking Fine — Until One Service Goes Down](https://medium.com/@ritanshbagal/your-microservices-are-talking-fine-until-one-service-goes-down-f4f815f02f46?source=rss------backend_development-5)**
+> 🔹 **[The Real Meaning of an AI-Native Brand](https://medium.com/@darren_83346/the-real-meaning-of-an-ai-native-brand-f3d425a08eb2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Trust Is the New Currency](https://medium.com/@darren_83346/trust-is-the-new-currency-d15383bfd574?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Cannot Be Deferred — Ehsan Saboohi](https://medium.com/@e.saboohi/what-cannot-be-deferred-ehsan-saboohi-db7eeb652657?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
