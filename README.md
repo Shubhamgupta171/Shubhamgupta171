@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Replaced Google With AI for 30 Days. Here’s What Happened to My Productivity &lpar;And My Sanity&rpar;](https://medium.com/@liveyourfantasy0/i-replaced-google-with-ai-for-30-days-heres-what-happened-to-my-productivity-and-my-sanity-7012c0561d9e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why LinkedIn Is Becoming Less Effective for Hiring in 2026](https://medium.com/@iriskedemfederman/why-linkedin-is-becoming-less-effective-for-hiring-in-2026-ab630126f239?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentic Engineering 101: Roles, Contracts &amp; Failure Modes](https://medium.com/@a21ai/agentic-engineering-101-roles-contracts-failure-modes-356e40a1bc85?source=rss------artificial_intelligence-5)**
-> 🔹 **[6 AI Automation Tools I Tested for 30 Days — My Honest Review &lpar;2026&rpar;](https://medium.com/@hinabhatti963/6-ai-automation-tools-i-tested-for-30-days-my-honest-review-2026-6c6d5073ca77?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Microservices Are Talking Fine — Until One Service Goes Down](https://medium.com/@ritanshbagal/your-microservices-are-talking-fine-until-one-service-goes-down-f4f815f02f46?source=rss------backend_development-5)**
-> 🔹 **[The Real Meaning of an AI-Native Brand](https://medium.com/@darren_83346/the-real-meaning-of-an-ai-native-brand-f3d425a08eb2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Trust Is the New Currency](https://medium.com/@darren_83346/trust-is-the-new-currency-d15383bfd574?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Cannot Be Deferred — Ehsan Saboohi](https://medium.com/@e.saboohi/what-cannot-be-deferred-ehsan-saboohi-db7eeb652657?source=rss------artificial_intelligence-5)**
+> 🔹 **[I just wanted to download a `.char` file.](https://medium.com/@veather256/i-just-wanted-to-download-a-char-file-27fcd027d9d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Changes How Humans Interpret Reality](https://medium.com/@msnickydare/ai-changes-how-humans-interpret-reality-006c1e062544?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Magnificent Paradox](https://ai.gopubby.com/the-magnificent-paradox-4d2e9a07da4e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Data Doesn’t Lie. But Your Brain Does.](https://medium.com/@ayushi.gajendra.tech/data-doesnt-lie-but-your-brain-does-8eb9864cd512?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Revolution: What It Means for Us Today](https://medium.com/@omershafique/the-ai-revolution-what-it-means-for-us-today-b75dc21b6651?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Use Medium to Sell Products Without It Feeling Like an Ad](https://medium.com/@bohkhonggoh/how-i-use-medium-to-sell-products-without-it-feeling-like-an-ad-01f2114081a3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Bitter Lesson 2.0: How the AI Race Was Won by the Shopkeeper, Not the Sorcerer](https://medium.com/@kakadaaryan10/the-bitter-lesson-2-0-how-the-ai-race-was-won-by-the-shopkeeper-not-the-sorcerer-5514727d914b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Anthropic’s Dilemmas](https://medium.com/@antarex/anthropics-dilemmas-d58e990bc126?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
