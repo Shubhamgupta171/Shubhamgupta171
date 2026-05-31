@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I just wanted to download a `.char` file.](https://medium.com/@veather256/i-just-wanted-to-download-a-char-file-27fcd027d9d2?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Changes How Humans Interpret Reality](https://medium.com/@msnickydare/ai-changes-how-humans-interpret-reality-006c1e062544?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Magnificent Paradox](https://ai.gopubby.com/the-magnificent-paradox-4d2e9a07da4e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Data Doesn’t Lie. But Your Brain Does.](https://medium.com/@ayushi.gajendra.tech/data-doesnt-lie-but-your-brain-does-8eb9864cd512?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Revolution: What It Means for Us Today](https://medium.com/@omershafique/the-ai-revolution-what-it-means-for-us-today-b75dc21b6651?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Use Medium to Sell Products Without It Feeling Like an Ad](https://medium.com/@bohkhonggoh/how-i-use-medium-to-sell-products-without-it-feeling-like-an-ad-01f2114081a3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Bitter Lesson 2.0: How the AI Race Was Won by the Shopkeeper, Not the Sorcerer](https://medium.com/@kakadaaryan10/the-bitter-lesson-2-0-how-the-ai-race-was-won-by-the-shopkeeper-not-the-sorcerer-5514727d914b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Anthropic’s Dilemmas](https://medium.com/@antarex/anthropics-dilemmas-d58e990bc126?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Tradespeople Are Losing Jobs Before They Even Start](https://medium.com/@tommy_3703/why-tradespeople-are-losing-jobs-before-they-even-start-8b0ee952b579?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Cybersecurity Threats That Will Hit Your Organization in 2026 — And the Toolkit That Stops Th...](https://medium.com/illumination/5-cybersecurity-threats-that-will-hit-your-organization-in-2026-and-the-toolkit-that-stops-them-b35f81a2eafe?source=rss------artificial_intelligence-5)**
+> 🔹 **[LeetCode taught us to solve, LeetPal will help with what to solve next!](https://medium.com/@dwivedimav/leetcode-taught-us-to-solve-leetpal-will-help-with-what-to-solve-next-cb6ac92e23f3?source=rss------data_structures-5)**
+> 🔹 **[AI ve Blockchain: İki Dev Teknolojinin Kesişimi Part-3](https://medium.com/aim-journal/ai-ve-blockchain-i%CC%87ki-dev-teknolojinin-kesi%C5%9Fimi-part-3-9a0eb2b432fa?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 15 AI Agent Companies Shipping to Production in the USA](https://medium.com/@pratik-rupareliya/ai-agent-companies-shipping-to-production-in-the-usa-901535c529d6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Predictive Shield: Deploying Infrastructure-Level AI for Risk Management in 2026](https://medium.com/@microbeekorea/predictive-shield-deploying-infrastructure-level-ai-for-risk-management-in-2026-438a8f14733d?source=rss------artificial_intelligence-5)**
+> 🔹 **[There Were 11 People in the Meeting. Four of Them Weren’t People.](https://medium.com/@Hiro.Y/there-were-11-people-in-the-meeting-four-of-them-werent-people-c57c610def42?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why smart people still make terrible decisions with AI](https://medium.com/readers-club/why-smart-people-still-make-terrible-decisions-with-ai-8a67ec2718f2?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
