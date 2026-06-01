@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Artificial Intelligence is facing a massive supply-chain crisis: the internet is running out of...](https://medium.com/@digitalScientist/artificial-intelligence-is-facing-a-massive-supply-chain-crisis-the-internet-is-running-out-of-cbdcfa2e11cb?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Ran Claude Code on My MacBook With vllm-mlx — It Embarrassed llama.cpp by 87%](https://medium.com/@chewloongnian/i-ran-claude-code-on-my-macbook-with-vllm-mlx-it-embarrassed-llama-cpp-by-87-093e8c777826?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Team Is Building the Wrong Thing. Here’s What That’s Actually Costing You](https://brunokatekawa.medium.com/your-team-is-building-the-wrong-thing-heres-what-that-s-actually-costing-you-750bf57237cb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Action Veo 3 Prompts for Cinematic AI Scenes](https://medium.com/@altbinge1090/action-veo-3-prompts-for-cinematic-ai-scenes-c8b9722f7a3b?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Create Content Every Day Without Burning Out &lpar;A Simple AI Workflow for Creators&rpar;](https://medium.com/@luckylaunchlab/how-to-create-content-every-day-without-burning-out-a-simple-ai-workflow-for-creators-bd01881dcec8?source=rss------artificial_intelligence-5)**
-> 🔹 **[#32 Memory Architecture for AI Agents — Part 1](https://phaneendrakn.medium.com/32-memory-architecture-for-ai-agents-part-1-5d6337a84366?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Open Rate Doubled When AI Made My Subject Lines Boring](https://lisa-honda.medium.com/my-open-rate-doubled-when-ai-made-my-subject-lines-boring-fb526a2697d9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Escaping the Valley of Choice in BI](https://towardsdatascience.com/escaping-the-valley-of-choice-in-bi-how-agentic-bi-will-kill-data-analysts/)**
+> 🔹 **[Claude 101: Claude For Dummies.](https://medium.com/@rajeev001/claude-101-claude-for-dummies-49cf0ce15e31?source=rss------artificial_intelligence-5)**
+> 🔹 **[⚔️OpenAI vs. Anthropic Is Becoming a $100 Million Political Fight](https://yaro360.medium.com/%EF%B8%8Fopenai-vs-anthropic-is-becoming-a-100-million-political-fight-0d4816e02631?source=rss------artificial_intelligence-5)**
+> 🔹 **[Predicting AI Progress: A Sharp-Edged Framework for Product Leaders](https://medium.com/@curiousmind1786/predicting-ai-progress-a-sharp-edged-framework-for-product-leaders-3b551b1b7c99?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Security Is No Longer Theoretical: What EchoLeak, Gemini, Cursor, Meta, and Vercel Are Alrea...](https://medium.com/@adityaladage/ai-security-is-no-longer-theoretical-what-echoleak-gemini-cursor-meta-and-vercel-are-already-57545ba5b8c3?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If AI Investigated: The Fourteen Days — What Dellacroce’s Death Made Possible](https://medium.com/what-if-ai-investigated/what-if-ai-investigated-the-fourteen-days-what-dellacroces-death-made-possible-f2b6486f2617?source=rss------artificial_intelligence-5)**
+> 🔹 **[Slow Down to Think Forward](https://medium.com/@malak_atut/slow-down-to-think-forward-8de8eb576b25?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Data Centers Could Produce 23 Atomic Bombs of Heat a Day.](https://medium.com/@Reiki32/ai-data-centers-could-produce-23-atomic-bombs-of-heat-a-day-36ed230c8dfc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Yapay Zekâ Bir Bedene Sahip Olsaydı Ne Olurdu?](https://medium.com/@edaasahiin7/yapay-zek%C3%A2-bir-bedene-sahip-olsayd%C4%B1-ne-olurdu-298cb67dbe45?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
