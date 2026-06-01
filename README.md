@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[IPL Final at Internet Scale: A System Design Story of Hotstar, AWS, and Real-Time Streaming](https://medium.com/@singhvikki870/ipl-final-at-internet-scale-a-system-design-story-of-hotstar-aws-and-real-time-streaming-487a2f1948da?source=rss------backend_development-5)**
-> 🔹 **[Deep Learning for Bengali: From Theory to Practice with Annotated Data](https://medium.com/@bd.mkhm/deep-learning-for-bengali-from-theory-to-practice-with-annotated-data-6fef7ecd4eff?source=rss------artificial_intelligence-5)**
-> 🔹 **[What UX design taught me about research in the wild, and why people do strange, useful things w...](https://medium.com/@resonance.heals/what-ux-design-taught-me-about-research-in-the-wild-and-why-people-do-strange-useful-things-with-d62d078efb3d?source=rss------system_design-5)**
-> 🔹 **[El futuro de los Sistemas de diseño](https://caro-rooch.medium.com/el-futuro-de-los-sistemas-de-dise%C3%B1o-ad283cbdfe98?source=rss------system_design-5)**
-> 🔹 **[How ChatGPT Really Works](https://medium.com/@itsmekhushboo011/how-chatgpt-really-works-4a14b964424a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building Learning Systems That Drive Business Performance](https://rakshathimmaiah213.medium.com/building-learning-systems-that-drive-business-performance-0f0227070225?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Mockingbird’s Song](https://giftednd.medium.com/the-mockingbirds-song-4b1b74a59a11?source=rss------artificial_intelligence-5)**
-> 🔹 **[Prompt Accepted #01: These 0 Prompts Will Change Your Life](https://medium.com/@eriktankw/prompt-accepted-01-these-0-prompts-will-change-your-life-2c895a536030?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence is facing a massive supply-chain crisis: the internet is running out of...](https://medium.com/@digitalScientist/artificial-intelligence-is-facing-a-massive-supply-chain-crisis-the-internet-is-running-out-of-cbdcfa2e11cb?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Ran Claude Code on My MacBook With vllm-mlx — It Embarrassed llama.cpp by 87%](https://medium.com/@chewloongnian/i-ran-claude-code-on-my-macbook-with-vllm-mlx-it-embarrassed-llama-cpp-by-87-093e8c777826?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Team Is Building the Wrong Thing. Here’s What That’s Actually Costing You](https://brunokatekawa.medium.com/your-team-is-building-the-wrong-thing-heres-what-that-s-actually-costing-you-750bf57237cb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Action Veo 3 Prompts for Cinematic AI Scenes](https://medium.com/@altbinge1090/action-veo-3-prompts-for-cinematic-ai-scenes-c8b9722f7a3b?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Create Content Every Day Without Burning Out &lpar;A Simple AI Workflow for Creators&rpar;](https://medium.com/@luckylaunchlab/how-to-create-content-every-day-without-burning-out-a-simple-ai-workflow-for-creators-bd01881dcec8?source=rss------artificial_intelligence-5)**
+> 🔹 **[#32 Memory Architecture for AI Agents — Part 1](https://phaneendrakn.medium.com/32-memory-architecture-for-ai-agents-part-1-5d6337a84366?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Open Rate Doubled When AI Made My Subject Lines Boring](https://lisa-honda.medium.com/my-open-rate-doubled-when-ai-made-my-subject-lines-boring-fb526a2697d9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Escaping the Valley of Choice in BI](https://towardsdatascience.com/escaping-the-valley-of-choice-in-bi-how-agentic-bi-will-kill-data-analysts/)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
