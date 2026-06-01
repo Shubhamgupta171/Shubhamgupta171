@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Tradespeople Are Losing Jobs Before They Even Start](https://medium.com/@tommy_3703/why-tradespeople-are-losing-jobs-before-they-even-start-8b0ee952b579?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Cybersecurity Threats That Will Hit Your Organization in 2026 — And the Toolkit That Stops Th...](https://medium.com/illumination/5-cybersecurity-threats-that-will-hit-your-organization-in-2026-and-the-toolkit-that-stops-them-b35f81a2eafe?source=rss------artificial_intelligence-5)**
-> 🔹 **[LeetCode taught us to solve, LeetPal will help with what to solve next!](https://medium.com/@dwivedimav/leetcode-taught-us-to-solve-leetpal-will-help-with-what-to-solve-next-cb6ac92e23f3?source=rss------data_structures-5)**
-> 🔹 **[AI ve Blockchain: İki Dev Teknolojinin Kesişimi Part-3](https://medium.com/aim-journal/ai-ve-blockchain-i%CC%87ki-dev-teknolojinin-kesi%C5%9Fimi-part-3-9a0eb2b432fa?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 15 AI Agent Companies Shipping to Production in the USA](https://medium.com/@pratik-rupareliya/ai-agent-companies-shipping-to-production-in-the-usa-901535c529d6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Predictive Shield: Deploying Infrastructure-Level AI for Risk Management in 2026](https://medium.com/@microbeekorea/predictive-shield-deploying-infrastructure-level-ai-for-risk-management-in-2026-438a8f14733d?source=rss------artificial_intelligence-5)**
-> 🔹 **[There Were 11 People in the Meeting. Four of Them Weren’t People.](https://medium.com/@Hiro.Y/there-were-11-people-in-the-meeting-four-of-them-werent-people-c57c610def42?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why smart people still make terrible decisions with AI](https://medium.com/readers-club/why-smart-people-still-make-terrible-decisions-with-ai-8a67ec2718f2?source=rss------artificial_intelligence-5)**
+> 🔹 **[IPL Final at Internet Scale: A System Design Story of Hotstar, AWS, and Real-Time Streaming](https://medium.com/@singhvikki870/ipl-final-at-internet-scale-a-system-design-story-of-hotstar-aws-and-real-time-streaming-487a2f1948da?source=rss------backend_development-5)**
+> 🔹 **[Deep Learning for Bengali: From Theory to Practice with Annotated Data](https://medium.com/@bd.mkhm/deep-learning-for-bengali-from-theory-to-practice-with-annotated-data-6fef7ecd4eff?source=rss------artificial_intelligence-5)**
+> 🔹 **[What UX design taught me about research in the wild, and why people do strange, useful things w...](https://medium.com/@resonance.heals/what-ux-design-taught-me-about-research-in-the-wild-and-why-people-do-strange-useful-things-with-d62d078efb3d?source=rss------system_design-5)**
+> 🔹 **[El futuro de los Sistemas de diseño](https://caro-rooch.medium.com/el-futuro-de-los-sistemas-de-dise%C3%B1o-ad283cbdfe98?source=rss------system_design-5)**
+> 🔹 **[How ChatGPT Really Works](https://medium.com/@itsmekhushboo011/how-chatgpt-really-works-4a14b964424a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building Learning Systems That Drive Business Performance](https://rakshathimmaiah213.medium.com/building-learning-systems-that-drive-business-performance-0f0227070225?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Mockingbird’s Song](https://giftednd.medium.com/the-mockingbirds-song-4b1b74a59a11?source=rss------artificial_intelligence-5)**
+> 🔹 **[Prompt Accepted #01: These 0 Prompts Will Change Your Life](https://medium.com/@eriktankw/prompt-accepted-01-these-0-prompts-will-change-your-life-2c895a536030?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
