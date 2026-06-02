@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The 20-Agent Chaos: Why “Vibe Operations” Fail Without an Enterprise Ontology](https://medium.com/@info_69552/the-20-agent-chaos-why-vibe-operations-fail-without-an-enterprise-ontology-a7f302795136?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Notes from AWS Summit Bangkok 2026](https://developers.ascendcorp.com/my-notes-from-aws-summit-bangkok-2026-63119e1b8c84?source=rss------backend_development-5)**
-> 🔹 **[I Built an AI That Screens Resumes — Then I Fed It My Own. It Wasn’t Kind.](https://medium.com/@m.osamanoor/i-built-an-ai-that-screens-resumes-then-i-fed-it-my-own-it-wasnt-kind-d947ba72e4f5?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Anthropic’s AI Fluency Index Says About How We Actually Use AI](https://medium.com/autocomplete-real-world-ai/what-anthropics-ai-fluency-index-says-about-how-we-actually-use-ai-635b2effb005?source=rss------artificial_intelligence-5)**
-> 🔹 **[✨ 1-Click Rewriter Pro Review: The Content Creation Breakthrough Digital Entrepreneurs Have Bee...](https://medium.com/@snap.business.1100/1-click-rewriter-pro-review-the-content-creation-breakthrough-digital-entrepreneurs-have-been-25aa67963cef?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Prometheus Paradox:
-Will Our Brightest Innovation Ignite Our Ultimate Downfall?](https://medium.com/@suatdinc23/the-prometheus-paradox-will-our-brightest-innovation-ignite-our-ultimate-downfall-05240995fc53?source=rss------artificial_intelligence-5)**
-> 🔹 **[Alphabet’s $80 Billion AI Infrastructure Push Signals the Next Phase of the Artificial Intellig...](https://medium.com/@richwebs.in/alphabets-80-billion-ai-infrastructure-push-signals-the-next-phase-of-the-artificial-intelligence-649bbef30204?source=rss------artificial_intelligence-5)**
-> 🔹 **[167% Returns, 87%+ Win Rates &amp; Faster AI Agents — How Tickeron Robots Are Reading the Next Mark...](https://medium.com/@skyinboxx1986/167-returns-87-win-rates-faster-ai-agents-how-tickeron-robots-are-reading-the-next-market-ae9a489e7132?source=rss------artificial_intelligence-5)**
+> 🔹 **[How We Reduced AI Token Usage by 95% Without Upgrading Models: The Architecture Every Engineeri...](https://medium.com/@joyalsaji/how-we-reduced-ai-token-usage-by-95-without-upgrading-models-the-architecture-every-engineering-48b275c7c04b?source=rss------artificial_intelligence-5)**
+> 🔹 **[LangChain vs CrewAI: A Backend Engineer’s Decision](https://singhamrit.medium.com/langchain-vs-crewai-a-backend-engineers-decision-c90ed1e013c5?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Last Shield: Why Justice Still Requires Human Eyes](https://medium.com/@pablovieirap/the-last-shield-why-justice-still-requires-human-eyes-be6e2276e9e5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Are You Doing Enough to Prepare Your Students for the AI Revolution?](https://medium.com/@smlalinfo/are-you-doing-enough-to-prepare-your-students-for-the-ai-revolution-d0e61de5c5af?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I made $335,000 from Pinterest Best way to earn in 2026](https://medium.com/@shabmemon27/how-i-made-335-000-from-pinterest-best-way-to-earn-in-2026-3b8ebea6dcc2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Best of CVPR 2026: Cosmos Edition -Part 5](https://medium.com/@paularamos_phd/the-best-of-cvpr-2026-cosmos-edition-part-5-f2b9ec87f6d4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Acorn of Reality](https://medium.com/@terryshamilton/the-acorn-of-reality-01f1f7f2b22d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence Wants More Light. But Who Will Count the Darkness?](https://medium.com/@arnulfo_pinacho458/artificial-intelligence-wants-more-light-but-who-will-count-the-darkness-b672f34fec4c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
