@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What it takes to be a player in the international AI game​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍...](https://stackoverflow.blog/2026/06/02/be-a-player-in-the-international-ai-game/)**
-> 🔹 **[What UX design taught me about conceptual models, and why a product should not feel like a box...](https://medium.com/@resonance.heals/what-ux-design-taught-me-about-conceptual-models-and-why-a-product-should-not-feel-like-a-box-of-5e672976bed3?source=rss------system_design-5)**
-> 🔹 **[The Hidden Cost of Messy Figma Files](https://medium.com/@evanch98/the-hidden-cost-of-messy-figma-files-759f0a41d792?source=rss------system_design-5)**
-> 🔹 **[The Way from Idea to Product](https://x-chunk.medium.com/the-way-from-idea-to-product-3f035c9ec86b?source=rss------system_design-5)**
-> 🔹 **[Bulan Mei di ‘Berbagi dan Berdampak’ , Berbagi Ruang untuk Bertumbuh Bersama](https://medium.com/berbagi-berdampak/bulan-mei-di-berbagi-dan-berdampak-berbagi-ruang-untuk-bertumbuh-bersama-5b4380c76766?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Ledger to Live System: Turning SentinelLedger into a Real-Time Fraud Monitoring Platform](https://medium.com/@niranthar3/from-ledger-to-live-system-turning-sentinelledger-into-a-real-time-fraud-monitoring-platform-51b6232f6490?source=rss------backend_development-5)**
-> 🔹 **[The Resume Was Invented in 1482. We’re Still Using it to Hire Ai Engineers in 2025.](https://medium.com/@praveshjain553/the-resume-was-invented-in-1482-were-still-using-it-to-hire-ai-engineers-in-2025-76110a103ac4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who Deserves Credit When a Phone Has 100,000 Patents?](https://joyboseroy.medium.com/who-deserves-credit-when-a-phone-has-100-000-patents-9d17b83b40cb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 20-Agent Chaos: Why “Vibe Operations” Fail Without an Enterprise Ontology](https://medium.com/@info_69552/the-20-agent-chaos-why-vibe-operations-fail-without-an-enterprise-ontology-a7f302795136?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Notes from AWS Summit Bangkok 2026](https://developers.ascendcorp.com/my-notes-from-aws-summit-bangkok-2026-63119e1b8c84?source=rss------backend_development-5)**
+> 🔹 **[I Built an AI That Screens Resumes — Then I Fed It My Own. It Wasn’t Kind.](https://medium.com/@m.osamanoor/i-built-an-ai-that-screens-resumes-then-i-fed-it-my-own-it-wasnt-kind-d947ba72e4f5?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Anthropic’s AI Fluency Index Says About How We Actually Use AI](https://medium.com/autocomplete-real-world-ai/what-anthropics-ai-fluency-index-says-about-how-we-actually-use-ai-635b2effb005?source=rss------artificial_intelligence-5)**
+> 🔹 **[✨ 1-Click Rewriter Pro Review: The Content Creation Breakthrough Digital Entrepreneurs Have Bee...](https://medium.com/@snap.business.1100/1-click-rewriter-pro-review-the-content-creation-breakthrough-digital-entrepreneurs-have-been-25aa67963cef?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Prometheus Paradox:
+Will Our Brightest Innovation Ignite Our Ultimate Downfall?](https://medium.com/@suatdinc23/the-prometheus-paradox-will-our-brightest-innovation-ignite-our-ultimate-downfall-05240995fc53?source=rss------artificial_intelligence-5)**
+> 🔹 **[Alphabet’s $80 Billion AI Infrastructure Push Signals the Next Phase of the Artificial Intellig...](https://medium.com/@richwebs.in/alphabets-80-billion-ai-infrastructure-push-signals-the-next-phase-of-the-artificial-intelligence-649bbef30204?source=rss------artificial_intelligence-5)**
+> 🔹 **[167% Returns, 87%+ Win Rates &amp; Faster AI Agents — How Tickeron Robots Are Reading the Next Mark...](https://medium.com/@skyinboxx1986/167-returns-87-win-rates-faster-ai-agents-how-tickeron-robots-are-reading-the-next-market-ae9a489e7132?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
