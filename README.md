@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How We Reduced AI Token Usage by 95% Without Upgrading Models: The Architecture Every Engineeri...](https://medium.com/@joyalsaji/how-we-reduced-ai-token-usage-by-95-without-upgrading-models-the-architecture-every-engineering-48b275c7c04b?source=rss------artificial_intelligence-5)**
-> 🔹 **[LangChain vs CrewAI: A Backend Engineer’s Decision](https://singhamrit.medium.com/langchain-vs-crewai-a-backend-engineers-decision-c90ed1e013c5?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Last Shield: Why Justice Still Requires Human Eyes](https://medium.com/@pablovieirap/the-last-shield-why-justice-still-requires-human-eyes-be6e2276e9e5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Are You Doing Enough to Prepare Your Students for the AI Revolution?](https://medium.com/@smlalinfo/are-you-doing-enough-to-prepare-your-students-for-the-ai-revolution-d0e61de5c5af?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I made $335,000 from Pinterest Best way to earn in 2026](https://medium.com/@shabmemon27/how-i-made-335-000-from-pinterest-best-way-to-earn-in-2026-3b8ebea6dcc2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Best of CVPR 2026: Cosmos Edition -Part 5](https://medium.com/@paularamos_phd/the-best-of-cvpr-2026-cosmos-edition-part-5-f2b9ec87f6d4?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Acorn of Reality](https://medium.com/@terryshamilton/the-acorn-of-reality-01f1f7f2b22d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence Wants More Light. But Who Will Count the Darkness?](https://medium.com/@arnulfo_pinacho458/artificial-intelligence-wants-more-light-but-who-will-count-the-darkness-b672f34fec4c?source=rss------artificial_intelligence-5)**
+> 🔹 **[SIGNARY: Challenging Digital Standardization](https://medium.com/design-bootcamp/signary-challenging-digital-standardization-f36630479792?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Unpredictable Rise of AI](https://medium.com/writers-blokke/the-unpredictable-rise-of-ai-6250ee0ad35d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Subscription Tax Is Coming for Non-Technical Users](https://medium.com/@wonderingmax/the-ai-subscription-tax-is-coming-for-non-technical-users-d051697631ac?source=rss------artificial_intelligence-5)**
+> 🔹 **[Prompt Engineering Is Over. Context Engineering Is What Actually Makes AI Smart.](https://muhammadtaha01.medium.com/prompt-engineering-is-over-context-engineering-is-what-actually-makes-ai-smart-4c907716a6e8?source=rss------artificial_intelligence-5)**
+> 🔹 **[SIGNARY: Desafiando la estandarización digital](https://medium.com/@maurorapisardi/signary-desafiando-la-estandarizaci%C3%B3n-digital-ee615f32db5b?source=rss------artificial_intelligence-5)**
+> 🔹 **[We’re Having Fake Conversations about AI](https://seanamcclure.medium.com/were-having-fake-conversations-about-ai-eed62662aba6?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Protocol Is Live](https://medium.com/@cycgroup.ai/the-protocol-is-live-2c8f57a8bc19?source=rss------artificial_intelligence-5)**
+> 🔹 **[People told me my English degree would be useless.](https://dxnnyperez.medium.com/people-told-me-my-english-degree-would-be-useless-0d24e60a208d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
