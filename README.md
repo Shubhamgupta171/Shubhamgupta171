@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Claude 101: Claude For Dummies.](https://medium.com/@rajeev001/claude-101-claude-for-dummies-49cf0ce15e31?source=rss------artificial_intelligence-5)**
-> 🔹 **[⚔️OpenAI vs. Anthropic Is Becoming a $100 Million Political Fight](https://yaro360.medium.com/%EF%B8%8Fopenai-vs-anthropic-is-becoming-a-100-million-political-fight-0d4816e02631?source=rss------artificial_intelligence-5)**
-> 🔹 **[Predicting AI Progress: A Sharp-Edged Framework for Product Leaders](https://medium.com/@curiousmind1786/predicting-ai-progress-a-sharp-edged-framework-for-product-leaders-3b551b1b7c99?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Security Is No Longer Theoretical: What EchoLeak, Gemini, Cursor, Meta, and Vercel Are Alrea...](https://medium.com/@adityaladage/ai-security-is-no-longer-theoretical-what-echoleak-gemini-cursor-meta-and-vercel-are-already-57545ba5b8c3?source=rss------artificial_intelligence-5)**
-> 🔹 **[What If AI Investigated: The Fourteen Days — What Dellacroce’s Death Made Possible](https://medium.com/what-if-ai-investigated/what-if-ai-investigated-the-fourteen-days-what-dellacroces-death-made-possible-f2b6486f2617?source=rss------artificial_intelligence-5)**
-> 🔹 **[Slow Down to Think Forward](https://medium.com/@malak_atut/slow-down-to-think-forward-8de8eb576b25?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Data Centers Could Produce 23 Atomic Bombs of Heat a Day.](https://medium.com/@Reiki32/ai-data-centers-could-produce-23-atomic-bombs-of-heat-a-day-36ed230c8dfc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Yapay Zekâ Bir Bedene Sahip Olsaydı Ne Olurdu?](https://medium.com/@edaasahiin7/yapay-zek%C3%A2-bir-bedene-sahip-olsayd%C4%B1-ne-olurdu-298cb67dbe45?source=rss------artificial_intelligence-5)**
+> 🔹 **[What it takes to be a player in the international AI game​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍...](https://stackoverflow.blog/2026/06/02/be-a-player-in-the-international-ai-game/)**
+> 🔹 **[What UX design taught me about conceptual models, and why a product should not feel like a box...](https://medium.com/@resonance.heals/what-ux-design-taught-me-about-conceptual-models-and-why-a-product-should-not-feel-like-a-box-of-5e672976bed3?source=rss------system_design-5)**
+> 🔹 **[The Hidden Cost of Messy Figma Files](https://medium.com/@evanch98/the-hidden-cost-of-messy-figma-files-759f0a41d792?source=rss------system_design-5)**
+> 🔹 **[The Way from Idea to Product](https://x-chunk.medium.com/the-way-from-idea-to-product-3f035c9ec86b?source=rss------system_design-5)**
+> 🔹 **[Bulan Mei di ‘Berbagi dan Berdampak’ , Berbagi Ruang untuk Bertumbuh Bersama](https://medium.com/berbagi-berdampak/bulan-mei-di-berbagi-dan-berdampak-berbagi-ruang-untuk-bertumbuh-bersama-5b4380c76766?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Ledger to Live System: Turning SentinelLedger into a Real-Time Fraud Monitoring Platform](https://medium.com/@niranthar3/from-ledger-to-live-system-turning-sentinelledger-into-a-real-time-fraud-monitoring-platform-51b6232f6490?source=rss------backend_development-5)**
+> 🔹 **[The Resume Was Invented in 1482. We’re Still Using it to Hire Ai Engineers in 2025.](https://medium.com/@praveshjain553/the-resume-was-invented-in-1482-were-still-using-it-to-hire-ai-engineers-in-2025-76110a103ac4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who Deserves Credit When a Phone Has 100,000 Patents?](https://joyboseroy.medium.com/who-deserves-credit-when-a-phone-has-100-000-patents-9d17b83b40cb?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
