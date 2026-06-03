@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Technovators: The Age of AI Leaders -The Future of Human Leadership in Artificially Intelligent...](https://medium.com/@iamgaurava_84612/technovators-the-age-of-ai-leaders-the-future-of-human-leadership-in-artificially-intelligent-588c9d7f819a?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Recruitment Platforms Are Transforming Modern Hiring in 2026](https://medium.com/@taurusai/how-ai-recruitment-platforms-are-transforming-modern-hiring-in-2026-8e4768d50742?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Rise of Robotic Instinct: How Acorn Robot Is Breaking AI’s Bottleneck](https://luluyan.medium.com/the-rise-of-robotic-instinct-how-acorn-robot-is-breaking-ais-bottleneck-419a78a9a019?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Ledger That Never Sleeps: Why ‘UPDATE balance’ is a Financial Anti-Pattern](https://medium.com/@manvee.2603/the-ledger-that-never-sleeps-why-update-balance-is-a-financial-anti-pattern-b3a44c9c34b7?source=rss------backend_development-5)**
-> 🔹 **[Storycrafters Magazine’s 30 Best Futuristic AI Startup Ideas](https://medium.com/@iamgaurava_84612/storycrafters-magazines-30-best-futuristic-ai-startup-ideas-fff8e2636ac2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Five Laws of AI Governance](https://pharns.medium.com/the-five-laws-of-ai-governance-63c79a18a1a7?source=rss------artificial_intelligence-5)**
-> 🔹 **[10 Claude Prompts That Save Me 5 Hours Every Week](https://medium.com/@connect.vasanth25/10-claude-prompts-that-save-me-5-hours-every-week-6a461ca21b4c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Will AI Take My Job in 2027?](https://medium.com/@apkdera/will-ai-take-my-job-in-2027-056e1da2094b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Quiet Complexity of Patent Docketing &lpar;and Why It’s Harder to Automate Than It Looks&rpar;](https://medium.com/@sundeepgogia/the-quiet-complexity-of-patent-docketing-and-why-its-harder-to-automate-than-it-looks-af7fbafe4ff7?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Integration Services for Enterprises: Driving Innovation and Operational Efficiency | SyanSo...](https://medium.com/@Syansoft/ai-integration-services-for-enterprises-driving-innovation-and-operational-efficiency-syansoft-e57f48435ff7?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Full React Native App with Cursor and Claude Code — Here’s What Actually Happened](https://medium.com/react-native-journal/i-built-a-full-react-native-app-with-cursor-and-claude-code-heres-what-actually-happened-62bfa0aa06da?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI in Campus Hiring: How Redrob AI Helps Students Get Placed Faster](https://medium.com/@bhushan_65957/ai-in-campus-hiring-how-redrob-ai-helps-students-get-placed-faster-1a0c7f586dec?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Changing the Role of QA Engineers](https://medium.com/axonect-blog/how-ai-is-changing-the-role-of-qa-engineers-d1b56ba44c59?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Automated My 40-Person Business in 30 Days. Here&#39;s What Each Week Looked Like.](https://medium.com/@colakang/i-automated-my-40-person-business-in-30-days-heres-what-each-week-looked-like-7fec8cff78dc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Risk of Python + AI Systems &lpar;Nobody Talks About This&rpar;](https://medium.com/@pranavprakash4777/the-hidden-risk-of-python-ai-systems-nobody-talks-about-this-780fd169ad0f?source=rss------system_design-5)**
+> 🔹 **[Your AI coding agent has never seen your UI. Here is the bridge I built.](https://medium.com/@gsharma7078969894/your-ai-coding-agent-has-never-seen-your-ui-here-is-the-bridge-i-built-12384b56cb11?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
