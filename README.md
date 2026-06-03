@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Quiet Complexity of Patent Docketing &lpar;and Why It’s Harder to Automate Than It Looks&rpar;](https://medium.com/@sundeepgogia/the-quiet-complexity-of-patent-docketing-and-why-its-harder-to-automate-than-it-looks-af7fbafe4ff7?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Integration Services for Enterprises: Driving Innovation and Operational Efficiency | SyanSo...](https://medium.com/@Syansoft/ai-integration-services-for-enterprises-driving-innovation-and-operational-efficiency-syansoft-e57f48435ff7?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a Full React Native App with Cursor and Claude Code — Here’s What Actually Happened](https://medium.com/react-native-journal/i-built-a-full-react-native-app-with-cursor-and-claude-code-heres-what-actually-happened-62bfa0aa06da?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI in Campus Hiring: How Redrob AI Helps Students Get Placed Faster](https://medium.com/@bhushan_65957/ai-in-campus-hiring-how-redrob-ai-helps-students-get-placed-faster-1a0c7f586dec?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Is Changing the Role of QA Engineers](https://medium.com/axonect-blog/how-ai-is-changing-the-role-of-qa-engineers-d1b56ba44c59?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Automated My 40-Person Business in 30 Days. Here&#39;s What Each Week Looked Like.](https://medium.com/@colakang/i-automated-my-40-person-business-in-30-days-heres-what-each-week-looked-like-7fec8cff78dc?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Risk of Python + AI Systems &lpar;Nobody Talks About This&rpar;](https://medium.com/@pranavprakash4777/the-hidden-risk-of-python-ai-systems-nobody-talks-about-this-780fd169ad0f?source=rss------system_design-5)**
-> 🔹 **[Your AI coding agent has never seen your UI. Here is the bridge I built.](https://medium.com/@gsharma7078969894/your-ai-coding-agent-has-never-seen-your-ui-here-is-the-bridge-i-built-12384b56cb11?source=rss------artificial_intelligence-5)**
+> 🔹 **[Latest Cybersecurity Breach Data](https://matthew-rosenquist.medium.com/latest-cybersecurity-breach-data-500ee756a340?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Knife and the Synthesis: How AI is executing the silent expulsion of women](https://medium.com/@brendamolinari/the-knife-and-the-synthesis-how-ai-is-executing-the-silent-expulsion-of-women-3fb5edd34b63?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Built an AI Agent That Eliminated 80% of Manual Reporting Work](https://medium.com/@sagarpatidar7190/how-i-built-an-ai-agent-that-eliminated-80-of-manual-reporting-work-90f2ed0c39f9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Cloud Was the Bottleneck: Why AI Agents Need Hybrid Inference](https://medium.com/data-science-collective/the-cloud-was-the-bottleneck-why-ai-agents-need-hybrid-inference-73241cf8b0f7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 2: Slicing the Text — What is Tokenization and Why Does It Matter?](https://medium.com/@alamshoaib134/day-2-slicing-the-text-what-is-tokenization-and-why-does-it-matter-54d3f76a86bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building BADS — The Behavioral Agentic Design System](https://uxdesign.cc/building-bads-the-behavioral-agentic-design-system-5698ff721db1?source=rss------system_design-5)**
+> 🔹 **[Part 2: Cognitive Signals: Decoding the Mind’s Unspoken Messages](https://medium.com/@sh2009.alketbi/part-2-cognitive-signals-decoding-the-minds-unspoken-messages-1535f622c65a?source=rss------artificial_intelligence-5)**
+> 🔹 **[America does not need a shadow approval system for AI](https://aaron-poynton.medium.com/america-does-not-need-a-shadow-approval-system-for-ai-e686e0932c69?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
