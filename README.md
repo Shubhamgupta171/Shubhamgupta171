@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Memory Leak That One Word Fixed](https://serkanozbeykurucu.medium.com/the-memory-leak-that-one-word-fixed-738bf06b08f5?source=rss------backend_development-5)**
-> 🔹 **[How Data Science Is Driving Competitive Advantage for Modern Enterprises](https://medium.com/@alexmartincaneda/how-data-science-is-driving-competitive-advantage-for-modern-enterprises-bdc538697472?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Don’t Have 10 Years to Become a Senior Engineer Anymore.](https://medium.com/vibe-coding/you-dont-have-10-years-to-become-a-senior-engineer-anymore-12cb1dec3979?source=rss------artificial_intelligence-5)**
-> 🔹 **[Amazon KDP Keyword Research: How to Get Fast Visibility Without Tools or Guesswork](https://medium.com/activated-thinker/amazon-kdp-keyword-research-how-to-get-fast-visibility-without-tools-or-guesswork-a24dc04db6b2?source=rss------artificial_intelligence-5)**
-> 🔹 **[3 Ways AI Is Making Spring Boot Development Shockingly Simple](https://medium.com/activated-thinker/3-ways-ai-is-making-spring-boot-development-shockingly-simple-a37e3cc52a4a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Everybody Uses AI, But Few Understands What’s Happening Behind It.](https://medium.com/activated-thinker/everybody-uses-ai-but-few-understands-whats-happening-behind-it-9669f0e79e0f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Bernie Sanders Aims to Save Americans from AI Layoff Effects](https://medium.com/activated-thinker/bernie-sanders-aims-to-save-americans-from-ai-layoff-effects-fb5a9b97a997?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Incorruptible Captain of the Gentle Ship](https://medium.com/@giftofpeace/the-incorruptible-captain-of-the-gentle-ship-ed08e132cf7e?source=rss------artificial_intelligence-5)**
+> 🔹 **[As The Music Industry Embraces AI, Should Artists Be Worried?](https://medium.com/fourth-wave/as-the-music-industry-embraces-ai-should-artists-be-worried-792d3b840a31?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is LinkedIn Going to Die?](https://medium.com/@gulzeynepgenc/is-linkedin-going-to-die-8e373f67f551?source=rss------artificial_intelligence-5)**
+> 🔹 **[robots.txt Told Crawlers Where to Stop. llms.txt Tells Agents Where to Go](https://joshmcdonald.medium.com/robots-txt-told-crawlers-where-to-stop-llms-txt-tells-agents-where-to-go-fb3194a18dea?source=rss------artificial_intelligence-5)**
+> 🔹 **[​Most People Have No Idea What’s Coming Next in AI](https://medium.com/@sobhit/most-people-have-no-idea-whats-coming-next-in-ai-85f26db37ad3?source=rss------artificial_intelligence-5)**
+> 🔹 **[BEST AI TOOLS](https://medium.com/@senthilvishwa912/best-ai-tools-d4ca44cf9b4d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Double-Edged Sword: AI, Social Media, and the Cost of Human Connection](https://medium.com/@nadia6v6/the-double-edged-sword-ai-social-media-and-the-cost-of-human-connection-4d5b003fa22d?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Every Eng Leader Should Ask Before Unleashing a Coding Agent](https://medium.com/@guptashreya86/what-every-eng-leader-should-ask-before-unleashing-a-coding-agent-ff524e54ea05?source=rss------artificial_intelligence-5)**
+> 🔹 **[Finding a “Magic” Prompt is a Trap. Focus on This Instead.](https://medium.com/@marcel.bjehal/finding-a-magic-prompt-is-a-trap-focus-on-this-instead-0a4936d27d17?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
