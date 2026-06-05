@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How Small Businesses Are Using AI Automation to Compete With Big Companies](https://medium.com/@mubashirburfat4/how-small-businesses-are-using-ai-automation-to-compete-with-big-companies-855185270d32?source=rss------artificial_intelligence-5)**
-> 🔹 **[$65B Dollars and a Pink Slip: The Week AI Got Rich While Everyone Else Got Fired](https://medium.com/@nuno.roberto/65b-dollars-and-a-pink-slip-the-week-ai-got-rich-while-everyone-else-got-fired-fec2a6d8e174?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agents in 2026: What’s New, What’s Working, and What to Watch Out For](https://medium.com/@symphony-solutions/ai-agents-in-2026-whats-new-what-s-working-and-what-to-watch-out-for-50067a782035?source=rss------artificial_intelligence-5)**
-> 🔹 **[Machine Learning With Manya: The Case of the Squished Play-Doh Puppies](https://medium.com/@pallabiroysingh/machine-learning-with-manya-the-case-of-the-squished-play-doh-puppies-397e848bebe8?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Can Sound Like You. But It Can Never Be You.](https://medium.com/activated-thinker/ai-can-sound-like-you-but-it-can-never-be-you-7d38814edf0c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Shocking AGI Datacenter Secrets](https://medium.com/ai-simplified-in-plain-english/shocking-agi-datacenter-secrets-5b107b88743d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Future of Marketing: A Systems Approach in the Age of AI](https://medium.com/@anenkomaxim/the-future-of-marketing-a-systems-approach-in-the-age-of-ai-9c43d5b4613d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Business Continuity in the AI Era: Beyond Traditional IT Resilience](https://medium.com/@sgfukuda660/business-continuity-in-the-ai-era-beyond-traditional-it-resilience-a4d1c924cc36?source=rss------artificial_intelligence-5)**
+> 🔹 **[Background Tasks, Queues, and Workers: The Complete Guide for Backend Developers](https://medium.com/@moizsardar056/background-tasks-queues-and-workers-the-complete-guide-for-backend-developers-a69699c2fb1a?source=rss------backend_development-5)**
+> 🔹 **[Read the Wallet Before You Read the Argument](https://medium.com/@albdrani36/read-the-wallet-before-you-read-the-argument-d59b2e0ee0b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Meet the KutumbGenie: How AI powered by Google Gemini Solves the Indian Family Data Problem](https://medium.com/@kushwahaayush04/meet-the-kutumbgenie-how-ai-powered-by-google-gemini-solves-the-indian-family-data-problem-4b4d078820fc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Aggregation AI: Read It. Watch It. Verify It.](https://medium.com/@dharm.dharma.56/aggregation-ai-read-it-watch-it-verify-it-1bdf919f24a7?source=rss------artificial_intelligence-5)**
+> 🔹 **[“How to Score Your Leads with AI &lpar;And Stop Wasting 60% of Your Sales Time&rpar;”](https://medium.com/@aiownersclub/how-to-score-your-leads-with-ai-and-stop-wasting-60-of-your-sales-time-f0ba136f7d57?source=rss------artificial_intelligence-5)**
+> 🔹 **[‘Think with AI’ and ‘Use AI as Tools’ are Meaningless Buzz Phrases](https://medium.com/@floydchan9999/think-with-ai-and-use-ai-as-tools-are-meaningless-buzz-phrases-d80357bfd290?source=rss------artificial_intelligence-5)**
+> 🔹 **[How To Save Tokens While Dragging PDFs Into Claude](https://blog.gopenai.com/how-to-save-tokens-while-dragging-pdfs-into-claude-5cf3e556b69c?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Already Tested Life After Work. We Just Called It Being Rich.](https://medium.com/@keon.me/we-already-tested-life-after-work-we-just-called-it-being-rich-c146f0771897?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
