@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Demystifying M-Pesa B2C Integration: The Architectural Trap Most Developers Fall For](https://medium.com/@petrolesapiti/demystifying-m-pesa-b2c-integration-the-architectural-trap-most-developers-fall-for-7d4961642800?source=rss------backend_development-5)**
-> 🔹 **[The Real Bottleneck in AI Development: High-Level Cognitive Auditing](https://medium.com/@clearstone-analytics/the-real-bottleneck-in-ai-development-high-level-cognitive-auditing-2a2a8eec828e?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Uber Actually Tests — And What Gets Candidates Rejected &lpar;2026&rpar;](https://medium.com/@hack2hire.share/what-uber-actually-tests-and-what-gets-candidates-rejected-2026-29dd5b7d6f9c?source=rss------artificial_intelligence-5)**
-> 🔹 **[1–800-CALL-LOVE for your settlement!](https://medium.com/@earthtoraegan/1-800-call-love-for-your-settlement-303bb36a4cca?source=rss------artificial_intelligence-5)**
-> 🔹 **[What 1,338 Strangers Taught Me About Predicting Medical Bills with Linear Regression](https://medium.com/@pratikacharya527/what-1-338-strangers-taught-me-about-predicting-medical-bills-with-linear-regression-a13bf2d94992?source=rss------artificial_intelligence-5)**
-> 🔹 **[No Vibes Allowed!](https://medium.com/@yvedpathak/no-vibes-allowed-b6b90152ff2d?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is The AI Commerce Graph™](https://medium.com/@Atom_Foundry/what-is-the-ai-commerce-graph-4feaad330c0a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can AI Writing Ever Develop a Personal Style?](https://medium.com/@aimiraclemag/can-ai-writing-ever-develop-a-personal-style-cfd32359a4c0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Making the OWASP top ten in the vibe code era​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌...](https://stackoverflow.blog/2026/06/05/making-the-owasp-top-ten-in-the-vibe-code-era/)**
+> 🔹 **[Java: Introduction &amp; Setup — Complete Deep Dive](https://medium.com/@omkarbhavare2406/java-introduction-setup-complete-deep-dive-4849f50099f5?source=rss------backend_development-5)**
+> 🔹 **[From AI Prototypes to Production Systems: Why Quality Engineering Will Define the Next Wave of...](https://medium.com/@syashvinder83/from-ai-prototypes-to-production-systems-why-quality-engineering-will-define-the-next-wave-of-ai-4385142f10e1?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Unbound — Epilogue](https://medium.com/@ekmekdelum/the-unbound-epilogue-afe34f93ab64?source=rss------artificial_intelligence-5)**
+> 🔹 **[Foot-Guns Are the New Zeitgeist](https://medium.com/@post.pc.developer/foot-guns-are-the-new-zeitgeist-296317b9b471?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can We Use Claude to Develop Mobile Apps?](https://dslsingapore.medium.com/can-we-use-claude-to-develop-mobile-apps-906f43585072?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Happens to Language Before Memory Fails?](https://medium.com/@hafsashams119/what-happens-to-language-before-memory-fails-4c8ab010ba87?source=rss------artificial_intelligence-5)**
+> 🔹 **[SLOTGEMBIRA Jadi Sorotan, Berikut Hal yang Perlu Kamu Ketahui](https://medium.com/@mosiongto77/slotgembira-jadi-sorotan-berikut-hal-yang-perlu-kamu-ketahui-d6f25d0834b7?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
