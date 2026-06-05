@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Making the OWASP top ten in the vibe code era​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌...](https://stackoverflow.blog/2026/06/05/making-the-owasp-top-ten-in-the-vibe-code-era/)**
-> 🔹 **[Java: Introduction &amp; Setup — Complete Deep Dive](https://medium.com/@omkarbhavare2406/java-introduction-setup-complete-deep-dive-4849f50099f5?source=rss------backend_development-5)**
-> 🔹 **[From AI Prototypes to Production Systems: Why Quality Engineering Will Define the Next Wave of...](https://medium.com/@syashvinder83/from-ai-prototypes-to-production-systems-why-quality-engineering-will-define-the-next-wave-of-ai-4385142f10e1?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Unbound — Epilogue](https://medium.com/@ekmekdelum/the-unbound-epilogue-afe34f93ab64?source=rss------artificial_intelligence-5)**
-> 🔹 **[Foot-Guns Are the New Zeitgeist](https://medium.com/@post.pc.developer/foot-guns-are-the-new-zeitgeist-296317b9b471?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can We Use Claude to Develop Mobile Apps?](https://dslsingapore.medium.com/can-we-use-claude-to-develop-mobile-apps-906f43585072?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Happens to Language Before Memory Fails?](https://medium.com/@hafsashams119/what-happens-to-language-before-memory-fails-4c8ab010ba87?source=rss------artificial_intelligence-5)**
-> 🔹 **[SLOTGEMBIRA Jadi Sorotan, Berikut Hal yang Perlu Kamu Ketahui](https://medium.com/@mosiongto77/slotgembira-jadi-sorotan-berikut-hal-yang-perlu-kamu-ketahui-d6f25d0834b7?source=rss------artificial_intelligence-5)**
+> 🔹 **[You’ve Been Using AI for Years. You Just Didn’t Call It That.](https://medium.com/@urmilagumata/youve-been-using-ai-for-years-you-just-didn-t-call-it-that-db1e8efdcc54?source=rss------artificial_intelligence-5)**
+> 🔹 **[Alphabet Plans Massive $80 Billion Investment to Expand AI Infrastructure](https://medium.com/@12paishbca/alphabet-plans-massive-80-billion-investment-to-expand-ai-infrastructure-7d0680ed1a9d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Mobile App Development Is Essential for Customer Engagement in 2026](https://medium.com/@miacaneda6/why-mobile-app-development-is-essential-for-customer-engagement-in-2026-8ca2b44f052c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why 90% of AI Prompts Fail — And the Framework That Fixes Them](https://medium.com/@anandhi.vasudevan.ai/why-90-of-ai-prompts-fail-and-the-framework-that-fixes-them-b1f5e15bebe7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic AI — How we stopped worrying and gravitated towards buzzword blitz](https://medium.com/@subrakris/agentic-ai-how-we-stopped-worrying-and-gravitated-towards-buzzword-blitz-717e7891bb67?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everyone Wants an AI Job in 2026 — Almost Nobody Is Following This Roadmap](https://blog.stackademic.com/everyone-wants-an-ai-job-in-2026-almost-nobody-is-following-this-roadmap-aa9e8cdcbe63?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Ocean Network Has the Most Affordable NVIDIA H200 GPU Cloud in 2026](https://medium.com/@atimi0905/why-ocean-network-has-the-most-affordable-nvidia-h200-gpu-cloud-in-2026-13a320ea8088?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Logistics AI Agents Need an Operational Knowledge Layer](https://medium.com/@seaflux/why-logistics-ai-agents-need-an-operational-knowledge-layer-b152a8853b14?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
