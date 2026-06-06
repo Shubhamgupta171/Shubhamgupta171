@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The World Is Moving So Fast](https://medium.com/readers-club/the-world-is-moving-so-fast-fff727c3f632?source=rss------artificial_intelligence-5)**
-> 🔹 **[FastAPI hits different. Here’s why.](https://medium.com/@nikitacbudholiya/fastapi-hits-different-heres-why-83e09ccc0596?source=rss------backend_development-5)**
-> 🔹 **[Generation got cheap. Checking it didn’t. That gap decides whether AI pays](https://medium.com/@ai_93276/generation-got-cheap-checking-it-didnt-that-gap-decides-whether-ai-pays-90a6fbdeabcb?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Will Rewrite the Rules of Good CAD Modeling](https://medium.com/@zixel3d.ai/how-ai-will-rewrite-the-rules-of-good-cad-modeling-4df6d02a7c13?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Built an After Effects Tool to Copy-Paste Transparent Images Straight From the Web](https://medium.com/@izmerjaafar/how-i-built-an-after-effects-tool-to-copy-paste-transparent-images-straight-from-the-web-free-16bd29ce4635?source=rss------artificial_intelligence-5)**
-> 🔹 **[Designing a Notification System: The Final Mile Problem](https://medium.com/@iamakashrout/designing-a-notification-system-the-final-mile-problem-a1f84d3301c2?source=rss------backend_development-5)**
-> 🔹 **[The Anarchy of Cat Yoga Pants](https://lasergunfactory.medium.com/the-anarchy-of-cat-yoga-pants-b468f821d704?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Wasted 6 Months Doing Outreach Wrong. Then Claude Exposed My Biggest Mistake.](https://medium.com/@akhtaar/i-wasted-6-months-doing-outreach-wrong-then-claude-exposed-my-biggest-mistake-33dab5143b92?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Am Using AI to Build a Side Income From Zero](https://medium.com/@limchen21015/i-am-using-ai-to-build-a-side-income-from-zero-88c04819240c?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI-swers Submission Guidelines](https://ai-swers.medium.com/ai-swers-submission-guidelines-b59c8bab9b62?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Coding Era Is Fading. The Humanities Era Is Just Beginning](https://medium.com/kudoswall/why-tech-hires-humanities-ai-era-e1d0db9721ac?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Outperformed ER Doctors in a Harvard Study. Should We Trust It?](https://ai-swers.medium.com/ai-outperformed-er-doctors-in-a-harvard-study-should-we-trust-it-63d301964c1b?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Assistants Are Becoming Personal Operating Systems](https://medium.com/@abhinavjha07rigcg07/ai-assistants-are-becoming-personal-operating-systems-a621b119a950?source=rss------artificial_intelligence-5)**
+> 🔹 **[Humans, Meet Your New Competition: Inside LimX Luna](https://medium.com/@isbah9398/humans-meet-your-new-competition-inside-limx-luna-63a005ff30d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Do Real YouTubers Sound Like ChatGPT Now?](https://medium.com/illumination/why-do-real-youtubers-sound-like-chatgpt-now-bec59c742aaa?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Automated 3 LinkedIn Posts Per Day About Cybersecurity Using AI &lpar;And What Happened&rpar;](https://medium.com/@vapt.audits/how-i-automated-3-linkedin-posts-per-day-about-cybersecurity-using-ai-and-what-happened-9177254baa36?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
