@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Am Using AI to Build a Side Income From Zero](https://medium.com/@limchen21015/i-am-using-ai-to-build-a-side-income-from-zero-88c04819240c?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI-swers Submission Guidelines](https://ai-swers.medium.com/ai-swers-submission-guidelines-b59c8bab9b62?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Coding Era Is Fading. The Humanities Era Is Just Beginning](https://medium.com/kudoswall/why-tech-hires-humanities-ai-era-e1d0db9721ac?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Outperformed ER Doctors in a Harvard Study. Should We Trust It?](https://ai-swers.medium.com/ai-outperformed-er-doctors-in-a-harvard-study-should-we-trust-it-63d301964c1b?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Assistants Are Becoming Personal Operating Systems](https://medium.com/@abhinavjha07rigcg07/ai-assistants-are-becoming-personal-operating-systems-a621b119a950?source=rss------artificial_intelligence-5)**
-> 🔹 **[Humans, Meet Your New Competition: Inside LimX Luna](https://medium.com/@isbah9398/humans-meet-your-new-competition-inside-limx-luna-63a005ff30d2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Do Real YouTubers Sound Like ChatGPT Now?](https://medium.com/illumination/why-do-real-youtubers-sound-like-chatgpt-now-bec59c742aaa?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Automated 3 LinkedIn Posts Per Day About Cybersecurity Using AI &lpar;And What Happened&rpar;](https://medium.com/@vapt.audits/how-i-automated-3-linkedin-posts-per-day-about-cybersecurity-using-ai-and-what-happened-9177254baa36?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Wasted 7 Months Using Claude Code Wrong. 6 Commands Changed Everything.](https://medium.com/@aiman.malik.freelancer/i-wasted-7-months-using-claude-code-wrong-6-commands-changed-everything-e6784a282f1f?source=rss------artificial_intelligence-5)**
+> 🔹 **[ODAKLANMIŞ İRADENİN FENOMENOLOJİSİ VE KATILIMCI GERÇEKLİK ÜZERİNE BİR İNCELEME](https://medium.com/@eminprofo/odaklanmi%C5%9F-i%CC%87radeni%CC%87n-fenomenoloji%CC%87si%CC%87-ve-katilimci-ger%C3%A7ekli%CC%87k-%C3%BCzeri%CC%87ne-bi%CC%87r-i%CC%87nceleme-a2ef8b7ecf83?source=rss------artificial_intelligence-5)**
+> 🔹 **[WYOM.us: The Modern Founder Wants Clarity, Not More Options](https://wyom-us.medium.com/wyom-us-the-modern-founder-wants-clarity-not-more-options-029417dbf13a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Only Thing AI Cannot Do: Be Human](https://medium.com/@cgjardon/the-only-thing-ai-cannot-do-be-human-986bf0fddf31?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I’d Make Money with AI in 2026 &lpar;If I Had to Start From Zero Today&rpar;](https://medium.com/@zakaryazaki/how-id-make-money-with-ai-in-2026-if-i-had-to-start-from-zero-today-4e4507fd6ebb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Before AI Became a Product: Alan Turing, Cahit Arf, and the Forgotten Depth of a Question](https://medium.com/@muslumyildiz17/before-ai-became-a-product-alan-turing-cahit-arf-and-the-forgotten-depth-of-a-question-c80e14437a80?source=rss------artificial_intelligence-5)**
+> 🔹 **[The State of AI Sales Tools &lpar;2026&rpar;: The Autonomous-SDR Reckoning](https://medium.com/@fazilbaker.fb/the-state-of-ai-sales-tools-2026-the-autonomous-sdr-reckoning-1b9a32213e52?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Only Entry: Frank Olsen — When the Apparatus Turned on Itself](https://medium.com/what-if-ai-investigated/the-only-entry-frank-olsen-fb1a4af47822?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
