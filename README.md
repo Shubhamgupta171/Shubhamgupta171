@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Wasted 7 Months Using Claude Code Wrong. 6 Commands Changed Everything.](https://medium.com/@aiman.malik.freelancer/i-wasted-7-months-using-claude-code-wrong-6-commands-changed-everything-e6784a282f1f?source=rss------artificial_intelligence-5)**
-> 🔹 **[ODAKLANMIŞ İRADENİN FENOMENOLOJİSİ VE KATILIMCI GERÇEKLİK ÜZERİNE BİR İNCELEME](https://medium.com/@eminprofo/odaklanmi%C5%9F-i%CC%87radeni%CC%87n-fenomenoloji%CC%87si%CC%87-ve-katilimci-ger%C3%A7ekli%CC%87k-%C3%BCzeri%CC%87ne-bi%CC%87r-i%CC%87nceleme-a2ef8b7ecf83?source=rss------artificial_intelligence-5)**
-> 🔹 **[WYOM.us: The Modern Founder Wants Clarity, Not More Options](https://wyom-us.medium.com/wyom-us-the-modern-founder-wants-clarity-not-more-options-029417dbf13a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Only Thing AI Cannot Do: Be Human](https://medium.com/@cgjardon/the-only-thing-ai-cannot-do-be-human-986bf0fddf31?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I’d Make Money with AI in 2026 &lpar;If I Had to Start From Zero Today&rpar;](https://medium.com/@zakaryazaki/how-id-make-money-with-ai-in-2026-if-i-had-to-start-from-zero-today-4e4507fd6ebb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Before AI Became a Product: Alan Turing, Cahit Arf, and the Forgotten Depth of a Question](https://medium.com/@muslumyildiz17/before-ai-became-a-product-alan-turing-cahit-arf-and-the-forgotten-depth-of-a-question-c80e14437a80?source=rss------artificial_intelligence-5)**
-> 🔹 **[The State of AI Sales Tools &lpar;2026&rpar;: The Autonomous-SDR Reckoning](https://medium.com/@fazilbaker.fb/the-state-of-ai-sales-tools-2026-the-autonomous-sdr-reckoning-1b9a32213e52?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Only Entry: Frank Olsen — When the Apparatus Turned on Itself](https://medium.com/what-if-ai-investigated/the-only-entry-frank-olsen-fb1a4af47822?source=rss------artificial_intelligence-5)**
+> 🔹 **[Unlock Your AI Potential: Learn From the Best Companies Completely Free](https://tehnologijaviews.medium.com/unlock-your-ai-potential-learn-from-the-best-companies-completely-free-60572f5b2604?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can LLM master your money?](https://medium.com/@tam_vit/can-llm-master-your-money-6b437cae78a9?source=rss------artificial_intelligence-5)**
+> 🔹 **[# Every Provider Had a Piece of the Story](https://medium.com/@info_68693/every-provider-had-a-piece-of-the-story-02a374fc3381?source=rss------artificial_intelligence-5)**
+> 🔹 **[One Innocent Line &lpar;.Result&rpar; Froze My Entire API. I Was Blocking async Without Knowing It.](https://medium.com/@thecurlybrace/one-innocent-line-result-froze-my-entire-api-i-was-blocking-async-without-knowing-it-8be867b6f4fd?source=rss------system_design-5)**
+> 🔹 **[I Analyzed 500 AI Startups. Almost All Make the Same Fatal Mistake.](https://medium.com/data-science-collective/i-analyzed-500-ai-startups-almost-all-make-the-same-fatal-mistake-34ddd74c9c66?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI is smart. AI is stupid. What do you see?](https://medium.com/@kira0083xx/ai-is-smart-ai-is-stupid-what-do-you-see-7f6c55b5e003?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best AI Tools for Students &amp; Competitive Exam Aspirants &lpar;UPSC, SSC, Banking, GATE, CAT, JEE, NE...](https://medium.com/@divinestocks/best-ai-tools-for-students-competitive-exam-aspirants-upsc-ssc-banking-gate-cat-jee-neet-13b8a14dba1c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Solo-Firm Playbook](https://medium.com/@danmavegemite/the-solo-firm-playbook-c89280e856ad?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
