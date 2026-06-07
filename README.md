@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[RAG Is Dead. Here Are 3 Ways It Fails in Production &lpar;And What to Build Instead&rpar;](https://yadavdivy296.medium.com/rag-is-dead-here-are-3-ways-it-fails-in-production-and-what-to-build-instead-6888ccc85151?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI ve Blockchain: İki Dev Teknolojinin Kesişimi Part-4](https://medium.com/aim-journal/ai-ve-blockchain-i%CC%87ki-dev-teknolojinin-kesi%C5%9Fimi-part-4-8146ab31e7c5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Reveals Organizational Weaknesses](https://medium.com/@harald.maderbacher/why-ai-reveals-organizational-weaknesses-50183210d3e1?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Watched My GitHub Copilot Bill Turn Into a Taxi Meter](https://medium.com/@pixipace/i-watched-my-github-copilot-bill-turn-into-a-taxi-meter-bdffdc4f84e9?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Battle of AI Ecosystems: OpenAI vs Google vs Anthropic](https://medium.com/@abhinavjha07rigcg07/the-battle-of-ai-ecosystems-openai-vs-google-vs-anthropic-8e50791dacf9?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Gateway Layer Is Becoming the New API Gateway And Bifrost Is Betting on It](https://medium.com/@jinvishal2011/the-ai-gateway-layer-is-becoming-the-new-api-gateway-and-bifrost-is-betting-on-it-f7b5b46f87d2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Enigma of the Traveling Salesman](https://sciencespectrumu.com/the-enigma-of-the-traveling-salesman-5712a7cfd1f3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Still, People Choose: Chapter 9](https://medium.com/human-ai-coexistence-principles-for-a-symbiotic/still-people-choose-chapter-9-63d83ee6d9d1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Génération NîNôN](https://medium.com/@nicolasbecqueret/g%C3%A9n%C3%A9ration-n%C3%AEn%C3%B4n-c94ab94ddca3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Pixhawk BIN Log Analysis: The Data-Driven Framework Every Drone Operator, Forensic Investigator...](https://medium.com/@mtsuavlogistics/pixhawk-bin-log-analysis-the-data-driven-framework-every-drone-operator-forensic-investigator-dad6b10c7d12?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Can Write Code. It Still Can’t Own Production.](https://mafaqriaz.medium.com/ai-can-write-code-it-still-cant-own-production-5b95b37c5aaf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Tell Me Your Weakness and I’ll Tell You Which AI Tool You Use](https://medium.com/@ticianapaura/tell-me-your-weakness-and-ill-tell-you-which-ai-tool-you-use-69c2f7785f84?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 AI Tools Every Filipino Writer Should Use in 2026](https://medium.com/@karenserolf02/5-ai-tools-every-filipino-writer-should-use-in-2026-8a99f0bd4272?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Doesn’t Need Consciousness to Expose Human Consciousness](https://medium.com/@iamhoudab/ai-doesnt-need-consciousness-to-expose-human-consciousness-29f08dfc7d29?source=rss------artificial_intelligence-5)**
+> 🔹 **[Fufu Nation Radio Reports Early Audience Growth Following test Public Launch](https://medium.com/@fuquanfindley56/fufu-nation-radio-reports-early-audience-growth-following-test-public-launch-0dfb348ef9da?source=rss------artificial_intelligence-5)**
+> 🔹 **[The DynamoDB Partition Split That Doubled Our P99 Latency](https://medium.com/@yalovoy/the-dynamodb-partition-split-that-doubled-our-p99-latency-ef0b68c39df3?source=rss------backend_development-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
