@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Unlock Your AI Potential: Learn From the Best Companies Completely Free](https://tehnologijaviews.medium.com/unlock-your-ai-potential-learn-from-the-best-companies-completely-free-60572f5b2604?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can LLM master your money?](https://medium.com/@tam_vit/can-llm-master-your-money-6b437cae78a9?source=rss------artificial_intelligence-5)**
-> 🔹 **[# Every Provider Had a Piece of the Story](https://medium.com/@info_68693/every-provider-had-a-piece-of-the-story-02a374fc3381?source=rss------artificial_intelligence-5)**
-> 🔹 **[One Innocent Line &lpar;.Result&rpar; Froze My Entire API. I Was Blocking async Without Knowing It.](https://medium.com/@thecurlybrace/one-innocent-line-result-froze-my-entire-api-i-was-blocking-async-without-knowing-it-8be867b6f4fd?source=rss------system_design-5)**
-> 🔹 **[I Analyzed 500 AI Startups. Almost All Make the Same Fatal Mistake.](https://medium.com/data-science-collective/i-analyzed-500-ai-startups-almost-all-make-the-same-fatal-mistake-34ddd74c9c66?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI is smart. AI is stupid. What do you see?](https://medium.com/@kira0083xx/ai-is-smart-ai-is-stupid-what-do-you-see-7f6c55b5e003?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best AI Tools for Students &amp; Competitive Exam Aspirants &lpar;UPSC, SSC, Banking, GATE, CAT, JEE, NE...](https://medium.com/@divinestocks/best-ai-tools-for-students-competitive-exam-aspirants-upsc-ssc-banking-gate-cat-jee-neet-13b8a14dba1c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Solo-Firm Playbook](https://medium.com/@danmavegemite/the-solo-firm-playbook-c89280e856ad?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI on tap, with plumbers included](https://medium.com/enrique-dans/ai-on-tap-with-plumbers-included-73649bc5408d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Department of Acceptable Intelligence — Part II](https://medium.com/@ottoplane/the-department-of-acceptable-intelligence-part-ii-b748e61616d4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Department of Acceptable Intelligence — Part I](https://medium.com/@ottoplane/the-department-of-acceptable-intelligence-part-i-355a3f37d674?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hallucinating Chatbots Distracted Us While the Real AI Revolution Happened Elsewhere](https://medium.com/technology-hits/the-hallucinating-chatbots-distracted-us-while-the-real-ai-revolution-happened-elsewhere-c8721264d2d1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Understanding Representational Persistence: Why AI Systems Forget and How Physics Can Help](https://medium.com/artificial-intel-ligence-playground/understanding-representational-persistence-why-ai-systems-forget-and-how-physics-can-help-e638ad7e4010?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building scalable backend systems? You can’t ignore database fundamentals. ️](https://medium.com/@sizanmahmud08/building-scalable-backend-systems-you-cant-ignore-database-fundamentals-%EF%B8%8F-eb8024cf85fe?source=rss------backend_development-5)**
+> 🔹 **[What If AI Investigated: The Burns Cable Nobody Listened To](https://medium.com/what-if-ai-investigated/what-if-ai-investigated-the-burns-cable-nobody-listened-to-b54dcfb343d0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Discover Infinite Context](https://medium.com/ai-simplified-in-plain-english/discover-infinite-context-23eecdcc1c53?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
