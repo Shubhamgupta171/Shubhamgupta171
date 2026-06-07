@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI on tap, with plumbers included](https://medium.com/enrique-dans/ai-on-tap-with-plumbers-included-73649bc5408d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Department of Acceptable Intelligence — Part II](https://medium.com/@ottoplane/the-department-of-acceptable-intelligence-part-ii-b748e61616d4?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Department of Acceptable Intelligence — Part I](https://medium.com/@ottoplane/the-department-of-acceptable-intelligence-part-i-355a3f37d674?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hallucinating Chatbots Distracted Us While the Real AI Revolution Happened Elsewhere](https://medium.com/technology-hits/the-hallucinating-chatbots-distracted-us-while-the-real-ai-revolution-happened-elsewhere-c8721264d2d1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Understanding Representational Persistence: Why AI Systems Forget and How Physics Can Help](https://medium.com/artificial-intel-ligence-playground/understanding-representational-persistence-why-ai-systems-forget-and-how-physics-can-help-e638ad7e4010?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building scalable backend systems? You can’t ignore database fundamentals. ️](https://medium.com/@sizanmahmud08/building-scalable-backend-systems-you-cant-ignore-database-fundamentals-%EF%B8%8F-eb8024cf85fe?source=rss------backend_development-5)**
-> 🔹 **[What If AI Investigated: The Burns Cable Nobody Listened To](https://medium.com/what-if-ai-investigated/what-if-ai-investigated-the-burns-cable-nobody-listened-to-b54dcfb343d0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Discover Infinite Context](https://medium.com/ai-simplified-in-plain-english/discover-infinite-context-23eecdcc1c53?source=rss------artificial_intelligence-5)**
+> 🔹 **[RAG Is Dead. Here Are 3 Ways It Fails in Production &lpar;And What to Build Instead&rpar;](https://yadavdivy296.medium.com/rag-is-dead-here-are-3-ways-it-fails-in-production-and-what-to-build-instead-6888ccc85151?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI ve Blockchain: İki Dev Teknolojinin Kesişimi Part-4](https://medium.com/aim-journal/ai-ve-blockchain-i%CC%87ki-dev-teknolojinin-kesi%C5%9Fimi-part-4-8146ab31e7c5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Reveals Organizational Weaknesses](https://medium.com/@harald.maderbacher/why-ai-reveals-organizational-weaknesses-50183210d3e1?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Watched My GitHub Copilot Bill Turn Into a Taxi Meter](https://medium.com/@pixipace/i-watched-my-github-copilot-bill-turn-into-a-taxi-meter-bdffdc4f84e9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Battle of AI Ecosystems: OpenAI vs Google vs Anthropic](https://medium.com/@abhinavjha07rigcg07/the-battle-of-ai-ecosystems-openai-vs-google-vs-anthropic-8e50791dacf9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Gateway Layer Is Becoming the New API Gateway And Bifrost Is Betting on It](https://medium.com/@jinvishal2011/the-ai-gateway-layer-is-becoming-the-new-api-gateway-and-bifrost-is-betting-on-it-f7b5b46f87d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Enigma of the Traveling Salesman](https://sciencespectrumu.com/the-enigma-of-the-traveling-salesman-5712a7cfd1f3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Still, People Choose: Chapter 9](https://medium.com/human-ai-coexistence-principles-for-a-symbiotic/still-people-choose-chapter-9-63d83ee6d9d1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
