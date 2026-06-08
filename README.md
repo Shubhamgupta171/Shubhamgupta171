@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Mind The Friction](https://medium.com/@Halfofthesky/mind-the-friction-07ce8de2f32e?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Use Database Migrations to Prevent Schema Drift: A Practical Guide with Alembic](https://levelup.gitconnected.com/how-to-use-database-migrations-to-prevent-schema-drift-a-practical-guide-with-alembic-c364f65d878f?source=rss------backend_development-5)**
-> 🔹 **[From “It’s Broken” to a Perfect Ticket: Turning 30-Second Jam Recordings into Flawless Tickets...](https://medium.com/@ghusinga.manish/from-its-broken-to-a-perfect-ticket-turning-30-second-jam-recordings-into-flawless-tickets-with-52c4f504fdf3?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Used Claude to Predict The FIFA World Cup 2026](https://medium.com/artificial-corner/i-used-claude-to-predict-the-fifa-world-cup-2026-ddf263949272?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Stopped Losing Money the Day I Let AI Take Over My Trading](https://medium.com/@barronqasem/i-stopped-losing-money-the-day-i-let-ai-take-over-my-trading-0a1e04c79a30?source=rss------artificial_intelligence-5)**
-> 🔹 **[Email is still the most cost effective channel. The Power of AI: Making it &lpar;Almost&rpar; Unfair.](https://medium.com/activated-thinker/email-is-still-the-most-cost-effective-channel-the-power-of-ai-making-it-almost-unfair-8ea76a3f0811?source=rss------artificial_intelligence-5)**
-> 🔹 **[Happycapy Review 2026: AI Agent Desktop for Teams](https://medium.com/@miracalder_93891/happycapy-review-2026-ai-agent-desktop-for-teams-d679acd3698e?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a Swipe-Based Flashcard App for Coding Interviews. Here’s What Was Harder Than Expected...](https://medium.com/@pratikgtm/i-built-a-swipe-based-flashcard-app-for-coding-interviews-heres-what-was-harder-than-expected-99575e0c414e?source=rss------data_structures-5)**
+> 🔹 **[The APIGEE API Gateway Token Pattern in AEM Told by Pirates](https://medium.com/@frannet82/the-apigee-api-gateway-token-pattern-in-aem-told-by-pirates-766c7c471d96?source=rss------backend_development-5)**
+> 🔹 **[Document Pipeline Architecture: From Raw Data to Retrievable Knowledge](https://medium.com/activated-thinker/document-pipeline-architecture-from-raw-data-to-retrievable-knowledge-7877ab48dd01?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everyone Is Doing Shopify Dropshipping in 2026 Almost Nobody Is Actually Profitable](https://medium.com/@R.H_Rizvi/everyone-is-doing-shopify-dropshipping-in-2026-almost-nobody-is-actually-profitable-290135961bad?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Organizational Singularity: Why the Future of Enterprise AI Is Not About Smarter Machine...](https://medium.com/@ahshawqi/the-ai-organizational-singularity-why-the-future-of-enterprise-ai-is-not-about-smarter-machines-940a7fe71af6?source=rss------artificial_intelligence-5)**
+> 🔹 **[How One Team Solved GPU Instance Selection on AWS and Cut the Overspend](https://medium.com/@ido.vapner/how-one-team-solved-gpu-instance-selection-on-aws-and-cut-the-overspend-db099f248672?source=rss------artificial_intelligence-5)**
+> 🔹 **[Should We Say “Please” to a Machine That Doesn’t Even Notice?](https://medium.com/@itsme.bharat84/should-we-say-please-to-a-machine-that-doesnt-even-notice-0730337e94a4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Students Aren’t Using AI to Write Their Essays Anymore](https://thestudentreviewer.medium.com/students-arent-using-ai-to-write-their-essays-anymore-bd9f98029de0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Kling AI character generation isn’t just &quot;unstable.&quot;](https://medium.com/@jobscreative24/your-kling-ai-character-generation-isnt-just-unstable-62cc49e4abfd?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
