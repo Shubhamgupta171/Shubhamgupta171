@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Will AI Replace Your Job? The Truth About the Future of Work
-By Standoh Tech Insight](https://medium.com/@iyevhestanislaus/will-ai-replace-your-job-the-truth-about-the-future-of-work-by-standoh-tech-insight-81b6681b2fa9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude V/S ChatGPT 2026: Which AI Is Better for Coding, Writing &amp; Research?](https://medium.com/@connect.vasanth25/claude-v-s-chatgpt-2026-which-ai-is-better-for-coding-writing-research-3d86b41c12ad?source=rss------artificial_intelligence-5)**
-> 🔹 **[The gap in your incident response plan that only shows up during a breach](https://medium.com/@marketing.us/the-gap-in-your-incident-response-plan-that-only-shows-up-during-a-breach-1f989cc651c7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Quick Guide to LLM Inference Optimization: Speeding up the Generation Process](https://ankurdhuriya.medium.com/quick-guide-to-llm-inference-optimization-speeding-up-the-generation-process-2a70067c6600?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cognitive Ecology II: The Age of Cognitive Symbiosis](https://medium.com/@jk1849716/cognitive-ecology-ii-the-age-of-cognitive-symbiosis-d99ce49549f5?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Won’t Replace Frontend Developers — But Frontend Developers Using AI Will Lead the Future](https://medium.com/@harishkadam.dev/ai-wont-replace-frontend-developers-but-frontend-developers-using-ai-will-lead-the-future-a460a492d4f9?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Became 40% Faster. We Also Became Worse Engineers.](https://medium.com/noob2star/we-became-40-faster-we-also-became-worse-engineers-00e60b8eac2d?source=rss------artificial_intelligence-5)**
-> 🔹 **[COSMOS 3: NVIDIA’s Bet on the Future of Physical AI](https://medium.com/@iamridhima2001/cosmos-3-nvidias-bet-on-the-future-of-physical-ai-0f5752472a14?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Software Engineering Taught Me About AI/ML — And Why We Keep Ignoring It](https://medium.com/@pradyush1989/what-software-engineering-taught-me-about-ai-ml-and-why-we-keep-ignoring-it-0cffcc488c9e?source=rss------system_design-5)**
+> 🔹 **[Why Image to Video Is Becoming a Must-Have Tool for Content Creators](https://medium.com/@videoscripter349/why-image-to-video-is-becoming-a-must-have-tool-for-content-creators-832bfc242b32?source=rss------artificial_intelligence-5)**
+> 🔹 **[Top 5 AnyDesk Alternatives for Remote Access in 2026](https://medium.com/@kuttybala006/top-5-anydesk-alternatives-for-remote-access-in-2026-a898f686f3a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[If You’re Still Prompting AI Manually in 2026, You’re Already Falling Behind](https://onestepai.medium.com/if-youre-still-prompting-ai-manually-in-2026-you-re-already-falling-behind-f25eceac0193?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Finally Understood Supervised Learning When I Stopped Trying to Memorize it](https://medium.com/@zeel3006nakrani/i-finally-understood-supervised-learning-when-i-stopped-trying-to-memorize-it-e25259619c8d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Now Writes 80%+ of Anthropic’s Own Code — Top 10 AI &amp; Flutter News June 8, 2026](https://blurbrahlab.medium.com/claude-now-writes-80-of-anthropics-own-code-top-10-ai-flutter-news-june-8-2026-32ca8d8d2c7b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Gap Between AI Courses and Real AI Work](https://medium.com/@vedantbhalerao343/the-gap-between-ai-courses-and-real-ai-work-7bc9a3b84235?source=rss------artificial_intelligence-5)**
+> 🔹 **[Request for assistance: Could anyone help me with the endorsement on arXiv?](https://medium.com/@wang5x/request-for-assistance-could-anyone-help-me-with-the-endorsement-on-arxiv-415511de1900?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
