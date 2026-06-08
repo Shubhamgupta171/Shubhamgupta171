@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Génération NîNôN](https://medium.com/@nicolasbecqueret/g%C3%A9n%C3%A9ration-n%C3%AEn%C3%B4n-c94ab94ddca3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Pixhawk BIN Log Analysis: The Data-Driven Framework Every Drone Operator, Forensic Investigator...](https://medium.com/@mtsuavlogistics/pixhawk-bin-log-analysis-the-data-driven-framework-every-drone-operator-forensic-investigator-dad6b10c7d12?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Can Write Code. It Still Can’t Own Production.](https://mafaqriaz.medium.com/ai-can-write-code-it-still-cant-own-production-5b95b37c5aaf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Tell Me Your Weakness and I’ll Tell You Which AI Tool You Use](https://medium.com/@ticianapaura/tell-me-your-weakness-and-ill-tell-you-which-ai-tool-you-use-69c2f7785f84?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 AI Tools Every Filipino Writer Should Use in 2026](https://medium.com/@karenserolf02/5-ai-tools-every-filipino-writer-should-use-in-2026-8a99f0bd4272?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Doesn’t Need Consciousness to Expose Human Consciousness](https://medium.com/@iamhoudab/ai-doesnt-need-consciousness-to-expose-human-consciousness-29f08dfc7d29?source=rss------artificial_intelligence-5)**
-> 🔹 **[Fufu Nation Radio Reports Early Audience Growth Following test Public Launch](https://medium.com/@fuquanfindley56/fufu-nation-radio-reports-early-audience-growth-following-test-public-launch-0dfb348ef9da?source=rss------artificial_intelligence-5)**
-> 🔹 **[The DynamoDB Partition Split That Doubled Our P99 Latency](https://medium.com/@yalovoy/the-dynamodb-partition-split-that-doubled-our-p99-latency-ef0b68c39df3?source=rss------backend_development-5)**
+> 🔹 **[Will AI Replace Your Job? The Truth About the Future of Work
+By Standoh Tech Insight](https://medium.com/@iyevhestanislaus/will-ai-replace-your-job-the-truth-about-the-future-of-work-by-standoh-tech-insight-81b6681b2fa9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude V/S ChatGPT 2026: Which AI Is Better for Coding, Writing &amp; Research?](https://medium.com/@connect.vasanth25/claude-v-s-chatgpt-2026-which-ai-is-better-for-coding-writing-research-3d86b41c12ad?source=rss------artificial_intelligence-5)**
+> 🔹 **[The gap in your incident response plan that only shows up during a breach](https://medium.com/@marketing.us/the-gap-in-your-incident-response-plan-that-only-shows-up-during-a-breach-1f989cc651c7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Quick Guide to LLM Inference Optimization: Speeding up the Generation Process](https://ankurdhuriya.medium.com/quick-guide-to-llm-inference-optimization-speeding-up-the-generation-process-2a70067c6600?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cognitive Ecology II: The Age of Cognitive Symbiosis](https://medium.com/@jk1849716/cognitive-ecology-ii-the-age-of-cognitive-symbiosis-d99ce49549f5?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Won’t Replace Frontend Developers — But Frontend Developers Using AI Will Lead the Future](https://medium.com/@harishkadam.dev/ai-wont-replace-frontend-developers-but-frontend-developers-using-ai-will-lead-the-future-a460a492d4f9?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Became 40% Faster. We Also Became Worse Engineers.](https://medium.com/noob2star/we-became-40-faster-we-also-became-worse-engineers-00e60b8eac2d?source=rss------artificial_intelligence-5)**
+> 🔹 **[COSMOS 3: NVIDIA’s Bet on the Future of Physical AI](https://medium.com/@iamridhima2001/cosmos-3-nvidias-bet-on-the-future-of-physical-ai-0f5752472a14?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
