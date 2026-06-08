@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What Software Engineering Taught Me About AI/ML — And Why We Keep Ignoring It](https://medium.com/@pradyush1989/what-software-engineering-taught-me-about-ai-ml-and-why-we-keep-ignoring-it-0cffcc488c9e?source=rss------system_design-5)**
-> 🔹 **[Why Image to Video Is Becoming a Must-Have Tool for Content Creators](https://medium.com/@videoscripter349/why-image-to-video-is-becoming-a-must-have-tool-for-content-creators-832bfc242b32?source=rss------artificial_intelligence-5)**
-> 🔹 **[Top 5 AnyDesk Alternatives for Remote Access in 2026](https://medium.com/@kuttybala006/top-5-anydesk-alternatives-for-remote-access-in-2026-a898f686f3a0?source=rss------artificial_intelligence-5)**
-> 🔹 **[If You’re Still Prompting AI Manually in 2026, You’re Already Falling Behind](https://onestepai.medium.com/if-youre-still-prompting-ai-manually-in-2026-you-re-already-falling-behind-f25eceac0193?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Finally Understood Supervised Learning When I Stopped Trying to Memorize it](https://medium.com/@zeel3006nakrani/i-finally-understood-supervised-learning-when-i-stopped-trying-to-memorize-it-e25259619c8d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Now Writes 80%+ of Anthropic’s Own Code — Top 10 AI &amp; Flutter News June 8, 2026](https://blurbrahlab.medium.com/claude-now-writes-80-of-anthropics-own-code-top-10-ai-flutter-news-june-8-2026-32ca8d8d2c7b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Gap Between AI Courses and Real AI Work](https://medium.com/@vedantbhalerao343/the-gap-between-ai-courses-and-real-ai-work-7bc9a3b84235?source=rss------artificial_intelligence-5)**
-> 🔹 **[Request for assistance: Could anyone help me with the endorsement on arXiv?](https://medium.com/@wang5x/request-for-assistance-could-anyone-help-me-with-the-endorsement-on-arxiv-415511de1900?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mind The Friction](https://medium.com/@Halfofthesky/mind-the-friction-07ce8de2f32e?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Use Database Migrations to Prevent Schema Drift: A Practical Guide with Alembic](https://levelup.gitconnected.com/how-to-use-database-migrations-to-prevent-schema-drift-a-practical-guide-with-alembic-c364f65d878f?source=rss------backend_development-5)**
+> 🔹 **[From “It’s Broken” to a Perfect Ticket: Turning 30-Second Jam Recordings into Flawless Tickets...](https://medium.com/@ghusinga.manish/from-its-broken-to-a-perfect-ticket-turning-30-second-jam-recordings-into-flawless-tickets-with-52c4f504fdf3?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Used Claude to Predict The FIFA World Cup 2026](https://medium.com/artificial-corner/i-used-claude-to-predict-the-fifa-world-cup-2026-ddf263949272?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Stopped Losing Money the Day I Let AI Take Over My Trading](https://medium.com/@barronqasem/i-stopped-losing-money-the-day-i-let-ai-take-over-my-trading-0a1e04c79a30?source=rss------artificial_intelligence-5)**
+> 🔹 **[Email is still the most cost effective channel. The Power of AI: Making it &lpar;Almost&rpar; Unfair.](https://medium.com/activated-thinker/email-is-still-the-most-cost-effective-channel-the-power-of-ai-making-it-almost-unfair-8ea76a3f0811?source=rss------artificial_intelligence-5)**
+> 🔹 **[Happycapy Review 2026: AI Agent Desktop for Teams](https://medium.com/@miracalder_93891/happycapy-review-2026-ai-agent-desktop-for-teams-d679acd3698e?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Swipe-Based Flashcard App for Coding Interviews. Here’s What Was Harder Than Expected...](https://medium.com/@pratikgtm/i-built-a-swipe-based-flashcard-app-for-coding-interviews-heres-what-was-harder-than-expected-99575e0c414e?source=rss------data_structures-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
