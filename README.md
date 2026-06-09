@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Reading Odometers with AI: The Saga of the Confident Liar](https://medium.com/@Avinash.Kumar./reading-odometers-with-ai-the-saga-of-the-confident-liar-e6d2da5da9dd?source=rss------artificial_intelligence-5)**
-> 🔹 **[L’IA va-t-elle remplacer les agents immobiliers belges ? La vraie réponse.](https://medium.com/@contact_10712/lia-va-t-elle-remplacer-les-agents-immobiliers-belges-la-vraie-r%C3%A9ponse-6ddafd92de9b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Environmental Cost of AI](https://medium.com/@Intellibytes/the-hidden-environmental-cost-of-ai-4fab10da498c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Part 3: How to Write a DESIGN.md That AI Coding Agents Actually Follow](https://www.designsystemscollective.com/part-3-how-to-write-a-design-md-that-ai-coding-agents-actually-follow-eef25ca0369a?source=rss------system_design-5)**
-> 🔹 **[AI Tools vs Human Workers](https://medium.com/@a1marketers.com/ai-tools-vs-human-workers-ff4485b90164?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT vs Codex: Which One Helps a Beginner Writer More?](https://medium.com/@limchen21015/chatgpt-vs-codex-which-one-helps-a-beginner-writer-more-bc817094c313?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Lineage Bottleneck: Navigating the Friction Between Innovation and Infrastructure](https://bradogreene.medium.com/the-ai-lineage-bottleneck-navigating-the-friction-between-innovation-and-infrastructure-99f1ae3b9c0e?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built Myself a Comfortable Cage. Then I Learned AI.](https://medium.com/@sanjanashanthakumar62/i-built-myself-a-comfortable-cage-then-i-learned-ai-9b9707cc4da2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Fable 5 Just Released. The Real Story Is Not the Benchmark](https://medium.com/@myselfvinamrayadav/claude-fable-5-just-released-the-real-story-is-not-the-benchmark-57cf4d5e58ea?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who gets to define reality? Self-models and self-deception in distributed systems](https://medium.com/@dblankovsky/who-gets-to-define-reality-self-models-and-self-deception-in-distributed-systems-42ddc476595a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Git vs GitHub Explained for Students](https://medium.com/@kafeeromirembemercy/git-vs-github-explained-for-students-2fdaa64001de?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Really Happens When You Talk to an LLM](https://medium.com/@hs108699/what-really-happens-when-you-talk-to-an-llm-0811448b2c0f?source=rss------artificial_intelligence-5)**
+> 🔹 **[CRDTs From Scratch — Building Conflict-Free Data Structures in C#](https://medium.com/c-sharp-programming/crdts-from-scratch-building-conflict-free-data-structures-in-c-8eae537f153f?source=rss------data_structures-5)**
+> 🔹 **[The Coherence Warning Layer](https://medium.com/@terryshamilton/the-coherence-warning-layer-705cdbf77ed0?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tried Claude Fable 5 for a Weekend — Here’s What It Actually Changed](https://manterapj.medium.com/i-tried-claude-fable-5-for-a-weekend-heres-what-it-actually-changed-de674961a200?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Gave an AI Agent a Mandate to Invest. Here’s How It Thinks.](https://clem-lrdr.medium.com/we-gave-an-ai-agent-a-mandate-to-invest-heres-how-it-thinks-58d1102261c2?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
