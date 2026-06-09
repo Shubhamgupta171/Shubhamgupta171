@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The APIGEE API Gateway Token Pattern in AEM Told by Pirates](https://medium.com/@frannet82/the-apigee-api-gateway-token-pattern-in-aem-told-by-pirates-766c7c471d96?source=rss------backend_development-5)**
-> 🔹 **[Document Pipeline Architecture: From Raw Data to Retrievable Knowledge](https://medium.com/activated-thinker/document-pipeline-architecture-from-raw-data-to-retrievable-knowledge-7877ab48dd01?source=rss------artificial_intelligence-5)**
-> 🔹 **[Everyone Is Doing Shopify Dropshipping in 2026 Almost Nobody Is Actually Profitable](https://medium.com/@R.H_Rizvi/everyone-is-doing-shopify-dropshipping-in-2026-almost-nobody-is-actually-profitable-290135961bad?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Organizational Singularity: Why the Future of Enterprise AI Is Not About Smarter Machine...](https://medium.com/@ahshawqi/the-ai-organizational-singularity-why-the-future-of-enterprise-ai-is-not-about-smarter-machines-940a7fe71af6?source=rss------artificial_intelligence-5)**
-> 🔹 **[How One Team Solved GPU Instance Selection on AWS and Cut the Overspend](https://medium.com/@ido.vapner/how-one-team-solved-gpu-instance-selection-on-aws-and-cut-the-overspend-db099f248672?source=rss------artificial_intelligence-5)**
-> 🔹 **[Should We Say “Please” to a Machine That Doesn’t Even Notice?](https://medium.com/@itsme.bharat84/should-we-say-please-to-a-machine-that-doesnt-even-notice-0730337e94a4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Students Aren’t Using AI to Write Their Essays Anymore](https://thestudentreviewer.medium.com/students-arent-using-ai-to-write-their-essays-anymore-bd9f98029de0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Kling AI character generation isn’t just &quot;unstable.&quot;](https://medium.com/@jobscreative24/your-kling-ai-character-generation-isnt-just-unstable-62cc49e4abfd?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Cache Was Lying to Users. The Bug That Taught Me Cache Invalidation.](https://medium.com/@thecurlybrace/my-cache-was-lying-to-users-the-bug-that-taught-me-cache-invalidation-1bf294322afb?source=rss------backend_development-5)**
+> 🔹 **[Why Most Clinics Don’t Have a Patient Acquisition Problem — They Have a Growth Infrastructure…](https://medium.com/@hamachanesrine/why-most-clinics-dont-have-a-patient-acquisition-problem-they-have-a-growth-infrastructure-a5975e5ceb38?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Accounts Receivable and Payable Management Is Essential for Modern Enterprises](https://medium.com/@Harrisharsh/why-accounts-receivable-and-payable-management-is-essential-for-modern-enterprises-1003d04325e7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Taking a Step Back: What I’ve Actually Been Building with AI and Data](https://rjccruz.medium.com/taking-a-step-back-what-ive-actually-been-building-with-ai-and-data-96d98459e97b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The CITED Framework: Why AI Models Skip Your Brand — and the Five Things That Fix It](https://drishvaai.medium.com/the-cited-framework-why-ai-models-skip-your-brand-and-the-five-things-that-fix-it-0ac198e916f7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Structure Behind the $9 Million Problem](https://medium.com/@sandeep.panigrahi/the-structure-behind-the-9-million-problem-e78863ec7f9e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Meta Launches Business Agent: Key Features and Benefits Explained](https://medium.com/@Sheikh_Suraj/meta-launches-business-agent-key-features-and-benefits-explained-a918e3587df4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the Rules: How AI Agents Are Rewriting the Rules of Financial Security](https://medium.com/@marketing_30607/beyond-the-rules-how-ai-agents-are-rewriting-the-rules-of-financial-security-3c144098ea54?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
