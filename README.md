@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Scaling Generative AI: Best Practices for LLM Dataset Curation and Annotation](https://medium.com/@ritikaushik240/scaling-generative-ai-best-practices-for-llm-dataset-curation-and-annotation-be4f1ad32ee5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Understanding Transformer Architecture](https://medium.com/@samadhigamaarachchi07/understanding-transformer-architecture-8f6ede7147b9?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Command Systems: The New Programming Language Nobody Talks About](https://medium.com/@talatwaheed/ai-command-systems-the-new-programming-language-nobody-talks-about-f203e13dc44c?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Can’t Prove the AI Isn’t Conscious. I Also Can’t Prove That You Are.](https://medium.com/@Hiro.Y/i-cant-prove-the-ai-isn-t-conscious-i-also-can-t-prove-that-you-are-a9f02e22694b?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI is Rewriting the Rules of Social Media. Most People Haven’t Noticed Yet.](https://medium.com/@aihabitss/ai-is-rewriting-the-rules-of-social-media-most-people-havent-noticed-yet-4b2a0e6b5e3d?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Replaced My $240/Year ChatGPT Subscription With 4 Free Chinese AI Tools](https://medium.com/@mengjunxing586/i-replaced-my-240-year-chatgpt-subscription-with-4-free-chinese-ai-tools-2267e6bf0597?source=rss------artificial_intelligence-5)**
-> 🔹 **[ASSESSMENT: QUANTIFYING COGNITIVE DRIFT IN TRANSFORMER NETWORKS](https://medium.com/@project3000pn/assessment-quantifying-cognitive-drift-in-transformer-networks-e446aeb7ab2c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best Dictation Apps for Podcasters in 2026](https://medium.com/@ryanshrott/best-dictation-apps-for-podcasters-in-2026-5d13c53a848f?source=rss------artificial_intelligence-5)**
+> 🔹 **[](https://medium.com/@lishayyyy/-9f8e5895e4be?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building an LLM From Scratch: The Mechanism That Changed AI Forever, Implemented From Zero](https://pub.towardsai.net/building-an-llm-from-scratch-the-mechanism-that-changed-ai-forever-implemented-from-zero-15cb1127ed27?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Prompt That Saved Me 2 Hours of Work Today &lpar;And 9 Others Like It&rpar;](https://ai-madeasy.medium.com/the-prompt-that-saved-me-2-hours-of-work-today-and-9-others-like-it-997007364ac5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can We Ditch the Bloat Already?: A Practical Plan for Owning Our Code Again](https://medium.com/@cstroliadavis/can-we-ditch-the-bloat-already-a-practical-plan-for-owning-our-code-again-006dfd2858f9?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Side Hustles in 2026: Why Smart Creators Are Building Digital Income Instead of Chasing Tren...](https://medium.com/@lamech4crypto/ai-side-hustles-in-2026-why-smart-creators-are-building-digital-income-instead-of-chasing-trends-1ca0d81bbcae?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Started to Spy on AI](https://medium.com/@sementkovskayak/i-started-to-spy-on-ai-23836304562f?source=rss------artificial_intelligence-5)**
+> 🔹 **[My First Real Experience with Real-World Data](https://medium.com/@ysarchana2006/my-first-real-experience-with-real-world-data-ad535b8e2370?source=rss------artificial_intelligence-5)**
+> 🔹 **[INSIDE GROOVE 360: A Satirical Screenplay About the Algorithm We Keep Pretending We Control](https://medium.com/@jan.z_37194/inside-groove-360-a-satirical-screenplay-about-the-algorithm-we-keep-pretending-we-control-ea6224021b0a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
