@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Claude Fable 5 Just Released. The Real Story Is Not the Benchmark](https://medium.com/@myselfvinamrayadav/claude-fable-5-just-released-the-real-story-is-not-the-benchmark-57cf4d5e58ea?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who gets to define reality? Self-models and self-deception in distributed systems](https://medium.com/@dblankovsky/who-gets-to-define-reality-self-models-and-self-deception-in-distributed-systems-42ddc476595a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Git vs GitHub Explained for Students](https://medium.com/@kafeeromirembemercy/git-vs-github-explained-for-students-2fdaa64001de?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Really Happens When You Talk to an LLM](https://medium.com/@hs108699/what-really-happens-when-you-talk-to-an-llm-0811448b2c0f?source=rss------artificial_intelligence-5)**
-> 🔹 **[CRDTs From Scratch — Building Conflict-Free Data Structures in C#](https://medium.com/c-sharp-programming/crdts-from-scratch-building-conflict-free-data-structures-in-c-8eae537f153f?source=rss------data_structures-5)**
-> 🔹 **[The Coherence Warning Layer](https://medium.com/@terryshamilton/the-coherence-warning-layer-705cdbf77ed0?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tried Claude Fable 5 for a Weekend — Here’s What It Actually Changed](https://manterapj.medium.com/i-tried-claude-fable-5-for-a-weekend-heres-what-it-actually-changed-de674961a200?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Gave an AI Agent a Mandate to Invest. Here’s How It Thinks.](https://clem-lrdr.medium.com/we-gave-an-ai-agent-a-mandate-to-invest-heres-how-it-thinks-58d1102261c2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the Circle: Polar Form, State, and the Hidden Structure of Emergence](https://medium.com/@bulanramai2558/beyond-the-circle-polar-form-state-and-the-hidden-structure-of-emergence-6c9dede9214e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Sixth Stage of Democracy
+From Institutions to Protocols](https://medium.com/@fishspr0038/the-sixth-stage-of-democracy-from-institutions-to-protocols-1f37c7538eb5?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Gave Us Speed-Reading Reality. But Do We Actually Understand What We’ve Read?](https://medium.com/@ivtekb/ai-gave-us-speed-reading-reality-but-do-we-actually-understand-what-weve-read-8e12c170825a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Taking Meeting Notes. You Were Never Good at It Anyway.](https://medium.com/write-rise/stop-taking-meeting-notes-you-were-never-good-at-it-anyway-3af452e1fa10?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Adoption Gap: Why Enterprises Have AI Tools But Still Struggle to Make Decisions](https://medium.com/@reshma_sooraj/the-ai-adoption-gap-why-enterprises-have-ai-tools-but-still-struggle-to-make-decisions-5f35c5392858?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Fable 5 Is Here — And It Signals the Next Evolution of Agentic AI](https://medium.com/@anil.futuristic/claude-fable-5-is-here-and-it-signals-the-next-evolution-of-agentic-ai-fe31d53e7aa9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Dinosaur AI, Breathing AI](https://medium.com/@shir75532/dinosaur-ai-breathing-ai-0b4ea421b0d5?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Best Customer of 2026 Is a Bot. Your Fraud System Just Blocked It.](https://medium.com/@piyushyush08/the-best-customer-of-2026-is-a-bot-your-fraud-system-just-blocked-it-e3d80e6def45?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
