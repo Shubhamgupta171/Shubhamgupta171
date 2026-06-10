@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[](https://medium.com/@lishayyyy/-9f8e5895e4be?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building an LLM From Scratch: The Mechanism That Changed AI Forever, Implemented From Zero](https://pub.towardsai.net/building-an-llm-from-scratch-the-mechanism-that-changed-ai-forever-implemented-from-zero-15cb1127ed27?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Prompt That Saved Me 2 Hours of Work Today &lpar;And 9 Others Like It&rpar;](https://ai-madeasy.medium.com/the-prompt-that-saved-me-2-hours-of-work-today-and-9-others-like-it-997007364ac5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can We Ditch the Bloat Already?: A Practical Plan for Owning Our Code Again](https://medium.com/@cstroliadavis/can-we-ditch-the-bloat-already-a-practical-plan-for-owning-our-code-again-006dfd2858f9?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Side Hustles in 2026: Why Smart Creators Are Building Digital Income Instead of Chasing Tren...](https://medium.com/@lamech4crypto/ai-side-hustles-in-2026-why-smart-creators-are-building-digital-income-instead-of-chasing-trends-1ca0d81bbcae?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Started to Spy on AI](https://medium.com/@sementkovskayak/i-started-to-spy-on-ai-23836304562f?source=rss------artificial_intelligence-5)**
-> 🔹 **[My First Real Experience with Real-World Data](https://medium.com/@ysarchana2006/my-first-real-experience-with-real-world-data-ad535b8e2370?source=rss------artificial_intelligence-5)**
-> 🔹 **[INSIDE GROOVE 360: A Satirical Screenplay About the Algorithm We Keep Pretending We Control](https://medium.com/@jan.z_37194/inside-groove-360-a-satirical-screenplay-about-the-algorithm-we-keep-pretending-we-control-ea6224021b0a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Was Life the First Generative System?](https://medium.com/@jonahajdari/was-life-the-first-generative-system-99c90ec3b8cb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Experiments Might Not Be Experiments.](https://medium.com/@jwhite_15604/your-experiments-might-not-be-experiments-c61b73d45b61?source=rss------artificial_intelligence-5)**
+> 🔹 **[Today’s the start of a new AI era you aren’t invited to.](https://medium.com/@ignacio.de.gregorio.noblejas/todays-the-start-of-a-new-ai-era-you-aren-t-invited-to-e0172b6ac3b8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Kitten, the Tooth Fairy, and the Window Frame](https://medium.com/@sabrina.jorgenson/the-kitten-the-tooth-fairy-and-the-window-frame-57d1ddb3c9bb?source=rss------artificial_intelligence-5)**
+> 🔹 **[You’re Not a Developer Anymore. You’re a Director.](https://medium.com/@technicalrupesh13/youre-not-a-developer-anymore-you-re-a-director-5070f3195d39?source=rss------backend_development-5)**
+> 🔹 **[How AI Tools Can Help You Get More Sales From Your Online Business](https://medium.com/@rullzzmm/how-ai-tools-can-help-you-get-more-sales-from-your-online-business-52976457f96a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Illiteracy Redefined by AI](https://medium.com/@muchirijohn28/illiteracy-redefined-by-ai-833d7c62432e?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Shift Your Skill Set as Technology Rapidly Evolves](https://medium.com/@jilovecjoseph/how-to-shift-your-skill-set-as-technology-rapidly-evolves-0f6897996cba?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
