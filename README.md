@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[When the cost of code approaches zero, what does engineering leadership look like?​​​​‌﻿‍﻿​‍​‍‌...](https://stackoverflow.blog/2026/06/11/engineering-leadership-zero-cost-code/)**
-> 🔹 **[The Guard at the Gate: How Redis Rate Limiting Actually Works](https://medium.com/@vipinsharma485/how-redis-rate-limiting-actually-works-cbb5c5b17d6b?source=rss------system_design-5)**
-> 🔹 **[DSA Day 94/250: Kth Smallest Element in a Sorted Matrix &lpar;LeetCode 378&rpar;](https://medium.com/@rahul.kumar0/dsa-day-94-250-kth-smallest-element-in-a-sorted-matrix-leetcode-378-9c382fa11a9a?source=rss------data_structures-5)**
-> 🔹 **[Go Arrays vs Slices: A Deep Comparison That Will Change How You Write Go](https://medium.com/@feildrixliemdra/go-arrays-vs-slices-a-deep-comparison-that-will-change-how-you-write-go-954a4b4f93b5?source=rss------backend_development-5)**
-> 🔹 **[Google DiffusionGemma: Text Generation 4x Faster](https://medium.com/data-science-in-your-pocket/google-diffusiongemma-text-generation-4x-faster-163eed5fd954?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI-Powered Remote Work Platforms Cut Enterprise Fuel Expenses in 2026](https://medium.com/@david.wilson.digital/how-ai-powered-remote-work-platforms-cut-enterprise-fuel-expenses-in-2026-f6dd55bb68df?source=rss------artificial_intelligence-5)**
-> 🔹 **[Moving Beyond Shallow Tool-Calling: Building Deep Agents for Complex, Long-term Tasks](https://subratpati.medium.com/moving-beyond-shallow-tool-calling-building-deep-agents-for-complex-long-term-tasks-188587f7ea4c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Where Does OpenClaw End &amp; Marcus Begin?](https://medium.com/@minnacross/where-does-openclaw-end-marcus-begin-df6a6238ad0f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Firers Just Got Fired](https://medium.com/illumination/the-firers-just-got-fired-dce50062d2ca?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Cost Of Being Reachable All Day](https://medium.com/@aiforambitiousprofessionals/the-hidden-cost-of-being-reachable-all-day-8ec14434470b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Skipped Idempotency Because I Never Asked. So I Made Asking Unnecessary.](https://joshmcdonald.medium.com/claude-skipped-idempotency-because-i-never-asked-so-i-made-asking-unnecessary-b7afa142c85d?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Floresta](https://medium.com/@kaiom.t.303/a-floresta-4744c78850ce?source=rss------artificial_intelligence-5)**
+> 🔹 **[✨ I Stir Up Drama Between AIs](https://medium.com/@harumm1012/i-stir-up-drama-between-ais-f92717dbfcf2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Konuşamadığımız, Yalnız ve Cansız: Dil Öğrenme Uygulamalarında Eksik Olan Üç Şey](https://medium.com/@emirhanakyuzlu283/konu%C5%9Famad%C4%B1%C4%9F%C4%B1m%C4%B1z-yaln%C4%B1z-ve-cans%C4%B1z-dil-%C3%B6%C4%9Frenme-uygulamalar%C4%B1nda-eksik-olan-%C3%BC%C3%A7-%C5%9Fey-e8f2a4dfb483?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Transforming Outbound Prospecting for SDR Teams](https://medium.com/@shahzad_3157/how-ai-is-transforming-outbound-prospecting-for-sdr-teams-f51e2a345aa1?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Transforming B2B Lead Generation in 2026](https://medium.com/@gravitasin123/how-ai-is-transforming-b2b-lead-generation-in-2026-1db1f891e316?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
