@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Senior Designers Get Hired for Taste, Not Tools](https://medium.com/@stephansimorka/why-senior-designers-get-hired-for-taste-not-tools-2b2e518b9796?source=rss------system_design-5)**
-> 🔹 **[Getting started from scratch with local GenAI using MLX LM and OpenCode on an Apple Silicon Mac...](https://medium.com/@guillem.riera/getting-started-from-scratch-with-local-genai-using-mlx-lm-and-opencode-on-an-apple-silicon-mac-9fe2b2256b48?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is AI Stealing Our Ability to Think?](https://medium.com/@sh.raza0000/is-ai-stealing-our-ability-to-think-5837bf995d74?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Spec-Driven Development Won. Now Comes the Hard Part.](https://medium.com/@enrico.papalini/the-spec-driven-development-won-now-comes-the-hard-part-048a75336cb4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Commerce beyond the website.](https://medium.com/@andy_29549/commerce-beyond-the-website-aabbbc130f1f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Arabic Transcription Services: Why Islamic Publishers are Shifting to Specialized AI](https://medium.com/@ali.alhijra1/arabic-transcription-services-why-islamic-publishers-are-shifting-to-specialized-ai-460feca2ebb6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Digital Twin-Based Energy Consumption Tracker: The Future of Smart Energy Management](https://medium.com/@kumariekta1607/digital-twin-based-energy-consumption-tracker-the-future-of-smart-energy-management-e62f5e3bf405?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Coming Wave: Why the next bubble isn’t software, it’s depreciation](https://medium.com/unfuzzy-logic/the-coming-wave-why-the-next-bubble-isnt-software-it-s-depreciation-8bd8ff68889e?source=rss------artificial_intelligence-5)**
+> 🔹 **[He’s Just a Happy Unicyclist](https://medium.com/@Wfh.iii/hes-just-a-happy-unicyclist-c4716aa70373?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents Will Soon Shop and Pay for You](https://yaro360.medium.com/ai-agents-will-soon-shop-and-pay-for-you-d25013c7a32a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The $1-a-Day AI Sales Team That Beat Salesforce &amp; HubSpot](https://alanscottencinas.medium.com/the-1-a-day-ai-sales-team-that-beat-salesforce-hubspot-02b368154a83?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Spent a Month Talking to AI Girlfriends So You Don’t Have To — Here’s My Honest 2026 Ranking](https://medium.com/@pearlmarketaed/i-spent-a-month-talking-to-ai-girlfriends-so-you-dont-have-to-here-s-my-honest-2026-ranking-6a50a164a7af?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tested 15+ AI Presentation Makers — Here’s What Actually Works](https://medium.com/@milanpatel01/best-ai-presentation-makers-8938c7aa255b?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Calling &amp; Screening in India: How Futuremug Is Redefining Hiring Efficiency](https://medium.com/@najahmajeedpp/ai-calling-screening-in-india-how-futuremug-is-redefining-hiring-efficiency-e7b81df8b423?source=rss------artificial_intelligence-5)**
+> 🔹 **[Wild Theories: Why Meta Keeps Open Sourcing Quality AI Work](https://medium.com/@haryakshbhardwaj/wild-theories-why-meta-keeps-open-sourcing-quality-ai-work-1932dbbbb070?source=rss------artificial_intelligence-5)**
+> 🔹 **[DSA Day 95/250: Find K Pairs with Smallest Sums &lpar;LeetCode 373&rpar;](https://medium.com/codex/dsa-day-95-250-find-k-pairs-with-smallest-sums-leetcode-373-12ddcb587d95?source=rss------data_structures-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
