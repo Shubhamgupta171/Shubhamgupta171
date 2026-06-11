@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Was Life the First Generative System?](https://medium.com/@jonahajdari/was-life-the-first-generative-system-99c90ec3b8cb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Experiments Might Not Be Experiments.](https://medium.com/@jwhite_15604/your-experiments-might-not-be-experiments-c61b73d45b61?source=rss------artificial_intelligence-5)**
-> 🔹 **[Today’s the start of a new AI era you aren’t invited to.](https://medium.com/@ignacio.de.gregorio.noblejas/todays-the-start-of-a-new-ai-era-you-aren-t-invited-to-e0172b6ac3b8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Kitten, the Tooth Fairy, and the Window Frame](https://medium.com/@sabrina.jorgenson/the-kitten-the-tooth-fairy-and-the-window-frame-57d1ddb3c9bb?source=rss------artificial_intelligence-5)**
-> 🔹 **[You’re Not a Developer Anymore. You’re a Director.](https://medium.com/@technicalrupesh13/youre-not-a-developer-anymore-you-re-a-director-5070f3195d39?source=rss------backend_development-5)**
-> 🔹 **[How AI Tools Can Help You Get More Sales From Your Online Business](https://medium.com/@rullzzmm/how-ai-tools-can-help-you-get-more-sales-from-your-online-business-52976457f96a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Illiteracy Redefined by AI](https://medium.com/@muchirijohn28/illiteracy-redefined-by-ai-833d7c62432e?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Shift Your Skill Set as Technology Rapidly Evolves](https://medium.com/@jilovecjoseph/how-to-shift-your-skill-set-as-technology-rapidly-evolves-0f6897996cba?source=rss------artificial_intelligence-5)**
+> 🔹 **[When the cost of code approaches zero, what does engineering leadership look like?​​​​‌﻿‍﻿​‍​‍‌...](https://stackoverflow.blog/2026/06/11/engineering-leadership-zero-cost-code/)**
+> 🔹 **[The Guard at the Gate: How Redis Rate Limiting Actually Works](https://medium.com/@vipinsharma485/how-redis-rate-limiting-actually-works-cbb5c5b17d6b?source=rss------system_design-5)**
+> 🔹 **[DSA Day 94/250: Kth Smallest Element in a Sorted Matrix &lpar;LeetCode 378&rpar;](https://medium.com/@rahul.kumar0/dsa-day-94-250-kth-smallest-element-in-a-sorted-matrix-leetcode-378-9c382fa11a9a?source=rss------data_structures-5)**
+> 🔹 **[Go Arrays vs Slices: A Deep Comparison That Will Change How You Write Go](https://medium.com/@feildrixliemdra/go-arrays-vs-slices-a-deep-comparison-that-will-change-how-you-write-go-954a4b4f93b5?source=rss------backend_development-5)**
+> 🔹 **[Google DiffusionGemma: Text Generation 4x Faster](https://medium.com/data-science-in-your-pocket/google-diffusiongemma-text-generation-4x-faster-163eed5fd954?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI-Powered Remote Work Platforms Cut Enterprise Fuel Expenses in 2026](https://medium.com/@david.wilson.digital/how-ai-powered-remote-work-platforms-cut-enterprise-fuel-expenses-in-2026-f6dd55bb68df?source=rss------artificial_intelligence-5)**
+> 🔹 **[Moving Beyond Shallow Tool-Calling: Building Deep Agents for Complex, Long-term Tasks](https://subratpati.medium.com/moving-beyond-shallow-tool-calling-building-deep-agents-for-complex-long-term-tasks-188587f7ea4c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Where Does OpenClaw End &amp; Marcus Begin?](https://medium.com/@minnacross/where-does-openclaw-end-marcus-begin-df6a6238ad0f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
