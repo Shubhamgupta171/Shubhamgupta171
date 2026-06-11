@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Firers Just Got Fired](https://medium.com/illumination/the-firers-just-got-fired-dce50062d2ca?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Cost Of Being Reachable All Day](https://medium.com/@aiforambitiousprofessionals/the-hidden-cost-of-being-reachable-all-day-8ec14434470b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Skipped Idempotency Because I Never Asked. So I Made Asking Unnecessary.](https://joshmcdonald.medium.com/claude-skipped-idempotency-because-i-never-asked-so-i-made-asking-unnecessary-b7afa142c85d?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Floresta](https://medium.com/@kaiom.t.303/a-floresta-4744c78850ce?source=rss------artificial_intelligence-5)**
-> 🔹 **[✨ I Stir Up Drama Between AIs](https://medium.com/@harumm1012/i-stir-up-drama-between-ais-f92717dbfcf2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Konuşamadığımız, Yalnız ve Cansız: Dil Öğrenme Uygulamalarında Eksik Olan Üç Şey](https://medium.com/@emirhanakyuzlu283/konu%C5%9Famad%C4%B1%C4%9F%C4%B1m%C4%B1z-yaln%C4%B1z-ve-cans%C4%B1z-dil-%C3%B6%C4%9Frenme-uygulamalar%C4%B1nda-eksik-olan-%C3%BC%C3%A7-%C5%9Fey-e8f2a4dfb483?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Is Transforming Outbound Prospecting for SDR Teams](https://medium.com/@shahzad_3157/how-ai-is-transforming-outbound-prospecting-for-sdr-teams-f51e2a345aa1?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Is Transforming B2B Lead Generation in 2026](https://medium.com/@gravitasin123/how-ai-is-transforming-b2b-lead-generation-in-2026-1db1f891e316?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Senior Designers Get Hired for Taste, Not Tools](https://medium.com/@stephansimorka/why-senior-designers-get-hired-for-taste-not-tools-2b2e518b9796?source=rss------system_design-5)**
+> 🔹 **[Getting started from scratch with local GenAI using MLX LM and OpenCode on an Apple Silicon Mac...](https://medium.com/@guillem.riera/getting-started-from-scratch-with-local-genai-using-mlx-lm-and-opencode-on-an-apple-silicon-mac-9fe2b2256b48?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is AI Stealing Our Ability to Think?](https://medium.com/@sh.raza0000/is-ai-stealing-our-ability-to-think-5837bf995d74?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Spec-Driven Development Won. Now Comes the Hard Part.](https://medium.com/@enrico.papalini/the-spec-driven-development-won-now-comes-the-hard-part-048a75336cb4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Commerce beyond the website.](https://medium.com/@andy_29549/commerce-beyond-the-website-aabbbc130f1f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Arabic Transcription Services: Why Islamic Publishers are Shifting to Specialized AI](https://medium.com/@ali.alhijra1/arabic-transcription-services-why-islamic-publishers-are-shifting-to-specialized-ai-460feca2ebb6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Digital Twin-Based Energy Consumption Tracker: The Future of Smart Energy Management](https://medium.com/@kumariekta1607/digital-twin-based-energy-consumption-tracker-the-future-of-smart-energy-management-e62f5e3bf405?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Coming Wave: Why the next bubble isn’t software, it’s depreciation](https://medium.com/unfuzzy-logic/the-coming-wave-why-the-next-bubble-isnt-software-it-s-depreciation-8bd8ff68889e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
