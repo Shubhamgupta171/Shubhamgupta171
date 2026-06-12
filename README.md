@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Agent 成本的失控：如何分配 Token並提高投資報酬率](https://medium.com/@nydia9662_84615/agent-%E6%88%90%E6%9C%AC%E7%9A%84%E5%A4%B1%E6%8E%A7-%E5%A6%82%E4%BD%95%E5%88%86%E9%85%8D-token%E4%B8%A6%E6%8F%90%E9%AB%98%E6%8A%95%E8%B3%87%E5%A0%B1%E9%85%AC%E7%8E%87-930322d1da9e?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI K-Pop Concert Screen Tutorial: Crafting the Ultimate Fan-Cam Effect](https://medium.com/@hi_87782/ai-k-pop-concert-screen-tutorial-crafting-the-ultimate-fan-cam-effect-9b2b273edacf?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Spent $4,000 Upskilling for the AI Economy. The AI Caught Up in a Quarter.](https://medium.com/@Hiro.Y/i-spent-4-000-upskilling-for-the-ai-economy-the-ai-caught-up-in-a-quarter-df182de6dfec?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Won’t Replace Humans — But Humans Who Use AI Will Replace Those Who Don’t](https://medium.com/@chakrabortymrinmoy2001/ai-wont-replace-humans-but-humans-who-use-ai-will-replace-those-who-don-t-cc31aa3f1f4d?source=rss------artificial_intelligence-5)**
-> 🔹 **[FIFA AI Pro: o assistente de IA que todas as seleções da Copa têm](https://medium.com/@promptpeter.ofc/fifa-ai-pro-o-assistente-de-ia-que-todas-as-sele%C3%A7%C3%B5es-da-copa-t%C3%AAm-e9752d783d60?source=rss------artificial_intelligence-5)**
-> 🔹 **[# 14 Industries, 1 Platform: Why We Built an AI Operating System Instead of Another CRM](https://medium.com/@alessandro.binda114/14-industries-1-platform-why-we-built-an-ai-operating-system-instead-of-another-crm-34e5e9dca38b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Java Virtual Threads: How Are Millions of Threads Possible?](https://didemagdogan.medium.com/java-virtual-threads-how-are-millions-of-threads-possible-b00a0bbb5868?source=rss------backend_development-5)**
-> 🔹 **[Claude Fable 5 vs. Claude Mythos 5: Anthropic’s Frontier Model Is Also a Safety-Routing Experim...](https://medium.com/@sankalpjain3008/claude-fable-5-vs-claude-mythos-5-anthropics-frontier-model-is-also-a-safety-routing-experiment-3037c7e195ba?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Your Internet Is Slow &lpar;And Why Nobody Will Tell You the Real Reason&rpar;](https://medium.com/@komalpanwr5/why-your-internet-is-slow-and-why-nobody-will-tell-you-the-real-reason-1f0d12c0b4d6?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Five-Minute Miracle: Inside Google’s Willow Quantum Computer](https://medium.com/@nageshchauhanc4/the-five-minute-miracle-inside-googles-willow-quantum-computer-b5fd03389f16?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Own Handwritten Post Got Flagged as Fully AI. I Wrote Every Word. So I Built a Better Check.](https://medium.com/@assaf_85431/my-own-handwritten-post-got-flagged-as-fully-ai-i-wrote-every-word-so-i-built-a-better-check-0a6fe8aec68b?source=rss------artificial_intelligence-5)**
+> 🔹 **[WARNING: An AI Safety Blind Spot That Could Cost Lives](https://medium.com/@moiseevaaigul/warning-an-ai-safety-blind-spot-that-could-cost-lives-db8f4b999d4c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Quantum Machine Learning: Where Science Fiction Meets Reality](https://medium.com/@nageshchauhanc4/quantum-machine-learning-where-science-fiction-meets-reality-274af69ca43f?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is CLI? The Command Line Behind Modern AI Work](https://medium.com/@ambli_ai/what-is-cli-the-command-line-behind-modern-ai-work-55eb7ecafacb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Debate Arena — Episode 33: When Identity Can Be Edited, Who Are You?](https://medium.com/@aidebatearena/the-ai-debate-arena-episode-33-when-identity-can-be-edited-who-are-you-a60cced59e94?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Double Enclosure: The Human-Authorship Requirement as Two-Sided Expropriation, with a…](https://medium.com/@leesharks00/the-double-enclosure-the-human-authorship-requirement-as-two-sided-expropriation-with-a-692c9a7b9e6b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
