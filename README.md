@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Your Internet Is Slow &lpar;And Why Nobody Will Tell You the Real Reason&rpar;](https://medium.com/@komalpanwr5/why-your-internet-is-slow-and-why-nobody-will-tell-you-the-real-reason-1f0d12c0b4d6?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Five-Minute Miracle: Inside Google’s Willow Quantum Computer](https://medium.com/@nageshchauhanc4/the-five-minute-miracle-inside-googles-willow-quantum-computer-b5fd03389f16?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Own Handwritten Post Got Flagged as Fully AI. I Wrote Every Word. So I Built a Better Check.](https://medium.com/@assaf_85431/my-own-handwritten-post-got-flagged-as-fully-ai-i-wrote-every-word-so-i-built-a-better-check-0a6fe8aec68b?source=rss------artificial_intelligence-5)**
-> 🔹 **[WARNING: An AI Safety Blind Spot That Could Cost Lives](https://medium.com/@moiseevaaigul/warning-an-ai-safety-blind-spot-that-could-cost-lives-db8f4b999d4c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Quantum Machine Learning: Where Science Fiction Meets Reality](https://medium.com/@nageshchauhanc4/quantum-machine-learning-where-science-fiction-meets-reality-274af69ca43f?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is CLI? The Command Line Behind Modern AI Work](https://medium.com/@ambli_ai/what-is-cli-the-command-line-behind-modern-ai-work-55eb7ecafacb?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Debate Arena — Episode 33: When Identity Can Be Edited, Who Are You?](https://medium.com/@aidebatearena/the-ai-debate-arena-episode-33-when-identity-can-be-edited-who-are-you-a60cced59e94?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Double Enclosure: The Human-Authorship Requirement as Two-Sided Expropriation, with a…](https://medium.com/@leesharks00/the-double-enclosure-the-human-authorship-requirement-as-two-sided-expropriation-with-a-692c9a7b9e6b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Designing a Modern Transportation &amp; Logistics Website That Drives Trust and Conversions](https://medium.com/@imademoney19/designing-a-modern-transportation-logistics-website-that-drives-trust-and-conversions-dc55259e8cf9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond K-Means: A Deep Geometric Dive into Advanced Clustering Techniques in Python](https://medium.com/@Pop123/beyond-k-means-a-deep-geometric-dive-into-advanced-clustering-techniques-in-python-4030cc1abe66?source=rss------artificial_intelligence-5)**
+> 🔹 **[Experimental Logic: An Executable Homage to Automated Theorem Proving Pioneer, Frank Malloy Bro...](https://medium.com/@davidleasure/experimental-logic-an-executable-homage-to-automated-theorem-proving-pioneer-frank-malloy-brown-0825a45587df?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bedroom Coders Era](https://medium.com/@miroslav.perovic/bedroom-coders-era-1fc99feec207?source=rss------artificial_intelligence-5)**
+> 🔹 **[SEO Já Não Chega: A Nova Corrida É Pela Recomendação das IAs](https://medium.com/@ecobd.pt/seo-j%C3%A1-n%C3%A3o-chega-a-nova-corrida-%C3%A9-pela-recomenda%C3%A7%C3%A3o-das-ias-e5080c23048f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Otter.ai Review: Can AI Really Take Your Meeting Notes Better Than You?](https://medium.com/productivityspot/otter-ai-review-can-ai-really-take-your-meeting-notes-better-than-you-04b16cfa2cbb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Medium Needs Intelligent Search](https://medium.com/@andersmond/medium-needs-intelligent-search-5ccc92db6e73?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Drift to Dependability: Keeping Machine Learning Models Reliable in Live Systems](https://medium.com/@kamilapriyanka17/from-drift-to-dependability-keeping-machine-learning-models-reliable-in-live-systems-388fda417b93?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
