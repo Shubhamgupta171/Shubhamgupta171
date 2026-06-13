@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Designing a Modern Transportation &amp; Logistics Website That Drives Trust and Conversions](https://medium.com/@imademoney19/designing-a-modern-transportation-logistics-website-that-drives-trust-and-conversions-dc55259e8cf9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond K-Means: A Deep Geometric Dive into Advanced Clustering Techniques in Python](https://medium.com/@Pop123/beyond-k-means-a-deep-geometric-dive-into-advanced-clustering-techniques-in-python-4030cc1abe66?source=rss------artificial_intelligence-5)**
-> 🔹 **[Experimental Logic: An Executable Homage to Automated Theorem Proving Pioneer, Frank Malloy Bro...](https://medium.com/@davidleasure/experimental-logic-an-executable-homage-to-automated-theorem-proving-pioneer-frank-malloy-brown-0825a45587df?source=rss------artificial_intelligence-5)**
-> 🔹 **[Bedroom Coders Era](https://medium.com/@miroslav.perovic/bedroom-coders-era-1fc99feec207?source=rss------artificial_intelligence-5)**
-> 🔹 **[SEO Já Não Chega: A Nova Corrida É Pela Recomendação das IAs](https://medium.com/@ecobd.pt/seo-j%C3%A1-n%C3%A3o-chega-a-nova-corrida-%C3%A9-pela-recomenda%C3%A7%C3%A3o-das-ias-e5080c23048f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Otter.ai Review: Can AI Really Take Your Meeting Notes Better Than You?](https://medium.com/productivityspot/otter-ai-review-can-ai-really-take-your-meeting-notes-better-than-you-04b16cfa2cbb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Medium Needs Intelligent Search](https://medium.com/@andersmond/medium-needs-intelligent-search-5ccc92db6e73?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Drift to Dependability: Keeping Machine Learning Models Reliable in Live Systems](https://medium.com/@kamilapriyanka17/from-drift-to-dependability-keeping-machine-learning-models-reliable-in-live-systems-388fda417b93?source=rss------artificial_intelligence-5)**
+> 🔹 **[When SERP and AI Give Different Answers About the Same Brand](https://medium.com/@reputation.house/when-serp-and-ai-give-different-answers-about-the-same-brand-c58cf0e4b8e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Anthropic’s Latest AI Safety Controversy Matters More Than Most People Realize](https://medium.com/@hasifbashak/why-anthropics-latest-ai-safety-controversy-matters-more-than-most-people-realize-a1dc150256af?source=rss------artificial_intelligence-5)**
+> 🔹 **[Anthropic Pulled All Foreign Access to Fable 5 and Mythos 5: A Wake-Up Call for EU Businesses](https://medium.com/@robertkeus/anthropic-pulled-all-foreign-access-to-fable-5-and-mythos-5-a-wake-up-call-for-eu-businesses-4ed9e77781d1?source=rss------artificial_intelligence-5)**
+> 🔹 **[The $Trillion AI Infrastructure Battle Nobody Is Talking About](https://medium.com/@abhinavjha07rigcg07/the-trillion-ai-infrastructure-battle-nobody-is-talking-about-7fc85fddc9d0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Coordination Tax: What Your SaaS Stack Is Actually Costing You](https://medium.com/@indianagregg/the-coordination-tax-what-your-saas-stack-is-actually-costing-you-36d72af48ffc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Invisible Hand: How AI is Quietly Rewiring What We Want](https://medium.com/@geminispp1/the-invisible-hand-how-ai-is-quietly-rewiring-what-we-want-7a745e28b83d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Rush Is Already Splitting Into Red Oceans and Blue Oceans-Here’s Where the Real Advantag...](https://medium.com/write-a-catalyst/the-ai-rush-is-already-splitting-into-red-oceans-and-blue-oceans-heres-where-the-real-advantage-is-f43adcf98bd0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nashville Zoo Data Center Battle: What’s at Stake for Wildlife](https://medium.com/write-a-catalyst/nashville-zoo-data-center-battle-whats-at-stake-for-wildlife-2bc1252e8c43?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
