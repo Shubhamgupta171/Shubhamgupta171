@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Neden Bazı AI’lar Sadece Konuşur, Bazıları Çalışır?](https://medium.com/@samet57071/neden-baz%C4%B1-ailar-sadece-konu%C5%9Fur-baz%C4%B1lar%C4%B1-%C3%A7al%C4%B1%C5%9F%C4%B1r-69d139c3dee3?source=rss------system_design-5)**
-> 🔹 **[Someone Just Found the Off Switch for AI](https://medium.com/@theblankcollar/someone-just-found-the-off-switch-for-ai-2e93ac2853b9?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Markdown to Video: An Open-Source Alternative to NotebookLM](https://thebojda.medium.com/from-markdown-to-video-an-open-source-alternative-to-notebooklm-1f96d8bb62c8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Odysseus Is Not Another AI Agent, It Is the Local-First AI Workspace Power Users Were Missing](https://medium.com/data-science-collective/odysseus-is-not-another-ai-agent-it-is-the-local-first-ai-workspace-power-users-were-missing-f319a1787d56?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who Actually Pays for Your Free AI?](https://medium.com/@spmishrais/who-actually-pays-for-your-free-ai-ccebfb5745e9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nobody Is Talking About the Real Reason AI Companions Are Exploding — And It’s Not What You Thi...](https://medium.com/@shreeramkulat/nobody-is-talking-about-the-real-reason-ai-companions-are-exploding-and-its-not-what-you-think-996fe905f37c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Fable &amp; Mythos went offline. Here’s everything you need to know](https://medium.com/@dataspeak2026/fable-mythos-went-offline-heres-everything-you-need-to-know-5306b37a4b52?source=rss------artificial_intelligence-5)**
-> 🔹 **[Android Push Notification System Design: Architecture, Best Practices, and Production Pitfalls](https://medium.com/@sivavishnu0705/android-push-notification-system-design-architecture-best-practices-and-production-pitfalls-bdd4c9a897b6?source=rss------system_design-5)**
+> 🔹 **[When the Evaluator Became Part of the Generation System](https://medium.com/@lmhawkes/when-the-evaluator-became-part-of-the-generation-system-d2870a02d487?source=rss------artificial_intelligence-5)**
+> 🔹 **[Teaching a Model to Reason — and Then Making It Cheap](https://medium.com/@candemir13/teaching-a-model-to-reason-and-then-making-it-cheap-41a53fd417fb?source=rss------artificial_intelligence-5)**
+> 🔹 **[new extention](https://medium.com/@hamza.ahmadani2015/new-extention-57e45320cfe7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Author’s Preface for the Six‑Article Series Below](https://medium.com/@rick.peabody/authors-preface-for-the-six-article-series-below-818fc1bdde42?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI No Longer Recommends. It Steers.](https://medium.com/@a4gcollab/ai-no-longer-recommends-it-steers-b6731240c831?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Cost of Modern Engineering](https://medium.com/@akhilparmar2496/the-hidden-cost-of-modern-engineering-14d561d9bb75?source=rss------artificial_intelligence-5)**
+> 🔹 **[The First Crack](https://rfnoris.medium.com/the-first-crack-7a0112cb10a2?source=rss------artificial_intelligence-5)**
+> 🔹 **[This is How Gen Z Can Leverage AI](https://medium.com/@prakashdogra/this-is-how-gen-z-can-leverage-ai-1f7f7ecab5f1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
