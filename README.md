@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[When SERP and AI Give Different Answers About the Same Brand](https://medium.com/@reputation.house/when-serp-and-ai-give-different-answers-about-the-same-brand-c58cf0e4b8e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Anthropic’s Latest AI Safety Controversy Matters More Than Most People Realize](https://medium.com/@hasifbashak/why-anthropics-latest-ai-safety-controversy-matters-more-than-most-people-realize-a1dc150256af?source=rss------artificial_intelligence-5)**
-> 🔹 **[Anthropic Pulled All Foreign Access to Fable 5 and Mythos 5: A Wake-Up Call for EU Businesses](https://medium.com/@robertkeus/anthropic-pulled-all-foreign-access-to-fable-5-and-mythos-5-a-wake-up-call-for-eu-businesses-4ed9e77781d1?source=rss------artificial_intelligence-5)**
-> 🔹 **[The $Trillion AI Infrastructure Battle Nobody Is Talking About](https://medium.com/@abhinavjha07rigcg07/the-trillion-ai-infrastructure-battle-nobody-is-talking-about-7fc85fddc9d0?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Coordination Tax: What Your SaaS Stack Is Actually Costing You](https://medium.com/@indianagregg/the-coordination-tax-what-your-saas-stack-is-actually-costing-you-36d72af48ffc?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Invisible Hand: How AI is Quietly Rewiring What We Want](https://medium.com/@geminispp1/the-invisible-hand-how-ai-is-quietly-rewiring-what-we-want-7a745e28b83d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Rush Is Already Splitting Into Red Oceans and Blue Oceans-Here’s Where the Real Advantag...](https://medium.com/write-a-catalyst/the-ai-rush-is-already-splitting-into-red-oceans-and-blue-oceans-heres-where-the-real-advantage-is-f43adcf98bd0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nashville Zoo Data Center Battle: What’s at Stake for Wildlife](https://medium.com/write-a-catalyst/nashville-zoo-data-center-battle-whats-at-stake-for-wildlife-2bc1252e8c43?source=rss------artificial_intelligence-5)**
+> 🔹 **[Neden Bazı AI’lar Sadece Konuşur, Bazıları Çalışır?](https://medium.com/@samet57071/neden-baz%C4%B1-ailar-sadece-konu%C5%9Fur-baz%C4%B1lar%C4%B1-%C3%A7al%C4%B1%C5%9F%C4%B1r-69d139c3dee3?source=rss------system_design-5)**
+> 🔹 **[Someone Just Found the Off Switch for AI](https://medium.com/@theblankcollar/someone-just-found-the-off-switch-for-ai-2e93ac2853b9?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Markdown to Video: An Open-Source Alternative to NotebookLM](https://thebojda.medium.com/from-markdown-to-video-an-open-source-alternative-to-notebooklm-1f96d8bb62c8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Odysseus Is Not Another AI Agent, It Is the Local-First AI Workspace Power Users Were Missing](https://medium.com/data-science-collective/odysseus-is-not-another-ai-agent-it-is-the-local-first-ai-workspace-power-users-were-missing-f319a1787d56?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who Actually Pays for Your Free AI?](https://medium.com/@spmishrais/who-actually-pays-for-your-free-ai-ccebfb5745e9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nobody Is Talking About the Real Reason AI Companions Are Exploding — And It’s Not What You Thi...](https://medium.com/@shreeramkulat/nobody-is-talking-about-the-real-reason-ai-companions-are-exploding-and-its-not-what-you-think-996fe905f37c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Fable &amp; Mythos went offline. Here’s everything you need to know](https://medium.com/@dataspeak2026/fable-mythos-went-offline-heres-everything-you-need-to-know-5306b37a4b52?source=rss------artificial_intelligence-5)**
+> 🔹 **[Android Push Notification System Design: Architecture, Best Practices, and Production Pitfalls](https://medium.com/@sivavishnu0705/android-push-notification-system-design-architecture-best-practices-and-production-pitfalls-bdd4c9a897b6?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
