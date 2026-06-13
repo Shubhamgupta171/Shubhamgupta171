@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[When the Evaluator Became Part of the Generation System](https://medium.com/@lmhawkes/when-the-evaluator-became-part-of-the-generation-system-d2870a02d487?source=rss------artificial_intelligence-5)**
-> 🔹 **[Teaching a Model to Reason — and Then Making It Cheap](https://medium.com/@candemir13/teaching-a-model-to-reason-and-then-making-it-cheap-41a53fd417fb?source=rss------artificial_intelligence-5)**
-> 🔹 **[new extention](https://medium.com/@hamza.ahmadani2015/new-extention-57e45320cfe7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Author’s Preface for the Six‑Article Series Below](https://medium.com/@rick.peabody/authors-preface-for-the-six-article-series-below-818fc1bdde42?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI No Longer Recommends. It Steers.](https://medium.com/@a4gcollab/ai-no-longer-recommends-it-steers-b6731240c831?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Cost of Modern Engineering](https://medium.com/@akhilparmar2496/the-hidden-cost-of-modern-engineering-14d561d9bb75?source=rss------artificial_intelligence-5)**
-> 🔹 **[The First Crack](https://rfnoris.medium.com/the-first-crack-7a0112cb10a2?source=rss------artificial_intelligence-5)**
-> 🔹 **[This is How Gen Z Can Leverage AI](https://medium.com/@prakashdogra/this-is-how-gen-z-can-leverage-ai-1f7f7ecab5f1?source=rss------artificial_intelligence-5)**
+> 🔹 **[You’re Not Broken — Your Schedule Is](https://medium.com/@zf628122/youre-not-broken-your-schedule-is-c2c36bf10ce5?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI-generated Motion Capture Without Sensors](https://medium.com/@tipstor.io/ai-generated-motion-capture-without-sensors-a7ca6dad9e33?source=rss------artificial_intelligence-5)**
+> 🔹 **[Eight Roles, One Architecture: The Litigation Support Specialist, the Government Attorney, and...](https://medium.com/all-source-legal-ai-intelligence-report/eight-roles-one-architecture-the-litigation-support-specialist-the-government-attorney-and-the-e950b92c8527?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Fable 5 Kullanıma Sunuldu ve 3 Gün Sonra Kapatıldı](https://medium.com/@hincalgunal/opus-4-8-vs-fable-5-portfolyo-karsilastirma-1da11e425db5?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Power of 360 Panorama in Midjourney](https://medium.com/@libelune/the-hidden-power-of-360-panorama-in-midjourney-c1eccc05cc24?source=rss------artificial_intelligence-5)**
+> 🔹 **[J’ai passé 3 heures à rédiger un rapport. Avec cet outil, ça m’a pris 4 minutes.](https://soriana.medium.com/jai-pass%C3%A9-3-heures-%C3%A0-r%C3%A9diger-un-rapport-avec-cet-outil-%C3%A7a-m-a-pris-4-minutes-2c6917188551?source=rss------artificial_intelligence-5)**
+> 🔹 **[Did Ancient Egyptians Use Sound to Lift Stone?](https://medium.com/@echoesoftime_historian/did-ancient-egyptians-use-sound-to-lift-stone-eb2efd5472a2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mythos 5 Restricted by US Government for Being Too Dangerous](https://matthew-rosenquist.medium.com/mythos-5-restricted-by-us-government-for-being-too-dangerous-96ae50038aa5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
