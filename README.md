@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[YouTube’s Algorithm Was Designed to Addict You — And Someone From the Inside Proved It](https://aydarling.medium.com/youtubes-algorithm-was-designed-to-addict-you-and-someone-from-the-inside-proved-it-57e60133f7eb?source=rss------artificial_intelligence-5)**
-> 🔹 **[20 Claude Code Prompts That Save Me Hours Every Week — A Senior Developer&#39;s Practical Guide](https://pub.towardsai.net/20-claude-code-prompts-that-save-me-hours-every-week-a-senior-developers-practical-guide-7a2c673bb620?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Doesn’t Democratize Skill. It Redistributes Who Profits From It.](https://medium.com/@shahadilh18/ai-doesnt-democratize-skill-it-redistributes-who-profits-from-it-57bd46873e8e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Asymétrie des coûts offensifs et défensifs: repenser la stratégie de gestion des vulnérabilités...](https://medium.com/@noctuaedu/asym%C3%A9trie-des-co%C3%BBts-offensifs-et-d%C3%A9fensifs-repenser-la-strat%C3%A9gie-de-gestion-des-vuln%C3%A9rabilit%C3%A9s-5a7b6ac79993?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Machine That Designs Machines: Physical AI’s Biggest Bet Yet](https://medium.com/@kombib/physical-ai-prometheus-bezos-bet-bb46ee11efd0?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Guide to Encoding &amp; Feature Scaling](https://medium.com/@shivasairao10899aparaju/a-guide-to-encoding-feature-scaling-30cefafa5d63?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best Free Payroll Software for Small Business in 2026](https://medium.com/@ayanmian504/best-free-payroll-software-for-small-business-in-2026-0703d6e421fd?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Emerging Consensus: AI Needs Governance More Than Intelligence](https://medium.com/@ncaraliceanews/the-emerging-consensus-ai-needs-governance-more-than-intelligence-1c4ed9198e8c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Red in UX/UI: Error, action, or brand power?](https://medium.com/@kibenkomaria18/red-in-ux-ui-error-action-or-brand-power-b1a4993a2a74?source=rss------system_design-5)**
+> 🔹 **[SpaceX’s IPO Hype and Anthropic’s AI Pivot Reveal the Same Tech Power Game](https://medium.com/illumination/spacexs-ipo-hype-and-anthropic-s-ai-pivot-reveal-the-same-tech-power-game-f615d4380cf3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Fable 5 Has a Governor on the Engine. That’s the Most Important AI Story This Week.](https://medium.com/write-a-catalyst/claude-fable-5-has-a-governor-on-the-engine-thats-the-most-important-ai-story-this-week-39ef220b2be9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google Employees Rejected Pentagon War Contracts, Proposing Brilliant Strategies to Uncover Glo...](https://medium.com/@olga_shut/google-employees-rejected-pentagon-war-contracts-proposing-brilliant-strategies-to-uncover-global-496490c0e2b7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Food Still on the Table](https://medium.com/@sbeas_1297/the-food-still-on-the-table-7e45337b335d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Shaarix V3 Development Begins This Week: Building the Human-Value Infrastructure for the Skilco...](https://medium.com/@skileman.inc/shaarix-v3-development-begins-this-week-building-the-human-value-infrastructure-for-the-skilconomy-0e6531b0668d?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Text to Images: Building a Semantic Search Engine with CLIP](https://medium.com/@shadabjamadar/from-text-to-images-building-a-semantic-search-engine-with-clip-af92d5230062?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Big Blunder at Anthropic](https://medium.com/write-a-catalyst/the-big-blunder-at-anthropic-99cf62759049?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
