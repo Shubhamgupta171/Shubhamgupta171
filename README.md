@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Red in UX/UI: Error, action, or brand power?](https://medium.com/@kibenkomaria18/red-in-ux-ui-error-action-or-brand-power-b1a4993a2a74?source=rss------system_design-5)**
-> 🔹 **[SpaceX’s IPO Hype and Anthropic’s AI Pivot Reveal the Same Tech Power Game](https://medium.com/illumination/spacexs-ipo-hype-and-anthropic-s-ai-pivot-reveal-the-same-tech-power-game-f615d4380cf3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Fable 5 Has a Governor on the Engine. That’s the Most Important AI Story This Week.](https://medium.com/write-a-catalyst/claude-fable-5-has-a-governor-on-the-engine-thats-the-most-important-ai-story-this-week-39ef220b2be9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google Employees Rejected Pentagon War Contracts, Proposing Brilliant Strategies to Uncover Glo...](https://medium.com/@olga_shut/google-employees-rejected-pentagon-war-contracts-proposing-brilliant-strategies-to-uncover-global-496490c0e2b7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Food Still on the Table](https://medium.com/@sbeas_1297/the-food-still-on-the-table-7e45337b335d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Shaarix V3 Development Begins This Week: Building the Human-Value Infrastructure for the Skilco...](https://medium.com/@skileman.inc/shaarix-v3-development-begins-this-week-building-the-human-value-infrastructure-for-the-skilconomy-0e6531b0668d?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Text to Images: Building a Semantic Search Engine with CLIP](https://medium.com/@shadabjamadar/from-text-to-images-building-a-semantic-search-engine-with-clip-af92d5230062?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Big Blunder at Anthropic](https://medium.com/write-a-catalyst/the-big-blunder-at-anthropic-99cf62759049?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Thought Java Had Everything — Then I Started Learning Go](https://medium.com/write-a-catalyst/i-thought-java-had-everything-then-i-started-learning-go-57c8a4ad9607?source=rss------backend_development-5)**
+> 🔹 **[ChairFill: Client Reactivation Software for Independent Barbers](https://medium.com/@chairfillapp/chairfill-client-reactivation-software-for-independent-barbers-ef31ee4139f8?source=rss------artificial_intelligence-5)**
+> 🔹 **[MiniMax M3: What Actually Changed &lpar;And Why the Headline Benchmark Is Already Out of Date&rpar;](https://medium.com/@candemir13/minimax-m3-what-actually-changed-and-why-the-headline-benchmark-is-already-out-of-date-b5151c34c388?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents Have Been Sitting at Your Desk for Months. You’ve Been Too Polite to Let Them Work.](https://medium.com/@ayeshha2398/ai-agents-have-been-sitting-at-your-desk-for-months-youve-been-too-polite-to-let-them-work-c61da64546c5?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI and Multilingualism Q3: How Mohammad Merajul Islam’s Experience in Bangladesh Shapes the Boo...](https://jacquescoulardeau.medium.com/ai-and-multilingualism-q3-how-mohammad-merajul-islams-experience-in-bangladesh-shapes-the-book-s-bfbcc19b9339?source=rss------artificial_intelligence-5)**
+> 🔹 **[O Muro Invisível que Washington está aprendendo a erguer com código ao invés de blocos de concr...](https://medium.com/@miniemax/o-muro-invis%C3%ADvel-que-washington-est%C3%A1-aprendendo-a-erguer-com-c%C3%B3digo-ao-inv%C3%A9s-de-blocos-de-concreto-fb59c8cdca38?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI is not the apocalypse. It is the perfect crutch.](https://frisellagiuseppe.medium.com/ai-is-not-the-apocalypse-it-is-the-perfect-crutch-97bbb8eba8a2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Singapore’s Lifelong Learners Need Better Creator Discovery in 2026 — And How AI Is Changin...](https://medium.com/@sdplacement8/why-singapores-lifelong-learners-need-better-creator-discovery-in-2026-and-how-ai-is-changing-4bd5829ef760?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
