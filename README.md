@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Tech is Just the Newest Mask for Cowards](https://medium.com/@gabrielpaiva_53557/why-tech-is-just-the-newest-mask-for-cowards-c5afd5bb512c?source=rss------artificial_intelligence-5)**
-> 🔹 **[When Google Redesigns Your Website: Inside the AI-Generated Landing Page Patent](https://medium.com/@jkousalya007/google-ai-landing-page-patent-0103bb6ca3ff?source=rss------artificial_intelligence-5)**
-> 🔹 **[How did AI change the way I work?](https://medium.com/@abishek.atp/how-did-ai-change-the-way-i-work-a9a7ce75f59e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Jennifer’s 25 Minutes](https://medium.com/pajama-press/jennifers-25-minutes-a3ea63f88c14?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Tested Claude vs ChatGPT on 20 Real Work Tasks: Here’s What Won](https://medium.com/easy-flutter/we-tested-claude-vs-chatgpt-on-20-real-work-tasks-heres-what-won-96c2d0c4aea8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Industrial AI Startups Are Becoming the Next Trillion-Dollar Opportunity](https://medium.com/@depthgridnews/why-industrial-ai-startups-are-becoming-the-next-trillion-dollar-opportunity-6491fb5a195c?source=rss------artificial_intelligence-5)**
-> 🔹 **[LLM Inference Guide: Temperature, KV Cache &amp; Speed](https://medium.com/predict/llm-inference-guide-temperature-kv-cache-speed-edfa464c52dd?source=rss------artificial_intelligence-5)**
-> 🔹 **[조코딩의 바이브 코딩 1인 창업](https://nymets.medium.com/%EC%A1%B0%EC%BD%94%EB%94%A9%EC%9D%98-%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9-1%EC%9D%B8-%EC%B0%BD%EC%97%85-7a829f6101b4?source=rss------artificial_intelligence-5)**
+> 🔹 **[YouTube’s Algorithm Was Designed to Addict You — And Someone From the Inside Proved It](https://aydarling.medium.com/youtubes-algorithm-was-designed-to-addict-you-and-someone-from-the-inside-proved-it-57e60133f7eb?source=rss------artificial_intelligence-5)**
+> 🔹 **[20 Claude Code Prompts That Save Me Hours Every Week — A Senior Developer&#39;s Practical Guide](https://pub.towardsai.net/20-claude-code-prompts-that-save-me-hours-every-week-a-senior-developers-practical-guide-7a2c673bb620?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Doesn’t Democratize Skill. It Redistributes Who Profits From It.](https://medium.com/@shahadilh18/ai-doesnt-democratize-skill-it-redistributes-who-profits-from-it-57bd46873e8e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Asymétrie des coûts offensifs et défensifs: repenser la stratégie de gestion des vulnérabilités...](https://medium.com/@noctuaedu/asym%C3%A9trie-des-co%C3%BBts-offensifs-et-d%C3%A9fensifs-repenser-la-strat%C3%A9gie-de-gestion-des-vuln%C3%A9rabilit%C3%A9s-5a7b6ac79993?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Machine That Designs Machines: Physical AI’s Biggest Bet Yet](https://medium.com/@kombib/physical-ai-prometheus-bezos-bet-bb46ee11efd0?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Guide to Encoding &amp; Feature Scaling](https://medium.com/@shivasairao10899aparaju/a-guide-to-encoding-feature-scaling-30cefafa5d63?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best Free Payroll Software for Small Business in 2026](https://medium.com/@ayanmian504/best-free-payroll-software-for-small-business-in-2026-0703d6e421fd?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Emerging Consensus: AI Needs Governance More Than Intelligence](https://medium.com/@ncaraliceanews/the-emerging-consensus-ai-needs-governance-more-than-intelligence-1c4ed9198e8c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
