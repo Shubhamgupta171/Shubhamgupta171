@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Hidden Power of Spring AI That Most Developers Are Missing](https://medium.com/@harshit619131/the-hidden-power-of-spring-ai-that-most-developers-are-missing-8701ce410cb1?source=rss------backend_development-5)**
-> 🔹 **[A Creator Compared DictaFlow and Wispr Flow for Journaling in 2026](https://medium.com/@ryanshrott/a-creator-compared-dictaflow-and-wispr-flow-for-journaling-in-2026-52b8d6eaeef1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agent Frameworks: A Practitioner’s FAQ](https://medium.com/@AIProductManager/agent-frameworks-a-practitioners-faq-2920360913f5?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI in Finance: Opportunities, Risks, and the Road Ahead](https://medium.com/@kolossusai.india/ai-in-finance-6878af4e08cf?source=rss------artificial_intelligence-5)**
-> 🔹 **[custom pc pune best price](https://medium.com/@Customdesignsbykira/custom-pc-pune-best-price-cbf7d048752f?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Song for Gordon](https://medium.com/@icaj2000/a-song-for-gordon-86f160300299?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI, Big Tech, Chips, and the New Internet: My Comeback RecapWritten](https://medium.com/@simohamed.amara/ai-big-tech-chips-and-the-new-internet-my-comeback-recapwritten-5ddb5a56e44b?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 Python Libraries That Helped Me Level Up Faster](https://blog.stackademic.com/7-python-libraries-that-helped-me-level-up-faster-df5217c9ba9d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Run an LLM Right Inside the User’s Browser, No Server, No API Bill](https://medium.com/@anandsundaramoorthysa/run-an-llm-right-inside-the-users-browser-no-server-no-api-bill-2442cd1524db?source=rss------artificial_intelligence-5)**
+> 🔹 **[Humanity’s successor is here. Are you ready for it?](https://medium.com/@sensmedia.srl/humanitys-successor-is-here-are-you-ready-for-it-4ea99638722c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Get Your First 100 Instagram Followers](https://medium.com/@iampaulo/how-to-get-your-first-100-instagram-followers-764167623034?source=rss------artificial_intelligence-5)**
+> 🔹 **[MiniMax — 초장문 컨텍스트의 비용 혁신, ‘MiniMax Sparse Attention&lpar;MSA&rpar;’ 완벽 분석](https://medium.com/@mdpman/minimax-%EC%B4%88%EC%9E%A5%EB%AC%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%B9%84%EC%9A%A9-%ED%98%81%EC%8B%A0-minimax-sparse-attention-msa-%EC%99%84%EB%B2%BD-%EB%B6%84%EC%84%9D-42307b06af01?source=rss------artificial_intelligence-5)**
+> 🔹 **[Part 5: The shortcut that does not exist](https://medium.com/@tim_51301/part-5-the-shortcut-that-does-not-exist-fbab48243367?source=rss------artificial_intelligence-5)**
+> 🔹 **[Most Data Teams Don’t Have an AI Problem. They Have a Data](https://medium.com/@rathin_95178/most-data-teams-dont-have-an-ai-problem-they-have-a-data-0eb1e944ae68?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why an opinion cannot be an audit record](https://medium.com/@team_72120/why-an-opinion-cannot-be-an-audit-record-e0a6b8eadc1d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Your Best Cold Email Copy Will Not Save You From AI Search](https://medium.com/revenue-engineered/why-your-best-cold-email-copy-will-not-save-you-from-ai-search-d5a055b02654?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
