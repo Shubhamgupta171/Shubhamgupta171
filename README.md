@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Developer Job Market Didn’t Crash. It Split in Two.](https://medium.com/@noor.jsdivs/the-developer-job-market-didnt-crash-it-split-in-two-3e2c621f79e4?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Render Was Beautiful. The Building Couldn’t Be Built.](https://medium.com/@ashutosh_veriprajna/the-render-was-beautiful-the-building-couldnt-be-built-b17fe856fc52?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Optical Sorter Is Blind to Black Plastic. We Stopped Calling It a Software Problem.](https://medium.com/@ashutosh_veriprajna/your-optical-sorter-is-blind-to-black-plastic-we-stopped-calling-it-a-software-problem-8800ab975b43?source=rss------artificial_intelligence-5)**
-> 🔹 **[Evaluation-Driven Development: Stop Eyeballing Your LLM Prompts](https://medium.com/@kkhanatg/evaluation-driven-development-stop-eyeballing-your-llm-prompts-1bc6ccb69819?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Connection Between AI-Driven Customer Growth and Cloud Strategy](https://medium.com/@jane278/the-hidden-connection-between-ai-driven-customer-growth-and-cloud-strategy-b9229b8602b3?source=rss------artificial_intelligence-5)**
-> 🔹 **[When AI Becomes Too Expensive to Feel Like Magic](https://medium.com/the-idea-of-reality/when-ai-becomes-too-expensive-to-feel-like-magic-1174410f5858?source=rss------artificial_intelligence-5)**
-> 🔹 **[Pure Vector Search Is Not Enough Anymore. Here Is What You Actually Need.](https://medium.com/@arnavsh0105/pure-vector-search-is-not-enough-anymore-here-is-what-you-actually-need-e5010ad7d3a2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Loop Engineering: The 14-Step Roadmap from Prompter to Loop Designer](https://medium.com/coinmonks/loop-engineering-the-14-step-roadmap-from-prompter-to-loop-designer-bda3edc46fbc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Power of Spring AI That Most Developers Are Missing](https://medium.com/@harshit619131/the-hidden-power-of-spring-ai-that-most-developers-are-missing-8701ce410cb1?source=rss------backend_development-5)**
+> 🔹 **[A Creator Compared DictaFlow and Wispr Flow for Journaling in 2026](https://medium.com/@ryanshrott/a-creator-compared-dictaflow-and-wispr-flow-for-journaling-in-2026-52b8d6eaeef1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agent Frameworks: A Practitioner’s FAQ](https://medium.com/@AIProductManager/agent-frameworks-a-practitioners-faq-2920360913f5?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI in Finance: Opportunities, Risks, and the Road Ahead](https://medium.com/@kolossusai.india/ai-in-finance-6878af4e08cf?source=rss------artificial_intelligence-5)**
+> 🔹 **[custom pc pune best price](https://medium.com/@Customdesignsbykira/custom-pc-pune-best-price-cbf7d048752f?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Song for Gordon](https://medium.com/@icaj2000/a-song-for-gordon-86f160300299?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI, Big Tech, Chips, and the New Internet: My Comeback RecapWritten](https://medium.com/@simohamed.amara/ai-big-tech-chips-and-the-new-internet-my-comeback-recapwritten-5ddb5a56e44b?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 Python Libraries That Helped Me Level Up Faster](https://blog.stackademic.com/7-python-libraries-that-helped-me-level-up-faster-df5217c9ba9d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
