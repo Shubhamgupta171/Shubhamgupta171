@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Thought Java Had Everything — Then I Started Learning Go](https://medium.com/write-a-catalyst/i-thought-java-had-everything-then-i-started-learning-go-57c8a4ad9607?source=rss------backend_development-5)**
-> 🔹 **[ChairFill: Client Reactivation Software for Independent Barbers](https://medium.com/@chairfillapp/chairfill-client-reactivation-software-for-independent-barbers-ef31ee4139f8?source=rss------artificial_intelligence-5)**
-> 🔹 **[MiniMax M3: What Actually Changed &lpar;And Why the Headline Benchmark Is Already Out of Date&rpar;](https://medium.com/@candemir13/minimax-m3-what-actually-changed-and-why-the-headline-benchmark-is-already-out-of-date-b5151c34c388?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agents Have Been Sitting at Your Desk for Months. You’ve Been Too Polite to Let Them Work.](https://medium.com/@ayeshha2398/ai-agents-have-been-sitting-at-your-desk-for-months-youve-been-too-polite-to-let-them-work-c61da64546c5?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI and Multilingualism Q3: How Mohammad Merajul Islam’s Experience in Bangladesh Shapes the Boo...](https://jacquescoulardeau.medium.com/ai-and-multilingualism-q3-how-mohammad-merajul-islams-experience-in-bangladesh-shapes-the-book-s-bfbcc19b9339?source=rss------artificial_intelligence-5)**
-> 🔹 **[O Muro Invisível que Washington está aprendendo a erguer com código ao invés de blocos de concr...](https://medium.com/@miniemax/o-muro-invis%C3%ADvel-que-washington-est%C3%A1-aprendendo-a-erguer-com-c%C3%B3digo-ao-inv%C3%A9s-de-blocos-de-concreto-fb59c8cdca38?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI is not the apocalypse. It is the perfect crutch.](https://frisellagiuseppe.medium.com/ai-is-not-the-apocalypse-it-is-the-perfect-crutch-97bbb8eba8a2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Singapore’s Lifelong Learners Need Better Creator Discovery in 2026 — And How AI Is Changin...](https://medium.com/@sdplacement8/why-singapores-lifelong-learners-need-better-creator-discovery-in-2026-and-how-ai-is-changing-4bd5829ef760?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Developer Job Market Didn’t Crash. It Split in Two.](https://medium.com/@noor.jsdivs/the-developer-job-market-didnt-crash-it-split-in-two-3e2c621f79e4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Render Was Beautiful. The Building Couldn’t Be Built.](https://medium.com/@ashutosh_veriprajna/the-render-was-beautiful-the-building-couldnt-be-built-b17fe856fc52?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Optical Sorter Is Blind to Black Plastic. We Stopped Calling It a Software Problem.](https://medium.com/@ashutosh_veriprajna/your-optical-sorter-is-blind-to-black-plastic-we-stopped-calling-it-a-software-problem-8800ab975b43?source=rss------artificial_intelligence-5)**
+> 🔹 **[Evaluation-Driven Development: Stop Eyeballing Your LLM Prompts](https://medium.com/@kkhanatg/evaluation-driven-development-stop-eyeballing-your-llm-prompts-1bc6ccb69819?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Connection Between AI-Driven Customer Growth and Cloud Strategy](https://medium.com/@jane278/the-hidden-connection-between-ai-driven-customer-growth-and-cloud-strategy-b9229b8602b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI Becomes Too Expensive to Feel Like Magic](https://medium.com/the-idea-of-reality/when-ai-becomes-too-expensive-to-feel-like-magic-1174410f5858?source=rss------artificial_intelligence-5)**
+> 🔹 **[Pure Vector Search Is Not Enough Anymore. Here Is What You Actually Need.](https://medium.com/@arnavsh0105/pure-vector-search-is-not-enough-anymore-here-is-what-you-actually-need-e5010ad7d3a2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Loop Engineering: The 14-Step Roadmap from Prompter to Loop Designer](https://medium.com/coinmonks/loop-engineering-the-14-step-roadmap-from-prompter-to-loop-designer-bda3edc46fbc?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
