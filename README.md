@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Run an LLM Right Inside the User’s Browser, No Server, No API Bill](https://medium.com/@anandsundaramoorthysa/run-an-llm-right-inside-the-users-browser-no-server-no-api-bill-2442cd1524db?source=rss------artificial_intelligence-5)**
-> 🔹 **[Humanity’s successor is here. Are you ready for it?](https://medium.com/@sensmedia.srl/humanitys-successor-is-here-are-you-ready-for-it-4ea99638722c?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Get Your First 100 Instagram Followers](https://medium.com/@iampaulo/how-to-get-your-first-100-instagram-followers-764167623034?source=rss------artificial_intelligence-5)**
-> 🔹 **[MiniMax — 초장문 컨텍스트의 비용 혁신, ‘MiniMax Sparse Attention&lpar;MSA&rpar;’ 완벽 분석](https://medium.com/@mdpman/minimax-%EC%B4%88%EC%9E%A5%EB%AC%B8-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%B9%84%EC%9A%A9-%ED%98%81%EC%8B%A0-minimax-sparse-attention-msa-%EC%99%84%EB%B2%BD-%EB%B6%84%EC%84%9D-42307b06af01?source=rss------artificial_intelligence-5)**
-> 🔹 **[Part 5: The shortcut that does not exist](https://medium.com/@tim_51301/part-5-the-shortcut-that-does-not-exist-fbab48243367?source=rss------artificial_intelligence-5)**
-> 🔹 **[Most Data Teams Don’t Have an AI Problem. They Have a Data](https://medium.com/@rathin_95178/most-data-teams-dont-have-an-ai-problem-they-have-a-data-0eb1e944ae68?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why an opinion cannot be an audit record](https://medium.com/@team_72120/why-an-opinion-cannot-be-an-audit-record-e0a6b8eadc1d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Your Best Cold Email Copy Will Not Save You From AI Search](https://medium.com/revenue-engineered/why-your-best-cold-email-copy-will-not-save-you-from-ai-search-d5a055b02654?source=rss------artificial_intelligence-5)**
+> 🔹 **[Reframing Digital Childhood: India’s Emerging Framework for Child Safety and Online Rights](https://medium.com/@imtiaz.laskar96/reframing-digital-childhood-indias-emerging-framework-for-child-safety-and-online-rights-80c9c5330b56?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI: Humanity’s Greatest Strength and Its Most Dangerous Weakness](https://medium.com/@gscenema/ai-humanitys-greatest-strength-and-its-most-dangerous-weakness-97704716bf18?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence Saves Your Time, If You Use This One Trick](https://medium.com/@peterglorytogod3/artificial-intelligence-saves-your-time-if-you-use-this-one-trick-f0ed1d73ceb8?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Use AI to Create and Sell Digital Products in 2026 — Even If You’re a Complete Beginner](https://medium.com/@abassaidhassan/how-to-use-ai-to-create-and-sell-digital-products-in-2026-even-if-youre-a-complete-beginner-1b44dc865c40?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic AI: When LLMs Start Pursuing Goals](https://medium.com/@gangojinikita/agentic-ai-when-llms-start-pursuing-goals-03719381ac56?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Danger of Passenger Mode in AI-Assisted Work](https://medium.com/@KamLardi/the-hidden-danger-of-passenger-mode-in-ai-assisted-work-bc94f42c0f82?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Would Design AI Agents at Scale Today](https://medium.com/@systemdesignguru/how-i-would-design-ai-agents-at-scale-today-d22ec74be2cb?source=rss------system_design-5)**
+> 🔹 **[What “Memory” Actually Buys an AI Agent And What It Doesn’t](https://medium.com/@harshit.sinha0910/what-memory-actually-buys-an-ai-agent-and-what-it-doesnt-93c8afe1d064?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
