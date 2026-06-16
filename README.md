@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Revenue Stack Architecture for 2026](https://medium.com/revenue-engineered/the-revenue-stack-architecture-for-2026-41864b1ece32?source=rss------artificial_intelligence-5)**
-> 🔹 **[In the Beginning Was the Story](https://medium.com/@ProustMe/in-the-beginning-was-the-story-966839b35f0d?source=rss------artificial_intelligence-5)**
-> 🔹 **[SpaceX Just Spent $60 Billion on an AI Coding Startup Four Days After Its IPO and the Market Lo...](https://medium.com/@Fanigee/spacex-just-spent-60-billion-on-an-ai-coding-startup-four-days-after-its-ipo-and-the-market-loves-61177c31a832?source=rss------artificial_intelligence-5)**
-> 🔹 **[Title: Is AI Turning Us Into “Digital Spectators”?](https://medium.com/@zb8518868/title-is-ai-turning-us-into-digital-spectators-6083dde0e6a6?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Artificial Intelligence Is Changing Everyday Life in 2026](https://medium.com/@faridolamide12/how-artificial-intelligence-is-changing-everyday-life-in-2026-59301811446f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Matrix &amp; Chapter 12: The Silence Between the Knower and the Known](https://medium.com/@tb2015yy/the-matrix-chapter-12-the-silence-between-the-knower-and-the-known-320ae469043e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Agentic AI Will Transform Enterprise Software More Than ChatGPT Ever Did](https://imarpitajaiswal.medium.com/why-agentic-ai-will-transform-enterprise-software-more-than-chatgpt-ever-did-f015e630c081?source=rss------artificial_intelligence-5)**
-> 🔹 **[AGI — Not the Destination!](https://medium.com/@johnbythemoor/agi-not-the-destination-5ed018f22305?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building a Simple URL Shortener API in Rust with Actix Web and SQLite](https://medium.com/@innocent.o/building-a-simple-url-shortener-api-in-rust-with-actix-web-and-sqlite-f1760ca0a668?source=rss------backend_development-5)**
+> 🔹 **[Desvendando o Outbox Pattern: Garantindo Consistência em Arquiteturas Assíncronas](https://medium.com/totvsdevelopers/desvendando-o-outbox-pattern-garantindo-consist%C3%AAncia-em-arquiteturas-ass%C3%ADncronas-4da59b4f3e22?source=rss------system_design-5)**
+> 🔹 **[The Rise of the HI-C: How to Thrive in the New Design Culture](https://medium.com/@bedantab3/the-rise-of-the-hi-c-how-to-thrive-in-the-new-design-culture-a4ed69264b49?source=rss------artificial_intelligence-5)**
+> 🔹 **[I’ve Used XGBoost for 10 Years. Here Are the 10 Worst Mistakes I’ve Made.](https://medium.com/data-science-collective/ive-used-xgboost-for-10-years-here-are-the-10-worst-mistakes-i-ve-made-19c4f96bb189?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Core Technology Behind Interstellar: Why AI Robots May Arrive Before Space Colonies](https://medium.com/@2100portfolio/the-core-technology-behind-interstellar-why-ai-robots-may-arrive-before-space-colonies-df9726fb7acf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Como Transformei o Caos da IA em um Sistema de Governança de Engenharia para Plataformas Low-Co...](https://medium.com/@evaldtygor/como-transformei-o-caos-da-ia-em-um-sistema-de-governan%C3%A7a-de-engenharia-para-plataformas-low-code-5031b0238132?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Writes the Code. Nobody Knows Why the File Was Touched. This Is the Real PR Review Problem.](https://blog.devgenius.io/ai-writes-the-code-nobody-knows-why-the-file-was-touched-this-is-the-real-pr-review-problem-9a96dfe31963?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Big AI Lock-In — and How We Engineered Around It](https://medium.com/@divyansh.verma/the-big-ai-lock-in-and-how-we-engineered-around-it-e12655228199?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
