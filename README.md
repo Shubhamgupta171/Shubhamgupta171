@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Reframing Digital Childhood: India’s Emerging Framework for Child Safety and Online Rights](https://medium.com/@imtiaz.laskar96/reframing-digital-childhood-indias-emerging-framework-for-child-safety-and-online-rights-80c9c5330b56?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI: Humanity’s Greatest Strength and Its Most Dangerous Weakness](https://medium.com/@gscenema/ai-humanitys-greatest-strength-and-its-most-dangerous-weakness-97704716bf18?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence Saves Your Time, If You Use This One Trick](https://medium.com/@peterglorytogod3/artificial-intelligence-saves-your-time-if-you-use-this-one-trick-f0ed1d73ceb8?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Use AI to Create and Sell Digital Products in 2026 — Even If You’re a Complete Beginner](https://medium.com/@abassaidhassan/how-to-use-ai-to-create-and-sell-digital-products-in-2026-even-if-youre-a-complete-beginner-1b44dc865c40?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentic AI: When LLMs Start Pursuing Goals](https://medium.com/@gangojinikita/agentic-ai-when-llms-start-pursuing-goals-03719381ac56?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Danger of Passenger Mode in AI-Assisted Work](https://medium.com/@KamLardi/the-hidden-danger-of-passenger-mode-in-ai-assisted-work-bc94f42c0f82?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Would Design AI Agents at Scale Today](https://medium.com/@systemdesignguru/how-i-would-design-ai-agents-at-scale-today-d22ec74be2cb?source=rss------system_design-5)**
-> 🔹 **[What “Memory” Actually Buys an AI Agent And What It Doesn’t](https://medium.com/@harshit.sinha0910/what-memory-actually-buys-an-ai-agent-and-what-it-doesnt-93c8afe1d064?source=rss------artificial_intelligence-5)**
+> 🔹 **[What 10²⁶ Actually Means](https://joshmcdonald.medium.com/what-10%C2%B2%E2%81%B6-actually-means-45b8dfd62e8c?source=rss------artificial_intelligence-5)**
+> 🔹 **[99% of developers are using Claude Code like it’s ChatGPT](https://blog.stackademic.com/99-of-developers-are-using-claude-code-like-its-chatgpt-6c667c4af189?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Thought PHP Could Handle Anything. Then One Traffic Spike Brought Everything Down.](https://medium.com/@pudarimadhavi99/we-thought-php-could-handle-anything-then-one-traffic-spike-brought-everything-down-9bfb3876efd2?source=rss------backend_development-5)**
+> 🔹 **[Someone Just Received the First Age-Reversal Therapy](https://medium.com/@joe_62117/someone-just-received-the-first-age-reversal-therapy-48dfbd0e346e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Spend Without Signal: The Measurement Gap Behind Every Runaway AI Budget](https://mweinberger-proactivemgmt.medium.com/spend-without-signal-the-measurement-gap-behind-every-runaway-ai-budget-6346b81ee15a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Public Interest Gap](https://medium.com/x-patriot-the-fifth-column/the-ai-public-interest-gap-a815b74f8eb0?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Cryptos: The Fastest-Growing Sector in Crypto?](https://medium.com/@support_41526/ai-cryptos-the-fastest-growing-sector-in-crypto-9ccced56b1e9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Secret ChatGPT Prompt Codes: 15 Powerful Prompting Tricks That Actually Work](https://medium.com/@pefjoy/secret-chatgpt-prompt-codes-15-powerful-prompting-tricks-that-actually-work-7edb909477eb?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
