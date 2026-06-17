@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Building a Simple URL Shortener API in Rust with Actix Web and SQLite](https://medium.com/@innocent.o/building-a-simple-url-shortener-api-in-rust-with-actix-web-and-sqlite-f1760ca0a668?source=rss------backend_development-5)**
-> 🔹 **[Desvendando o Outbox Pattern: Garantindo Consistência em Arquiteturas Assíncronas](https://medium.com/totvsdevelopers/desvendando-o-outbox-pattern-garantindo-consist%C3%AAncia-em-arquiteturas-ass%C3%ADncronas-4da59b4f3e22?source=rss------system_design-5)**
-> 🔹 **[The Rise of the HI-C: How to Thrive in the New Design Culture](https://medium.com/@bedantab3/the-rise-of-the-hi-c-how-to-thrive-in-the-new-design-culture-a4ed69264b49?source=rss------artificial_intelligence-5)**
-> 🔹 **[I’ve Used XGBoost for 10 Years. Here Are the 10 Worst Mistakes I’ve Made.](https://medium.com/data-science-collective/ive-used-xgboost-for-10-years-here-are-the-10-worst-mistakes-i-ve-made-19c4f96bb189?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Core Technology Behind Interstellar: Why AI Robots May Arrive Before Space Colonies](https://medium.com/@2100portfolio/the-core-technology-behind-interstellar-why-ai-robots-may-arrive-before-space-colonies-df9726fb7acf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Como Transformei o Caos da IA em um Sistema de Governança de Engenharia para Plataformas Low-Co...](https://medium.com/@evaldtygor/como-transformei-o-caos-da-ia-em-um-sistema-de-governan%C3%A7a-de-engenharia-para-plataformas-low-code-5031b0238132?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Writes the Code. Nobody Knows Why the File Was Touched. This Is the Real PR Review Problem.](https://blog.devgenius.io/ai-writes-the-code-nobody-knows-why-the-file-was-touched-this-is-the-real-pr-review-problem-9a96dfe31963?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Big AI Lock-In — and How We Engineered Around It](https://medium.com/@divyansh.verma/the-big-ai-lock-in-and-how-we-engineered-around-it-e12655228199?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Coding Buddy: How It Actually Works &lpar;And Why Your Tab Key Is Getting Smarter&rpar;](https://medium.com/@iduryodhanrao/your-ai-coding-buddy-how-it-actually-works-and-why-your-tab-key-is-getting-smarter-821550bb71af?source=rss------artificial_intelligence-5)**
+> 🔹 **[Arbitration in Inputs](https://medium.com/@rickoshade1891/arbitration-in-inputs-6e32cdc150bc?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT vs Gemini: Which AI Assistant Is Better?](https://medium.com/@mr6419925/chatgpt-vs-gemini-which-ai-assistant-is-better-a51028a12f12?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Day I Decided to Change Myself](https://medium.com/@sadiaasadiaa512/the-day-i-decided-to-change-myself-6c26737beff5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Going Global Overnight: How I’d Translate an Entire Video Library with ElevenLabs and HeyGen](https://medium.com/readers-club/going-global-overnight-how-id-translate-an-entire-video-library-with-elevenlabs-and-heygen-b06213100aed?source=rss------artificial_intelligence-5)**
+> 🔹 **[What UX design taught me about the user’s mental model, and why wrong assumptions are often…](https://medium.com/@resonance.heals/what-ux-design-taught-me-about-the-users-mental-model-and-why-wrong-assumptions-are-often-c83348d231e7?source=rss------system_design-5)**
+> 🔹 **[Why Your Cloud Architecture Needs to Think About AI Tokens the Way It Thinks About API Calls](https://medium.com/@selvanrajamony/why-your-cloud-architecture-needs-to-think-about-ai-tokens-the-way-it-thinks-about-api-calls-72c2078e9c39?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Asymmetric Labor Market: High-Yield, Obscure Careers in the Algorithmic Economy](https://medium.com/@realyashpatel1111/the-asymmetric-labor-market-high-yield-obscure-careers-in-the-algorithmic-economy-5b93d0d7458f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
