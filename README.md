@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[In-Place Slice Reversals in Go: Two Pointers, Slice Windows, and Zero Allocations](https://medium.com/@kumarnchandan05/in-place-slice-reversals-in-go-two-pointers-slice-windows-and-zero-allocations-ff76b86a70f1?source=rss------system_design-5)**
-> 🔹 **[Using PostGIS With Node.js: Building a Farm Boundary API](https://medium.com/@dagogouranta/using-postgis-with-node-js-building-a-farm-boundary-api-8b8302671a19?source=rss------backend_development-5)**
-> 🔹 **[The Consultant’s New ‘Superpower’: How Generative AI is Rewriting the Rules of Strategy](https://medium.com/science-for-life/the-consultants-new-superpower-how-generative-ai-is-rewriting-the-rules-of-strategy-70d2c8552522?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Fable 5 Shutdown: A Wake-Up Call Europe Cannot Afford to Ignore](https://medium.com/@xcxwcqctcb/the-fable-5-shutdown-a-wake-up-call-europe-cannot-afford-to-ignore-f4d89be27708?source=rss------artificial_intelligence-5)**
-> 🔹 **[The art of morality](https://medium.com/new-literary-society/the-art-of-morality-f08bdb024b59?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Applied My Pinterest Evergreen Framework to Baby Sleep Music Boards : The Full Setup](https://alex-hustler.medium.com/i-applied-my-pinterest-evergreen-framework-to-baby-sleep-music-boards-the-full-setup-535ba1fcd27d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Profitable AI PDF Niches for 2026—Day 02](https://blog.howtoprofitai.com/profitable-ai-pdf-niches-2026-b6f5ed109817?source=rss------artificial_intelligence-5)**
-> 🔹 **[LA DOCTRINE DU CHOC 2.0](https://medium.com/@sosbryanqc/la-doctrine-du-choc-2-0-6d910b22d6e1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Easiest AI Roadmap Nobody Gave Me](https://medium.com/word-garden/easiest-ai-roadmap-nobody-gave-me-a5a5c64952e8?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Thought I Needed a Perfect Plan — I Actually Needed a First Step](https://medium.com/@hibajaved307/i-thought-i-needed-a-perfect-plan-i-actually-needed-a-first-step-082791de882c?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI Just Killed Sora. I Spent a Week Figuring Out How They Lost $15 Million Every Day.](https://medium.com/@taka-alliance-bd/openai-just-killed-sora-i-spent-a-week-figuring-out-how-they-lost-15-million-every-day-7982afc25da4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Digital Void](https://medium.com/write-your-world/the-digital-void-2391ee9deaa3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Joys Of Creating Music Without AI](https://medium.com/write-a-catalyst/the-joys-of-creating-music-without-ai-6bf5d9202de2?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT Said I Was Special. That’s Exactly What a Manipulator Would Say.](https://medium.com/active-minds-hub/chatgpt-said-i-was-special-thats-exactly-what-a-manipulator-would-say-cea00417e170?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Writing Stops Being Thinking](https://juliaamante.medium.com/when-writing-stops-being-thinking-2e74831fc95d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Which GPU Should You Choose for Computer Vision Training?](https://medium.com/@roscoe.kerby/which-gpu-should-you-choose-for-computer-vision-training-a8a9e97d2bf5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
