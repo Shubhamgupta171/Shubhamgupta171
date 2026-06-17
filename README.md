@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Operational Representations of Autonomous Execution](https://medium.com/@velorynintel/operational-representations-of-autonomous-execution-5ade0843c2c6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Innovation, Technology, and the Future: Reflections from a Computer Science Student](https://jo-shua09.medium.com/innovation-technology-and-the-future-reflections-from-a-computer-science-student-914928597754?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Evaluated Workday for Our 35-Person Company. The Quote Made Us Cry.](https://medium.com/@colakang/we-evaluated-workday-for-our-35-person-company-the-quote-made-us-cry-52c5f8da35e1?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Ultimate AI-Powered Article Writing Skill: How to Generate Quality Content Across 8 Publish...](https://medium.com/@rajeeva1808/the-ultimate-ai-powered-article-writing-skill-how-to-generate-quality-content-across-8-publishing-f565c7af65de?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Decides Whether a Coding Session Succeeds?](https://medium.com/@amarharolikar/what-decides-whether-a-coding-session-succeeds-de93d77807c3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Arms Race: Who Will Control the World’s Intelligence?](https://medium.com/@abhinavjha07rigcg07/the-ai-arms-race-who-will-control-the-worlds-intelligence-163c9c11b373?source=rss------artificial_intelligence-5)**
-> 🔹 **[SpaceX Seals $60B Cursor Deal Days After Record IPO —Top 10 AI &amp; Flutter News June 17, 2026](https://blurbrahlab.medium.com/spacex-seals-60b-cursor-deal-days-after-record-ipo-top-10-ai-flutter-news-june-17-2026-f928371b709d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who’s Driving?](https://medium.com/@anzekravanja/whos-driving-5b8cf58ec89e?source=rss------artificial_intelligence-5)**
+> 🔹 **[In-Place Slice Reversals in Go: Two Pointers, Slice Windows, and Zero Allocations](https://medium.com/@kumarnchandan05/in-place-slice-reversals-in-go-two-pointers-slice-windows-and-zero-allocations-ff76b86a70f1?source=rss------system_design-5)**
+> 🔹 **[Using PostGIS With Node.js: Building a Farm Boundary API](https://medium.com/@dagogouranta/using-postgis-with-node-js-building-a-farm-boundary-api-8b8302671a19?source=rss------backend_development-5)**
+> 🔹 **[The Consultant’s New ‘Superpower’: How Generative AI is Rewriting the Rules of Strategy](https://medium.com/science-for-life/the-consultants-new-superpower-how-generative-ai-is-rewriting-the-rules-of-strategy-70d2c8552522?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Fable 5 Shutdown: A Wake-Up Call Europe Cannot Afford to Ignore](https://medium.com/@xcxwcqctcb/the-fable-5-shutdown-a-wake-up-call-europe-cannot-afford-to-ignore-f4d89be27708?source=rss------artificial_intelligence-5)**
+> 🔹 **[The art of morality](https://medium.com/new-literary-society/the-art-of-morality-f08bdb024b59?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Applied My Pinterest Evergreen Framework to Baby Sleep Music Boards : The Full Setup](https://alex-hustler.medium.com/i-applied-my-pinterest-evergreen-framework-to-baby-sleep-music-boards-the-full-setup-535ba1fcd27d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Profitable AI PDF Niches for 2026—Day 02](https://blog.howtoprofitai.com/profitable-ai-pdf-niches-2026-b6f5ed109817?source=rss------artificial_intelligence-5)**
+> 🔹 **[LA DOCTRINE DU CHOC 2.0](https://medium.com/@sosbryanqc/la-doctrine-du-choc-2-0-6d910b22d6e1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
