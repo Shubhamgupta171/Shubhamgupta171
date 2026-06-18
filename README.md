@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What If AI Is Trying to Tell Us Something When It Fails?](https://medium.com/@aaditya.thokal24/what-if-ai-is-trying-to-tell-us-something-when-it-fails-c55463d25239?source=rss------artificial_intelligence-5)**
-> 🔹 **[When 95% of AI’s Brain is English, the Rest of the World Pays a Tax](https://shahzadasghar.medium.com/when-95-of-ais-brain-is-english-the-rest-of-the-world-pays-a-tax-f31ce7730435?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Using Azure Functions for AI Agents — Use Microsoft Foundry Routines Instead [PREVIEW]](https://shweta-lodha.medium.com/stop-using-azure-functions-for-ai-agents-use-microsoft-foundry-routines-instead-preview-9bc186e64189?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Is Transforming Premium Domain Name Valuation](https://medium.com/@admin_13739/how-ai-is-transforming-premium-domain-name-valuation-958f5eb2951b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google Antigravity + Hermes Agent = 1000+ Leads/Day!](https://medium.com/@alexriyad42/google-antigravity-hermes-agent-1000-leads-day-995605b52602?source=rss------artificial_intelligence-5)**
-> 🔹 **[I’m a Java Engineer Who Uses AI Every Day. Here’s What Actually Works &lpar;and What Doesn’t&rpar;](https://medium.com/@prashantsasalatti250/im-a-java-engineer-who-uses-ai-every-day-here-s-what-actually-works-and-what-doesn-t-c2391d0794e7?source=rss------artificial_intelligence-5)**
-> 🔹 **[When Your RAG System Confidently Invents a Drug Dosage](https://medium.com/@meenadharshini0407/when-your-rag-system-confidently-invents-a-drug-dosage-701df6e63d68?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Accelerator Calculator Paradox: Cognitive Superposition and the Illusion of Tomorrow’s Leis...](https://medium.com/@avneryona/the-accelerator-calculator-paradox-cognitive-superposition-and-the-illusion-of-tomorrows-leisure-693868a4ff4c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Complete List of ElevenLabs Music Styles for Lo-Fi &lpar;2026&rpar;](https://pixelodyssey.medium.com/complete-list-of-elevenlabs-music-styles-for-lo-fi-2026-c0a855e5ccd9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Age of AI Teammates Has Arrived: Inside AWS Summit New York 2026](https://medium.com/@puja.datascience/the-age-of-ai-teammates-has-arrived-inside-aws-summit-new-york-2026-cad9385ce8c6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everyone Has AI. Now what?](https://kefpreneur.medium.com/everyone-has-ai-now-what-8610448aac64?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Built a Slack Bolt Assistant for Snowflake, dbt and Prefect Triage](https://medium.com/@dominik.golebiewski/how-i-built-a-slack-bolt-assistant-for-snowflake-dbt-and-prefect-triage-ceffc985484c?source=rss------artificial_intelligence-5)**
+> 🔹 **[From the Age of Data to the Age of Meaning](https://medium.com/@nexhowledumampo/from-the-age-of-data-to-the-age-of-meaning-3c34462a9728?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Physical AI Could Be Bigger Than ChatGPT](https://medium.com/write-a-catalyst/why-physical-ai-could-be-bigger-than-chatgpt-5d45fb022769?source=rss------artificial_intelligence-5)**
+> 🔹 **[Will AI Replace Software Testers in 2026? The Reality Behind QA Jobs](https://medium.com/write-a-catalyst/will-ai-replace-software-testers-in-2026-the-reality-behind-qa-jobs-13df1fb69096?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everybody’s Suddenly Building “AI-
+Native Services.” Here’s What That Means.](https://mustafanajoom.medium.com/everybodys-suddenly-building-ai-native-services-here-s-what-that-means-c11ea684fecd?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
