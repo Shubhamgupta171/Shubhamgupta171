@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How I Use ChatGPT Every Day Without Selling My Soul as a Writer](https://medium.com/she-speaks-business/how-i-use-chatgpt-every-day-without-selling-my-soul-as-a-writer-e477a8270de9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Will AI Replace Jobs or Create New Opportunities for Students?](https://medium.com/@varshinicheela/will-ai-replace-jobs-or-create-new-opportunities-for-students-c355eaad96ab?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Comes After the Lovable Demo?](https://medium.com/@khushijigenshah/what-comes-after-the-lovable-demo-3f1c1aa2d5cf?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Project That Got Me Promoted Was 70% AI. I’ve Never Said That Out Loud Until Now.](https://medium.com/@Hiro.Y/the-project-that-got-me-promoted-was-70-ai-ive-never-said-that-out-loud-until-now-8cf5c7435fd6?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Happens When Every Business Process Gets an AI Brain?](https://medium.com/beyond-the-algorithm/what-happens-when-every-business-process-gets-an-ai-brain-3df6e404f606?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Mess to Spotless: How My Cleaner Finds the Best Route — UCS](https://medium.com/@pooja_virani/from-mess-to-spotless-how-my-cleaner-finds-the-best-route-ucs-0b33ce1c43ff?source=rss------artificial_intelligence-5)**
-> 🔹 **[Lovable Alternatives for Production Apps](https://medium.com/@marketing_9640/lovable-alternatives-for-production-apps-0cf66d11e443?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mengenal Perkembangan Teknologi Digital di Era Modern 2026](https://medium.com/@calon4dindonesia/mengenal-perkembangan-teknologi-digital-di-era-modern-2026-c686ebd07976?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If AI Is Trying to Tell Us Something When It Fails?](https://medium.com/@aaditya.thokal24/what-if-ai-is-trying-to-tell-us-something-when-it-fails-c55463d25239?source=rss------artificial_intelligence-5)**
+> 🔹 **[When 95% of AI’s Brain is English, the Rest of the World Pays a Tax](https://shahzadasghar.medium.com/when-95-of-ais-brain-is-english-the-rest-of-the-world-pays-a-tax-f31ce7730435?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Using Azure Functions for AI Agents — Use Microsoft Foundry Routines Instead [PREVIEW]](https://shweta-lodha.medium.com/stop-using-azure-functions-for-ai-agents-use-microsoft-foundry-routines-instead-preview-9bc186e64189?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Transforming Premium Domain Name Valuation](https://medium.com/@admin_13739/how-ai-is-transforming-premium-domain-name-valuation-958f5eb2951b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google Antigravity + Hermes Agent = 1000+ Leads/Day!](https://medium.com/@alexriyad42/google-antigravity-hermes-agent-1000-leads-day-995605b52602?source=rss------artificial_intelligence-5)**
+> 🔹 **[I’m a Java Engineer Who Uses AI Every Day. Here’s What Actually Works &lpar;and What Doesn’t&rpar;](https://medium.com/@prashantsasalatti250/im-a-java-engineer-who-uses-ai-every-day-here-s-what-actually-works-and-what-doesn-t-c2391d0794e7?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Your RAG System Confidently Invents a Drug Dosage](https://medium.com/@meenadharshini0407/when-your-rag-system-confidently-invents-a-drug-dosage-701df6e63d68?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Accelerator Calculator Paradox: Cognitive Superposition and the Illusion of Tomorrow’s Leis...](https://medium.com/@avneryona/the-accelerator-calculator-paradox-cognitive-superposition-and-the-illusion-of-tomorrows-leisure-693868a4ff4c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
