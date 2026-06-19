@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[You don’t understand DNS like you think you do​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌...](https://stackoverflow.blog/2026/06/19/you-don-t-understand-dns-like-you-think-you-do/)**
-> 🔹 **[The Hidden Challenge of Hybrid Work: Why Device Management Is Becoming a Business Strategy](https://medium.com/@bouncebacktech123/the-hidden-challenge-of-hybrid-work-why-device-management-is-becoming-a-business-strategy-90b88b59bee7?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI-Generated SVG Icons Are Changing Everything — Here’s What You Need to Know in 2026](https://medium.com/@iconsearchinfo/ai-generated-svg-icons-are-changing-everything-heres-what-you-need-to-know-in-2026-b9b116ada8a4?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Age of Agentic AI: When Machines Stop Answering and Start Acting](https://medium.com/@shreya.patel_19370/the-age-of-agentic-ai-when-machines-stop-answering-and-start-acting-0a2cea770a3f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Homo Limen: Who Owns the Fire?](https://medium.com/@nageshus/homo-limen-who-owns-the-fire-a6e5527792fe?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Making Execution Cheap. What Happens to Expertise?](https://sriramadvisory.medium.com/ai-is-making-execution-cheap-what-happens-to-expertise-4f11c3151f9b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the Spotlight: Why AI Agents Need both Keywords and Context to Fly!](https://medium.com/@ankursaran_59645/beyond-the-spotlight-why-ai-agents-need-both-keywords-and-context-to-fly-ca07117841e2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best Data Science Institute in Delhi with 100% Placement Assistance](https://medium.com/@anamikadigitalmarketing0012/best-data-science-institute-in-delhi-with-100-placement-assistance-1644f23ee27f?source=rss------artificial_intelligence-5)**
+> 🔹 **[GenAI System Design: A Practical Framework for RAG, Agents, and Vector Databases](https://medium.com/@engineeringdokha/genai-system-design-a-practical-framework-for-rag-agents-and-vector-databases-c038465e9e06?source=rss------system_design-5)**
+> 🔹 **[給自己 2026/7 ～ 2027/6 的一年展望](https://medium.com/@zuw0401/%E7%B5%A6%E8%87%AA%E5%B7%B1-2026-7-2027-6-%E7%9A%84%E4%B8%80%E5%B9%B4%E5%B1%95%E6%9C%9B-e4e04c419413?source=rss------system_design-5)**
+> 🔹 **[給自己 2026/7 ～ 2027/6 的一年展望](https://medium.com/@zuw0401/%E7%B5%A6%E8%87%AA%E5%B7%B1-2026-7-2027-6-%E7%9A%84%E4%B8%80%E5%B9%B4%E5%B1%95%E6%9C%9B-e4e04c419413?source=rss------backend_development-5)**
+> 🔹 **[Why Most People Never Make Money Online](https://medium.com/@nuclearmarketer/why-most-people-never-make-money-online-a4efff19e55f?source=rss------artificial_intelligence-5)**
+> 🔹 **[What is Artificial Intelligence and How It Is Changing Our Daily Life](https://medium.com/@abhaymishra1879/what-is-artificial-intelligence-and-how-it-is-changing-our-daily-life-6fb2da201477?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Persona: What It Is and Why Public Voice Matters in the Artificial Era](https://medium.com/@Neuroism/artificial-persona-what-it-is-and-why-public-voice-matters-in-the-artificial-era-957456cac1ff?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Can Outsource the Calculation, But Not the Judgement](https://medium.com/@johnbythemoor/you-can-outsource-the-calculation-but-not-the-judgement-681b9e7ed03f?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Showed Codex a Task Once. It Learned the Entire Workflow.](https://medium.com/@jayanth01/i-showed-codex-a-task-once-it-learned-the-entire-workflow-b2262f1f4a98?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
