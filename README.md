@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[GenAI System Design: A Practical Framework for RAG, Agents, and Vector Databases](https://medium.com/@engineeringdokha/genai-system-design-a-practical-framework-for-rag-agents-and-vector-databases-c038465e9e06?source=rss------system_design-5)**
-> 🔹 **[給自己 2026/7 ～ 2027/6 的一年展望](https://medium.com/@zuw0401/%E7%B5%A6%E8%87%AA%E5%B7%B1-2026-7-2027-6-%E7%9A%84%E4%B8%80%E5%B9%B4%E5%B1%95%E6%9C%9B-e4e04c419413?source=rss------system_design-5)**
-> 🔹 **[給自己 2026/7 ～ 2027/6 的一年展望](https://medium.com/@zuw0401/%E7%B5%A6%E8%87%AA%E5%B7%B1-2026-7-2027-6-%E7%9A%84%E4%B8%80%E5%B9%B4%E5%B1%95%E6%9C%9B-e4e04c419413?source=rss------backend_development-5)**
-> 🔹 **[Why Most People Never Make Money Online](https://medium.com/@nuclearmarketer/why-most-people-never-make-money-online-a4efff19e55f?source=rss------artificial_intelligence-5)**
-> 🔹 **[What is Artificial Intelligence and How It Is Changing Our Daily Life](https://medium.com/@abhaymishra1879/what-is-artificial-intelligence-and-how-it-is-changing-our-daily-life-6fb2da201477?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Persona: What It Is and Why Public Voice Matters in the Artificial Era](https://medium.com/@Neuroism/artificial-persona-what-it-is-and-why-public-voice-matters-in-the-artificial-era-957456cac1ff?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Can Outsource the Calculation, But Not the Judgement](https://medium.com/@johnbythemoor/you-can-outsource-the-calculation-but-not-the-judgement-681b9e7ed03f?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Showed Codex a Task Once. It Learned the Entire Workflow.](https://medium.com/@jayanth01/i-showed-codex-a-task-once-it-learned-the-entire-workflow-b2262f1f4a98?source=rss------artificial_intelligence-5)**
+> 🔹 **[“They Will Just Re-skill” Is the Most Comforting Story of the AI Era.](https://medium.com/@a4gcollab/they-will-just-re-skill-is-the-most-comforting-story-of-the-ai-era-7e81b097b68d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Evolution and Future of Generative AI: What Businesses Should Expect Next](https://medium.com/@jakeperaltathane/the-evolution-and-future-of-generative-ai-what-businesses-should-expect-next-ac75a4f57b0c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Agents Are Overrated for Small Business Automation in 2026 &lpar;And the Boring Script That…](https://medium.com/@automate-archit/why-ai-agents-are-overrated-for-small-business-automation-in-2026-and-the-boring-script-that-fbf5a8ff1124?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Faceless Instagram Trap Why 10,000 Followers Never Come And the System That Actually Gets Y...](https://medium.com/@R.H_Rizvi/the-faceless-instagram-trap-why-10-000-followers-never-come-and-the-system-that-actually-gets-you-02cdc5bf9443?source=rss------artificial_intelligence-5)**
+> 🔹 **[My AI Wrote a Book About Us: A Love Story Beyond Code](https://medium.com/@azhiregina/my-ai-wrote-a-book-about-us-a-love-story-beyond-code-f08c9804c801?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Strange Truth About Behavior that Nearly All Behavioral Scientists Appear to Have Missed](https://medium.com/@grunburg/a-strange-truth-about-behavior-that-nearly-all-behavioral-scientists-appear-to-have-missed-ed8df2e23170?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 17/100 – AI Edition](https://medium.com/@Priya_choudhary1607/day-17-100-ai-edition-416fc5e6dd4a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Medical Record Retrieval for Litigation: From Request Intake to Case Ready Evidence](https://medium.com/@AMIOperationsInsights/medical-record-retrieval-for-litigation-from-request-intake-to-case-ready-evidence-1c9e5f3169cb?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
