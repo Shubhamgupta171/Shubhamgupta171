@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[CLAUDE.md for Designers: Make Claude Follow Your Design System](https://olyacooper.medium.com/claude-md-for-designers-make-claude-follow-your-design-system-21963ab5b801?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is HTTP PATCH Quietly Sabotaging Your Enterprise API?](https://medium.com/@tanmayanand2002_63440/is-http-patch-quietly-sabotaging-your-enterprise-api-151adfc758dc?source=rss------backend_development-5)**
-> 🔹 **[How Artificial Intelligence Is Changing Medicine](https://medium.com/@eshitaaa_/how-artificial-intelligence-is-changing-medicine-c3239f392443?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best Thunderbolt Docks for Triple-Monitor Setups in 2026 &lpar;Tested for AI Workstations&rpar;](https://medium.com/@mumbamweni3/best-thunderbolt-docks-for-triple-monitor-setups-in-2026-tested-for-ai-workstations-f67bcd0ec365?source=rss------artificial_intelligence-5)**
-> 🔹 **[Day 14: Function Calling Explained Simply &lpar;For DevOps &amp; Cloud Engineers&rpar;](https://medium.com/@subramanyamanjegowda/day-14-function-calling-explained-simply-for-devops-cloud-engineers-52df12b7c77e?source=rss------artificial_intelligence-5)**
-> 🔹 **[GLM-5.2 Just Changed the Open-Weights AI Race &lpar;And It’s Much Closer to Frontier Models Than Mos...](https://medium.com/@genjiplayer69/glm-5-2-just-changed-the-open-weights-ai-race-and-its-much-closer-to-frontier-models-than-most-bf9fda321474?source=rss------artificial_intelligence-5)**
-> 🔹 **[PERSONAL ACCESS AGREEMENT](https://medium.com/@ratsamy_42246/personal-access-agreement-ce4ceeef2586?source=rss------artificial_intelligence-5)**
-> 🔹 **[Top Email Marketing Trends in 2026: AI, Automation, Personalization &amp; Future Growth](https://medium.com/@jaykumar0305/top-email-marketing-trends-in-2026-ai-automation-personalization-future-growth-62f686a398ff?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cache Stampede in Go: Preventing Thundering Herds with Singleflight, Stale Caching, and Request...](https://medium.com/@serifcolakel/cache-stampede-in-go-preventing-thundering-herds-with-singleflight-stale-caching-and-request-a68fb4c9f018?source=rss------backend_development-5)**
+> 🔹 **[LLM Security Threats Explained: From Prompt Injection to Model Theft](https://medium.com/@tanishch21/llm-security-threats-explained-from-prompt-injection-to-model-theft-9a0adc3a7b7f?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Read Everything About Claude Fable 5. One Detail Stood Out More Than All the Benchmarks.](https://medium.com/@jeelpatel98796/i-read-everything-about-claude-fable-5-one-detail-stood-out-more-than-all-the-benchmarks-b0c3f72129a8?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Chips vs India’s Domestic Boom: Which Will Create More Wealth by 2030?](https://amitsomrana7.medium.com/ai-chips-vs-indias-domestic-boom-which-will-create-more-wealth-by-2030-856be9dcade4?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Tinkering to 涌现](https://medium.com/@unbundledconsultant/from-tinkering-to-%E6%B6%8C%E7%8E%B0-745d6db723ce?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Not an Automation Tool. It’s a Communication Channel](https://medium.com/@valmirhazeri/ai-is-not-an-automation-tool-its-a-communication-channel-8399acd0f481?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Lightweight Proxy](https://mumtozvalijonov.medium.com/a-lightweight-proxy-540e4a0db6c9?source=rss------backend_development-5)**
+> 🔹 **[Where Will Senior Engineers Come From in Ten Years?](https://medium.com/@alaamohammad/where-will-senior-engineers-come-from-in-ten-years-4ccd15b97e02?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
