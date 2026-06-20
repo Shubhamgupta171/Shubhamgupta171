@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Used Claude Code for 100+ Hours. Here Is Everything I Wish I Knew on Day One.](https://yadavdivy296.medium.com/i-used-claude-code-for-100-hours-here-is-everything-i-wish-i-knew-on-day-one-43b1ad013694?source=rss------artificial_intelligence-5)**
-> 🔹 **[Linken Sphere Vs Multilogin: Complete Comparison &amp; Alternatives &lpar;2026&rpar;](https://medium.com/@don724969/linken-sphere-vs-multilogin-complete-comparison-alternatives-2026-5be49786cd83?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI PUSHES SENIOR SKILLS INTO ENTRY-LEVEL JOBS AS EMPLOYERS RETHINK HIRING](https://medium.com/@yogen70_14019/ai-pushes-senior-skills-into-entry-level-jobs-as-employers-rethink-hiring-4b4c56cd0b3c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Every AI Buzzword You Have Been Afraid Of Is a Dot Product in a Costume.](https://swarnenduiitb2020i.medium.com/every-ai-buzzword-you-have-been-afraid-of-is-a-dot-product-in-a-costume-c175ee9ec1b7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Matrix &amp; Chapter 15: A Being, A Reflection — Where is the Truth Hidden?](https://medium.com/@tb2015yy/the-matrix-chapter-15-a-being-a-reflection-where-is-the-truth-hidden-b797e3344f1a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Central Courtyard: The Living Heart of the Nzila Spirit-Tech Research Lab](https://medium.com/@mawuviafrikan/the-central-courtyard-the-living-heart-of-the-nzila-spirit-tech-research-lab-869c045c626e?source=rss------artificial_intelligence-5)**
-> 🔹 **[A man who seeks happiness throughout his life should understand the value of the women in his l...](https://medium.com/@nodot1902/a-man-who-seeks-happiness-throughout-his-life-should-understand-the-value-of-the-women-in-his-life-d23d08f6d71d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why I Feel Like I’m Enjoying Learning in This Age of AI](https://medium.com/@anasbashir69/why-i-feel-like-im-enjoying-learning-in-this-age-of-ai-aa0aeb5340ac?source=rss------artificial_intelligence-5)**
+> 🔹 **[I’m Building a Crypto Trading Agent Where the AI Isn’t Allowed to Trade](https://medium.com/@upadhyay.suraj09/im-building-a-crypto-trading-agent-where-the-ai-isn-t-allowed-to-trade-af5d196bf077?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Burned 435 Million Tokens on Codex in a Month. Here’s What the I found!](https://medium.com/@automate.x.a2b/i-burned-435-million-tokens-on-codex-in-a-month-heres-what-the-i-found-0216f4be0788?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Question Every Software Engineer Is Afraid to Ask](https://medium.com/@okedialf/the-question-every-software-engineer-is-afraid-to-ask-bfa74ab9c0ce?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built an AI Tutor That Refuses to Answer Questions. Here’s the Real Problem.](https://medium.com/@marco.iannacone/i-built-an-ai-tutor-that-refuses-to-answer-questions-heres-the-real-problem-9ac002a800df?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Evolution of the Content Writer: From Creator to Editor](https://medium.com/@alwynaugustine1986/the-evolution-of-the-content-writer-from-creator-to-editor-f0f13d2643be?source=rss------artificial_intelligence-5)**
+> 🔹 **[Replication Lag: The Silent Gap Between What Your Database Knows and What Users See](https://medium.com/@shweta.shrivastava/replication-lag-the-silent-gap-between-what-your-database-knows-and-what-users-see-383d3bc5b888?source=rss------backend_development-5)**
+> 🔹 **[Stop Treating LLMs Like Magic: The Engineering Reality Behind the AI Hype](https://medium.com/@petalinpages/stop-treating-llms-like-magic-the-engineering-reality-behind-the-ai-hype-4081315e8623?source=rss------artificial_intelligence-5)**
+> 🔹 **[Scalable Clinical Knowledge Systems for Data-Driven Healthcare](https://medium.com/@sasikkolla/scalable-clinical-knowledge-systems-for-data-driven-healthcare-9bd4fb1ab24b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
