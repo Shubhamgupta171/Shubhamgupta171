@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I’m Building a Crypto Trading Agent Where the AI Isn’t Allowed to Trade](https://medium.com/@upadhyay.suraj09/im-building-a-crypto-trading-agent-where-the-ai-isn-t-allowed-to-trade-af5d196bf077?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Burned 435 Million Tokens on Codex in a Month. Here’s What the I found!](https://medium.com/@automate.x.a2b/i-burned-435-million-tokens-on-codex-in-a-month-heres-what-the-i-found-0216f4be0788?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Question Every Software Engineer Is Afraid to Ask](https://medium.com/@okedialf/the-question-every-software-engineer-is-afraid-to-ask-bfa74ab9c0ce?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built an AI Tutor That Refuses to Answer Questions. Here’s the Real Problem.](https://medium.com/@marco.iannacone/i-built-an-ai-tutor-that-refuses-to-answer-questions-heres-the-real-problem-9ac002a800df?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Evolution of the Content Writer: From Creator to Editor](https://medium.com/@alwynaugustine1986/the-evolution-of-the-content-writer-from-creator-to-editor-f0f13d2643be?source=rss------artificial_intelligence-5)**
-> 🔹 **[Replication Lag: The Silent Gap Between What Your Database Knows and What Users See](https://medium.com/@shweta.shrivastava/replication-lag-the-silent-gap-between-what-your-database-knows-and-what-users-see-383d3bc5b888?source=rss------backend_development-5)**
-> 🔹 **[Stop Treating LLMs Like Magic: The Engineering Reality Behind the AI Hype](https://medium.com/@petalinpages/stop-treating-llms-like-magic-the-engineering-reality-behind-the-ai-hype-4081315e8623?source=rss------artificial_intelligence-5)**
-> 🔹 **[Scalable Clinical Knowledge Systems for Data-Driven Healthcare](https://medium.com/@sasikkolla/scalable-clinical-knowledge-systems-for-data-driven-healthcare-9bd4fb1ab24b?source=rss------artificial_intelligence-5)**
+> 🔹 **[CLAUDE.md for Designers: Make Claude Follow Your Design System](https://olyacooper.medium.com/claude-md-for-designers-make-claude-follow-your-design-system-21963ab5b801?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is HTTP PATCH Quietly Sabotaging Your Enterprise API?](https://medium.com/@tanmayanand2002_63440/is-http-patch-quietly-sabotaging-your-enterprise-api-151adfc758dc?source=rss------backend_development-5)**
+> 🔹 **[How Artificial Intelligence Is Changing Medicine](https://medium.com/@eshitaaa_/how-artificial-intelligence-is-changing-medicine-c3239f392443?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best Thunderbolt Docks for Triple-Monitor Setups in 2026 &lpar;Tested for AI Workstations&rpar;](https://medium.com/@mumbamweni3/best-thunderbolt-docks-for-triple-monitor-setups-in-2026-tested-for-ai-workstations-f67bcd0ec365?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 14: Function Calling Explained Simply &lpar;For DevOps &amp; Cloud Engineers&rpar;](https://medium.com/@subramanyamanjegowda/day-14-function-calling-explained-simply-for-devops-cloud-engineers-52df12b7c77e?source=rss------artificial_intelligence-5)**
+> 🔹 **[GLM-5.2 Just Changed the Open-Weights AI Race &lpar;And It’s Much Closer to Frontier Models Than Mos...](https://medium.com/@genjiplayer69/glm-5-2-just-changed-the-open-weights-ai-race-and-its-much-closer-to-frontier-models-than-most-bf9fda321474?source=rss------artificial_intelligence-5)**
+> 🔹 **[PERSONAL ACCESS AGREEMENT](https://medium.com/@ratsamy_42246/personal-access-agreement-ce4ceeef2586?source=rss------artificial_intelligence-5)**
+> 🔹 **[Top Email Marketing Trends in 2026: AI, Automation, Personalization &amp; Future Growth](https://medium.com/@jaykumar0305/top-email-marketing-trends-in-2026-ai-automation-personalization-future-growth-62f686a398ff?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
