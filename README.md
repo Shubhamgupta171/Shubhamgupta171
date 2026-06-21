@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Reading Interview Tips Doesn’t Work — And What Actually Does](https://medium.com/@ombhandwalkar002/why-reading-interview-tips-doesnt-work-and-what-actually-does-4731a992b0f7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop trying to write the perfect prompt](https://medium.com/@mark.hancock85/stop-trying-to-write-the-perfect-prompt-cd841bf16834?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Gen Z Is Less Intelligent Than Their Parents &lpar;The Reason Is Concerning&rpar;](https://medium.com/@techforacademics/why-gen-z-is-less-intelligent-than-their-parents-the-reason-is-concerning-74feac6c8a92?source=rss------artificial_intelligence-5)**
-> 🔹 **[What If Your Biggest Business Problem Isn’t Traffic… But Visibility?](https://medium.com/@nullc0d3/what-if-your-biggest-business-problem-isnt-traffic-but-visibility-d645a2477317?source=rss------artificial_intelligence-5)**
-> 🔹 **[Le syndrome de Xerox : Pourquoi la distillation va redistribuer les cartes de l’IA](https://barakabanio.medium.com/le-syndrome-de-xerox-pourquoi-la-distillation-va-redistribuer-les-cartes-de-lia-1ea8d33dee4d?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Do You Know You Know?
-When AI starts executing, belief is not enough. You need proof.](https://medium.com/analysts-corner/how-do-you-know-you-know-when-ai-starts-executing-belief-is-not-enough-you-need-proof-b8d8dcdf621e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Chat Box Is Becoming a Risk Factor](https://medium.com/ai-ai-oh/the-chat-box-is-becoming-a-risk-factor-194711a0f41e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Data Center Dilemma: Balancing AI’s Infrastructure Boom with Community and Environmental Li...](https://medium.com/@abulkalamazad197272/the-data-center-dilemma-balancing-ais-infrastructure-boom-with-community-and-environmental-limits-a48949bdb8fc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Dangerous Assumption Behind AI Productivity Gains](https://sanmcdaniel.medium.com/the-dangerous-assumption-behind-ai-productivity-gains-88b67c623c0c?source=rss------artificial_intelligence-5)**
+> 🔹 **[What You Can Build With AI Automation](https://medium.com/@onexial/what-you-can-build-with-ai-automation-7a759340ba73?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is HTML Becoming the New PDF?](https://medium.com/@thestartupcto_/is-html-becoming-the-new-pdf-e9c6a00b0859?source=rss------artificial_intelligence-5)**
+> 🔹 **[Will Artificial Intelligence Redefine What It Means to Be Human?](https://medium.com/@archishasen/will-artificial-intelligence-redefine-what-it-means-to-be-human-fd06ed9174a2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Agentic Ceiling and the Rationalization](https://medium.com/@burakk.mobile/the-agentic-ceiling-and-the-rationalization-af08b96a3931?source=rss------artificial_intelligence-5)**
+> 🔹 **[Fable 5 Got Pulled From Everyone’s Hands; Turns Out You Can Rebuild Its Power for Half the Pric...](https://medium.com/ai-tomorrow/fable-5-got-pulled-from-everyones-hands-turns-out-you-can-rebuild-its-power-for-half-the-price-af34325413ec?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Used Redis to Stop My Football Web App From Hammering the Database](https://medium.com/@syedahmedali.dev/how-i-used-redis-to-stop-my-football-web-app-from-hammering-the-database-dc626f16d821?source=rss------backend_development-5)**
+> 🔹 **[Why Does ChatGPT Need So Many GPUs?](https://medium.com/@jackchi978721/why-does-chatgpt-need-so-many-gpus-09bca71a0511?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
