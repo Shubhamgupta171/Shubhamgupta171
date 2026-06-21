@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Dangerous Assumption Behind AI Productivity Gains](https://sanmcdaniel.medium.com/the-dangerous-assumption-behind-ai-productivity-gains-88b67c623c0c?source=rss------artificial_intelligence-5)**
-> 🔹 **[What You Can Build With AI Automation](https://medium.com/@onexial/what-you-can-build-with-ai-automation-7a759340ba73?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is HTML Becoming the New PDF?](https://medium.com/@thestartupcto_/is-html-becoming-the-new-pdf-e9c6a00b0859?source=rss------artificial_intelligence-5)**
-> 🔹 **[Will Artificial Intelligence Redefine What It Means to Be Human?](https://medium.com/@archishasen/will-artificial-intelligence-redefine-what-it-means-to-be-human-fd06ed9174a2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Agentic Ceiling and the Rationalization](https://medium.com/@burakk.mobile/the-agentic-ceiling-and-the-rationalization-af08b96a3931?source=rss------artificial_intelligence-5)**
-> 🔹 **[Fable 5 Got Pulled From Everyone’s Hands; Turns Out You Can Rebuild Its Power for Half the Pric...](https://medium.com/ai-tomorrow/fable-5-got-pulled-from-everyones-hands-turns-out-you-can-rebuild-its-power-for-half-the-price-af34325413ec?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Used Redis to Stop My Football Web App From Hammering the Database](https://medium.com/@syedahmedali.dev/how-i-used-redis-to-stop-my-football-web-app-from-hammering-the-database-dc626f16d821?source=rss------backend_development-5)**
-> 🔹 **[Why Does ChatGPT Need So Many GPUs?](https://medium.com/@jackchi978721/why-does-chatgpt-need-so-many-gpus-09bca71a0511?source=rss------artificial_intelligence-5)**
+> 🔹 **[15 Claude Prompts Every Solo Developer Should Have Saved](https://medium.com/@aitrends24/15-claude-prompts-every-solo-developer-should-have-saved-13c43818fff0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Amazon AI search generates images from text descriptions](https://pub.towardsai.net/amazon-ai-search-generates-images-from-text-descriptions-6ce82e668974?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Didn’t Lie to Me. It Just Took the Wheel.](https://medium.com/@varshi3888/ai-didnt-lie-to-me-it-just-took-the-wheel-2c8e6f0c3456?source=rss------artificial_intelligence-5)**
+> 🔹 **[The End of Flying Blind — InfiBis](https://medium.com/@infibisindia/the-end-of-flying-blind-infibis-1d10185faeb4?source=rss------artificial_intelligence-5)**
+> 🔹 **[One Piece of Content.](https://medium.com/@erick-killmonger/one-piece-of-content-6a58b4294705?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Call Answering &amp; Virtual Assistants: The Future of Smart Customer Support](https://medium.com/@muznasabzwari/ai-call-answering-virtual-assistants-the-future-of-smart-customer-support-458722efa31d?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Adoption in the GCC: The Cultural and Operational Differences Nobody Talks About](https://aqeelbinshoukat.medium.com/ai-adoption-in-the-gcc-the-cultural-and-operational-differences-nobody-talks-about-4c74ff8babd5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Job Posting Autopsy — The Org Chart Edition: What a Properly Staffed AI Engineering and Applied...](https://medium.com/@brian-curry-research/job-posting-autopsy-the-org-chart-edition-what-a-properly-staffed-ai-engineering-and-applied-9f3c001003d0?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
