@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Cache Stampede in Go: Preventing Thundering Herds with Singleflight, Stale Caching, and Request...](https://medium.com/@serifcolakel/cache-stampede-in-go-preventing-thundering-herds-with-singleflight-stale-caching-and-request-a68fb4c9f018?source=rss------backend_development-5)**
-> 🔹 **[LLM Security Threats Explained: From Prompt Injection to Model Theft](https://medium.com/@tanishch21/llm-security-threats-explained-from-prompt-injection-to-model-theft-9a0adc3a7b7f?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Read Everything About Claude Fable 5. One Detail Stood Out More Than All the Benchmarks.](https://medium.com/@jeelpatel98796/i-read-everything-about-claude-fable-5-one-detail-stood-out-more-than-all-the-benchmarks-b0c3f72129a8?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Chips vs India’s Domestic Boom: Which Will Create More Wealth by 2030?](https://amitsomrana7.medium.com/ai-chips-vs-indias-domestic-boom-which-will-create-more-wealth-by-2030-856be9dcade4?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Tinkering to 涌现](https://medium.com/@unbundledconsultant/from-tinkering-to-%E6%B6%8C%E7%8E%B0-745d6db723ce?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Not an Automation Tool. It’s a Communication Channel](https://medium.com/@valmirhazeri/ai-is-not-an-automation-tool-its-a-communication-channel-8399acd0f481?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Lightweight Proxy](https://mumtozvalijonov.medium.com/a-lightweight-proxy-540e4a0db6c9?source=rss------backend_development-5)**
-> 🔹 **[Where Will Senior Engineers Come From in Ten Years?](https://medium.com/@alaamohammad/where-will-senior-engineers-come-from-in-ten-years-4ccd15b97e02?source=rss------artificial_intelligence-5)**
+> 🔹 **[Create Stunning Aesthetic Photo Collages with ChatGPT: Girl &amp; Boy Prompts &lpar;2026&rpar;](https://medium.com/@keertivishwkarma1924/create-stunning-aesthetic-photo-collages-with-chatgpt-girl-boy-prompts-2026-f116e0b0c959?source=rss------artificial_intelligence-5)**
+> 🔹 **[Publora Review 2026: Social Posting Workflow](https://medium.com/@hungryclaw/publora-review-2026-social-posting-workflow-3550c312ba55?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Cost of Slow Market Research](https://medium.com/@PREONZ/the-hidden-cost-of-slow-market-research-bbea6801eeb7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why RAG Became the Foundation of Enterprise AI](https://medium.com/@sachin.gaikhe/why-rag-became-the-foundation-of-enterprise-ai-274b95efb097?source=rss------artificial_intelligence-5)**
+> 🔹 **[Double Agent](https://hassanhabib.medium.com/double-agent-ad4b3e8e66a2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Biggest AI Startup Mistake Isn’t Building the Wrong Product — It’s Talking to the Wrong Peo...](https://medium.com/@mattlar.jari/the-biggest-ai-startup-mistake-isnt-building-the-wrong-product-it-s-talking-to-the-wrong-people-a1734e1a1ab8?source=rss------artificial_intelligence-5)**
+> 🔹 **[BM25 vs Embeddings: Two Ways AI Searches for Information](https://medium.com/@summerlearnings2020/bm25-vs-embeddings-two-ways-ai-searches-for-information-84e91c9a2dfb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Real Story Behind Anthropic’s AI Ban Just Came Out. It Wasn’t About a Jailbreak at All.](https://medium.com/@aiexpo.app/the-real-story-behind-anthropics-ai-ban-just-came-out-it-wasn-t-about-a-jailbreak-at-all-1db763c3edb2?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
