@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Create Stunning Aesthetic Photo Collages with ChatGPT: Girl &amp; Boy Prompts &lpar;2026&rpar;](https://medium.com/@keertivishwkarma1924/create-stunning-aesthetic-photo-collages-with-chatgpt-girl-boy-prompts-2026-f116e0b0c959?source=rss------artificial_intelligence-5)**
-> 🔹 **[Publora Review 2026: Social Posting Workflow](https://medium.com/@hungryclaw/publora-review-2026-social-posting-workflow-3550c312ba55?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Cost of Slow Market Research](https://medium.com/@PREONZ/the-hidden-cost-of-slow-market-research-bbea6801eeb7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why RAG Became the Foundation of Enterprise AI](https://medium.com/@sachin.gaikhe/why-rag-became-the-foundation-of-enterprise-ai-274b95efb097?source=rss------artificial_intelligence-5)**
-> 🔹 **[Double Agent](https://hassanhabib.medium.com/double-agent-ad4b3e8e66a2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Biggest AI Startup Mistake Isn’t Building the Wrong Product — It’s Talking to the Wrong Peo...](https://medium.com/@mattlar.jari/the-biggest-ai-startup-mistake-isnt-building-the-wrong-product-it-s-talking-to-the-wrong-people-a1734e1a1ab8?source=rss------artificial_intelligence-5)**
-> 🔹 **[BM25 vs Embeddings: Two Ways AI Searches for Information](https://medium.com/@summerlearnings2020/bm25-vs-embeddings-two-ways-ai-searches-for-information-84e91c9a2dfb?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Real Story Behind Anthropic’s AI Ban Just Came Out. It Wasn’t About a Jailbreak at All.](https://medium.com/@aiexpo.app/the-real-story-behind-anthropics-ai-ban-just-came-out-it-wasn-t-about-a-jailbreak-at-all-1db763c3edb2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Reading Interview Tips Doesn’t Work — And What Actually Does](https://medium.com/@ombhandwalkar002/why-reading-interview-tips-doesnt-work-and-what-actually-does-4731a992b0f7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop trying to write the perfect prompt](https://medium.com/@mark.hancock85/stop-trying-to-write-the-perfect-prompt-cd841bf16834?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Gen Z Is Less Intelligent Than Their Parents &lpar;The Reason Is Concerning&rpar;](https://medium.com/@techforacademics/why-gen-z-is-less-intelligent-than-their-parents-the-reason-is-concerning-74feac6c8a92?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If Your Biggest Business Problem Isn’t Traffic… But Visibility?](https://medium.com/@nullc0d3/what-if-your-biggest-business-problem-isnt-traffic-but-visibility-d645a2477317?source=rss------artificial_intelligence-5)**
+> 🔹 **[Le syndrome de Xerox : Pourquoi la distillation va redistribuer les cartes de l’IA](https://barakabanio.medium.com/le-syndrome-de-xerox-pourquoi-la-distillation-va-redistribuer-les-cartes-de-lia-1ea8d33dee4d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Do You Know You Know?
+When AI starts executing, belief is not enough. You need proof.](https://medium.com/analysts-corner/how-do-you-know-you-know-when-ai-starts-executing-belief-is-not-enough-you-need-proof-b8d8dcdf621e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Chat Box Is Becoming a Risk Factor](https://medium.com/ai-ai-oh/the-chat-box-is-becoming-a-risk-factor-194711a0f41e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Data Center Dilemma: Balancing AI’s Infrastructure Boom with Community and Environmental Li...](https://medium.com/@abulkalamazad197272/the-data-center-dilemma-balancing-ais-infrastructure-boom-with-community-and-environmental-limits-a48949bdb8fc?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
