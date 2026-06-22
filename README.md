@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Machine Learning for Beginners &lpar;Part-IV&rpar;: Regression Algorithms in SML](https://medium.com/@0s.and.1s/machine-learning-for-beginners-part-iv-regression-algorithms-in-sml-7b466cd34378?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to build your own LLM from scratch in 5 Stages: exact pipeline behind GPT and Claude](https://medium.com/@warrioraashuu/how-to-build-your-own-llm-from-scratch-in-5-stages-exact-pipeline-behind-gpt-and-claude-e670b7ea0ce1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence in 2026 Is Not What Anyone Prepared You For](https://medium.com/@svnkrmkr/artificial-intelligence-in-2026-is-not-what-anyone-prepared-you-for-dac3df6bfa97?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Evaluate No-Code AI App Builder Pricing Before You Commit: A Usage-Based Checklist for 2...](https://medium.com/@ashleywilson_89237/how-to-evaluate-no-code-ai-app-builder-pricing-before-you-commit-a-usage-based-checklist-for-2026-52307acd291b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Layer Behind AI Recommendations](https://medium.com/@Atom_Foundry/the-hidden-layer-behind-ai-recommendations-2f13b463ca0e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Video Race Is Changing Fast — But Creators Still Need Direction](https://medium.com/@simohamed.amara/the-ai-video-race-is-changing-fast-but-creators-still-need-direction-7c3f43fec237?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Silent Revolution: How AI Agents Are Reshaping Business Operations](https://rsvkg.medium.com/the-silent-revolution-how-ai-agents-are-reshaping-business-operations-cb6018c4e5a4?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Day We Optimised Ourselves Out of Living](https://medium.com/@sakshee1308/the-day-we-optimised-ourselves-out-of-living-2b41e2d7c89a?source=rss------artificial_intelligence-5)**
+> 🔹 **[RAG Explained Through an Exam Analogy](https://sarah2002.medium.com/rag-explained-through-an-exam-analogy-b07d3b458f64?source=rss------artificial_intelligence-5)**
+> 🔹 **[Thirty Years of GPUs. From Toy Story to Toy Story.](https://medium.com/@post.jumble/thirty-years-of-gpus-from-toy-story-to-toy-story-548ac6a6b31b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Token Illiteracy Is the New Data Illiteracy — and It’s About to Cost You the Same](https://medium.com/@karenpfeifer/token-illiteracy-is-the-new-data-illiteracy-and-its-about-to-cost-you-the-same-8f25398ca1b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Built a Blockchain Project as a Personal Challenge](https://medium.com/@sszbs41/how-i-built-a-blockchain-project-as-a-personal-challenge-95c406b705a2?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Didn’t Change Business. It Changed the Founder.](https://medium.com/@alexanderpromoteu/ai-didnt-change-business-it-changed-the-founder-8b9087016bee?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Algorithmic State](https://medium.com/@mnuhzaki/the-algorithmic-state-09388ded20d6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Affiliate Marketing for Beginners: How Ordinary People Are Building Online Income Without Creat...](https://medium.com/@hafsaumer642/affiliate-marketing-for-beginners-how-ordinary-people-are-building-online-income-without-creating-29a291b8d86e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future of the Spectrum: How Artificial Intelligence is Transforming Radio Engineering](https://medium.com/@jocarmuatemuate/the-future-of-the-spectrum-how-artificial-intelligence-is-transforming-radio-engineering-69a1271811c5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
