@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[RAG Explained Through an Exam Analogy](https://sarah2002.medium.com/rag-explained-through-an-exam-analogy-b07d3b458f64?source=rss------artificial_intelligence-5)**
-> 🔹 **[Thirty Years of GPUs. From Toy Story to Toy Story.](https://medium.com/@post.jumble/thirty-years-of-gpus-from-toy-story-to-toy-story-548ac6a6b31b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Token Illiteracy Is the New Data Illiteracy — and It’s About to Cost You the Same](https://medium.com/@karenpfeifer/token-illiteracy-is-the-new-data-illiteracy-and-its-about-to-cost-you-the-same-8f25398ca1b0?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Built a Blockchain Project as a Personal Challenge](https://medium.com/@sszbs41/how-i-built-a-blockchain-project-as-a-personal-challenge-95c406b705a2?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Didn’t Change Business. It Changed the Founder.](https://medium.com/@alexanderpromoteu/ai-didnt-change-business-it-changed-the-founder-8b9087016bee?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Algorithmic State](https://medium.com/@mnuhzaki/the-algorithmic-state-09388ded20d6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Affiliate Marketing for Beginners: How Ordinary People Are Building Online Income Without Creat...](https://medium.com/@hafsaumer642/affiliate-marketing-for-beginners-how-ordinary-people-are-building-online-income-without-creating-29a291b8d86e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Future of the Spectrum: How Artificial Intelligence is Transforming Radio Engineering](https://medium.com/@jocarmuatemuate/the-future-of-the-spectrum-how-artificial-intelligence-is-transforming-radio-engineering-69a1271811c5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Browser Tabs Are the Wrong Shell for AI Coding Agents](https://medium.com/@alex.periasao/why-browser-tabs-are-the-wrong-shell-for-ai-coding-agents-d3088cdda4a8?source=rss------artificial_intelligence-5)**
+> 🔹 **[When OCR Isn’t Enough: Meet the Models That Actually Understand Documents](https://medium.com/@krimatrivedi1/when-ocr-isnt-enough-meet-the-models-that-actually-understand-documents-2dff475ed67a?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I use ChatGPT to Study Smarter &lpar;And the Free Prompts Every Student Should Try&rpar;](https://medium.com/@sagarsneha2506/how-i-use-chatgpt-to-study-smarter-and-the-free-prompts-every-student-should-try-588371f24231?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Agent That Bankrupts You One Alert at a Time](https://medium.com/@davidpech_39825/the-ai-agent-that-bankrupts-you-one-alert-at-a-time-916f7079c0b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Data Structures and Algorithms Deep‑Dive — Mathematical Foundations Part 1 &lpar;Chapter 1, Episode...](https://medium.com/@kishanbabariya101/data-structures-and-algorithms-deep-dive-mathematical-foundations-part-1-chapter-1-episode-4-fc4738361f70?source=rss------data_structures-5)**
+> 🔹 **[Part 8: The Snake Eating Its Own Tail](https://medium.com/@tim_51301/part-8-the-snake-eating-its-own-tail-ce4a8f1d10a6?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Artificial Intelligence in Gold Coin Market Is Revolutionizing Buying, Selling, and Coin…](https://medium.com/@suprajatycoon/how-artificial-intelligence-in-gold-coin-market-is-revolutionizing-buying-selling-and-coin-ad16d0eb1814?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 SQL Habits That Are Quietly Wrecking Your Dashboard &lpar;And Nobody Tells You&rpar;](https://medium.com/ai-engineering-simplified/5-sql-habits-that-are-quietly-wrecking-your-dashboard-and-nobody-tells-you-02a6df17506f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
