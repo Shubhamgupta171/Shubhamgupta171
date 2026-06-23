@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Meet HTTP QUERY: The Verb REST APIs Have Always Needed](https://medium.com/@solvewithari/meet-http-query-the-verb-rest-apis-have-always-needed-008b32ea4a28?source=rss------backend_development-5)**
-> 🔹 **[“Twinn.live: डिजिटल इंटरैक्शन के भविष्य को नई दिशा देने की पहल”](https://medium.com/@astha.saxena42/twinn-live-%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BF%E0%A4%9F%E0%A4%B2-%E0%A4%87%E0%A4%82%E0%A4%9F%E0%A4%B0%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%B6%E0%A4%A8-%E0%A4%95%E0%A5%87-%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF-%E0%A4%95%E0%A5%8B-%E0%A4%A8%E0%A4%88-%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%BE-%E0%A4%A6%E0%A5%87%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A5%80-%E0%A4%AA%E0%A4%B9%E0%A4%B2-027a48a51d13?source=rss------artificial_intelligence-5)**
-> 🔹 **[Amazon Should Be Worried. Not Because of Another Startup. Because of a Protocol.](https://medium.com/quirky-rants/amazon-should-be-worried-not-because-of-another-startup-because-of-a-protocol-8907526a6b96?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Dubai SMBs Can Reduce AI Development Cost in 2026](https://appsontechnologiesblog.medium.com/how-dubai-smbs-can-reduce-ai-development-cost-in-2026-7ae6f819eac2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Asymmetric Encryption is Officially Dead &lpar;And The 2026 Quantum Shock Killed It&rpar;](https://medium.com/the-tech-notes/asymmetric-encryption-is-officially-dead-and-the-2026-quantum-shock-killed-it-750181f3b5c2?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Can Tell You Built Your Website With AI in Three Seconds. So Can Your Customers.](https://medium.com/@sarah_59961/i-can-tell-you-built-your-website-with-ai-in-three-seconds-so-can-your-customers-4a74e0f2fdd6?source=rss------artificial_intelligence-5)**
-> 🔹 **[The New Control Problem](https://medium.com/@markus_brinsa/the-new-control-problem-1fe556ba33ca?source=rss------artificial_intelligence-5)**
-> 🔹 **[Where Does Africa Stand in the AI Economy and the Redistribution of Global Power?](https://medium.com/@8sinss/where-does-africa-stand-in-the-ai-economy-and-the-redistribution-of-global-power-332e36d04ab8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the API Call: Why AI Engineering is Now Just Heavy Backend Design](https://medium.com/ai-engineering-collective/beyond-the-api-call-why-ai-engineering-is-now-just-heavy-backend-design-0748fa06f261?source=rss------backend_development-5)**
+> 🔹 **[Beyond Coordinates: Engineering the Spatial Brain of a Student Ride Sharing App](https://medium.com/@tnirajaya2001/beyond-coordinates-engineering-the-spatial-brain-of-a-student-ride-sharing-app-606b1b536377?source=rss------system_design-5)**
+> 🔹 **[AI Isn’t Broken. Our Workplace Boundaries Are.](https://medium.com/@lukekintigh/ai-isnt-broken-our-workplace-boundaries-are-b4e94d8d4f33?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mastering AI Prompts: How to Ask Better Questions for Smarter Answers](https://medium.com/@arbabasfand1/mastering-ai-prompts-how-to-ask-better-questions-for-smarter-answers-3fcb3730d064?source=rss------artificial_intelligence-5)**
+> 🔹 **[10 Hidden Claude Shortcuts That Save 120 Hours a Year](https://medium.com/tech-and-ai-guild/10-hidden-claude-shortcuts-that-save-120-hours-a-year-2746e39f8c32?source=rss------artificial_intelligence-5)**
+> 🔹 **[Loop Engineering in Claude Code](https://uxplanet.org/loop-engineering-in-claude-code-a36e3b1ca589?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Symbolicum: What It Is and Why Symbolic Culture No Longer Belongs Only to Homo](https://medium.com/@Neuroism/artificial-symbolicum-what-it-is-and-why-symbolic-culture-no-longer-belongs-only-to-homo-ff195af4544b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Just like in The Little Prince: People Are Automating Their Unfinished Communication](https://medium.com/@elenaburan/just-like-in-the-little-prince-people-are-automating-their-unfinished-communication-4b018b30d84a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
