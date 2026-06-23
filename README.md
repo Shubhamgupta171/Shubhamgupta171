@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Beyond the API Call: Why AI Engineering is Now Just Heavy Backend Design](https://medium.com/ai-engineering-collective/beyond-the-api-call-why-ai-engineering-is-now-just-heavy-backend-design-0748fa06f261?source=rss------backend_development-5)**
-> 🔹 **[Beyond Coordinates: Engineering the Spatial Brain of a Student Ride Sharing App](https://medium.com/@tnirajaya2001/beyond-coordinates-engineering-the-spatial-brain-of-a-student-ride-sharing-app-606b1b536377?source=rss------system_design-5)**
-> 🔹 **[AI Isn’t Broken. Our Workplace Boundaries Are.](https://medium.com/@lukekintigh/ai-isnt-broken-our-workplace-boundaries-are-b4e94d8d4f33?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mastering AI Prompts: How to Ask Better Questions for Smarter Answers](https://medium.com/@arbabasfand1/mastering-ai-prompts-how-to-ask-better-questions-for-smarter-answers-3fcb3730d064?source=rss------artificial_intelligence-5)**
-> 🔹 **[10 Hidden Claude Shortcuts That Save 120 Hours a Year](https://medium.com/tech-and-ai-guild/10-hidden-claude-shortcuts-that-save-120-hours-a-year-2746e39f8c32?source=rss------artificial_intelligence-5)**
-> 🔹 **[Loop Engineering in Claude Code](https://uxplanet.org/loop-engineering-in-claude-code-a36e3b1ca589?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Symbolicum: What It Is and Why Symbolic Culture No Longer Belongs Only to Homo](https://medium.com/@Neuroism/artificial-symbolicum-what-it-is-and-why-symbolic-culture-no-longer-belongs-only-to-homo-ff195af4544b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Just like in The Little Prince: People Are Automating Their Unfinished Communication](https://medium.com/@elenaburan/just-like-in-the-little-prince-people-are-automating-their-unfinished-communication-4b018b30d84a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Smart Students Test Themselves When They Study](https://medium.com/activated-thinker/why-smart-students-test-themselves-when-they-study-aeae2e8ee337?source=rss------artificial_intelligence-5)**
+> 🔹 **[Future Studies Based Scenario Analysis of a Tree-based Economy in a Post-Scarcity, Space-Coloni...](https://medium.com/@iftitahranjana/future-studies-based-scenario-analysis-of-a-tree-based-economy-in-a-post-scarcity-space-colonizing-e608a133612b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Writing Doesn’t Sound Like You &lpar;Even When the Information Is Correct&rpar;](https://medium.com/@SolveThrive/why-ai-writing-doesnt-sound-like-you-even-when-the-information-is-correct-1ae597177d75?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Your Website Is Slow and How to Fix It Today](https://medium.com/@edukester/why-your-website-is-slow-and-how-to-fix-it-today-13650822cabc?source=rss------artificial_intelligence-5)**
+> 🔹 **[How NVIDIA Is Driving the AI Revolution in 2026](https://medium.com/@alsadrym1/how-nvidia-is-driving-the-ai-revolution-in-2026-7e0e0f50e8d1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Obsidian Vault Is Already a Knowledge Graph. I Turned On the Lights.](https://medium.com/@vreshch/your-obsidian-vault-is-already-a-knowledge-graph-i-turned-on-the-lights-56c07233db89?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI is Evolving, but Our Crisis Management is Still Shambolic](https://medium.com/@zaibevictoria/ai-is-evolving-but-our-crisis-management-is-still-shambolic-66ef963fe672?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Replaced 10 Hours of Manual QA Work Per Week With These 6 Automation Habits](https://medium.com/@squalliahmed/i-replaced-10-hours-of-manual-qa-work-per-week-with-these-6-automation-habits-0ce7ab6c6d5a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
