@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Smart Students Test Themselves When They Study](https://medium.com/activated-thinker/why-smart-students-test-themselves-when-they-study-aeae2e8ee337?source=rss------artificial_intelligence-5)**
-> 🔹 **[Future Studies Based Scenario Analysis of a Tree-based Economy in a Post-Scarcity, Space-Coloni...](https://medium.com/@iftitahranjana/future-studies-based-scenario-analysis-of-a-tree-based-economy-in-a-post-scarcity-space-colonizing-e608a133612b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Writing Doesn’t Sound Like You &lpar;Even When the Information Is Correct&rpar;](https://medium.com/@SolveThrive/why-ai-writing-doesnt-sound-like-you-even-when-the-information-is-correct-1ae597177d75?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Your Website Is Slow and How to Fix It Today](https://medium.com/@edukester/why-your-website-is-slow-and-how-to-fix-it-today-13650822cabc?source=rss------artificial_intelligence-5)**
-> 🔹 **[How NVIDIA Is Driving the AI Revolution in 2026](https://medium.com/@alsadrym1/how-nvidia-is-driving-the-ai-revolution-in-2026-7e0e0f50e8d1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Obsidian Vault Is Already a Knowledge Graph. I Turned On the Lights.](https://medium.com/@vreshch/your-obsidian-vault-is-already-a-knowledge-graph-i-turned-on-the-lights-56c07233db89?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI is Evolving, but Our Crisis Management is Still Shambolic](https://medium.com/@zaibevictoria/ai-is-evolving-but-our-crisis-management-is-still-shambolic-66ef963fe672?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Replaced 10 Hours of Manual QA Work Per Week With These 6 Automation Habits](https://medium.com/@squalliahmed/i-replaced-10-hours-of-manual-qa-work-per-week-with-these-6-automation-habits-0ce7ab6c6d5a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Best Architecture Decision We Made Was Choosing the “Wrong” Solution](https://medium.com/activated-thinker/the-best-architecture-decision-we-made-was-choosing-the-wrong-solution-9f6495c2c239?source=rss------system_design-5)**
+> 🔹 **[Building an Enterprise SLM &lpar;Small Language Model&rpar;: A Practical End-to-End Case Study for Modern...](https://medium.com/@biraj.mukherjee/building-an-enterprise-slm-small-language-model-a-practical-end-to-end-case-study-for-modern-c93d54ac6798?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who’s Pulling the Strings? A Literary Theory of AI](https://medium.com/@kosi.gramatikoff/whos-pulling-the-strings-a-literary-theory-of-ai-7e298fee04de?source=rss------artificial_intelligence-5)**
+> 🔹 **[Top 10 Global Markets Attracting Investor Attention in 2026](https://medium.com/@PREONZ/top-10-global-markets-attracting-investor-attention-in-2026-55d3678dec8b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The End of “Vibe Coding”: Why Trust is the Most Expensive Metric in 2026](https://medium.com/ai-engineering-collective/the-end-of-vibe-coding-why-trust-is-the-most-expensive-metric-in-2026-e1031d9d5eb4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Activation Functions in Deep Learning: A Complete Guide](https://medium.com/@dasarichandu2309/activation-functions-in-deep-learning-a-complete-guide-dd20dc9b0e2a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Shipped Cortex RAG: 9-technique AdvRAG system for your laptop.](https://medium.com/@saiakhil066/shipped-cortex-rag-9-technique-advrag-system-for-your-laptop-e0218ad24966?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everyone Says AI Can Make You Money. I Tested That Claim for 7 Days](https://medium.com/@niyazilubna/everyone-says-ai-can-make-you-money-i-tested-that-claim-for-7-days-170e70490a6a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
