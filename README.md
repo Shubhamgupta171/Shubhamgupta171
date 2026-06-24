@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Best Architecture Decision We Made Was Choosing the “Wrong” Solution](https://medium.com/activated-thinker/the-best-architecture-decision-we-made-was-choosing-the-wrong-solution-9f6495c2c239?source=rss------system_design-5)**
-> 🔹 **[Building an Enterprise SLM &lpar;Small Language Model&rpar;: A Practical End-to-End Case Study for Modern...](https://medium.com/@biraj.mukherjee/building-an-enterprise-slm-small-language-model-a-practical-end-to-end-case-study-for-modern-c93d54ac6798?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who’s Pulling the Strings? A Literary Theory of AI](https://medium.com/@kosi.gramatikoff/whos-pulling-the-strings-a-literary-theory-of-ai-7e298fee04de?source=rss------artificial_intelligence-5)**
-> 🔹 **[Top 10 Global Markets Attracting Investor Attention in 2026](https://medium.com/@PREONZ/top-10-global-markets-attracting-investor-attention-in-2026-55d3678dec8b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The End of “Vibe Coding”: Why Trust is the Most Expensive Metric in 2026](https://medium.com/ai-engineering-collective/the-end-of-vibe-coding-why-trust-is-the-most-expensive-metric-in-2026-e1031d9d5eb4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Activation Functions in Deep Learning: A Complete Guide](https://medium.com/@dasarichandu2309/activation-functions-in-deep-learning-a-complete-guide-dd20dc9b0e2a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Shipped Cortex RAG: 9-technique AdvRAG system for your laptop.](https://medium.com/@saiakhil066/shipped-cortex-rag-9-technique-advrag-system-for-your-laptop-e0218ad24966?source=rss------artificial_intelligence-5)**
-> 🔹 **[Everyone Says AI Can Make You Money. I Tested That Claim for 7 Days](https://medium.com/@niyazilubna/everyone-says-ai-can-make-you-money-i-tested-that-claim-for-7-days-170e70490a6a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Most Useful AI Skill in 2026 Isn&#39;t Prompting.](https://medium.com/prompt-pixel/the-most-useful-ai-skill-in-2026-isnt-prompting-81f391e630b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Choose a Data Science Course in Pitampura for a High-Paying Job?](https://medium.com/@anamikadigitalmarketing0012/why-choose-a-data-science-course-in-pitampura-for-a-high-paying-job-12c57c070691?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Generative AI Is Shaping the Future of Work in 2026](https://medium.com/@kalyanvisualpath/how-generative-ai-is-shaping-the-future-of-work-in-2026-ef12cfa5b86e?source=rss------artificial_intelligence-5)**
+> 🔹 **[AVL](https://medium.com/@emad-mohamed/avl-c820bcbd3588?source=rss------data_structures-5)**
+> 🔹 **[The Algorithm Already Decided Before You Even Applied](https://medium.com/@social_39695/the-algorithm-already-decided-before-you-even-applied-20c4d7b00f59?source=rss------artificial_intelligence-5)**
+> 🔹 **[Lead Enrichment Is a Workflow Problem. Here’s How to Solve It.](https://medium.com/@marketing_57115/lead-enrichment-is-a-workflow-problem-heres-how-to-solve-it-9a7c13f2d2ab?source=rss------backend_development-5)**
+> 🔹 **[The AI Memory Race Has Already Started — Most People Just Haven&#39;t Noticed](https://medium.com/@pranavprakash4777/the-ai-memory-race-has-already-started-most-people-just-havent-noticed-cb5ffcf5ff07?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your CFO Got a Call in Your Voice. They Wired the Money.](https://medium.com/@cmitsolutionofficial/your-cfo-got-a-call-in-your-voice-they-wired-the-money-3349d802d780?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
