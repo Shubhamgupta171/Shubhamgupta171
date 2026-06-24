@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Most Useful AI Skill in 2026 Isn&#39;t Prompting.](https://medium.com/prompt-pixel/the-most-useful-ai-skill-in-2026-isnt-prompting-81f391e630b3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Choose a Data Science Course in Pitampura for a High-Paying Job?](https://medium.com/@anamikadigitalmarketing0012/why-choose-a-data-science-course-in-pitampura-for-a-high-paying-job-12c57c070691?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Generative AI Is Shaping the Future of Work in 2026](https://medium.com/@kalyanvisualpath/how-generative-ai-is-shaping-the-future-of-work-in-2026-ef12cfa5b86e?source=rss------artificial_intelligence-5)**
-> 🔹 **[AVL](https://medium.com/@emad-mohamed/avl-c820bcbd3588?source=rss------data_structures-5)**
-> 🔹 **[The Algorithm Already Decided Before You Even Applied](https://medium.com/@social_39695/the-algorithm-already-decided-before-you-even-applied-20c4d7b00f59?source=rss------artificial_intelligence-5)**
-> 🔹 **[Lead Enrichment Is a Workflow Problem. Here’s How to Solve It.](https://medium.com/@marketing_57115/lead-enrichment-is-a-workflow-problem-heres-how-to-solve-it-9a7c13f2d2ab?source=rss------backend_development-5)**
-> 🔹 **[The AI Memory Race Has Already Started — Most People Just Haven&#39;t Noticed](https://medium.com/@pranavprakash4777/the-ai-memory-race-has-already-started-most-people-just-havent-noticed-cb5ffcf5ff07?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your CFO Got a Call in Your Voice. They Wired the Money.](https://medium.com/@cmitsolutionofficial/your-cfo-got-a-call-in-your-voice-they-wired-the-money-3349d802d780?source=rss------artificial_intelligence-5)**
+> 🔹 **[What hiring managers do when they open your GitHub](https://medium.com/fonzi-ai/what-hiring-managers-do-when-they-open-your-github-39f2631213d0?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Don’t Have a Health Knowledge Problem. We Have a Consistency Problem.](https://medium.com/@poornachandraroyal33/we-dont-have-a-health-knowledge-problem-we-have-a-consistency-problem-de05cd227f59?source=rss------artificial_intelligence-5)**
+> 🔹 **[Prompts Are Not Enough: Apple Just Opened a Real Debug Layer for Agentic iOS Apps](https://hasanalidev.medium.com/prompts-are-not-enough-apple-just-opened-a-real-debug-layer-for-agentic-ios-apps-300afff68aaf?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Day I Fired My Gut Instinct and Replaced It with a 100-Point AI Clipboard](https://richard-a-brown.medium.com/the-day-i-fired-my-gut-instinct-and-replaced-it-with-a-100-point-ai-clipboard-2adedfdc433a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Rewriting Brooks’ Law](https://medium.com/@darren.lacy/rewriting-brooks-law-e0fef9790007?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Happens When the Best AI Becomes Free?](https://ravikiranjp.medium.com/what-happens-when-the-best-ai-becomes-free-fc0c274f7377?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Freedom Illusion: Are We Really Choosing, or Just Selecting?](https://medium.com/@labussoladellia/the-freedom-illusion-are-we-really-choosing-or-just-selecting-3edb4602cc3b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Context Graphs for AI Agents: Why Memory Needs More Than Chat History](https://medium.com/@pankaj_pandey/context-graphs-for-ai-agents-why-memory-needs-more-than-chat-history-8fec90e525ef?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
