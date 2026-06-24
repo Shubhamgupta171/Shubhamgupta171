@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What hiring managers do when they open your GitHub](https://medium.com/fonzi-ai/what-hiring-managers-do-when-they-open-your-github-39f2631213d0?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Don’t Have a Health Knowledge Problem. We Have a Consistency Problem.](https://medium.com/@poornachandraroyal33/we-dont-have-a-health-knowledge-problem-we-have-a-consistency-problem-de05cd227f59?source=rss------artificial_intelligence-5)**
-> 🔹 **[Prompts Are Not Enough: Apple Just Opened a Real Debug Layer for Agentic iOS Apps](https://hasanalidev.medium.com/prompts-are-not-enough-apple-just-opened-a-real-debug-layer-for-agentic-ios-apps-300afff68aaf?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Day I Fired My Gut Instinct and Replaced It with a 100-Point AI Clipboard](https://richard-a-brown.medium.com/the-day-i-fired-my-gut-instinct-and-replaced-it-with-a-100-point-ai-clipboard-2adedfdc433a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Rewriting Brooks’ Law](https://medium.com/@darren.lacy/rewriting-brooks-law-e0fef9790007?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Happens When the Best AI Becomes Free?](https://ravikiranjp.medium.com/what-happens-when-the-best-ai-becomes-free-fc0c274f7377?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Freedom Illusion: Are We Really Choosing, or Just Selecting?](https://medium.com/@labussoladellia/the-freedom-illusion-are-we-really-choosing-or-just-selecting-3edb4602cc3b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Context Graphs for AI Agents: Why Memory Needs More Than Chat History](https://medium.com/@pankaj_pandey/context-graphs-for-ai-agents-why-memory-needs-more-than-chat-history-8fec90e525ef?source=rss------artificial_intelligence-5)**
+> 🔹 **[Safety Isn’t a Setting: Why We Patented Accountability Instead of Intelligence](https://medium.com/@alexgogan/safety-isnt-a-setting-why-we-patented-accountability-instead-of-intelligence-7f109605c079?source=rss------artificial_intelligence-5)**
+> 🔹 **[Dart Is Not Just for Flutter: I Built a Distributed System With It](https://medium.com/@wqamar719/dart-is-not-just-for-flutter-i-built-a-distributed-system-with-it-733fac409c05?source=rss------system_design-5)**
+> 🔹 **[I’ve Been Using Claude Opus 4.8 Every Day Since Launch — Here’s My Honest Take After 3 Weeks](https://medium.com/@murathanoran/ive-been-using-claude-opus-4-8-every-day-since-launch-here-s-my-honest-take-after-3-weeks-34d566514626?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I make $500+ a month writing on medium as a developer](https://lassiecoder.medium.com/how-i-make-500-a-month-writing-on-medium-as-a-developer-597a7a7580e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Strategic Shift to Intelligence Augmentation: AI’s Cross-Industry Balancing Act Between Tru...](https://medium.com/@curiousmind1786/the-strategic-shift-to-intelligence-augmentation-ais-cross-industry-balancing-act-between-trust-88f27fb6fd75?source=rss------artificial_intelligence-5)**
+> 🔹 **[6000 pro for Higher Performance](https://medium.com/@augmanitai/6000-pro-for-higher-performance-26ba1ad73a50?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Does “Secure AI” Actually Mean? No One Has Officially Decided.](https://medium.com/forcepoint-security/what-does-secure-ai-actually-mean-no-one-has-officially-decided-40dab488205d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Using ChatGPT as Your Therapist: The Neuroscience of AI Dependency](https://medium.com/@jeetlahauk/stop-using-chatgpt-as-your-therapist-the-neuroscience-of-ai-dependency-c5a5c6f5c3e3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
