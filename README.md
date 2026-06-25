@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Smart Businesses Never Stop Learning](https://medium.com/@1st4ebusiness/why-smart-businesses-never-stop-learning-bafda8bbba92?source=rss------artificial_intelligence-5)**
-> 🔹 **[In the history of Nigeria there was a time when our fathers went to school to study any course...](https://medium.com/@adelugbalily/in-the-history-of-nigeria-there-was-a-time-when-our-fathers-went-to-school-to-study-any-course-of-75c4271ee755?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Implementation Agency vs AI Automation Agency: What Buyers Should Actually Look For](https://medium.com/@mattbellmusic2480/ai-implementation-agency-vs-ai-automation-agency-what-buyers-should-actually-look-for-5cbe51563948?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Future of Business in 2026: Why Staying Informed Matters More Than Ever](https://medium.com/@1st4ebusiness/the-future-of-business-in-2026-why-staying-informed-matters-more-than-ever-701e65d88fc6?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Healthcare Providers Can Recover Lost Revenue from Insurance Claim Denials](https://medium.com/@infoseo07/how-healthcare-providers-can-recover-lost-revenue-from-insurance-claim-denials-375e84d4f0f3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The One Thing I Got Wrong About the Uber System Design Interview](https://medium.com/@systemdesignguru/the-one-thing-i-got-wrong-about-the-uber-system-design-interview-826217832278?source=rss------system_design-5)**
-> 🔹 **[Agentforce Vibes 2.0: Salesforce’s AI Coding Assistant Just Got Serious](https://medium.com/@SalesforceDeveloper/agentforce-vibes-2-0-salesforces-ai-coding-assistant-just-got-serious-54ff26f527df?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Modern Form of Procrastination Looks Like Productivity](https://medium.com/@tanveeraliabbasi135/the-modern-form-of-procrastination-looks-like-productivity-4134557db6ae?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why We Invested: Purple Rhombus](https://nathanielharding.medium.com/why-we-invested-purple-rhombus-fedb7b35573a?source=rss------artificial_intelligence-5)**
+> 🔹 **[What a Paper Form Taught Me About Designing With Care](https://medium.com/@anitaasingh37/what-a-paper-form-taught-me-about-designing-with-care-f3a5eaf1ccb0?source=rss------system_design-5)**
+> 🔹 **[LAI #131: A Tool Call Can Succeed and Still Be the Wrong Tool](https://pub.towardsai.net/lai-131-a-tool-call-can-succeed-and-still-be-the-wrong-tool-bf18827f5873?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Geometry of Suffocation](https://medium.com/wsbegin/the-geometry-of-suffocation-664e0d8f4e81?source=rss------artificial_intelligence-5)**
+> 🔹 **[MeetGeek Surprised Me. It Does Something Most AI Meeting Tools Don’t Bother With](https://medium.com/@nidiar.sanggadin/meetgeek-surprised-me-it-does-something-most-ai-meeting-tools-dont-bother-with-dd94137745bc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Credential and the Void](https://medium.com/@aleksei.sirkov/the-credential-and-the-void-64f0a1e106a7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Dual-Edged Sword of Biometrics: Intent, Accuracy, and the Ethics of Facial Recognition](https://medium.com/@kathy.kowal89/the-dual-edged-sword-of-biometrics-intent-accuracy-and-the-ethics-of-facial-recognition-879cefe1fe19?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Supply-Aware CAD Will Define the Future of Product Design](https://medium.com/@zixel3d.ai/why-supply-aware-cad-will-define-the-future-of-product-design-fa74b6165a54?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
