@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Safety Isn’t a Setting: Why We Patented Accountability Instead of Intelligence](https://medium.com/@alexgogan/safety-isnt-a-setting-why-we-patented-accountability-instead-of-intelligence-7f109605c079?source=rss------artificial_intelligence-5)**
-> 🔹 **[Dart Is Not Just for Flutter: I Built a Distributed System With It](https://medium.com/@wqamar719/dart-is-not-just-for-flutter-i-built-a-distributed-system-with-it-733fac409c05?source=rss------system_design-5)**
-> 🔹 **[I’ve Been Using Claude Opus 4.8 Every Day Since Launch — Here’s My Honest Take After 3 Weeks](https://medium.com/@murathanoran/ive-been-using-claude-opus-4-8-every-day-since-launch-here-s-my-honest-take-after-3-weeks-34d566514626?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I make $500+ a month writing on medium as a developer](https://lassiecoder.medium.com/how-i-make-500-a-month-writing-on-medium-as-a-developer-597a7a7580e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Strategic Shift to Intelligence Augmentation: AI’s Cross-Industry Balancing Act Between Tru...](https://medium.com/@curiousmind1786/the-strategic-shift-to-intelligence-augmentation-ais-cross-industry-balancing-act-between-trust-88f27fb6fd75?source=rss------artificial_intelligence-5)**
-> 🔹 **[6000 pro for Higher Performance](https://medium.com/@augmanitai/6000-pro-for-higher-performance-26ba1ad73a50?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Does “Secure AI” Actually Mean? No One Has Officially Decided.](https://medium.com/forcepoint-security/what-does-secure-ai-actually-mean-no-one-has-officially-decided-40dab488205d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Using ChatGPT as Your Therapist: The Neuroscience of AI Dependency](https://medium.com/@jeetlahauk/stop-using-chatgpt-as-your-therapist-the-neuroscience-of-ai-dependency-c5a5c6f5c3e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Human OS™ Completes Beta Demonstration: A Milestone Toward Enterprise AI Governance](https://richardencarnacion.medium.com/human-os-completes-beta-demonstration-a-milestone-toward-enterprise-ai-governance-b2f264d9ab0b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Life of an Industrial Pump: From Raw Material to Running 24/7](https://medium.com/@antliaengineeringworks/the-life-of-an-industrial-pump-from-raw-material-to-running-24-7-00f845a2df6a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Supercookie Detection Prevention: Complete Guide &lpar;2026&rpar;](https://medium.com/@don724969/supercookie-detection-prevention-complete-guide-2026-191354ffbd7b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The System Design Framework That Changed How I Approach Every Interview Question](https://medium.com/@ProgrammingTutorials/the-system-design-framework-that-changed-how-i-approach-every-interview-question-99406e9ee60f?source=rss------backend_development-5)**
+> 🔹 **[Perjalanan Menuju Gemini Achiever: Membawa Google AI Lebih Dekat dengan 145 Mahasiswa dalam Sat...](https://medium.com/@arundayaxenia/perjalanan-menuju-gemini-achiever-membawa-google-ai-lebih-dekat-dengan-145-mahasiswa-dalam-satu-2a5eb4384f8d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Structured Outputs From AI Are a Game-Changer — Here’s Why Your Laravel App Should Never Parse...](https://sadiqueali.medium.com/structured-outputs-from-ai-are-a-game-changer-heres-why-your-laravel-app-should-never-parse-free-3f288b2c9e29?source=rss------artificial_intelligence-5)**
+> 🔹 **[Data Structures and Algorithms Deep‑Dive — Problem-Solving Framework and Pattern Recognition…](https://medium.com/@kishanbabariya101/data-structures-and-algorithms-deep-dive-problem-solving-framework-and-pattern-recognition-a676b92cb07c?source=rss------data_structures-5)**
+> 🔹 **[Figma Config 2026 Code Layers AI Motion and More. Why Developers Are Paying Attention](https://medium.com/@tanvi.vision/figma-config-2026-code-layers-ai-motion-and-more-why-developers-are-paying-attention-165279ca3fb9?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
