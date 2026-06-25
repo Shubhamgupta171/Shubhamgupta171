@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why We Invested: Purple Rhombus](https://nathanielharding.medium.com/why-we-invested-purple-rhombus-fedb7b35573a?source=rss------artificial_intelligence-5)**
-> 🔹 **[What a Paper Form Taught Me About Designing With Care](https://medium.com/@anitaasingh37/what-a-paper-form-taught-me-about-designing-with-care-f3a5eaf1ccb0?source=rss------system_design-5)**
-> 🔹 **[LAI #131: A Tool Call Can Succeed and Still Be the Wrong Tool](https://pub.towardsai.net/lai-131-a-tool-call-can-succeed-and-still-be-the-wrong-tool-bf18827f5873?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Geometry of Suffocation](https://medium.com/wsbegin/the-geometry-of-suffocation-664e0d8f4e81?source=rss------artificial_intelligence-5)**
-> 🔹 **[MeetGeek Surprised Me. It Does Something Most AI Meeting Tools Don’t Bother With](https://medium.com/@nidiar.sanggadin/meetgeek-surprised-me-it-does-something-most-ai-meeting-tools-dont-bother-with-dd94137745bc?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Credential and the Void](https://medium.com/@aleksei.sirkov/the-credential-and-the-void-64f0a1e106a7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Dual-Edged Sword of Biometrics: Intent, Accuracy, and the Ethics of Facial Recognition](https://medium.com/@kathy.kowal89/the-dual-edged-sword-of-biometrics-intent-accuracy-and-the-ethics-of-facial-recognition-879cefe1fe19?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Supply-Aware CAD Will Define the Future of Product Design](https://medium.com/@zixel3d.ai/why-supply-aware-cad-will-define-the-future-of-product-design-fa74b6165a54?source=rss------artificial_intelligence-5)**
+> 🔹 **[Executive Summary Regional governance frameworks for cybersecurity and artificial intelligence…](https://medium.com/@ozichukwu99/executive-summary-regional-governance-frameworks-for-cybersecurity-and-artificial-intelligence-1a3132bb212f?source=rss------artificial_intelligence-5)**
+> 🔹 **[️‍♂️Data Gathering by Any Means](https://yaro360.medium.com/%EF%B8%8F-%EF%B8%8Fdata-gathering-by-any-means-c695076844f4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Red Queen Trap: Why “Better AI” Makes the Problem Worse](https://medium.com/@ps.augereau/the-red-queen-trap-why-better-ai-makes-the-problem-worse-b174280ebd67?source=rss------artificial_intelligence-5)**
+> 🔹 **[Shared AI Memory Needs Private Space](https://medium.com/data-science-collective/shared-ai-memory-needs-private-space-cc91c5703cc3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Earth in our bones](https://medium.com/@abhishektadkod/the-earth-in-our-bones-aec1a35c4b7f?source=rss------artificial_intelligence-5)**
+> 🔹 **[How To Stop AI From Overbuilding Your First App In 2026](https://marcusykim.medium.com/how-to-stop-ai-from-overbuilding-your-first-app-in-2026-614c291012db?source=rss------artificial_intelligence-5)**
+> 🔹 **[ANTHEM OF THE METROPOLIS](https://medium.com/@olecolec/anthem-of-the-metropolis-a25c58177f1e?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Guide to Large Language Model Systems](https://ai.plainenglish.io/a-guide-to-large-language-model-systems-2781f2bd6fe0?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
