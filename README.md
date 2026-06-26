@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Data Structures and Algorithms Deep‑Dive — Arrays in Depth &lpar;Chapter 2, Episode 1&rpar;](https://medium.com/@kishanbabariya101/data-structures-and-algorithms-deep-dive-arrays-in-depth-chapter-2-episode-1-c50ce9d02810?source=rss------data_structures-5)**
-> 🔹 **[Getting Started with NestJS: Build Scalable Node.js Applications](https://codestax.medium.com/getting-started-with-nestjs-build-scalable-node-js-applications-9ce0f3d20e06?source=rss------backend_development-5)**
-> 🔹 **[I Read Anthropic’s Guide on Building Effective AI Agents — Here’s What Actually Matters](https://medium.com/@theegelavishnuvardhan22/i-read-anthropics-guide-on-building-effective-ai-agents-here-s-what-actually-matters-b680f7da9200?source=rss------artificial_intelligence-5)**
-> 🔹 **[LLM vs Agent vs Agentic Workflow vs Multi-Agent System: A Practical Breakdown](https://medium.com/@angadi.saa/llm-vs-agent-vs-agentic-workflow-vs-multi-agent-system-a-practical-breakdown-1512e831f4e4?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is an AI Native Company? Why It Matters More Than Ever in 2026](https://medium.com/@depthgrid/what-is-an-ai-native-company-why-it-matters-more-than-ever-in-2026-e5ab1d97b5ce?source=rss------artificial_intelligence-5)**
-> 🔹 **[Failure Recovery in AI Agents: Why Resilient Workflows Matter](https://medium.com/@nagentai2026/failure-recovery-in-ai-agents-why-resilient-workflows-matter-c19ef1adf988?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tried Freelancing for 60 Days — Here’s What Nobody Tells You](https://medium.com/@themomentumlab/i-tried-freelancing-for-60-days-heres-what-nobody-tells-you-43bcc2639cc0?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Switched From ChatGPT to Claude for 30 Days — Here’s What Nobody Tells You](https://medium.com/@ytzoom/i-switched-from-chatgpt-to-claude-for-30-days-heres-what-nobody-tells-you-ad8a8272b580?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Can Never Fully Match Human Intelligence &lpar;At Least Not Yet&rpar;](https://medium.com/@harikumarderangula/why-ai-can-never-fully-match-human-intelligence-at-least-not-yet-e5e076ea5d81?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Replicate Stanford’s STORM: PhD Level AI Research in Minutes](https://ai.plainenglish.io/how-to-replicate-stanfords-storm-phd-level-ai-research-in-minutes-814f81151a5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your IQ Doesn’t Matter Anymore](https://medium.com/velinora/your-iq-doesnt-matter-anymore-66453e09ac07?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building UniQuery: Designing an AI-Powered University Query Management System Using RAG, Machin...](https://medium.com/@shreyasrivastava739/building-uniquery-designing-an-ai-powered-university-query-management-system-using-rag-machine-8979cd71b800?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Train Your AI?](https://medium.com/@ryan.kyaw/how-to-train-your-ai-c50800d19791?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agent-Testing Startup Patronus AI: A Comprehensive Guide](https://medium.com/@aisofyasofia/agent-testing-startup-patronus-ai-a-comprehensive-guide-b1d18c5f5366?source=rss------artificial_intelligence-5)**
+> 🔹 **[WebSockets Will Lie to You About Being Connected](https://medium.com/@virenahire.dev/websockets-will-lie-to-you-about-being-connected-8c2f8d8079f0?source=rss------artificial_intelligence-5)**
+> 🔹 **[From AI Tools to AI Assets: How Noos Network Envisions the Next Digital Economy](https://medium.com/@sureshkuma4467/from-ai-tools-to-ai-assets-how-noos-network-envisions-the-next-digital-economy-6627da10d08a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
