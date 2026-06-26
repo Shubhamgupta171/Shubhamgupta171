@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Executive Summary Regional governance frameworks for cybersecurity and artificial intelligence…](https://medium.com/@ozichukwu99/executive-summary-regional-governance-frameworks-for-cybersecurity-and-artificial-intelligence-1a3132bb212f?source=rss------artificial_intelligence-5)**
-> 🔹 **[️‍♂️Data Gathering by Any Means](https://yaro360.medium.com/%EF%B8%8F-%EF%B8%8Fdata-gathering-by-any-means-c695076844f4?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Red Queen Trap: Why “Better AI” Makes the Problem Worse](https://medium.com/@ps.augereau/the-red-queen-trap-why-better-ai-makes-the-problem-worse-b174280ebd67?source=rss------artificial_intelligence-5)**
-> 🔹 **[Shared AI Memory Needs Private Space](https://medium.com/data-science-collective/shared-ai-memory-needs-private-space-cc91c5703cc3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Earth in our bones](https://medium.com/@abhishektadkod/the-earth-in-our-bones-aec1a35c4b7f?source=rss------artificial_intelligence-5)**
-> 🔹 **[How To Stop AI From Overbuilding Your First App In 2026](https://marcusykim.medium.com/how-to-stop-ai-from-overbuilding-your-first-app-in-2026-614c291012db?source=rss------artificial_intelligence-5)**
-> 🔹 **[ANTHEM OF THE METROPOLIS](https://medium.com/@olecolec/anthem-of-the-metropolis-a25c58177f1e?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Guide to Large Language Model Systems](https://ai.plainenglish.io/a-guide-to-large-language-model-systems-2781f2bd6fe0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Data Structures and Algorithms Deep‑Dive — Arrays in Depth &lpar;Chapter 2, Episode 1&rpar;](https://medium.com/@kishanbabariya101/data-structures-and-algorithms-deep-dive-arrays-in-depth-chapter-2-episode-1-c50ce9d02810?source=rss------data_structures-5)**
+> 🔹 **[Getting Started with NestJS: Build Scalable Node.js Applications](https://codestax.medium.com/getting-started-with-nestjs-build-scalable-node-js-applications-9ce0f3d20e06?source=rss------backend_development-5)**
+> 🔹 **[I Read Anthropic’s Guide on Building Effective AI Agents — Here’s What Actually Matters](https://medium.com/@theegelavishnuvardhan22/i-read-anthropics-guide-on-building-effective-ai-agents-here-s-what-actually-matters-b680f7da9200?source=rss------artificial_intelligence-5)**
+> 🔹 **[LLM vs Agent vs Agentic Workflow vs Multi-Agent System: A Practical Breakdown](https://medium.com/@angadi.saa/llm-vs-agent-vs-agentic-workflow-vs-multi-agent-system-a-practical-breakdown-1512e831f4e4?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is an AI Native Company? Why It Matters More Than Ever in 2026](https://medium.com/@depthgrid/what-is-an-ai-native-company-why-it-matters-more-than-ever-in-2026-e5ab1d97b5ce?source=rss------artificial_intelligence-5)**
+> 🔹 **[Failure Recovery in AI Agents: Why Resilient Workflows Matter](https://medium.com/@nagentai2026/failure-recovery-in-ai-agents-why-resilient-workflows-matter-c19ef1adf988?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tried Freelancing for 60 Days — Here’s What Nobody Tells You](https://medium.com/@themomentumlab/i-tried-freelancing-for-60-days-heres-what-nobody-tells-you-43bcc2639cc0?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Switched From ChatGPT to Claude for 30 Days — Here’s What Nobody Tells You](https://medium.com/@ytzoom/i-switched-from-chatgpt-to-claude-for-30-days-heres-what-nobody-tells-you-ad8a8272b580?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
