@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Fixel: A Frontend Debugger Where the AI Runs Entirely Inside Your Browser](https://medium.com/@anumi1999/fixel-a-frontend-debugger-where-the-ai-runs-entirely-inside-your-browser-42048922fc4b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Retrieval Is Recall. Correctness Is a Loop.](https://medium.com/@jonathanwiggins2012/retrieval-is-recall-correctness-is-a-loop-0dde1237bb67?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Content Strategy: How to Automate Content Creation Without Sacrificing Quality](https://medium.com/@basictechfunda/ai-content-strategy-how-to-automate-content-creation-without-sacrificing-quality-180e10fadba3?source=rss------artificial_intelligence-5)**
-> 🔹 **[SYLON9.0: Chapter 1](https://medium.com/sylon7-2-an-architecture-for-expanding-and/sylon9-0-chapter-1-303e01729175?source=rss------artificial_intelligence-5)**
-> 🔹 **[You’ve Been Using AI Every Day — But Do You Actually Know How It Works?](https://pub.towardsai.net/youve-been-using-ai-every-day-but-do-you-actually-know-how-it-works-9b5b3910f95d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Every Java Backend Developer Should Learn Spring AI Before 2027](https://medium.com/@parasjamwal19/why-every-java-backend-developer-should-learn-spring-ai-before-2027-4eeba61ddc26?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hardest Problem in Care Tech Is Not the AI. It Is the Buyer.](https://medium.com/@victoryanusie/the-hardest-problem-in-care-tech-is-not-the-ai-it-is-the-buyer-bb90845db391?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cracking the Code: Understanding Handlers, Services, and Repositories in Backend Architecture](https://medium.com/@shukla.sampada/cracking-the-code-understanding-handlers-services-and-repositories-in-backend-architecture-8f54d7f1b5ab?source=rss------backend_development-5)**
+> 🔹 **[Reward Hacking: Wenn der Coding-Agent schummelt — KIberblick](https://pcornelissen.medium.com/reward-hacking-wenn-der-coding-agent-schummelt-kiberblick-7e5b34394ccb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Mac Studio Quietly Lost 416GB of Memory](https://medium.com/@sparel/the-mac-studio-quietly-lost-416gb-of-memory-d7c2989db10f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Spec Replaces the Meeting Where Everyone Aligned — SDD for Distributed Teams](https://medium.com/@wasowski.jarek/the-spec-replaces-the-meeting-where-everyone-aligned-sdd-for-distributed-teams-6a58b779cc7f?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Free Football Data to Forecasting: Building a Reproducible World Cup 2026 Pipeline](https://medium.com/@tunjidina12/from-free-football-data-to-forecasting-building-a-reproducible-world-cup-2026-pipeline-00273a29ec9d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Let&#39;s Build A List Endpoint](https://medium.com/@zhalokrahman007/lets-build-a-list-endpoint-75777d2dffdc?source=rss------backend_development-5)**
+> 🔹 **[I Used AI Like a Real Employee for 30 Days — Here’s What Surprised Me](https://medium.com/@appointmentservicespk/i-used-ai-like-a-real-employee-for-30-days-heres-what-surprised-me-18f66a5128e2?source=rss------artificial_intelligence-5)**
+> 🔹 **[“This Guy Just Uses AI”](https://medium.com/@davidcesc/this-guy-just-uses-ai-f8845311a5f5?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Made Senior Developers 19% Slower. They Left the Study Convinced It Made Them Faster.](https://medium.com/@sulehripedia/ai-made-senior-developers-19-slower-they-left-the-study-convinced-it-made-them-faster-64f0220d20b8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
