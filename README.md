@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[People: Where AI Lives or Dies](https://medium.com/@curiousmind1786/people-where-ai-lives-or-dies-600d2af7b6b9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ollama Is Now the “jQuery of Local LLMs”](https://medium.com/open-ai/ollama-is-the-jquery-of-local-llms-2026-2053e2cdc6f0?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Structural Invariant: TOPO-2026 and the Resolution of Catastrophic Forgetting](https://medium.com/ai-simplified-in-plain-english/the-structural-invariant-topo-2026-and-the-resolution-of-catastrophic-forgetting-4a2ae65d4c6b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Linear Algebra Guide for AI](https://medium.com/@danieljsmit/linear-algebra-guide-for-ai-48cda5094c1e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can A System Explain Itself?](https://medium.com/@DJTrev/can-a-system-explain-itself-06f2045bfd79?source=rss------artificial_intelligence-5)**
-> 🔹 **[La chaleur a montré le point faible du réseau](https://medium.com/@darnell_skulski/la-chaleur-a-montr%C3%A9-le-point-faible-du-r%C3%A9seau-3d89299641cc?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Used AI Tools to Save 10 Hours Every Week &lpar;And the Mistakes I Made First&rpar;](https://medium.com/@waqar.amz22/how-i-used-ai-tools-to-save-10-hours-every-week-and-the-mistakes-i-made-first-8993c4a6a84f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Secret Analytics of “Ugly” AI Tech Utilities &lpar;And How to Build One&rpar;](https://medium.com/the-investors-handbook/the-secret-analytics-of-ugly-ai-tech-utilities-and-how-to-build-one-21c282587381?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 2 — Learning That Consistency Is Better Than Completing Every Task](https://medium.com/@6073sumant/day-2-learning-that-consistency-is-better-than-completing-every-task-ddd47132d992?source=rss------backend_development-5)**
+> 🔹 **[Data Structures and Algorithms Deep‑Dive — Array-based Algorithms &lpar;Chapter 2, Episode 2&rpar;](https://medium.com/@kishanbabariya101/data-structures-and-algorithms-deep-dive-array-based-algorithms-chapter-2-episode-2-2d20138e4f5a?source=rss------data_structures-5)**
+> 🔹 **[The Alchemist of Structure](https://medium.com/@tmcrg85/the-alchemist-of-structure-10c862415008?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built an AI Tool in 48 Hours. It Made $3,400 in 30 Days. Here’s the Code.](https://medium.com/@meerhadi0238/i-built-an-ai-tool-in-48-hours-it-made-3-400-in-30-days-heres-the-code-a6faf04f56a7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Shocking Prompt Engineering Secrets](https://medium.com/ai-simplified-in-plain-english/shocking-prompt-engineering-secrets-292a98586a3b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Architecture Holding the World Together](https://medium.com/@airicamartel/the-hidden-architecture-holding-the-world-together-fc76989541ce?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI for Business: Practical Strategies to Gain a Competitive Edge in 2026](https://medium.com/@zoeyo9663/ai-for-business-practical-strategies-to-gain-a-competitive-edge-in-2026-e9463abd3920?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bowing to the Algorithmic Ganesha](https://medium.com/avyayi/bowing-to-the-algorithmic-ganesha-40c0bf3f85eb?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
