@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Future of Freelancing: How AI Is Creating New Opportunities](https://medium.com/@manisharani74040/the-future-of-freelancing-how-ai-is-creating-new-opportunities-55d85119cb08?source=rss------artificial_intelligence-5)**
-> 🔹 **[OrbitaAI: The AI-Powered SaaS That’s Already Profitable — And Ready to Scale](https://medium.com/@eladio_30394/orbitaai-the-ai-powered-saas-thats-already-profitable-and-ready-to-scale-1a0e30f96df8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Quantum Entanglement of Minds: The Holographic Principle and Universal Connection in AI…](https://medium.com/@tb2015yy/the-quantum-entanglement-of-minds-the-holographic-principle-and-universal-connection-in-ai-457f171d8a40?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Next AI Divide Isn’t Adoption. It’s Ownership.](https://blog.qxli.com/the-next-ai-divide-isnt-adoption-it-s-ownership-50c2175a93c2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Creating AI Products: How to Build Revenue-Generating AI Systems](https://medium.com/illumination/creating-ai-products-how-to-build-revenue-generating-ai-systems-5b401087c1a7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The End of Ownership: Why Buying Something No Longer Means You Control It](https://medium.com/@yogen70_14019/the-end-of-ownership-why-buying-something-no-longer-means-you-control-it-60978ede69a3?source=rss------artificial_intelligence-5)**
-> 🔹 **[My OIBSIP Internship Journey at Oasis Infobyte](https://medium.com/@karunyavijay02/my-oibsip-internship-journey-at-oasis-infobyte-afeec6cbc42a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Autonomous Intelligence Agents for Maritime Sanctions Enforcement and Vessel Vetting](https://medium.com/@hyma.bloomy/autonomous-intelligence-agents-for-maritime-sanctions-enforcement-and-vessel-vetting-b4ac0acd1af3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google Onsite Interview Question #9: Alien Dictionary](https://medium.com/the-1-hour-dsa-prep-room/google-onsite-interview-question-9-alien-dictionary-c529a48caf59?source=rss------data_structures-5)**
+> 🔹 **[Google ADK 2.0: When the Agent Framework Becomes a Graph Engine](https://medium.com/@pankaj_pandey/google-adk-2-0-when-the-agent-framework-becomes-a-graph-engine-2d06271de943?source=rss------artificial_intelligence-5)**
+> 🔹 **[How ChatGPT Cut My Content Creation Time by 70%](https://medium.com/@infocreovateofficial/how-chatgpt-cut-my-content-creation-time-by-70-7e424bc7706b?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Company Counts My Keystrokes. It Has Never Once Counted My Judgment.](https://medium.com/@Hiro.Y/my-company-counts-my-keystrokes-it-has-never-once-counted-my-judgment-1a460da2dba8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The False Savior: How the Malicious Hides Behind the Mask of Help](https://medium.com/@olivemoon/the-false-savior-how-the-malicious-hides-behind-the-mask-of-help-ba4c48cce655?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Doesn’t Have a Mind. That’s the Whole Problem.](https://medium.com/@afreennijam98/ai-doesnt-have-a-mind-that-s-the-whole-problem-28557a393c07?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI Costs More Than a Human Being](https://medium.com/ai-snapshots/when-ai-costs-more-than-a-human-being-1ef58088863f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Config 2026: 디자인 방향성](https://medium.com/design-clubhouse/config-2026-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B0%A9%ED%96%A5%EC%84%B1-b364056b79d8?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
