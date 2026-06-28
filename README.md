@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Reward Hacking: Wenn der Coding-Agent schummelt — KIberblick](https://pcornelissen.medium.com/reward-hacking-wenn-der-coding-agent-schummelt-kiberblick-7e5b34394ccb?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Mac Studio Quietly Lost 416GB of Memory](https://medium.com/@sparel/the-mac-studio-quietly-lost-416gb-of-memory-d7c2989db10f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Spec Replaces the Meeting Where Everyone Aligned — SDD for Distributed Teams](https://medium.com/@wasowski.jarek/the-spec-replaces-the-meeting-where-everyone-aligned-sdd-for-distributed-teams-6a58b779cc7f?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Free Football Data to Forecasting: Building a Reproducible World Cup 2026 Pipeline](https://medium.com/@tunjidina12/from-free-football-data-to-forecasting-building-a-reproducible-world-cup-2026-pipeline-00273a29ec9d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Let&#39;s Build A List Endpoint](https://medium.com/@zhalokrahman007/lets-build-a-list-endpoint-75777d2dffdc?source=rss------backend_development-5)**
-> 🔹 **[I Used AI Like a Real Employee for 30 Days — Here’s What Surprised Me](https://medium.com/@appointmentservicespk/i-used-ai-like-a-real-employee-for-30-days-heres-what-surprised-me-18f66a5128e2?source=rss------artificial_intelligence-5)**
-> 🔹 **[“This Guy Just Uses AI”](https://medium.com/@davidcesc/this-guy-just-uses-ai-f8845311a5f5?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Made Senior Developers 19% Slower. They Left the Study Convinced It Made Them Faster.](https://medium.com/@sulehripedia/ai-made-senior-developers-19-slower-they-left-the-study-convinced-it-made-them-faster-64f0220d20b8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future of Freelancing: How AI Is Creating New Opportunities](https://medium.com/@manisharani74040/the-future-of-freelancing-how-ai-is-creating-new-opportunities-55d85119cb08?source=rss------artificial_intelligence-5)**
+> 🔹 **[OrbitaAI: The AI-Powered SaaS That’s Already Profitable — And Ready to Scale](https://medium.com/@eladio_30394/orbitaai-the-ai-powered-saas-thats-already-profitable-and-ready-to-scale-1a0e30f96df8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Quantum Entanglement of Minds: The Holographic Principle and Universal Connection in AI…](https://medium.com/@tb2015yy/the-quantum-entanglement-of-minds-the-holographic-principle-and-universal-connection-in-ai-457f171d8a40?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Next AI Divide Isn’t Adoption. It’s Ownership.](https://blog.qxli.com/the-next-ai-divide-isnt-adoption-it-s-ownership-50c2175a93c2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Creating AI Products: How to Build Revenue-Generating AI Systems](https://medium.com/illumination/creating-ai-products-how-to-build-revenue-generating-ai-systems-5b401087c1a7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The End of Ownership: Why Buying Something No Longer Means You Control It](https://medium.com/@yogen70_14019/the-end-of-ownership-why-buying-something-no-longer-means-you-control-it-60978ede69a3?source=rss------artificial_intelligence-5)**
+> 🔹 **[My OIBSIP Internship Journey at Oasis Infobyte](https://medium.com/@karunyavijay02/my-oibsip-internship-journey-at-oasis-infobyte-afeec6cbc42a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Autonomous Intelligence Agents for Maritime Sanctions Enforcement and Vessel Vetting](https://medium.com/@hyma.bloomy/autonomous-intelligence-agents-for-maritime-sanctions-enforcement-and-vessel-vetting-b4ac0acd1af3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
