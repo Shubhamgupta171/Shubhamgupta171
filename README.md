@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Google Onsite Interview Question #9: Alien Dictionary](https://medium.com/the-1-hour-dsa-prep-room/google-onsite-interview-question-9-alien-dictionary-c529a48caf59?source=rss------data_structures-5)**
-> 🔹 **[Google ADK 2.0: When the Agent Framework Becomes a Graph Engine](https://medium.com/@pankaj_pandey/google-adk-2-0-when-the-agent-framework-becomes-a-graph-engine-2d06271de943?source=rss------artificial_intelligence-5)**
-> 🔹 **[How ChatGPT Cut My Content Creation Time by 70%](https://medium.com/@infocreovateofficial/how-chatgpt-cut-my-content-creation-time-by-70-7e424bc7706b?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Company Counts My Keystrokes. It Has Never Once Counted My Judgment.](https://medium.com/@Hiro.Y/my-company-counts-my-keystrokes-it-has-never-once-counted-my-judgment-1a460da2dba8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The False Savior: How the Malicious Hides Behind the Mask of Help](https://medium.com/@olivemoon/the-false-savior-how-the-malicious-hides-behind-the-mask-of-help-ba4c48cce655?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Doesn’t Have a Mind. That’s the Whole Problem.](https://medium.com/@afreennijam98/ai-doesnt-have-a-mind-that-s-the-whole-problem-28557a393c07?source=rss------artificial_intelligence-5)**
-> 🔹 **[When AI Costs More Than a Human Being](https://medium.com/ai-snapshots/when-ai-costs-more-than-a-human-being-1ef58088863f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Config 2026: 디자인 방향성](https://medium.com/design-clubhouse/config-2026-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B0%A9%ED%96%A5%EC%84%B1-b364056b79d8?source=rss------system_design-5)**
+> 🔹 **[The Conversation Is the Booking Experience](https://medium.com/@zologic/the-conversation-is-the-booking-experience-42601b69ea1b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Write for The Morrow Desk — A Human-First Publication](https://medium.com/the-morrow-desk/write-for-the-morrow-desk-a-human-first-publication-38e86f0fa009?source=rss------artificial_intelligence-5)**
+> 🔹 **[My First Paid Customer: A Stripe Notification I Won’t Forget](https://medium.com/@bpminds/my-first-paid-customer-a-stripe-notification-i-wont-forget-953ed8406114?source=rss------artificial_intelligence-5)**
+> 🔹 **[SKILL.md May Become the Most Important AI Standard You’ve Never Heard Of](https://alla-khrystych.medium.com/skill-md-may-become-the-most-important-ai-standard-youve-never-heard-of-fa62fdc035cd?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Field Guide to the 2026 AI for Good Global Summit](https://medium.com/startingupgood/a-field-guide-to-the-2026-ai-for-good-global-summit-51cd695fdda3?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI: The Day We Started Talking Like Machines](https://medium.com/@00leonmarks00/ai-the-day-we-started-talking-like-machines-86dd5ea694dc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Se alguém criar, todos morrem: o mito Faustiano da AI](https://victor-hugo-bin.medium.com/se-algu%C3%A9m-criar-todos-morrem-o-mito-faustiano-da-ai-0e370da9101f?source=rss------artificial_intelligence-5)**
+> 🔹 **[SYLON9.0: Chapter 2](https://medium.com/sylon7-2-an-architecture-for-expanding-and/sylon9-0-chapter-2-1bb0b4a0c23e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
