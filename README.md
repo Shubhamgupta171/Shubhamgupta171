@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Conversation Is the Booking Experience](https://medium.com/@zologic/the-conversation-is-the-booking-experience-42601b69ea1b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Write for The Morrow Desk — A Human-First Publication](https://medium.com/the-morrow-desk/write-for-the-morrow-desk-a-human-first-publication-38e86f0fa009?source=rss------artificial_intelligence-5)**
-> 🔹 **[My First Paid Customer: A Stripe Notification I Won’t Forget](https://medium.com/@bpminds/my-first-paid-customer-a-stripe-notification-i-wont-forget-953ed8406114?source=rss------artificial_intelligence-5)**
-> 🔹 **[SKILL.md May Become the Most Important AI Standard You’ve Never Heard Of](https://alla-khrystych.medium.com/skill-md-may-become-the-most-important-ai-standard-youve-never-heard-of-fa62fdc035cd?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Field Guide to the 2026 AI for Good Global Summit](https://medium.com/startingupgood/a-field-guide-to-the-2026-ai-for-good-global-summit-51cd695fdda3?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI: The Day We Started Talking Like Machines](https://medium.com/@00leonmarks00/ai-the-day-we-started-talking-like-machines-86dd5ea694dc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Se alguém criar, todos morrem: o mito Faustiano da AI](https://victor-hugo-bin.medium.com/se-algu%C3%A9m-criar-todos-morrem-o-mito-faustiano-da-ai-0e370da9101f?source=rss------artificial_intelligence-5)**
-> 🔹 **[SYLON9.0: Chapter 2](https://medium.com/sylon7-2-an-architecture-for-expanding-and/sylon9-0-chapter-2-1bb0b4a0c23e?source=rss------artificial_intelligence-5)**
+> 🔹 **[I spent $500 on an AI API in 3 hours. Here’s why.”](https://medium.com/@ajaykrishna.m1237890/i-spent-500-on-an-ai-api-in-3-hours-heres-why-3cc3415ad01a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Tools Are Changing Online Business in 2026](https://medium.com/@sgoshwami1982/why-ai-tools-are-changing-online-business-in-2026-a29543eea8d7?source=rss------artificial_intelligence-5)**
+> 🔹 **[From LangChain and RAG to Voice AI and Video Analytics: What I Have Been Building at Synapse Te...](https://medium.com/@hasan.khan_1438/from-langchain-and-rag-to-voice-ai-and-video-analytics-what-i-have-been-building-at-synapse-tech-73e9f38a7150?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Spent Months Writing “Helpful” Articles. Then I Realized Nobody Was Reading Them.](https://rakshathimmaiah213.medium.com/i-spent-months-writing-helpful-articles-then-i-realized-nobody-was-reading-them-5c40e506a333?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond Robotaxi: The Future of Autonomy Is the City, Not the Car](https://medium.com/pixmoving/beyond-robotaxi-the-future-of-autonomy-is-the-city-not-the-car-764c5ea33174?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built an AI Resume Analyzer Using React, Express &amp; Gemini API — Here’s Everything I Learned](https://medium.com/@madhusreesareddy/i-built-an-ai-resume-analyzer-using-react-express-gemini-api-heres-everything-i-learned-5d876def08b2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Obvious Ways To Spot Someone Is Secretly Writing With Ai](https://medium.com/@kushagraagarwal_32826/the-obvious-ways-to-spot-someone-is-secretly-writing-with-ai-33f188a31468?source=rss------artificial_intelligence-5)**
+> 🔹 **[One Model, Many Macs: A Field Guide to Distributed MLX Over Thunderbolt](https://medium.com/@nuthalapativarun/one-model-many-macs-a-field-guide-to-distributed-mlx-over-thunderbolt-a8a4ccec29ad?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
