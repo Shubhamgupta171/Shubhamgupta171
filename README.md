@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Architecture of Absolute Silence: Claude Shannon’s Information Theory and the Zero-Bit…](https://medium.com/@tb2015yy/the-architecture-of-absolute-silence-claude-shannons-information-theory-and-the-zero-bit-8590abf40243?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a Complete Dashboard Using AI in One Day Here’s What Actually Happened](https://medium.com/@shynkhn17/i-built-a-complete-dashboard-using-ai-in-one-day-heres-what-actually-happened-d4d7114a5053?source=rss------artificial_intelligence-5)**
-> 🔹 **[MediaTek-Powered Smart Homes: The Chip Behind Your Connected Life](https://medium.com/@northmanjeremy/mediatek-powered-smart-homes-the-chip-behind-your-connected-life-8a25e577bdfe?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Use Leonardo AI for Beginners: A Simple Guide to Creating Amazing AI Images](https://medium.com/@iffi.resourcer/how-to-use-leonardo-ai-for-beginners-a-simple-guide-to-creating-amazing-ai-images-3e9ba2ff6ee3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Hidden Memory Sink &lpar;Part 3&rpar;: the fix that creates a new problem](https://nileshkamble14.medium.com/hidden-memory-sink-part-3-the-fix-that-creates-a-new-problem-f6cc30af5a60?source=rss------backend_development-5)**
-> 🔹 **[When Everyone Asks the Same AI, Who Owns the Truth?](https://medium.com/predict/when-everyone-asks-the-same-ai-who-owns-the-truth-52b22b8de33e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Where AI Driven Software Development Delivers Results](https://medium.com/@michael.keller314/where-ai-driven-software-development-delivers-results-83d839fbf22f?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Can Make the Pixels. In Pharma, That Was Never the Hard Part.](https://medium.com/design-bootcamp/ai-can-make-the-pixels-in-pharma-that-was-never-the-hard-part-21a32010b6d3?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI NEWS YOU MISSED ❗#108](https://maciejko.medium.com/ai-news-you-missed-108-38e43154711b?source=rss------artificial_intelligence-5)**
+> 🔹 **[5.&lpar;Part 2&rpar;Reliability: Why Great Software Isn’t the One That Never Fails-It’s the One That Reco...](https://medium.com/kanak-club/5-part-2-reliability-why-great-software-isnt-the-one-that-never-fails-it-s-the-one-that-recovers-0296fbb4a4f7?source=rss------artificial_intelligence-5)**
+> 🔹 **[5.&lpar;Part 1&rpar;Reliability: Why Great Software Isn’t the One That Never Fails-It’s the One That Reco...](https://medium.com/kanak-club/5-part-1-reliability-why-great-software-isnt-the-one-that-never-fails-it-s-the-one-that-recovers-9b4b248fba2c?source=rss------artificial_intelligence-5)**
+> 🔹 **[So You Want to Build With Claude? The Whole Playbook, in One Read](https://medium.com/@iam.umairimran/so-you-want-to-build-with-claude-the-whole-playbook-in-one-read-35bd62d19119?source=rss------artificial_intelligence-5)**
+> 🔹 **[Advantages and Disadvantages of Artificial Intelligence &lpar;AI&rpar;](https://medium.com/@arifbalawar77/advantages-and-disadvantages-of-artificial-intelligence-ai-a2456ae47459?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who Is Mukul Goyal ?](https://medium.com/@kiarakapoor/who-is-mukul-goyal-f7c56f353b40?source=rss------artificial_intelligence-5)**
+> 🔹 **[MediaTek Dimensity AX: An AI Car SoC for Advanced In-Vehicle Intelligence](https://medium.com/@benjamin22044/mediatek-dimensity-ax-an-ai-car-soc-for-advanced-in-vehicle-intelligence-d2abed97adac?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Watched 3 Startups Burn $500K on the Wrong Dev Team. Here’s What the Smart Ones Did Different...](https://medium.com/@rishitak/i-watched-3-startups-burn-500k-on-the-wrong-dev-team-heres-what-the-smart-ones-did-differently-84e199de7b87?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
