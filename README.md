@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I spent $500 on an AI API in 3 hours. Here’s why.”](https://medium.com/@ajaykrishna.m1237890/i-spent-500-on-an-ai-api-in-3-hours-heres-why-3cc3415ad01a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Tools Are Changing Online Business in 2026](https://medium.com/@sgoshwami1982/why-ai-tools-are-changing-online-business-in-2026-a29543eea8d7?source=rss------artificial_intelligence-5)**
-> 🔹 **[From LangChain and RAG to Voice AI and Video Analytics: What I Have Been Building at Synapse Te...](https://medium.com/@hasan.khan_1438/from-langchain-and-rag-to-voice-ai-and-video-analytics-what-i-have-been-building-at-synapse-tech-73e9f38a7150?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Spent Months Writing “Helpful” Articles. Then I Realized Nobody Was Reading Them.](https://rakshathimmaiah213.medium.com/i-spent-months-writing-helpful-articles-then-i-realized-nobody-was-reading-them-5c40e506a333?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond Robotaxi: The Future of Autonomy Is the City, Not the Car](https://medium.com/pixmoving/beyond-robotaxi-the-future-of-autonomy-is-the-city-not-the-car-764c5ea33174?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built an AI Resume Analyzer Using React, Express &amp; Gemini API — Here’s Everything I Learned](https://medium.com/@madhusreesareddy/i-built-an-ai-resume-analyzer-using-react-express-gemini-api-heres-everything-i-learned-5d876def08b2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Obvious Ways To Spot Someone Is Secretly Writing With Ai](https://medium.com/@kushagraagarwal_32826/the-obvious-ways-to-spot-someone-is-secretly-writing-with-ai-33f188a31468?source=rss------artificial_intelligence-5)**
-> 🔹 **[One Model, Many Macs: A Field Guide to Distributed MLX Over Thunderbolt](https://medium.com/@nuthalapativarun/one-model-many-macs-a-field-guide-to-distributed-mlx-over-thunderbolt-a8a4ccec29ad?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Architecture of Absolute Silence: Claude Shannon’s Information Theory and the Zero-Bit…](https://medium.com/@tb2015yy/the-architecture-of-absolute-silence-claude-shannons-information-theory-and-the-zero-bit-8590abf40243?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Complete Dashboard Using AI in One Day Here’s What Actually Happened](https://medium.com/@shynkhn17/i-built-a-complete-dashboard-using-ai-in-one-day-heres-what-actually-happened-d4d7114a5053?source=rss------artificial_intelligence-5)**
+> 🔹 **[MediaTek-Powered Smart Homes: The Chip Behind Your Connected Life](https://medium.com/@northmanjeremy/mediatek-powered-smart-homes-the-chip-behind-your-connected-life-8a25e577bdfe?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Use Leonardo AI for Beginners: A Simple Guide to Creating Amazing AI Images](https://medium.com/@iffi.resourcer/how-to-use-leonardo-ai-for-beginners-a-simple-guide-to-creating-amazing-ai-images-3e9ba2ff6ee3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Hidden Memory Sink &lpar;Part 3&rpar;: the fix that creates a new problem](https://nileshkamble14.medium.com/hidden-memory-sink-part-3-the-fix-that-creates-a-new-problem-f6cc30af5a60?source=rss------backend_development-5)**
+> 🔹 **[When Everyone Asks the Same AI, Who Owns the Truth?](https://medium.com/predict/when-everyone-asks-the-same-ai-who-owns-the-truth-52b22b8de33e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Where AI Driven Software Development Delivers Results](https://medium.com/@michael.keller314/where-ai-driven-software-development-delivers-results-83d839fbf22f?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Can Make the Pixels. In Pharma, That Was Never the Hard Part.](https://medium.com/design-bootcamp/ai-can-make-the-pixels-in-pharma-that-was-never-the-hard-part-21a32010b6d3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
