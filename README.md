@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI NEWS YOU MISSED ❗#108](https://maciejko.medium.com/ai-news-you-missed-108-38e43154711b?source=rss------artificial_intelligence-5)**
-> 🔹 **[5.&lpar;Part 2&rpar;Reliability: Why Great Software Isn’t the One That Never Fails-It’s the One That Reco...](https://medium.com/kanak-club/5-part-2-reliability-why-great-software-isnt-the-one-that-never-fails-it-s-the-one-that-recovers-0296fbb4a4f7?source=rss------artificial_intelligence-5)**
-> 🔹 **[5.&lpar;Part 1&rpar;Reliability: Why Great Software Isn’t the One That Never Fails-It’s the One That Reco...](https://medium.com/kanak-club/5-part-1-reliability-why-great-software-isnt-the-one-that-never-fails-it-s-the-one-that-recovers-9b4b248fba2c?source=rss------artificial_intelligence-5)**
-> 🔹 **[So You Want to Build With Claude? The Whole Playbook, in One Read](https://medium.com/@iam.umairimran/so-you-want-to-build-with-claude-the-whole-playbook-in-one-read-35bd62d19119?source=rss------artificial_intelligence-5)**
-> 🔹 **[Advantages and Disadvantages of Artificial Intelligence &lpar;AI&rpar;](https://medium.com/@arifbalawar77/advantages-and-disadvantages-of-artificial-intelligence-ai-a2456ae47459?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who Is Mukul Goyal ?](https://medium.com/@kiarakapoor/who-is-mukul-goyal-f7c56f353b40?source=rss------artificial_intelligence-5)**
-> 🔹 **[MediaTek Dimensity AX: An AI Car SoC for Advanced In-Vehicle Intelligence](https://medium.com/@benjamin22044/mediatek-dimensity-ax-an-ai-car-soc-for-advanced-in-vehicle-intelligence-d2abed97adac?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Watched 3 Startups Burn $500K on the Wrong Dev Team. Here’s What the Smart Ones Did Different...](https://medium.com/@rishitak/i-watched-3-startups-burn-500k-on-the-wrong-dev-team-heres-what-the-smart-ones-did-differently-84e199de7b87?source=rss------artificial_intelligence-5)**
+> 🔹 **[In The AI Future, You’re One Of These 5 People At Work](https://ninza7.medium.com/in-the-ai-future-youre-one-of-these-5-people-at-work-5a3e3671e99e?source=rss------artificial_intelligence-5)**
+> 🔹 **[One Decision Can Transform Your Future: What I Wish I Knew Before Starting My Career in Tech](https://medium.com/@sandeep.seo.hachion/one-decision-can-transform-your-future-what-i-wish-i-knew-before-starting-my-career-in-tech-3c9189b7b859?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude’s honest reflection on being asked what it would look like Animated, featuring collabora...](https://medium.com/the-story-well/claudes-honest-reflection-on-being-asked-what-it-would-look-like-animated-featuring-collaborative-030aef797335?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tried 20+ AI Agent Courses on Udemy: Here Are My Top 5 Recommendations for 2026](https://medium.com/javarevisited/i-tried-20-ai-agent-courses-on-udemy-here-are-my-top-5-recommendations-for-2026-bf3b76db4dcf?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Possess No Womb​](https://medium.com/short-and-weird/i-possess-no-womb-4ca6236c7746?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Data Goes to Court: Gasly’s Appeal and F1’s Governance Gap](https://medium.com/@harmont2007/when-data-goes-to-court-gaslys-appeal-and-f1-s-governance-gap-3ac1cdd9cef7?source=rss------artificial_intelligence-5)**
+> 🔹 **[CLM Series/Chapter-3: Do You Remember T9? Here’s Your First Encounter with Artificial Intellige...](https://tanurhansen.medium.com/clm-series-chapter-3-do-you-remember-t9-heres-your-first-encounter-with-artificial-intelligence-6b075cb69213?source=rss------artificial_intelligence-5)**
+> 🔹 **[GLM-5.2 Is the Open-Weight Coding Agent That Finally Let Me Cancel Half My API Bill](https://ernestodotnet.medium.com/glm-5-2-is-the-open-weight-coding-agent-that-finally-let-me-cancel-half-my-api-bill-3797235ef7ae?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
