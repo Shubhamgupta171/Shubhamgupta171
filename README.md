@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How Much Is Too Much Optimization for Your Second Brain?](https://medium.com/@tejas-sharma/how-much-is-too-much-optimization-for-your-second-brain-36b8447ab052?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Guessing. Start Simulating.](https://medium.com/@davidmpeterson1998/stop-guessing-start-simulating-b6dbbcba964d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Consume Less, Create More
-We live in a world where our attention is constantly under attack.](https://medium.com/@dewanluvna1/consume-less-create-more-we-live-in-a-world-where-our-attention-is-constantly-under-attack-6795f6c6d413?source=rss------artificial_intelligence-5)**
-> 🔹 **[Everybody’s Building AI Agents.](https://medium.com/@nuno.roberto/everybodys-building-ai-agents-c1e4eca248d7?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Outcomes Are Eating Tools](https://cobusgreyling.medium.com/ai-outcomes-are-eating-tools-1e3273f26234?source=rss------artificial_intelligence-5)**
-> 🔹 **[Quand un conseiller AI dans le mining a vraiment du sens](https://medium.com/@robby.pontecorvo720/quand-un-conseiller-ai-dans-le-mining-a-vraiment-du-sens-6aa4d1efaee1?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Do You Build a Complete Inventory of AI Tools Across Your Enterprise?](https://medium.com/@forcepoint-security/how-do-you-build-a-complete-inventory-of-ai-tools-across-your-enterprise-300afe049721?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI : Document Embeddings and the User’s Query embeddings should generally be created using the...](https://medium.com/@piyalidas.it/ai-document-embeddings-and-the-users-query-embeddings-should-generally-be-created-using-the-same-1fb24515b7ab?source=rss------artificial_intelligence-5)**
+> 🔹 **[Automate public TLS certificate issuance with ACME support in AWS Certificate Manager](https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/)**
+> 🔹 **[Agent Ready Data: How PepsiCo Engineered Its Agentic AI Stack on Azure](https://ai.plainenglish.io/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI in Radiology Is No Longer the Future. It Has Become Another Layer of the Hospital](https://medium.com/@alphonse-diresta/ai-in-radiology-is-no-longer-the-future-it-has-become-another-layer-of-the-hospital-3e824e1d31fd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why I Didn’t Store Citizenship Directly on the Person Entity](https://medium.com/@mostafaeffati/why-i-didnt-store-citizenship-directly-on-the-person-entity-8e5dcd8ddade?source=rss------system_design-5)**
+> 🔹 **[Why I Didn’t Store Citizenship Directly on the Person Entity](https://medium.com/@mostafaeffati/why-i-didnt-store-citizenship-directly-on-the-person-entity-8e5dcd8ddade?source=rss------backend_development-5)**
+> 🔹 **[Why AI Product Managers Must Challenge the ChatGPT Gravity Well to Win Differentiation?](https://medium.com/@curiousmind1786/why-ai-product-managers-must-challenge-the-chatgpt-gravity-well-to-win-differentiation-54277f1d01d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Moz Review 2026: Is It Still Worth the Price?](https://tread-line.medium.com/moz-review-2026-is-it-still-worth-the-price-0181a5ddf269?source=rss------artificial_intelligence-5)**
+> 🔹 **[Next at Chase Connect — June 2026](https://medium.com/next-at-chase/next-at-chase-connect-june-2026-0ca905b2103e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
