@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Barrier to Building Has Collapsed. The Barrier to Trust Has Never Been Higher.](https://medium.com/@mcdowels/the-barrier-to-building-has-collapsed-the-barrier-to-trust-has-never-been-higher-43c66925f1dc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Job Probably Isn’t at Risk — Your Way of Working Might Be](https://medium.com/@saadiqkarriem212003/your-job-probably-isnt-at-risk-your-way-of-working-might-be-2acfe49095f8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Predicting AI’s Next Moves: Turning Sharp-Edged Clarity Into Rough-Edged Advantage](https://medium.com/@curiousmind1786/predicting-ais-next-moves-turning-sharp-edged-clarity-into-rough-edged-advantage-ee63e4d9b8de?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond Developer Productivity: 20X Faster from Inception to Market with AI](https://medium.com/@iabhishektripathy/beyond-developer-productivity-20x-faster-from-inception-to-market-with-ai-edd82a045d9e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Skills Gap Is Growing Faster Than Most Professionals Realize](https://medium.com/@saadiqkarriem212003/the-ai-skills-gap-is-growing-faster-than-most-professionals-realize-14dd691121b3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Institutional Compression: Why Models Fail to Match Reality](https://medium.com/@olavenue/institutional-compression-why-models-fail-to-match-reality-46164a756143?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 AI Tools That Save Me Hours Every Week](https://medium.com/@njpsty/7-ai-tools-that-save-me-hours-every-week-17447bd5284f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building a 200M Parameter Time Series LLM from Scratch](https://levelup.gitconnected.com/building-a-200m-parameter-time-series-llm-from-scratch-a99ec624ba15?source=rss----5517fd7b58a6---4)**
+> 🔹 **[System Design — 0.9 Consistency Models](https://medium.com/@mridulmkumar07/system-design-0-9-consistency-models-7c6ca50e4278?source=rss------system_design-5)**
+> 🔹 **[Clans of Code is now on Kindle](https://medium.com/@joakim.soderberg/clans-of-code-is-now-on-kindle-f70c06e9054e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Using UUID v4 as Your Primary Key — Use This Instead](https://medium.com/@sagarvgholap/stop-using-uuid-v4-as-your-primary-key-use-this-instead-c3363b02ce69?source=rss------backend_development-5)**
+> 🔹 **[Vibe Computing: The Moment We Stop Operating Computers](https://medium.com/write-a-catalyst/vibe-computing-the-moment-we-stop-operating-computers-419f9f862095?source=rss------artificial_intelligence-5)**
+> 🔹 **[PART FIVE:Before AI: How Human Thought Is Pre-Shaped](https://medium.com/@brightzhane/part-five-before-ai-how-human-thought-is-pre-shaped-ae333d67e3f2?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 Proven Ways to Make Money With AI in 2026](https://medium.com/write-a-catalyst/7-proven-ways-to-make-money-with-ai-in-2026-d2938430c701?source=rss------artificial_intelligence-5)**
+> 🔹 **[Manifold Programming: The Skill You Need Before Geo-AI Takes Your Job](https://ai.gopubby.com/manifold-programming-the-skill-you-need-before-geo-ai-takes-your-job-580ee6205709?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Illusion of Deep Learning: Why AI Needs Brainwaves to Remember](https://ai.gopubby.com/the-illusion-of-deep-learning-why-ai-needs-brainwaves-to-remember-5fbe453d13f0?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
