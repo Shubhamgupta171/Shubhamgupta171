@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[System Design — 0.9 Consistency Models](https://medium.com/@mridulmkumar07/system-design-0-9-consistency-models-7c6ca50e4278?source=rss------system_design-5)**
-> 🔹 **[Clans of Code is now on Kindle](https://medium.com/@joakim.soderberg/clans-of-code-is-now-on-kindle-f70c06e9054e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Using UUID v4 as Your Primary Key — Use This Instead](https://medium.com/@sagarvgholap/stop-using-uuid-v4-as-your-primary-key-use-this-instead-c3363b02ce69?source=rss------backend_development-5)**
-> 🔹 **[Vibe Computing: The Moment We Stop Operating Computers](https://medium.com/write-a-catalyst/vibe-computing-the-moment-we-stop-operating-computers-419f9f862095?source=rss------artificial_intelligence-5)**
-> 🔹 **[PART FIVE:Before AI: How Human Thought Is Pre-Shaped](https://medium.com/@brightzhane/part-five-before-ai-how-human-thought-is-pre-shaped-ae333d67e3f2?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 Proven Ways to Make Money With AI in 2026](https://medium.com/write-a-catalyst/7-proven-ways-to-make-money-with-ai-in-2026-d2938430c701?source=rss------artificial_intelligence-5)**
-> 🔹 **[Manifold Programming: The Skill You Need Before Geo-AI Takes Your Job](https://ai.gopubby.com/manifold-programming-the-skill-you-need-before-geo-ai-takes-your-job-580ee6205709?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Illusion of Deep Learning: Why AI Needs Brainwaves to Remember](https://ai.gopubby.com/the-illusion-of-deep-learning-why-ai-needs-brainwaves-to-remember-5fbe453d13f0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Team You Used to Need to Build a Business? You Do Not Need It Anymore.](https://medium.com/@nazeemhasan14/the-team-you-used-to-need-to-build-a-business-you-do-not-need-it-anymore-74a3710664e7?source=rss------artificial_intelligence-5)**
+> 🔹 **[# Reward Is Not the Only Way to Build a Mind](https://medium.com/@elif.koparan/reward-is-not-the-only-way-to-build-a-mind-85ec4b47969d?source=rss------artificial_intelligence-5)**
+> 🔹 **[GEO Is Not SEO 2.0. Here Is What Actually Gets You Cited by AI](https://medium.com/codetodeploy/geo-is-not-seo-2-0-here-is-what-actually-gets-you-cited-by-ai-20fa5b55a77f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mengintip Mesin Pertumbuhan SeaBank: Bagaimana Strategi SI/TI Menjadi Senjata Utama di Era Bank...](https://medium.com/@rafihabibie92/mengintip-mesin-pertumbuhan-seabank-bagaimana-strategi-si-ti-menjadi-senjata-utama-di-era-bank-245eeae64012?source=rss------artificial_intelligence-5)**
+> 🔹 **[India Leads the World in GenAI Adoption. Most Companies Still Aren’t Seeing ROI](https://medium.com/@goodworklabs46/india-leads-the-world-in-genai-adoption-most-companies-still-arent-seeing-roi-a38cb82f7e88?source=rss------artificial_intelligence-5)**
+> 🔹 **[Could’ve Just Done a Captcha. Big Tech Now Tests Reading Separately from Thinking.](https://oksanaivanovapm.medium.com/couldve-just-done-a-captcha-big-tech-now-tests-reading-separately-from-thinking-08ab36bd818c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence Skills in Demand in Noida: What Employers Look For](https://medium.com/@mm9555478/artificial-intelligence-skills-in-demand-in-noida-what-employers-look-for-12684b1979fc?source=rss------artificial_intelligence-5)**
+> 🔹 **[What The Fitness Industry Actually Looks Like To AI Agents](https://medium.com/@keepme-ai/what-the-fitness-industry-actually-looks-like-to-ai-agents-90f33d17c8d3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
