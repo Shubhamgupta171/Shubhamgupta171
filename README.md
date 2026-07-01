@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[DFS to Backtracking — Understanding the Intuition Through Four Problems](https://gaandlaneeraja.medium.com/dfs-to-backtracking-understanding-the-intuition-through-four-problems-fc46d44535be?source=rss------data_structures-5)**
-> 🔹 **[The Biggest AI Art Mistakes Beginners Make &lpar;And How to Fix Them&rpar;](https://medium.com/@studywithaina37/the-biggest-ai-art-mistakes-beginners-make-and-how-to-fix-them-9bf56d516d17?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Highest-Paying AI Careers You Can Prepare for Today](https://medium.com/@MAbdullah95/the-highest-paying-ai-careers-you-can-prepare-for-today-ddb68906d0c6?source=rss------artificial_intelligence-5)**
-> 🔹 **[NEWSLETTER: Latest in AI, TikTok, Cybersecurity and “Two Futures of Humanity: A 40-Year-Old…](https://medium.com/a-life-to-remember/newsletter-latest-in-ai-tiktok-cybersecurity-and-two-futures-of-humanity-a-40-year-old-067602990be5?source=rss------artificial_intelligence-5)**
-> 🔹 **[We can’t see molecules, but we can teach machines to read them.](https://medium.com/@ajaykrishna.m1237890/we-cant-see-molecules-but-we-can-teach-machines-to-read-them-a37c0c5541d8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Search Will Change SEO Forever &lpar;And What Smart Businesses Are Doing Today&rpar;](https://medium.com/@its-zulfiqar/why-ai-search-will-change-seo-forever-and-what-smart-businesses-are-doing-today-68133e3ad692?source=rss------artificial_intelligence-5)**
-> 🔹 **[Drug discovery: 15 years → 15 months.](https://medium.com/@ajaykrishna.m1237890/drug-discovery-15-years-15-months-814c0bb25785?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Spending Hours on Ebook Outlines — Claude Does It in Under 10 Minutes](https://medium.com/no-time/stop-spending-hours-on-ebook-outlines-claude-does-it-in-under-10-minutes-5f8410a519c5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Solving CodeChef’s “Turbo Sort” Using C](https://medium.com/@meenuks156/solving-codechefs-turbo-sort-using-c-acc7b976940b?source=rss------data_structures-5)**
+> 🔹 **[7 Things You Can Do With NotebookLM That Will Genuinely Surprise You](https://medium.com/@mubashirburfat4/7-things-you-can-do-with-notebooklm-that-will-genuinely-surprise-you-54c36a2013eb?source=rss------artificial_intelligence-5)**
+> 🔹 **[30+ Ways Islam Guides and Protects Us in the Age of AI](https://medium.com/@aiformuslims/30-ways-islam-guides-and-protects-us-in-the-age-of-ai-f6ca4973e471?source=rss------artificial_intelligence-5)**
+> 🔹 **[India Is Manufacturing Its Own AI Talent Shortage](https://medium.com/@sameerkoli/india-is-manufacturing-its-own-ai-talent-shortage-118e46fbcedd?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 41-Tool Agent Stack Starts With the Brake](https://medium.com/@max.petrusenko/the-41-tool-agent-stack-starts-with-the-brake-ab59794c8e70?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Choosing Between Structure and Instinct &lpar;Do This Instead&rpar;](https://gentlemanwalkin.medium.com/stop-choosing-between-structure-and-instinct-do-this-instead-e124e9d93b90?source=rss------data_structures-5)**
+> 🔹 **[How AI Changes the Way Business Works](https://medium.com/illumination/how-ai-changes-the-way-business-works-bc3408d8b5ea?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Gave You Back a Workday. The Hard Part Is What Comes Next](https://medium.com/@LanthornDigitalStudio/ai-gave-you-back-a-workday-the-hard-part-is-what-comes-next-d973bad98ac1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
