@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Solving CodeChef’s “Turbo Sort” Using C](https://medium.com/@meenuks156/solving-codechefs-turbo-sort-using-c-acc7b976940b?source=rss------data_structures-5)**
-> 🔹 **[7 Things You Can Do With NotebookLM That Will Genuinely Surprise You](https://medium.com/@mubashirburfat4/7-things-you-can-do-with-notebooklm-that-will-genuinely-surprise-you-54c36a2013eb?source=rss------artificial_intelligence-5)**
-> 🔹 **[30+ Ways Islam Guides and Protects Us in the Age of AI](https://medium.com/@aiformuslims/30-ways-islam-guides-and-protects-us-in-the-age-of-ai-f6ca4973e471?source=rss------artificial_intelligence-5)**
-> 🔹 **[India Is Manufacturing Its Own AI Talent Shortage](https://medium.com/@sameerkoli/india-is-manufacturing-its-own-ai-talent-shortage-118e46fbcedd?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 41-Tool Agent Stack Starts With the Brake](https://medium.com/@max.petrusenko/the-41-tool-agent-stack-starts-with-the-brake-ab59794c8e70?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Choosing Between Structure and Instinct &lpar;Do This Instead&rpar;](https://gentlemanwalkin.medium.com/stop-choosing-between-structure-and-instinct-do-this-instead-e124e9d93b90?source=rss------data_structures-5)**
-> 🔹 **[How AI Changes the Way Business Works](https://medium.com/illumination/how-ai-changes-the-way-business-works-bc3408d8b5ea?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Gave You Back a Workday. The Hard Part Is What Comes Next](https://medium.com/@LanthornDigitalStudio/ai-gave-you-back-a-workday-the-hard-part-is-what-comes-next-d973bad98ac1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cyber Essentials, do you know what it means?](https://medium.com/@pafora/cyber-essentials-do-you-know-what-it-means-9f64a025f24e?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Used AI to Write Code for 30 Days — Here’s What Actually Changed](https://medium.com/@AlexMorgan24/i-used-ai-to-write-code-for-30-days-heres-what-actually-changed-005a4eb121b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude vs GPT-5.6: The AI Race Is No Longer About Who Answers Better](https://medium.com/@aixaixhumancompare/claude-vs-gpt-5-6-the-ai-race-is-no-longer-about-who-answers-better-f181425735f0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Augmentation Is the Undeniable Future of AI Across Industries?](https://medium.com/@curiousmind1786/why-augmentation-is-the-undeniable-future-of-ai-across-industries-4b6f20f344f5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everyone Blames AI for Changing Tech Jobs. I Think We’re Looking at the Wrong Culprit](https://mymozgi.medium.com/everyone-blames-ai-for-changing-tech-jobs-i-think-were-looking-at-the-wrong-culprit-419d98a6a74a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why “Sounding Right” Is AI’s Most Dangerous Feature in Ecommerce](https://medium.com/@propromptflow/why-sounding-right-is-ais-most-dangerous-feature-in-ecommerce-c1abc694401a?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Write With AI as a Beginner: 5 Content Formats a Ghostwriter Uses](https://aighostwriter.medium.com/how-to-write-with-ai-as-a-beginner-5-content-formats-a-ghostwriter-uses-827f5f7002a9?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 AI Tools Every Student Should Know in 2026](https://medium.com/@uchennaamaeshi08/7-ai-tools-every-student-should-know-in-2026-8794c2e67055?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
