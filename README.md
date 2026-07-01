@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Automate public TLS certificate issuance with ACME support in AWS Certificate Manager](https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/)**
-> 🔹 **[Agent Ready Data: How PepsiCo Engineered Its Agentic AI Stack on Azure](https://ai.plainenglish.io/agent-ready-data-how-pepsico-engineered-its-agentic-ai-stack-on-azure-6a34429f34ec?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI in Radiology Is No Longer the Future. It Has Become Another Layer of the Hospital](https://medium.com/@alphonse-diresta/ai-in-radiology-is-no-longer-the-future-it-has-become-another-layer-of-the-hospital-3e824e1d31fd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why I Didn’t Store Citizenship Directly on the Person Entity](https://medium.com/@mostafaeffati/why-i-didnt-store-citizenship-directly-on-the-person-entity-8e5dcd8ddade?source=rss------system_design-5)**
-> 🔹 **[Why I Didn’t Store Citizenship Directly on the Person Entity](https://medium.com/@mostafaeffati/why-i-didnt-store-citizenship-directly-on-the-person-entity-8e5dcd8ddade?source=rss------backend_development-5)**
-> 🔹 **[Why AI Product Managers Must Challenge the ChatGPT Gravity Well to Win Differentiation?](https://medium.com/@curiousmind1786/why-ai-product-managers-must-challenge-the-chatgpt-gravity-well-to-win-differentiation-54277f1d01d2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Moz Review 2026: Is It Still Worth the Price?](https://tread-line.medium.com/moz-review-2026-is-it-still-worth-the-price-0181a5ddf269?source=rss------artificial_intelligence-5)**
-> 🔹 **[Next at Chase Connect — June 2026](https://medium.com/next-at-chase/next-at-chase-connect-june-2026-0ca905b2103e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Sonnet 5 for Finance and FP&amp;A: Practical Use Cases You Can Test Today](https://christianmartinezfinancialfox.medium.com/claude-sonnet-5-for-finance-and-fp-a-practical-use-cases-you-can-test-today-280171119d6a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Lost in Transcription: The Week the Machine Started Lying](https://medium.com/@pejcanlas25/lost-in-transcription-the-week-the-machine-started-lying-a767daa13ee0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The D³ Maturity Gap: Why Better UX Still Fails](https://medium.com/@Kreativeps/the-d%C2%B3-maturity-gap-why-better-ux-still-fails-ec8922a18b18?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Quantum Field of Consciousness: Quantum Field Theory and the Illusion of Separation in AI…](https://medium.com/@tb2015yy/the-quantum-field-of-consciousness-quantum-field-theory-and-the-illusion-of-separation-in-ai-88e0aeb54afe?source=rss------artificial_intelligence-5)**
+> 🔹 **[Does This Have AI in It Yet?](https://medium.com/@mrafikusuma/does-this-have-ai-in-it-yet-1c52d3856065?source=rss------artificial_intelligence-5)**
+> 🔹 **[Foundation First : Why Poor Data Quality Silently Destroys Enterprise AI, Analytics, and System...](https://medium.com/@Segmetriqanalytics/foundation-first-why-poor-data-quality-silently-destroys-enterprise-ai-analytics-and-system-f2dfc5ba039a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Vision AI: Transforming Business Operations with Computer Vision AI](https://medium.com/@navasoftwareseo/vision-ai-transforming-business-operations-with-computer-vision-ai-d37b4cdabfa3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Machine learning for beginners #5](https://bimalendu-behera.medium.com/machine-learning-for-beginners-5-c4ef7d18f41f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
