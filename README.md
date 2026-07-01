@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Claude Sonnet 5 for Finance and FP&amp;A: Practical Use Cases You Can Test Today](https://christianmartinezfinancialfox.medium.com/claude-sonnet-5-for-finance-and-fp-a-practical-use-cases-you-can-test-today-280171119d6a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Lost in Transcription: The Week the Machine Started Lying](https://medium.com/@pejcanlas25/lost-in-transcription-the-week-the-machine-started-lying-a767daa13ee0?source=rss------artificial_intelligence-5)**
-> 🔹 **[The D³ Maturity Gap: Why Better UX Still Fails](https://medium.com/@Kreativeps/the-d%C2%B3-maturity-gap-why-better-ux-still-fails-ec8922a18b18?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Quantum Field of Consciousness: Quantum Field Theory and the Illusion of Separation in AI…](https://medium.com/@tb2015yy/the-quantum-field-of-consciousness-quantum-field-theory-and-the-illusion-of-separation-in-ai-88e0aeb54afe?source=rss------artificial_intelligence-5)**
-> 🔹 **[Does This Have AI in It Yet?](https://medium.com/@mrafikusuma/does-this-have-ai-in-it-yet-1c52d3856065?source=rss------artificial_intelligence-5)**
-> 🔹 **[Foundation First : Why Poor Data Quality Silently Destroys Enterprise AI, Analytics, and System...](https://medium.com/@Segmetriqanalytics/foundation-first-why-poor-data-quality-silently-destroys-enterprise-ai-analytics-and-system-f2dfc5ba039a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Vision AI: Transforming Business Operations with Computer Vision AI](https://medium.com/@navasoftwareseo/vision-ai-transforming-business-operations-with-computer-vision-ai-d37b4cdabfa3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Machine learning for beginners #5](https://bimalendu-behera.medium.com/machine-learning-for-beginners-5-c4ef7d18f41f?source=rss------artificial_intelligence-5)**
+> 🔹 **[DFS to Backtracking — Understanding the Intuition Through Four Problems](https://gaandlaneeraja.medium.com/dfs-to-backtracking-understanding-the-intuition-through-four-problems-fc46d44535be?source=rss------data_structures-5)**
+> 🔹 **[The Biggest AI Art Mistakes Beginners Make &lpar;And How to Fix Them&rpar;](https://medium.com/@studywithaina37/the-biggest-ai-art-mistakes-beginners-make-and-how-to-fix-them-9bf56d516d17?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Highest-Paying AI Careers You Can Prepare for Today](https://medium.com/@MAbdullah95/the-highest-paying-ai-careers-you-can-prepare-for-today-ddb68906d0c6?source=rss------artificial_intelligence-5)**
+> 🔹 **[NEWSLETTER: Latest in AI, TikTok, Cybersecurity and “Two Futures of Humanity: A 40-Year-Old…](https://medium.com/a-life-to-remember/newsletter-latest-in-ai-tiktok-cybersecurity-and-two-futures-of-humanity-a-40-year-old-067602990be5?source=rss------artificial_intelligence-5)**
+> 🔹 **[We can’t see molecules, but we can teach machines to read them.](https://medium.com/@ajaykrishna.m1237890/we-cant-see-molecules-but-we-can-teach-machines-to-read-them-a37c0c5541d8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Search Will Change SEO Forever &lpar;And What Smart Businesses Are Doing Today&rpar;](https://medium.com/@its-zulfiqar/why-ai-search-will-change-seo-forever-and-what-smart-businesses-are-doing-today-68133e3ad692?source=rss------artificial_intelligence-5)**
+> 🔹 **[Drug discovery: 15 years → 15 months.](https://medium.com/@ajaykrishna.m1237890/drug-discovery-15-years-15-months-814c0bb25785?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Spending Hours on Ebook Outlines — Claude Does It in Under 10 Minutes](https://medium.com/no-time/stop-spending-hours-on-ebook-outlines-claude-does-it-in-under-10-minutes-5f8410a519c5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
