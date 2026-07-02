@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Building language for design systems](https://www.designsystemscollective.com/building-language-for-design-systems-1b2f260b0bdf?source=rss------system_design-5)**
-> 🔹 **[How I keep several AI coding agents from colliding on one codebase](https://israelheskiel.medium.com/how-i-keep-several-ai-coding-agents-from-colliding-on-one-codebase-29b8d823428d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The future is not a place](https://medium.com/@flaviamonteiros/the-future-is-not-a-place-e47b22f4f057?source=rss------artificial_intelligence-5)**
-> 🔹 **[YOLOv8 ile Gerçek Hayattan Bir Computer Vision Projesi](https://medium.com/@m.edakulahci_47769/yolov8-ile-ger%C3%A7ek-hayattan-bir-computer-vision-projesi-3c0093a1ed74?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Real Cost of Relying on AI for Inventions — Hallucinations, Patents, and Business Risks](https://medium.com/@trentice.bolar/the-real-cost-of-relying-on-ai-for-inventions-hallucinations-patents-and-business-risks-a7b2d93aef36?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Pilot Isn’t Failing at AI](https://medium.com/@sameerkoli/your-ai-pilot-isnt-failing-at-ai-93e1ce97a3bc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Simon Willison Said Claude Skills Are Maybe Bigger Than MCP. Here’s Why He’s Right.](https://medium.com/@akhilvallala0115/simon-willison-said-claude-skills-are-maybe-bigger-than-mcp-heres-why-he-s-right-3d706ba52044?source=rss------artificial_intelligence-5)**
-> 🔹 **[The X Variable — Part 1](https://medium.com/tantalizing-tales/the-x-variable-part-1-7bd48b74d9da?source=rss------artificial_intelligence-5)**
+> 🔹 **[Forward vs Reverse Proxy: When to Use Which &lpar;and Why&rpar;](https://medium.com/@anmoldeep0123/forward-vs-reverse-proxy-when-to-use-which-and-why-965e4e8c5a19?source=rss------system_design-5)**
+> 🔹 **[How AI Is Giving Small Nigerian Businesses a Big Business Advantage](https://swiftovicconnect.medium.com/how-ai-is-giving-small-nigerian-businesses-a-big-business-advantage-99dd81f9e0dc?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Score Nobody Can Act On Is Just Anxiety: Building Relevyn’s “What To Fix” Engine](https://medium.com/@taborbachelor/a-score-nobody-can-act-on-is-just-anxiety-building-relevyns-what-to-fix-engine-d18f1375917b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Death of Passwords: Are We Finally Entering a Passwordless World?](https://medium.com/@orandhave43/the-death-of-passwords-are-we-finally-entering-a-passwordless-world-ecb333105389?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Agents Sleep at Night. That Mistake Is Costing You Your Product.](https://karolbinkowski.medium.com/your-ai-agents-sleep-at-night-that-mistake-is-costing-you-your-product-421ad77ddffd?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hype Is About the Models. The Advantage Is in the Engineering.](https://danartechsociety.medium.com/the-hype-is-about-the-models-the-advantage-is-in-the-engineering-ff398e53b259?source=rss------artificial_intelligence-5)**
+> 🔹 **[What I Learned While Solving the “Shortest Path with Alternating Colors” Graph Problem](https://medium.com/@saipranavmoluguri2001/what-i-learned-while-solving-the-shortest-path-with-alternating-colors-graph-problem-d4e36026b88c?source=rss------data_structures-5)**
+> 🔹 **[AI-driven Copyright Enforcement Tools](https://marc-ford.medium.com/ai-driven-copyright-enforcement-tools-5cf7e1f7b5ca?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
