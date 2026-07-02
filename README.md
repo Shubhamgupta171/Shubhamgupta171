@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[what does it mean to be human then?](https://medium.com/@fathiyyasubagja/what-does-it-mean-to-be-human-then-f226cd706c08?source=rss------artificial_intelligence-5)**
-> 🔹 **[Introducing the AASR Methodology: A Structured Framework for AI-Driven Financial Research](https://medium.com/@ali.afzali/introducing-the-aasr-methodology-a-structured-framework-for-ai-driven-financial-research-c0d53014f467?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Replaced My Entire Freelance Workflow with AI for 90 Days. Here’s What Actually Happened.](https://medium.com/@biztoolkit7/i-replaced-my-entire-freelance-workflow-with-ai-for-90-days-heres-what-actually-happened-138a4d7324a5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentic AI vs. AI Assistants : What’s the Real Difference for Your Business?](https://brainerhub-solutions.medium.com/agentic-ai-vs-ai-assistants-whats-the-real-difference-for-your-business-abc4883e5f02?source=rss------artificial_intelligence-5)**
-> 🔹 **[You&#39;re ranking #1. Your traffic is dropping. Here&#39;s why and what to do about it.](https://medium.com/@saffiwarraich11/youre-ranking-1-your-traffic-is-dropping-here-s-why-and-what-to-do-about-it-bd8053e9e496?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Definitive Guide to Artificial General Intelligence &lpar;AGI&rpar;](https://isharadbharadwaj.medium.com/the-definitive-guide-to-artificial-general-intelligence-agi-0efacfead80e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The New Content Irony: We Use AI to Write and AI to Detect AI](https://waveringmindz.medium.com/the-new-content-irony-we-use-ai-to-write-and-ai-to-detect-ai-45df810b17bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Tools One Creator Swapped Into Their Daily Workflow](https://rasoolshah0072.medium.com/the-ai-tools-one-creator-swapped-into-their-daily-workflow-239558517539?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building language for design systems](https://www.designsystemscollective.com/building-language-for-design-systems-1b2f260b0bdf?source=rss------system_design-5)**
+> 🔹 **[How I keep several AI coding agents from colliding on one codebase](https://israelheskiel.medium.com/how-i-keep-several-ai-coding-agents-from-colliding-on-one-codebase-29b8d823428d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The future is not a place](https://medium.com/@flaviamonteiros/the-future-is-not-a-place-e47b22f4f057?source=rss------artificial_intelligence-5)**
+> 🔹 **[YOLOv8 ile Gerçek Hayattan Bir Computer Vision Projesi](https://medium.com/@m.edakulahci_47769/yolov8-ile-ger%C3%A7ek-hayattan-bir-computer-vision-projesi-3c0093a1ed74?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Real Cost of Relying on AI for Inventions — Hallucinations, Patents, and Business Risks](https://medium.com/@trentice.bolar/the-real-cost-of-relying-on-ai-for-inventions-hallucinations-patents-and-business-risks-a7b2d93aef36?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Pilot Isn’t Failing at AI](https://medium.com/@sameerkoli/your-ai-pilot-isnt-failing-at-ai-93e1ce97a3bc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Simon Willison Said Claude Skills Are Maybe Bigger Than MCP. Here’s Why He’s Right.](https://medium.com/@akhilvallala0115/simon-willison-said-claude-skills-are-maybe-bigger-than-mcp-heres-why-he-s-right-3d706ba52044?source=rss------artificial_intelligence-5)**
+> 🔹 **[The X Variable — Part 1](https://medium.com/tantalizing-tales/the-x-variable-part-1-7bd48b74d9da?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
