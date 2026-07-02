@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Cold Case Files That Created RAG](https://medium.com/@sarguru1981/the-cold-case-files-that-created-rag-327eb82a2fc4?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Generative AI is Revolutionizing Modern Digital Editing and Image Design](https://medium.com/@nipuniroshani432/how-generative-ai-is-revolutionizing-modern-digital-editing-and-image-design-63546d4ce2e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[ROGup Explained &lpar;3/4&rpar;: Your Crypto Card, Built for the Real World](https://medium.com/@rogin_ai/rogup-explained-3-4-your-crypto-card-built-for-the-real-world-757e534840c9?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Is Creating New Online Income Opportunities &lpar;And Why It&#39;s Still Early&rpar;](https://medium.com/@msimoliunas/how-ai-is-creating-new-online-income-opportunities-and-why-its-still-early-ad68f12ebc44?source=rss------artificial_intelligence-5)**
-> 🔹 **[The $100M Illusion in the Age of AI](https://medium.com/@albertocardenascom/the-100m-illusion-in-the-age-of-ai-8fcc21b5378a?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI — What If Nobody Had to Work? A Realistic Case for the Chill Future](https://medium.com/@anupam.gautam46/ai-what-if-nobody-had-to-work-a-realistic-case-for-the-chill-future-67fe2cca8a5c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Every Enterprise AI Startup Thinks It’s Selling AI. It’s Actually Selling Trust.](https://medium.com/@reshma_sooraj/every-enterprise-ai-startup-thinks-its-selling-ai-it-s-actually-selling-trust-e934989c9600?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Sonnet 5 Is Live Today and It Performs Close to Opus 4.8 at a Fraction of the Cost](https://medium.com/@kolabs2024/claude-sonnet-5-is-live-today-and-it-performs-close-to-opus-4-8-at-a-fraction-of-the-cost-e382f046b3bb?source=rss------artificial_intelligence-5)**
+> 🔹 **[what does it mean to be human then?](https://medium.com/@fathiyyasubagja/what-does-it-mean-to-be-human-then-f226cd706c08?source=rss------artificial_intelligence-5)**
+> 🔹 **[Introducing the AASR Methodology: A Structured Framework for AI-Driven Financial Research](https://medium.com/@ali.afzali/introducing-the-aasr-methodology-a-structured-framework-for-ai-driven-financial-research-c0d53014f467?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Replaced My Entire Freelance Workflow with AI for 90 Days. Here’s What Actually Happened.](https://medium.com/@biztoolkit7/i-replaced-my-entire-freelance-workflow-with-ai-for-90-days-heres-what-actually-happened-138a4d7324a5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic AI vs. AI Assistants : What’s the Real Difference for Your Business?](https://brainerhub-solutions.medium.com/agentic-ai-vs-ai-assistants-whats-the-real-difference-for-your-business-abc4883e5f02?source=rss------artificial_intelligence-5)**
+> 🔹 **[You&#39;re ranking #1. Your traffic is dropping. Here&#39;s why and what to do about it.](https://medium.com/@saffiwarraich11/youre-ranking-1-your-traffic-is-dropping-here-s-why-and-what-to-do-about-it-bd8053e9e496?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Definitive Guide to Artificial General Intelligence &lpar;AGI&rpar;](https://isharadbharadwaj.medium.com/the-definitive-guide-to-artificial-general-intelligence-agi-0efacfead80e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The New Content Irony: We Use AI to Write and AI to Detect AI](https://waveringmindz.medium.com/the-new-content-irony-we-use-ai-to-write-and-ai-to-detect-ai-45df810b17bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Tools One Creator Swapped Into Their Daily Workflow](https://rasoolshah0072.medium.com/the-ai-tools-one-creator-swapped-into-their-daily-workflow-239558517539?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
