@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Cyber Essentials, do you know what it means?](https://medium.com/@pafora/cyber-essentials-do-you-know-what-it-means-9f64a025f24e?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Used AI to Write Code for 30 Days — Here’s What Actually Changed](https://medium.com/@AlexMorgan24/i-used-ai-to-write-code-for-30-days-heres-what-actually-changed-005a4eb121b0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude vs GPT-5.6: The AI Race Is No Longer About Who Answers Better](https://medium.com/@aixaixhumancompare/claude-vs-gpt-5-6-the-ai-race-is-no-longer-about-who-answers-better-f181425735f0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Augmentation Is the Undeniable Future of AI Across Industries?](https://medium.com/@curiousmind1786/why-augmentation-is-the-undeniable-future-of-ai-across-industries-4b6f20f344f5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Everyone Blames AI for Changing Tech Jobs. I Think We’re Looking at the Wrong Culprit](https://mymozgi.medium.com/everyone-blames-ai-for-changing-tech-jobs-i-think-were-looking-at-the-wrong-culprit-419d98a6a74a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why “Sounding Right” Is AI’s Most Dangerous Feature in Ecommerce](https://medium.com/@propromptflow/why-sounding-right-is-ais-most-dangerous-feature-in-ecommerce-c1abc694401a?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Write With AI as a Beginner: 5 Content Formats a Ghostwriter Uses](https://aighostwriter.medium.com/how-to-write-with-ai-as-a-beginner-5-content-formats-a-ghostwriter-uses-827f5f7002a9?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 AI Tools Every Student Should Know in 2026](https://medium.com/@uchennaamaeshi08/7-ai-tools-every-student-should-know-in-2026-8794c2e67055?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Cold Case Files That Created RAG](https://medium.com/@sarguru1981/the-cold-case-files-that-created-rag-327eb82a2fc4?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Generative AI is Revolutionizing Modern Digital Editing and Image Design](https://medium.com/@nipuniroshani432/how-generative-ai-is-revolutionizing-modern-digital-editing-and-image-design-63546d4ce2e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[ROGup Explained &lpar;3/4&rpar;: Your Crypto Card, Built for the Real World](https://medium.com/@rogin_ai/rogup-explained-3-4-your-crypto-card-built-for-the-real-world-757e534840c9?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Creating New Online Income Opportunities &lpar;And Why It&#39;s Still Early&rpar;](https://medium.com/@msimoliunas/how-ai-is-creating-new-online-income-opportunities-and-why-its-still-early-ad68f12ebc44?source=rss------artificial_intelligence-5)**
+> 🔹 **[The $100M Illusion in the Age of AI](https://medium.com/@albertocardenascom/the-100m-illusion-in-the-age-of-ai-8fcc21b5378a?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI — What If Nobody Had to Work? A Realistic Case for the Chill Future](https://medium.com/@anupam.gautam46/ai-what-if-nobody-had-to-work-a-realistic-case-for-the-chill-future-67fe2cca8a5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Every Enterprise AI Startup Thinks It’s Selling AI. It’s Actually Selling Trust.](https://medium.com/@reshma_sooraj/every-enterprise-ai-startup-thinks-its-selling-ai-it-s-actually-selling-trust-e934989c9600?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Sonnet 5 Is Live Today and It Performs Close to Opus 4.8 at a Fraction of the Cost](https://medium.com/@kolabs2024/claude-sonnet-5-is-live-today-and-it-performs-close-to-opus-4-8-at-a-fraction-of-the-cost-e382f046b3bb?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
