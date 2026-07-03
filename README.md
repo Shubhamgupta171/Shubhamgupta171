@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Forward vs Reverse Proxy: When to Use Which &lpar;and Why&rpar;](https://medium.com/@anmoldeep0123/forward-vs-reverse-proxy-when-to-use-which-and-why-965e4e8c5a19?source=rss------system_design-5)**
-> 🔹 **[How AI Is Giving Small Nigerian Businesses a Big Business Advantage](https://swiftovicconnect.medium.com/how-ai-is-giving-small-nigerian-businesses-a-big-business-advantage-99dd81f9e0dc?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Score Nobody Can Act On Is Just Anxiety: Building Relevyn’s “What To Fix” Engine](https://medium.com/@taborbachelor/a-score-nobody-can-act-on-is-just-anxiety-building-relevyns-what-to-fix-engine-d18f1375917b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Death of Passwords: Are We Finally Entering a Passwordless World?](https://medium.com/@orandhave43/the-death-of-passwords-are-we-finally-entering-a-passwordless-world-ecb333105389?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Agents Sleep at Night. That Mistake Is Costing You Your Product.](https://karolbinkowski.medium.com/your-ai-agents-sleep-at-night-that-mistake-is-costing-you-your-product-421ad77ddffd?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hype Is About the Models. The Advantage Is in the Engineering.](https://danartechsociety.medium.com/the-hype-is-about-the-models-the-advantage-is-in-the-engineering-ff398e53b259?source=rss------artificial_intelligence-5)**
-> 🔹 **[What I Learned While Solving the “Shortest Path with Alternating Colors” Graph Problem](https://medium.com/@saipranavmoluguri2001/what-i-learned-while-solving-the-shortest-path-with-alternating-colors-graph-problem-d4e36026b88c?source=rss------data_structures-5)**
-> 🔹 **[AI-driven Copyright Enforcement Tools](https://marc-ford.medium.com/ai-driven-copyright-enforcement-tools-5cf7e1f7b5ca?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Tools to Workers: The Shift in Artificial Intelligence](https://ismailtasdelen.medium.com/from-tools-to-workers-the-shift-in-artificial-intelligence-847fae5251eb?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Technology Is Rewiring Our Brains](https://medium.com/@anaskhaanm/how-technology-is-rewiring-our-brains-761d8f65266a?source=rss------artificial_intelligence-5)**
+> 🔹 **[System Design — 1.11 BASE Properties](https://medium.com/@mridulmkumar07/system-design-1-11-base-properties-ab22bfb74446?source=rss------system_design-5)**
+> 🔹 **[Beyond the Benchmark: Scaling Nuclei Segmentation to Real Gigapixel Pathology Slides](https://medium.com/@divyavardhansingh2004/beyond-the-benchmark-scaling-nuclei-segmentation-to-real-gigapixel-pathology-slides-0841e6dd6b6f?source=rss------artificial_intelligence-5)**
+> 🔹 **[“Space-Based AI Data Centers Sound Incredible — But Can SpaceX Actually Pull It Off?”](https://medium.com/@dupatinaresh493/space-based-ai-data-centers-sound-incredible-but-can-spacex-actually-pull-it-off-5e05e162d72b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Typeform Competitor in 2 Weeks With Zero Funding — Here&#39;s What Happened](https://medium.com/@progressobi24/i-built-a-typeform-competitor-in-2-weeks-with-zero-funding-heres-what-happened-fa82b1e39c52?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Shipped in 10 Days. You’ll Rebuild in 6 Months](https://medium.com/design-bootcamp/you-shipped-in-10-days-youll-rebuild-in-6-months-08688d9357e2?source=rss------artificial_intelligence-5)**
+> 🔹 **[My AI Agents Told Me It Was Done. It Wasn’t. &lpar;Stepping Up, Part 3&rpar;](https://medium.com/@greg.c.mclaughlin/my-ai-agents-told-me-it-was-done-it-wasnt-stepup-part-3-4dc864195537?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
