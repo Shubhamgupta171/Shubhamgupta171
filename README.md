@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The New Business Model: One Person, One AI System, No Employees](https://medium.com/@ValueBrief/the-new-business-model-one-person-one-ai-system-no-employees-c998c28289b9?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is GEO? How I Optimised My Blog for AI Search](https://medium.com/@edaehn/what-is-geo-how-i-optimised-my-blog-for-ai-search-c32601ad162e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Invisible Decisions That Shape Every Machine Learning Model](https://medium.com/@hiral.sarkar96/the-invisible-decisions-that-shape-every-machine-learning-model-28e5ccce4cf5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Wie Atlassian Rovo das Reporting revolutioniert](https://medium.com/@gabriel.moll/wie-atlassian-rovo-das-reporting-revolutioniert-1affbfb592cf?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Constitution and Generative AI: What the Framers Never Could Have Imagined May Break The Sy...](https://medium.com/@usabilitycounts/the-constitution-and-generative-ai-what-the-framers-never-could-have-imagined-may-break-the-system-de74961d359a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Demystifying the “Agent Harness”: Why an LLM is Just a Brain Without a Body](https://medium.com/@shani829721/demystifying-the-agent-harness-why-an-llm-is-just-a-brain-without-a-body-899cce99dc94?source=rss------artificial_intelligence-5)**
-> 🔹 **[He is Here. What Do We Do?](https://medium.com/@trevorstevan/he-is-here-what-do-we-do-cf0775d3fe27?source=rss------artificial_intelligence-5)**
-> 🔹 **[Anthropic Has Just Restored Access to Fable 5](https://medium.com/no-time/anthropic-has-just-restored-access-to-fable-5-1e8d64df8687?source=rss------artificial_intelligence-5)**
+> 🔹 **[Knowledge Graphs, Retrieval Infrastructure, and the Palantir Ontology: A Technical Tour](https://medium.com/@brian-curry-research/knowledge-graphs-retrieval-infrastructure-and-the-palantir-ontology-a-technical-tour-c1d7a663a944?source=rss------artificial_intelligence-5)**
+> 🔹 **[Querying Elasticsearch from Spring Boot Using the Official Java API Client](https://medium.com/@sundharamurali28/querying-elasticsearch-from-spring-boot-using-the-official-java-api-client-16921864eea5?source=rss------backend_development-5)**
+> 🔹 **[The Hive Mind? — Part 3](https://hobart-68445.medium.com/the-hive-mind-part-3-d1c30b6baec2?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Do Facebook and Google Count a Billion Ad Clicks a Day? Let’s Design It.](https://medium.com/@vermaayushbly/how-do-facebook-and-google-count-a-billion-ad-clicks-a-day-lets-design-it-a3a57ed2bd43?source=rss------system_design-5)**
+> 🔹 **[Claude Skills Are Portable Playbooks — Here Are the Ones Worth Installing](https://medium.com/@learn-simplified/claude-skills-are-portable-playbooks-here-are-the-ones-worth-installing-9b3039f8d078?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Now Writing Half the Code on Earth. The Developer Profession Will Never Be the Same.](https://medium.com/@prince.sh/ai-is-now-writing-half-the-code-on-earth-the-developer-profession-will-never-be-the-same-5d951b93a862?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Didn&#39;t Just Change How We Find Answers. It Changed How We Think.](https://medium.com/@wwwshamnas9145/ai-didnt-just-change-how-we-find-answers-it-changed-how-we-think-4c5a2cb17361?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI’s Compute War Just Went Public: June 29-July 3, 2026](https://medium.com/@mrudulgole/ais-compute-war-just-went-public-june-29-july-3-2026-b61fc18140a7?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
