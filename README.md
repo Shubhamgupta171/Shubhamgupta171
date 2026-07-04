@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Knowledge Graphs, Retrieval Infrastructure, and the Palantir Ontology: A Technical Tour](https://medium.com/@brian-curry-research/knowledge-graphs-retrieval-infrastructure-and-the-palantir-ontology-a-technical-tour-c1d7a663a944?source=rss------artificial_intelligence-5)**
-> 🔹 **[Querying Elasticsearch from Spring Boot Using the Official Java API Client](https://medium.com/@sundharamurali28/querying-elasticsearch-from-spring-boot-using-the-official-java-api-client-16921864eea5?source=rss------backend_development-5)**
-> 🔹 **[The Hive Mind? — Part 3](https://hobart-68445.medium.com/the-hive-mind-part-3-d1c30b6baec2?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Do Facebook and Google Count a Billion Ad Clicks a Day? Let’s Design It.](https://medium.com/@vermaayushbly/how-do-facebook-and-google-count-a-billion-ad-clicks-a-day-lets-design-it-a3a57ed2bd43?source=rss------system_design-5)**
-> 🔹 **[Claude Skills Are Portable Playbooks — Here Are the Ones Worth Installing](https://medium.com/@learn-simplified/claude-skills-are-portable-playbooks-here-are-the-ones-worth-installing-9b3039f8d078?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Now Writing Half the Code on Earth. The Developer Profession Will Never Be the Same.](https://medium.com/@prince.sh/ai-is-now-writing-half-the-code-on-earth-the-developer-profession-will-never-be-the-same-5d951b93a862?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Didn&#39;t Just Change How We Find Answers. It Changed How We Think.](https://medium.com/@wwwshamnas9145/ai-didnt-just-change-how-we-find-answers-it-changed-how-we-think-4c5a2cb17361?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI’s Compute War Just Went Public: June 29-July 3, 2026](https://medium.com/@mrudulgole/ais-compute-war-just-went-public-june-29-july-3-2026-b61fc18140a7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Fable 5 vs Claude Sonnet 5 — Which Model Actually Wins?](https://medium.com/@anil.futuristic/claude-fable-5-vs-claude-sonnet-5-which-model-actually-wins-98608f07991a?source=rss------artificial_intelligence-5)**
+> 🔹 **[System Design — 2.1 Networking Foundations: OSI Model](https://medium.com/@mridulmkumar07/system-design-2-1-networking-foundations-osi-model-e10ed522ba5c?source=rss------system_design-5)**
+> 🔹 **[7 Best Side Hustles 2026: How I Built a $2,500/Month Income Stream From Scratch](https://medium.com/@lurddavis2000/7-best-side-hustles-2026-how-i-built-a-2-500-month-income-stream-from-scratch-e8331d3f7392?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Very Best To All Of US.](https://medium.com/@jdb012357/the-very-best-to-all-of-us-19dbc59a98fc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Transformers Explained: The Architecture Powering Every LLM You Use](https://medium.com/@angadi.saa/transformers-explained-the-architecture-powering-every-llm-you-use-5aa4bda0e8f9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Chase Reiner AI Profits Review: What to Check Before Buying](https://medium.com/@thecourseverdict/chase-reiner-ai-profits-review-what-to-check-before-buying-3a7c15844800?source=rss------artificial_intelligence-5)**
+> 🔹 **[4 Layers of AI Agent Protocols You Can Deploy Today](https://medium.com/@rizwan1969r/4-layers-of-ai-agent-protocols-you-can-deploy-today-0d402021851f?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Measurement Systems to Decision Systems](https://medium.com/@karthik_prdmgr/from-measurement-systems-to-decision-systems-c3a4500f6c11?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
