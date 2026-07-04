@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[My Java Backend Learning Journey](https://medium.com/@acharyasonali2006/my-java-backend-learning-journey-0111a231a841?source=rss------backend_development-5)**
-> 🔹 **[The Engineer Who Got Promoted Knew Less Than Everyone Else](https://medium.com/codetodeploy/the-engineer-who-got-promoted-knew-less-than-everyone-else-4e90c38f8eea?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agents Beyond LLMs in a Loop](https://medium.com/@mahirg4/agents-beyond-llms-in-a-loop-eab6da96c369?source=rss------artificial_intelligence-5)**
-> 🔹 **[Good News! AI Is Creating More Jobs. The Guillotines Can Stay in Storage.](https://medium.com/ai-ai-oh/good-news-ai-is-creating-more-jobs-the-guillotines-can-stay-in-storage-a7dbb666ba28?source=rss------artificial_intelligence-5)**
-> 🔹 **[Bootnodes — And Why You Should Run One](https://medium.com/@sizov.workingbox/bootnodes-and-why-you-should-run-one-36584078c491?source=rss------artificial_intelligence-5)**
-> 🔹 **[Introducing SoftGen: Engineering Software for Modern Businesses](https://medium.com/@suportsoftgen/introducing-softgen-engineering-software-for-modern-businesses-8abd007517a7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Jupyter Is No More the Data Scientist’s Favorite Dashboard](https://medium.com/illumination/jupyter-is-no-more-the-data-scientists-favorite-dashboard-cd5b77c07892?source=rss------artificial_intelligence-5)**
-> 🔹 **[Design TinyURL: System Design Interview Guide for URL Shorteners](https://medium.com/@jeetsingh.ajit/design-tinyurl-system-design-interview-guide-for-url-shorteners-1fff2294e4ed?source=rss------backend_development-5)**
+> 🔹 **[The Women Who Built AI &lpar;And Got Written Out of Its History&rpar; — Women in AI](https://medium.com/@svnkrmkr/the-women-who-built-ai-and-got-written-out-of-its-history-women-in-ai-2d1de84710a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[A2A vs MCP: The Protocol Choice That Determines Your Agent Architecture](https://medium.com/@rosgluk/a2a-vs-mcp-the-protocol-choice-that-determines-your-agent-architecture-ef5950c4837f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Token Prices Fell 67 Percent and Your AI Bill Tripled Anyway](https://medium.com/data-science-collective/token-prices-fell-67-percent-and-your-ai-bill-tripled-anyway-08752216deb5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Military Skills That Transfer to Online Business](https://corranforce.medium.com/military-skills-that-transfer-to-online-business-ceb98c40e729?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Beginners Are Making Their First $500 with AI in 2026](https://medium.com/@sahidgulumz45/how-beginners-are-making-their-first-500-with-ai-in-2026-e7a5e02912ae?source=rss------artificial_intelligence-5)**
+> 🔹 **[Moving Autonomous Agents from Pilot to Production: Enterprise Best Practices &amp; Implementation…](https://medium.com/@vaishnavi.singh0324/moving-autonomous-agents-from-pilot-to-production-enterprise-best-practices-implementation-cc1b3ae266b6?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI and the Human Condition / 09](https://medium.com/@stella.stella.0369/ai-and-the-human-condition-09-86a1735d9b52?source=rss------artificial_intelligence-5)**
+> 🔹 **[Get Rid of the Indispensable Programmer, Even If It’s an AI](https://drpicox.medium.com/get-rid-of-the-indispensable-programmer-even-if-its-an-ai-b3f6fcbc3b95?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
