@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Claude Fable 5 vs Claude Sonnet 5 — Which Model Actually Wins?](https://medium.com/@anil.futuristic/claude-fable-5-vs-claude-sonnet-5-which-model-actually-wins-98608f07991a?source=rss------artificial_intelligence-5)**
-> 🔹 **[System Design — 2.1 Networking Foundations: OSI Model](https://medium.com/@mridulmkumar07/system-design-2-1-networking-foundations-osi-model-e10ed522ba5c?source=rss------system_design-5)**
-> 🔹 **[7 Best Side Hustles 2026: How I Built a $2,500/Month Income Stream From Scratch](https://medium.com/@lurddavis2000/7-best-side-hustles-2026-how-i-built-a-2-500-month-income-stream-from-scratch-e8331d3f7392?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Very Best To All Of US.](https://medium.com/@jdb012357/the-very-best-to-all-of-us-19dbc59a98fc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Transformers Explained: The Architecture Powering Every LLM You Use](https://medium.com/@angadi.saa/transformers-explained-the-architecture-powering-every-llm-you-use-5aa4bda0e8f9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Chase Reiner AI Profits Review: What to Check Before Buying](https://medium.com/@thecourseverdict/chase-reiner-ai-profits-review-what-to-check-before-buying-3a7c15844800?source=rss------artificial_intelligence-5)**
-> 🔹 **[4 Layers of AI Agent Protocols You Can Deploy Today](https://medium.com/@rizwan1969r/4-layers-of-ai-agent-protocols-you-can-deploy-today-0d402021851f?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Measurement Systems to Decision Systems](https://medium.com/@karthik_prdmgr/from-measurement-systems-to-decision-systems-c3a4500f6c11?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Java Backend Learning Journey](https://medium.com/@acharyasonali2006/my-java-backend-learning-journey-0111a231a841?source=rss------backend_development-5)**
+> 🔹 **[The Engineer Who Got Promoted Knew Less Than Everyone Else](https://medium.com/codetodeploy/the-engineer-who-got-promoted-knew-less-than-everyone-else-4e90c38f8eea?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agents Beyond LLMs in a Loop](https://medium.com/@mahirg4/agents-beyond-llms-in-a-loop-eab6da96c369?source=rss------artificial_intelligence-5)**
+> 🔹 **[Good News! AI Is Creating More Jobs. The Guillotines Can Stay in Storage.](https://medium.com/ai-ai-oh/good-news-ai-is-creating-more-jobs-the-guillotines-can-stay-in-storage-a7dbb666ba28?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bootnodes — And Why You Should Run One](https://medium.com/@sizov.workingbox/bootnodes-and-why-you-should-run-one-36584078c491?source=rss------artificial_intelligence-5)**
+> 🔹 **[Introducing SoftGen: Engineering Software for Modern Businesses](https://medium.com/@suportsoftgen/introducing-softgen-engineering-software-for-modern-businesses-8abd007517a7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Jupyter Is No More the Data Scientist’s Favorite Dashboard](https://medium.com/illumination/jupyter-is-no-more-the-data-scientists-favorite-dashboard-cd5b77c07892?source=rss------artificial_intelligence-5)**
+> 🔹 **[Design TinyURL: System Design Interview Guide for URL Shorteners](https://medium.com/@jeetsingh.ajit/design-tinyurl-system-design-interview-guide-for-url-shorteners-1fff2294e4ed?source=rss------backend_development-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
