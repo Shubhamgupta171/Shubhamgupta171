@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Women Who Built AI &lpar;And Got Written Out of Its History&rpar; — Women in AI](https://medium.com/@svnkrmkr/the-women-who-built-ai-and-got-written-out-of-its-history-women-in-ai-2d1de84710a0?source=rss------artificial_intelligence-5)**
-> 🔹 **[A2A vs MCP: The Protocol Choice That Determines Your Agent Architecture](https://medium.com/@rosgluk/a2a-vs-mcp-the-protocol-choice-that-determines-your-agent-architecture-ef5950c4837f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Token Prices Fell 67 Percent and Your AI Bill Tripled Anyway](https://medium.com/data-science-collective/token-prices-fell-67-percent-and-your-ai-bill-tripled-anyway-08752216deb5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Military Skills That Transfer to Online Business](https://corranforce.medium.com/military-skills-that-transfer-to-online-business-ceb98c40e729?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Beginners Are Making Their First $500 with AI in 2026](https://medium.com/@sahidgulumz45/how-beginners-are-making-their-first-500-with-ai-in-2026-e7a5e02912ae?source=rss------artificial_intelligence-5)**
-> 🔹 **[Moving Autonomous Agents from Pilot to Production: Enterprise Best Practices &amp; Implementation…](https://medium.com/@vaishnavi.singh0324/moving-autonomous-agents-from-pilot-to-production-enterprise-best-practices-implementation-cc1b3ae266b6?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI and the Human Condition / 09](https://medium.com/@stella.stella.0369/ai-and-the-human-condition-09-86a1735d9b52?source=rss------artificial_intelligence-5)**
-> 🔹 **[Get Rid of the Indispensable Programmer, Even If It’s an AI](https://drpicox.medium.com/get-rid-of-the-indispensable-programmer-even-if-its-an-ai-b3f6fcbc3b95?source=rss------artificial_intelligence-5)**
+> 🔹 **[Think You Can Pass Cambridge University’s Difficult Admission Test?](https://medium.com/math-games/think-you-can-pass-cambridge-universitys-difficult-admission-test-0d0a88512c1a?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Open Knowledge Format &lpar;OKF&rpar; Changes RAG: From Chunk Retrieval to Knowledge Retrieval](https://medium.com/@technephalem/how-open-knowledge-format-okf-changes-rag-from-chunk-retrieval-to-knowledge-retrieval-3db6492fa41c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Wisdom and Teachings of Jesus of Nazareth — An Alethic Analysis](https://medium.com/@jylterps/the-wisdom-and-teachings-of-jesus-of-nazareth-an-alethic-analysis-5427393af291?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence Now](https://medium.com/@aryansanghi008/artificial-intelligence-now-e8499e62dc1c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Create Viral TikTok Hooks That Increase Watch Time](https://medium.com/@d12277325/how-to-create-viral-tiktok-hooks-that-increase-watch-time-d6b1156435b7?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Stopped Waiting for My Desk. I Started Building Apps on My Commute.](https://medium.com/adi-insights-innovations-collective/i-stopped-waiting-for-my-desk-i-started-building-apps-on-my-commute-b8f22e645d9c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Day I Stopped Worrying AI Would Replace Marketers](https://medium.com/@mh.hasnat85/the-day-i-stopped-worrying-ai-would-replace-marketers-e2a98f82e457?source=rss------artificial_intelligence-5)**
+> 🔹 **[It’s all about framing.](https://michelle-wiles.medium.com/its-all-about-framing-318a8132070a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
