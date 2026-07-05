@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Think You Can Pass Cambridge University’s Difficult Admission Test?](https://medium.com/math-games/think-you-can-pass-cambridge-universitys-difficult-admission-test-0d0a88512c1a?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Open Knowledge Format &lpar;OKF&rpar; Changes RAG: From Chunk Retrieval to Knowledge Retrieval](https://medium.com/@technephalem/how-open-knowledge-format-okf-changes-rag-from-chunk-retrieval-to-knowledge-retrieval-3db6492fa41c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Wisdom and Teachings of Jesus of Nazareth — An Alethic Analysis](https://medium.com/@jylterps/the-wisdom-and-teachings-of-jesus-of-nazareth-an-alethic-analysis-5427393af291?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence Now](https://medium.com/@aryansanghi008/artificial-intelligence-now-e8499e62dc1c?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Create Viral TikTok Hooks That Increase Watch Time](https://medium.com/@d12277325/how-to-create-viral-tiktok-hooks-that-increase-watch-time-d6b1156435b7?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Stopped Waiting for My Desk. I Started Building Apps on My Commute.](https://medium.com/adi-insights-innovations-collective/i-stopped-waiting-for-my-desk-i-started-building-apps-on-my-commute-b8f22e645d9c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Day I Stopped Worrying AI Would Replace Marketers](https://medium.com/@mh.hasnat85/the-day-i-stopped-worrying-ai-would-replace-marketers-e2a98f82e457?source=rss------artificial_intelligence-5)**
-> 🔹 **[It’s all about framing.](https://michelle-wiles.medium.com/its-all-about-framing-318a8132070a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building VerdaTerraAI: A Multi-Sensory &amp; Policy-Aware Agentic Copilot for Civic Hygiene](https://medium.com/@siva_subramanian/building-verdaterraai-a-multi-sensory-policy-aware-agentic-copilot-for-civic-hygiene-5e99024c2013?source=rss------artificial_intelligence-5)**
+> 🔹 **[The man who can no longer see what is real and what that means for your decisions](https://peter-duliba.medium.com/the-man-who-can-no-longer-see-what-is-real-and-what-that-means-for-your-decisions-2aea47a0396a?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is Judgment Governance? The Missing Discipline in the Age of AI](https://medium.com/technology-hits/what-is-judgment-governance-the-missing-discipline-in-the-age-of-ai-1fb914405efb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Recruiters Ignore Mass Auto-Applications](https://guptatanmay18.medium.com/why-recruiters-ignore-mass-auto-applications-929f81161a2e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Transformer Architecture Explained: The Foundation of Modern Large Language Model](https://chvkrsubhash.medium.com/transformer-architecture-explained-the-foundation-of-modern-large-language-model-1fe9935a9c51?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Doesn’t Replace Decisions. It Redesigns Them.](https://medium.com/@karthik_prdmgr/ai-doesnt-replace-decisions-it-redesigns-them-ca73744e30d3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Great Product Teams Build Capabilities, Not Features](https://medium.com/@karthik_prdmgr/why-great-product-teams-build-capabilities-not-features-88aaabb62128?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI? Halah, Cuma Kalkulator!](https://andyriyan.medium.com/ai-halah-cuma-kalkulator-c7d9760bd606?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
