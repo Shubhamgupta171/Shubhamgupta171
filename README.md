@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Two-Order Epistemics: What Problem It Solves in Search, AI Overviews, and Machine-Readable…](https://medium.com/@AngelaBogdanovaDAP/two-order-epistemics-what-problem-it-solves-in-search-ai-overviews-and-machine-readable-f5c84de7f4a8?source=rss------artificial_intelligence-5)**
-> 🔹 **[What AI Is Actually Doing to Entry-Level Data Jobs in 2026](https://medium.com/@guleseharkhan915/what-ai-is-actually-doing-to-entry-level-data-jobs-in-2026-67e39175b4b1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Variables in Java](https://medium.com/@rajeshbhola/variables-in-java-bcd91b4c0bd6?source=rss------backend_development-5)**
-> 🔹 **[El manifiesto detrás de WAKE: Cómo reescribir las reglas del lujo urbano y proteger la propieda...](https://medium.com/@velezrestrepoalejandro/el-manifiesto-detr%C3%A1s-de-wake-c%C3%B3mo-reescribir-las-reglas-del-lujo-urbano-y-proteger-la-propiedad-0b87b6d688e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Democracy and AI Are on a Structural Collision Course](https://jakubjirak.medium.com/why-democracy-and-ai-are-on-a-structural-collision-course-5b64ea6f3212?source=rss------artificial_intelligence-5)**
-> 🔹 **[How not to burn out on AI: guide for creative teams](https://medium.com/@artificialstudioAI/how-not-to-burn-out-on-ai-guide-for-creative-teams-6a2ad2af2f35?source=rss------artificial_intelligence-5)**
-> 🔹 **[✨ 1-Click Rewriter Pro Review: The AI Content Transformation System That&#39;s Quietly Reshaping Ho...](https://medium.com/@snap.business.1100/1-click-rewriter-pro-review-the-ai-content-transformation-system-thats-quietly-reshaping-how-62921f14cdf6?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Case for the Ethical Treatment of AI Chatbots](https://brennanbrown.medium.com/a-case-for-the-ethical-treatment-of-ai-chatbots-b77783b7a858?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Anatomy of a Kafka Record: Keys, Partitions, and Why Size Matters](https://medium.com/@shubham.patel191295/the-anatomy-of-a-kafka-record-keys-partitions-and-why-size-matters-964733111b9b?source=rss------backend_development-5)**
+> 🔹 **[Information Existence Hypothesis v1.1: From Theory to Falsifiable Predictions](https://medium.com/@jacobsha_macro/information-existence-hypothesis-v1-1-from-theory-to-falsifiable-predictions-1f96690fffc1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Local LLM Performansını Nasıl Ölçeriz? Dünyada En Çok Kullanılan Metotlar](https://medium.com/@mertcan7aydogan/local-llm-performans%C4%B1n%C4%B1-nas%C4%B1l-%C3%B6l%C3%A7eriz-d%C3%BCnyada-en-%C3%A7ok-kullan%C4%B1lan-metotlar-2b2ef0da0484?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Case for a Canadian University AI Commons](https://medium.com/@educationotherwise/the-case-for-a-canadian-university-ai-commons-2e030fd5e6a7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Invisible Accumulation of Risk: When AI Agents Read Your Emails](https://medium.com/@g.cerenozkoc/the-invisible-accumulation-of-risk-when-ai-agents-read-your-emails-65012dc25e01?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bagging Explained: The Power of Learning Together](https://medium.com/@Siddharth23/bagging-explained-the-power-of-learning-together-f02cc6bb8471?source=rss------artificial_intelligence-5)**
+> 🔹 **[What your bank is actually asking for when it asks for portability](https://medium.com/@info_90506/what-your-bank-is-actually-asking-for-when-it-asks-for-portability-5717f942357d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Artificial Intelligence is Changing Jobs in 2026 &lpar;And What It Means for You&rpar;](https://medium.com/@wajihaparvez72/how-artificial-intelligence-is-changing-jobs-in-2026-and-what-it-means-for-you-f95d3aef3d02?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
