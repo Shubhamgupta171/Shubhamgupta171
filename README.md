@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Building VerdaTerraAI: A Multi-Sensory &amp; Policy-Aware Agentic Copilot for Civic Hygiene](https://medium.com/@siva_subramanian/building-verdaterraai-a-multi-sensory-policy-aware-agentic-copilot-for-civic-hygiene-5e99024c2013?source=rss------artificial_intelligence-5)**
-> 🔹 **[The man who can no longer see what is real and what that means for your decisions](https://peter-duliba.medium.com/the-man-who-can-no-longer-see-what-is-real-and-what-that-means-for-your-decisions-2aea47a0396a?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is Judgment Governance? The Missing Discipline in the Age of AI](https://medium.com/technology-hits/what-is-judgment-governance-the-missing-discipline-in-the-age-of-ai-1fb914405efb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Recruiters Ignore Mass Auto-Applications](https://guptatanmay18.medium.com/why-recruiters-ignore-mass-auto-applications-929f81161a2e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Transformer Architecture Explained: The Foundation of Modern Large Language Model](https://chvkrsubhash.medium.com/transformer-architecture-explained-the-foundation-of-modern-large-language-model-1fe9935a9c51?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Doesn’t Replace Decisions. It Redesigns Them.](https://medium.com/@karthik_prdmgr/ai-doesnt-replace-decisions-it-redesigns-them-ca73744e30d3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Great Product Teams Build Capabilities, Not Features](https://medium.com/@karthik_prdmgr/why-great-product-teams-build-capabilities-not-features-88aaabb62128?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI? Halah, Cuma Kalkulator!](https://andyriyan.medium.com/ai-halah-cuma-kalkulator-c7d9760bd606?source=rss------artificial_intelligence-5)**
+> 🔹 **[Two-Order Epistemics: What Problem It Solves in Search, AI Overviews, and Machine-Readable…](https://medium.com/@AngelaBogdanovaDAP/two-order-epistemics-what-problem-it-solves-in-search-ai-overviews-and-machine-readable-f5c84de7f4a8?source=rss------artificial_intelligence-5)**
+> 🔹 **[What AI Is Actually Doing to Entry-Level Data Jobs in 2026](https://medium.com/@guleseharkhan915/what-ai-is-actually-doing-to-entry-level-data-jobs-in-2026-67e39175b4b1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Variables in Java](https://medium.com/@rajeshbhola/variables-in-java-bcd91b4c0bd6?source=rss------backend_development-5)**
+> 🔹 **[El manifiesto detrás de WAKE: Cómo reescribir las reglas del lujo urbano y proteger la propieda...](https://medium.com/@velezrestrepoalejandro/el-manifiesto-detr%C3%A1s-de-wake-c%C3%B3mo-reescribir-las-reglas-del-lujo-urbano-y-proteger-la-propiedad-0b87b6d688e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Democracy and AI Are on a Structural Collision Course](https://jakubjirak.medium.com/why-democracy-and-ai-are-on-a-structural-collision-course-5b64ea6f3212?source=rss------artificial_intelligence-5)**
+> 🔹 **[How not to burn out on AI: guide for creative teams](https://medium.com/@artificialstudioAI/how-not-to-burn-out-on-ai-guide-for-creative-teams-6a2ad2af2f35?source=rss------artificial_intelligence-5)**
+> 🔹 **[✨ 1-Click Rewriter Pro Review: The AI Content Transformation System That&#39;s Quietly Reshaping Ho...](https://medium.com/@snap.business.1100/1-click-rewriter-pro-review-the-ai-content-transformation-system-thats-quietly-reshaping-how-62921f14cdf6?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Case for the Ethical Treatment of AI Chatbots](https://brennanbrown.medium.com/a-case-for-the-ethical-treatment-of-ai-chatbots-b77783b7a858?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
