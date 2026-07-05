@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Anatomy of a Kafka Record: Keys, Partitions, and Why Size Matters](https://medium.com/@shubham.patel191295/the-anatomy-of-a-kafka-record-keys-partitions-and-why-size-matters-964733111b9b?source=rss------backend_development-5)**
-> 🔹 **[Information Existence Hypothesis v1.1: From Theory to Falsifiable Predictions](https://medium.com/@jacobsha_macro/information-existence-hypothesis-v1-1-from-theory-to-falsifiable-predictions-1f96690fffc1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Local LLM Performansını Nasıl Ölçeriz? Dünyada En Çok Kullanılan Metotlar](https://medium.com/@mertcan7aydogan/local-llm-performans%C4%B1n%C4%B1-nas%C4%B1l-%C3%B6l%C3%A7eriz-d%C3%BCnyada-en-%C3%A7ok-kullan%C4%B1lan-metotlar-2b2ef0da0484?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Case for a Canadian University AI Commons](https://medium.com/@educationotherwise/the-case-for-a-canadian-university-ai-commons-2e030fd5e6a7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Invisible Accumulation of Risk: When AI Agents Read Your Emails](https://medium.com/@g.cerenozkoc/the-invisible-accumulation-of-risk-when-ai-agents-read-your-emails-65012dc25e01?source=rss------artificial_intelligence-5)**
-> 🔹 **[Bagging Explained: The Power of Learning Together](https://medium.com/@Siddharth23/bagging-explained-the-power-of-learning-together-f02cc6bb8471?source=rss------artificial_intelligence-5)**
-> 🔹 **[What your bank is actually asking for when it asks for portability](https://medium.com/@info_90506/what-your-bank-is-actually-asking-for-when-it-asks-for-portability-5717f942357d?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Artificial Intelligence is Changing Jobs in 2026 &lpar;And What It Means for You&rpar;](https://medium.com/@wajihaparvez72/how-artificial-intelligence-is-changing-jobs-in-2026-and-what-it-means-for-you-f95d3aef3d02?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If Gravity Were Just 10% Stronger?](https://medium.com/@catsic30/what-if-gravity-were-just-10-stronger-3b0bb1b80b68?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mascara, Unalive, Accountant: AI Moderation Is Teaching the Internet to Speak in Code](https://medium.com/@ps.augereau/mascara-unalive-accountant-ai-moderation-is-teaching-the-internet-to-speak-in-code-c8820cfd66ec?source=rss------artificial_intelligence-5)**
+> 🔹 **[Isolation Forest works better when you give it less data](https://medium.com/@veerarohithreddy/isolation-forest-works-better-when-you-give-it-less-data-952efe9e063d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cybersecurity as a Strategic Investment Frontier in Africa](https://medium.com/@Gloryuhu/cybersecurity-as-a-strategic-investment-frontier-in-africa-0d6748f7bd5e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Time for Sovereign AI is Now But the Hardware is No Longer Available](https://medium.com/jonathans-musings/the-time-for-sovereign-ai-is-now-but-the-hardware-is-no-longer-available-c1b49d0425e0?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Zero to Thread-Safe: Building the Foundation of a Distributed Key-Value Store](https://rahulch07.medium.com/from-zero-to-thread-safe-building-the-foundation-of-a-distributed-key-value-store-ad2ffc2f75d2?source=rss------system_design-5)**
+> 🔹 **[AI Is Making Us Faster, But Not Necessarily Better](https://medium.com/@media_52930/ai-is-making-us-faster-but-not-necessarily-better-25b4920bd527?source=rss------artificial_intelligence-5)**
+> 🔹 **[Blog about how I used Cognee’s memory feature into my project](https://medium.com/@shambhavi02006/blog-about-how-i-used-cognees-memory-feature-into-my-project-41139c1d9aa2?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
