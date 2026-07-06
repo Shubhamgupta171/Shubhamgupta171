@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your Website May Rank on Google. But Can ChatGPT Recommend Your Business?](https://medium.com/@digitalplatform271/your-website-may-rank-on-google-but-can-chatgpt-recommend-your-business-a71668ce5f3a?source=rss------artificial_intelligence-5)**
-> 🔹 **[What If the Future Remembered Everything...](https://hoernest1.medium.com/what-if-the-future-remembered-everything-3cdc48860c21?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Can’t Rent a Moat](https://medium.com/@tompapazoglou/you-cant-rent-a-moat-66ab05669763?source=rss------artificial_intelligence-5)**
-> 🔹 **[You’re using Claude wrong.](https://medium.com/@marocsofiane20/youre-using-claude-wrong-d893deb10a8a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The U-Turn: Why Ford Reversing Its AI Layoffs is a Massive Wake-Up Call](https://medium.com/the-tech-notes/the-u-turn-why-ford-reversing-its-ai-layoffs-is-a-massive-wake-up-call-065f611b5a54?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Choose the Right AI Development Company for Your Business](https://clarisco.medium.com/how-to-choose-the-right-ai-development-company-for-your-business-770e94bcf12f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the Frontend: Understanding Backend Development, REST APIs and Go Gin](https://medium.com/@petraclara20/beyond-the-frontend-understanding-backend-development-rest-apis-and-go-gin-4c2d728c5940?source=rss------backend_development-5)**
-> 🔹 **[I Tested 20 Claude AI Prompts for Writing This Week — Only 4 Saved Me Real Time &lpar;Here They Are&rpar;](https://medium.com/@ytzoom/i-tested-20-claude-ai-prompts-for-writing-this-week-only-4-saved-me-real-time-here-they-are-0d3b55249267?source=rss------artificial_intelligence-5)**
+> 🔹 **[An Aircraft Does Not Run Into the Motor. It Runs Into Weight](https://medium.com/@alzeollar8/an-aircraft-does-not-run-into-the-motor-it-runs-into-weight-dc84eb1fe788?source=rss------artificial_intelligence-5)**
+> 🔹 **[AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availa...](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/)**
+> 🔹 **[Weekly Notes for EdTech Platform Builders — July 6, 2026](https://medium.com/@benjaminmeindl/weekly-notes-for-edtech-platform-builders-july-6-2026-abb3902efe98?source=rss------artificial_intelligence-5)**
+> 🔹 **[An Algorithm Is Quietly Becoming Your Real Manager](https://medium.com/startup-insider-edge/an-algorithm-is-quietly-becoming-your-real-manager-c960813dc992?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Zero Nobody Taught Me to Look For](https://medium.com/@eric_54205/the-zero-nobody-taught-me-to-look-for-c91bd36b619c?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Rankings to Selection](https://medium.com/@oliver.oj.jordanov/from-rankings-to-selection-73e56a595f6a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Top Stories from NewBits Digest](https://medium.com/@newbits.ai/top-stories-from-newbits-digest-7cd8ae8de66f?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Didn’t Just Talk About It — We Built It: Connect’s First Half of 2026](https://medium.com/@connect.win/we-didnt-just-talk-about-it-we-built-it-connect-s-first-half-of-2026-f3241bf79830?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
