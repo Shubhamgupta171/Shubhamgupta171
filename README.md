@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What If Gravity Were Just 10% Stronger?](https://medium.com/@catsic30/what-if-gravity-were-just-10-stronger-3b0bb1b80b68?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mascara, Unalive, Accountant: AI Moderation Is Teaching the Internet to Speak in Code](https://medium.com/@ps.augereau/mascara-unalive-accountant-ai-moderation-is-teaching-the-internet-to-speak-in-code-c8820cfd66ec?source=rss------artificial_intelligence-5)**
-> 🔹 **[Isolation Forest works better when you give it less data](https://medium.com/@veerarohithreddy/isolation-forest-works-better-when-you-give-it-less-data-952efe9e063d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cybersecurity as a Strategic Investment Frontier in Africa](https://medium.com/@Gloryuhu/cybersecurity-as-a-strategic-investment-frontier-in-africa-0d6748f7bd5e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Time for Sovereign AI is Now But the Hardware is No Longer Available](https://medium.com/jonathans-musings/the-time-for-sovereign-ai-is-now-but-the-hardware-is-no-longer-available-c1b49d0425e0?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Zero to Thread-Safe: Building the Foundation of a Distributed Key-Value Store](https://rahulch07.medium.com/from-zero-to-thread-safe-building-the-foundation-of-a-distributed-key-value-store-ad2ffc2f75d2?source=rss------system_design-5)**
-> 🔹 **[AI Is Making Us Faster, But Not Necessarily Better](https://medium.com/@media_52930/ai-is-making-us-faster-but-not-necessarily-better-25b4920bd527?source=rss------artificial_intelligence-5)**
-> 🔹 **[Blog about how I used Cognee’s memory feature into my project](https://medium.com/@shambhavi02006/blog-about-how-i-used-cognees-memory-feature-into-my-project-41139c1d9aa2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Every UI/UX Designer Should Learn Design Systems](https://medium.com/@hersone/why-every-ui-ux-designer-should-learn-design-systems-6db2d642c5a2?source=rss------system_design-5)**
+> 🔹 **[10 Python Skills Every Developer Should Have Mastered Yesterday](https://blog.stackademic.com/10-python-skills-every-developer-should-have-mastered-yesterday-daa806a5fa66?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Algorithm Didn’t Make You Lazy, It Just Caught You Red-Handed](https://medium.com/perspective-matters/the-algorithm-didnt-make-you-lazy-it-just-caught-you-red-handed-70ba0823cd6f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 187 — Customizing UI in Backstage and Why It Is Valuable](https://medium.com/@alokrahuldevops/day-187-customizing-ui-in-backstage-and-why-it-is-valuable-1d36bd9c26cc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence Won’t Replace You — But Someone Using AI Might](https://medium.com/@kk3168876/artificial-intelligence-wont-replace-you-but-someone-using-ai-might-58b336edb5e9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building Your First LLM Training Pipeline: From Dataset to Model](https://chvkrsubhash.medium.com/building-your-first-llm-training-pipeline-from-dataset-to-model-945fdc9df5b6?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI-Powered SEO Tools Every Marketer Should Know](https://medium.com/@aishudigifoxpro/ai-powered-seo-tools-every-marketer-should-know-5ff1b922e8c8?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Ready. Most Materials Labs Aren’t.](https://medium.com/@myyeh4545/ai-is-ready-most-materials-labs-arent-c396dcef4f10?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
