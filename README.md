@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[An Aircraft Does Not Run Into the Motor. It Runs Into Weight](https://medium.com/@alzeollar8/an-aircraft-does-not-run-into-the-motor-it-runs-into-weight-dc84eb1fe788?source=rss------artificial_intelligence-5)**
-> 🔹 **[AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availa...](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/)**
-> 🔹 **[Weekly Notes for EdTech Platform Builders — July 6, 2026](https://medium.com/@benjaminmeindl/weekly-notes-for-edtech-platform-builders-july-6-2026-abb3902efe98?source=rss------artificial_intelligence-5)**
-> 🔹 **[An Algorithm Is Quietly Becoming Your Real Manager](https://medium.com/startup-insider-edge/an-algorithm-is-quietly-becoming-your-real-manager-c960813dc992?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Zero Nobody Taught Me to Look For](https://medium.com/@eric_54205/the-zero-nobody-taught-me-to-look-for-c91bd36b619c?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Rankings to Selection](https://medium.com/@oliver.oj.jordanov/from-rankings-to-selection-73e56a595f6a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Top Stories from NewBits Digest](https://medium.com/@newbits.ai/top-stories-from-newbits-digest-7cd8ae8de66f?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Didn’t Just Talk About It — We Built It: Connect’s First Half of 2026](https://medium.com/@connect.win/we-didnt-just-talk-about-it-we-built-it-connect-s-first-half-of-2026-f3241bf79830?source=rss------artificial_intelligence-5)**
+> 🔹 **[Digital Transformation Isn’t About Technology — It’s About Solving Real Business Problems](https://medium.com/@adhishdas22/digital-transformation-isnt-about-technology-it-s-about-solving-real-business-problems-49d4d06aca9d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Predicting AI Progress: Exploring Sharp-Edged and Rough-Edged Problems for Product Strategy](https://medium.com/@curiousmind1786/predicting-ai-progress-exploring-sharp-edged-and-rough-edged-problems-for-product-strategy-820100263d50?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tested RAG vs Fine-Tuning vs Long-Context on the Same Docs — the 1M-Token Window Collapsed at...](https://pub.towardsai.net/i-tested-rag-vs-fine-tuning-vs-long-context-on-the-same-docs-the-1m-token-window-collapsed-at-24x-0cf96ad88eee?source=rss------artificial_intelligence-5)**
+> 🔹 **[No, Pope Leo XIV Is Not Against Artificial Intelligence](https://medium.com/@victorsteuck/no-pope-leo-xiv-is-not-against-artificial-intelligence-953e416646ce?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Is Every CEO Suddenly Talking Like a Science Fiction Villain?](https://medium.com/the-haven/why-is-every-ceo-suddenly-talking-like-a-science-fiction-villain-94338b4b3c71?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI for Luddites: Should the Government Control AI?](https://medium.com/@r19slr/ai-for-luddites-should-the-government-control-ai-a00ee4246ab0?source=rss------artificial_intelligence-5)**
+> 🔹 **[بعد عام من الحوار الاستراتيجي... أوجدنا الحل لمشكلة التعليم العالمية.](https://medium.com/@b.mohamed31/%D8%A8%D8%B9%D8%AF-%D8%B9%D8%A7%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-%D8%A3%D9%88%D8%AC%D8%AF%D9%86%D8%A7-%D8%A7%D9%84%D8%AD%D9%84-%D9%84%D9%85%D8%B4%D9%83%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-cdba91366767?source=rss------artificial_intelligence-5)**
+> 🔹 **[Comment un hacker attaque votre système RAG en 2026](https://medium.com/@ntparis9/comment-un-hacker-attaque-votre-syst%C3%A8me-rag-en-2026-47f482a5233f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
