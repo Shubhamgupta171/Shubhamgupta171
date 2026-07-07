@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI Should Become Better at Being a Machine](https://medium.com/@InkHoyushun/ai-should-become-better-at-being-a-machine-201941624ba4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Has a Hidden “Thinking Space” It Built by Itself. Anthropic Just Learned to Read It.](https://medium.com/@lenner9090/claude-has-a-hidden-thinking-space-it-built-by-itself-anthropic-just-learned-to-read-it-aac4fba4a262?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Race Is Quietly Becoming a Data Sovereignty Race](https://medium.com/@yogi.kalra/the-ai-race-is-quietly-becoming-a-data-sovereignty-race-d2b582825515?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Everything Is Becoming a Loop](https://medium.com/@darren_83346/why-everything-is-becoming-a-loop-ad6d4c746775?source=rss------artificial_intelligence-5)**
-> 🔹 **[J-Space: The Hidden Coherence Layer Emerging Inside AI Systems](https://medium.com/@darren_83346/j-space-the-hidden-coherence-layer-emerging-inside-ai-systems-a7896c3946bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Future of Ethereum in the Next 5 Years: Why Ordinary People Must Need to Understand Lean Ch...](https://medium.com/@vanselavinia/the-future-of-ethereum-in-the-next-5-years-why-ordinary-people-must-need-to-understand-lean-chain-ffcf596d6d6a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Begin SEO with a beginner.](https://medium.com/@ojedelekayode8/begin-seo-with-a-beginner-9ef7427c44e6?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Security Risks of AI-Powered Web Applications: What Every Developer and Security Researcher...](https://medium.com/@0xAbhiSec/the-security-risks-of-ai-powered-web-applications-what-every-developer-and-security-researcher-dd9891a6e354?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why So Many AI Products Fail?](https://medium.com/@curiousmind1786/why-so-many-ai-products-fail-9192dbecfc78?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Employees Resist AI at Work](https://gilescrouch.medium.com/why-employees-resist-ai-at-work-580dd653de78?source=rss------artificial_intelligence-5)**
+> 🔹 **[Interview with the Devil](https://medium.com/@kaiom.t.303/interview-with-the-devil-367d6fdae4fd?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents Are Powerful, But Most People Are Building Them Wrong](https://uxplanet.org/ai-agents-are-powerful-but-most-people-are-building-them-wrong-a3012a297c7f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Janus Loop: A Conservative Improvement Loop for Coding Agents](https://cyberzen.medium.com/janus-loop-a-conservative-improvement-loop-for-coding-agents-1bb4b1e4a55b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic AI Pattern: Prompt Chaining](https://medium.com/agentic-ai-vantage/agentic-ai-pattern-prompt-chaining-7c1a9c868b93?source=rss------artificial_intelligence-5)**
+> 🔹 **[Port Authority Confirms Termination of the BIT56 / Muskingum Land Holdco Lease-Option Agreement](https://medium.com/@hollykellums/port-authority-confirms-termination-of-the-bit56-muskingum-land-holdco-lease-option-agreement-b00c1bf9647b?source=rss------artificial_intelligence-5)**
+> 🔹 **[DSA Part 1: Two-pointer](https://medium.com/daily-diaries/dsa-part-1-two-pointer-c73b590e6566?source=rss------data_structures-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
