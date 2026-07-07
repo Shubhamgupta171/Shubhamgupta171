@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Digital Transformation Isn’t About Technology — It’s About Solving Real Business Problems](https://medium.com/@adhishdas22/digital-transformation-isnt-about-technology-it-s-about-solving-real-business-problems-49d4d06aca9d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Predicting AI Progress: Exploring Sharp-Edged and Rough-Edged Problems for Product Strategy](https://medium.com/@curiousmind1786/predicting-ai-progress-exploring-sharp-edged-and-rough-edged-problems-for-product-strategy-820100263d50?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested RAG vs Fine-Tuning vs Long-Context on the Same Docs — the 1M-Token Window Collapsed at...](https://pub.towardsai.net/i-tested-rag-vs-fine-tuning-vs-long-context-on-the-same-docs-the-1m-token-window-collapsed-at-24x-0cf96ad88eee?source=rss------artificial_intelligence-5)**
-> 🔹 **[No, Pope Leo XIV Is Not Against Artificial Intelligence](https://medium.com/@victorsteuck/no-pope-leo-xiv-is-not-against-artificial-intelligence-953e416646ce?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Is Every CEO Suddenly Talking Like a Science Fiction Villain?](https://medium.com/the-haven/why-is-every-ceo-suddenly-talking-like-a-science-fiction-villain-94338b4b3c71?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI for Luddites: Should the Government Control AI?](https://medium.com/@r19slr/ai-for-luddites-should-the-government-control-ai-a00ee4246ab0?source=rss------artificial_intelligence-5)**
-> 🔹 **[بعد عام من الحوار الاستراتيجي... أوجدنا الحل لمشكلة التعليم العالمية.](https://medium.com/@b.mohamed31/%D8%A8%D8%B9%D8%AF-%D8%B9%D8%A7%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-%D8%A3%D9%88%D8%AC%D8%AF%D9%86%D8%A7-%D8%A7%D9%84%D8%AD%D9%84-%D9%84%D9%85%D8%B4%D9%83%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-cdba91366767?source=rss------artificial_intelligence-5)**
-> 🔹 **[Comment un hacker attaque votre système RAG en 2026](https://medium.com/@ntparis9/comment-un-hacker-attaque-votre-syst%C3%A8me-rag-en-2026-47f482a5233f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Tech Polarity Trap: When Pushing for Innovation Triggers Reactionary Resistance](https://medium.com/@fred.chan_92610/the-tech-polarity-trap-when-pushing-for-innovation-triggers-reactionary-resistance-f1eeedc1da97?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why 60% of Real Estate Agents Using AI Are Wasting Their Time](https://theshifthq.medium.com/why-60-of-real-estate-agents-using-ai-are-wasting-their-time-442860b931a8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Logging, Monitoring, and Observability: How Backend Engineers Understand Production Systems](https://medium.com/@shubhsalunkhe4199/logging-monitoring-and-observability-how-backend-engineers-understand-production-systems-861a6ab2b17d?source=rss------backend_development-5)**
+> 🔹 **[Your AI Chatbot Uses as Much Electricity as a Small Country.](https://medium.com/@rahulwale/your-ai-chatbot-uses-as-much-electricity-as-a-small-country-c5985344f9ef?source=rss------artificial_intelligence-5)**
+> 🔹 **[Smaller, Slower, Wrong: What Aggressive Quantization Costs On-Device Inference](https://medium.com/@merrickcr/smaller-slower-wrong-what-aggressive-quantization-costs-on-device-inference-85e7f8f0a170?source=rss------artificial_intelligence-5)**
+> 🔹 **[Repository Instructions vs. Prompt Files: What’s the Difference?](https://aiqualityengineer.cc/repository-instructions-vs-prompt-files-whats-the-difference-942654271323?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence](https://medium.com/@mariafaraqat496/artificial-intelligence-4b75dea213bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Can’t Own an Idea — And That’s Exactly Why You’re Afraid to Create](https://medium.com/@castieldgreat/you-cant-own-an-idea-and-that-s-exactly-why-you-re-afraid-to-create-582bc88de92c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
