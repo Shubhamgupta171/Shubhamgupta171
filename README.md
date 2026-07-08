@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[DTOs vs Entities: One of the Most Important Lessons for New Backend Developers](https://medium.com/from-tutorials-to-real-applications/dtos-vs-entities-one-of-the-most-important-lessons-for-new-backend-developers-83d25ed1112f?source=rss------backend_development-5)**
-> 🔹 **[How I Inserted 10 Million Records Without Writing a Single for Loop](https://medium.com/@pramod.er90/how-i-inserted-10-million-records-without-writing-a-single-for-loop-a03b2f1dea6f?source=rss------backend_development-5)**
-> 🔹 **[Como Três Jovens Mulheres Estão Impulsionando os Sistemas Energéticos na Ásia em Direção a…](https://medium.com/catalyst-now-igniting-systems-change/como-tr%C3%AAs-jovens-mulheres-est%C3%A3o-impulsionando-os-sistemas-energ%C3%A9ticos-na-%C3%A1sia-em-dire%C3%A7%C3%A3o-a-3522b541d8ac?source=rss------system_design-5)**
-> 🔹 **[Sensors That Show Where the Grid Starts to Get Tired](https://medium.com/@sherman-vaagen140/sensors-that-show-where-the-grid-starts-to-get-tired-4cebc71cc142?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Building Chatbots. Build the Platform Around the Agent.](https://medium.com/@nuno.roberto/stop-building-chatbots-build-the-platform-around-the-agent-f0dccb731eb0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Most people don’t need more motivation.](https://medium.com/@aryanstack7/most-people-dont-need-more-motivation-1c40769f6b06?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI and IoT Are Reshaping Commercial Construction](https://medium.com/@akihsay64/how-ai-and-iot-are-reshaping-commercial-construction-025531d44fa6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Muse Image, Meta’s Bet on Creating Images Without Leaving Its Apps](https://medium.com/@igna1999/muse-image-metas-bet-on-creating-images-without-leaving-its-apps-64142c270237?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Evolution of AI Engineering: From Better Prompts to Reliable AI Systems](https://medium.com/@d.isham.ai93/the-evolution-of-ai-engineering-from-better-prompts-to-reliable-ai-systems-36931a6c6de0?source=rss------artificial_intelligence-5)**
+> 🔹 **[SQL Sequences That Create Custom IDs](https://medium.com/@AlexanderObregon/sql-sequences-that-create-custom-ids-a15fb95e9dfb?source=rss------backend_development-5)**
+> 🔹 **[The Argument Against AI That We Keep Getting Wrong](https://medium.com/@jack.bowen/the-argument-against-ai-that-we-keep-getting-wrong-09c877c57c5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[跨界異花授粉：當LNG 統包案專案經理轉身讀起藝術修行與軟體系統設計](https://medium.com/@allenyeh.ce/%E8%B7%A8%E7%95%8C%E7%95%B0%E8%8A%B1%E6%8E%88%E7%B2%89-%E7%95%B6lng-%E7%B5%B1%E5%8C%85%E6%A1%88%E5%B0%88%E6%A1%88%E7%B6%93%E7%90%86%E8%BD%89%E8%BA%AB%E8%AE%80%E8%B5%B7%E8%97%9D%E8%A1%93%E4%BF%AE%E8%A1%8C%E8%88%87%E8%BB%9F%E9%AB%94%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88-3383b59ee650?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI is Reshaping the U.S. Economy. Where Does That Leave Micro‑Businesses?](https://medium.com/@preciousasogwo/ai-is-reshaping-the-u-s-economy-where-does-that-leave-micro-businesses-951e5475e9ca?source=rss------artificial_intelligence-5)**
+> 🔹 **[What “Evaluating an AI Agent” Actually Means](https://medium.com/@architchauhan/what-evaluating-an-ai-agent-actually-means-4ab16132a562?source=rss------artificial_intelligence-5)**
+> 🔹 **[Machine Learning Concepts Explained #6: Overfitting and Underfitting](https://medium.com/@bskky001/machine-learning-concepts-explained-6-overfitting-and-underfitting-4491c8978436?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Company That Amazon, Meta, and Apple Depend On](https://medium.com/@a1anjshy/the-hidden-company-that-amazon-meta-and-apple-depend-on-097513907ed3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
