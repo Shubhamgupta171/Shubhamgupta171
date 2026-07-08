@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why So Many AI Products Fail?](https://medium.com/@curiousmind1786/why-so-many-ai-products-fail-9192dbecfc78?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Employees Resist AI at Work](https://gilescrouch.medium.com/why-employees-resist-ai-at-work-580dd653de78?source=rss------artificial_intelligence-5)**
-> 🔹 **[Interview with the Devil](https://medium.com/@kaiom.t.303/interview-with-the-devil-367d6fdae4fd?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agents Are Powerful, But Most People Are Building Them Wrong](https://uxplanet.org/ai-agents-are-powerful-but-most-people-are-building-them-wrong-a3012a297c7f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Janus Loop: A Conservative Improvement Loop for Coding Agents](https://cyberzen.medium.com/janus-loop-a-conservative-improvement-loop-for-coding-agents-1bb4b1e4a55b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentic AI Pattern: Prompt Chaining](https://medium.com/agentic-ai-vantage/agentic-ai-pattern-prompt-chaining-7c1a9c868b93?source=rss------artificial_intelligence-5)**
-> 🔹 **[Port Authority Confirms Termination of the BIT56 / Muskingum Land Holdco Lease-Option Agreement](https://medium.com/@hollykellums/port-authority-confirms-termination-of-the-bit56-muskingum-land-holdco-lease-option-agreement-b00c1bf9647b?source=rss------artificial_intelligence-5)**
-> 🔹 **[DSA Part 1: Two-pointer](https://medium.com/daily-diaries/dsa-part-1-two-pointer-c73b590e6566?source=rss------data_structures-5)**
+> 🔹 **[System Design Masterclass &lpar;Part 11&rpar;: Resilience Patterns — Circuit Breakers, Retries, Timeouts...](https://medium.com/@ronomahedi/system-design-masterclass-part-11-resilience-patterns-circuit-breakers-retries-timeouts-d004a9f72608?source=rss------system_design-5)**
+> 🔹 **[System Design Masterclass &lpar;Part 11&rpar;: Resilience Patterns — Circuit Breakers, Retries, Timeouts...](https://medium.com/@ronomahedi/system-design-masterclass-part-11-resilience-patterns-circuit-breakers-retries-timeouts-d004a9f72608?source=rss------backend_development-5)**
+> 🔹 **[Colocando em prática conceitos de AI Engineering: construindo meu primeiro assistente de IA — P...](https://medium.com/@bianamello/colocando-em-pr%C3%A1tica-conceitos-de-ai-engineering-construindo-meu-primeiro-assistente-de-ia-parte-a3e09f7afa15?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI takes on the thinking process, how should humans exist? | Animotion Robotics](https://animotionrobotics.medium.com/when-ai-takes-on-the-thinking-process-how-should-humans-exist-animotion-robotics-6c9435fda307?source=rss------artificial_intelligence-5)**
+> 🔹 **[China AI Is Also an Inference Economics Story](https://medium.com/@chenrongrong392/china-ai-is-also-an-inference-economics-story-e7fa339889d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building AI Applications People Actually Use: Five Principles for Designing Human-Centered AI](https://medium.com/@khetanashita/building-ai-applications-people-actually-use-five-principles-for-designing-human-centered-ai-957cd4aec5b9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Before Adopting OpenAI Agents SDK, Write the Runtime Contract First](https://medium.com/@tangweigang/before-adopting-openai-agents-sdk-write-the-runtime-contract-first-c544eb3267c2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic AI in 2026: Why Your Next Hire Might Actually Be Code](https://miniiot.medium.com/agentic-ai-in-2026-why-your-next-hire-might-actually-be-code-3f1428e6599d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
