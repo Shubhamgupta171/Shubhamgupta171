@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Building ShopStream #1: I Followed the Idempotency Best Practice. My Code Still Wasn’t Idempote...](https://medium.com/@rushika.p07/building-shopstream-1-i-followed-the-idempotency-best-practice-my-code-still-wasnt-idempotent-8e48399ba4ee?source=rss------backend_development-5)**
-> 🔹 **[The Next Billion-Dollar Startup Might Have Just Five Employees](https://medium.com/@abiralmahafuz/the-next-billion-dollar-startup-might-have-just-five-employees-ce20663c8110?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Much Does It Cost to Build an AI Chatbot for Your Business?](https://medium.com/@rrathnakar707/how-much-does-it-cost-to-build-an-ai-chatbot-for-your-business-3d98a0ef9704?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond AI: Why Trust Is Becoming the New Startup Advantage](https://blog.startupstash.com/beyond-ai-why-trust-is-becoming-the-new-startup-advantage-186c4bd1bb9b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Self-Training — Teaching a Model With Its Own Best Guesses](https://grahamjroy.medium.com/self-training-teaching-a-model-with-its-own-best-guesses-eeca5accd031?source=rss------artificial_intelligence-5)**
-> 🔹 **[Federate or Suffocate](https://medium.com/@szymonmichalik/federate-or-suffocate-27a4cf463f15?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Followed an AI Schedule for Seven Days Straight It Showed Me Something About Myself I Had Bee...](https://medium.com/@matiullahhamdard/i-followed-an-ai-schedule-for-seven-days-straight-it-showed-me-something-about-myself-i-had-been-3b543660f1bb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cursor vs Windsurf: The 2026 AI Code Editor Showdown &lpar;Which One Actually Ships?&rpar;](https://medium.com/@whatifseries2/cursor-vs-windsurf-the-2026-ai-code-editor-showdown-which-one-actually-ships-c99b3e07602a?source=rss------artificial_intelligence-5)**
+> 🔹 **[DTOs vs Entities: One of the Most Important Lessons for New Backend Developers](https://medium.com/from-tutorials-to-real-applications/dtos-vs-entities-one-of-the-most-important-lessons-for-new-backend-developers-83d25ed1112f?source=rss------backend_development-5)**
+> 🔹 **[How I Inserted 10 Million Records Without Writing a Single for Loop](https://medium.com/@pramod.er90/how-i-inserted-10-million-records-without-writing-a-single-for-loop-a03b2f1dea6f?source=rss------backend_development-5)**
+> 🔹 **[Como Três Jovens Mulheres Estão Impulsionando os Sistemas Energéticos na Ásia em Direção a…](https://medium.com/catalyst-now-igniting-systems-change/como-tr%C3%AAs-jovens-mulheres-est%C3%A3o-impulsionando-os-sistemas-energ%C3%A9ticos-na-%C3%A1sia-em-dire%C3%A7%C3%A3o-a-3522b541d8ac?source=rss------system_design-5)**
+> 🔹 **[Sensors That Show Where the Grid Starts to Get Tired](https://medium.com/@sherman-vaagen140/sensors-that-show-where-the-grid-starts-to-get-tired-4cebc71cc142?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Building Chatbots. Build the Platform Around the Agent.](https://medium.com/@nuno.roberto/stop-building-chatbots-build-the-platform-around-the-agent-f0dccb731eb0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Most people don’t need more motivation.](https://medium.com/@aryanstack7/most-people-dont-need-more-motivation-1c40769f6b06?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI and IoT Are Reshaping Commercial Construction](https://medium.com/@akihsay64/how-ai-and-iot-are-reshaping-commercial-construction-025531d44fa6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Muse Image, Meta’s Bet on Creating Images Without Leaving Its Apps](https://medium.com/@igna1999/muse-image-metas-bet-on-creating-images-without-leaving-its-apps-64142c270237?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
