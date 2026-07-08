@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[System Design Masterclass &lpar;Part 11&rpar;: Resilience Patterns — Circuit Breakers, Retries, Timeouts...](https://medium.com/@ronomahedi/system-design-masterclass-part-11-resilience-patterns-circuit-breakers-retries-timeouts-d004a9f72608?source=rss------system_design-5)**
-> 🔹 **[System Design Masterclass &lpar;Part 11&rpar;: Resilience Patterns — Circuit Breakers, Retries, Timeouts...](https://medium.com/@ronomahedi/system-design-masterclass-part-11-resilience-patterns-circuit-breakers-retries-timeouts-d004a9f72608?source=rss------backend_development-5)**
-> 🔹 **[Colocando em prática conceitos de AI Engineering: construindo meu primeiro assistente de IA — P...](https://medium.com/@bianamello/colocando-em-pr%C3%A1tica-conceitos-de-ai-engineering-construindo-meu-primeiro-assistente-de-ia-parte-a3e09f7afa15?source=rss------artificial_intelligence-5)**
-> 🔹 **[When AI takes on the thinking process, how should humans exist? | Animotion Robotics](https://animotionrobotics.medium.com/when-ai-takes-on-the-thinking-process-how-should-humans-exist-animotion-robotics-6c9435fda307?source=rss------artificial_intelligence-5)**
-> 🔹 **[China AI Is Also an Inference Economics Story](https://medium.com/@chenrongrong392/china-ai-is-also-an-inference-economics-story-e7fa339889d2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building AI Applications People Actually Use: Five Principles for Designing Human-Centered AI](https://medium.com/@khetanashita/building-ai-applications-people-actually-use-five-principles-for-designing-human-centered-ai-957cd4aec5b9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Before Adopting OpenAI Agents SDK, Write the Runtime Contract First](https://medium.com/@tangweigang/before-adopting-openai-agents-sdk-write-the-runtime-contract-first-c544eb3267c2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentic AI in 2026: Why Your Next Hire Might Actually Be Code](https://miniiot.medium.com/agentic-ai-in-2026-why-your-next-hire-might-actually-be-code-3f1428e6599d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building ShopStream #1: I Followed the Idempotency Best Practice. My Code Still Wasn’t Idempote...](https://medium.com/@rushika.p07/building-shopstream-1-i-followed-the-idempotency-best-practice-my-code-still-wasnt-idempotent-8e48399ba4ee?source=rss------backend_development-5)**
+> 🔹 **[The Next Billion-Dollar Startup Might Have Just Five Employees](https://medium.com/@abiralmahafuz/the-next-billion-dollar-startup-might-have-just-five-employees-ce20663c8110?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Much Does It Cost to Build an AI Chatbot for Your Business?](https://medium.com/@rrathnakar707/how-much-does-it-cost-to-build-an-ai-chatbot-for-your-business-3d98a0ef9704?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond AI: Why Trust Is Becoming the New Startup Advantage](https://blog.startupstash.com/beyond-ai-why-trust-is-becoming-the-new-startup-advantage-186c4bd1bb9b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Self-Training — Teaching a Model With Its Own Best Guesses](https://grahamjroy.medium.com/self-training-teaching-a-model-with-its-own-best-guesses-eeca5accd031?source=rss------artificial_intelligence-5)**
+> 🔹 **[Federate or Suffocate](https://medium.com/@szymonmichalik/federate-or-suffocate-27a4cf463f15?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Followed an AI Schedule for Seven Days Straight It Showed Me Something About Myself I Had Bee...](https://medium.com/@matiullahhamdard/i-followed-an-ai-schedule-for-seven-days-straight-it-showed-me-something-about-myself-i-had-been-3b543660f1bb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cursor vs Windsurf: The 2026 AI Code Editor Showdown &lpar;Which One Actually Ships?&rpar;](https://medium.com/@whatifseries2/cursor-vs-windsurf-the-2026-ai-code-editor-showdown-which-one-actually-ships-c99b3e07602a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
