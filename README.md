@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What “Agentic” Actually Means &lpar;And Why Most People Get It Wrong&rpar;](https://medium.com/@glennfernandes_22668/what-agentic-actually-means-and-why-most-people-get-it-wrong-8dc8d0d32d4e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Most Dangerous Default in AI Isn’t Speed. It’s Broken Trust.](https://medium.com/dotdev-by-dotcms/the-most-dangerous-default-in-ai-isnt-speed-it-s-broken-trust-cd49f80670dd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Quantum-Proofing the Future: How to Secure AI and Blockchain Systems](https://britblockchain.medium.com/quantum-proofing-the-future-how-to-secure-ai-and-blockchain-systems-d17436eb6aa1?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is an AI Agent? The Simplest Explanation for Beginners](https://arthirajendran.medium.com/what-is-an-ai-agent-the-simplest-explanation-for-beginners-e5006e50e1cf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Going Beyond Basics: A Complete Review of &#39;Mastering NLP From Foundations to Agents&#39;
-​How This…](https://medium.com/@MohammedIqram2026/going-beyond-basics-a-complete-review-of-mastering-nlp-from-foundations-to-agents-how-this-3060ce53467b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Anthropic’s Marketing Ops on Using Claude for Campaign Reporting — and How I Do the Same for Sm...](https://medium.com/@amarharolikar/anthropics-marketing-ops-on-using-claude-for-campaign-reporting-and-how-i-do-the-same-for-small-ea4370587b85?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Father Who Bears the Whole Signal](https://medium.com/@ryanmacl/the-father-who-bears-the-whole-signal-0b09d36bf9bd?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Leadership Experience Adds to Business Research](https://medium.com/soul-guided-systems/what-leadership-experience-adds-to-business-research-bdb6ad2a003b?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Making the Internet Sound Weird](https://medium.com/illumination/ai-is-making-the-internet-sound-weird-e2ff88167540?source=rss------artificial_intelligence-5)**
+> 🔹 **[# 7 ChatGPT Mistakes That Make Most People Get Bad Answers](https://medium.com/@ogunrindeayobami14/7-chatgpt-mistakes-that-make-most-people-get-bad-answers-1536843a903b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Generative Agents and Agentic AI: Building Virtual Humans That Remember, Decide, and Engage](https://medium.com/@curiousmind1786/generative-agents-and-agentic-ai-building-virtual-humans-that-remember-decide-and-engage-cf7abf07a05f?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Can Help With Almost Everything. But It Must Not Take Your Notes.](https://lucavettor.medium.com/ai-can-help-with-almost-everything-but-it-must-not-take-your-notes-e1f383ac74b7?source=rss------artificial_intelligence-5)**
+> 🔹 **[CLAUDE.md vs AGENTS.md vs SKILL.md: Which File Owns What in 2026](https://pub.towardsai.net/claude-md-vs-agents-md-vs-skill-md-which-file-owns-what-in-2026-13859378f56a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Terms of Service Are the New Constitution](https://hattyhats.medium.com/terms-of-service-are-the-new-constitution-2c6f67e18237?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Makes Us Human?](https://medium.com/illumination/what-makes-us-human-a6ac186b2b64?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Marketplace: The Smarter Way Businesses Can Get AI Work Done.](https://medium.com/@orm_35931/ai-marketplace-the-smarter-way-businesses-can-get-ai-work-done-d9f33bbdf048?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
