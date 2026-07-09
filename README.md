@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Artificial Intelligence: How AI Is Changing Our Daily Lives](https://medium.com/@rizwanjawaidjani/artificial-intelligence-how-ai-is-changing-our-daily-lives-6cb3e7d5ee7f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Sol System](https://jam2we5b3a.medium.com/the-sol-system-c05e5436e028?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Most Important Role in an AI-Assisted Product Organization Is Not What You Think.](https://www.designsystemscollective.com/the-most-important-role-in-an-ai-assisted-product-organization-is-not-what-you-think-595252fe3766?source=rss------system_design-5)**
-> 🔹 **[Claude Has a Silent Workspace. Anthropic Just Found It](https://medium.com/@umairsyedahmed282/claude-has-a-silent-workspace-anthropic-just-found-it-158369364176?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why CBAM Is Making Carbon Intelligence the New Business Currency](https://medium.com/@anandv_62921/why-cbam-is-making-carbon-intelligence-the-new-business-currency-ad6cb397d35c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI That Out-Forecasted Europe’s Best Supercomputers-Using a Single Chip](https://medium.com/@shuchipandey2020/the-ai-that-out-forecasted-europes-best-supercomputers-using-a-single-chip-a002e6a60598?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is an AI Agent?](https://medium.com/@dztran/what-is-an-ai-agent-d76bd6e6433a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Paying the AI Tax: Every Technical Trick That Cuts Your LLM Bill Without Killing Quality](https://medium.com/data-science-collective/stop-paying-the-ai-tax-every-technical-trick-that-cuts-your-llm-bill-without-killing-quality-388d39398910?source=rss------artificial_intelligence-5)**
+> 🔹 **[NEURALINK: The Brain Chip That Is Actually Working](https://medium.com/technology-hits/neuralink-the-brain-chip-that-is-actually-working-c0e31fc76b48?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gaming laptop charger](https://medium.com/@miltonjcurry606/gaming-laptop-charger-32e5608326cd?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI-Powered Manager: How to Automate Your Own Job](https://medium.com/@joom/ai-powered-manager-automate-your-own-job-248dd5bedd3f?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Learn Artificial Intelligence from Scratch in 2026? Complete Guide](https://medium.com/@manpreetkour2825/how-to-learn-artificial-intelligence-from-scratch-59422584f701?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Let AI Run My Entire Workday. Here’s What Actually Happened.](https://medium.com/@harrypotter1257654/i-let-ai-run-my-entire-workday-heres-what-actually-happened-3b63e86be6d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why 60% of Loan Officers Fail in Their First Year — And How AI Can Help Them Build a Lead Pipel...](https://medium.com/@christina.martin88/why-60-of-loan-officers-fail-in-their-first-year-and-how-ai-can-help-them-build-a-lead-pipeline-eff172ee83b6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google Search Console Gen AI Performance Reports: Your First Real Signal in AI Search](https://medium.com/@n311311/google-search-console-gen-ai-performance-reports-your-first-real-signal-in-ai-search-110a5dbc15a1?source=rss------artificial_intelligence-5)**
+> 🔹 **[I used to spiral after bad interviews. Now I run a 24-hour repair plan](https://medium.com/@zskzskabcd/i-used-to-spiral-after-bad-interviews-now-i-run-a-24-hour-repair-plan-40f1c544aef8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
