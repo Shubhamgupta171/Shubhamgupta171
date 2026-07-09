@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Evolution of AI Engineering: From Better Prompts to Reliable AI Systems](https://medium.com/@d.isham.ai93/the-evolution-of-ai-engineering-from-better-prompts-to-reliable-ai-systems-36931a6c6de0?source=rss------artificial_intelligence-5)**
-> 🔹 **[SQL Sequences That Create Custom IDs](https://medium.com/@AlexanderObregon/sql-sequences-that-create-custom-ids-a15fb95e9dfb?source=rss------backend_development-5)**
-> 🔹 **[The Argument Against AI That We Keep Getting Wrong](https://medium.com/@jack.bowen/the-argument-against-ai-that-we-keep-getting-wrong-09c877c57c5c?source=rss------artificial_intelligence-5)**
-> 🔹 **[跨界異花授粉：當LNG 統包案專案經理轉身讀起藝術修行與軟體系統設計](https://medium.com/@allenyeh.ce/%E8%B7%A8%E7%95%8C%E7%95%B0%E8%8A%B1%E6%8E%88%E7%B2%89-%E7%95%B6lng-%E7%B5%B1%E5%8C%85%E6%A1%88%E5%B0%88%E6%A1%88%E7%B6%93%E7%90%86%E8%BD%89%E8%BA%AB%E8%AE%80%E8%B5%B7%E8%97%9D%E8%A1%93%E4%BF%AE%E8%A1%8C%E8%88%87%E8%BB%9F%E9%AB%94%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88-3383b59ee650?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI is Reshaping the U.S. Economy. Where Does That Leave Micro‑Businesses?](https://medium.com/@preciousasogwo/ai-is-reshaping-the-u-s-economy-where-does-that-leave-micro-businesses-951e5475e9ca?source=rss------artificial_intelligence-5)**
-> 🔹 **[What “Evaluating an AI Agent” Actually Means](https://medium.com/@architchauhan/what-evaluating-an-ai-agent-actually-means-4ab16132a562?source=rss------artificial_intelligence-5)**
-> 🔹 **[Machine Learning Concepts Explained #6: Overfitting and Underfitting](https://medium.com/@bskky001/machine-learning-concepts-explained-6-overfitting-and-underfitting-4491c8978436?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Company That Amazon, Meta, and Apple Depend On](https://medium.com/@a1anjshy/the-hidden-company-that-amazon-meta-and-apple-depend-on-097513907ed3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence: How AI Is Changing Our Daily Lives](https://medium.com/@rizwanjawaidjani/artificial-intelligence-how-ai-is-changing-our-daily-lives-6cb3e7d5ee7f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Sol System](https://jam2we5b3a.medium.com/the-sol-system-c05e5436e028?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Most Important Role in an AI-Assisted Product Organization Is Not What You Think.](https://www.designsystemscollective.com/the-most-important-role-in-an-ai-assisted-product-organization-is-not-what-you-think-595252fe3766?source=rss------system_design-5)**
+> 🔹 **[Claude Has a Silent Workspace. Anthropic Just Found It](https://medium.com/@umairsyedahmed282/claude-has-a-silent-workspace-anthropic-just-found-it-158369364176?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why CBAM Is Making Carbon Intelligence the New Business Currency](https://medium.com/@anandv_62921/why-cbam-is-making-carbon-intelligence-the-new-business-currency-ad6cb397d35c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI That Out-Forecasted Europe’s Best Supercomputers-Using a Single Chip](https://medium.com/@shuchipandey2020/the-ai-that-out-forecasted-europes-best-supercomputers-using-a-single-chip-a002e6a60598?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is an AI Agent?](https://medium.com/@dztran/what-is-an-ai-agent-d76bd6e6433a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Paying the AI Tax: Every Technical Trick That Cuts Your LLM Bill Without Killing Quality](https://medium.com/data-science-collective/stop-paying-the-ai-tax-every-technical-trick-that-cuts-your-llm-bill-without-killing-quality-388d39398910?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
