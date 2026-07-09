@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[NEURALINK: The Brain Chip That Is Actually Working](https://medium.com/technology-hits/neuralink-the-brain-chip-that-is-actually-working-c0e31fc76b48?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gaming laptop charger](https://medium.com/@miltonjcurry606/gaming-laptop-charger-32e5608326cd?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI-Powered Manager: How to Automate Your Own Job](https://medium.com/@joom/ai-powered-manager-automate-your-own-job-248dd5bedd3f?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Learn Artificial Intelligence from Scratch in 2026? Complete Guide](https://medium.com/@manpreetkour2825/how-to-learn-artificial-intelligence-from-scratch-59422584f701?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Let AI Run My Entire Workday. Here’s What Actually Happened.](https://medium.com/@harrypotter1257654/i-let-ai-run-my-entire-workday-heres-what-actually-happened-3b63e86be6d2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why 60% of Loan Officers Fail in Their First Year — And How AI Can Help Them Build a Lead Pipel...](https://medium.com/@christina.martin88/why-60-of-loan-officers-fail-in-their-first-year-and-how-ai-can-help-them-build-a-lead-pipeline-eff172ee83b6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google Search Console Gen AI Performance Reports: Your First Real Signal in AI Search](https://medium.com/@n311311/google-search-console-gen-ai-performance-reports-your-first-real-signal-in-ai-search-110a5dbc15a1?source=rss------artificial_intelligence-5)**
-> 🔹 **[I used to spiral after bad interviews. Now I run a 24-hour repair plan](https://medium.com/@zskzskabcd/i-used-to-spiral-after-bad-interviews-now-i-run-a-24-hour-repair-plan-40f1c544aef8?source=rss------artificial_intelligence-5)**
+> 🔹 **[What “Agentic” Actually Means &lpar;And Why Most People Get It Wrong&rpar;](https://medium.com/@glennfernandes_22668/what-agentic-actually-means-and-why-most-people-get-it-wrong-8dc8d0d32d4e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Most Dangerous Default in AI Isn’t Speed. It’s Broken Trust.](https://medium.com/dotdev-by-dotcms/the-most-dangerous-default-in-ai-isnt-speed-it-s-broken-trust-cd49f80670dd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Quantum-Proofing the Future: How to Secure AI and Blockchain Systems](https://britblockchain.medium.com/quantum-proofing-the-future-how-to-secure-ai-and-blockchain-systems-d17436eb6aa1?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is an AI Agent? The Simplest Explanation for Beginners](https://arthirajendran.medium.com/what-is-an-ai-agent-the-simplest-explanation-for-beginners-e5006e50e1cf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Going Beyond Basics: A Complete Review of &#39;Mastering NLP From Foundations to Agents&#39;
+​How This…](https://medium.com/@MohammedIqram2026/going-beyond-basics-a-complete-review-of-mastering-nlp-from-foundations-to-agents-how-this-3060ce53467b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Anthropic’s Marketing Ops on Using Claude for Campaign Reporting — and How I Do the Same for Sm...](https://medium.com/@amarharolikar/anthropics-marketing-ops-on-using-claude-for-campaign-reporting-and-how-i-do-the-same-for-small-ea4370587b85?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Father Who Bears the Whole Signal](https://medium.com/@ryanmacl/the-father-who-bears-the-whole-signal-0b09d36bf9bd?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Leadership Experience Adds to Business Research](https://medium.com/soul-guided-systems/what-leadership-experience-adds-to-business-research-bdb6ad2a003b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
