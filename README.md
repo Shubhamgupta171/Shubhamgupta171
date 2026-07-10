@@ -34,14 +34,16 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Artificial Intelligence Is Opening New Opportunities Across Industries](https://medium.com/@thajunnisaameen/why-artificial-intelligence-is-opening-new-opportunities-across-industries-a14779735af2?source=rss------artificial_intelligence-5)**
-> 🔹 **[$582 Billion Went Into AI. Here’s Who Actually Got It.](https://medium.com/@ritikrai489/582-billion-went-into-ai-heres-who-actually-got-it-341d111e4602?source=rss------artificial_intelligence-5)**
-> 🔹 **[NotebookLM for Writing: Keep Your First Draft](https://medium.com/@kombib/notebooklm-keep-your-first-draft-a74abb29e645?source=rss------artificial_intelligence-5)**
-> 🔹 **[SDD and automated documentation generation: when the spec becomes the source of truth](https://levelup.gitconnected.com/sdd-and-automated-documentation-generation-when-the-spec-becomes-the-source-of-truth-290c380daaac?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Is Transforming Recruitment: 10 Ways Recruiters Hire Faster in 2026](https://medium.com/@nazifatasneem2005/how-ai-is-transforming-recruitment-10-ways-recruiters-hire-faster-in-2026-bc71a7f47e03?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Projects: The Prompt Engineering Shortcut Nobody Talks About](https://medium.com/@naganalwar/claude-projects-the-prompt-engineering-shortcut-nobody-talks-about-8e258292b359?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Forecasting Works: A Plain-English Guide to Machines That Predict the Future](https://medium.com/@neuportalai/how-ai-forecasting-works-a-plain-english-guide-to-machines-that-predict-the-future-9a37fb42e3f7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Grok 4.5 Is Here, But the Real Story Is Not the Model. It Is the Agent War.](https://medium.com/@ziratest208/grok-4-5-is-here-but-the-real-story-is-not-the-model-it-is-the-agent-war-7914f5a9a8fb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Sharding Your Database. You Probably Just Need Better Indexes](https://medium.com/@maahisoft20/stop-sharding-your-database-you-probably-just-need-better-indexes-6d81541585bc?source=rss------backend_development-5)**
+> 🔹 **[PySpark for Beginners: Building Intermediate-Level Skills](https://towardsdatascience.com/pyspark-for-beginners-building-intermediate-level-skills/)**
+> 🔹 **[Best AI Models in July 2026: The Complete Comparison Guide](https://medium.com/@sanjeevpatel3007/best-ai-models-in-july-2026-the-complete-comparison-guide-51e3d9a0e5f4?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Agents Will Transform Business Operations by 2027](https://medium.com/@abhishekwritting/how-ai-agents-will-transform-business-operations-by-2027-3673f362b669?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Using AI Like an Employee. Start Using It Like a Board of Directors.](https://medium.com/@wildakier/stop-using-ai-like-an-employee-start-using-it-like-a-board-of-directors-7d9e630adeb8?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Future for Open Source AI in America?](https://medium.com/@AdamThierer/what-future-for-open-source-ai-in-america-93a7692fd331?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Built GhostRent OS From Scratch at 17 &lpar;Part 4&rpar;
+The Lessons, the Vision, and What’s Next
+B...](https://medium.com/@mosamahlangu/how-i-built-ghostrent-os-from-scratch-at-17-part-4-the-lessons-the-vision-and-whats-next-by-f3511179de81?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Guessing What Users Want: How AI Helps You Build Features Customers Actually Need](https://medium.com/@codermanstartup/stop-guessing-what-users-want-how-ai-helps-you-build-features-customers-actually-need-7263fc168f96?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
