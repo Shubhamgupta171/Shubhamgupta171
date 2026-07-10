@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Beyond TSMC: Rethinking Kumamoto’s Role in the AI Economy](https://medium.com/@kimura2020/beyond-tsmc-rethinking-kumamotos-role-in-the-ai-economy-1b5a830ee29c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mit KI Geld verdienen: Meine ehrlichen Erfahrungen als Einsteiger und worauf es wirklich ankomm...](https://medium.com/@taekedevroom/mit-ki-geld-verdienen-meine-ehrlichen-erfahrungen-als-einsteiger-und-worauf-es-wirklich-ankommt-3639db6ce9f2?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Far Can Go Go? Building an Optimized LLM Tokenizer](https://medium.com/@2111rohan/how-far-can-go-go-building-an-optimized-llm-tokenizer-6dd41b054dea?source=rss------artificial_intelligence-5)**
-> 🔹 **[How B2B Segmentation Software Helps Companies Personalize Customer Experiences](https://medium.com/@startupeditor2023/how-b2b-segmentation-software-helps-companies-personalize-customer-experiences-198bbc204f4e?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Actually Remember the People You Message &lpar;Without Building a CRM&rpar;](https://medium.com/@alexandr.sergeyev/how-to-actually-remember-the-people-you-message-without-building-a-crm-8ae170037e59?source=rss------artificial_intelligence-5)**
-> 🔹 **[Machine Learning Concepts Explained #8: Cross-Validation](https://medium.com/@bskky001/machine-learning-concepts-explained-8-cross-validation-8a0822b6d18a?source=rss------artificial_intelligence-5)**
-> 🔹 **[How does AI help improve Core Web Vitals?](https://medium.com/@sharetonschool/how-does-ai-help-improve-core-web-vitals-993c21d767b0?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Added an AI Copilot to My Laravel App in 4 Hours — Without Breaking Anything That Was Alr...](https://sadiqueali.medium.com/how-i-added-an-ai-copilot-to-my-laravel-app-in-4-hours-without-breaking-anything-that-was-already-69661d751d39?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Artificial Intelligence Is Opening New Opportunities Across Industries](https://medium.com/@thajunnisaameen/why-artificial-intelligence-is-opening-new-opportunities-across-industries-a14779735af2?source=rss------artificial_intelligence-5)**
+> 🔹 **[$582 Billion Went Into AI. Here’s Who Actually Got It.](https://medium.com/@ritikrai489/582-billion-went-into-ai-heres-who-actually-got-it-341d111e4602?source=rss------artificial_intelligence-5)**
+> 🔹 **[NotebookLM for Writing: Keep Your First Draft](https://medium.com/@kombib/notebooklm-keep-your-first-draft-a74abb29e645?source=rss------artificial_intelligence-5)**
+> 🔹 **[SDD and automated documentation generation: when the spec becomes the source of truth](https://levelup.gitconnected.com/sdd-and-automated-documentation-generation-when-the-spec-becomes-the-source-of-truth-290c380daaac?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Transforming Recruitment: 10 Ways Recruiters Hire Faster in 2026](https://medium.com/@nazifatasneem2005/how-ai-is-transforming-recruitment-10-ways-recruiters-hire-faster-in-2026-bc71a7f47e03?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Projects: The Prompt Engineering Shortcut Nobody Talks About](https://medium.com/@naganalwar/claude-projects-the-prompt-engineering-shortcut-nobody-talks-about-8e258292b359?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Forecasting Works: A Plain-English Guide to Machines That Predict the Future](https://medium.com/@neuportalai/how-ai-forecasting-works-a-plain-english-guide-to-machines-that-predict-the-future-9a37fb42e3f7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Grok 4.5 Is Here, But the Real Story Is Not the Model. It Is the Agent War.](https://medium.com/@ziratest208/grok-4-5-is-here-but-the-real-story-is-not-the-model-it-is-the-agent-war-7914f5a9a8fb?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
