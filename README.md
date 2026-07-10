@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI Is Making the Internet Sound Weird](https://medium.com/illumination/ai-is-making-the-internet-sound-weird-e2ff88167540?source=rss------artificial_intelligence-5)**
-> 🔹 **[# 7 ChatGPT Mistakes That Make Most People Get Bad Answers](https://medium.com/@ogunrindeayobami14/7-chatgpt-mistakes-that-make-most-people-get-bad-answers-1536843a903b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Generative Agents and Agentic AI: Building Virtual Humans That Remember, Decide, and Engage](https://medium.com/@curiousmind1786/generative-agents-and-agentic-ai-building-virtual-humans-that-remember-decide-and-engage-cf7abf07a05f?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Can Help With Almost Everything. But It Must Not Take Your Notes.](https://lucavettor.medium.com/ai-can-help-with-almost-everything-but-it-must-not-take-your-notes-e1f383ac74b7?source=rss------artificial_intelligence-5)**
-> 🔹 **[CLAUDE.md vs AGENTS.md vs SKILL.md: Which File Owns What in 2026](https://pub.towardsai.net/claude-md-vs-agents-md-vs-skill-md-which-file-owns-what-in-2026-13859378f56a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Terms of Service Are the New Constitution](https://hattyhats.medium.com/terms-of-service-are-the-new-constitution-2c6f67e18237?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Makes Us Human?](https://medium.com/illumination/what-makes-us-human-a6ac186b2b64?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Marketplace: The Smarter Way Businesses Can Get AI Work Done.](https://medium.com/@orm_35931/ai-marketplace-the-smarter-way-businesses-can-get-ai-work-done-d9f33bbdf048?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond TSMC: Rethinking Kumamoto’s Role in the AI Economy](https://medium.com/@kimura2020/beyond-tsmc-rethinking-kumamotos-role-in-the-ai-economy-1b5a830ee29c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mit KI Geld verdienen: Meine ehrlichen Erfahrungen als Einsteiger und worauf es wirklich ankomm...](https://medium.com/@taekedevroom/mit-ki-geld-verdienen-meine-ehrlichen-erfahrungen-als-einsteiger-und-worauf-es-wirklich-ankommt-3639db6ce9f2?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Far Can Go Go? Building an Optimized LLM Tokenizer](https://medium.com/@2111rohan/how-far-can-go-go-building-an-optimized-llm-tokenizer-6dd41b054dea?source=rss------artificial_intelligence-5)**
+> 🔹 **[How B2B Segmentation Software Helps Companies Personalize Customer Experiences](https://medium.com/@startupeditor2023/how-b2b-segmentation-software-helps-companies-personalize-customer-experiences-198bbc204f4e?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Actually Remember the People You Message &lpar;Without Building a CRM&rpar;](https://medium.com/@alexandr.sergeyev/how-to-actually-remember-the-people-you-message-without-building-a-crm-8ae170037e59?source=rss------artificial_intelligence-5)**
+> 🔹 **[Machine Learning Concepts Explained #8: Cross-Validation](https://medium.com/@bskky001/machine-learning-concepts-explained-8-cross-validation-8a0822b6d18a?source=rss------artificial_intelligence-5)**
+> 🔹 **[How does AI help improve Core Web Vitals?](https://medium.com/@sharetonschool/how-does-ai-help-improve-core-web-vitals-993c21d767b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Added an AI Copilot to My Laravel App in 4 Hours — Without Breaking Anything That Was Alr...](https://sadiqueali.medium.com/how-i-added-an-ai-copilot-to-my-laravel-app-in-4-hours-without-breaking-anything-that-was-already-69661d751d39?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
