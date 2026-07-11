@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Integration of Artificial Intelligence into Daily Life: A Multidimensional Infrastructure a...](https://medium.com/@g7473782/the-integration-of-artificial-intelligence-into-daily-life-a-multidimensional-infrastructure-and-edd4ab19e7ba?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gemma 4 Technical Report: A Closer Look at the Future of Open-Weight Multimodal AI](https://medium.com/@josephfrancizz444/gemma-4-technical-report-a-closer-look-at-the-future-of-open-weight-multimodal-ai-3034ceef69d3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Founder’s Story — The Man That Scales Small Online Businessess.](https://medium.com/@lemuelmaraan/founders-story-the-man-that-scales-small-online-businessess-4798d109f653?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Offshore Development Center is Dead. Long Live the AI-Augmented ODC!](https://medium.com/@ashleymathias100/the-offshore-development-center-is-dead-long-live-the-ai-augmented-odc-49fd9ed5913f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Microsoft AI Skills Navigator: A Free Way to Build In-Demand AI Skills](https://brightmindai.medium.com/microsoft-ai-skills-navigator-a-free-way-to-build-in-demand-ai-skills-3fc134663faa?source=rss------artificial_intelligence-5)**
-> 🔹 **[3 Game-Changing AI Coding Assistants for Software Developers in 2026](https://medium.com/@aitoolsexpert/3-game-changing-ai-coding-assistants-for-software-developers-in-2026-621cd7edf560?source=rss------artificial_intelligence-5)**
-> 🔹 **[DSA From Zero to Hero #4: Sliding Window Variable Size Explained with Example](https://blog.stackademic.com/dsa-from-zero-to-hero-4-sliding-window-variable-size-explained-with-example-933f22ae3ef6?source=rss------data_structures-5)**
-> 🔹 **[Treat YouTube Like You Wish You’d Treated Bitcoin in 2013 Here’s the Exact Starting Sequence](https://medium.com/ai-tomorrow/treat-youtube-like-you-wish-youd-treated-bitcoin-in-2013-here-s-the-exact-starting-sequence-17c30808e76b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Curator of Forgotten Constellations](https://medium.com/@yuchuantseng/the-curator-of-forgotten-constellations-7b817077a777?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Obsidian vault is probably dead.](https://medium.com/@asifmohammadalfayed/your-obsidian-vault-is-probably-dead-1073b6c8a611?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Doesn’t Make Compiler Theory Obsolete. It Makes You Its Bottleneck](https://drpicox.medium.com/ai-doesnt-make-compiler-theory-obsolete-it-makes-you-its-bottleneck-d4e6be5e7ef1?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Didn’t Need Another AI Tool , I Needed a Better Business Mindset.](https://rasoolshah0072.medium.com/i-didnt-need-another-ai-tool-i-needed-a-better-business-mindset-ec6749f5909f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why I Chose Fable 5 Over GPT-5.6 SOL — and Don’t Regret It](https://medium.com/@leaduxAi/why-i-chose-fable-5-over-gpt-5-6-sol-and-dont-regret-it-b3701a1c0251?source=rss------artificial_intelligence-5)**
+> 🔹 **[Navigating the Maze: A Practical Guide to Uninformed Search Algorithms](https://medium.com/@nehalaftabwork/navigating-the-maze-a-practical-guide-to-uninformed-search-algorithms-0f5f0d0bdf68?source=rss------artificial_intelligence-5)**
+> 🔹 **[Earn money online with no investments to](https://medium.com/@shankarediga21/earn-money-online-with-no-investments-to-a8e51b129a4e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Backpressure: Cara Sistem Bilang “Pelan-Pelan Bang, Belum Sanggup”](https://medium.com/@saudinwahyudin/backpressure-cara-sistem-bilang-pelan-pelan-bang-belum-sanggup-cf552b064d87?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
