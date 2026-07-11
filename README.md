@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Curator of Forgotten Constellations](https://medium.com/@yuchuantseng/the-curator-of-forgotten-constellations-7b817077a777?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Obsidian vault is probably dead.](https://medium.com/@asifmohammadalfayed/your-obsidian-vault-is-probably-dead-1073b6c8a611?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Doesn’t Make Compiler Theory Obsolete. It Makes You Its Bottleneck](https://drpicox.medium.com/ai-doesnt-make-compiler-theory-obsolete-it-makes-you-its-bottleneck-d4e6be5e7ef1?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Didn’t Need Another AI Tool , I Needed a Better Business Mindset.](https://rasoolshah0072.medium.com/i-didnt-need-another-ai-tool-i-needed-a-better-business-mindset-ec6749f5909f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why I Chose Fable 5 Over GPT-5.6 SOL — and Don’t Regret It](https://medium.com/@leaduxAi/why-i-chose-fable-5-over-gpt-5-6-sol-and-dont-regret-it-b3701a1c0251?source=rss------artificial_intelligence-5)**
-> 🔹 **[Navigating the Maze: A Practical Guide to Uninformed Search Algorithms](https://medium.com/@nehalaftabwork/navigating-the-maze-a-practical-guide-to-uninformed-search-algorithms-0f5f0d0bdf68?source=rss------artificial_intelligence-5)**
-> 🔹 **[Earn money online with no investments to](https://medium.com/@shankarediga21/earn-money-online-with-no-investments-to-a8e51b129a4e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Backpressure: Cara Sistem Bilang “Pelan-Pelan Bang, Belum Sanggup”](https://medium.com/@saudinwahyudin/backpressure-cara-sistem-bilang-pelan-pelan-bang-belum-sanggup-cf552b064d87?source=rss------system_design-5)**
+> 🔹 **[Your Next Analytics Hire Shouldn’t Be Another Senior Analyst.](https://medium.com/@aggarwaladitya/your-next-analytics-hire-shouldnt-be-another-senior-analyst-55f338382ef2?source=rss------artificial_intelligence-5)**
+> 🔹 **[What I learned studying luxury with LVMH and why it changes how I think about any customer…](https://medium.com/@luarawork/what-i-learned-studying-luxury-with-lvmh-and-why-it-changes-how-i-think-about-any-customer-f2f4751572bb?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Second Reading of the UN AI Dialogue](https://medium.com/@deborahswatilall/a-second-reading-of-the-un-ai-dialogue-28eb1b637b9f?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Stopped Wasting Hours Debugging Angular 22 — These 6 AI Prompts Changed My Workflow &lpar;+ Bonus…](https://yogeshraghav3043.medium.com/i-stopped-wasting-hours-debugging-angular-22-these-6-ai-prompts-changed-my-workflow-bonus-49ec9e8825e2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why The Hell Are AI Tokens So Damn Expensive?](https://siliconvalleygradient.com/why-the-hell-are-ai-tokens-so-damn-expensive-4a1de0230c77?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google AI Is Quietly Changing Local Search: Insights From Analyzing Thousands of Local Business...](https://medium.com/@locationreviewx/google-ai-is-quietly-changing-local-search-insights-from-analysing-thousands-of-local-business-da62ff1014cb?source=rss------artificial_intelligence-5)**
+> 🔹 **[12 AI Tools That Save 10+ Hours a Week &lpar;Boost Productivity in 2026&rpar;](https://medium.com/@iam.victoria.brooks/12-ai-tools-that-save-10-hours-a-week-boost-productivity-in-2026-47bdf92f5f2e?source=rss------artificial_intelligence-5)**
+> 🔹 **[A filosofia por trás da inteligência artificial: Cyber-kantismo e Girardianismo sombrio](https://medium.com/@ricardo.evandro.martins./a-filosofia-por-tr%C3%A1s-da-intelig%C3%AAncia-artificial-cyber-kantismo-e-girardianismo-sombrio-a3807e3e665f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
