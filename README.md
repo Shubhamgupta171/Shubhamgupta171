@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Ghost Web: Why AI Agents Are Secretly Hiding 90% of the Internet From You](https://medium.com/@jeetlahauk/the-ghost-web-why-ai-agents-are-secretly-hiding-90-of-the-internet-from-you-8ac5fde13424?source=rss------artificial_intelligence-5)**
-> 🔹 **[Outgunned With Better Aim: How AI-Assisted Defense Beat an AI-Coordinated Attack](https://medium.com/@mcmullinalexius/outgunned-with-better-aim-how-ai-assisted-defense-beat-an-ai-coordinated-attack-e797e0be7c07?source=rss------artificial_intelligence-5)**
-> 🔹 **[HTTP QUERY Method Explained: Why GET and POST Aren’t Enough for Modern REST APIs](https://medium.com/@tuhinkairi/http-query-method-explained-why-get-and-post-arent-enough-for-modern-rest-apis-89e2373b2ece?source=rss------system_design-5)**
-> 🔹 **[HTTP QUERY Method Explained: Why GET and POST Aren’t Enough for Modern REST APIs](https://medium.com/@tuhinkairi/http-query-method-explained-why-get-and-post-arent-enough-for-modern-rest-apis-89e2373b2ece?source=rss------backend_development-5)**
-> 🔹 **[Daily Crypto Update: VishvaAlgoAI Finds 9 Long, 5 Short and 6 Neutral Verdicts](https://imbuedeskpicasso.medium.com/daily-crypto-update-vishvaalgoai-finds-9-long-5-short-and-6-neutral-verdicts-eb2961b6cc5f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Prompting Is Easy. Judgment Is Hard](https://medium.com/@mounika.konidala/prompting-is-easy-judgment-is-hard-66596272ec4b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Open-Source AI War Has a New Champion — And It’s Not Silicon Valley](https://medium.com/@karim2k/the-open-source-ai-war-has-a-new-champion-and-its-not-silicon-valley-b811c395b78f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Structure Is Not Meaning: The Architecture of Trustworthy Enterprise AI](https://medium.com/@asiddhartha/structure-is-not-meaning-the-architecture-of-trustworthy-enterprise-ai-2177a9e35573?source=rss------artificial_intelligence-5)**
+> 🔹 **[How OpenAI’s GPT-5.6 Family Turned Artificial Intelligence From an Answer Engine Into a Labor F...](https://medium.com/@davidsehyeonbaek/how-openais-gpt-5-6-family-turned-artificial-intelligence-from-an-answer-engine-into-a-labor-force-60146dc11f2b?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Usage Visibility Is Becoming a Product Discipline](https://medium.com/@liangxinhao047/ai-usage-visibility-is-becoming-a-product-discipline-134da7f7e106?source=rss------artificial_intelligence-5)**
+> 🔹 **[4 Ways to Find Where a Photo Was Taken](https://medium.com/@geoimagetagger/4-ways-to-find-where-a-photo-was-taken-7965693c7a29?source=rss------artificial_intelligence-5)**
+> 🔹 **[Context Is Becoming Infrastructure](https://medium.com/@rkmonarch/context-is-becoming-infrastructure-4518dfba382c?source=rss------artificial_intelligence-5)**
+> 🔹 **[19 Hidden Features To Unlock The True Potential Of Your Hermes Agent Setup](https://nitingavhane.medium.com/19-hidden-features-to-unlock-the-true-potential-of-your-hermes-agent-setup-467464db027c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The One Claude Skill That’s Talked Me Out of 11 Bad Decisions This Year](https://medium.com/@trends24/the-one-claude-skill-thats-talked-me-out-of-11-bad-decisions-this-year-c04c014b3c43?source=rss------artificial_intelligence-5)**
+> 🔹 **[88,000 Jobs Gone: The AI Layoff Numbers Nobody’s Talking About](https://medium.com/@kishan.kumar792/88-000-jobs-gone-the-ai-layoff-numbers-nobodys-talking-about-4e2e3b445b99?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Used ChatGPT for 30 Days — Here’s What Happened](https://medium.com/@fozlerabbi965760/i-used-chatgpt-for-30-days-heres-what-happened-92c38d222b8b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
