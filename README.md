@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Tube Magic AI: A Smarter Way to Grow Your YouTube Channel](https://medium.com/@su0555003/tube-magic-ai-a-smarter-way-to-grow-your-youtube-channel-38b4c8f500b5?source=rss------artificial_intelligence-5)**
-> 🔹 **[How the JavaScript Event Loop Behaves with async/await](https://medium.com/@praveenb0927/how-the-javascript-event-loop-behaves-with-async-await-ea78988f3ef2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Cosmic Audit](https://medium.com/@BoJackson/the-cosmic-audit-cb5e44431226?source=rss------artificial_intelligence-5)**
-> 🔹 **[The EXACT ML Project That Gets You Hired &lpar;Full Breakdown&rpar;](https://medium.com/@egorhowell/the-exact-ml-project-that-gets-you-hired-full-breakdown-230613be49a1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building Smarter Angular Applications with AI Powered Error Prediction and Recovery Techniques…](https://medium.com/@roshannavale7/building-smarter-angular-applications-with-ai-powered-error-prediction-and-recovery-techniques-df889ac54512?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Agents Forget What You Told Them: Active Memory Explained](https://ai.gopubby.com/why-ai-agents-forget-what-you-told-them-active-memory-explained-7feda6a1637b?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 Proven Ways to Make Money with AI Voice in 2026 &lpar;Beginner’s Guide&rpar;](https://medium.com/write-your-world/7-proven-ways-to-make-money-with-ai-voice-in-2026-beginners-guide-5f3f26ae6b10?source=rss------artificial_intelligence-5)**
-> 🔹 **[My $80 Orange Pi Runs a Dozen AI Agents. Here’s What Survived.](https://medium.com/@roman.kulish/my-80-orange-pi-runs-a-dozen-ai-agents-heres-what-survived-2f1a64793e1d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Discover AI: A Beginner’s Journey into Artificial Intelligence](https://medium.com/@hemavasudevan1986/discover-ai-a-beginners-journey-into-artificial-intelligence-21ce48349bee?source=rss------artificial_intelligence-5)**
+> 🔹 **[The New Tax Law Everyone’s Googling: What OBBBA Actually Changes for Your 2026 Money](https://medium.com/@fufanadeem/the-new-tax-law-everyones-googling-what-obbba-actually-changes-for-your-2026-money-6d647590f0e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI vs Human Marketers: Who Wins in 2026?](https://medium.com/@neilnirjon/ai-vs-human-marketers-who-wins-in-2026-8a4227f1c817?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is AI Really Making Work Faster?](https://medium.com/@chikara.01.2001/is-ai-really-making-work-faster-e6ee4531c770?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Model Won’t Stop Prompt Injection. Your Tool-Call Gate Will](https://medium.com/@sebuzdugan/the-model-wont-stop-prompt-injection-your-tool-call-gate-will-be85da797a9a?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPT Image and DALL-E API Pricing: Official OpenAI vs Ace Data Cloud &lpar;2026&rpar;](https://acedatacloud.medium.com/gpt-image-and-dall-e-api-pricing-official-openai-vs-ace-data-cloud-2026-5dfe25629e83?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Had 7 Open-Weight Models Write the Same Article — Model Scores Weren’t the Only Thing That…](https://medium.com/@master_58978/we-had-7-open-weight-models-write-the-same-article-model-scores-werent-the-only-thing-that-b4a404a63068?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Road to Unlimited Agent Memory — No RAG, No Papers, Just Markdown](https://xhinker.medium.com/the-road-to-unlimited-agent-memory-no-rag-no-papers-just-markdown-704e9258aa0a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
