@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Demystifying Support Vector Machines &lpar;SVM&rpar;: The Intuition, The Math, and The Magic](https://medium.com/@hamidmajeed929/demystifying-support-vector-machines-svm-the-intuition-the-math-and-the-magic-3cd1bc112359?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built an AI Assistant That Writes My Invoices, Proposals, and Client Emails — So I Don’t Have...](https://medium.com/@sharmin18april/i-built-an-ai-assistant-that-writes-my-invoices-proposals-and-client-emails-so-i-dont-have-to-ee68373c0bb4?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Use Suno AI to Make Nature Soundscapes : Rain, Forest, Ocean Prompts That Work](https://alex-hustler.medium.com/how-i-use-suno-ai-to-make-nature-soundscapes-rain-forest-ocean-prompts-that-work-5ddec3dc4069?source=rss------artificial_intelligence-5)**
-> 🔹 **[How the Pieces Fit: The Whole DeepScreen System in One Picture](https://medium.com/@mabd051104/how-the-pieces-fit-the-whole-deepscreen-system-in-one-picture-42126c5211e5?source=rss------system_design-5)**
-> 🔹 **[What AI Taught Me About Running a Company](https://medium.com/@RugiKavmahanga/what-ai-taught-me-about-running-a-company-ac963e929fee?source=rss------artificial_intelligence-5)**
-> 🔹 **[Tokens Are the New Bytes](https://medium.com/@DrFawadRauf/tokens-are-the-new-bytes-7c3524aca791?source=rss------artificial_intelligence-5)**
-> 🔹 **[Memory Is Not an Archive](https://medium.com/@unicornoptimist/memory-is-not-an-archive-afc655b5dcda?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 Nano Banana Prompts That Make You Look Like a Professional Photographer](https://medium.com/@sharmaagrima29/7-nano-banana-prompts-that-make-you-look-like-a-professional-photographer-420d0b5bd67b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building My Own Private AI Server on an Old Dell PC — Part 1](https://medium.com/@amr888131/building-my-own-private-ai-server-on-an-old-dell-pc-part-1-1796cd0218ca?source=rss------artificial_intelligence-5)**
+> 🔹 **[Yann LeCun Says Next AI Breakthrough is 2 Years Away](https://siliconvalleygradient.com/yann-lecun-says-next-ai-breakthrough-is-2-years-away-7a838c3004ec?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence: A Blessing or a Curse for the 21st-Century Engineer?](https://medium.com/@baguyyanickisaac/artificial-intelligence-a-blessing-or-a-curse-for-the-21st-century-engineer-d5f93838aec5?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tested GPT-5.6 Sol, Claude Fable 5, and Grok 4.5 for a Week — Here’s the Real Winner](https://medium.com/@ffguci8/i-tested-gpt-5-6-sol-claude-fable-5-and-grok-4-5-for-a-week-heres-the-real-winner-a0218519a87d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Sensorial Nexus](https://medium.com/@drleandroloriga/the-sensorial-nexus-9c286fd70329?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is Agentic Commerce? A Practical Guide for eCommerce Brands in 2026](https://medium.com/@maharshi.pancholi/what-is-agentic-commerce-a-practical-guide-for-ecommerce-brands-in-2026-33d212a794c9?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Has Become an Extension of My Brain &lpar;and I Love It&rpar;](https://medium.com/@lbomback/ai-has-become-an-extension-of-my-brain-and-i-love-it-a47eba0377f9?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is ZCode — and Why Is It Suddenly Becoming So Popular?](https://medium.com/@imprakashpatel/what-is-zcode-and-why-is-it-suddenly-becoming-so-popular-f8e884574eda?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
