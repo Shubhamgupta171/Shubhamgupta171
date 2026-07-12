@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your Next Analytics Hire Shouldn’t Be Another Senior Analyst.](https://medium.com/@aggarwaladitya/your-next-analytics-hire-shouldnt-be-another-senior-analyst-55f338382ef2?source=rss------artificial_intelligence-5)**
-> 🔹 **[What I learned studying luxury with LVMH and why it changes how I think about any customer…](https://medium.com/@luarawork/what-i-learned-studying-luxury-with-lvmh-and-why-it-changes-how-i-think-about-any-customer-f2f4751572bb?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Second Reading of the UN AI Dialogue](https://medium.com/@deborahswatilall/a-second-reading-of-the-un-ai-dialogue-28eb1b637b9f?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Stopped Wasting Hours Debugging Angular 22 — These 6 AI Prompts Changed My Workflow &lpar;+ Bonus…](https://yogeshraghav3043.medium.com/i-stopped-wasting-hours-debugging-angular-22-these-6-ai-prompts-changed-my-workflow-bonus-49ec9e8825e2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why The Hell Are AI Tokens So Damn Expensive?](https://siliconvalleygradient.com/why-the-hell-are-ai-tokens-so-damn-expensive-4a1de0230c77?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google AI Is Quietly Changing Local Search: Insights From Analyzing Thousands of Local Business...](https://medium.com/@locationreviewx/google-ai-is-quietly-changing-local-search-insights-from-analysing-thousands-of-local-business-da62ff1014cb?source=rss------artificial_intelligence-5)**
-> 🔹 **[12 AI Tools That Save 10+ Hours a Week &lpar;Boost Productivity in 2026&rpar;](https://medium.com/@iam.victoria.brooks/12-ai-tools-that-save-10-hours-a-week-boost-productivity-in-2026-47bdf92f5f2e?source=rss------artificial_intelligence-5)**
-> 🔹 **[A filosofia por trás da inteligência artificial: Cyber-kantismo e Girardianismo sombrio](https://medium.com/@ricardo.evandro.martins./a-filosofia-por-tr%C3%A1s-da-intelig%C3%AAncia-artificial-cyber-kantismo-e-girardianismo-sombrio-a3807e3e665f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Tube Magic AI: A Smarter Way to Grow Your YouTube Channel](https://medium.com/@su0555003/tube-magic-ai-a-smarter-way-to-grow-your-youtube-channel-38b4c8f500b5?source=rss------artificial_intelligence-5)**
+> 🔹 **[How the JavaScript Event Loop Behaves with async/await](https://medium.com/@praveenb0927/how-the-javascript-event-loop-behaves-with-async-await-ea78988f3ef2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Cosmic Audit](https://medium.com/@BoJackson/the-cosmic-audit-cb5e44431226?source=rss------artificial_intelligence-5)**
+> 🔹 **[The EXACT ML Project That Gets You Hired &lpar;Full Breakdown&rpar;](https://medium.com/@egorhowell/the-exact-ml-project-that-gets-you-hired-full-breakdown-230613be49a1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building Smarter Angular Applications with AI Powered Error Prediction and Recovery Techniques…](https://medium.com/@roshannavale7/building-smarter-angular-applications-with-ai-powered-error-prediction-and-recovery-techniques-df889ac54512?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Agents Forget What You Told Them: Active Memory Explained](https://ai.gopubby.com/why-ai-agents-forget-what-you-told-them-active-memory-explained-7feda6a1637b?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 Proven Ways to Make Money with AI Voice in 2026 &lpar;Beginner’s Guide&rpar;](https://medium.com/write-your-world/7-proven-ways-to-make-money-with-ai-voice-in-2026-beginners-guide-5f3f26ae6b10?source=rss------artificial_intelligence-5)**
+> 🔹 **[My $80 Orange Pi Runs a Dozen AI Agents. Here’s What Survived.](https://medium.com/@roman.kulish/my-80-orange-pi-runs-a-dozen-ai-agents-heres-what-survived-2f1a64793e1d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
