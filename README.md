@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Context Rot: Why Claude Code Sessions Decay, and How to Govern Them](https://towardsdatascience.com/governed-context-managing-context-rot-in-claude-code/)**
-> 🔹 **[Technology Evolves. Design Creates Coherence.](https://medium.com/@clairelee227/technology-evolves-design-creates-coherence-5e5f74217a21?source=rss------system_design-5)**
-> 🔹 **[Technology Evolves. Design Creates Coherence.](https://medium.com/@clairelee227/technology-evolves-design-creates-coherence-5e5f74217a21?source=rss------artificial_intelligence-5)**
-> 🔹 **[Do You Actually Need an AI Audit? 7 Warning Signs Your Chatbot Is Failing](https://medium.com/@dojolabs.main/do-you-actually-need-an-ai-audit-7-warning-signs-your-chatbot-is-failing-4e0a118049e4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best Fingerprint Browser for Teams: What to Evaluate After a Successful Demo](https://medium.com/@zhou41620/best-fingerprint-browser-for-teams-what-to-evaluate-after-a-successful-demo-bf2e749eb243?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nobody Is Firing You. They Are Just Not Hiring You.](https://ai.plainenglish.io/nobody-is-firing-you-they-are-just-not-hiring-you-c68d0a4689d0?source=rss------artificial_intelligence-5)**
-> 🔹 **[2026 Enterprise Data Recovery: What IT Teams Should Look For](https://medium.com/@potatobanana2026/2026-enterprise-data-recovery-what-it-teams-should-look-for-ff1349d33db1?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Week of Bugs: I Tried Building a Local AI Assistant](https://medium.com/@zhaoyunqi9901/a-week-of-bugs-i-tried-building-a-local-ai-assistant-1bae937a5003?source=rss------artificial_intelligence-5)**
+> 🔹 **[Brands Aren’t Hiring Marketers Anymore. They’re Hiring Algorithm Manipulators](https://medium.com/write-a-catalyst/brands-arent-hiring-marketers-anymore-they-re-hiring-algorithm-manipulators-b9d0941d09a4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building CLIP from Scratch with PyTorch: A Step-by-Step Guide to Vision-Language Models](https://medium.com/@satyamvatsa810/building-clip-from-scratch-with-pytorch-a-step-by-step-guide-to-vision-language-models-56adba1c4112?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI Launches GPT-Live Globally: Everything You Need to Know About ChatGPT’s Smartest Voice M...](https://medium.com/@albanovaz/openai-launches-gpt-live-globally-everything-you-need-to-know-about-chatgpts-smartest-voice-model-d5175aa8f4f0?source=rss------artificial_intelligence-5)**
+> 🔹 **[copy_directory_structure without copying the files inside from one Linux server to another](https://medium.com/@nirbhaysingh281/copy-directory-structure-without-copying-the-files-inside-from-one-linux-server-to-another-25332b464181?source=rss------artificial_intelligence-5)**
+> 🔹 **[GRC Is Having Its AI Moment: Why Compliance Is Becoming Business Intelligence](https://medium.com/@birvaraval38/grc-is-having-its-ai-moment-why-compliance-is-becoming-business-intelligence-29b44f68d5ed?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Actually Changed My Design Process](https://jamesljacobsen.medium.com/how-ai-actually-changed-my-design-process-fb3d24722474?source=rss------system_design-5)**
+> 🔹 **[ChatGPT Didn’t Fix My Health. It Helped Me Take It Back.](https://medium.com/creating-custom-gpts/chatgpt-didnt-fix-my-health-it-helped-me-take-it-back-3c51871514a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Pick Your Agent Framework by Its Core Abstraction, Not the Leaderboard](https://medium.com/@sebuzdugan/pick-your-agent-framework-by-its-core-abstraction-not-the-leaderboard-b0f6a2bc1e34?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
