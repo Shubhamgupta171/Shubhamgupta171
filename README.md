@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[“Can AI Have Ethics? A Philosopher’s View from the Global South”](https://medium.com/@dgustavopaula/can-ai-have-ethics-a-philosophers-view-from-the-global-south-2557f63f8df3?source=rss------artificial_intelligence-5)**
-> 🔹 **[When Algorithm Meets Machine: Why Japan Declared the Factory Floor a Security Asset](https://medium.com/@taeyeon.eom/when-algorithm-meets-machine-why-japan-declared-the-factory-floor-a-security-asset-b4b708f907da?source=rss------artificial_intelligence-5)**
-> 🔹 **[The double refund: why AI agents need exactly-once](https://medium.com/@sajjadumar/the-double-refund-why-ai-agents-need-exactly-once-319360705082?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Search Is Breaking Traditional Analytics: Why Businesses Need a New Way to Understand User…](https://linkstrackly.medium.com/ai-search-is-breaking-traditional-analytics-why-businesses-need-a-new-way-to-understand-user-749e26edef02?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Calling Agent Costs Less Than One Employee — And Does 10x More](https://medium.com/@rjconversa/ai-calling-agent-costs-less-than-one-employee-and-does-10x-more-dd1ab4c8475e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Artificial Intelligence Education Is Becoming Essential in a Digital World](https://medium.com/@thajunnisaameen/why-artificial-intelligence-education-is-becoming-essential-in-a-digital-world-c4c7edad2892?source=rss------artificial_intelligence-5)**
-> 🔹 **[Two Free Tabs, Zero Installs: Your First Data Science Project Starts Here](https://medium.com/@abeladamushumet/two-free-tabs-zero-installs-your-first-data-science-project-starts-here-3c952b60b9c6?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Artificial Intelligence Is Creating New Possibilities for Industry Growth](https://medium.com/@thajunnisaameen/how-artificial-intelligence-is-creating-new-possibilities-for-industry-growth-6a515ad2cba1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Context Rot: Why Claude Code Sessions Decay, and How to Govern Them](https://towardsdatascience.com/governed-context-managing-context-rot-in-claude-code/)**
+> 🔹 **[Technology Evolves. Design Creates Coherence.](https://medium.com/@clairelee227/technology-evolves-design-creates-coherence-5e5f74217a21?source=rss------system_design-5)**
+> 🔹 **[Technology Evolves. Design Creates Coherence.](https://medium.com/@clairelee227/technology-evolves-design-creates-coherence-5e5f74217a21?source=rss------artificial_intelligence-5)**
+> 🔹 **[Do You Actually Need an AI Audit? 7 Warning Signs Your Chatbot Is Failing](https://medium.com/@dojolabs.main/do-you-actually-need-an-ai-audit-7-warning-signs-your-chatbot-is-failing-4e0a118049e4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best Fingerprint Browser for Teams: What to Evaluate After a Successful Demo](https://medium.com/@zhou41620/best-fingerprint-browser-for-teams-what-to-evaluate-after-a-successful-demo-bf2e749eb243?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nobody Is Firing You. They Are Just Not Hiring You.](https://ai.plainenglish.io/nobody-is-firing-you-they-are-just-not-hiring-you-c68d0a4689d0?source=rss------artificial_intelligence-5)**
+> 🔹 **[2026 Enterprise Data Recovery: What IT Teams Should Look For](https://medium.com/@potatobanana2026/2026-enterprise-data-recovery-what-it-teams-should-look-for-ff1349d33db1?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Week of Bugs: I Tried Building a Local AI Assistant](https://medium.com/@zhaoyunqi9901/a-week-of-bugs-i-tried-building-a-local-ai-assistant-1bae937a5003?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
