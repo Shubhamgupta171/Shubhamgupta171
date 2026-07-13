@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Building My Own Private AI Server on an Old Dell PC — Part 1](https://medium.com/@amr888131/building-my-own-private-ai-server-on-an-old-dell-pc-part-1-1796cd0218ca?source=rss------artificial_intelligence-5)**
-> 🔹 **[Yann LeCun Says Next AI Breakthrough is 2 Years Away](https://siliconvalleygradient.com/yann-lecun-says-next-ai-breakthrough-is-2-years-away-7a838c3004ec?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence: A Blessing or a Curse for the 21st-Century Engineer?](https://medium.com/@baguyyanickisaac/artificial-intelligence-a-blessing-or-a-curse-for-the-21st-century-engineer-d5f93838aec5?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested GPT-5.6 Sol, Claude Fable 5, and Grok 4.5 for a Week — Here’s the Real Winner](https://medium.com/@ffguci8/i-tested-gpt-5-6-sol-claude-fable-5-and-grok-4-5-for-a-week-heres-the-real-winner-a0218519a87d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Sensorial Nexus](https://medium.com/@drleandroloriga/the-sensorial-nexus-9c286fd70329?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is Agentic Commerce? A Practical Guide for eCommerce Brands in 2026](https://medium.com/@maharshi.pancholi/what-is-agentic-commerce-a-practical-guide-for-ecommerce-brands-in-2026-33d212a794c9?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Has Become an Extension of My Brain &lpar;and I Love It&rpar;](https://medium.com/@lbomback/ai-has-become-an-extension-of-my-brain-and-i-love-it-a47eba0377f9?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is ZCode — and Why Is It Suddenly Becoming So Popular?](https://medium.com/@imprakashpatel/what-is-zcode-and-why-is-it-suddenly-becoming-so-popular-f8e884574eda?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Complete AI Model Guide &lpar;2026&rpar;: Which AI Model Should You Use for Every Task?](https://darshankacharedev.medium.com/the-complete-ai-model-guide-2026-which-ai-model-should-you-use-for-every-task-d96d1ec464d8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Fine-Tuning Everything — Use RAG Instead &lpar;And When Not To&rpar;](https://satyajeet-bansode.medium.com/stop-fine-tuning-everything-use-rag-instead-and-when-not-to-a555d482aeca?source=rss------artificial_intelligence-5)**
+> 🔹 **[分布式ID生成方案](https://medium.com/@liutianli2011/%E5%88%86%E5%B8%83%E5%BC%8Fid%E7%94%9F%E6%88%90%E6%96%B9%E6%A1%88-085af38b5c25?source=rss------backend_development-5)**
+> 🔹 **[AI Service Desk Automation: The Future of ITSM and Business Operations](https://medium.com/@msopsai/ai-service-desk-automation-the-future-of-itsm-and-business-operations-558e7388f4e9?source=rss------artificial_intelligence-5)**
+> 🔹 **[These 7 Python Libraries Replaced 2,000 Lines of My AI Boilerplate Code](https://python.plainenglish.io/these-7-python-libraries-replaced-2-000-lines-of-my-ai-boilerplate-code-b3745cb748ea?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Spent 6 Months Studying AI Search Engines. What We Found Scared Us Into Building a Product.](https://medium.com/@18307916767/we-spent-6-months-studying-ai-search-engines-what-we-found-scared-us-into-building-a-product-7af23a80d8a8?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Don’t Need an MBA to Build a Successful Career — Here’s What Actually Matters](https://medium.com/@markhub24/you-dont-need-an-mba-to-build-a-successful-career-here-s-what-actually-matters-e54f199d6f6a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Paying Full Price for AWS: How to Get Discounted AWS Credits at Up to 50% Off Before the N...](https://medium.com/@Credex_Marketplace/stop-paying-full-price-for-aws-how-to-get-discounted-aws-credits-at-up-to-50-off-before-the-next-82a61e1134e1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
