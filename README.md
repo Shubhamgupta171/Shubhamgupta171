@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Complete AI Model Guide &lpar;2026&rpar;: Which AI Model Should You Use for Every Task?](https://darshankacharedev.medium.com/the-complete-ai-model-guide-2026-which-ai-model-should-you-use-for-every-task-d96d1ec464d8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Fine-Tuning Everything — Use RAG Instead &lpar;And When Not To&rpar;](https://satyajeet-bansode.medium.com/stop-fine-tuning-everything-use-rag-instead-and-when-not-to-a555d482aeca?source=rss------artificial_intelligence-5)**
-> 🔹 **[分布式ID生成方案](https://medium.com/@liutianli2011/%E5%88%86%E5%B8%83%E5%BC%8Fid%E7%94%9F%E6%88%90%E6%96%B9%E6%A1%88-085af38b5c25?source=rss------backend_development-5)**
-> 🔹 **[AI Service Desk Automation: The Future of ITSM and Business Operations](https://medium.com/@msopsai/ai-service-desk-automation-the-future-of-itsm-and-business-operations-558e7388f4e9?source=rss------artificial_intelligence-5)**
-> 🔹 **[These 7 Python Libraries Replaced 2,000 Lines of My AI Boilerplate Code](https://python.plainenglish.io/these-7-python-libraries-replaced-2-000-lines-of-my-ai-boilerplate-code-b3745cb748ea?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Spent 6 Months Studying AI Search Engines. What We Found Scared Us Into Building a Product.](https://medium.com/@18307916767/we-spent-6-months-studying-ai-search-engines-what-we-found-scared-us-into-building-a-product-7af23a80d8a8?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Don’t Need an MBA to Build a Successful Career — Here’s What Actually Matters](https://medium.com/@markhub24/you-dont-need-an-mba-to-build-a-successful-career-here-s-what-actually-matters-e54f199d6f6a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Paying Full Price for AWS: How to Get Discounted AWS Credits at Up to 50% Off Before the N...](https://medium.com/@Credex_Marketplace/stop-paying-full-price-for-aws-how-to-get-discounted-aws-credits-at-up-to-50-off-before-the-next-82a61e1134e1?source=rss------artificial_intelligence-5)**
+> 🔹 **[“Can AI Have Ethics? A Philosopher’s View from the Global South”](https://medium.com/@dgustavopaula/can-ai-have-ethics-a-philosophers-view-from-the-global-south-2557f63f8df3?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Algorithm Meets Machine: Why Japan Declared the Factory Floor a Security Asset](https://medium.com/@taeyeon.eom/when-algorithm-meets-machine-why-japan-declared-the-factory-floor-a-security-asset-b4b708f907da?source=rss------artificial_intelligence-5)**
+> 🔹 **[The double refund: why AI agents need exactly-once](https://medium.com/@sajjadumar/the-double-refund-why-ai-agents-need-exactly-once-319360705082?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Search Is Breaking Traditional Analytics: Why Businesses Need a New Way to Understand User…](https://linkstrackly.medium.com/ai-search-is-breaking-traditional-analytics-why-businesses-need-a-new-way-to-understand-user-749e26edef02?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Calling Agent Costs Less Than One Employee — And Does 10x More](https://medium.com/@rjconversa/ai-calling-agent-costs-less-than-one-employee-and-does-10x-more-dd1ab4c8475e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Artificial Intelligence Education Is Becoming Essential in a Digital World](https://medium.com/@thajunnisaameen/why-artificial-intelligence-education-is-becoming-essential-in-a-digital-world-c4c7edad2892?source=rss------artificial_intelligence-5)**
+> 🔹 **[Two Free Tabs, Zero Installs: Your First Data Science Project Starts Here](https://medium.com/@abeladamushumet/two-free-tabs-zero-installs-your-first-data-science-project-starts-here-3c952b60b9c6?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Artificial Intelligence Is Creating New Possibilities for Industry Growth](https://medium.com/@thajunnisaameen/how-artificial-intelligence-is-creating-new-possibilities-for-industry-growth-6a515ad2cba1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
