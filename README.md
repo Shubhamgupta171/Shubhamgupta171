@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your Homepage Isn’t the Front Door Anymore](https://medium.com/@gpiushgupta/your-homepage-isnt-the-front-door-anymore-622e87b4fde1?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenAI Unveils GPT-Live: Voice AI That Feels Truly Conversational](https://medium.com/illumination-curated/openai-unveils-gpt-live-voice-ai-that-feels-truly-conversational-9918333428ff?source=rss------artificial_intelligence-5)**
-> 🔹 **[How You Turned One Notion Page Into a $1,400/Month Side Income &lpar;2026 Playbook&rpar;](https://nitingavhane.medium.com/how-you-turned-one-notion-page-into-a-1-400-month-side-income-2026-playbook-33d82f3bc11f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Apple’s Lawsuit Against OpenAI Is About Tooling, Not Software](https://medium.com/@noahbean3396/apples-lawsuit-against-openai-is-about-tooling-not-software-dbd6b0da92c7?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Thought Code RAG Was About Embeddings. It Turned Out to Be About Relationships](https://medium.com/@zainabmanzoor/i-thought-code-rag-was-about-embeddings-it-turned-out-to-be-about-relationships-3287413ee5e2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Peninsula That Studies After Dark](https://mario-the-legend.medium.com/the-peninsula-that-studies-after-dark-37a7190df71a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Majority Machine](https://medium.com/@djyoes/the-majority-machine-42f398acf4ee?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is The Era of Theoretical Whiteboard Interviews Collapsing &lpar;For AI Roles&rpar;](https://ai.plainenglish.io/is-the-era-of-theoretical-whiteboard-interviews-collapsing-for-ai-roles-9f84b4940fb8?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Do You Measure Design System Adoption Effectively?](https://medium.com/@marketingtd64/how-do-you-measure-design-system-adoption-effectively-4ac02b4a02a7?source=rss------system_design-5)**
+> 🔹 **[Nobody Made Me the Architect. The Tools Did.](https://sneharavindra.medium.com/nobody-made-me-the-architect-the-tools-did-951bb4a0e0bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Will Replace Processes, Not People](https://medium.com/@markhub24/why-ai-will-replace-processes-not-people-227628f9f0fe?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who Told It What to Want](https://medium.com/you-deployed-the-agent-now-whos-responsible/who-told-it-what-to-want-2185c74d2046?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building Practical AIoT Solutions That Solve Real Problems](https://medium.com/@najibkingms/building-practical-aiot-solutions-that-solve-real-problems-16dbf87c2cdd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Enterprise Knowledge Is Still Hidden Inside Documents](https://medium.com/@vanshikaranghe76/why-enterprise-knowledge-is-still-hidden-inside-documents-494c94cbb558?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Rank on AI Search Engines &lpar;Start With Google First&rpar;](https://medium.com/@preciouswrites537/how-to-rank-on-ai-search-engines-start-with-google-first-5a233302bc7e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Cheapest AI Model Is Not Always the Cheapest Workflow](https://medium.com/@yeallen441/the-cheapest-ai-model-is-not-always-the-cheapest-workflow-abef20b4fd41?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
