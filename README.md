@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How Do You Measure Design System Adoption Effectively?](https://medium.com/@marketingtd64/how-do-you-measure-design-system-adoption-effectively-4ac02b4a02a7?source=rss------system_design-5)**
-> 🔹 **[Nobody Made Me the Architect. The Tools Did.](https://sneharavindra.medium.com/nobody-made-me-the-architect-the-tools-did-951bb4a0e0bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Will Replace Processes, Not People](https://medium.com/@markhub24/why-ai-will-replace-processes-not-people-227628f9f0fe?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who Told It What to Want](https://medium.com/you-deployed-the-agent-now-whos-responsible/who-told-it-what-to-want-2185c74d2046?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building Practical AIoT Solutions That Solve Real Problems](https://medium.com/@najibkingms/building-practical-aiot-solutions-that-solve-real-problems-16dbf87c2cdd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Enterprise Knowledge Is Still Hidden Inside Documents](https://medium.com/@vanshikaranghe76/why-enterprise-knowledge-is-still-hidden-inside-documents-494c94cbb558?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Rank on AI Search Engines &lpar;Start With Google First&rpar;](https://medium.com/@preciouswrites537/how-to-rank-on-ai-search-engines-start-with-google-first-5a233302bc7e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Cheapest AI Model Is Not Always the Cheapest Workflow](https://medium.com/@yeallen441/the-cheapest-ai-model-is-not-always-the-cheapest-workflow-abef20b4fd41?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Build Effective AI Agents &lpar;Without the Hype&rpar;](https://medium.com/@ersandeepdwivedi/how-to-build-effective-ai-agents-without-the-hype-b977ae1b9644?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Don’t Need to Learn Everything to Make Your Game. You Need to Learn This Instead.](https://themoderngamedev.medium.com/you-dont-need-to-learn-everything-to-make-your-game-you-need-to-learn-this-instead-14168750e1da?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Website Passed Claude’s Search Test. It Might Still Fail the Other Two](https://mounirouhadi.medium.com/your-website-passed-claudes-search-test-it-might-still-fail-the-other-two-e990671f4afd?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Age of Uncompressed Thought Sharing: Introduction](https://medium.com/human-ai-coexistence-principles-for-a-symbiotic/the-age-of-uncompressed-thought-sharing-introduction-5eeff5b237bc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The “Final Piece” to Going Viral &lpar;Part 2 of 2&rpar;](https://medium.com/the-digital-contrarian/the-final-piece-to-going-viral-part-2-of-2-3e7fafde743b-108-3e7fafde743b?source=rss------artificial_intelligence-5)**
+> 🔹 **[You’ve Been Working for Google for Years — And You Never Got Paid](https://medium.com/@kavishbishnoi19/youve-been-working-for-google-for-years-and-you-never-got-paid-878653d36665?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Your Career Doesn’t Need More Hustle — It Needs More Energy](https://medium.com/@shadeface78/why-your-career-doesnt-need-more-hustle-it-needs-more-energy-46c804067d98?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond Vibe Coding: Embracing Agentic Engineering for Sustainable AI Development](https://medium.com/@netprogsdev/beyond-vibe-coding-embracing-agentic-engineering-for-sustainable-ai-development-04d164bf4443?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
