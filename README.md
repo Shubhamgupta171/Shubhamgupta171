@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Build Effective AI Agents &lpar;Without the Hype&rpar;](https://medium.com/@ersandeepdwivedi/how-to-build-effective-ai-agents-without-the-hype-b977ae1b9644?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Don’t Need to Learn Everything to Make Your Game. You Need to Learn This Instead.](https://themoderngamedev.medium.com/you-dont-need-to-learn-everything-to-make-your-game-you-need-to-learn-this-instead-14168750e1da?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Website Passed Claude’s Search Test. It Might Still Fail the Other Two](https://mounirouhadi.medium.com/your-website-passed-claudes-search-test-it-might-still-fail-the-other-two-e990671f4afd?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Age of Uncompressed Thought Sharing: Introduction](https://medium.com/human-ai-coexistence-principles-for-a-symbiotic/the-age-of-uncompressed-thought-sharing-introduction-5eeff5b237bc?source=rss------artificial_intelligence-5)**
-> 🔹 **[The “Final Piece” to Going Viral &lpar;Part 2 of 2&rpar;](https://medium.com/the-digital-contrarian/the-final-piece-to-going-viral-part-2-of-2-3e7fafde743b-108-3e7fafde743b?source=rss------artificial_intelligence-5)**
-> 🔹 **[You’ve Been Working for Google for Years — And You Never Got Paid](https://medium.com/@kavishbishnoi19/youve-been-working-for-google-for-years-and-you-never-got-paid-878653d36665?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Your Career Doesn’t Need More Hustle — It Needs More Energy](https://medium.com/@shadeface78/why-your-career-doesnt-need-more-hustle-it-needs-more-energy-46c804067d98?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond Vibe Coding: Embracing Agentic Engineering for Sustainable AI Development](https://medium.com/@netprogsdev/beyond-vibe-coding-embracing-agentic-engineering-for-sustainable-ai-development-04d164bf4443?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Tax AI Needs Verification, Not a Better Model.](https://medium.com/@ashutosh_veriprajna/why-tax-ai-needs-verification-not-a-better-model-fca1f4344efe?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Tax on “Free” AI-Generated Vector Art](https://medium.com/@smashingapps/the-hidden-tax-on-free-ai-generated-vector-art-2497793c85f7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future Developer Will Think More Than They Type](https://medium.com/@nagatomopedro05/the-future-developer-will-think-more-than-they-type-2b32b0815494?source=rss------artificial_intelligence-5)**
+> 🔹 **[“Only 10% of The Work Is AI”: The 5 Things Akili AI’s Shikoli Makatiani Shared On The CTRL + AL...](https://medium.com/@info_69483/only-10-of-the-work-is-ai-the-5-things-akili-ais-shikoli-makatiani-shared-on-the-ctrl-alt-541273520077?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Transformers to T5: How Text-to-Text Models Revolutionized NLP](https://medium.com/@pathakananya0108/from-transformers-to-t5-how-text-to-text-models-revolutionized-nlp-c3b2897d8d2e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Apple May Be Winning the AI Race by Refusing to Play It](https://medium.com/@trendwatchinsider/apple-may-be-winning-the-ai-race-by-refusing-to-play-it-2815c69bafc7?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI is the Baseline: Why Human Struggle is the New Luxury Good](https://medium.com/@jeetlahauk/ai-is-the-baseline-why-human-struggle-is-the-new-luxury-good-0eaecce8b0a6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Multi Agent Systems in Production: What Survives and What Breaks](https://medium.com/@mudassir00seven/multi-agent-systems-in-production-what-survives-and-what-breaks-27d07b8fcd78?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
