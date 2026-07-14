@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Brands Aren’t Hiring Marketers Anymore. They’re Hiring Algorithm Manipulators](https://medium.com/write-a-catalyst/brands-arent-hiring-marketers-anymore-they-re-hiring-algorithm-manipulators-b9d0941d09a4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building CLIP from Scratch with PyTorch: A Step-by-Step Guide to Vision-Language Models](https://medium.com/@satyamvatsa810/building-clip-from-scratch-with-pytorch-a-step-by-step-guide-to-vision-language-models-56adba1c4112?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenAI Launches GPT-Live Globally: Everything You Need to Know About ChatGPT’s Smartest Voice M...](https://medium.com/@albanovaz/openai-launches-gpt-live-globally-everything-you-need-to-know-about-chatgpts-smartest-voice-model-d5175aa8f4f0?source=rss------artificial_intelligence-5)**
-> 🔹 **[copy_directory_structure without copying the files inside from one Linux server to another](https://medium.com/@nirbhaysingh281/copy-directory-structure-without-copying-the-files-inside-from-one-linux-server-to-another-25332b464181?source=rss------artificial_intelligence-5)**
-> 🔹 **[GRC Is Having Its AI Moment: Why Compliance Is Becoming Business Intelligence](https://medium.com/@birvaraval38/grc-is-having-its-ai-moment-why-compliance-is-becoming-business-intelligence-29b44f68d5ed?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Actually Changed My Design Process](https://jamesljacobsen.medium.com/how-ai-actually-changed-my-design-process-fb3d24722474?source=rss------system_design-5)**
-> 🔹 **[ChatGPT Didn’t Fix My Health. It Helped Me Take It Back.](https://medium.com/creating-custom-gpts/chatgpt-didnt-fix-my-health-it-helped-me-take-it-back-3c51871514a0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Pick Your Agent Framework by Its Core Abstraction, Not the Leaderboard](https://medium.com/@sebuzdugan/pick-your-agent-framework-by-its-core-abstraction-not-the-leaderboard-b0f6a2bc1e34?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Homepage Isn’t the Front Door Anymore](https://medium.com/@gpiushgupta/your-homepage-isnt-the-front-door-anymore-622e87b4fde1?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI Unveils GPT-Live: Voice AI That Feels Truly Conversational](https://medium.com/illumination-curated/openai-unveils-gpt-live-voice-ai-that-feels-truly-conversational-9918333428ff?source=rss------artificial_intelligence-5)**
+> 🔹 **[How You Turned One Notion Page Into a $1,400/Month Side Income &lpar;2026 Playbook&rpar;](https://nitingavhane.medium.com/how-you-turned-one-notion-page-into-a-1-400-month-side-income-2026-playbook-33d82f3bc11f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Apple’s Lawsuit Against OpenAI Is About Tooling, Not Software](https://medium.com/@noahbean3396/apples-lawsuit-against-openai-is-about-tooling-not-software-dbd6b0da92c7?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Thought Code RAG Was About Embeddings. It Turned Out to Be About Relationships](https://medium.com/@zainabmanzoor/i-thought-code-rag-was-about-embeddings-it-turned-out-to-be-about-relationships-3287413ee5e2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Peninsula That Studies After Dark](https://mario-the-legend.medium.com/the-peninsula-that-studies-after-dark-37a7190df71a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Majority Machine](https://medium.com/@djyoes/the-majority-machine-42f398acf4ee?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is The Era of Theoretical Whiteboard Interviews Collapsing &lpar;For AI Roles&rpar;](https://ai.plainenglish.io/is-the-era-of-theoretical-whiteboard-interviews-collapsing-for-ai-roles-9f84b4940fb8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
