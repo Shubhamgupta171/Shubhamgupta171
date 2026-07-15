@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Designing a Monitoring Platform Developers Actually Want to Use](https://medium.com/@payal.codes/designing-a-monitoring-platform-developers-actually-want-to-use-e27b7e2d07d4?source=rss------backend_development-5)**
-> 🔹 **[AI Can Improve Your System Design Interview Preparation](https://scottcmcmahan.medium.com/ai-can-improve-your-system-design-interview-preparation-a7e20164d986?source=rss------artificial_intelligence-5)**
-> 🔹 **[Obsidian’s CEO Just Open-Sourced the Claude Code Skills He Uses on His Own Vault](https://medium.com/ai-systems-lab/obsidians-ceo-just-open-sourced-the-claude-code-skills-he-uses-on-his-own-vault-57b3a4d5bc7e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Slopsquatting-AI-Generated Code Just Created a New Attack Surface.](https://swarnenduiitb2020i.medium.com/slopsquatting-ai-generated-code-just-created-a-new-attack-surface-8b4c9c26bf14?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Happens When AI Meets Healthcare?](https://ai.plainenglish.io/what-happens-when-ai-meets-healthcare-66bde233fc29?source=rss------artificial_intelligence-5)**
-> 🔹 **[ML Fundamentals #4: Feature Scaling — When It Matters, When It Doesn’t, and Why](https://medium.com/@banerjeevictor06/ml-fundamentals-4-feature-scaling-when-it-matters-when-it-doesnt-and-why-c60c01e1c310?source=rss------artificial_intelligence-5)**
-> 🔹 **[Essay · July 2026](https://medium.com/@hal9050x/essay-july-2026-597c14e5c819?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Let AI Run My Workweek for 30 Days — Here’s What It Couldn’t Do](https://medium.com/@syedatanzila17/i-let-ai-run-my-workweek-for-30-days-heres-what-it-couldn-t-do-099e78071365?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Outlook Thought Our Physician Worked Somewhere Else](https://medium.com/@mxsewell/when-outlook-thought-our-physician-worked-somewhere-else-8525f32a480d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Understanding the 12-Factor App Through Simple Real-World Examples](https://medium.com/@iaravinda33/understanding-the-12-factor-app-through-simple-real-world-examples-7ed30dd63a4e?source=rss------system_design-5)**
+> 🔹 **[3 Things a Founder Loses When AI Runs the Whole Business](https://thechrisverse.medium.com/3-things-a-founder-loses-when-ai-runs-the-whole-business-ed82680fe835?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Careers That Will Survive The AI Revolution](https://medium.com/@karenbecker_90627/5-careers-that-will-survive-the-ai-revolution-f28bf5aace36?source=rss------artificial_intelligence-5)**
+> 🔹 **[Anthropic May Have Built the Best Model. OpenAI Built the Better Product.](https://medium.com/@TheTechPencil/anthropic-may-have-built-the-best-model-openai-built-the-better-product-ce6b359ea5d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Diagonal Limit of Guaranteed Inference in Infinite Generator Spaces](https://medium.com/@mdshazrishahrir/the-diagonal-limit-of-guaranteed-inference-in-infinite-generator-spaces-b8d16e52edfb?source=rss------artificial_intelligence-5)**
+> 🔹 **[ThinkingCap-Qwen3.6–27B: Think Less, Do Faster, Same Quality](https://xhinker.medium.com/thinkingcap-qwen3-6-27b-think-less-do-faster-same-quality-fcf955e57fe2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Code Review Agent Can Be Turned Against You, and Auto-Mode Won’t Save You](https://medium.com/@sathvik8317/your-code-review-agent-can-be-turned-against-you-and-auto-mode-wont-save-you-07586b43369d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
