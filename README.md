@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Spent 8 Hours Debugging a Spring Boot Bug That Only Happened in Production](https://medium.com/@pramod.er90/i-spent-8-hours-debugging-a-spring-boot-bug-that-only-happened-in-production-9e7dfa46f2ba?source=rss------backend_development-5)**
-> 🔹 **[WDLC: From a Web Deep Learning Compiler to a Collaborative Distributed Training Platform](https://medium.com/@DarkCipher00/wdlc-from-a-web-deep-learning-compiler-to-a-collaborative-distributed-training-platform-f5c0323a0246?source=rss------system_design-5)**
-> 🔹 **[How Video Analytics for Retail Stores Improves Customer Experience in 2026](https://medium.com/@SaranyaTechInsights/how-video-analytics-for-retail-stores-improves-customer-experience-in-2026-bde601fb16c3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why LLMs are not your next computer programs](https://medium.com/@Lejsus/why-llms-are-not-your-next-computer-programs-52f2d59207c6?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Called It a Filter Bubble. Now It’s Eating Its Own Tail.](https://trellyz.medium.com/i-called-it-a-filter-bubble-now-its-eating-its-own-tail-9de288cb82ed?source=rss------artificial_intelligence-5)**
-> 🔹 **[CPU vs GPU vs TPU vs QPU: The Complete 2026 Guide to Modern Processors](https://lalatenduswain.medium.com/cpu-vs-gpu-vs-tpu-vs-qpu-the-complete-2026-guide-to-modern-processors-8a6f4affc485?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Nobody Tells You About Trying to Start an AI Side Hustle](https://medium.com/@aisidehustlelabs/what-nobody-tells-you-about-trying-to-start-an-ai-side-hustle-fdd5105606b7?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 AI Tools Every Student Should Use in 2026: Study Smarter, Save Time, and Improve Grades](https://medium.com/@fozlerabbi965760/7-ai-tools-every-student-should-use-in-2026-study-smarter-save-time-and-improve-grades-b783877e2832?source=rss------artificial_intelligence-5)**
+> 🔹 **[Designing a Monitoring Platform Developers Actually Want to Use](https://medium.com/@payal.codes/designing-a-monitoring-platform-developers-actually-want-to-use-e27b7e2d07d4?source=rss------backend_development-5)**
+> 🔹 **[AI Can Improve Your System Design Interview Preparation](https://scottcmcmahan.medium.com/ai-can-improve-your-system-design-interview-preparation-a7e20164d986?source=rss------artificial_intelligence-5)**
+> 🔹 **[Obsidian’s CEO Just Open-Sourced the Claude Code Skills He Uses on His Own Vault](https://medium.com/ai-systems-lab/obsidians-ceo-just-open-sourced-the-claude-code-skills-he-uses-on-his-own-vault-57b3a4d5bc7e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Slopsquatting-AI-Generated Code Just Created a New Attack Surface.](https://swarnenduiitb2020i.medium.com/slopsquatting-ai-generated-code-just-created-a-new-attack-surface-8b4c9c26bf14?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Happens When AI Meets Healthcare?](https://ai.plainenglish.io/what-happens-when-ai-meets-healthcare-66bde233fc29?source=rss------artificial_intelligence-5)**
+> 🔹 **[ML Fundamentals #4: Feature Scaling — When It Matters, When It Doesn’t, and Why](https://medium.com/@banerjeevictor06/ml-fundamentals-4-feature-scaling-when-it-matters-when-it-doesnt-and-why-c60c01e1c310?source=rss------artificial_intelligence-5)**
+> 🔹 **[Essay · July 2026](https://medium.com/@hal9050x/essay-july-2026-597c14e5c819?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Let AI Run My Workweek for 30 Days — Here’s What It Couldn’t Do](https://medium.com/@syedatanzila17/i-let-ai-run-my-workweek-for-30-days-heres-what-it-couldn-t-do-099e78071365?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
