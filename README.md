@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[10 Free AI Tools Every Student Must Know in 2026](https://medium.com/@jijiraju1976/10-free-ai-tools-every-student-must-know-in-2026-f87cbface401?source=rss------artificial_intelligence-5)**
-> 🔹 **[Fine-Tuning vs RAG vs Prompting — When to Use What](https://medium.com/@nbansal200151/fine-tuning-vs-rag-vs-prompting-when-to-use-what-bef253e2fd7e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Day 5: AI Learning Journey — AI vs Machine Learning vs Deep Learning vs Neural Networks vs…](https://medium.com/@bajithcnbuk/day-5-ai-learning-journey-ai-vs-machine-learning-vs-deep-learning-vs-neural-networks-vs-a99707d0145c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hub-Centric Business Manifesto](https://medium.com/@makerb/the-hub-centric-business-manifesto-2828a9dc07f2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Minimal APIs vs Controllers in ASP.NET Core: Which Should You Use for Production .NET APIs?](https://medium.com/@oshadhaj/minimal-apis-vs-controllers-in-asp-net-core-which-should-you-use-for-production-net-apis-f0fc4bf11075?source=rss------backend_development-5)**
-> 🔹 **[If Your Onboarding Isn’t AI-Powered by a Digital Adoption Platform, You’re Already Behind.](https://medium.com/@halifax5566/if-your-onboarding-isnt-ai-powered-by-a-digital-adoption-platform-you-re-already-behind-bce71a490047?source=rss------artificial_intelligence-5)**
-> 🔹 **[GPT-5.6 Just Dropped: Why 90% of Freelance Designers Will Be Out of Business by December &lpar;And i...](https://medium.com/@giuliamazzawork1/gpt-5-6-just-dropped-why-90-of-freelance-designers-will-be-out-of-business-by-december-and-its-bc6edf882f49?source=rss------artificial_intelligence-5)**
-> 🔹 **[Redis: The Superpower Behind Faster Applications](https://aniketgawande.medium.com/redis-the-superpower-behind-faster-applications-d66dc8b4b273?source=rss------backend_development-5)**
+> 🔹 **[I Spent 8 Hours Debugging a Spring Boot Bug That Only Happened in Production](https://medium.com/@pramod.er90/i-spent-8-hours-debugging-a-spring-boot-bug-that-only-happened-in-production-9e7dfa46f2ba?source=rss------backend_development-5)**
+> 🔹 **[WDLC: From a Web Deep Learning Compiler to a Collaborative Distributed Training Platform](https://medium.com/@DarkCipher00/wdlc-from-a-web-deep-learning-compiler-to-a-collaborative-distributed-training-platform-f5c0323a0246?source=rss------system_design-5)**
+> 🔹 **[How Video Analytics for Retail Stores Improves Customer Experience in 2026](https://medium.com/@SaranyaTechInsights/how-video-analytics-for-retail-stores-improves-customer-experience-in-2026-bde601fb16c3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why LLMs are not your next computer programs](https://medium.com/@Lejsus/why-llms-are-not-your-next-computer-programs-52f2d59207c6?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Called It a Filter Bubble. Now It’s Eating Its Own Tail.](https://trellyz.medium.com/i-called-it-a-filter-bubble-now-its-eating-its-own-tail-9de288cb82ed?source=rss------artificial_intelligence-5)**
+> 🔹 **[CPU vs GPU vs TPU vs QPU: The Complete 2026 Guide to Modern Processors](https://lalatenduswain.medium.com/cpu-vs-gpu-vs-tpu-vs-qpu-the-complete-2026-guide-to-modern-processors-8a6f4affc485?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Nobody Tells You About Trying to Start an AI Side Hustle](https://medium.com/@aisidehustlelabs/what-nobody-tells-you-about-trying-to-start-an-ai-side-hustle-fdd5105606b7?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 AI Tools Every Student Should Use in 2026: Study Smarter, Save Time, and Improve Grades](https://medium.com/@fozlerabbi965760/7-ai-tools-every-student-should-use-in-2026-study-smarter-save-time-and-improve-grades-b783877e2832?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
