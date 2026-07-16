@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How One Log File That Solved My Production Incident](https://medium.com/@pramod.er90/how-one-log-file-that-solved-my-production-incident-714e5baaa403?source=rss------backend_development-5)**
-> 🔹 **[AI vs Human Creativity: Where to Draw the Line in Brand Storytelling](https://medium.com/@focalin.web/ai-vs-human-creativity-where-to-draw-the-line-in-brand-storytelling-1167635b9ba0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Open-Weight Models: We are Asking the Wrong Question](https://medium.com/@kamalmeet/open-weight-models-we-are-asking-the-wrong-question-db51a61b82aa?source=rss------artificial_intelligence-5)**
-> 🔹 **[Patient intake shouldn’t feel like paperwork. It should feel effortless.](https://medium.com/@rytsenselifestylellp/patient-intake-shouldnt-feel-like-paperwork-it-should-feel-effortless-252fd994b7bd?source=rss------artificial_intelligence-5)**
-> 🔹 **[A técnica é do algoritmo, o querer é do homem.](https://medium.com/@regysmaggot/a-t%C3%A9cnica-%C3%A9-do-algoritmo-o-querer-%C3%A9-do-homem-f0d292db0fba?source=rss------artificial_intelligence-5)**
-> 🔹 **[25 AI Development Ideas for Startups That Can Become Successful Businesses in 2026](https://medium.com/@dalemeade/25-ai-development-ideas-for-startups-that-can-become-successful-businesses-in-2026-88d3e8f19a5e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Compliance Is the Boring Part of Agentic Apps. Build It First Anyway.](https://medium.com/@ayonifeoluwa/compliance-is-the-boring-part-of-agentic-apps-build-it-first-anyway-f17730776655?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Only Career Skill That Will Still Matter in 2036](https://medium.com/@premnath5761/the-only-career-skill-that-will-still-matter-in-2036-5c85c37d6a30?source=rss------artificial_intelligence-5)**
+> 🔹 **[Global Exception Handling in Spring Boot: Stop Writing Try-Catch in Every Controller](https://medium.com/@praut4236/global-exception-handling-in-spring-boot-stop-writing-try-catch-in-every-controller-5e865aaff0bd?source=rss------backend_development-5)**
+> 🔹 **[Inkling Is Not the Best AI Model. That May Be the Point.](https://abvcreative.medium.com/inkling-is-not-the-best-ai-model-that-may-be-the-point-d05de57d7360?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Workspace, Not a Will: The Fears Inside the Machine, and the One That’s Actually Ours](https://medium.com/@j.b.lopez.acc/a-workspace-not-a-will-the-fears-inside-the-machine-and-the-one-thats-actually-ours-0c53504264de?source=rss------artificial_intelligence-5)**
+> 🔹 **[Do you know what&#39;s the single most impactful change a restaurant owner can make in 2026?](https://medium.com/@darlingtonokafor/do-you-know-whats-the-single-most-impactful-change-a-restaurant-owner-can-make-in-2026-bdf90cfb6649?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Internet Is Getting Tired of AI Designs and Content](https://medium.com/write-your-world/the-internet-is-getting-tired-of-ai-designs-and-content-254875b60297?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Used to Avoid AI. Now I Use It Every Day.](https://medium.com/@jasmine.ctduenas/i-used-to-avoid-ai-now-i-use-it-every-day-9ff02181e2fc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Real-Time Speech-to-Speech Translation Explained](https://medium.com/@dharmesh01/real-time-speech-to-speech-translation-explained-2f7da26da054?source=rss------artificial_intelligence-5)**
+> 🔹 **[SEO Tips &amp; Strategies for the AI and LLM Era: How to Build Visibility That Lasts](https://medium.com/@freelanceworkerglobal/seo-tips-strategies-271485d433d7?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
