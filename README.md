@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Global Exception Handling in Spring Boot: Stop Writing Try-Catch in Every Controller](https://medium.com/@praut4236/global-exception-handling-in-spring-boot-stop-writing-try-catch-in-every-controller-5e865aaff0bd?source=rss------backend_development-5)**
-> 🔹 **[Inkling Is Not the Best AI Model. That May Be the Point.](https://abvcreative.medium.com/inkling-is-not-the-best-ai-model-that-may-be-the-point-d05de57d7360?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Workspace, Not a Will: The Fears Inside the Machine, and the One That’s Actually Ours](https://medium.com/@j.b.lopez.acc/a-workspace-not-a-will-the-fears-inside-the-machine-and-the-one-thats-actually-ours-0c53504264de?source=rss------artificial_intelligence-5)**
-> 🔹 **[Do you know what&#39;s the single most impactful change a restaurant owner can make in 2026?](https://medium.com/@darlingtonokafor/do-you-know-whats-the-single-most-impactful-change-a-restaurant-owner-can-make-in-2026-bdf90cfb6649?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Internet Is Getting Tired of AI Designs and Content](https://medium.com/write-your-world/the-internet-is-getting-tired-of-ai-designs-and-content-254875b60297?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Used to Avoid AI. Now I Use It Every Day.](https://medium.com/@jasmine.ctduenas/i-used-to-avoid-ai-now-i-use-it-every-day-9ff02181e2fc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Real-Time Speech-to-Speech Translation Explained](https://medium.com/@dharmesh01/real-time-speech-to-speech-translation-explained-2f7da26da054?source=rss------artificial_intelligence-5)**
-> 🔹 **[SEO Tips &amp; Strategies for the AI and LLM Era: How to Build Visibility That Lasts](https://medium.com/@freelanceworkerglobal/seo-tips-strategies-271485d433d7?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Isn’t Replacing Experts. It’s Redefining What Expertise Means](https://medium.com/@areejiftikhar601/ai-isnt-replacing-experts-it-s-redefining-what-expertise-means-7b737f9dc2ff?source=rss------artificial_intelligence-5)**
+> 🔹 **[IA não te deixa mais rápido, também tira sua desculpa](https://medium.com/@cezar.lenci/ia-n%C3%A3o-te-deixa-mais-r%C3%A1pido-tamb%C3%A9m-tira-sua-desculpa-c36cadbe1478?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cybersecurity in 2026: Nobody Gets “Hacked” Anymore, They Get “Logged Into”](https://medium.com/@nspaqsec/cybersecurity-in-2026-nobody-gets-hacked-anymore-they-get-logged-into-a4e67c4012f5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why is rust Special?](https://medium.com/@anuoluwapoali25/why-is-rust-special-a115de4b295c?source=rss------backend_development-5)**
+> 🔹 **[The Future of Ecommerce Marketing Isn’t More Ads — It’s Better AI Content](https://medium.com/@seoaiblogteam/the-future-of-ecommerce-marketing-isnt-more-ads-it-s-better-ai-content-425b24bcfb8c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everybody Already Does This…Cyberpsychology as a line of work and field of expertise](https://osintteam.blog/everybody-already-does-this-cyberpsychology-as-a-line-of-work-and-field-of-expertise-97ce4911aa37?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everyone Wants AI Agents. Almost Nobody Starts in the Right Place.](https://njclabs.medium.com/everyone-wants-ai-agents-almost-nobody-starts-in-the-right-place-f66db5c7a665?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI Gets Too Agreeable: A Designer’s Warning](https://uxplanet.org/when-ai-gets-too-agreeable-a-designers-warning-65f1e8e5f0b3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
