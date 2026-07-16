@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[When Outlook Thought Our Physician Worked Somewhere Else](https://medium.com/@mxsewell/when-outlook-thought-our-physician-worked-somewhere-else-8525f32a480d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Understanding the 12-Factor App Through Simple Real-World Examples](https://medium.com/@iaravinda33/understanding-the-12-factor-app-through-simple-real-world-examples-7ed30dd63a4e?source=rss------system_design-5)**
-> 🔹 **[3 Things a Founder Loses When AI Runs the Whole Business](https://thechrisverse.medium.com/3-things-a-founder-loses-when-ai-runs-the-whole-business-ed82680fe835?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Careers That Will Survive The AI Revolution](https://medium.com/@karenbecker_90627/5-careers-that-will-survive-the-ai-revolution-f28bf5aace36?source=rss------artificial_intelligence-5)**
-> 🔹 **[Anthropic May Have Built the Best Model. OpenAI Built the Better Product.](https://medium.com/@TheTechPencil/anthropic-may-have-built-the-best-model-openai-built-the-better-product-ce6b359ea5d2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Diagonal Limit of Guaranteed Inference in Infinite Generator Spaces](https://medium.com/@mdshazrishahrir/the-diagonal-limit-of-guaranteed-inference-in-infinite-generator-spaces-b8d16e52edfb?source=rss------artificial_intelligence-5)**
-> 🔹 **[ThinkingCap-Qwen3.6–27B: Think Less, Do Faster, Same Quality](https://xhinker.medium.com/thinkingcap-qwen3-6-27b-think-less-do-faster-same-quality-fcf955e57fe2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Code Review Agent Can Be Turned Against You, and Auto-Mode Won’t Save You](https://medium.com/@sathvik8317/your-code-review-agent-can-be-turned-against-you-and-auto-mode-wont-save-you-07586b43369d?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If AI Could Predict the Future](https://medium.com/@vedantshrivastava2007/what-if-ai-could-predict-the-future-8c86e0a1e3c5?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Job That Did Not Exist 18 Months Ago Is Now the Most In-Demand Role in Enterprise Tech.](https://medium.com/@aftab001x/the-ai-job-that-did-not-exist-18-months-ago-is-now-the-most-in-demand-role-in-enterprise-tech-105328f3637f?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT 5.6 Just Launched for the Public &lpar;And It Beats Fable 5 by 2.8 Points on One Benchmark&rpar;](https://medium.com/@trends24/chatgpt-5-6-just-launched-for-the-public-and-it-beats-fable-5-by-2-8-points-on-one-benchmark-51586b27133e?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Hermes Agent Cut Our Response Times by 73%: A Real-World Case Study](https://nitingavhane.medium.com/how-hermes-agent-cut-our-response-times-by-73-a-real-world-case-study-b50b28b0ada3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Microservices Are Not Scalable — They Are Just Distributed](https://satyajeet-bansode.medium.com/your-microservices-are-not-scalable-they-are-just-distributed-28126b556c0f?source=rss------system_design-5)**
+> 🔹 **[Your Microservices Are Not Scalable — They Are Just Distributed](https://satyajeet-bansode.medium.com/your-microservices-are-not-scalable-they-are-just-distributed-28126b556c0f?source=rss------backend_development-5)**
+> 🔹 **[10 Best AI Logo Generators for Professional Brand Design in 2026](https://medium.com/@sovannaro/10-best-ai-logo-generators-for-professional-brand-design-in-2026-f43cb7c77074?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Not the Limit of Your Ability — But It May Be the Limit of Your Imagination](https://medium.com/@wuhengcharles233/ai-is-not-the-limit-of-your-ability-but-it-may-be-the-limit-of-your-imagination-85fcd19c7829?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
