@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Beyond CCTV: How AI Video Analytics Software Delivers Smarter Business Intelligence](https://medium.com/@SaranyaTechInsights/beyond-cctv-how-ai-video-analytics-software-delivers-smarter-business-intelligence-8492e6a3531d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Your Work Feels Heavier Than It Is](https://odendavid.medium.com/why-your-work-feels-heavier-than-it-is-1ba584143367?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Data Engineering Skills Matrix AI Just Broke!](https://medium.datadriveninvestor.com/the-data-engineering-skills-matrix-ai-just-broke-ee6933c98d93?source=rss------artificial_intelligence-5)**
-> 🔹 **[Introducing Curate AI: A Shopping Agent Powered by LLMs, FastAPI, and Groq](https://medium.com/@edgar_muyale/introducing-curate-ai-a-shopping-agent-powered-by-llms-fastapi-and-groq-14930843831d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Ruining Your Daytime Shots: Why AI is Replacing Traditional Vintage Camera Apps](https://medium.com/@axreview/stop-ruining-your-daytime-shots-why-ai-is-replacing-traditional-vintage-camera-apps-edd0975fea5c?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Got Tired of AI Making Up Fault Codes, So I Built One That Cites Its Sources](https://machinecatalogic.medium.com/i-got-tired-of-ai-making-up-fault-codes-so-i-built-one-that-cites-its-sources-6f3813b5d471?source=rss------artificial_intelligence-5)**
-> 🔹 **[Prompt Injection Attacks](https://medium.com/@bervice/prompt-injection-attacks-59bc17e7311f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Managing a Million Security Profiles at the Edge](https://medium.com/@joselejinpj/managing-a-million-security-profiles-at-the-edge-8e9444b3a00a?source=rss------artificial_intelligence-5)**
+> 🔹 **[System Design 101 Explained To A Five Year Old](https://medium.com/@favalcodes/system-design-101-explained-to-a-five-year-old-95e0d98863fa?source=rss------system_design-5)**
+> 🔹 **[We Tell Enterprise Clients to Stop Governing So Hard](https://hoomanstudio.medium.com/we-tell-enterprise-clients-to-stop-governing-so-hard-6b44dbb4e7b4?source=rss------system_design-5)**
+> 🔹 **[Keeping a design system healthy with AI: never trust a doc, measure the live file](https://medium.com/@guillaumeclt/keeping-a-design-system-healthy-with-ai-never-trust-a-doc-measure-the-live-file-fdc1167c244f?source=rss------system_design-5)**
+> 🔹 **[Why Reddit Is Becoming the Most Powerful Growth Channel in the AI Era](https://medium.com/@musayunus2022/why-reddit-is-becoming-the-most-powerful-growth-channel-in-the-ai-era-09fa738ded7a?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Really Happens When a Transaction Begins](https://medium.com/@souvanik.saha/what-really-happens-when-a-transaction-begins-a64111fd3577?source=rss------backend_development-5)**
+> 🔹 **[Why I Think Browser Testing Needs to Evolve Beyond Traditional Automation](https://medium.com/@sidhunavjott/why-i-think-browser-testing-needs-to-evolve-beyond-traditional-automation-5f57a69fcab3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Institutional Loop: Turning Donor Reports Into Your Next Proposal](https://medium.com/@adnanzsalim75/the-institutional-loop-turning-donor-reports-into-your-next-proposal-270ca1ddf01a?source=rss------artificial_intelligence-5)**
+> 🔹 **[KI lernt zu handeln — und die Welt sucht nach roten Linien](https://medium.com/@juergen_scherer/ki-lernt-zu-handeln-und-die-welt-sucht-nach-roten-linien-1e0d902fc7f6?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
