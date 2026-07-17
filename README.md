@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What Actually Happens When You Put an LLM Call in Your Critical Path](https://medium.com/@vrindag/what-actually-happens-when-you-put-an-llm-call-in-your-critical-path-e7e15a10064c?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Ways Hermes Agent Automates 90% of Your Repetitive Workflows](https://nitingavhane.medium.com/5-ways-hermes-agent-automates-90-of-your-repetitive-workflows-f5c6d5467dae?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Stopped Clicking Through Salesforce. Here’s What Changed.](https://medium.com/@nawinshastha2001/i-stopped-clicking-through-salesforce-heres-what-changed-32fdf62272fc?source=rss------artificial_intelligence-5)**
-> 🔹 **[✨ When AI Couldn’t Finish the Task in One Step, I Changed My Workflow – Not My Prompt](https://medium.com/@harumm1012/when-ai-couldnt-finish-the-task-in-one-step-i-changed-my-workflow-not-my-prompt-6b72352c34ba?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Third Space: When AI Becomes a Ferrari](https://medium.com/@antoinecastorp/the-third-space-when-ai-becomes-a-ferrari-4ca1ac8c1f54?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Fable 5 vs GPT-5.6 vs Grok 4.5: The Game Challenge That Changes Everything](https://medium.com/@anil.futuristic/claude-fable-5-vs-gpt-5-6-vs-grok-4-5-the-game-challenge-that-changes-everything-3fdf16226317?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChirperAI Architecture Series: Part 1 — The Architecture of a Gaming AI](https://medium.com/@pavangosangi/chirperai-architecture-series-part-1-the-architecture-of-a-gaming-ai-f3b3028cec75?source=rss------artificial_intelligence-5)**
-> 🔹 **[JADEPUFFER and the Arrival of Machine-Speed Extortion](https://medium.com/@davidsehyeonbaek/jadepuffer-and-the-arrival-of-machine-speed-extortion-529334c72c1e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond CCTV: How AI Video Analytics Software Delivers Smarter Business Intelligence](https://medium.com/@SaranyaTechInsights/beyond-cctv-how-ai-video-analytics-software-delivers-smarter-business-intelligence-8492e6a3531d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Your Work Feels Heavier Than It Is](https://odendavid.medium.com/why-your-work-feels-heavier-than-it-is-1ba584143367?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Data Engineering Skills Matrix AI Just Broke!](https://medium.datadriveninvestor.com/the-data-engineering-skills-matrix-ai-just-broke-ee6933c98d93?source=rss------artificial_intelligence-5)**
+> 🔹 **[Introducing Curate AI: A Shopping Agent Powered by LLMs, FastAPI, and Groq](https://medium.com/@edgar_muyale/introducing-curate-ai-a-shopping-agent-powered-by-llms-fastapi-and-groq-14930843831d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Ruining Your Daytime Shots: Why AI is Replacing Traditional Vintage Camera Apps](https://medium.com/@axreview/stop-ruining-your-daytime-shots-why-ai-is-replacing-traditional-vintage-camera-apps-edd0975fea5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Got Tired of AI Making Up Fault Codes, So I Built One That Cites Its Sources](https://machinecatalogic.medium.com/i-got-tired-of-ai-making-up-fault-codes-so-i-built-one-that-cites-its-sources-6f3813b5d471?source=rss------artificial_intelligence-5)**
+> 🔹 **[Prompt Injection Attacks](https://medium.com/@bervice/prompt-injection-attacks-59bc17e7311f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Managing a Million Security Profiles at the Edge](https://medium.com/@joselejinpj/managing-a-million-security-profiles-at-the-edge-8e9444b3a00a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
