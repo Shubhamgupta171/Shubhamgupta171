@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[System Design 101 Explained To A Five Year Old](https://medium.com/@favalcodes/system-design-101-explained-to-a-five-year-old-95e0d98863fa?source=rss------system_design-5)**
-> 🔹 **[We Tell Enterprise Clients to Stop Governing So Hard](https://hoomanstudio.medium.com/we-tell-enterprise-clients-to-stop-governing-so-hard-6b44dbb4e7b4?source=rss------system_design-5)**
-> 🔹 **[Keeping a design system healthy with AI: never trust a doc, measure the live file](https://medium.com/@guillaumeclt/keeping-a-design-system-healthy-with-ai-never-trust-a-doc-measure-the-live-file-fdc1167c244f?source=rss------system_design-5)**
-> 🔹 **[Why Reddit Is Becoming the Most Powerful Growth Channel in the AI Era](https://medium.com/@musayunus2022/why-reddit-is-becoming-the-most-powerful-growth-channel-in-the-ai-era-09fa738ded7a?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Really Happens When a Transaction Begins](https://medium.com/@souvanik.saha/what-really-happens-when-a-transaction-begins-a64111fd3577?source=rss------backend_development-5)**
-> 🔹 **[Why I Think Browser Testing Needs to Evolve Beyond Traditional Automation](https://medium.com/@sidhunavjott/why-i-think-browser-testing-needs-to-evolve-beyond-traditional-automation-5f57a69fcab3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Institutional Loop: Turning Donor Reports Into Your Next Proposal](https://medium.com/@adnanzsalim75/the-institutional-loop-turning-donor-reports-into-your-next-proposal-270ca1ddf01a?source=rss------artificial_intelligence-5)**
-> 🔹 **[KI lernt zu handeln — und die Welt sucht nach roten Linien](https://medium.com/@juergen_scherer/ki-lernt-zu-handeln-und-die-welt-sucht-nach-roten-linien-1e0d902fc7f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Transforming Interstellar Objects into Spacecraft](https://avi-loeb.medium.com/transforming-interstellar-objects-into-spacecraft-37c36740fd9b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Service Workers in 2026: Building Truly Offline-First Apps That Feel Native](https://medium.com/@spande6894/service-workers-in-2026-building-truly-offline-first-apps-that-feel-native-4ac9e700064f?source=rss------backend_development-5)**
+> 🔹 **[What Happens When A Harvard AI Predicts 71 Percent Of What A Fund Manager Does?](https://medium.com/@aioperatorshq/what-happens-when-a-harvard-ai-predicts-71-percent-of-what-a-fund-manager-does-0377516544c3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Physical Layer of AI: Why the Power Grid is the Ultimate Market Bottleneck](https://medium.com/@pk.knightpaul/the-physical-layer-of-ai-why-the-power-grid-is-the-ultimate-market-bottleneck-2f6fbc4a5259?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond Conversion: Designing the Infrastructure of Intent in SaaS](https://monfa.medium.com/beyond-conversion-designing-the-infrastructure-of-intent-in-saas-2a1cdf79074c?source=rss------system_design-5)**
+> 🔹 **[Compression Isn’t Intelligence. So Why Does It Look Like It?](https://medium.com/@shanakadesoysa/compression-isnt-intelligence-so-why-does-it-look-like-it-93ed4503afb2?source=rss------artificial_intelligence-5)**
+> 🔹 **[ML 101: Paper readout: Neural Machine Translation of Rare Words with Subword Units](https://medium.com/@shirink1101/ml-101-paper-readout-neural-machine-translation-of-rare-words-with-subword-units-a372b432853e?source=rss------artificial_intelligence-5)**
+> 🔹 **[“gpt 6 will break media”](https://siliconvalleygradient.com/gpt-6-will-break-media-197de3593d6f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
