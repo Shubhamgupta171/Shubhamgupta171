@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI Isn’t Replacing Experts. It’s Redefining What Expertise Means](https://medium.com/@areejiftikhar601/ai-isnt-replacing-experts-it-s-redefining-what-expertise-means-7b737f9dc2ff?source=rss------artificial_intelligence-5)**
-> 🔹 **[IA não te deixa mais rápido, também tira sua desculpa](https://medium.com/@cezar.lenci/ia-n%C3%A3o-te-deixa-mais-r%C3%A1pido-tamb%C3%A9m-tira-sua-desculpa-c36cadbe1478?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cybersecurity in 2026: Nobody Gets “Hacked” Anymore, They Get “Logged Into”](https://medium.com/@nspaqsec/cybersecurity-in-2026-nobody-gets-hacked-anymore-they-get-logged-into-a4e67c4012f5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why is rust Special?](https://medium.com/@anuoluwapoali25/why-is-rust-special-a115de4b295c?source=rss------backend_development-5)**
-> 🔹 **[The Future of Ecommerce Marketing Isn’t More Ads — It’s Better AI Content](https://medium.com/@seoaiblogteam/the-future-of-ecommerce-marketing-isnt-more-ads-it-s-better-ai-content-425b24bcfb8c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Everybody Already Does This…Cyberpsychology as a line of work and field of expertise](https://osintteam.blog/everybody-already-does-this-cyberpsychology-as-a-line-of-work-and-field-of-expertise-97ce4911aa37?source=rss------artificial_intelligence-5)**
-> 🔹 **[Everyone Wants AI Agents. Almost Nobody Starts in the Right Place.](https://njclabs.medium.com/everyone-wants-ai-agents-almost-nobody-starts-in-the-right-place-f66db5c7a665?source=rss------artificial_intelligence-5)**
-> 🔹 **[When AI Gets Too Agreeable: A Designer’s Warning](https://uxplanet.org/when-ai-gets-too-agreeable-a-designers-warning-65f1e8e5f0b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Actually Happens When You Put an LLM Call in Your Critical Path](https://medium.com/@vrindag/what-actually-happens-when-you-put-an-llm-call-in-your-critical-path-e7e15a10064c?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Ways Hermes Agent Automates 90% of Your Repetitive Workflows](https://nitingavhane.medium.com/5-ways-hermes-agent-automates-90-of-your-repetitive-workflows-f5c6d5467dae?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Stopped Clicking Through Salesforce. Here’s What Changed.](https://medium.com/@nawinshastha2001/i-stopped-clicking-through-salesforce-heres-what-changed-32fdf62272fc?source=rss------artificial_intelligence-5)**
+> 🔹 **[✨ When AI Couldn’t Finish the Task in One Step, I Changed My Workflow – Not My Prompt](https://medium.com/@harumm1012/when-ai-couldnt-finish-the-task-in-one-step-i-changed-my-workflow-not-my-prompt-6b72352c34ba?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Third Space: When AI Becomes a Ferrari](https://medium.com/@antoinecastorp/the-third-space-when-ai-becomes-a-ferrari-4ca1ac8c1f54?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Fable 5 vs GPT-5.6 vs Grok 4.5: The Game Challenge That Changes Everything](https://medium.com/@anil.futuristic/claude-fable-5-vs-gpt-5-6-vs-grok-4-5-the-game-challenge-that-changes-everything-3fdf16226317?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChirperAI Architecture Series: Part 1 — The Architecture of a Gaming AI](https://medium.com/@pavangosangi/chirperai-architecture-series-part-1-the-architecture-of-a-gaming-ai-f3b3028cec75?source=rss------artificial_intelligence-5)**
+> 🔹 **[JADEPUFFER and the Arrival of Machine-Speed Extortion](https://medium.com/@davidsehyeonbaek/jadepuffer-and-the-arrival-of-machine-speed-extortion-529334c72c1e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
