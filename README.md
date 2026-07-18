@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Transforming Interstellar Objects into Spacecraft](https://avi-loeb.medium.com/transforming-interstellar-objects-into-spacecraft-37c36740fd9b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Service Workers in 2026: Building Truly Offline-First Apps That Feel Native](https://medium.com/@spande6894/service-workers-in-2026-building-truly-offline-first-apps-that-feel-native-4ac9e700064f?source=rss------backend_development-5)**
-> 🔹 **[What Happens When A Harvard AI Predicts 71 Percent Of What A Fund Manager Does?](https://medium.com/@aioperatorshq/what-happens-when-a-harvard-ai-predicts-71-percent-of-what-a-fund-manager-does-0377516544c3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Physical Layer of AI: Why the Power Grid is the Ultimate Market Bottleneck](https://medium.com/@pk.knightpaul/the-physical-layer-of-ai-why-the-power-grid-is-the-ultimate-market-bottleneck-2f6fbc4a5259?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond Conversion: Designing the Infrastructure of Intent in SaaS](https://monfa.medium.com/beyond-conversion-designing-the-infrastructure-of-intent-in-saas-2a1cdf79074c?source=rss------system_design-5)**
-> 🔹 **[Compression Isn’t Intelligence. So Why Does It Look Like It?](https://medium.com/@shanakadesoysa/compression-isnt-intelligence-so-why-does-it-look-like-it-93ed4503afb2?source=rss------artificial_intelligence-5)**
-> 🔹 **[ML 101: Paper readout: Neural Machine Translation of Rare Words with Subword Units](https://medium.com/@shirink1101/ml-101-paper-readout-neural-machine-translation-of-rare-words-with-subword-units-a372b432853e?source=rss------artificial_intelligence-5)**
-> 🔹 **[“gpt 6 will break media”](https://siliconvalleygradient.com/gpt-6-will-break-media-197de3593d6f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Model Name That Became a Product Requirement](https://medium.com/@liangxinhao047/the-model-name-that-became-a-product-requirement-1a03bee4cbc6?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 3 Places AI Is Quietly Winning in Enterprises](https://medium.com/@yadavyaman237/the-3-places-ai-is-quietly-winning-in-enterprises-320db0aa6757?source=rss------artificial_intelligence-5)**
+> 🔹 **[PeopleSoft to AI | Part 7: Why Isn’t the Shortest Path Always the Right One?](https://medium.com/@gokulkalauni03/peoplesoft-to-ai-part-7-why-isnt-the-shortest-path-always-the-right-one-1acddd001237?source=rss------artificial_intelligence-5)**
+> 🔹 **[Enterprise AI Architecture Pattern #8: What Building Snowflake Cortex and Databricks Genie Taug...](https://medium.com/@kartikanand_11915/enterprise-ai-architecture-pattern-8-what-building-snowflake-cortex-and-databricks-genie-taught-d5ec06f51575?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can Consciousness Make You Immortal?](https://medium.com/@densidik858/can-consciousness-make-you-immortal-f950a85eed90?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Wrote Down Everything I Learned About LLMs — Then Open-Sourced It](https://aarambhdevhub.medium.com/i-wrote-down-everything-i-learned-about-llms-then-open-sourced-it-86efde0580a8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Evolution of RAG: Understanding the Top 5 Retrieval-Augmented Generation Architectures](https://medium.com/devsecops-ai/the-evolution-of-rag-understanding-the-top-5-retrieval-augmented-generation-architectures-f6cfce095eed?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence &lpar;AI&rpar;: The New Friend That Speeds Up Your Daily Work!](https://medium.com/@TheDailyStory07/artificial-intelligence-ai-the-new-friend-that-speeds-up-your-daily-work-f2a1e9f7c028?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
