@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Efficiency Used to Mean Less Waste. Now It Means a New Shape.](https://medium.com/@stephane.cuenat/efficiency-used-to-mean-less-waste-now-it-means-a-new-shape-7ac8a5c7afb8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Uber Interview Experience &lpar;SDE 2 — Backend&rpar;](https://dheeraj-bhagchandani.medium.com/uber-interview-experience-sde-2-backend-81dd72c6d2a4?source=rss------backend_development-5)**
-> 🔹 **[Disclosure: This article contains affiliate links.](https://medium.com/@hironch10/disclosure-this-article-contains-affiliate-links-f34d3a6d55c5?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Cut Juniors on the Eve of a Revolution](https://drpicox.medium.com/we-cut-juniors-on-the-eve-of-a-revolution-91a99eadfe0b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Day 1 | Building My AI Companion](https://medium.com/@dev_63790/day-1-building-my-ai-companion-3424cdae778a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Top 5 Places to Sell Digital Products in 2026 &lpar;Ranked by Real Fees&rpar;](https://medium.com/@aroundtravel49/the-top-5-places-to-sell-digital-products-in-2026-ranked-by-real-fees-73ad8199f82f?source=rss------artificial_intelligence-5)**
-> 🔹 **[New Technologies Are Changing How Old Master Drawings Are Studied](https://medium.com/@aurelart/new-technologies-are-changing-how-old-master-drawings-are-studied-bf1ee8be8405?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Smart People Are Dead Wrong About AI](https://medium.com/illumination/why-smart-people-are-dead-wrong-about-ai-f70bb3e15ed8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Using AI Like a Search Engine: Learn This Better Way Instead](https://medium.com/@muhammadishaque138/stop-using-ai-like-a-search-engine-learn-this-better-way-instead-6fd1adde1468?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Biggest Benefit of Our RAG Assistant Wasn’t Faster Search](https://medium.com/@akforreg/the-biggest-benefit-of-our-rag-assistant-wasnt-faster-search-28e440ae45c1?source=rss------artificial_intelligence-5)**
+> 🔹 **[What a 2-hour AI conversation taught me about where this is actually headed](https://medium.com/@naishasaxena2310/what-a-2-hour-ai-conversation-taught-me-about-where-this-is-actually-headed-0cf6e5118426?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Google Docs Handles Concurrent Edits: Building CRDTs From Scratch](https://medium.com/@mithunsrinivas28/how-google-docs-handles-concurrent-edits-building-crdts-from-scratch-6ef8b68cd78f?source=rss------system_design-5)**
+> 🔹 **[Panpsychism is onto something. But it’s impossible.](https://medium.com/@paul.k.pallaghy/panpsychism-is-onto-something-but-its-impossible-0c80b6274377?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Manual Grading is Costing Teachers Their Sanity &lpar;And How AI is Fixing It&rpar;](https://medium.com/@ahmadshahzad0701/why-manual-grading-is-costing-teachers-their-sanity-and-how-ai-is-fixing-it-918887176c62?source=rss------artificial_intelligence-5)**
+> 🔹 **[Singleton Design Pattern: The Java Interview Question That Gets Deeper With Every Follow-up](https://medium.com/prachub/singleton-design-pattern-the-java-interview-question-that-gets-deeper-with-every-follow-up-ea6d3b6815b7?source=rss------backend_development-5)**
+> 🔹 **[Who Controls the Pre-AGI World, and Who Owns the Post-AGI One?](https://ninza7.medium.com/who-controls-the-pre-agi-world-and-who-owns-the-post-agi-one-927a17706551?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
