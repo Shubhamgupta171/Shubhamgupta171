@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Deep Learning for Payment Fraud Detection &lpar;Part 2&rpar;](https://connect2grp.medium.com/deep-learning-for-payment-fraud-detection-part-2-7a0130cfafe6?source=rss------artificial_intelligence-5)**
-> 🔹 **[How JWT Auth Actually Works and why using it Dangerous](https://kaizen-rishi.medium.com/how-jwt-auth-actually-works-and-why-using-it-dangerous-a3febe3514ec?source=rss------backend_development-5)**
-> 🔹 **[Why I Stopped Using Copy.ai After Three Months &lpar;And What I Switched To Instead&rpar;](https://medium.com/@theabdullahidrees/why-i-stopped-using-copy-ai-after-three-months-and-what-i-switched-to-instead-3287cc846f85?source=rss------artificial_intelligence-5)**
-> 🔹 **[“AI Doesn’t Replace Thinking; Instead, It Exposes Lazy Thinking”](https://medium.com/@tamunogodfrey/ai-doesnt-replace-thinking-instead-it-exposes-lazy-thinking-4869bbb1214c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Generative AI Training: What You Will Learn in 2026](https://medium.com/@kalyanvisualpath/generative-ai-training-what-you-will-learn-in-2026-f8f322911ea0?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Day Kolkata’s Search Results Stopped Being a List](https://medium.com/@srinikachanda25/the-day-kolkatas-search-results-stopped-being-a-list-58579a0b94bb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Working With Real World Data: CSV, Excel, and JSON Files](https://medium.com/@emmanuelowusuadu10/working-with-real-world-data-csv-excel-and-json-files-a75b7c493ca7?source=rss------artificial_intelligence-5)**
-> 🔹 **[NEWSLETTER: Latest in AI, TikTok, Cybersecurity and “Is AI Entering Its ‘CVE &amp; CVSS’ Moment”](https://medium.com/a-life-to-remember/newsletter-latest-in-ai-tiktok-cybersecurity-and-is-ai-entering-its-cve-cvss-moment-f746f62fe56f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Efficiency Used to Mean Less Waste. Now It Means a New Shape.](https://medium.com/@stephane.cuenat/efficiency-used-to-mean-less-waste-now-it-means-a-new-shape-7ac8a5c7afb8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Uber Interview Experience &lpar;SDE 2 — Backend&rpar;](https://dheeraj-bhagchandani.medium.com/uber-interview-experience-sde-2-backend-81dd72c6d2a4?source=rss------backend_development-5)**
+> 🔹 **[Disclosure: This article contains affiliate links.](https://medium.com/@hironch10/disclosure-this-article-contains-affiliate-links-f34d3a6d55c5?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Cut Juniors on the Eve of a Revolution](https://drpicox.medium.com/we-cut-juniors-on-the-eve-of-a-revolution-91a99eadfe0b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 1 | Building My AI Companion](https://medium.com/@dev_63790/day-1-building-my-ai-companion-3424cdae778a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Top 5 Places to Sell Digital Products in 2026 &lpar;Ranked by Real Fees&rpar;](https://medium.com/@aroundtravel49/the-top-5-places-to-sell-digital-products-in-2026-ranked-by-real-fees-73ad8199f82f?source=rss------artificial_intelligence-5)**
+> 🔹 **[New Technologies Are Changing How Old Master Drawings Are Studied](https://medium.com/@aurelart/new-technologies-are-changing-how-old-master-drawings-are-studied-bf1ee8be8405?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Smart People Are Dead Wrong About AI](https://medium.com/illumination/why-smart-people-are-dead-wrong-about-ai-f70bb3e15ed8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
