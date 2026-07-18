@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Model Name That Became a Product Requirement](https://medium.com/@liangxinhao047/the-model-name-that-became-a-product-requirement-1a03bee4cbc6?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 3 Places AI Is Quietly Winning in Enterprises](https://medium.com/@yadavyaman237/the-3-places-ai-is-quietly-winning-in-enterprises-320db0aa6757?source=rss------artificial_intelligence-5)**
-> 🔹 **[PeopleSoft to AI | Part 7: Why Isn’t the Shortest Path Always the Right One?](https://medium.com/@gokulkalauni03/peoplesoft-to-ai-part-7-why-isnt-the-shortest-path-always-the-right-one-1acddd001237?source=rss------artificial_intelligence-5)**
-> 🔹 **[Enterprise AI Architecture Pattern #8: What Building Snowflake Cortex and Databricks Genie Taug...](https://medium.com/@kartikanand_11915/enterprise-ai-architecture-pattern-8-what-building-snowflake-cortex-and-databricks-genie-taught-d5ec06f51575?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can Consciousness Make You Immortal?](https://medium.com/@densidik858/can-consciousness-make-you-immortal-f950a85eed90?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Wrote Down Everything I Learned About LLMs — Then Open-Sourced It](https://aarambhdevhub.medium.com/i-wrote-down-everything-i-learned-about-llms-then-open-sourced-it-86efde0580a8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Evolution of RAG: Understanding the Top 5 Retrieval-Augmented Generation Architectures](https://medium.com/devsecops-ai/the-evolution-of-rag-understanding-the-top-5-retrieval-augmented-generation-architectures-f6cfce095eed?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence &lpar;AI&rpar;: The New Friend That Speeds Up Your Daily Work!](https://medium.com/@TheDailyStory07/artificial-intelligence-ai-the-new-friend-that-speeds-up-your-daily-work-f2a1e9f7c028?source=rss------artificial_intelligence-5)**
+> 🔹 **[Deep Learning for Payment Fraud Detection &lpar;Part 2&rpar;](https://connect2grp.medium.com/deep-learning-for-payment-fraud-detection-part-2-7a0130cfafe6?source=rss------artificial_intelligence-5)**
+> 🔹 **[How JWT Auth Actually Works and why using it Dangerous](https://kaizen-rishi.medium.com/how-jwt-auth-actually-works-and-why-using-it-dangerous-a3febe3514ec?source=rss------backend_development-5)**
+> 🔹 **[Why I Stopped Using Copy.ai After Three Months &lpar;And What I Switched To Instead&rpar;](https://medium.com/@theabdullahidrees/why-i-stopped-using-copy-ai-after-three-months-and-what-i-switched-to-instead-3287cc846f85?source=rss------artificial_intelligence-5)**
+> 🔹 **[“AI Doesn’t Replace Thinking; Instead, It Exposes Lazy Thinking”](https://medium.com/@tamunogodfrey/ai-doesnt-replace-thinking-instead-it-exposes-lazy-thinking-4869bbb1214c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Generative AI Training: What You Will Learn in 2026](https://medium.com/@kalyanvisualpath/generative-ai-training-what-you-will-learn-in-2026-f8f322911ea0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Day Kolkata’s Search Results Stopped Being a List](https://medium.com/@srinikachanda25/the-day-kolkatas-search-results-stopped-being-a-list-58579a0b94bb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Working With Real World Data: CSV, Excel, and JSON Files](https://medium.com/@emmanuelowusuadu10/working-with-real-world-data-csv-excel-and-json-files-a75b7c493ca7?source=rss------artificial_intelligence-5)**
+> 🔹 **[NEWSLETTER: Latest in AI, TikTok, Cybersecurity and “Is AI Entering Its ‘CVE &amp; CVSS’ Moment”](https://medium.com/a-life-to-remember/newsletter-latest-in-ai-tiktok-cybersecurity-and-is-ai-entering-its-cve-cvss-moment-f746f62fe56f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
