@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Stop Using AI Like a Search Engine: Learn This Better Way Instead](https://medium.com/@muhammadishaque138/stop-using-ai-like-a-search-engine-learn-this-better-way-instead-6fd1adde1468?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Biggest Benefit of Our RAG Assistant Wasn’t Faster Search](https://medium.com/@akforreg/the-biggest-benefit-of-our-rag-assistant-wasnt-faster-search-28e440ae45c1?source=rss------artificial_intelligence-5)**
-> 🔹 **[What a 2-hour AI conversation taught me about where this is actually headed](https://medium.com/@naishasaxena2310/what-a-2-hour-ai-conversation-taught-me-about-where-this-is-actually-headed-0cf6e5118426?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Google Docs Handles Concurrent Edits: Building CRDTs From Scratch](https://medium.com/@mithunsrinivas28/how-google-docs-handles-concurrent-edits-building-crdts-from-scratch-6ef8b68cd78f?source=rss------system_design-5)**
-> 🔹 **[Panpsychism is onto something. But it’s impossible.](https://medium.com/@paul.k.pallaghy/panpsychism-is-onto-something-but-its-impossible-0c80b6274377?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Manual Grading is Costing Teachers Their Sanity &lpar;And How AI is Fixing It&rpar;](https://medium.com/@ahmadshahzad0701/why-manual-grading-is-costing-teachers-their-sanity-and-how-ai-is-fixing-it-918887176c62?source=rss------artificial_intelligence-5)**
-> 🔹 **[Singleton Design Pattern: The Java Interview Question That Gets Deeper With Every Follow-up](https://medium.com/prachub/singleton-design-pattern-the-java-interview-question-that-gets-deeper-with-every-follow-up-ea6d3b6815b7?source=rss------backend_development-5)**
-> 🔹 **[Who Controls the Pre-AGI World, and Who Owns the Post-AGI One?](https://ninza7.medium.com/who-controls-the-pre-agi-world-and-who-owns-the-post-agi-one-927a17706551?source=rss------artificial_intelligence-5)**
+> 🔹 **[Size matters — Why my Lambda couldn’t take it](https://awstip.com/size-matters-why-my-lambda-couldnt-take-it-b29d6422833b?source=rss------system_design-5)**
+> 🔹 **[My Rust API Was Saturating My CPU With Just Six Clients.](https://hiruthicsha.medium.com/my-rust-api-was-saturating-my-cpu-with-just-six-clients-a5cf91c5f12f?source=rss------backend_development-5)**
+> 🔹 **[What Are the Six Life Spheres in Astrology?](https://medium.com/@natalchart/what-are-the-six-life-spheres-in-astrology-27a2b9c953f1?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Are Long-Running AI Agents? A Beginner’s Guide](https://towardsdev.com/what-are-long-running-ai-agents-a-beginners-guide-8ff6c9a92464?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Asking AI “What Side Hustle Should I Start?” Make It Interview You Instead.](https://medium.com/write-rise/stop-asking-ai-what-side-hustle-should-i-start-make-it-interview-you-instead-38ed1ceb082b?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Started Building Multiple Income Streams with AI in 2026
+Many people believe you need…](https://medium.com/@emmasolution1980/how-i-started-building-multiple-income-streams-with-ai-in-2026-many-people-believe-you-need-8d90f286b0ef?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden AI That Knows You Better Than You Think](https://medium.com/@rishabharyan2007/the-hidden-ai-that-knows-you-better-than-you-think-8c915c3b5e5b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Made $2,840 With Claude AI in 30 Days: The Real 2026 Playbook](https://medium.com/@trends24/i-made-2-840-with-claude-ai-in-30-days-the-real-2026-playbook-fa069a67af25?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
