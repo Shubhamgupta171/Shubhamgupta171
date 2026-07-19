@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Design Archive: A Graveyard or a Living Product?](https://www.designsystemscollective.com/the-design-archive-a-graveyard-or-a-living-product-e564a1e53de7?source=rss------system_design-5)**
-> 🔹 **[Why Brand Matters More in the Age of AI](https://medium.com/pen-with-paper/why-brand-matters-more-in-the-age-of-ai-50e60e8f5ff4?source=rss------artificial_intelligence-5)**
-> 🔹 **[THE ARCHITECTURE OF PERMANENCE: DECONSTRUCTING KIMI-K3](https://medium.com/ai-simplified-in-plain-english/the-architecture-of-permanence-deconstructing-kimi-k3-c787a8905f48?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is Shadow AI? The Workplace Habit Nobody Talks About](https://brightmindai.medium.com/what-is-shadow-ai-the-workplace-habit-nobody-talks-about-db8f2c4e744b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Reranking: The Highest-Return Fix in RAG](https://medium.com/@pankaj_pandey/reranking-the-highest-return-fix-in-rag-cae27c84d56a?source=rss------artificial_intelligence-5)**
-> 🔹 **[20 Most Important AI Concepts Explained in Just 20 Minutes](https://medium.com/@singhkooner05/20-most-important-ai-concepts-explained-in-just-20-minutes-bda6a37dbd49?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Won’t Replace You — But Someone Using AI Might](https://medium.com/@muhammadishaque138/ai-wont-replace-you-but-someone-using-ai-might-addb9c8256fa?source=rss------artificial_intelligence-5)**
-> 🔹 **[Introduction to Statistics Every Data Scientist Needs](https://medium.com/@emmanuelowusuadu10/introduction-to-statistics-every-data-scientist-needs-c6a5368f32b1?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Make $5000/Month with AI Side Hustles in 2026 &lpar;No Experience Needed&rpar;](https://medium.com/@turasvai966/how-to-make-5000-month-with-ai-side-hustles-in-2026-no-experience-needed-6c4e7b2455f2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Lessons From Building Software With AI](https://codecat15.medium.com/lessons-from-building-software-with-ai-6b00ddfe73b5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Sweden Handed Ukraine a Weapon That Changes the Sky](https://medium.com/@neelam.jadon93/sweden-handed-ukraine-a-weapon-that-changes-the-sky-7816af4c13b5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building for the Agentic Web: Why AI Agents Will Be Your Next Customers](https://medium.com/@smartlywebbed/building-for-the-agentic-web-why-ai-agents-will-be-your-next-customers-59c05d6ab778?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Think AI Is Replacing Jobs. It’s Actually Redefining Expertise](https://medium.com/@ahanabanerjee/we-think-ai-is-replacing-jobs-its-actually-redefining-expertise-5edd00bdf2ed?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Importance of Problem Awareness in the Age of AI](https://medium.com/@ekunnusitheophilus/the-importance-of-problem-awareness-in-the-age-of-ai-23f1e3bea723?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Safest Career in the Age of AI Is Not the One You Think](https://medium.com/readers-club/the-safest-career-in-the-age-of-ai-is-not-the-one-you-think-8b96cd2e852d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Turn One Idea Into Six Platform-Ready Posts in Under 20 Minutes](https://medium.com/readers-club/how-i-turn-one-idea-into-six-platform-ready-posts-in-under-20-minutes-4cdaeb424250?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
