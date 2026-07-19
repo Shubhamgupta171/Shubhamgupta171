@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Make $5000/Month with AI Side Hustles in 2026 &lpar;No Experience Needed&rpar;](https://medium.com/@turasvai966/how-to-make-5000-month-with-ai-side-hustles-in-2026-no-experience-needed-6c4e7b2455f2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Lessons From Building Software With AI](https://codecat15.medium.com/lessons-from-building-software-with-ai-6b00ddfe73b5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Sweden Handed Ukraine a Weapon That Changes the Sky](https://medium.com/@neelam.jadon93/sweden-handed-ukraine-a-weapon-that-changes-the-sky-7816af4c13b5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building for the Agentic Web: Why AI Agents Will Be Your Next Customers](https://medium.com/@smartlywebbed/building-for-the-agentic-web-why-ai-agents-will-be-your-next-customers-59c05d6ab778?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Think AI Is Replacing Jobs. It’s Actually Redefining Expertise](https://medium.com/@ahanabanerjee/we-think-ai-is-replacing-jobs-its-actually-redefining-expertise-5edd00bdf2ed?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Importance of Problem Awareness in the Age of AI](https://medium.com/@ekunnusitheophilus/the-importance-of-problem-awareness-in-the-age-of-ai-23f1e3bea723?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Safest Career in the Age of AI Is Not the One You Think](https://medium.com/readers-club/the-safest-career-in-the-age-of-ai-is-not-the-one-you-think-8b96cd2e852d?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Turn One Idea Into Six Platform-Ready Posts in Under 20 Minutes](https://medium.com/readers-club/how-i-turn-one-idea-into-six-platform-ready-posts-in-under-20-minutes-4cdaeb424250?source=rss------artificial_intelligence-5)**
+> 🔹 **[Anatomy of an RLM: What’s Actually Happening Inside the Recursion](https://medium.com/@saxenadevanshi94/anatomy-of-an-rlm-whats-actually-happening-inside-the-recursion-12596b25333a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Apache APISIX AI Gateway: A Free, Open-Source AI Gateway for Enterprise LLM Applications](https://medium.com/@gauthugesh90/apache-apisix-ai-gateway-a-free-open-source-ai-gateway-for-enterprise-llm-applications-578e01214cab?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google ADK vs LangGraph in 2026: An Honest Production Comparison](https://medium.com/@mudassir00seven/google-adk-vs-langgraph-in-2026-an-honest-production-comparison-c225dbcabec8?source=rss------artificial_intelligence-5)**
+> 🔹 **[No longer science fiction: Are multiple careers in a single lifetime now essential?](https://medium.com/@tunaaldemir/no-longer-science-fiction-are-multiple-careers-in-a-single-lifetime-now-essential-6dc661ec450a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can AI Really Replace a Teacher?](https://medium.com/@smmarketingad/can-ai-really-replace-a-teacher-f820592ffdab?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 7 AI Agent Development Companies I’d Actually Shortlist If I Were Building an Enterprise Ag...](https://medium.com/@dextra_labs/the-7-ai-agent-development-companies-id-actually-shortlist-if-i-were-building-an-enterprise-agent-04b60c09ff24?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best AI Tools for Content Creators in 2026: 15 Powerful Apps That Actually Save Time
+From writi...](https://medium.com/@affan556khan123/best-ai-tools-for-content-creators-in-2026-15-powerful-apps-that-actually-save-time-from-writing-15e0a0ac3364?source=rss------artificial_intelligence-5)**
+> 🔹 **[Fable on benchmarking](https://medium.com/@ZombieCodeKill/fable-on-benchmarking-07a6962995b9?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
