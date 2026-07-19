@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Size matters — Why my Lambda couldn’t take it](https://awstip.com/size-matters-why-my-lambda-couldnt-take-it-b29d6422833b?source=rss------system_design-5)**
-> 🔹 **[My Rust API Was Saturating My CPU With Just Six Clients.](https://hiruthicsha.medium.com/my-rust-api-was-saturating-my-cpu-with-just-six-clients-a5cf91c5f12f?source=rss------backend_development-5)**
-> 🔹 **[What Are the Six Life Spheres in Astrology?](https://medium.com/@natalchart/what-are-the-six-life-spheres-in-astrology-27a2b9c953f1?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Are Long-Running AI Agents? A Beginner’s Guide](https://towardsdev.com/what-are-long-running-ai-agents-a-beginners-guide-8ff6c9a92464?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Asking AI “What Side Hustle Should I Start?” Make It Interview You Instead.](https://medium.com/write-rise/stop-asking-ai-what-side-hustle-should-i-start-make-it-interview-you-instead-38ed1ceb082b?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Started Building Multiple Income Streams with AI in 2026
-Many people believe you need…](https://medium.com/@emmasolution1980/how-i-started-building-multiple-income-streams-with-ai-in-2026-many-people-believe-you-need-8d90f286b0ef?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden AI That Knows You Better Than You Think](https://medium.com/@rishabharyan2007/the-hidden-ai-that-knows-you-better-than-you-think-8c915c3b5e5b?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Made $2,840 With Claude AI in 30 Days: The Real 2026 Playbook](https://medium.com/@trends24/i-made-2-840-with-claude-ai-in-30-days-the-real-2026-playbook-fa069a67af25?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Design Archive: A Graveyard or a Living Product?](https://www.designsystemscollective.com/the-design-archive-a-graveyard-or-a-living-product-e564a1e53de7?source=rss------system_design-5)**
+> 🔹 **[Why Brand Matters More in the Age of AI](https://medium.com/pen-with-paper/why-brand-matters-more-in-the-age-of-ai-50e60e8f5ff4?source=rss------artificial_intelligence-5)**
+> 🔹 **[THE ARCHITECTURE OF PERMANENCE: DECONSTRUCTING KIMI-K3](https://medium.com/ai-simplified-in-plain-english/the-architecture-of-permanence-deconstructing-kimi-k3-c787a8905f48?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is Shadow AI? The Workplace Habit Nobody Talks About](https://brightmindai.medium.com/what-is-shadow-ai-the-workplace-habit-nobody-talks-about-db8f2c4e744b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Reranking: The Highest-Return Fix in RAG](https://medium.com/@pankaj_pandey/reranking-the-highest-return-fix-in-rag-cae27c84d56a?source=rss------artificial_intelligence-5)**
+> 🔹 **[20 Most Important AI Concepts Explained in Just 20 Minutes](https://medium.com/@singhkooner05/20-most-important-ai-concepts-explained-in-just-20-minutes-bda6a37dbd49?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Won’t Replace You — But Someone Using AI Might](https://medium.com/@muhammadishaque138/ai-wont-replace-you-but-someone-using-ai-might-addb9c8256fa?source=rss------artificial_intelligence-5)**
+> 🔹 **[Introduction to Statistics Every Data Scientist Needs](https://medium.com/@emmanuelowusuadu10/introduction-to-statistics-every-data-scientist-needs-c6a5368f32b1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
