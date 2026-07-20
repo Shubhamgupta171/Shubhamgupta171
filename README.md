@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Staging Should Feel Like a Safety Net, Not a Mystery Box](https://medium.com/@xanhido/staging-should-feel-like-a-safety-net-not-a-mystery-box-3db5c658b0ad?source=rss------backend_development-5)**
-> 🔹 **[Why I Refuse to Scale My Coding Agents](https://medium.com/@nbhyxq/why-i-refuse-to-scale-my-coding-agents-5b7501b4ad0c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Lost in Transcription: When the Machine Speaks](https://medium.com/@pejcanlas25/lost-in-transcription-when-the-machine-speaks-2c4f1f0f9a5d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The True Cost of Unmanaged LLM Usage in Enterprise](https://medium.com/@vishnu_73501/the-true-cost-of-unmanaged-llm-usage-in-enterprise-6bf04a47e34c?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Automation for Compliance-Ready Operations: Why Speed Alone Is Not Enough](https://medium.com/@msopsai/ai-automation-for-compliance-ready-operations-why-speed-alone-is-not-enough-e553e166bf97?source=rss------artificial_intelligence-5)**
-> 🔹 **[[Insights] Distribution Is the Strategy — The Three Games Google Played at Once This Week](https://inseok.medium.com/insights-distribution-is-the-strategy-the-three-games-google-played-at-once-this-week-1ee7e40f85b2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is the World’s Largest Open-Source AI Model Worth the Hype?](https://ai.gopubby.com/is-the-worlds-largest-open-source-ai-model-worth-the-hype-5c69ad5d5de4?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Happened When I Showed an AI’s Inner Monologue to a Room Full of Engineers](https://medium.com/@jay.bob/what-happened-when-i-showed-an-ais-inner-monologue-to-a-room-full-of-engineers-0650439893f5?source=rss------artificial_intelligence-5)**
+> 🔹 **[The honest capability map for running AI locally in 2026 — what fits in 16GB, what needs 64GB,...](https://bourakis.medium.com/the-honest-capability-map-for-running-ai-locally-in-2026-what-fits-in-16gb-what-needs-64gb-what-616195c0d608?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Haven’t Written a Line of Code in 2 Years. Here’s Why I Ship More Than Ever.](https://desolatte.medium.com/i-havent-written-a-line-of-code-in-2-years-here-s-why-i-ship-more-than-ever-50116817aced?source=rss------artificial_intelligence-5)**
+> 🔹 **[Which Developer Are You Becoming? The Truth About AI Coding Tools vs. Real Programming Skills](https://medium.com/@sandeep.seo.hachion/which-developer-are-you-becoming-the-truth-about-ai-coding-tools-vs-real-programming-skills-ce89f9b65262?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Best AI Subscription Isn’t Always the Smartest One](https://medium.com/@fathimathfida.marketing/the-best-ai-subscription-isnt-always-the-smartest-one-31cc8bf0325b?source=rss------artificial_intelligence-5)**
+> 🔹 **[US Stock Market Outlook: Key Risks and Opportunities Ahead](https://medium.com/@fintechastrodunia1/us-stock-market-outlook-key-risks-and-opportunities-ahead-8040a6605e25?source=rss------artificial_intelligence-5)**
+> 🔹 **[10 Ways AI Agents Can Help You Earn Online in 2026.](https://medium.com/@sudais9988ahmad/10-ways-ai-agents-can-help-you-earn-online-in-2026-7a4004ed9b03?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bir Robot Yumruk Attığında Aslında Ne Oluyor?](https://medium.com/@edaasahiin7/bir-robot-yumruk-att%C4%B1%C4%9F%C4%B1nda-asl%C4%B1nda-ne-oluyor-72e8d68ff267?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agent Hardware Is Not an Enterprise AI Strategy](https://felixanderson-able.medium.com/agent-hardware-is-not-an-enterprise-ai-strategy-7a96fc03f9d1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
