@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The honest capability map for running AI locally in 2026 — what fits in 16GB, what needs 64GB,...](https://bourakis.medium.com/the-honest-capability-map-for-running-ai-locally-in-2026-what-fits-in-16gb-what-needs-64gb-what-616195c0d608?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Haven’t Written a Line of Code in 2 Years. Here’s Why I Ship More Than Ever.](https://desolatte.medium.com/i-havent-written-a-line-of-code-in-2-years-here-s-why-i-ship-more-than-ever-50116817aced?source=rss------artificial_intelligence-5)**
-> 🔹 **[Which Developer Are You Becoming? The Truth About AI Coding Tools vs. Real Programming Skills](https://medium.com/@sandeep.seo.hachion/which-developer-are-you-becoming-the-truth-about-ai-coding-tools-vs-real-programming-skills-ce89f9b65262?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Best AI Subscription Isn’t Always the Smartest One](https://medium.com/@fathimathfida.marketing/the-best-ai-subscription-isnt-always-the-smartest-one-31cc8bf0325b?source=rss------artificial_intelligence-5)**
-> 🔹 **[US Stock Market Outlook: Key Risks and Opportunities Ahead](https://medium.com/@fintechastrodunia1/us-stock-market-outlook-key-risks-and-opportunities-ahead-8040a6605e25?source=rss------artificial_intelligence-5)**
-> 🔹 **[10 Ways AI Agents Can Help You Earn Online in 2026.](https://medium.com/@sudais9988ahmad/10-ways-ai-agents-can-help-you-earn-online-in-2026-7a4004ed9b03?source=rss------artificial_intelligence-5)**
-> 🔹 **[Bir Robot Yumruk Attığında Aslında Ne Oluyor?](https://medium.com/@edaasahiin7/bir-robot-yumruk-att%C4%B1%C4%9F%C4%B1nda-asl%C4%B1nda-ne-oluyor-72e8d68ff267?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agent Hardware Is Not an Enterprise AI Strategy](https://felixanderson-able.medium.com/agent-hardware-is-not-an-enterprise-ai-strategy-7a96fc03f9d1?source=rss------artificial_intelligence-5)**
+> 🔹 **[The MLOps Guide to Cloud-Native Model Serving and Autoscaling on Kubernetes](https://levelup.gitconnected.com/the-mlops-guide-to-cloud-native-model-serving-and-autoscaling-on-kubernetes-32f143ba9ce2?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Multi-Tenant Architecture — The Economics of One Shared Stack](https://levelup.gitconnected.com/multi-tenant-architecture-the-economics-of-one-shared-stack-21d9f9b934ac?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Why Doesn’t Every HTTP Response Get Compressed?](https://levelup.gitconnected.com/why-doesnt-every-http-response-get-compressed-6021fc00742e?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Before We Compress Anything, We Should Ask Why the Response Is That Big](https://levelup.gitconnected.com/before-we-compress-anything-we-should-ask-why-the-response-is-that-big-6241320a0b4e?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Read-Modify-Write isolation in NoSQL: the distributed-lock hell.](https://levelup.gitconnected.com/read-modify-write-isolation-in-nosql-the-distributed-lock-hell-05dbe3e08072?source=rss----5517fd7b58a6---4)**
+> 🔹 **[LLM-as-a-Judge Fails at Exactly the Moment You Need It Most. Here Is the Mathematical Proof.](https://levelup.gitconnected.com/llm-as-a-judge-fails-at-exactly-the-moment-you-need-it-most-here-is-the-mathematical-proof-350a80377e09?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Playwright TypeScript Multiple Environments: A Complete Real-World Guide](https://levelup.gitconnected.com/playwright-typescript-multiple-environments-a-complete-real-world-guide-4173bb136d68?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Building an AI Agent in Java — A Backend Engineer’s Perspective](https://levelup.gitconnected.com/building-an-ai-agent-in-java-a-backend-engineers-perspective-b25117056d28?source=rss----5517fd7b58a6---4)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
