@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The MLOps Guide to Cloud-Native Model Serving and Autoscaling on Kubernetes](https://levelup.gitconnected.com/the-mlops-guide-to-cloud-native-model-serving-and-autoscaling-on-kubernetes-32f143ba9ce2?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Multi-Tenant Architecture — The Economics of One Shared Stack](https://levelup.gitconnected.com/multi-tenant-architecture-the-economics-of-one-shared-stack-21d9f9b934ac?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Why Doesn’t Every HTTP Response Get Compressed?](https://levelup.gitconnected.com/why-doesnt-every-http-response-get-compressed-6021fc00742e?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Before We Compress Anything, We Should Ask Why the Response Is That Big](https://levelup.gitconnected.com/before-we-compress-anything-we-should-ask-why-the-response-is-that-big-6241320a0b4e?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Read-Modify-Write isolation in NoSQL: the distributed-lock hell.](https://levelup.gitconnected.com/read-modify-write-isolation-in-nosql-the-distributed-lock-hell-05dbe3e08072?source=rss----5517fd7b58a6---4)**
-> 🔹 **[LLM-as-a-Judge Fails at Exactly the Moment You Need It Most. Here Is the Mathematical Proof.](https://levelup.gitconnected.com/llm-as-a-judge-fails-at-exactly-the-moment-you-need-it-most-here-is-the-mathematical-proof-350a80377e09?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Playwright TypeScript Multiple Environments: A Complete Real-World Guide](https://levelup.gitconnected.com/playwright-typescript-multiple-environments-a-complete-real-world-guide-4173bb136d68?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Building an AI Agent in Java — A Backend Engineer’s Perspective](https://levelup.gitconnected.com/building-an-ai-agent-in-java-a-backend-engineers-perspective-b25117056d28?source=rss----5517fd7b58a6---4)**
+> 🔹 **[How AI can serve affordable housing professionals](https://medium.com/@hudsontechnologysolutions/how-ai-can-serve-affordable-housing-professionals-1e7eba6423f9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future of Education: How AI Is Transforming the Way We Learn](https://medium.com/@u972985/the-future-of-education-how-ai-is-transforming-the-way-we-learn-8457452f9f1b?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Token for Your Thoughts](https://medium.com/illumination/a-token-for-your-thoughts-81b664b6e218?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AEO tricks that don’t work in AI search](https://medium.com/@abhishek97.edu/the-aeo-tricks-that-dont-work-in-ai-search-f39252346d3e?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Privacy-Preserving AI Camera Agent on a Phone — and It Still Works Offline](https://medium.com/@g18797056/i-built-a-privacy-preserving-ai-camera-agent-on-a-phone-and-it-still-works-offline-5980f799885a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Build vs Buy AI: The Decision Nobody Gets Right](https://medium.com/illumination/build-vs-buy-ai-the-decision-nobody-gets-right-3251db469306?source=rss------artificial_intelligence-5)**
+> 🔹 **[NexusOne: The Data Layer for AI](https://medium.com/@nikitacbudholiya/nexusone-the-data-layer-for-ai-026512c730fd?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Changing YouTube Forever](https://medium.com/@msimoliunas/how-ai-is-changing-youtube-forever-6eb73085461e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
