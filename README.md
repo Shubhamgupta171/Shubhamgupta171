@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Most Dangerous AI Mistakes Don’t Look like Mistakes](https://medium.com/@propromptflow/the-most-dangerous-ai-mistakes-dont-look-like-mistakes-50004853a2ff?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Our MCP Server Organizes Live Signals, Newsletters, and Market Briefs](https://medium.com/@astroduniaaterminal/how-our-mcp-server-organizes-live-signals-newsletters-and-market-briefs-b23da8483af6?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Engineer or Platform Engineer? Nobody Explains This Confusing New Job Title Problem &lpar;2026 Gu...](https://medium.com/google-developer-experts/ai-engineer-or-platform-engineer-nobody-explains-this-confusing-new-job-title-problem-2026-guide-484a010b2cea?source=rss------artificial_intelligence-5)**
-> 🔹 **[BYOC AI Infrastructure: Why Enterprises Are Bringing AI Workloads Back to Their Own Cloud](https://medium.com/@simplismartai/byoc-ai-infrastructure-why-enterprises-are-bringing-ai-workloads-back-to-their-own-cloud-fea9dd14d3e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The New Cinematic Pipeline: Redefining Production in the AI Era](https://medium.com/@nishith.dayal01/the-new-cinematic-pipeline-redefining-production-in-the-ai-era-d7ea44b5491c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is That All This Is? — A Programmer Meets the Prompt](https://medium.com/codetodeploy/is-that-all-this-is-a-programmer-meets-the-prompt-67ee33b42b33?source=rss------artificial_intelligence-5)**
-> 🔹 **[15 Surprising Ways to Use ChatGPT That Most People Never Think About .](https://medium.com/@wisepickreview/15-surprising-ways-to-use-chatgpt-that-most-people-never-think-about-776e9329dfa6?source=rss------artificial_intelligence-5)**
-> 🔹 **[FakeGit &amp; AgentBaiting: 7,600 Malicious GitHub Repos Are Tricking AI Agents Into Installing Mal...](https://medium.com/@sathesiddhesh16/fakegit-agentbaiting-7-600-malicious-github-repos-are-tricking-ai-agents-into-installing-malware-7a4a0631201b?source=rss------artificial_intelligence-5)**
+> 🔹 **[System Design Masterclass &lpar;Part 14&rpar;: Idempotency &amp; Exactly-Once Processing](https://medium.com/@ronomahedi/system-design-masterclass-part-14-idempotency-exactly-once-processing-6c5f2d4f8b14?source=rss------system_design-5)**
+> 🔹 **[System Design Masterclass &lpar;Part 14&rpar;: Idempotency &amp; Exactly-Once Processing](https://medium.com/@ronomahedi/system-design-masterclass-part-14-idempotency-exactly-once-processing-6c5f2d4f8b14?source=rss------backend_development-5)**
+> 🔹 **[AI Product Development Process: From Idea to Launch](https://medium.com/@evincedevelop/ai-product-development-process-from-idea-to-launch-2026fb18f05c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Humans Hiding Inside ‘Artificial’ Intelligence](https://medium.com/ai-ai-oh/the-humans-hiding-inside-artificial-intelligence-1416129592bb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Want AI to Recommend Your Business? Start with GEO](https://medium.com/@hello_41568/want-ai-to-recommend-your-business-start-with-geo-4f860450c76a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bounded Contexts Break When Your DB Is Shared](https://elsyarifx.medium.com/bounded-contexts-break-when-your-db-is-shared-197b89ef0972?source=rss------backend_development-5)**
+> 🔹 **[The Model Was Never the Moat](https://medium.com/coinmonks/the-model-was-never-the-moat-7d1af32fcc50?source=rss------artificial_intelligence-5)**
+> 🔹 **[Will AI kill no-code app builders? What the industry won’t tell you](https://medium.com/@mustn/will-ai-kill-no-code-app-builders-what-the-industry-wont-tell-you-178729c050f7?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
