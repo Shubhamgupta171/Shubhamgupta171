@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How AI can serve affordable housing professionals](https://medium.com/@hudsontechnologysolutions/how-ai-can-serve-affordable-housing-professionals-1e7eba6423f9?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Future of Education: How AI Is Transforming the Way We Learn](https://medium.com/@u972985/the-future-of-education-how-ai-is-transforming-the-way-we-learn-8457452f9f1b?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Token for Your Thoughts](https://medium.com/illumination/a-token-for-your-thoughts-81b664b6e218?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AEO tricks that don’t work in AI search](https://medium.com/@abhishek97.edu/the-aeo-tricks-that-dont-work-in-ai-search-f39252346d3e?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a Privacy-Preserving AI Camera Agent on a Phone — and It Still Works Offline](https://medium.com/@g18797056/i-built-a-privacy-preserving-ai-camera-agent-on-a-phone-and-it-still-works-offline-5980f799885a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Build vs Buy AI: The Decision Nobody Gets Right](https://medium.com/illumination/build-vs-buy-ai-the-decision-nobody-gets-right-3251db469306?source=rss------artificial_intelligence-5)**
-> 🔹 **[NexusOne: The Data Layer for AI](https://medium.com/@nikitacbudholiya/nexusone-the-data-layer-for-ai-026512c730fd?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Is Changing YouTube Forever](https://medium.com/@msimoliunas/how-ai-is-changing-youtube-forever-6eb73085461e?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Myths vs. Reality: What AI Can and Can’t Actually Do](https://medium.com/@tuanhadev/ai-myths-vs-reality-what-ai-can-and-cant-actually-do-8c2d88ef6c23?source=rss------artificial_intelligence-5)**
+> 🔹 **[No estamos proponiendo construir otro edificio.](https://medium.com/@velezrestrepoalejandro/no-estamos-proponiendo-construir-otro-edificio-68b3d7629ac8?source=rss------artificial_intelligence-5)**
+> 🔹 **[A‘I’ Generated Technical Drawings](https://medium.com/@matthew.fredenburg/llm-intelligence-image-generation-e6c3236cc53a?source=rss------artificial_intelligence-5)**
+> 🔹 **[10 Years to Build the Language. 11 Days for AI to Rewrite It. Then $340,000 a Year Stopped.](https://medium.com/@trends24/10-years-to-build-the-language-11-days-for-ai-to-rewrite-it-then-340-000-a-year-stopped-98407379543d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kimi K3 is 40% cheaper than Claude Opus 4.8,](https://nitingavhane.medium.com/kimi-k3-is-40-cheaper-than-claude-opus-4-8-33718c6ed81e?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Tool Data Privacy: The Hidden Mistakes That Can Cost Your Users’ Trust](https://medium.com/@lumacommonstech/ai-tool-data-privacy-the-hidden-mistakes-that-can-cost-your-users-trust-5b6eea46cdac?source=rss------artificial_intelligence-5)**
+> 🔹 **[EPC Unveils Gen7 GaN for AI Data Centers — Semiconductor News, July 21, 2026](https://tai-semicon.medium.com/epc-unveils-gen7-gan-for-ai-data-centers-semiconductor-news-july-21-2026-87ff7cfe1d82?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Paying for Claude?](https://medium.com/codetodeploy/stop-paying-for-claude-330115a987b4?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
