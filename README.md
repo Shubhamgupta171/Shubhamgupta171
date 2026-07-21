@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI Myths vs. Reality: What AI Can and Can’t Actually Do](https://medium.com/@tuanhadev/ai-myths-vs-reality-what-ai-can-and-cant-actually-do-8c2d88ef6c23?source=rss------artificial_intelligence-5)**
-> 🔹 **[No estamos proponiendo construir otro edificio.](https://medium.com/@velezrestrepoalejandro/no-estamos-proponiendo-construir-otro-edificio-68b3d7629ac8?source=rss------artificial_intelligence-5)**
-> 🔹 **[A‘I’ Generated Technical Drawings](https://medium.com/@matthew.fredenburg/llm-intelligence-image-generation-e6c3236cc53a?source=rss------artificial_intelligence-5)**
-> 🔹 **[10 Years to Build the Language. 11 Days for AI to Rewrite It. Then $340,000 a Year Stopped.](https://medium.com/@trends24/10-years-to-build-the-language-11-days-for-ai-to-rewrite-it-then-340-000-a-year-stopped-98407379543d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Kimi K3 is 40% cheaper than Claude Opus 4.8,](https://nitingavhane.medium.com/kimi-k3-is-40-cheaper-than-claude-opus-4-8-33718c6ed81e?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Tool Data Privacy: The Hidden Mistakes That Can Cost Your Users’ Trust](https://medium.com/@lumacommonstech/ai-tool-data-privacy-the-hidden-mistakes-that-can-cost-your-users-trust-5b6eea46cdac?source=rss------artificial_intelligence-5)**
-> 🔹 **[EPC Unveils Gen7 GaN for AI Data Centers — Semiconductor News, July 21, 2026](https://tai-semicon.medium.com/epc-unveils-gen7-gan-for-ai-data-centers-semiconductor-news-july-21-2026-87ff7cfe1d82?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Paying for Claude?](https://medium.com/codetodeploy/stop-paying-for-claude-330115a987b4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Most Dangerous AI Mistakes Don’t Look like Mistakes](https://medium.com/@propromptflow/the-most-dangerous-ai-mistakes-dont-look-like-mistakes-50004853a2ff?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Our MCP Server Organizes Live Signals, Newsletters, and Market Briefs](https://medium.com/@astroduniaaterminal/how-our-mcp-server-organizes-live-signals-newsletters-and-market-briefs-b23da8483af6?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Engineer or Platform Engineer? Nobody Explains This Confusing New Job Title Problem &lpar;2026 Gu...](https://medium.com/google-developer-experts/ai-engineer-or-platform-engineer-nobody-explains-this-confusing-new-job-title-problem-2026-guide-484a010b2cea?source=rss------artificial_intelligence-5)**
+> 🔹 **[BYOC AI Infrastructure: Why Enterprises Are Bringing AI Workloads Back to Their Own Cloud](https://medium.com/@simplismartai/byoc-ai-infrastructure-why-enterprises-are-bringing-ai-workloads-back-to-their-own-cloud-fea9dd14d3e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The New Cinematic Pipeline: Redefining Production in the AI Era](https://medium.com/@nishith.dayal01/the-new-cinematic-pipeline-redefining-production-in-the-ai-era-d7ea44b5491c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is That All This Is? — A Programmer Meets the Prompt](https://medium.com/codetodeploy/is-that-all-this-is-a-programmer-meets-the-prompt-67ee33b42b33?source=rss------artificial_intelligence-5)**
+> 🔹 **[15 Surprising Ways to Use ChatGPT That Most People Never Think About .](https://medium.com/@wisepickreview/15-surprising-ways-to-use-chatgpt-that-most-people-never-think-about-776e9329dfa6?source=rss------artificial_intelligence-5)**
+> 🔹 **[FakeGit &amp; AgentBaiting: 7,600 Malicious GitHub Repos Are Tricking AI Agents Into Installing Mal...](https://medium.com/@sathesiddhesh16/fakegit-agentbaiting-7-600-malicious-github-repos-are-tricking-ai-agents-into-installing-malware-7a4a0631201b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
