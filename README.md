@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[System Design Masterclass &lpar;Part 14&rpar;: Idempotency &amp; Exactly-Once Processing](https://medium.com/@ronomahedi/system-design-masterclass-part-14-idempotency-exactly-once-processing-6c5f2d4f8b14?source=rss------system_design-5)**
-> 🔹 **[System Design Masterclass &lpar;Part 14&rpar;: Idempotency &amp; Exactly-Once Processing](https://medium.com/@ronomahedi/system-design-masterclass-part-14-idempotency-exactly-once-processing-6c5f2d4f8b14?source=rss------backend_development-5)**
-> 🔹 **[AI Product Development Process: From Idea to Launch](https://medium.com/@evincedevelop/ai-product-development-process-from-idea-to-launch-2026fb18f05c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Humans Hiding Inside ‘Artificial’ Intelligence](https://medium.com/ai-ai-oh/the-humans-hiding-inside-artificial-intelligence-1416129592bb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Want AI to Recommend Your Business? Start with GEO](https://medium.com/@hello_41568/want-ai-to-recommend-your-business-start-with-geo-4f860450c76a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Bounded Contexts Break When Your DB Is Shared](https://elsyarifx.medium.com/bounded-contexts-break-when-your-db-is-shared-197b89ef0972?source=rss------backend_development-5)**
-> 🔹 **[The Model Was Never the Moat](https://medium.com/coinmonks/the-model-was-never-the-moat-7d1af32fcc50?source=rss------artificial_intelligence-5)**
-> 🔹 **[Will AI kill no-code app builders? What the industry won’t tell you](https://medium.com/@mustn/will-ai-kill-no-code-app-builders-what-the-industry-wont-tell-you-178729c050f7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Ascending The AI Peak: 3 Strategies The Most-Mentioned Brands Use To Get Noticed By AI, Real-Wo...](https://medium.com/@adriana.lima.93/ascending-the-ai-peak-3-strategies-the-most-mentioned-brands-use-to-get-noticed-by-ai-real-world-5f23ccb76522?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Biggest Win Wasn’t Passing the Interview. It Was Changing How I Make Decisions.](https://medium.com/@enderecarl/the-biggest-win-wasnt-passing-the-interview-it-was-changing-how-i-make-decisions-d00e05308595?source=rss------artificial_intelligence-5)**
+> 🔹 **[71% of My RAG Pipeline’s Errors Weren’t Hallucinations, They Were a Calendar Problem](https://aimirihad.medium.com/71-of-my-rag-pipelines-errors-weren-t-hallucinations-they-were-a-calendar-problem-f769687defe9?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Didn’t Automate Our Kernel Upgrade Process. Workflow Thinking Did.](https://medium.com/@jaju.dilip/ai-didnt-automate-our-kernel-upgrade-process-workflow-thinking-did-0a994237df89?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bir AI Karşılaştırma Platformu Nasıl Geliştirilir?](https://medium.com/@eneszengin6129/bir-ai-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma-platformu-nas%C4%B1l-geli%C5%9Ftirilir-e4b17af0b3b2?source=rss------artificial_intelligence-5)**
+> 🔹 **[NRED May Have Just Added the Missing Business Layer to MetalCore](https://medium.com/@broderick_northcott/nred-may-have-just-added-the-missing-business-layer-to-metalcore-18553c69a7a3?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Transforming Data Analytics: 7 Ways Analysts Can Work Smarter](https://medium.com/@chaudhryshujahali0/how-ai-is-transforming-data-analytics-7-ways-analysts-can-work-smarter-e13be6a184bb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google Shipped Gemini 3.6 Flash Because It Couldn’t Ship 3.5 Pro.](https://medium.com/data-science-collective/google-shipped-gemini-3-6-flash-because-it-couldnt-ship-3-5-pro-03f2bcff41f2?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
