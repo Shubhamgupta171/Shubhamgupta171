@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Terahertz Therapiegerät im Praxistest: Eine echte Hilfe bei Gelenk- und Rückenschmerzen?](https://medium.com/@annaausterlist/terahertz-therapieger%C3%A4t-im-praxistest-eine-echte-hilfe-bei-gelenk-und-r%C3%BCckenschmerzen-699dedeaf8c7?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is No Longer a Tech Industry Story. It’s Everyone’s Story Now.](https://medium.com/@bucek.tomas/ai-is-no-longer-a-tech-industry-story-its-everyone-s-story-now-1dca021514b9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Developing with AI: Context, Agents, RAG, MCP, and What Actually Matters](https://medium.com/@emersonveras.dev/developing-with-ai-context-agents-rag-mcp-and-what-actually-matters-a13419051e3d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your RAG Recalls 80% and Still Lies: The 6 Online Gates](https://medium.com/@coolercoder/your-rag-recalls-80-and-still-lies-the-6-online-gates-d74aaea4fea2?source=rss------artificial_intelligence-5)**
-> 🔹 **[RAG vs Fine-Tuning: The Decision That Saves You Months](https://satyajeet-bansode.medium.com/rag-vs-fine-tuning-the-decision-that-saves-you-months-fd1fed70fef4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is AI Breaking Recruiting?](https://thebrianfink.medium.com/is-ai-breaking-recruiting-87ee00b34d67?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Would Start Pinterest From Zero Today &lpar;If I Had No Followers&rpar;](https://medium.com/@jaivanshsagwan1/how-i-would-start-pinterest-from-zero-today-if-i-had-no-followers-0bd6dc9fb5d1?source=rss------artificial_intelligence-5)**
-> 🔹 **[How 3 new OpenAI tools pushed one team’s agent accuracy from 73% to 85% &lpar;with real code&rpar;](https://nitingavhane.medium.com/how-3-new-openai-tools-pushed-one-teams-agent-accuracy-from-73-to-85-with-real-code-46f2d66e0966?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why I Moved My AI Startup Off the Cloud](https://kapucuonur.medium.com/why-i-moved-my-ai-startup-off-the-cloud-4438663e7d82?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Beacons of Gondor: A Federated Learning System with Terrible Bandwidth](https://medium.com/technology-hits/the-beacons-of-gondor-a-federated-learning-system-with-terrible-bandwidth-f284c9b82d6f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Running a Software Company Feels Very Different in the AI Era](https://medium.com/alex-h/running-a-software-company-feels-very-different-in-the-ai-era-83da629c4a4e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Meet ChatGPT Work: Your New AI Personal Assistant](https://medium.com/@gmcaudios/meet-chatgpt-work-your-new-ai-personal-assistant-de753c446240?source=rss------artificial_intelligence-5)**
+> 🔹 **[What You Need to Know About TypeScript Generics in 2026](https://medium.com/@flymingotech/what-you-need-to-know-about-typescript-generics-in-2026-747f29ea5e0f?source=rss------backend_development-5)**
+> 🔹 **[Forward-Deployed Engineering: The AI Job Growing Up to 1,000% a Year — and Why QA Engineers Are...](https://blog.stackademic.com/forward-deployed-engineering-the-ai-job-growing-up-to-1-000-a-year-and-why-qa-engineers-are-f5321d5fd862?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cheap Countries Are Cheap for Exactly 36 Months](https://medium.com/the-borderless/cheap-countries-are-cheap-for-exactly-36-months-6fa33f287385?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is Your Loyalty Platform Already Outdated? What Irish Brands Should Be Asking Right Now](https://medium.com/@brandfire.co/is-your-loyalty-platform-already-outdated-what-irish-brands-should-be-asking-right-now-bf24a0159508?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
