@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why I Moved My AI Startup Off the Cloud](https://kapucuonur.medium.com/why-i-moved-my-ai-startup-off-the-cloud-4438663e7d82?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Beacons of Gondor: A Federated Learning System with Terrible Bandwidth](https://medium.com/technology-hits/the-beacons-of-gondor-a-federated-learning-system-with-terrible-bandwidth-f284c9b82d6f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Running a Software Company Feels Very Different in the AI Era](https://medium.com/alex-h/running-a-software-company-feels-very-different-in-the-ai-era-83da629c4a4e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Meet ChatGPT Work: Your New AI Personal Assistant](https://medium.com/@gmcaudios/meet-chatgpt-work-your-new-ai-personal-assistant-de753c446240?source=rss------artificial_intelligence-5)**
-> 🔹 **[What You Need to Know About TypeScript Generics in 2026](https://medium.com/@flymingotech/what-you-need-to-know-about-typescript-generics-in-2026-747f29ea5e0f?source=rss------backend_development-5)**
-> 🔹 **[Forward-Deployed Engineering: The AI Job Growing Up to 1,000% a Year — and Why QA Engineers Are...](https://blog.stackademic.com/forward-deployed-engineering-the-ai-job-growing-up-to-1-000-a-year-and-why-qa-engineers-are-f5321d5fd862?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cheap Countries Are Cheap for Exactly 36 Months](https://medium.com/the-borderless/cheap-countries-are-cheap-for-exactly-36-months-6fa33f287385?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is Your Loyalty Platform Already Outdated? What Irish Brands Should Be Asking Right Now](https://medium.com/@brandfire.co/is-your-loyalty-platform-already-outdated-what-irish-brands-should-be-asking-right-now-bf24a0159508?source=rss------artificial_intelligence-5)**
+> 🔹 **[Demystifying Consistent Hashing: From Ground Zero to Production-Ready Architecture](https://aniketgawande.medium.com/demystifying-consistent-hashing-from-ground-zero-to-production-ready-architecture-a9ef4f17cc8f?source=rss------system_design-5)**
+> 🔹 **[Demystifying Consistent Hashing: From Ground Zero to Production-Ready Architecture](https://aniketgawande.medium.com/demystifying-consistent-hashing-from-ground-zero-to-production-ready-architecture-a9ef4f17cc8f?source=rss------backend_development-5)**
+> 🔹 **[Are AI engineers stupid?](https://medium.com/@yamamoto.yuichi/are-ai-engineers-stupid-dfd0b32da7ca?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Missing Layer in Agentic AI : Teaching Agents New Skills](https://manalisomani099.medium.com/the-missing-layer-in-agentic-ai-teaching-agents-new-skills-00c1d475d70c?source=rss------system_design-5)**
+> 🔹 **[The Missing Layer in Agentic AI : Teaching Agents New Skills](https://manalisomani099.medium.com/the-missing-layer-in-agentic-ai-teaching-agents-new-skills-00c1d475d70c?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Consultant for Small Business: A Complete Guide to Smarter Growth in 2026](https://medium.com/@zaavianhashim/ai-consultant-for-small-business-a-complete-guide-to-smarter-growth-in-2026-b741584b4656?source=rss------artificial_intelligence-5)**
+> 🔹 **[Pax Silica: A Golden Opportunity — or the Same Old Story?](https://medium.com/@pjvfctm/pax-silica-a-golden-opportunity-or-the-same-old-story-94bd5182561b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Phishing: The Enduring Cyber Threat and Its Rapid Evolution](https://medium.com/@hackersclique857/phishing-the-enduring-cyber-threat-and-its-rapid-evolution-68d92fbbb3f4?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
