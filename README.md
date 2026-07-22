@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Ascending The AI Peak: 3 Strategies The Most-Mentioned Brands Use To Get Noticed By AI, Real-Wo...](https://medium.com/@adriana.lima.93/ascending-the-ai-peak-3-strategies-the-most-mentioned-brands-use-to-get-noticed-by-ai-real-world-5f23ccb76522?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Biggest Win Wasn’t Passing the Interview. It Was Changing How I Make Decisions.](https://medium.com/@enderecarl/the-biggest-win-wasnt-passing-the-interview-it-was-changing-how-i-make-decisions-d00e05308595?source=rss------artificial_intelligence-5)**
-> 🔹 **[71% of My RAG Pipeline’s Errors Weren’t Hallucinations, They Were a Calendar Problem](https://aimirihad.medium.com/71-of-my-rag-pipelines-errors-weren-t-hallucinations-they-were-a-calendar-problem-f769687defe9?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Didn’t Automate Our Kernel Upgrade Process. Workflow Thinking Did.](https://medium.com/@jaju.dilip/ai-didnt-automate-our-kernel-upgrade-process-workflow-thinking-did-0a994237df89?source=rss------artificial_intelligence-5)**
-> 🔹 **[Bir AI Karşılaştırma Platformu Nasıl Geliştirilir?](https://medium.com/@eneszengin6129/bir-ai-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma-platformu-nas%C4%B1l-geli%C5%9Ftirilir-e4b17af0b3b2?source=rss------artificial_intelligence-5)**
-> 🔹 **[NRED May Have Just Added the Missing Business Layer to MetalCore](https://medium.com/@broderick_northcott/nred-may-have-just-added-the-missing-business-layer-to-metalcore-18553c69a7a3?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Is Transforming Data Analytics: 7 Ways Analysts Can Work Smarter](https://medium.com/@chaudhryshujahali0/how-ai-is-transforming-data-analytics-7-ways-analysts-can-work-smarter-e13be6a184bb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google Shipped Gemini 3.6 Flash Because It Couldn’t Ship 3.5 Pro.](https://medium.com/data-science-collective/google-shipped-gemini-3-6-flash-because-it-couldnt-ship-3-5-pro-03f2bcff41f2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Terahertz Therapiegerät im Praxistest: Eine echte Hilfe bei Gelenk- und Rückenschmerzen?](https://medium.com/@annaausterlist/terahertz-therapieger%C3%A4t-im-praxistest-eine-echte-hilfe-bei-gelenk-und-r%C3%BCckenschmerzen-699dedeaf8c7?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is No Longer a Tech Industry Story. It’s Everyone’s Story Now.](https://medium.com/@bucek.tomas/ai-is-no-longer-a-tech-industry-story-its-everyone-s-story-now-1dca021514b9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Developing with AI: Context, Agents, RAG, MCP, and What Actually Matters](https://medium.com/@emersonveras.dev/developing-with-ai-context-agents-rag-mcp-and-what-actually-matters-a13419051e3d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your RAG Recalls 80% and Still Lies: The 6 Online Gates](https://medium.com/@coolercoder/your-rag-recalls-80-and-still-lies-the-6-online-gates-d74aaea4fea2?source=rss------artificial_intelligence-5)**
+> 🔹 **[RAG vs Fine-Tuning: The Decision That Saves You Months](https://satyajeet-bansode.medium.com/rag-vs-fine-tuning-the-decision-that-saves-you-months-fd1fed70fef4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is AI Breaking Recruiting?](https://thebrianfink.medium.com/is-ai-breaking-recruiting-87ee00b34d67?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Would Start Pinterest From Zero Today &lpar;If I Had No Followers&rpar;](https://medium.com/@jaivanshsagwan1/how-i-would-start-pinterest-from-zero-today-if-i-had-no-followers-0bd6dc9fb5d1?source=rss------artificial_intelligence-5)**
+> 🔹 **[How 3 new OpenAI tools pushed one team’s agent accuracy from 73% to 85% &lpar;with real code&rpar;](https://nitingavhane.medium.com/how-3-new-openai-tools-pushed-one-teams-agent-accuracy-from-73-to-85-with-real-code-46f2d66e0966?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
