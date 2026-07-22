@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Demystifying Consistent Hashing: From Ground Zero to Production-Ready Architecture](https://aniketgawande.medium.com/demystifying-consistent-hashing-from-ground-zero-to-production-ready-architecture-a9ef4f17cc8f?source=rss------system_design-5)**
-> 🔹 **[Demystifying Consistent Hashing: From Ground Zero to Production-Ready Architecture](https://aniketgawande.medium.com/demystifying-consistent-hashing-from-ground-zero-to-production-ready-architecture-a9ef4f17cc8f?source=rss------backend_development-5)**
-> 🔹 **[Are AI engineers stupid?](https://medium.com/@yamamoto.yuichi/are-ai-engineers-stupid-dfd0b32da7ca?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Missing Layer in Agentic AI : Teaching Agents New Skills](https://manalisomani099.medium.com/the-missing-layer-in-agentic-ai-teaching-agents-new-skills-00c1d475d70c?source=rss------system_design-5)**
-> 🔹 **[The Missing Layer in Agentic AI : Teaching Agents New Skills](https://manalisomani099.medium.com/the-missing-layer-in-agentic-ai-teaching-agents-new-skills-00c1d475d70c?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Consultant for Small Business: A Complete Guide to Smarter Growth in 2026](https://medium.com/@zaavianhashim/ai-consultant-for-small-business-a-complete-guide-to-smarter-growth-in-2026-b741584b4656?source=rss------artificial_intelligence-5)**
-> 🔹 **[Pax Silica: A Golden Opportunity — or the Same Old Story?](https://medium.com/@pjvfctm/pax-silica-a-golden-opportunity-or-the-same-old-story-94bd5182561b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Phishing: The Enduring Cyber Threat and Its Rapid Evolution](https://medium.com/@hackersclique857/phishing-the-enduring-cyber-threat-and-its-rapid-evolution-68d92fbbb3f4?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Job-Search Copilot That Refuses to Lie](https://medium.com/@kundansinghsorout/i-built-a-job-search-copilot-that-refuses-to-lie-c3c8d2c9a3e4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who Pays For AI?](https://johnbattelle.medium.com/who-pays-for-ai-9b84ea06a934?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Internet Accidentally Created a Second Version of Me](https://medium.com/@resonancepublication/the-internet-accidentally-created-a-second-version-of-me-cf0e9092aee7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Vlog On A Blog 22 July 2026](https://medium.com/@sernas986/vlog-on-a-blog-22-july-2026-eb5e180516b7?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Cybersecurity Journey Begins: Building, Learning, and Sharing](https://medium.com/@aditya_sharma_09/my-cybersecurity-journey-begins-building-learning-and-sharing-1f176522b701?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Land Your First Entry-Level AI Job in the USA](https://medium.com/@shawonremotejob/how-to-land-your-first-entry-level-ai-job-in-the-usa-3c6cda2906ad?source=rss------artificial_intelligence-5)**
+> 🔹 **[Vibe Coding Is Better When You Actually Know How to Code](https://medium.com/@27himanshuk/vibe-coding-is-better-when-you-actually-know-how-to-code-34c100749ae4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mirror in the Machine](https://crazysquirrel511.medium.com/mirror-in-the-machine-3e77ed32cb7d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
