@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Built a Job-Search Copilot That Refuses to Lie](https://medium.com/@kundansinghsorout/i-built-a-job-search-copilot-that-refuses-to-lie-c3c8d2c9a3e4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who Pays For AI?](https://johnbattelle.medium.com/who-pays-for-ai-9b84ea06a934?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Internet Accidentally Created a Second Version of Me](https://medium.com/@resonancepublication/the-internet-accidentally-created-a-second-version-of-me-cf0e9092aee7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Vlog On A Blog 22 July 2026](https://medium.com/@sernas986/vlog-on-a-blog-22-july-2026-eb5e180516b7?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Cybersecurity Journey Begins: Building, Learning, and Sharing](https://medium.com/@aditya_sharma_09/my-cybersecurity-journey-begins-building-learning-and-sharing-1f176522b701?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Land Your First Entry-Level AI Job in the USA](https://medium.com/@shawonremotejob/how-to-land-your-first-entry-level-ai-job-in-the-usa-3c6cda2906ad?source=rss------artificial_intelligence-5)**
-> 🔹 **[Vibe Coding Is Better When You Actually Know How to Code](https://medium.com/@27himanshuk/vibe-coding-is-better-when-you-actually-know-how-to-code-34c100749ae4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mirror in the Machine](https://crazysquirrel511.medium.com/mirror-in-the-machine-3e77ed32cb7d?source=rss------artificial_intelligence-5)**
+> 🔹 **[戰時工業文明的回歸：從鏽帶到 AI 工廠，高風險世界為何重新需要製造能力](https://medium.com/@mellow.coffee/%E6%88%B0%E6%99%82%E5%B7%A5%E6%A5%AD%E6%96%87%E6%98%8E%E7%9A%84%E5%9B%9E%E6%AD%B8-%E5%BE%9E%E9%8F%BD%E5%B8%B6%E5%88%B0-ai-%E5%B7%A5%E5%BB%A0-%E9%AB%98%E9%A2%A8%E9%9A%AA%E4%B8%96%E7%95%8C%E7%82%BA%E4%BD%95%E9%87%8D%E6%96%B0%E9%9C%80%E8%A6%81%E8%A3%BD%E9%80%A0%E8%83%BD%E5%8A%9B-3491fcc643ab?source=rss------artificial_intelligence-5)**
+> 🔹 **[Talent Doesn’t Guarantee Opportunities. Visibility Does.](https://medium.com/@versatile_satin_sardine_119/talent-doesnt-guarantee-opportunities-visibility-does-8074969767fb?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Turn a Research Paper into a Conference Poster with AI](https://medium.com/@zhaoxihan78/how-to-turn-a-research-paper-into-a-conference-poster-with-ai-0613cbc8a425?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond Sentiment: Building an AI That Talks Back Safely](https://medium.com/@devamshah26/beyond-sentiment-building-an-ai-that-talks-back-safely-f50007f0b18a?source=rss------artificial_intelligence-5)**
+> 🔹 **[18 GitHub repos that can replace $744 a year of subscriptions](https://nitingavhane.medium.com/18-github-repos-that-can-replace-744-a-year-of-subscriptions-7f44d6ad67e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Spent Three Weeks Testing Every Major AI Coding Agent on Production-Realistic Tasks Here Is W...](https://medium.com/@aftab001x/i-spent-three-weeks-testing-every-major-ai-coding-agent-on-production-realistic-tasks-here-is-what-ad93eba2e1c1?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Transforming Architecture in 2026: 10 Practical Ways Architects Save Time Without…](https://medium.com/@digitalbull2021/how-ai-is-transforming-architecture-in-2026-10-practical-ways-architects-save-time-without-744bef50df4d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Top Fractional CTO Services in the USA &lpar;2026&rpar;: An Honest Comparison](https://medium.com/@marketing_17846/top-fractional-cto-services-in-the-usa-2026-an-honest-comparison-db38bdca6fdb?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
