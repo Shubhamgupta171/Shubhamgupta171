@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Episode 0 | Before the Refactor: The Decision That Almost Broke a Production System](https://medium.com/@shawkyalbana/episode-0-before-the-refactor-the-decision-that-almost-broke-a-production-system-ae06e5d31855?source=rss------system_design-5)**
-> 🔹 **[Azure AI Search, pgvector, and Qdrant: What I Learned Building an Enterprise RAG System](https://architectranbir.medium.com/azure-ai-search-pgvector-and-qdrant-what-i-learned-building-an-enterprise-rag-system-6f218e1af6ff?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Most Interesting Word in Netflix’s $587M AI Deal Is “Cash”](https://clairemitchell10.medium.com/the-most-interesting-word-in-netflixs-587m-ai-deal-is-cash-726e86b46c0b?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a RAG Assistant That Actually Understands Our Backend. Here’s How.](https://medium.com/@akshayy3/i-built-a-rag-assistant-that-actually-understands-our-backend-heres-how-20cac95af2d1?source=rss------backend_development-5)**
-> 🔹 **[I Built a RAG Assistant That Actually Understands Our Backend. Here’s How.](https://medium.com/@akshayy3/i-built-a-rag-assistant-that-actually-understands-our-backend-heres-how-20cac95af2d1?source=rss------artificial_intelligence-5)**
-> 🔹 **[YouTube Isn’t Punishing AI. It’s Punishing Emptiness](https://mayabennett01.medium.com/youtube-isnt-punishing-ai-it-s-punishing-emptiness-2408231e4cb9?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Doesn&#39;t Fail Because of Bad Models—It Fails Because of Bad Systems &lpar;Part 2&rpar;](https://medium.com/beyond-the-algorithm/ai-doesnt-fail-because-of-bad-models-it-fails-because-of-bad-systems-part-2-6049bdcf0aaa?source=rss------artificial_intelligence-5)**
-> 🔹 **[Which Payment Processor Do AI Agents Recommend? Yoco vs PayFast vs Paystack](https://medium.com/tech-stackups/which-payment-processor-do-ai-agents-recommend-yoco-vs-payfast-vs-paystack-86f246be1c47?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your JavaScript Code Hasn’t Executed Yet… Here’s What the Engine Is Already Doing](https://medium.com/@riteshkolate05/your-javascript-code-hasnt-executed-yet-here-s-what-the-engine-is-already-doing-d341037afbb6?source=rss------backend_development-5)**
+> 🔹 **[The Future of Industry Is Intelligent, Connected, and AI-Powered](https://medium.com/@amritkaur7895s/the-future-of-industry-is-intelligent-connected-and-ai-powered-a3f4331f2fae?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future of Learning with AI](https://medium.com/@rabiayousaf669/the-future-of-learning-with-ai-ee167bafd833?source=rss------artificial_intelligence-5)**
+> 🔹 **[n8n’de MCP Client ve Agentic AI Nasıl Çalışır?](https://medium.com/@EBingolIT/n8nde-mcp-client-ve-agentic-ai-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-7dc801c4a587?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Phone in Your Pocket Runs a Real LLM Now](https://medium.com/@jmelethil/the-phone-in-your-pocket-runs-a-real-llm-now-a994fea56936?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agent Kim Reactivated’s AI Scene Is Really an Infrastructure Story](https://medium.com/@swethajustin/agent-kim-reactivateds-ai-scene-is-really-an-infrastructure-story-d28469b50e3f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Using AI to Debug Code — A Practical Workflow](https://medium.com/@anishcp663/using-ai-to-debug-code-a-practical-workflow-6ee75870d774?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Day I Finally Understood Why Everyone Uses Kafka](https://cloudwithazeem.medium.com/the-day-i-finally-understood-why-everyone-uses-kafka-417760bcd49a?source=rss------backend_development-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
