@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[戰時工業文明的回歸：從鏽帶到 AI 工廠，高風險世界為何重新需要製造能力](https://medium.com/@mellow.coffee/%E6%88%B0%E6%99%82%E5%B7%A5%E6%A5%AD%E6%96%87%E6%98%8E%E7%9A%84%E5%9B%9E%E6%AD%B8-%E5%BE%9E%E9%8F%BD%E5%B8%B6%E5%88%B0-ai-%E5%B7%A5%E5%BB%A0-%E9%AB%98%E9%A2%A8%E9%9A%AA%E4%B8%96%E7%95%8C%E7%82%BA%E4%BD%95%E9%87%8D%E6%96%B0%E9%9C%80%E8%A6%81%E8%A3%BD%E9%80%A0%E8%83%BD%E5%8A%9B-3491fcc643ab?source=rss------artificial_intelligence-5)**
-> 🔹 **[Talent Doesn’t Guarantee Opportunities. Visibility Does.](https://medium.com/@versatile_satin_sardine_119/talent-doesnt-guarantee-opportunities-visibility-does-8074969767fb?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Turn a Research Paper into a Conference Poster with AI](https://medium.com/@zhaoxihan78/how-to-turn-a-research-paper-into-a-conference-poster-with-ai-0613cbc8a425?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond Sentiment: Building an AI That Talks Back Safely](https://medium.com/@devamshah26/beyond-sentiment-building-an-ai-that-talks-back-safely-f50007f0b18a?source=rss------artificial_intelligence-5)**
-> 🔹 **[18 GitHub repos that can replace $744 a year of subscriptions](https://nitingavhane.medium.com/18-github-repos-that-can-replace-744-a-year-of-subscriptions-7f44d6ad67e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Spent Three Weeks Testing Every Major AI Coding Agent on Production-Realistic Tasks Here Is W...](https://medium.com/@aftab001x/i-spent-three-weeks-testing-every-major-ai-coding-agent-on-production-realistic-tasks-here-is-what-ad93eba2e1c1?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Is Transforming Architecture in 2026: 10 Practical Ways Architects Save Time Without…](https://medium.com/@digitalbull2021/how-ai-is-transforming-architecture-in-2026-10-practical-ways-architects-save-time-without-744bef50df4d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Top Fractional CTO Services in the USA &lpar;2026&rpar;: An Honest Comparison](https://medium.com/@marketing_17846/top-fractional-cto-services-in-the-usa-2026-an-honest-comparison-db38bdca6fdb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Episode 0 | Before the Refactor: The Decision That Almost Broke a Production System](https://medium.com/@shawkyalbana/episode-0-before-the-refactor-the-decision-that-almost-broke-a-production-system-ae06e5d31855?source=rss------system_design-5)**
+> 🔹 **[Azure AI Search, pgvector, and Qdrant: What I Learned Building an Enterprise RAG System](https://architectranbir.medium.com/azure-ai-search-pgvector-and-qdrant-what-i-learned-building-an-enterprise-rag-system-6f218e1af6ff?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Most Interesting Word in Netflix’s $587M AI Deal Is “Cash”](https://clairemitchell10.medium.com/the-most-interesting-word-in-netflixs-587m-ai-deal-is-cash-726e86b46c0b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a RAG Assistant That Actually Understands Our Backend. Here’s How.](https://medium.com/@akshayy3/i-built-a-rag-assistant-that-actually-understands-our-backend-heres-how-20cac95af2d1?source=rss------backend_development-5)**
+> 🔹 **[I Built a RAG Assistant That Actually Understands Our Backend. Here’s How.](https://medium.com/@akshayy3/i-built-a-rag-assistant-that-actually-understands-our-backend-heres-how-20cac95af2d1?source=rss------artificial_intelligence-5)**
+> 🔹 **[YouTube Isn’t Punishing AI. It’s Punishing Emptiness](https://mayabennett01.medium.com/youtube-isnt-punishing-ai-it-s-punishing-emptiness-2408231e4cb9?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Doesn&#39;t Fail Because of Bad Models—It Fails Because of Bad Systems &lpar;Part 2&rpar;](https://medium.com/beyond-the-algorithm/ai-doesnt-fail-because-of-bad-models-it-fails-because-of-bad-systems-part-2-6049bdcf0aaa?source=rss------artificial_intelligence-5)**
+> 🔹 **[Which Payment Processor Do AI Agents Recommend? Yoco vs PayFast vs Paystack](https://medium.com/tech-stackups/which-payment-processor-do-ai-agents-recommend-yoco-vs-payfast-vs-paystack-86f246be1c47?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
