@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your JavaScript Code Hasn’t Executed Yet… Here’s What the Engine Is Already Doing](https://medium.com/@riteshkolate05/your-javascript-code-hasnt-executed-yet-here-s-what-the-engine-is-already-doing-d341037afbb6?source=rss------backend_development-5)**
-> 🔹 **[The Future of Industry Is Intelligent, Connected, and AI-Powered](https://medium.com/@amritkaur7895s/the-future-of-industry-is-intelligent-connected-and-ai-powered-a3f4331f2fae?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Future of Learning with AI](https://medium.com/@rabiayousaf669/the-future-of-learning-with-ai-ee167bafd833?source=rss------artificial_intelligence-5)**
-> 🔹 **[n8n’de MCP Client ve Agentic AI Nasıl Çalışır?](https://medium.com/@EBingolIT/n8nde-mcp-client-ve-agentic-ai-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-7dc801c4a587?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Phone in Your Pocket Runs a Real LLM Now](https://medium.com/@jmelethil/the-phone-in-your-pocket-runs-a-real-llm-now-a994fea56936?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agent Kim Reactivated’s AI Scene Is Really an Infrastructure Story](https://medium.com/@swethajustin/agent-kim-reactivateds-ai-scene-is-really-an-infrastructure-story-d28469b50e3f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Using AI to Debug Code — A Practical Workflow](https://medium.com/@anishcp663/using-ai-to-debug-code-a-practical-workflow-6ee75870d774?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Day I Finally Understood Why Everyone Uses Kafka](https://cloudwithazeem.medium.com/the-day-i-finally-understood-why-everyone-uses-kafka-417760bcd49a?source=rss------backend_development-5)**
+> 🔹 **[Why I Built a Complete BSL Curriculum for Schools and Organisations](https://medium.com/@b.ahmed3011/why-i-built-a-complete-bsl-curriculum-for-schools-and-organisations-bbcad44426b6?source=rss------system_design-5)**
+> 🔹 **[YOLOv8 Explained from Scratch: The Ultimate Beginner’s Guide to Object Detection &lpar;Easy to Learn...](https://medium.com/@muhammadsufian602/yolov8-explained-from-scratch-the-ultimate-beginners-guide-to-object-detection-easy-to-learn-59c0c655014d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agents: What are they?](https://medium.com/@matthew.mckee.2018/agents-what-are-they-b29e744106e6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everyone Says Taste Is the Last Moat. Taste Won’t Save You Either.](https://thechrisverse.medium.com/everyone-says-taste-is-the-last-moat-taste-wont-save-you-either-63b07c98cf0b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why I’m Working Like Crazy Before AI Gets Expensive](https://medium.com/@girtbysea/why-im-working-like-crazy-before-ai-gets-expensive-e399c5f182c4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kafka Data Retention Explained: Time, Size, and Log Segments](https://medium.com/@shubham.patel191295/kafka-data-retention-explained-time-size-and-log-segments-38aa161cc58a?source=rss------backend_development-5)**
+> 🔹 **[The Core Algorithms Powering Generative AI: The Engines Behind Innovation](https://medium.com/@ingalopez11/the-core-algorithms-powering-generative-ai-the-engines-behind-innovation-0e7674f61526?source=rss------artificial_intelligence-5)**
+> 🔹 **[4,573 Hectares That Could Change the Scale of Wilmac](https://medium.com/@lemuel-gano526/4-573-hectares-that-could-change-the-scale-of-wilmac-e9d6764fe44b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
