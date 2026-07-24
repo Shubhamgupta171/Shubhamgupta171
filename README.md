@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why I Built a Complete BSL Curriculum for Schools and Organisations](https://medium.com/@b.ahmed3011/why-i-built-a-complete-bsl-curriculum-for-schools-and-organisations-bbcad44426b6?source=rss------system_design-5)**
-> 🔹 **[YOLOv8 Explained from Scratch: The Ultimate Beginner’s Guide to Object Detection &lpar;Easy to Learn...](https://medium.com/@muhammadsufian602/yolov8-explained-from-scratch-the-ultimate-beginners-guide-to-object-detection-easy-to-learn-59c0c655014d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agents: What are they?](https://medium.com/@matthew.mckee.2018/agents-what-are-they-b29e744106e6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Everyone Says Taste Is the Last Moat. Taste Won’t Save You Either.](https://thechrisverse.medium.com/everyone-says-taste-is-the-last-moat-taste-wont-save-you-either-63b07c98cf0b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why I’m Working Like Crazy Before AI Gets Expensive](https://medium.com/@girtbysea/why-im-working-like-crazy-before-ai-gets-expensive-e399c5f182c4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Kafka Data Retention Explained: Time, Size, and Log Segments](https://medium.com/@shubham.patel191295/kafka-data-retention-explained-time-size-and-log-segments-38aa161cc58a?source=rss------backend_development-5)**
-> 🔹 **[The Core Algorithms Powering Generative AI: The Engines Behind Innovation](https://medium.com/@ingalopez11/the-core-algorithms-powering-generative-ai-the-engines-behind-innovation-0e7674f61526?source=rss------artificial_intelligence-5)**
-> 🔹 **[4,573 Hectares That Could Change the Scale of Wilmac](https://medium.com/@lemuel-gano526/4-573-hectares-that-could-change-the-scale-of-wilmac-e9d6764fe44b?source=rss------artificial_intelligence-5)**
+> 🔹 **[When an Allowed Path Became an Escape Route](https://medium.com/@joseph1020/when-an-allowed-path-became-an-escape-route-c04f21026c17?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Best AI Code Reviewer Knows When to Say Nothing](https://medium.com/@heftykoo/the-best-ai-code-reviewer-knows-when-to-say-nothing-4a242471a8eb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Stochastic Gradient Descent &lpar;SGD&rpar; is Outdated and How to Fix it with Kronecker Sequences](https://medium.com/@alex.marketingvisual/why-stochastic-gradient-descent-sgd-is-outdated-and-how-to-fix-it-with-kronecker-sequences-6bb735d4074e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best Local AI for Video Generation in 2026: What Actually Runs on Your Own Hardware](https://medium.com/@lekhaiapp/best-local-ai-for-video-generation-in-2026-what-actually-runs-on-your-own-hardware-2d17bcada502?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Made My First $500 Integrating ChatGPT API Into an App](https://nitingavhane.medium.com/how-i-made-my-first-500-integrating-chatgpt-api-into-an-app-4d1cf33f24e2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kimi K3: The 2.8 Trillion Parameter Open Model That Just Made Every AI Lab Nervous](https://medium.com/@trends24/kimi-k3-the-2-8-trillion-parameter-open-model-that-just-made-every-ai-lab-nervous-e447528f0b69?source=rss------artificial_intelligence-5)**
+> 🔹 **[Microsoft Azure Adopts AMD Helios — Semiconductor News, July 24, 2026](https://tai-semicon.medium.com/microsoft-azure-adopts-amd-helios-semiconductor-news-july-24-2026-f8c371b6b0c3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Organization: Why Every Company Will Hire Digital Employees Before Human Employees](https://medium.com/@anil.futuristic/the-ai-organization-why-every-company-will-hire-digital-employees-before-human-employees-56c07e64364d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
