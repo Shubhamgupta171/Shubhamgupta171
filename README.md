@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[No Dumb Questions: What is the AI bottleneck? How does context engineering fix it?​​​​‌﻿‍﻿​‍​‍‌...](https://stackoverflow.blog/2026/07/24/no-dumb-questions-ai-bottleneck/)**
-> 🔹 **[TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://mrmadhukar.medium.com/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-8e28f137aa85?source=rss------backend_development-5)**
-> 🔹 **[How Far Should We Let AI Predict?](https://medium.com/@cedric.nanni/how-far-should-we-let-ai-predict-8de37715eaed?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Phone Knows What You Did. The Next AI Platform Will Know Why.](https://medium.com/@jmelethil/your-phone-knows-what-you-did-the-next-ai-platform-will-know-why-eae2ad2c378d?source=rss------artificial_intelligence-5)**
-> 🔹 **[China Built the United Nations of AI…](https://medium.com/@nuno.roberto/china-built-the-united-nations-of-ai-a44233c90708?source=rss------artificial_intelligence-5)**
-> 🔹 **[Travis Kalanick’s Pitch to a Scared Stanford CS Grad: Skip the App Store](https://medium.com/@aanchorbiz/travis-kalanicks-pitch-to-a-scared-stanford-cs-grad-skip-the-app-store-a3bdaea43338?source=rss------artificial_intelligence-5)**
-> 🔹 **[Harnessing the Shift: My Journey from Machine Learning to Generative AI](https://medium.com/@keshav.chaudhary18/harnessing-the-shift-my-journey-from-machine-learning-to-generative-ai-af52c11ea094?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Knows Everything About the World and Nothing About You](https://medium.com/@DaleDeGrangeJr/ai-knows-everything-about-the-world-and-nothing-about-you-fc9bd88dc0b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Exact GoHighLevel Setup for an AI Receptionist](https://medium.com/@propexautomateagency/my-exact-gohighlevel-setup-for-an-ai-receptionist-303729ee8605?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI News: Claude Opus 5, GPT-Red and Kimi K3](https://danielquinteros.medium.com/ai-news-claude-opus-5-gpt-red-and-kimi-k3-15e922df9da0?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Changing How Recruiters Find Talent. &lpar;It Hasn’t Changed What Makes Candidates Stand Out.&rpar;](https://medium.com/@ripudamanlko/ai-is-changing-how-recruiters-find-talent-it-hasnt-changed-what-makes-candidates-stand-out-2a23e4d4b01b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Something Exciting Is on the Way](https://medium.com/@Engr.mbala/something-exciting-is-on-the-way-5db7da876a23?source=rss------artificial_intelligence-5)**
+> 🔹 **[2,500+ Higgsfield AI Prompts: The Complete 8-in-1 Prompt Bundle for Better AI Videos](https://medium.com/@em07emmawilson/2-500-higgsfield-ai-prompts-the-complete-8-in-1-prompt-bundle-for-better-ai-videos-ebf66edf3c78?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Prompts Are Already Outdated](https://medium.com/activated-thinker/your-prompts-are-already-outdated-ea35f205dc64?source=rss------artificial_intelligence-5)**
+> 🔹 **[JSON-LD: eu marquei meus sites com a “etiqueta” que o Google criou, e os dados dizem que talvez...](https://medium.com/@robdaum85/json-ld-eu-marquei-meus-sites-com-a-etiqueta-que-o-google-criou-e-os-dados-dizem-que-talvez-n%C3%A3o-d2343bbd40bb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Next Customer Might Never Visit Google](https://medium.com/@codenclicksit/your-next-customer-might-never-visit-google-ccbe8addda6f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
