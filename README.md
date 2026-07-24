@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[When an Allowed Path Became an Escape Route](https://medium.com/@joseph1020/when-an-allowed-path-became-an-escape-route-c04f21026c17?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Best AI Code Reviewer Knows When to Say Nothing](https://medium.com/@heftykoo/the-best-ai-code-reviewer-knows-when-to-say-nothing-4a242471a8eb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Stochastic Gradient Descent &lpar;SGD&rpar; is Outdated and How to Fix it with Kronecker Sequences](https://medium.com/@alex.marketingvisual/why-stochastic-gradient-descent-sgd-is-outdated-and-how-to-fix-it-with-kronecker-sequences-6bb735d4074e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best Local AI for Video Generation in 2026: What Actually Runs on Your Own Hardware](https://medium.com/@lekhaiapp/best-local-ai-for-video-generation-in-2026-what-actually-runs-on-your-own-hardware-2d17bcada502?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Made My First $500 Integrating ChatGPT API Into an App](https://nitingavhane.medium.com/how-i-made-my-first-500-integrating-chatgpt-api-into-an-app-4d1cf33f24e2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Kimi K3: The 2.8 Trillion Parameter Open Model That Just Made Every AI Lab Nervous](https://medium.com/@trends24/kimi-k3-the-2-8-trillion-parameter-open-model-that-just-made-every-ai-lab-nervous-e447528f0b69?source=rss------artificial_intelligence-5)**
-> 🔹 **[Microsoft Azure Adopts AMD Helios — Semiconductor News, July 24, 2026](https://tai-semicon.medium.com/microsoft-azure-adopts-amd-helios-semiconductor-news-july-24-2026-f8c371b6b0c3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Organization: Why Every Company Will Hire Digital Employees Before Human Employees](https://medium.com/@anil.futuristic/the-ai-organization-why-every-company-will-hire-digital-employees-before-human-employees-56c07e64364d?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI adoption is done. The ROI isn’t. 
+What DX’s Q2 2026 Report reveals in July 2026.](https://medium.com/@magne.arthur/ai-adoption-is-done-the-roi-isnt-what-dx-s-q2-2026-report-reveals-in-july-2026-4e9ba999ba63?source=rss------artificial_intelligence-5)**
+> 🔹 **[L’Actuariat du Risque Cognitif : Quand les Big Four cessent de conseiller pour devenir les…](https://medium.com/@mils.inadias/lactuariat-du-risque-cognitif-quand-les-big-four-cessent-de-conseiller-pour-devenir-les-1f0fd2313140?source=rss------artificial_intelligence-5)**
+> 🔹 **[Start Blogging With AI: A Beginner’s Guide to Creating Better Content Faster](https://medium.com/@tanviitaliya8095/start-blogging-with-ai-a-beginners-guide-to-creating-better-content-faster-8d80de8d8b1d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Sky Needs Roads](https://medium.com/@therayelab/the-sky-needs-roads-72b85505b34c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The $9 Trillion Problem Hiding in Your Team’s Chat History](https://medium.com/@maurok/the-9-trillion-problem-hiding-in-your-teams-chat-history-9cbdba37aac7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The CLI Is the Third Interface: Ship a Team Tool in One Evening](https://medium.com/indriver-tech/the-cli-is-the-third-interface-ship-a-team-tool-in-one-evening-8824181fe9dc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Top 10 Open-Source Developer Tools That Every Developer Should Try in 2026](https://medium.com/@priyanshikumawat007/top-10-open-source-developer-tools-that-every-developer-should-try-in-2026-01642464cbf0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Deleting Half My Prompts Made My AI Workflow Better.](https://medium.com/ai-engineering-simplified/deleting-half-my-prompts-made-my-ai-workflow-better-2bd0888c9137?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
