@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI adoption is done. The ROI isn’t. 
-What DX’s Q2 2026 Report reveals in July 2026.](https://medium.com/@magne.arthur/ai-adoption-is-done-the-roi-isnt-what-dx-s-q2-2026-report-reveals-in-july-2026-4e9ba999ba63?source=rss------artificial_intelligence-5)**
-> 🔹 **[L’Actuariat du Risque Cognitif : Quand les Big Four cessent de conseiller pour devenir les…](https://medium.com/@mils.inadias/lactuariat-du-risque-cognitif-quand-les-big-four-cessent-de-conseiller-pour-devenir-les-1f0fd2313140?source=rss------artificial_intelligence-5)**
-> 🔹 **[Start Blogging With AI: A Beginner’s Guide to Creating Better Content Faster](https://medium.com/@tanviitaliya8095/start-blogging-with-ai-a-beginners-guide-to-creating-better-content-faster-8d80de8d8b1d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Sky Needs Roads](https://medium.com/@therayelab/the-sky-needs-roads-72b85505b34c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The $9 Trillion Problem Hiding in Your Team’s Chat History](https://medium.com/@maurok/the-9-trillion-problem-hiding-in-your-teams-chat-history-9cbdba37aac7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The CLI Is the Third Interface: Ship a Team Tool in One Evening](https://medium.com/indriver-tech/the-cli-is-the-third-interface-ship-a-team-tool-in-one-evening-8824181fe9dc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Top 10 Open-Source Developer Tools That Every Developer Should Try in 2026](https://medium.com/@priyanshikumawat007/top-10-open-source-developer-tools-that-every-developer-should-try-in-2026-01642464cbf0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Deleting Half My Prompts Made My AI Workflow Better.](https://medium.com/ai-engineering-simplified/deleting-half-my-prompts-made-my-ai-workflow-better-2bd0888c9137?source=rss------artificial_intelligence-5)**
+> 🔹 **[No Dumb Questions: What is the AI bottleneck? How does context engineering fix it?​​​​‌﻿‍﻿​‍​‍‌...](https://stackoverflow.blog/2026/07/24/no-dumb-questions-ai-bottleneck/)**
+> 🔹 **[TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://mrmadhukar.medium.com/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-8e28f137aa85?source=rss------backend_development-5)**
+> 🔹 **[How Far Should We Let AI Predict?](https://medium.com/@cedric.nanni/how-far-should-we-let-ai-predict-8de37715eaed?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Phone Knows What You Did. The Next AI Platform Will Know Why.](https://medium.com/@jmelethil/your-phone-knows-what-you-did-the-next-ai-platform-will-know-why-eae2ad2c378d?source=rss------artificial_intelligence-5)**
+> 🔹 **[China Built the United Nations of AI…](https://medium.com/@nuno.roberto/china-built-the-united-nations-of-ai-a44233c90708?source=rss------artificial_intelligence-5)**
+> 🔹 **[Travis Kalanick’s Pitch to a Scared Stanford CS Grad: Skip the App Store](https://medium.com/@aanchorbiz/travis-kalanicks-pitch-to-a-scared-stanford-cs-grad-skip-the-app-store-a3bdaea43338?source=rss------artificial_intelligence-5)**
+> 🔹 **[Harnessing the Shift: My Journey from Machine Learning to Generative AI](https://medium.com/@keshav.chaudhary18/harnessing-the-shift-my-journey-from-machine-learning-to-generative-ai-af52c11ea094?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Knows Everything About the World and Nothing About You](https://medium.com/@DaleDeGrangeJr/ai-knows-everything-about-the-world-and-nothing-about-you-fc9bd88dc0b3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
