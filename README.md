@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Designing the Decision Layer for Real-Time CRM Systems](https://medium.com/@varma.alluri/designing-the-decision-layer-for-real-time-crm-systems-b9f25b15b861?source=rss------artificial_intelligence-5)**
-> 🔹 **[Generate With Taste](https://medium.com/@joshuabascos/generate-with-taste-c0566ef9d327?source=rss------artificial_intelligence-5)**
-> 🔹 **[Build a Customer Churn Prediction Model Using Scikit-Learn &lpar;Step-by-Step Guide&rpar;](https://medium.com/@s.aditya1317/build-a-customer-churn-prediction-model-using-scikit-learn-step-by-step-guide-dd84eddf289a?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Generate Photorealistic Images With AI Without Polishing](https://medium.com/@voorai/how-to-generate-photorealistic-images-with-ai-without-polishing-5c8ab54a81b8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why 85% of AI Projects Fail and It’s Not the Technology](https://medium.com/@theOpinionBoard/why-85-of-ai-projects-fail-and-its-not-the-technology-55222bda0103?source=rss------artificial_intelligence-5)**
-> 🔹 **[She Asked So Easily](https://medium.com/@finlonger/she-asked-so-easily-18f2786f60bc?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI, Stewardship and Planetary Conscience](https://medium.com/@zakipantellica/ai-stewardship-and-planetary-conscience-aeea87c98990?source=rss------artificial_intelligence-5)**
-> 🔹 **[Practical lessons, personal experiences, and insights on AI, blogging, personal finance, and…](https://medium.com/@pradipsaran1979/practical-lessons-personal-experiences-and-insights-on-ai-blogging-personal-finance-and-375b3eb9f7ba?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why 80% of Software Projects Slow Down After Launch](https://umerhasan97.medium.com/why-80-of-software-projects-slow-down-after-launch-2858f5f55bc8?source=rss------system_design-5)**
+> 🔹 **[Temporal: The Workflow Engine Powering Modern Distributed Systems](https://medium.com/@biwanthabhanuka/temporal-the-workflow-engine-powering-modern-distributed-systems-b1d997b9009f?source=rss------backend_development-5)**
+> 🔹 **[My First SSRF Discovery in  &lpar;Zoho Corporation &rpar;](https://medium.com/@muthukumar.me.mk/my-first-ssrf-discovery-in-zoho-corporation-e52b5ebbd933?source=rss------artificial_intelligence-5)**
+> 🔹 **[PHow I Built a Multi-Agent System Where Agents Talk to Each Other](https://ai.plainenglish.io/phow-i-built-a-multi-agent-system-where-agents-talk-to-each-other-a2bf1fc4ec0d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Passed the Microsoft AI-200 Beta Exam, Despite an Interrupted Session](https://medium.com/@CharlsBags/how-i-passed-the-microsoft-ai-200-beta-exam-despite-an-interrupted-session-fff637cec7b7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Headless Services in Kubernetes: When Pods Need Their Own Identity](https://medium.com/@shubham.patel191295/headless-services-in-kubernetes-when-pods-need-their-own-identity-dc8cce64c4f5?source=rss------backend_development-5)**
+> 🔹 **[Frontend vs Backend Development: Which Career Is Right for You?](https://medium.com/@jbbsoftech/frontend-vs-backend-development-which-career-is-right-for-you-02615fbf633e?source=rss------backend_development-5)**
+> 🔹 **[Architettura del Reale: Il Codice Invisibile, l’Intento e la Topografia del Potere](https://medium.com/@SimoneGuerrini/architettura-del-reale-il-codice-invisibile-lintento-e-la-topografia-del-potere-b62dd718769f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
