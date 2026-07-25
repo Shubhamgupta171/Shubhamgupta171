@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why 80% of Software Projects Slow Down After Launch](https://umerhasan97.medium.com/why-80-of-software-projects-slow-down-after-launch-2858f5f55bc8?source=rss------system_design-5)**
-> 🔹 **[Temporal: The Workflow Engine Powering Modern Distributed Systems](https://medium.com/@biwanthabhanuka/temporal-the-workflow-engine-powering-modern-distributed-systems-b1d997b9009f?source=rss------backend_development-5)**
-> 🔹 **[My First SSRF Discovery in  &lpar;Zoho Corporation &rpar;](https://medium.com/@muthukumar.me.mk/my-first-ssrf-discovery-in-zoho-corporation-e52b5ebbd933?source=rss------artificial_intelligence-5)**
-> 🔹 **[PHow I Built a Multi-Agent System Where Agents Talk to Each Other](https://ai.plainenglish.io/phow-i-built-a-multi-agent-system-where-agents-talk-to-each-other-a2bf1fc4ec0d?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Passed the Microsoft AI-200 Beta Exam, Despite an Interrupted Session](https://medium.com/@CharlsBags/how-i-passed-the-microsoft-ai-200-beta-exam-despite-an-interrupted-session-fff637cec7b7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Headless Services in Kubernetes: When Pods Need Their Own Identity](https://medium.com/@shubham.patel191295/headless-services-in-kubernetes-when-pods-need-their-own-identity-dc8cce64c4f5?source=rss------backend_development-5)**
-> 🔹 **[Frontend vs Backend Development: Which Career Is Right for You?](https://medium.com/@jbbsoftech/frontend-vs-backend-development-which-career-is-right-for-you-02615fbf633e?source=rss------backend_development-5)**
-> 🔹 **[Architettura del Reale: Il Codice Invisibile, l’Intento e la Topografia del Potere](https://medium.com/@SimoneGuerrini/architettura-del-reale-il-codice-invisibile-lintento-e-la-topografia-del-potere-b62dd718769f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Episode 2 | The Hardest Decision I Made Was Doing Nothing](https://medium.com/@shawkyalbana/episode-2-the-hardest-decision-i-made-was-doing-nothing-6c384ca59d07?source=rss------system_design-5)**
+> 🔹 **[What Rewriting a Legacy Frontend Taught Me About Software Architecture](https://javascript.plainenglish.io/what-rewriting-a-legacy-frontend-taught-me-about-software-architecture-e522c1bb9ff8?source=rss------system_design-5)**
+> 🔹 **[I AM Not Ashamed to Use AI in My Writing](https://medium.com/@ElizaBryant/i-am-not-ashamed-to-use-ai-in-my-writing-840a5b6e60d0?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Fix Agentic AI Infinite Loops: A Step-by-Step Developer’s Guide](https://medium.com/@wasaymuhammad2026/how-to-fix-agentic-ai-infinite-loops-a-step-by-step-developers-guide-2531af35e4fd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Invents the Same Fake Package Every Time. That Predictability Is Now a Botnet.](https://medium.com/@AkhilAIWorld/your-ai-invents-the-same-fake-package-every-time-that-predictability-is-now-a-botnet-fbf45a20063a?source=rss------artificial_intelligence-5)**
+> 🔹 **[How To Make AI Movies For Free Using Google Flow &lpar;2026 Guide&rpar;](https://medium.com/@myaihasopinions/how-to-make-ai-movies-for-free-using-google-flow-2026-guide-cc7df579068f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Today’s Best AI Tools for Creating Images](https://immiley.medium.com/todays-best-ai-tools-for-creating-images-a021c78f1ee6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Teaching an AI What to Do Next: Building a State System for Snake Rattle Roll &lpar;Part 2&rpar;](https://medium.com/@datenwissenschaften/hierarchical-reinforcement-learning-state-machine-c8cd81e9971f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
