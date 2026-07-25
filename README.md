@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Episode 2 | The Hardest Decision I Made Was Doing Nothing](https://medium.com/@shawkyalbana/episode-2-the-hardest-decision-i-made-was-doing-nothing-6c384ca59d07?source=rss------system_design-5)**
-> 🔹 **[What Rewriting a Legacy Frontend Taught Me About Software Architecture](https://javascript.plainenglish.io/what-rewriting-a-legacy-frontend-taught-me-about-software-architecture-e522c1bb9ff8?source=rss------system_design-5)**
-> 🔹 **[I AM Not Ashamed to Use AI in My Writing](https://medium.com/@ElizaBryant/i-am-not-ashamed-to-use-ai-in-my-writing-840a5b6e60d0?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Fix Agentic AI Infinite Loops: A Step-by-Step Developer’s Guide](https://medium.com/@wasaymuhammad2026/how-to-fix-agentic-ai-infinite-loops-a-step-by-step-developers-guide-2531af35e4fd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Invents the Same Fake Package Every Time. That Predictability Is Now a Botnet.](https://medium.com/@AkhilAIWorld/your-ai-invents-the-same-fake-package-every-time-that-predictability-is-now-a-botnet-fbf45a20063a?source=rss------artificial_intelligence-5)**
-> 🔹 **[How To Make AI Movies For Free Using Google Flow &lpar;2026 Guide&rpar;](https://medium.com/@myaihasopinions/how-to-make-ai-movies-for-free-using-google-flow-2026-guide-cc7df579068f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Today’s Best AI Tools for Creating Images](https://immiley.medium.com/todays-best-ai-tools-for-creating-images-a021c78f1ee6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Teaching an AI What to Do Next: Building a State System for Snake Rattle Roll &lpar;Part 2&rpar;](https://medium.com/@datenwissenschaften/hierarchical-reinforcement-learning-state-machine-c8cd81e9971f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Trading Assistant Is Hallucinating Because It Doesn’t Know the Market](https://medium.com/@nayabbhutta/your-ai-trading-assistant-is-hallucinating-because-it-doesnt-know-the-market-741677fc6ff6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Native Postgres Wire Clients in Odin Programming Language](https://medium.com/@matadorcrab/native-postgres-wire-clients-in-odin-programming-language-8611c8bec900?source=rss------backend_development-5)**
+> 🔹 **[Spending the day at the NEXUS X Summit was an absolute privilege, especially getting to serve a...](https://medium.com/@nseabasitom57/spending-the-day-at-the-nexus-x-summit-was-an-absolute-privilege-especially-getting-to-serve-and-6eeb49aa7b69?source=rss------artificial_intelligence-5)**
+> 🔹 **[A IA chinesa que já estava dentro do Cursor antes da SpaceX comprar tudo](https://medium.com/@robdaum85/a-ia-chinesa-que-j%C3%A1-estava-dentro-do-cursor-antes-da-spacex-comprar-tudo-4131f3fabfae?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI KNOWS EVERYTHING. AI is scaring people.](https://medium.com/@f06060210/ai-knows-everything-ai-is-scaring-people-2cab17896edd?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 AI Prompts That Will Save You 10+ Hours a Week](https://josephbenois.medium.com/5-ai-prompts-that-will-save-you-10-hours-a-week-eb46fb5933f0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Understanding DenseNet-201: The Architecture That Doubled Down on Feature Reuse](https://medium.com/@hamidmajeed929/understanding-densenet-201-the-architecture-that-doubled-down-on-feature-reuse-a685954f1291?source=rss------artificial_intelligence-5)**
+> 🔹 **[️ Ash Looks at the Whole Battlefield, Kafka Joins the Team, and I Finally Started Seeing the…](https://medium.com/@saurabh.hack.pandey/%EF%B8%8F-ash-looks-at-the-whole-battlefield-kafka-joins-the-team-and-i-finally-started-seeing-the-6240a877ebb2?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
