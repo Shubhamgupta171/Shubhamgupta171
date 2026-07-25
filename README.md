@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[My Exact GoHighLevel Setup for an AI Receptionist](https://medium.com/@propexautomateagency/my-exact-gohighlevel-setup-for-an-ai-receptionist-303729ee8605?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI News: Claude Opus 5, GPT-Red and Kimi K3](https://danielquinteros.medium.com/ai-news-claude-opus-5-gpt-red-and-kimi-k3-15e922df9da0?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Changing How Recruiters Find Talent. &lpar;It Hasn’t Changed What Makes Candidates Stand Out.&rpar;](https://medium.com/@ripudamanlko/ai-is-changing-how-recruiters-find-talent-it-hasnt-changed-what-makes-candidates-stand-out-2a23e4d4b01b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Something Exciting Is on the Way](https://medium.com/@Engr.mbala/something-exciting-is-on-the-way-5db7da876a23?source=rss------artificial_intelligence-5)**
-> 🔹 **[2,500+ Higgsfield AI Prompts: The Complete 8-in-1 Prompt Bundle for Better AI Videos](https://medium.com/@em07emmawilson/2-500-higgsfield-ai-prompts-the-complete-8-in-1-prompt-bundle-for-better-ai-videos-ebf66edf3c78?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Prompts Are Already Outdated](https://medium.com/activated-thinker/your-prompts-are-already-outdated-ea35f205dc64?source=rss------artificial_intelligence-5)**
-> 🔹 **[JSON-LD: eu marquei meus sites com a “etiqueta” que o Google criou, e os dados dizem que talvez...](https://medium.com/@robdaum85/json-ld-eu-marquei-meus-sites-com-a-etiqueta-que-o-google-criou-e-os-dados-dizem-que-talvez-n%C3%A3o-d2343bbd40bb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Next Customer Might Never Visit Google](https://medium.com/@codenclicksit/your-next-customer-might-never-visit-google-ccbe8addda6f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Designing the Decision Layer for Real-Time CRM Systems](https://medium.com/@varma.alluri/designing-the-decision-layer-for-real-time-crm-systems-b9f25b15b861?source=rss------artificial_intelligence-5)**
+> 🔹 **[Generate With Taste](https://medium.com/@joshuabascos/generate-with-taste-c0566ef9d327?source=rss------artificial_intelligence-5)**
+> 🔹 **[Build a Customer Churn Prediction Model Using Scikit-Learn &lpar;Step-by-Step Guide&rpar;](https://medium.com/@s.aditya1317/build-a-customer-churn-prediction-model-using-scikit-learn-step-by-step-guide-dd84eddf289a?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Generate Photorealistic Images With AI Without Polishing](https://medium.com/@voorai/how-to-generate-photorealistic-images-with-ai-without-polishing-5c8ab54a81b8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why 85% of AI Projects Fail and It’s Not the Technology](https://medium.com/@theOpinionBoard/why-85-of-ai-projects-fail-and-its-not-the-technology-55222bda0103?source=rss------artificial_intelligence-5)**
+> 🔹 **[She Asked So Easily](https://medium.com/@finlonger/she-asked-so-easily-18f2786f60bc?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI, Stewardship and Planetary Conscience](https://medium.com/@zakipantellica/ai-stewardship-and-planetary-conscience-aeea87c98990?source=rss------artificial_intelligence-5)**
+> 🔹 **[Practical lessons, personal experiences, and insights on AI, blogging, personal finance, and…](https://medium.com/@pradipsaran1979/practical-lessons-personal-experiences-and-insights-on-ai-blogging-personal-finance-and-375b3eb9f7ba?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
