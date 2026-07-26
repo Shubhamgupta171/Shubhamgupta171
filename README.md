@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your AI Trading Assistant Is Hallucinating Because It Doesn’t Know the Market](https://medium.com/@nayabbhutta/your-ai-trading-assistant-is-hallucinating-because-it-doesnt-know-the-market-741677fc6ff6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Native Postgres Wire Clients in Odin Programming Language](https://medium.com/@matadorcrab/native-postgres-wire-clients-in-odin-programming-language-8611c8bec900?source=rss------backend_development-5)**
-> 🔹 **[Spending the day at the NEXUS X Summit was an absolute privilege, especially getting to serve a...](https://medium.com/@nseabasitom57/spending-the-day-at-the-nexus-x-summit-was-an-absolute-privilege-especially-getting-to-serve-and-6eeb49aa7b69?source=rss------artificial_intelligence-5)**
-> 🔹 **[A IA chinesa que já estava dentro do Cursor antes da SpaceX comprar tudo](https://medium.com/@robdaum85/a-ia-chinesa-que-j%C3%A1-estava-dentro-do-cursor-antes-da-spacex-comprar-tudo-4131f3fabfae?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI KNOWS EVERYTHING. AI is scaring people.](https://medium.com/@f06060210/ai-knows-everything-ai-is-scaring-people-2cab17896edd?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 AI Prompts That Will Save You 10+ Hours a Week](https://josephbenois.medium.com/5-ai-prompts-that-will-save-you-10-hours-a-week-eb46fb5933f0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Understanding DenseNet-201: The Architecture That Doubled Down on Feature Reuse](https://medium.com/@hamidmajeed929/understanding-densenet-201-the-architecture-that-doubled-down-on-feature-reuse-a685954f1291?source=rss------artificial_intelligence-5)**
-> 🔹 **[️ Ash Looks at the Whole Battlefield, Kafka Joins the Team, and I Finally Started Seeing the…](https://medium.com/@saurabh.hack.pandey/%EF%B8%8F-ash-looks-at-the-whole-battlefield-kafka-joins-the-team-and-i-finally-started-seeing-the-6240a877ebb2?source=rss------system_design-5)**
+> 🔹 **[$880 Billion, 30,000 Jobs, and One Rebrand: The Three Weeks That Proved AI Isn’t Slowing Down](https://medium.com/@trends24/880-billion-30-000-jobs-and-one-rebrand-the-three-weeks-that-proved-ai-isnt-slowing-down-d99bb406dab6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gemini 3.6 Flash: a $7.50 output price that quietly cuts your agent bill by 31%](https://nitingavhane.medium.com/gemini-3-6-flash-a-7-50-output-price-that-quietly-cuts-your-agent-bill-by-31-8b413b9636d5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why I Stopped Pitching AI to Law Firms the Way Every Other Developer Does](https://medium.com/@ritikmakhija2002/why-i-stopped-pitching-ai-to-law-firms-the-way-every-other-developer-does-e4ccca3cb978?source=rss------artificial_intelligence-5)**
+> 🔹 **[Rollbacks Should Be Part of the Deployment Plan](https://medium.com/@xanhido/rollbacks-should-be-part-of-the-deployment-plan-d5467b219ddc?source=rss------backend_development-5)**
+> 🔹 **[Engineering Rigor Should Scale With Risk](https://medium.com/@CarsonK/engineering-rigor-should-scale-with-risk-58f416482172?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Doesn’t Change Build vs. Buy — It Raises the Stakes](https://medium.com/@CarsonK/ai-doesnt-change-build-vs-buy-it-raises-the-stakes-c0bafade8953?source=rss------artificial_intelligence-5)**
+> 🔹 **[Python’s AI Ecosystem Has Changed More in One Year Than the Last Five](https://medium.com/@komalbaparmar007/pythons-ai-ecosystem-has-changed-more-in-one-year-than-the-last-five-4c0b8729624a?source=rss------backend_development-5)**
+> 🔹 **[Python’s AI Ecosystem Has Changed More in One Year Than the Last Five](https://medium.com/@komalbaparmar007/pythons-ai-ecosystem-has-changed-more-in-one-year-than-the-last-five-4c0b8729624a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
