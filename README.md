@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[A Hacker Didn’t Need a Password — Just This Single Spring Boot Endpoint](https://medium.com/@pramod.er90/a-hacker-didnt-need-a-password-just-this-single-spring-boot-endpoint-08c1cbfda572?source=rss------backend_development-5)**
-> 🔹 **[The Bounded Agent](https://medium.com/@madkatomega/the-bounded-agent-0c14243cecd0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Tool Design Beats Clever Prompts](https://medium.com/@andreglegg/tool-design-beats-clever-prompts-781124ea21c1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Common Data Science Mistakes and How to Avoid Them](https://medium.com/@emmanuelowusuadu10/common-data-science-mistakes-and-how-to-avoid-them-7b35864555b3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Comment Your Social Media Handle Below… I’ll Tell You Why You’re Not Going Viral.](https://medium.com/@trevorchambers/comment-your-social-media-handle-below-ill-tell-you-why-you-re-not-going-viral-36f298c3dce1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Solo, Powered by AI: Building a Life, Not Just a Career](https://medium.com/@vedanshi.sangal/solo-powered-by-ai-building-a-life-not-just-a-career-2002abd70ed6?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Looked at 50 Tech Side Projects in 2026. Most Failed for the Same Reason.](https://medium.com/write-a-catalyst/i-looked-at-50-tech-side-projects-in-2026-most-failed-for-the-same-reason-9fadc9d4bf64?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nobody’s Talking About This Free AI Tool That Does What Midjourney Charges $30 For](https://medium.com/@sharmaagrima29/nobodys-talking-about-this-free-ai-tool-that-does-what-midjourney-charges-30-for-6a542c8a9598?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gemma 4 26B MoE vs Claude Opus 4.6: I Used Both for Weeks — Here’s the One I Actually Kept](https://pub.towardsai.net/gemma-4-26b-moe-vs-claude-opus-4-6-i-used-both-for-weeks-heres-the-one-i-actually-kept-0bf518c8b0c3?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tried Living According to AI’s Advice for a Week](https://medium.com/ai-ai-oh/i-tried-living-according-to-ais-advice-for-a-week-4adcabedb281?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Secret Sauce Behind Real-Time AI Voice Agents](https://medium.com/@rummansiddiqui1990/the-secret-sauce-behind-real-time-ai-voice-agents-2c46b6e132a4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Uncle Bob Stopped Reading His Agents’ Code](https://medium.com/@ivan-stepantsov/uncle-bob-stopped-reading-his-agents-code-8c8544b16b39?source=rss------artificial_intelligence-5)**
+> 🔹 **[WHY THE FUTURE MAY NOT ARRIVE EVERYWHERE AT THE SAME TIME : ELON’S PREDICTION.](https://medium.com/@chukwuagoziem2003/why-the-future-may-not-arrive-everywhere-at-the-same-time-elons-prediction-d2e56b80ea32?source=rss------artificial_intelligence-5)**
+> 🔹 **[System Design :Block vs. File vs. Object Storage](https://medium.com/@harshal14ahire/system-design-block-vs-file-vs-object-storage-922fb0753ca9?source=rss------system_design-5)**
+> 🔹 **[Magnifica Humanitas: The Warning Humanity Cannot Afford to Ignore](https://medium.com/@mdimahumphrey/magnifica-humanitas-the-warning-humanity-cannot-afford-to-ignore-ecd66d5fbeb9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nimi Collection – Premium Artificial Jewellry in Pakistan](https://medium.com/@nimra200853914/nimi-collection-premium-artificial-jewellry-in-pakistan-a02e14236160?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
