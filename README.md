@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[ChatGPT Can Now Work on a Schedule](https://medium.com/@kombib/chatgpt-scheduled-tasks-practical-guide-8399470846ae?source=rss------artificial_intelligence-5)**
-> 🔹 **[In the Age of Algorithms, How Do We Find the Truth?](https://medium.com/@_jaydeepkarale/in-the-age-of-algorithms-how-do-we-find-the-truth-3dc065e0e3ce?source=rss------artificial_intelligence-5)**
-> 🔹 **[Singularity As An Implication Of Machine’s Ability To Outpace Changes In Its Environment](https://medium.com/@melnawawy1980/singularity-as-an-implication-of-machines-ability-to-outpace-changes-in-its-environment-26e2bee59c16?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI “Bullshit” and Creativity](https://medium.com/@nirvana_shamrock_bear_975/ai-bullshit-and-creativity-b7dfe08e771e?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Restaurant AI Becomes a Service System: RAG, SOPs and Human Handoff](https://medium.com/@thzy8888/how-restaurant-ai-becomes-a-service-system-rag-sops-and-human-handoff-1b8f003a60c1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Asking for Your Best Ideas Gets You the Worst Results, and What to Ask For Instead](https://medium.com/illumination/why-asking-for-your-best-ideas-gets-you-the-worst-results-and-what-to-ask-for-instead-99267a3410f0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Tesla’s Next Big Product Might Not Be a Car. It Might Be the House Itself.](https://medium.com/@justicendlovubusiness/teslas-next-big-product-might-not-be-a-car-it-might-be-the-house-itself-563f4ad37607?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best AI Tools for Affiliate Marketing That Actually Save You Time &lpar;2026 Guide&rpar;](https://medium.com/@garrettstonewell/best-ai-tools-for-affiliate-marketing-that-actually-save-you-time-2026-guide-e056be1b7ead?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Hacker Didn’t Need a Password — Just This Single Spring Boot Endpoint](https://medium.com/@pramod.er90/a-hacker-didnt-need-a-password-just-this-single-spring-boot-endpoint-08c1cbfda572?source=rss------backend_development-5)**
+> 🔹 **[The Bounded Agent](https://medium.com/@madkatomega/the-bounded-agent-0c14243cecd0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Tool Design Beats Clever Prompts](https://medium.com/@andreglegg/tool-design-beats-clever-prompts-781124ea21c1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Common Data Science Mistakes and How to Avoid Them](https://medium.com/@emmanuelowusuadu10/common-data-science-mistakes-and-how-to-avoid-them-7b35864555b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Comment Your Social Media Handle Below… I’ll Tell You Why You’re Not Going Viral.](https://medium.com/@trevorchambers/comment-your-social-media-handle-below-ill-tell-you-why-you-re-not-going-viral-36f298c3dce1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Solo, Powered by AI: Building a Life, Not Just a Career](https://medium.com/@vedanshi.sangal/solo-powered-by-ai-building-a-life-not-just-a-career-2002abd70ed6?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Looked at 50 Tech Side Projects in 2026. Most Failed for the Same Reason.](https://medium.com/write-a-catalyst/i-looked-at-50-tech-side-projects-in-2026-most-failed-for-the-same-reason-9fadc9d4bf64?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nobody’s Talking About This Free AI Tool That Does What Midjourney Charges $30 For](https://medium.com/@sharmaagrima29/nobodys-talking-about-this-free-ai-tool-that-does-what-midjourney-charges-30-for-6a542c8a9598?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
