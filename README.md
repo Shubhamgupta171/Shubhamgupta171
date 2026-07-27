@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Does your AI earn its seat, or just help you start?](https://medium.com/@team_sisyphus/does-your-ai-earn-its-seat-or-just-help-you-start-d24d762cadaa?source=rss------artificial_intelligence-5)**
-> 🔹 **[6 Video Interview Questions That Actually Decide Whether You Get the Job](https://medium.com/@growth_86840/6-video-interview-questions-that-actually-decide-whether-you-get-the-job-baa4a1513b3c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Day 6: Retrieval-Augmented Generation &lpar;RAG&rpar; — How AI Uses External Knowledge](https://medium.com/@satyaprakashkadarla/day-6-retrieval-augmented-generation-rag-how-ai-uses-external-knowledge-c5a631448d33?source=rss------artificial_intelligence-5)**
-> 🔹 **[Episodic Memory in AI Agents: How Past Experience Improves Decision-Making](https://blog.cubed.run/episodic-memory-in-ai-agents-how-past-experience-improves-decision-making-5dfbb68a8e23?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Fonts Panel in PDF4WCAG: supporting PDF accessibility and compliance](https://blog.cubed.run/the-fonts-panel-in-pdf4wcag-supporting-pdf-accessibility-and-compliance-b5097c06e108?source=rss------artificial_intelligence-5)**
-> 🔹 **[Vibes aren’t always REAL: From Output to Outcome](https://medium.com/@ankursaran_59645/vibes-arent-always-real-from-output-to-outcome-ba8814d18dfa?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Invisible Concierge : How Airbnb’s AI is Rewiring the Hospitality Industry](https://medium.com/@ujjwalgupta893/the-invisible-concierge-how-airbnbs-ai-is-rewiring-the-hospitality-industry-75b861420e00?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Magician’s Playground: From Nursery Rhymes to Silicon Valley](https://medium.com/@venkatraman.ravi15/the-magicians-playground-from-nursery-rhymes-to-silicon-valley-5c5ac7880a5e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Brussels Just Told Google to Open Its AI Layer to Rivals.](https://ai.plainenglish.io/brussels-just-told-google-to-open-its-ai-layer-to-rivals-d6c87141bea7?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Medical Malpractice: Who Is Liable When an Algorithm Gets Your Diagnosis Wrong?](https://medium.com/illumination/ai-medical-malpractice-who-is-liable-when-an-algorithm-gets-your-diagnosis-wrong-a58ecdbd76a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[RELIANCE &amp; NVIDIA UNVEIL 1 GW GREEN AI INFRASTRUCTURE IN INDIA.](https://medium.com/@abdulalitp/reliance-nvidia-unveil-1-gw-green-ai-infrastructure-in-india-7b5fc0300c2c?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Client Dinner Can Go Wrong Before Anyone Orders](https://grace-001.medium.com/a-client-dinner-can-go-wrong-before-anyone-orders-011887c47e3d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the AI Demo: What It Really Takes to Run AI in Production](https://medium.com/@infoq/beyond-the-ai-demo-what-it-really-takes-to-run-ai-in-production-885c31cb1ab6?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Prevent Prompt Injection Attacks &amp; Secure Your AI Apps in 2026](https://medium.com/@ghimirepri003/how-to-prevent-prompt-injection-attacks-secure-your-ai-apps-in-2026-573eccfb6095?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI’s Own AI Models Broke Out of a Test Environment and Hacked a Real Company.](https://medium.com/illumination/openais-own-ai-models-broke-out-of-a-test-environment-and-hacked-a-real-company-ebe68bf8ab1c?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI vs Machine Learning: A Beginner’s Guide to EDA, Data Cleaning &amp; the Complete ML Workflow](https://medium.com/@gomugomucode/ai-vs-machine-learning-a-beginners-guide-to-eda-data-cleaning-the-complete-ml-workflow-9ef716792915?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
