@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Dear Editor, May AI Say Something in English?](https://medium.com/@diogolsr/dear-editor-may-ai-say-something-in-english-f321c9e319fb?source=rss------artificial_intelligence-5)**
-> 🔹 **[MFPRO India Mutual Fund Database.](https://medium.com/@amarharolikar/mfpro-india-mutual-fund-database-2a27ac57625c?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I’m Migrating the Klad Design System from Figma to Storybook](https://medium.com/@klimkovuchsergiy/how-im-migrating-the-klad-design-system-from-figma-to-storybook-5fdee21d32fe?source=rss------system_design-5)**
-> 🔹 **[Three Kinds of Invisible](https://medium.com/@wrainey929/three-kinds-of-invisible-25342a6bef9d?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Updates for the Week of 7/26/26](https://medium.com/@annie_7775/ai-updates-for-the-week-of-7-26-26-b587a4076f03?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Let AI Handle Every Code Review for a Quarter. Then Someone New Joined the Team.](https://medium.com/@vallabhsangale7/i-let-ai-handle-every-code-review-for-a-quarter-then-someone-new-joined-the-team-4f4c7c2cd12f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Weekly Tech Talk ~ 27th July 2026: The Generative AI Wars 2026 | Trillion-Dollar Infrastructure...](https://medium.com/@abhishekmonpara198/weekly-tech-talk-27th-july-2026-the-generative-ai-wars-2026-trillion-dollar-infrastructure-0c3e71796521?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cómo resumir apuntes con inteligencia artificial: guía definitiva para estudiar más rápido &lpar;202...](https://medium.com/@aiimpulso0311/c%C3%B3mo-resumir-apuntes-con-inteligencia-artificial-gu%C3%ADa-definitiva-para-estudiar-m%C3%A1s-r%C3%A1pido-2026-d3d7168d726d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Custom Software Development Services: Building Digital Solutions for Business Growth](https://medium.com/@airsofterwaredevgmail/custom-software-development-services-building-digital-solutions-for-business-growth-a6722f888bff?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Value of Being Offended](https://medium.com/@dr.lodge.mccammon/the-hidden-value-of-being-offended-ddbf37c6d007?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI NEWS Has Officially Launched as a Podcast](https://medium.com/@davidakpovi/ai-news-has-officially-launched-as-a-podcast-b58f3a2be2ed?source=rss------artificial_intelligence-5)**
+> 🔹 **[Where Does a Vision System Keep Its Intelligence?](https://medium.com/@joshua-nwachinemere/where-does-a-vision-system-keep-its-intelligence-2286d3f1acc0?source=rss------artificial_intelligence-5)**
+> 🔹 **[How To Successfully Build An AI-Powerd Business Without Depending On ChatGPT Yet](https://medium.com/@kiitilola/how-to-successfully-build-an-ai-powerd-business-without-depending-on-chatgpt-yet-5d43a5077c05?source=rss------artificial_intelligence-5)**
+> 🔹 **[El abrazo que no arriesga nada](https://medium.com/@csrrtr/el-abrazo-que-no-arriesga-nada-3037fbf52ea2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Higgsfield AI Prompts Are Easy — Getting Paid For Them Isn’t. Here’s How I Fixed That.](https://medium.com/@em07emmawilson/higgsfield-ai-prompts-are-easy-getting-paid-for-them-isnt-here-s-how-i-fixed-that-16887c696554?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Graphic Designers Can Finally Get Consistent Results From Higgsfield AI](https://medium.com/@em07emmawilson/how-graphic-designers-can-finally-get-consistent-results-from-higgsfield-ai-3e0621af4742?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
