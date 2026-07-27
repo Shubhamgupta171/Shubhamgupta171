@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Gemma 4 26B MoE vs Claude Opus 4.6: I Used Both for Weeks — Here’s the One I Actually Kept](https://pub.towardsai.net/gemma-4-26b-moe-vs-claude-opus-4-6-i-used-both-for-weeks-heres-the-one-i-actually-kept-0bf518c8b0c3?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tried Living According to AI’s Advice for a Week](https://medium.com/ai-ai-oh/i-tried-living-according-to-ais-advice-for-a-week-4adcabedb281?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Secret Sauce Behind Real-Time AI Voice Agents](https://medium.com/@rummansiddiqui1990/the-secret-sauce-behind-real-time-ai-voice-agents-2c46b6e132a4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Uncle Bob Stopped Reading His Agents’ Code](https://medium.com/@ivan-stepantsov/uncle-bob-stopped-reading-his-agents-code-8c8544b16b39?source=rss------artificial_intelligence-5)**
-> 🔹 **[WHY THE FUTURE MAY NOT ARRIVE EVERYWHERE AT THE SAME TIME : ELON’S PREDICTION.](https://medium.com/@chukwuagoziem2003/why-the-future-may-not-arrive-everywhere-at-the-same-time-elons-prediction-d2e56b80ea32?source=rss------artificial_intelligence-5)**
-> 🔹 **[System Design :Block vs. File vs. Object Storage](https://medium.com/@harshal14ahire/system-design-block-vs-file-vs-object-storage-922fb0753ca9?source=rss------system_design-5)**
-> 🔹 **[Magnifica Humanitas: The Warning Humanity Cannot Afford to Ignore](https://medium.com/@mdimahumphrey/magnifica-humanitas-the-warning-humanity-cannot-afford-to-ignore-ecd66d5fbeb9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nimi Collection – Premium Artificial Jewellry in Pakistan](https://medium.com/@nimra200853914/nimi-collection-premium-artificial-jewellry-in-pakistan-a02e14236160?source=rss------artificial_intelligence-5)**
+> 🔹 **[Does your AI earn its seat, or just help you start?](https://medium.com/@team_sisyphus/does-your-ai-earn-its-seat-or-just-help-you-start-d24d762cadaa?source=rss------artificial_intelligence-5)**
+> 🔹 **[6 Video Interview Questions That Actually Decide Whether You Get the Job](https://medium.com/@growth_86840/6-video-interview-questions-that-actually-decide-whether-you-get-the-job-baa4a1513b3c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 6: Retrieval-Augmented Generation &lpar;RAG&rpar; — How AI Uses External Knowledge](https://medium.com/@satyaprakashkadarla/day-6-retrieval-augmented-generation-rag-how-ai-uses-external-knowledge-c5a631448d33?source=rss------artificial_intelligence-5)**
+> 🔹 **[Episodic Memory in AI Agents: How Past Experience Improves Decision-Making](https://blog.cubed.run/episodic-memory-in-ai-agents-how-past-experience-improves-decision-making-5dfbb68a8e23?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Fonts Panel in PDF4WCAG: supporting PDF accessibility and compliance](https://blog.cubed.run/the-fonts-panel-in-pdf4wcag-supporting-pdf-accessibility-and-compliance-b5097c06e108?source=rss------artificial_intelligence-5)**
+> 🔹 **[Vibes aren’t always REAL: From Output to Outcome](https://medium.com/@ankursaran_59645/vibes-arent-always-real-from-output-to-outcome-ba8814d18dfa?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Invisible Concierge : How Airbnb’s AI is Rewiring the Hospitality Industry](https://medium.com/@ujjwalgupta893/the-invisible-concierge-how-airbnbs-ai-is-rewiring-the-hospitality-industry-75b861420e00?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Magician’s Playground: From Nursery Rhymes to Silicon Valley](https://medium.com/@venkatraman.ravi15/the-magicians-playground-from-nursery-rhymes-to-silicon-valley-5c5ac7880a5e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
