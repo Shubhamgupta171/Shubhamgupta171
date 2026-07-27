@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Brussels Just Told Google to Open Its AI Layer to Rivals.](https://ai.plainenglish.io/brussels-just-told-google-to-open-its-ai-layer-to-rivals-d6c87141bea7?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Medical Malpractice: Who Is Liable When an Algorithm Gets Your Diagnosis Wrong?](https://medium.com/illumination/ai-medical-malpractice-who-is-liable-when-an-algorithm-gets-your-diagnosis-wrong-a58ecdbd76a0?source=rss------artificial_intelligence-5)**
-> 🔹 **[RELIANCE &amp; NVIDIA UNVEIL 1 GW GREEN AI INFRASTRUCTURE IN INDIA.](https://medium.com/@abdulalitp/reliance-nvidia-unveil-1-gw-green-ai-infrastructure-in-india-7b5fc0300c2c?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Client Dinner Can Go Wrong Before Anyone Orders](https://grace-001.medium.com/a-client-dinner-can-go-wrong-before-anyone-orders-011887c47e3d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the AI Demo: What It Really Takes to Run AI in Production](https://medium.com/@infoq/beyond-the-ai-demo-what-it-really-takes-to-run-ai-in-production-885c31cb1ab6?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Prevent Prompt Injection Attacks &amp; Secure Your AI Apps in 2026](https://medium.com/@ghimirepri003/how-to-prevent-prompt-injection-attacks-secure-your-ai-apps-in-2026-573eccfb6095?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenAI’s Own AI Models Broke Out of a Test Environment and Hacked a Real Company.](https://medium.com/illumination/openais-own-ai-models-broke-out-of-a-test-environment-and-hacked-a-real-company-ebe68bf8ab1c?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI vs Machine Learning: A Beginner’s Guide to EDA, Data Cleaning &amp; the Complete ML Workflow](https://medium.com/@gomugomucode/ai-vs-machine-learning-a-beginners-guide-to-eda-data-cleaning-the-complete-ml-workflow-9ef716792915?source=rss------artificial_intelligence-5)**
+> 🔹 **[Dear Editor, May AI Say Something in English?](https://medium.com/@diogolsr/dear-editor-may-ai-say-something-in-english-f321c9e319fb?source=rss------artificial_intelligence-5)**
+> 🔹 **[MFPRO India Mutual Fund Database.](https://medium.com/@amarharolikar/mfpro-india-mutual-fund-database-2a27ac57625c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I’m Migrating the Klad Design System from Figma to Storybook](https://medium.com/@klimkovuchsergiy/how-im-migrating-the-klad-design-system-from-figma-to-storybook-5fdee21d32fe?source=rss------system_design-5)**
+> 🔹 **[Three Kinds of Invisible](https://medium.com/@wrainey929/three-kinds-of-invisible-25342a6bef9d?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Updates for the Week of 7/26/26](https://medium.com/@annie_7775/ai-updates-for-the-week-of-7-26-26-b587a4076f03?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Let AI Handle Every Code Review for a Quarter. Then Someone New Joined the Team.](https://medium.com/@vallabhsangale7/i-let-ai-handle-every-code-review-for-a-quarter-then-someone-new-joined-the-team-4f4c7c2cd12f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Weekly Tech Talk ~ 27th July 2026: The Generative AI Wars 2026 | Trillion-Dollar Infrastructure...](https://medium.com/@abhishekmonpara198/weekly-tech-talk-27th-july-2026-the-generative-ai-wars-2026-trillion-dollar-infrastructure-0c3e71796521?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cómo resumir apuntes con inteligencia artificial: guía definitiva para estudiar más rápido &lpar;202...](https://medium.com/@aiimpulso0311/c%C3%B3mo-resumir-apuntes-con-inteligencia-artificial-gu%C3%ADa-definitiva-para-estudiar-m%C3%A1s-r%C3%A1pido-2026-d3d7168d726d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
