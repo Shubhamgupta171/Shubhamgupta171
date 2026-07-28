@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your CFO asks one question at the quarterly review — where is it in the numbers?](https://solutionsbyjewel.medium.com/your-cfo-asks-one-question-at-the-quarterly-review-where-is-it-in-the-numbers-8380e2ac75a7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nvidia Is Propping Up the Entire AI Industry.](https://medium.com/@codyjay085/nvidia-is-propping-up-the-entire-ai-industry-6b807b71d0f8?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Isn’t Replacing Education. It’s Redefining It](https://medium.com/@amirshnll/ai-isnt-replacing-education-it-s-redefining-it-a459beaaf1f5?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Happens When AI Makes All Your Decisions](https://jawad473.medium.com/what-happens-when-ai-makes-all-your-decisions-62d281214448?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Isn’t Changing One Layer of Your Enterprise Stack. It’s Changing Four](https://pub.towardsai.net/ai-isnt-changing-one-layer-of-your-enterprise-stack-it-s-changing-four-cd519693a71e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your $200/Month AI Stack Is a Business Expense You’re Paying Personally](https://medium.com/@noor.jsdivs/your-200-month-ai-stack-is-a-business-expense-youre-paying-personally-f2775e10e820?source=rss------artificial_intelligence-5)**
-> 🔹 **[K8sGPT — The AI-Powered Kubernetes SRE Expert. Is It Going to Replace Kubernetes Engineers?](https://medium.com/@vijijava/k8sgpt-the-ai-powered-kubernetes-sre-expert-is-it-going-to-replace-kubernetes-engineers-c83cc5768483?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Daily Buy/Sell Signals for $CAT: A Practical Guide to Better Risk Management in Day Trading](https://medium.com/@skyinboxx1986/ai-daily-buy-sell-signals-for-cat-a-practical-guide-to-better-risk-management-in-day-trading-05d29b5109b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[518 of 518: How I Verified Every Citation in a Reference Library, and Caught an AI Fabricating…](https://medium.com/@waqaskhan.archpatterns/518-of-518-how-i-verified-every-citation-in-a-reference-library-and-caught-an-ai-fabricating-dec7af20264e?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Medical Scribes For General Surgery: Improving Clinical Documentation, Workflow Efficiency,...](https://medium.com/@pradeep.vp48/ai-medical-scribes-for-general-surgery-improving-clinical-documentation-workflow-efficiency-and-b89ef527ac2b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Prompt Engineering Is Dead? Here’s What’s Actually Happening in 2026](https://manterapj.medium.com/prompt-engineering-is-dead-heres-what-s-actually-happening-in-2026-908687ce3e66?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Approved Something Else — Weekly Notes for EdTech Platform Builders, July 27, 2026](https://medium.com/@benjaminmeindl/you-approved-something-else-weekly-notes-for-edtech-platform-builders-july-27-2026-284975ea520b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Asked AI for Career Advice. Then I Told It I Was Indian. The Answer Changed.](https://reetikag-mahajan.medium.com/i-asked-ai-for-career-advice-then-i-told-it-i-was-indian-the-answer-changed-d319aea21265?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Room That Knows You’re Tired Before You Do](https://medium.com/@shrutikamokashi/the-room-that-knows-youre-tired-before-you-do-ada6af3c8bb2?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Build a Profitable Online Business From Scratch in Just 7 Days](https://medium.com/@MindHackersAI/how-to-build-a-profitable-online-business-from-scratch-in-just-7-days-7dcfbc011abf?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Receptionist for Orthopedic Practices in 2026: Managing High Call Volumes, Surgery Schedulin...](https://medium.com/@pradeep.vp48/ai-receptionist-for-orthopedic-practices-in-2026-managing-high-call-volumes-surgery-scheduling-992168d752e2?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
