@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Intersection of AI and Web3: What Happens When Decentralization Meets Intelligence?](https://medium.com/@rachel.steelspearmedia/the-intersection-of-ai-and-web3-what-happens-when-decentralization-meets-intelligence-ce1ffea65a8b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Kimi K3 Is Here: The 2.8-Trillion-Parameter Open Model Chasing the Frontier](https://medium.com/@bernardloki/kimi-k3-is-here-the-2-8-trillion-parameter-open-model-chasing-the-frontier-fb5aa9991ba0?source=rss------artificial_intelligence-5)**
-> 🔹 **[My MacBook Aged Three Years in Three Months of Vibe Coding](https://generativeai.pub/my-macbook-aged-three-years-in-three-months-of-vibe-coding-64e7ab92123d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Every Enterprise Needs a Private AI That Works 100% Offline](https://medium.com/@modelcamtech/why-every-enterprise-needs-a-private-ai-that-works-100-offline-968278f9a331?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Is Changing Digital Marketing: A New Era for Businesses](https://medium.com/@dilshadmundayil/how-ai-is-changing-digital-marketing-a-new-era-for-businesses-c955c910a987?source=rss------artificial_intelligence-5)**
-> 🔹 **[SPI &lpar;Service Provider Interface&rpar;: The Java Pattern for Creating Extensible Applications](https://medium.com/@lucianosilva_61035/spi-service-provider-interface-the-java-pattern-for-creating-extensible-applications-44f7f6b2c265?source=rss------artificial_intelligence-5)**
-> 🔹 **[What is the difference between a parameter and a hyperparameter — two words everyone mixes up](https://medium.com/@arsalkhan963/what-is-the-difference-between-a-parameter-and-a-hyperparameter-two-words-everyone-mixes-up-34f07a62ce49?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why I Chase What Other People Ignore](https://medium.com/@hdhffxfg/why-i-chase-what-other-people-ignore-69c439745874?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your CFO asks one question at the quarterly review — where is it in the numbers?](https://solutionsbyjewel.medium.com/your-cfo-asks-one-question-at-the-quarterly-review-where-is-it-in-the-numbers-8380e2ac75a7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nvidia Is Propping Up the Entire AI Industry.](https://medium.com/@codyjay085/nvidia-is-propping-up-the-entire-ai-industry-6b807b71d0f8?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Isn’t Replacing Education. It’s Redefining It](https://medium.com/@amirshnll/ai-isnt-replacing-education-it-s-redefining-it-a459beaaf1f5?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Happens When AI Makes All Your Decisions](https://jawad473.medium.com/what-happens-when-ai-makes-all-your-decisions-62d281214448?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Isn’t Changing One Layer of Your Enterprise Stack. It’s Changing Four](https://pub.towardsai.net/ai-isnt-changing-one-layer-of-your-enterprise-stack-it-s-changing-four-cd519693a71e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your $200/Month AI Stack Is a Business Expense You’re Paying Personally](https://medium.com/@noor.jsdivs/your-200-month-ai-stack-is-a-business-expense-youre-paying-personally-f2775e10e820?source=rss------artificial_intelligence-5)**
+> 🔹 **[K8sGPT — The AI-Powered Kubernetes SRE Expert. Is It Going to Replace Kubernetes Engineers?](https://medium.com/@vijijava/k8sgpt-the-ai-powered-kubernetes-sre-expert-is-it-going-to-replace-kubernetes-engineers-c83cc5768483?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Daily Buy/Sell Signals for $CAT: A Practical Guide to Better Risk Management in Day Trading](https://medium.com/@skyinboxx1986/ai-daily-buy-sell-signals-for-cat-a-practical-guide-to-better-risk-management-in-day-trading-05d29b5109b3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
