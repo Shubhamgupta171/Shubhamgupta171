@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Shadow AI Doesn’t Look Like a Breach. It Looks Like Slightly-Wrong Copy.](https://medium.com/@gpiushgupta/shadow-ai-doesnt-look-like-a-breach-it-looks-like-slightly-wrong-copy-1cbd998925d4?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI, Algorithms and Accountability](https://medium.com/@shnegas/ai-algorithms-and-accountability-ab1d0664d3dd?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Biggest Mistake I Made With AI Video Prompts Had Nothing to Do With the Prompt](https://medium.com/@cy520569/the-biggest-mistake-i-made-with-ai-video-prompts-had-nothing-to-do-with-the-prompt-54d84ee48ad0?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Stack Is Becoming Infrastructure.](https://medium.com/@aftab001x/the-ai-stack-is-becoming-infrastructure-e9663a2f6694?source=rss------artificial_intelligence-5)**
-> 🔹 **[The end of the AI free lunch](https://medium.com/@ra1841/the-end-of-the-ai-free-lunch-9092af1455c7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Conspiracy Theorist’s Guide to AI: What If the Simulation Is Training on Itself?](https://bisheshailab.medium.com/the-conspiracy-theorists-guide-to-ai-what-if-the-simulation-is-training-on-itself-234dc9f6d3c0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Writing Emails Like a Mystery Novel: How to Apply the McKinsey Pyramid Principle](https://techaiguild.aibucket.org/stop-writing-emails-like-a-mystery-novel-how-to-apply-the-mckinsey-pyramid-principle-6982ad53b50e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Want Peace of Mind When You’re Away?](https://medium.com/@TopGen93/want-peace-of-mind-when-youre-away-db2066b8ec62?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Intersection of AI and Web3: What Happens When Decentralization Meets Intelligence?](https://medium.com/@rachel.steelspearmedia/the-intersection-of-ai-and-web3-what-happens-when-decentralization-meets-intelligence-ce1ffea65a8b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kimi K3 Is Here: The 2.8-Trillion-Parameter Open Model Chasing the Frontier](https://medium.com/@bernardloki/kimi-k3-is-here-the-2-8-trillion-parameter-open-model-chasing-the-frontier-fb5aa9991ba0?source=rss------artificial_intelligence-5)**
+> 🔹 **[My MacBook Aged Three Years in Three Months of Vibe Coding](https://generativeai.pub/my-macbook-aged-three-years-in-three-months-of-vibe-coding-64e7ab92123d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Every Enterprise Needs a Private AI That Works 100% Offline](https://medium.com/@modelcamtech/why-every-enterprise-needs-a-private-ai-that-works-100-offline-968278f9a331?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Changing Digital Marketing: A New Era for Businesses](https://medium.com/@dilshadmundayil/how-ai-is-changing-digital-marketing-a-new-era-for-businesses-c955c910a987?source=rss------artificial_intelligence-5)**
+> 🔹 **[SPI &lpar;Service Provider Interface&rpar;: The Java Pattern for Creating Extensible Applications](https://medium.com/@lucianosilva_61035/spi-service-provider-interface-the-java-pattern-for-creating-extensible-applications-44f7f6b2c265?source=rss------artificial_intelligence-5)**
+> 🔹 **[What is the difference between a parameter and a hyperparameter — two words everyone mixes up](https://medium.com/@arsalkhan963/what-is-the-difference-between-a-parameter-and-a-hyperparameter-two-words-everyone-mixes-up-34f07a62ce49?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why I Chase What Other People Ignore](https://medium.com/@hdhffxfg/why-i-chase-what-other-people-ignore-69c439745874?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
