@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[518 of 518: How I Verified Every Citation in a Reference Library, and Caught an AI Fabricating…](https://medium.com/@waqaskhan.archpatterns/518-of-518-how-i-verified-every-citation-in-a-reference-library-and-caught-an-ai-fabricating-dec7af20264e?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Medical Scribes For General Surgery: Improving Clinical Documentation, Workflow Efficiency,...](https://medium.com/@pradeep.vp48/ai-medical-scribes-for-general-surgery-improving-clinical-documentation-workflow-efficiency-and-b89ef527ac2b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Prompt Engineering Is Dead? Here’s What’s Actually Happening in 2026](https://manterapj.medium.com/prompt-engineering-is-dead-heres-what-s-actually-happening-in-2026-908687ce3e66?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Approved Something Else — Weekly Notes for EdTech Platform Builders, July 27, 2026](https://medium.com/@benjaminmeindl/you-approved-something-else-weekly-notes-for-edtech-platform-builders-july-27-2026-284975ea520b?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Asked AI for Career Advice. Then I Told It I Was Indian. The Answer Changed.](https://reetikag-mahajan.medium.com/i-asked-ai-for-career-advice-then-i-told-it-i-was-indian-the-answer-changed-d319aea21265?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Room That Knows You’re Tired Before You Do](https://medium.com/@shrutikamokashi/the-room-that-knows-youre-tired-before-you-do-ada6af3c8bb2?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Build a Profitable Online Business From Scratch in Just 7 Days](https://medium.com/@MindHackersAI/how-to-build-a-profitable-online-business-from-scratch-in-just-7-days-7dcfbc011abf?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Receptionist for Orthopedic Practices in 2026: Managing High Call Volumes, Surgery Schedulin...](https://medium.com/@pradeep.vp48/ai-receptionist-for-orthopedic-practices-in-2026-managing-high-call-volumes-surgery-scheduling-992168d752e2?source=rss------artificial_intelligence-5)**
+> 🔹 **[From an Idea on My Laptop to the Vibe2Ship Podium: Building Kairos Alone](https://medium.com/@dhruv621999goyal/from-an-idea-on-my-laptop-to-the-vibe2ship-podium-building-kairos-alone-b28832556d98?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Insurance and Healthtech Startups Should Evaluate a Fractional CTO’s Compliance Chops](https://medium.com/@marketing_17846/how-insurance-and-healthtech-startups-should-evaluate-a-fractional-ctos-compliance-chops-98c9aa5d108c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best AI Coding Tools for SwiftUI in 2026: What Actually Works With Xcode?](https://medium.com/@febinsjt/best-ai-coding-tools-for-swiftui-in-2026-what-actually-works-with-xcode-06da111d294a?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Transforming Small Businesses in 2026: A Practical Guide for Entrepreneurs](https://medium.com/@funnelox/how-ai-is-transforming-small-businesses-in-2026-a-practical-guide-for-entrepreneurs-642209e4e46f?source=rss------artificial_intelligence-5)**
+> 🔹 **[GTG-1002: how a Chinese hacking group got AI to run 90% of a cyberattack on its own](https://medium.com/@trends24/gtg-1002-how-a-chinese-hacking-group-got-ai-to-run-90-of-a-cyberattack-on-its-own-33906cdfc4bc?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Claude Code Plugins That Replaced $150 a Month in Tools I Used to Pay For](https://nitingavhane.medium.com/5-claude-code-plugins-that-replaced-150-a-month-in-tools-i-used-to-pay-for-f48bb4387725?source=rss------artificial_intelligence-5)**
+> 🔹 **[Where AI Actually Fits in AEM Architecture: Beyond Content Generation](https://medium.com/@kailash.ramagiri/where-ai-actually-fits-in-aem-architecture-beyond-content-generation-ef5e87b9bbf2?source=rss------artificial_intelligence-5)**
+> 🔹 **[25 AI Prompts That Improve Productivity and Save Hours Every Week
+Stop staring at a blank scree...](https://medium.com/@affan556khan123/25-ai-prompts-that-improve-productivity-and-save-hours-every-week-stop-staring-at-a-blank-screen-193d0189adaf?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
