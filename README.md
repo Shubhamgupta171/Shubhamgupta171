@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Top 10 Books on Design System that I read last year](https://biomathcode.medium.com/top-10-books-on-design-system-that-i-read-last-year-d5b818799517?source=rss------system_design-5)**
-> 🔹 **[I Didn’t Understand Distributed Systems Until State Became My Problem](https://medium.com/@suyasht786/i-didnt-understand-distributed-systems-until-state-became-my-problem-59a203db4e66?source=rss------backend_development-5)**
-> 🔹 **[AI Security: Prevent Prompt Injection and Data Leaks](https://medium.com/@raviskit2012/ai-security-prevent-prompt-injection-and-data-leaks-584709dd2668?source=rss------artificial_intelligence-5)**
-> 🔹 **[11 Best AI Coding Tools in 2026 — I Tested Every One and Ranked Them &lpar;Honest Verdicts&rpar;](https://medium.com/@felixkebaya/11-best-ai-coding-tools-in-2026-i-tested-every-one-and-ranked-them-honest-verdicts-d68a4a6c20a9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude + Higgsfield = $2500/Month Airbnb Side Business &lpar;How to Build&rpar;](https://divadsanders.medium.com/claude-higgsfield-2500-month-airbnb-side-business-how-to-build-e2e691f933a7?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Use AI to Do 4 Hours of Financial Research in 20 Minutes
-Most retail investors lose for o...](https://medium.com/@okehjoy11111/how-i-use-ai-to-do-4-hours-of-financial-research-in-20-minutes-most-retail-investors-lose-for-one-27b31223859c?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Can Improve Legacy System Migration](https://scottcmcmahan.medium.com/how-ai-can-improve-legacy-system-migration-3b71c7f01b53?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Tools for Small Business Owners: 10 Smart Solutions to Save Time, Reduce Costs, and Grow Fas...](https://muhammadawaisca.medium.com/ai-tools-for-small-business-owners-10-smart-solutions-to-save-time-reduce-costs-and-grow-faster-7ecd5c9b4ddd?source=rss------artificial_intelligence-5)**
+> 🔹 **[What transforms understanding into recognised knowledge?](https://medium.com/@nite.tanzarn/what-transforms-understanding-into-recognised-knowledge-12094d77a01f?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Implemented NeRF From Scratch](https://medium.com/@himanshusr451tehs/how-i-implemented-nerf-from-scratch-24bc7f46d66d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Choosing One: A Better AI Coding Workflow with GLM-5.2 and Claude Opus 5](https://novinfard.medium.com/stop-choosing-one-a-better-ai-coding-workflow-with-glm-5-2-and-claude-opus-5-61cec9d26de7?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI’s ‘Rogue AI’ Was a Bad Firewall](https://pub.towardsai.net/openais-rogue-ai-was-a-bad-firewall-9aadcbaaaa80?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Didn’t Replace the Designer. It Promoted Them.](https://medium.com/@aesthetikal/ai-didnt-replace-the-designer-it-promoted-them-73ff5c8f47a6?source=rss------system_design-5)**
+> 🔹 **[AI Didn’t Replace the Designer. It Promoted Them.](https://medium.com/@aesthetikal/ai-didnt-replace-the-designer-it-promoted-them-73ff5c8f47a6?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Cache Bug I Could Never Reproduce](https://medium.com/@dhruv-goyal-10/the-cache-bug-i-could-never-reproduce-ac9df8bc087e?source=rss------backend_development-5)**
+> 🔹 **[AI For Reel Ideas: How Artificial Intelligence Helps You Create Viral Content Consistently](https://medium.com/@tanviitaliya8095/ai-for-reel-ideas-how-artificial-intelligence-helps-you-create-viral-content-consistently-c4fbf2560629?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
