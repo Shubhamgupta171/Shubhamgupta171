@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[From an Idea on My Laptop to the Vibe2Ship Podium: Building Kairos Alone](https://medium.com/@dhruv621999goyal/from-an-idea-on-my-laptop-to-the-vibe2ship-podium-building-kairos-alone-b28832556d98?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Insurance and Healthtech Startups Should Evaluate a Fractional CTO’s Compliance Chops](https://medium.com/@marketing_17846/how-insurance-and-healthtech-startups-should-evaluate-a-fractional-ctos-compliance-chops-98c9aa5d108c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best AI Coding Tools for SwiftUI in 2026: What Actually Works With Xcode?](https://medium.com/@febinsjt/best-ai-coding-tools-for-swiftui-in-2026-what-actually-works-with-xcode-06da111d294a?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Is Transforming Small Businesses in 2026: A Practical Guide for Entrepreneurs](https://medium.com/@funnelox/how-ai-is-transforming-small-businesses-in-2026-a-practical-guide-for-entrepreneurs-642209e4e46f?source=rss------artificial_intelligence-5)**
-> 🔹 **[GTG-1002: how a Chinese hacking group got AI to run 90% of a cyberattack on its own](https://medium.com/@trends24/gtg-1002-how-a-chinese-hacking-group-got-ai-to-run-90-of-a-cyberattack-on-its-own-33906cdfc4bc?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Claude Code Plugins That Replaced $150 a Month in Tools I Used to Pay For](https://nitingavhane.medium.com/5-claude-code-plugins-that-replaced-150-a-month-in-tools-i-used-to-pay-for-f48bb4387725?source=rss------artificial_intelligence-5)**
-> 🔹 **[Where AI Actually Fits in AEM Architecture: Beyond Content Generation](https://medium.com/@kailash.ramagiri/where-ai-actually-fits-in-aem-architecture-beyond-content-generation-ef5e87b9bbf2?source=rss------artificial_intelligence-5)**
-> 🔹 **[25 AI Prompts That Improve Productivity and Save Hours Every Week
-Stop staring at a blank scree...](https://medium.com/@affan556khan123/25-ai-prompts-that-improve-productivity-and-save-hours-every-week-stop-staring-at-a-blank-screen-193d0189adaf?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 AI SEO Mistakes That Are Killing Your Blog Traffic in 2026 &lpar;And How to Fix Them&rpar;](https://medium.com/@madiha.heaven17/7-ai-seo-mistakes-that-are-killing-your-blog-traffic-in-2026-and-how-to-fix-them-35635d2e0131?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Ops as a Discipline: What Every Sales Leader Needs to Know](https://talhafakhar.medium.com/ai-ops-as-a-discipline-what-every-sales-leader-needs-to-know-43927837c67f?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 Emerging Tech Careers Students Should Know Before Graduating](https://medium.com/@aischolars2025/7-emerging-tech-careers-students-should-know-before-graduating-bad915165581?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a real AI InterviewerThat Interviews B.Tech Students Before Their Real Recruiters Do](https://medium.com/@vermayatharth96.4/i-built-a-real-ai-interviewerthat-interviews-b-tech-students-before-their-real-recruiters-do-fb8553311ca9?source=rss------artificial_intelligence-5)**
+> 🔹 **[2026 Top Cyber Threats: What’s Lurking in the Stack](https://medium.com/@ingbtech/2026-top-cyber-threats-whats-lurking-in-the-stack-b029d4a9d435?source=rss------artificial_intelligence-5)**
+> 🔹 **[X Money Isn’t Just a Payment App. It’s X’s Biggest Strategic Move Yet.](https://medium.com/@thrillax/x-money-isnt-just-a-payment-app-it-s-x-s-biggest-strategic-move-yet-03f39951766f?source=rss------artificial_intelligence-5)**
+> 🔹 **[From a Business Idea to a Full Brand Identity in Minutes With One AI Tool](https://medium.com/technology-hits/from-a-business-idea-to-a-full-brand-identity-in-minutes-with-one-ai-tool-fc7ca0cf5882?source=rss------artificial_intelligence-5)**
+> 🔹 **[Three Countries. One Vision. Global Impact: The Global Journey of Hello Future Technologies](https://medium.com/@hellofuturetechnologies/three-countries-one-vision-global-impact-the-global-journey-of-hello-future-technologies-35b820d0752e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
