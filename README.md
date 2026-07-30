@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Competence Without Comprehension: Why AI’s Greatest Risk Is Human Misunderstanding](https://lukazurkic.medium.com/competence-without-comprehension-why-ais-greatest-risk-is-human-misunderstanding-15c9c96bddaa?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Engineer Everyone Wanted to Fire.](https://python.plainenglish.io/the-engineer-everyone-wanted-to-fire-66952a770934?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Python Automation Tool That Turned Hours of Repetitive Work Into a Single Click](https://python.plainenglish.io/the-python-automation-tool-that-turned-hours-of-repetitive-work-into-a-single-click-ce0a653d93e6?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Week AI Stopped Being About “The Smartest Model”](https://medium.com/techcraft-chronicles/the-week-ai-stopped-being-about-the-smartest-model-9f5d2ff1f2a3?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Security: Cybersecurity Applied to a New Attack Surface](https://medium.com/@citadelcybersec/ai-security-cybersecurity-applied-to-a-new-attack-surface-61158df7d3aa?source=rss------artificial_intelligence-5)**
-> 🔹 **[A ladder without its first rung: How automation is depriving the labor market of its future…](https://medium.com/@unendingsunrise/a-ladder-without-its-first-rung-how-automation-is-depriving-the-labor-market-of-its-future-15a85d86b1ca?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gemini 3.5 Pro Is 67 Days Late — Here’s What’s Actually Going On](https://medium.com/synthetic-logic/gemini-3-5-pro-is-67-days-late-heres-what-s-actually-going-on-4ac5516ae357?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Expanding the CISO’s Responsibilities](https://scottcmcmahan.medium.com/ai-is-expanding-the-cisos-responsibilities-ee1603882705?source=rss------artificial_intelligence-5)**
+> 🔹 **[MY Learning from Gen AI Academy APAC.](https://medium.com/@psk90099/my-learning-from-gen-ai-academy-apac-c6587f420370?source=rss------artificial_intelligence-5)**
+> 🔹 **[TOPO-2026: From Kimi-VL-A3B-Thinking to Kimi K3 — A Universal Certification Framework for Conti...](https://medium.com/@frankmorales_91352/topo-2026-from-kimi-vl-a3b-thinking-to-kimi-k3-a-universal-certification-framework-for-continual-fca4fc9c52d0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Machine Learning Pipeline — Connecting Everything Into One System](https://medium.com/@banerjeevictor06/the-machine-learning-pipeline-connecting-everything-into-one-system-e0b54f30938a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Microsoft Stock Soars 8% as Azure Growth Hits 43% and Capex Guidance Stays Bullish for 2026](https://medium.com/@md.abid.raihan.sunny/microsoft-stock-soars-8-as-azure-growth-hits-43-and-capex-guidance-stays-bullish-for-2026-40851414e789?source=rss------artificial_intelligence-5)**
+> 🔹 **[Judgment in the Age of AI](https://medium.com/face-value/judgment-in-the-age-of-ai-f837bfc91eaa?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Write About AI Every Day. This Story Made Me Nervous for the First Time.](https://medium.com/@thesaaslibrary/i-write-about-ai-every-day-this-story-made-me-nervous-for-the-first-time-db046d1fb9a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Happens When Your AI Makes a Phone Call You Never Hear?](https://medium.com/@vishesh_77691/what-happens-when-your-ai-makes-a-phone-call-you-never-hear-3f83b17a961a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nature Is Our True Foundation: Why Protecting the Earth Should Unite Us All](https://medium.com/@yekeenishaqhorpeyemi/nature-is-our-true-foundation-why-protecting-the-earth-should-unite-us-all-c036f80a9549?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
