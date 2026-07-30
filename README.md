@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[We Thought We Had Transactional Guarantees. We Didn’t.](https://medium.com/gocardless-tech/we-thought-we-had-transactional-guarantees-we-didnt-16fa57a8c0d7?source=rss------backend_development-5)**
-> 🔹 **[THE COSMIC CROSS:](https://medium.com/@chwpsk.jc/the-cosmic-cross-647a9cf332d2?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Businesses Should Define Before Starting a Web Scraping Project](https://medium.com/@kvetoiq/what-businesses-should-define-before-starting-a-web-scraping-project-5086e175d63b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Algorithm Behind Every Purchase](https://medium.com/@picturesqueen01/the-algorithm-behind-every-purchase-87171afe1dfb?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Desktop Agent Arrived. Now Figure Out Who in Your Company Actually Needs It.](https://medium.com/@zenai.testing/the-ai-desktop-agent-arrived-now-figure-out-who-in-your-company-actually-needs-it-bee30ea1a65e?source=rss------artificial_intelligence-5)**
-> 🔹 **[# 8 AI Tools Actually Worth Using for Content Creation &lpar;2026&rpar;](https://meharniazii44.medium.com/8-ai-tools-actually-worth-using-for-content-creation-2026-04d95b4c177a?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT as a Good Listener —](https://medium.com/@nirvana_shamrock_bear_975/chatgpt-as-a-good-listener-4d63757c8322?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Projects Are Failing. And the Technology Is Rarely the Problem.](https://medium.com/@ricardomsgarces/ai-projects-are-failing-and-the-technology-is-rarely-the-problem-30f8da43d7b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Competence Without Comprehension: Why AI’s Greatest Risk Is Human Misunderstanding](https://lukazurkic.medium.com/competence-without-comprehension-why-ais-greatest-risk-is-human-misunderstanding-15c9c96bddaa?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Engineer Everyone Wanted to Fire.](https://python.plainenglish.io/the-engineer-everyone-wanted-to-fire-66952a770934?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Python Automation Tool That Turned Hours of Repetitive Work Into a Single Click](https://python.plainenglish.io/the-python-automation-tool-that-turned-hours-of-repetitive-work-into-a-single-click-ce0a653d93e6?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Week AI Stopped Being About “The Smartest Model”](https://medium.com/techcraft-chronicles/the-week-ai-stopped-being-about-the-smartest-model-9f5d2ff1f2a3?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Security: Cybersecurity Applied to a New Attack Surface](https://medium.com/@citadelcybersec/ai-security-cybersecurity-applied-to-a-new-attack-surface-61158df7d3aa?source=rss------artificial_intelligence-5)**
+> 🔹 **[A ladder without its first rung: How automation is depriving the labor market of its future…](https://medium.com/@unendingsunrise/a-ladder-without-its-first-rung-how-automation-is-depriving-the-labor-market-of-its-future-15a85d86b1ca?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gemini 3.5 Pro Is 67 Days Late — Here’s What’s Actually Going On](https://medium.com/synthetic-logic/gemini-3-5-pro-is-67-days-late-heres-what-s-actually-going-on-4ac5516ae357?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Expanding the CISO’s Responsibilities](https://scottcmcmahan.medium.com/ai-is-expanding-the-cisos-responsibilities-ee1603882705?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
