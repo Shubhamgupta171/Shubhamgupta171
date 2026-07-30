@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How I Can Instantly Tell When a Writer Used ChatGPT](https://medium.com/@newsglobeorg/how-i-can-instantly-tell-when-a-writer-used-chatgpt-f53cdf7d2aba?source=rss------artificial_intelligence-5)**
-> 🔹 **[Running Frontier AI on a $99 Board — My llama.cpp Adventure on Jetson Nano](https://xhinker.medium.com/running-frontier-ai-on-a-99-board-my-llama-cpp-adventure-on-jetson-nano-50a03dc19f34?source=rss------artificial_intelligence-5)**
-> 🔹 **[The One Spring Boot 4 Property That Silently Breaks JSON Validation](https://medium.com/@ujjawalr/the-one-spring-boot-4-property-that-silently-breaks-json-validation-131baa35a6b3?source=rss------backend_development-5)**
-> 🔹 **[Spec-Driven Development Turned One Bug Into 16 Acceptance Criteria](https://medium.com/@coolercoder/spec-driven-development-turned-one-bug-into-16-acceptance-criteria-8f29ace24854?source=rss------artificial_intelligence-5)**
-> 🔹 **[Part 2: What Is the Natural Self? — FIREMAY and The Natural Face](https://medium.com/@FIREMAY/part-2-what-is-the-natural-self-firemay-and-the-natural-face-1217caa6a109?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Let AI Into My Daily Life for a Year. Here’s What Nobody Tells You.](https://medium.com/@ronomahedi/i-let-ai-into-my-daily-life-for-a-year-heres-what-nobody-tells-you-4547470163e0?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Free Microsoft Resources Every AI Student Should Explore](https://medium.com/@vaishnavibagal26.10/5-free-microsoft-resources-every-ai-student-should-explore-7048d8e018f2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mirror in the Machine](https://crazysquirrel511.medium.com/mirror-in-the-machine-b739e198412f?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Thought We Had Transactional Guarantees. We Didn’t.](https://medium.com/gocardless-tech/we-thought-we-had-transactional-guarantees-we-didnt-16fa57a8c0d7?source=rss------backend_development-5)**
+> 🔹 **[THE COSMIC CROSS:](https://medium.com/@chwpsk.jc/the-cosmic-cross-647a9cf332d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Businesses Should Define Before Starting a Web Scraping Project](https://medium.com/@kvetoiq/what-businesses-should-define-before-starting-a-web-scraping-project-5086e175d63b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Algorithm Behind Every Purchase](https://medium.com/@picturesqueen01/the-algorithm-behind-every-purchase-87171afe1dfb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Desktop Agent Arrived. Now Figure Out Who in Your Company Actually Needs It.](https://medium.com/@zenai.testing/the-ai-desktop-agent-arrived-now-figure-out-who-in-your-company-actually-needs-it-bee30ea1a65e?source=rss------artificial_intelligence-5)**
+> 🔹 **[# 8 AI Tools Actually Worth Using for Content Creation &lpar;2026&rpar;](https://meharniazii44.medium.com/8-ai-tools-actually-worth-using-for-content-creation-2026-04d95b4c177a?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT as a Good Listener —](https://medium.com/@nirvana_shamrock_bear_975/chatgpt-as-a-good-listener-4d63757c8322?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Projects Are Failing. And the Technology Is Rarely the Problem.](https://medium.com/@ricardomsgarces/ai-projects-are-failing-and-the-technology-is-rarely-the-problem-30f8da43d7b3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
