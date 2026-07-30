@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What transforms understanding into recognised knowledge?](https://medium.com/@nite.tanzarn/what-transforms-understanding-into-recognised-knowledge-12094d77a01f?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Implemented NeRF From Scratch](https://medium.com/@himanshusr451tehs/how-i-implemented-nerf-from-scratch-24bc7f46d66d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Choosing One: A Better AI Coding Workflow with GLM-5.2 and Claude Opus 5](https://novinfard.medium.com/stop-choosing-one-a-better-ai-coding-workflow-with-glm-5-2-and-claude-opus-5-61cec9d26de7?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenAI’s ‘Rogue AI’ Was a Bad Firewall](https://pub.towardsai.net/openais-rogue-ai-was-a-bad-firewall-9aadcbaaaa80?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Didn’t Replace the Designer. It Promoted Them.](https://medium.com/@aesthetikal/ai-didnt-replace-the-designer-it-promoted-them-73ff5c8f47a6?source=rss------system_design-5)**
-> 🔹 **[AI Didn’t Replace the Designer. It Promoted Them.](https://medium.com/@aesthetikal/ai-didnt-replace-the-designer-it-promoted-them-73ff5c8f47a6?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Cache Bug I Could Never Reproduce](https://medium.com/@dhruv-goyal-10/the-cache-bug-i-could-never-reproduce-ac9df8bc087e?source=rss------backend_development-5)**
-> 🔹 **[AI For Reel Ideas: How Artificial Intelligence Helps You Create Viral Content Consistently](https://medium.com/@tanviitaliya8095/ai-for-reel-ideas-how-artificial-intelligence-helps-you-create-viral-content-consistently-c4fbf2560629?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Can Instantly Tell When a Writer Used ChatGPT](https://medium.com/@newsglobeorg/how-i-can-instantly-tell-when-a-writer-used-chatgpt-f53cdf7d2aba?source=rss------artificial_intelligence-5)**
+> 🔹 **[Running Frontier AI on a $99 Board — My llama.cpp Adventure on Jetson Nano](https://xhinker.medium.com/running-frontier-ai-on-a-99-board-my-llama-cpp-adventure-on-jetson-nano-50a03dc19f34?source=rss------artificial_intelligence-5)**
+> 🔹 **[The One Spring Boot 4 Property That Silently Breaks JSON Validation](https://medium.com/@ujjawalr/the-one-spring-boot-4-property-that-silently-breaks-json-validation-131baa35a6b3?source=rss------backend_development-5)**
+> 🔹 **[Spec-Driven Development Turned One Bug Into 16 Acceptance Criteria](https://medium.com/@coolercoder/spec-driven-development-turned-one-bug-into-16-acceptance-criteria-8f29ace24854?source=rss------artificial_intelligence-5)**
+> 🔹 **[Part 2: What Is the Natural Self? — FIREMAY and The Natural Face](https://medium.com/@FIREMAY/part-2-what-is-the-natural-self-firemay-and-the-natural-face-1217caa6a109?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Let AI Into My Daily Life for a Year. Here’s What Nobody Tells You.](https://medium.com/@ronomahedi/i-let-ai-into-my-daily-life-for-a-year-heres-what-nobody-tells-you-4547470163e0?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Free Microsoft Resources Every AI Student Should Explore](https://medium.com/@vaishnavibagal26.10/5-free-microsoft-resources-every-ai-student-should-explore-7048d8e018f2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mirror in the Machine](https://crazysquirrel511.medium.com/mirror-in-the-machine-b739e198412f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
