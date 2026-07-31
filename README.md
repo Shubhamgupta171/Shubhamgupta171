@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Building a Transformer from Scratch in PyTorch | Sparsh Sharma](https://medium.com/@astralsilhouette/building-a-transformer-from-scratch-in-pytorch-sparsh-sharma-b3024b86b675?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Stop AI From Flattening Your Job Search](https://medium.com/@promptarc/how-to-stop-ai-from-flattening-your-job-search-64278939b664?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Replaced One Powerful Agent With Five Small Specialists](https://adityakumarpuri.medium.com/i-replaced-one-powerful-agent-with-five-small-specialists-7c7e618a928d?source=rss------artificial_intelligence-5)**
-> 🔹 **[ASE’s Net Profit Jumps 2.8x on AI Advanced Packaging — Semiconductor News, July 31, 2026](https://tai-semicon.medium.com/ases-net-profit-jumps-2-8x-on-ai-advanced-packaging-semiconductor-news-july-31-2026-12edcc10e65f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Plenums Lab Debate Analysis: Should AI in the Workplace Be Regulated?](https://medium.com/@evankhanna/plenums-lab-debate-analysis-should-ai-in-the-workplace-be-regulated-f24c470e2835?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI’s First Autonomous Cyber Attack](https://medium.com/@munyaradzihambakachere/ais-first-autonomous-cyber-attack-5ac8103d9271?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Am I Actually Becoming?](https://medium.com/@rezarna4/what-am-i-actually-becoming-156d60aa1f0f?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Let AI Run My SaaS Site for 3 Months. Google Almost Rejected Me For It.](https://pilotstack.medium.com/i-let-ai-run-my-saas-site-for-3-months-google-almost-rejected-me-for-it-25460999bdcb?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Made the Image. That Does Not Mean You Own All of It.](https://medium.com/@pctufi/you-made-the-image-that-does-not-mean-you-own-all-of-it-9a9d5439220c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Here is how Beginners Are Making Money with AI &lpar;No Skills Needed&rpar;](https://medium.com/@whykaybabs/here-is-how-beginners-are-making-money-with-ai-no-skills-needed-600948a9db11?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Old Wallet… I Miss You!](https://medium.com/the-crypto-kiosk/my-old-wallet-i-miss-you-bd1769f609e5?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Have Always Raged Against The Machine](https://medium.com/@sherilynburris/we-have-always-raged-against-the-machine-6bf52f915e43?source=rss------artificial_intelligence-5)**
+> 🔹 **[Getting Started with cURL: Talking to Servers From Your Terminal](https://mrmadhukar.medium.com/getting-started-with-curl-talking-to-servers-from-your-terminal-b924155dd972?source=rss------backend_development-5)**
+> 🔹 **[20 AI Tools That Save Me 10+ Hours Every Week &lpar;With Real Data&rpar;](https://medium.com/@aidvantage.ai/20-ai-tools-that-save-me-10-hours-every-week-with-real-data-d29ade06b1b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[[Revision History] How the Theory Was Rewritten — Tracing Only the Turning Points Across More T...](https://simoneko.medium.com/revision-history-how-the-theory-was-rewritten-tracing-only-the-turning-points-across-more-than-5d473c90d1d3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Every Acquisition Has Two Prices. Only One Appears in the Purchase Agreement.](https://medium.com/@vrexo_ai/every-acquisition-has-two-prices-only-one-appears-in-the-purchase-agreement-b0ee9ad55fcb?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
