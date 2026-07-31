@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[MY Learning from Gen AI Academy APAC.](https://medium.com/@psk90099/my-learning-from-gen-ai-academy-apac-c6587f420370?source=rss------artificial_intelligence-5)**
-> 🔹 **[TOPO-2026: From Kimi-VL-A3B-Thinking to Kimi K3 — A Universal Certification Framework for Conti...](https://medium.com/@frankmorales_91352/topo-2026-from-kimi-vl-a3b-thinking-to-kimi-k3-a-universal-certification-framework-for-continual-fca4fc9c52d0?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Machine Learning Pipeline — Connecting Everything Into One System](https://medium.com/@banerjeevictor06/the-machine-learning-pipeline-connecting-everything-into-one-system-e0b54f30938a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Microsoft Stock Soars 8% as Azure Growth Hits 43% and Capex Guidance Stays Bullish for 2026](https://medium.com/@md.abid.raihan.sunny/microsoft-stock-soars-8-as-azure-growth-hits-43-and-capex-guidance-stays-bullish-for-2026-40851414e789?source=rss------artificial_intelligence-5)**
-> 🔹 **[Judgment in the Age of AI](https://medium.com/face-value/judgment-in-the-age-of-ai-f837bfc91eaa?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Write About AI Every Day. This Story Made Me Nervous for the First Time.](https://medium.com/@thesaaslibrary/i-write-about-ai-every-day-this-story-made-me-nervous-for-the-first-time-db046d1fb9a0?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Happens When Your AI Makes a Phone Call You Never Hear?](https://medium.com/@vishesh_77691/what-happens-when-your-ai-makes-a-phone-call-you-never-hear-3f83b17a961a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nature Is Our True Foundation: Why Protecting the Earth Should Unite Us All](https://medium.com/@yekeenishaqhorpeyemi/nature-is-our-true-foundation-why-protecting-the-earth-should-unite-us-all-c036f80a9549?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building a Transformer from Scratch in PyTorch | Sparsh Sharma](https://medium.com/@astralsilhouette/building-a-transformer-from-scratch-in-pytorch-sparsh-sharma-b3024b86b675?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Stop AI From Flattening Your Job Search](https://medium.com/@promptarc/how-to-stop-ai-from-flattening-your-job-search-64278939b664?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Replaced One Powerful Agent With Five Small Specialists](https://adityakumarpuri.medium.com/i-replaced-one-powerful-agent-with-five-small-specialists-7c7e618a928d?source=rss------artificial_intelligence-5)**
+> 🔹 **[ASE’s Net Profit Jumps 2.8x on AI Advanced Packaging — Semiconductor News, July 31, 2026](https://tai-semicon.medium.com/ases-net-profit-jumps-2-8x-on-ai-advanced-packaging-semiconductor-news-july-31-2026-12edcc10e65f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Plenums Lab Debate Analysis: Should AI in the Workplace Be Regulated?](https://medium.com/@evankhanna/plenums-lab-debate-analysis-should-ai-in-the-workplace-be-regulated-f24c470e2835?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI’s First Autonomous Cyber Attack](https://medium.com/@munyaradzihambakachere/ais-first-autonomous-cyber-attack-5ac8103d9271?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Am I Actually Becoming?](https://medium.com/@rezarna4/what-am-i-actually-becoming-156d60aa1f0f?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Let AI Run My SaaS Site for 3 Months. Google Almost Rejected Me For It.](https://pilotstack.medium.com/i-let-ai-run-my-saas-site-for-3-months-google-almost-rejected-me-for-it-25460999bdcb?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
