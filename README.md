@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[You Made the Image. That Does Not Mean You Own All of It.](https://medium.com/@pctufi/you-made-the-image-that-does-not-mean-you-own-all-of-it-9a9d5439220c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Here is how Beginners Are Making Money with AI &lpar;No Skills Needed&rpar;](https://medium.com/@whykaybabs/here-is-how-beginners-are-making-money-with-ai-no-skills-needed-600948a9db11?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Old Wallet… I Miss You!](https://medium.com/the-crypto-kiosk/my-old-wallet-i-miss-you-bd1769f609e5?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Have Always Raged Against The Machine](https://medium.com/@sherilynburris/we-have-always-raged-against-the-machine-6bf52f915e43?source=rss------artificial_intelligence-5)**
-> 🔹 **[Getting Started with cURL: Talking to Servers From Your Terminal](https://mrmadhukar.medium.com/getting-started-with-curl-talking-to-servers-from-your-terminal-b924155dd972?source=rss------backend_development-5)**
-> 🔹 **[20 AI Tools That Save Me 10+ Hours Every Week &lpar;With Real Data&rpar;](https://medium.com/@aidvantage.ai/20-ai-tools-that-save-me-10-hours-every-week-with-real-data-d29ade06b1b0?source=rss------artificial_intelligence-5)**
-> 🔹 **[[Revision History] How the Theory Was Rewritten — Tracing Only the Turning Points Across More T...](https://simoneko.medium.com/revision-history-how-the-theory-was-rewritten-tracing-only-the-turning-points-across-more-than-5d473c90d1d3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Every Acquisition Has Two Prices. Only One Appears in the Purchase Agreement.](https://medium.com/@vrexo_ai/every-acquisition-has-two-prices-only-one-appears-in-the-purchase-agreement-b0ee9ad55fcb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Great Coding Reset Happened in Eight Weeks. Most Engineers Missed What It Actually Revealed...](https://medium.com/the-engineering-brief/the-great-coding-reset-happened-in-eight-weeks-most-engineers-missed-what-it-actually-revealed-b946af5c387f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Grok Voice Think Fast 2.0: Voice Is Ascending as the Primary UI](https://cobusgreyling.medium.com/grok-voice-think-fast-2-0-voice-is-ascending-as-the-primary-ui-ff4c1569dad8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Your AI Engineering Projects Won’t Land You a Job](https://medium.com/data-science-collective/why-your-ai-engineering-projects-wont-land-you-a-job-84de0c913951?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentes de IA já negociam entre si… aprenderam que a gentileza rende](https://danielbaruces.medium.com/agentes-de-ia-j%C3%A1-negociam-entre-si-aprenderam-que-a-gentileza-rende-09fa70dac11f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Deep Learning Optimization Explained: From Feature Scaling to Adam](https://medium.com/@parvin.jumshudlu/deep-learning-optimization-explained-from-feature-scaling-to-adam-bc25fffa2a39?source=rss------artificial_intelligence-5)**
+> 🔹 **[Yerel Bilgisayardan Buluta: Veri Bilimi Projelerinde EDA ve Model Eğitimi](https://medium.com/@aberkatabek/yerel-bilgisayardan-buluta-veri-bilimi-projelerinde-eda-ve-model-e%C4%9Fitimi-47810fa57994?source=rss------artificial_intelligence-5)**
+> 🔹 **[Days After the US Banned Chinese Robots, Google DeepMind Shipped a Full Humanoid Robotics Suite...](https://medium.com/@aiexpo.app/days-after-the-us-banned-chinese-robots-google-deepmind-shipped-a-full-humanoid-robotics-suite-of-70b02cc4d57e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Meta’s Q2 Earnings Just Landed: $60.8](https://medium.com/@aiexpo.app/metas-q2-earnings-just-landed-60-8-96e0ce962bd5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
