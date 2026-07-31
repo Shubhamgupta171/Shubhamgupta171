@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Great Coding Reset Happened in Eight Weeks. Most Engineers Missed What It Actually Revealed...](https://medium.com/the-engineering-brief/the-great-coding-reset-happened-in-eight-weeks-most-engineers-missed-what-it-actually-revealed-b946af5c387f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Grok Voice Think Fast 2.0: Voice Is Ascending as the Primary UI](https://cobusgreyling.medium.com/grok-voice-think-fast-2-0-voice-is-ascending-as-the-primary-ui-ff4c1569dad8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Your AI Engineering Projects Won’t Land You a Job](https://medium.com/data-science-collective/why-your-ai-engineering-projects-wont-land-you-a-job-84de0c913951?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentes de IA já negociam entre si… aprenderam que a gentileza rende](https://danielbaruces.medium.com/agentes-de-ia-j%C3%A1-negociam-entre-si-aprenderam-que-a-gentileza-rende-09fa70dac11f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Deep Learning Optimization Explained: From Feature Scaling to Adam](https://medium.com/@parvin.jumshudlu/deep-learning-optimization-explained-from-feature-scaling-to-adam-bc25fffa2a39?source=rss------artificial_intelligence-5)**
-> 🔹 **[Yerel Bilgisayardan Buluta: Veri Bilimi Projelerinde EDA ve Model Eğitimi](https://medium.com/@aberkatabek/yerel-bilgisayardan-buluta-veri-bilimi-projelerinde-eda-ve-model-e%C4%9Fitimi-47810fa57994?source=rss------artificial_intelligence-5)**
-> 🔹 **[Days After the US Banned Chinese Robots, Google DeepMind Shipped a Full Humanoid Robotics Suite...](https://medium.com/@aiexpo.app/days-after-the-us-banned-chinese-robots-google-deepmind-shipped-a-full-humanoid-robotics-suite-of-70b02cc4d57e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Meta’s Q2 Earnings Just Landed: $60.8](https://medium.com/@aiexpo.app/metas-q2-earnings-just-landed-60-8-96e0ce962bd5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Azure DevOps Meets GitHub: The Path to an AI-Powered SDLC](https://medium.com/@daverendon/azure-devops-meets-github-the-path-to-an-ai-powered-sdlc-b3d6c893bc55?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Authoritative Liar](https://medium.com/ai-ai-oh/the-authoritative-liar-f95e972da8ce?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Guessing What Goes Viral: Building a Data-Backed Social Mining Engine with Claude Code](https://medium.com/@balamuru/stop-guessing-what-goes-viral-building-a-data-backed-social-mining-engine-with-claude-code-467075f0e8ca?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Mechatronics Engineering Is More Important Than Ever](https://medium.com/@Engr.mbala/why-mechatronics-engineering-is-more-important-than-ever-f0fb2150fb6d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden UX Problem in AI Video Apps: Free Credits That Cannot Produce a First Result](https://medium.com/@linyangqing99/the-hidden-ux-problem-in-ai-video-apps-free-credits-that-cannot-produce-a-first-result-be52c8843bcd?source=rss------artificial_intelligence-5)**
+> 🔹 **[سلام همراهان عزیز و همدل امروز با معرفی یکی دیگر از بانوان شایسته و مهربان همراه شما هستیم زهرا...](https://medium.com/@sekaveggocoinycom/%D8%B3%D9%84%D8%A7%D9%85-%D9%87%D9%85%D8%B1%D8%A7%D9%87%D8%A7%D9%86-%D8%B9%D8%B2%DB%8C%D8%B2-%D9%88-%D9%87%D9%85%D8%AF%D9%84-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%A8%D8%A7-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%DB%8C%DA%A9%DB%8C-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%A7%D8%B2-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B4%D8%A7%DB%8C%D8%B3%D8%AA%D9%87-%D9%88-%D9%85%D9%87%D8%B1%D8%A8%D8%A7%D9%86-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%B4%D9%85%D8%A7-%D9%87%D8%B3%D8%AA%DB%8C%D9%85-%D8%B2%D9%87%D8%B1%D8%A7-faee7a6620ff?source=rss------artificial_intelligence-5)**
+> 🔹 **[Vektör Veritabanlarına Giriş: Pinecone, Weaviate, Qdrant ve Chroma Karşılaştırması](https://alibayram-02.medium.com/vekt%C3%B6r-veritabanlar%C4%B1na-giri%C5%9F-pinecone-weaviate-qdrant-ve-chroma-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmas%C4%B1-8552df19f0bd?source=rss------artificial_intelligence-5)**
+> 🔹 **[If You Understand These 7 AI Concepts, You&#39;ll Never Look at ChatGPT the Same Way Again](https://medium.com/@TheAITranslator/if-you-understand-these-7-ai-concepts-youll-never-look-at-chatgpt-the-same-way-again-f14ba7afe622?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
