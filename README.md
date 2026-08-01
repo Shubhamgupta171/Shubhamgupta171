@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[If Your Performance System Rewards Exploitation, Who Will Ever Choose to Explore?](https://helenu-lifecoach.medium.com/if-your-performance-system-rewards-exploitation-who-will-ever-choose-to-explore-0310d4ed57ef?source=rss------artificial_intelligence-5)**
-> 🔹 **[Introducing StarLive: AI Market Intelligence That Gives Any Asset a Plain-Language Verdict](https://corax-live.medium.com/introducing-starlive-ai-market-intelligence-that-gives-any-asset-a-plain-language-verdict-68e4088f327e?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Boost Employee Training With the Right LMS Technology](https://medium.com/@hafsazahoor144/how-to-boost-employee-training-with-the-right-lms-technology-275654440700?source=rss------artificial_intelligence-5)**
-> 🔹 **[Energy Storage Systems &lpar;ESSs&rpar; based on Artificial Intelligence &lpar;AI&rpar;](https://medium.com/@ronaldosyah27/energy-storage-systems-esss-based-on-artificial-intelligence-ai-643bee04f442?source=rss------artificial_intelligence-5)**
-> 🔹 **[Unifying Memory and Operator in Transformer Architectures](https://medium.com/@kisnorbert87/unifying-memory-and-operator-in-transformer-architectures-f26fc175b83d?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Helps Businesses Generate More Leads in 2026](https://medium.com/@ali.cybernova/how-ai-helps-businesses-generate-more-leads-in-2026-2b69c987f4bc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Enhancing accuracy of large language models through prompt engineering](https://medium.com/@getdagne777/enhancing-accuracy-of-large-language-models-through-prompt-engineering-2af19ffbf931?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Using REST APIs for Everything: How Kafka Saved Our Event-Driven Architecture](https://medium.com/@ankitkr.ak007/stop-using-rest-apis-for-everything-how-kafka-saved-our-event-driven-architecture-3eb4e75b831e?source=rss------system_design-5)**
+> 🔹 **[Evolution or Regression?](https://medium.com/@cayastaarraiza/evolution-or-regression-acd9947cadee?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Same Question, Two Different Answers, and Nobody Touched a Setting](https://medium.com/@dhananjaykaushik96/the-same-question-two-different-answers-and-nobody-touched-a-setting-3bc86410f7e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Go’s Scheduler Is the Hidden Reason Your Goroutines Scale So Well](https://medium.com/@kp9810113/gos-scheduler-is-the-hidden-reason-your-goroutines-scale-so-well-90858f1a61e9?source=rss------backend_development-5)**
+> 🔹 **[Types of RAG #2](https://medium.com/@ankitpatidar030/types-of-rag-2-80067b45382b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Is Not Your Intern. It’s Your Senior, Junior](https://drpicox.medium.com/your-ai-is-not-your-intern-its-your-senior-junior-1598e97dce5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Causal Blind Spot: Why Tracing Logs Can’t Explain Your AI Agents](https://mir12.medium.com/the-causal-blind-spot-why-tracing-logs-cant-explain-your-ai-agents-6efdee2a7e22?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tried to Make Sense of the AI Agent Hype So You Do Not Have To](https://medium.com/@jamestasticc/i-tried-to-make-sense-of-the-ai-agent-hype-so-you-do-not-have-to-33a689ba2e1a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Behind the Curtain: My Experience Volunteering at the GDG Prayagraj Vibe Coding Hackathon 2026](https://medium.com/@singhshivamop36/behind-the-curtain-my-experience-volunteering-at-the-gdg-prayagraj-vibe-coding-hackathon-2026-a779087a23a3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
