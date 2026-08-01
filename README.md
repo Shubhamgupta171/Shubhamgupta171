@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Evolution or Regression?](https://medium.com/@cayastaarraiza/evolution-or-regression-acd9947cadee?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Same Question, Two Different Answers, and Nobody Touched a Setting](https://medium.com/@dhananjaykaushik96/the-same-question-two-different-answers-and-nobody-touched-a-setting-3bc86410f7e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Go’s Scheduler Is the Hidden Reason Your Goroutines Scale So Well](https://medium.com/@kp9810113/gos-scheduler-is-the-hidden-reason-your-goroutines-scale-so-well-90858f1a61e9?source=rss------backend_development-5)**
-> 🔹 **[Types of RAG #2](https://medium.com/@ankitpatidar030/types-of-rag-2-80067b45382b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Is Not Your Intern. It’s Your Senior, Junior](https://drpicox.medium.com/your-ai-is-not-your-intern-its-your-senior-junior-1598e97dce5c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Causal Blind Spot: Why Tracing Logs Can’t Explain Your AI Agents](https://mir12.medium.com/the-causal-blind-spot-why-tracing-logs-cant-explain-your-ai-agents-6efdee2a7e22?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tried to Make Sense of the AI Agent Hype So You Do Not Have To](https://medium.com/@jamestasticc/i-tried-to-make-sense-of-the-ai-agent-hype-so-you-do-not-have-to-33a689ba2e1a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Behind the Curtain: My Experience Volunteering at the GDG Prayagraj Vibe Coding Hackathon 2026](https://medium.com/@singhshivamop36/behind-the-curtain-my-experience-volunteering-at-the-gdg-prayagraj-vibe-coding-hackathon-2026-a779087a23a3?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Spent 30 Days Replacing Meetings With AI Documentation. Here&#39;s What Actually Changed.](https://medium.com/practice-in-public/i-spent-30-days-replacing-meetings-with-ai-documentation-heres-what-actually-changed-04806711aaa1?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Best AI Image Tools to Learn in 2026 &lpar;I&#39;ve Tried Them All&rpar;](https://medium.com/@sharmaagrima29/the-best-ai-image-tools-to-learn-in-2026-ive-tried-them-all-cfe77a58f4aa?source=rss------artificial_intelligence-5)**
+> 🔹 **[What is Loop Engineering in AI?](https://medium.com/data-science-in-your-pocket/what-is-loop-engineering-in-ai-c22785bdb8d9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Every Safety Rail Worked. Nothing Happened.](https://medium.com/@adrian.verdan/every-safety-rail-worked-nothing-happened-f57c5bd56b11?source=rss------artificial_intelligence-5)**
+> 🔹 **[Jarvis Was Never the Hero](https://medium.com/@guram.melikidze24/jarvis-was-never-the-hero-23ffe96564d8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Model You Paid For Is Not Always the One That Answers](https://medium.com/data-science-collective/the-model-you-paid-for-is-not-always-the-one-that-answers-cd4f8f0b5a14?source=rss------artificial_intelligence-5)**
+> 🔹 **[How does language model actually learns during Reinforcement Learning](https://medium.com/@prachi96652/how-does-language-model-actually-learns-during-reinforcement-learning-a038ba75c0f4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Oltre la bolla dell’hardware IA: dove si sposteranno i capitali nei prossimi 30 giorni](https://medium.com/@SimoneGuerrini/oltre-la-bolla-dellhardware-ia-dove-si-sposteranno-i-capitali-nei-prossimi-30-giorni-8495478c9774?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
