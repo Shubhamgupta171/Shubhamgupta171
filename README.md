@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Building AI Features Inside Existing Spring Boot Apps &lpar;Not Just Chatbots&rpar;](https://gainjavaknowledge.medium.com/building-ai-features-inside-existing-spring-boot-apps-not-just-chatbots-1e67076c9fab?source=rss------artificial_intelligence-5)**
-> 🔹 **[Kimi K3 Is Now the World’s Largest Open Model — and It’s Free to Download](https://medium.com/@k.pranav_22/kimi-k3-is-now-the-worlds-largest-open-model-and-it-s-free-to-download-fd2eeba0e9b4?source=rss------artificial_intelligence-5)**
-> 🔹 **[18 When Language Had to Find a World](https://medium.com/@youthgoose/18-when-language-had-to-find-a-world-13d690b3f3b5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Risk Map Is Incomplete If It Ends at Your Organization | High-Stakes AI Failure…](https://medium.com/@highstakesaiintel/your-ai-risk-map-is-incomplete-if-it-ends-at-your-organization-high-stakes-ai-failure-dec6103a4229?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Distributed Locks Work: ZooKeeper, etcd, and Redis Explained](https://medium.com/@ronomahedi/how-distributed-locks-work-zookeeper-etcd-and-redis-explained-c56a8eb2c413?source=rss------system_design-5)**
-> 🔹 **[How to Set Up a VPS from Scratch &lpar;Ubuntu, Step-by-Step&rpar;](https://nitingavhane.medium.com/how-to-set-up-a-vps-from-scratch-ubuntu-step-by-step-6ebdcbb9d935?source=rss------artificial_intelligence-5)**
-> 🔹 **[Prompt Engineering Is Dead. The Future Is Harness + Loop Engineering](https://medium.com/@srajsonu/prompt-engineering-is-dead-the-future-is-harness-loop-engineering-105f7dcc32d1?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Used ChatGPT for 41 Blog Posts and Not One Reader Guessed. Here’s My Actual Process.](https://medium.com/@trends24/i-used-chatgpt-for-41-blog-posts-and-not-one-reader-guessed-heres-my-actual-process-e29f58cdc756?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Reduced My Spring Boot App’s Startup Time From 12s to 800ms — Here’s How](https://medium.com/@ravendrakumar22000/i-reduced-my-spring-boot-apps-startup-time-from-12s-to-800ms-here-s-how-b4a767a181cf?source=rss------backend_development-5)**
+> 🔹 **[Claude Reroutes Flagged Requests to Opus 4.8. Your Analytics Won’t Catch It.](https://medium.com/@automation.labs/claude-reroutes-flagged-requests-to-opus-4-8-your-analytics-wont-catch-it-080ba81c3c5d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Developer 2.0: The Next Layer of Abstraction](https://luchaninov.medium.com/developer-2-0-the-next-layer-of-abstraction-cc066d321538?source=rss------artificial_intelligence-5)**
+> 🔹 **[Vector Stores in AI Test Automation: When You Actually Need One &lpar;and When You Don’t&rpar;](https://blog.gopenai.com/vector-stores-in-ai-test-automation-when-you-actually-need-one-and-when-you-dont-98696de27db5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence &lpar;AI&rpar; and AI Agents: The Future of Intelligent Automation](https://medium.com/@jahangiranjum/artificial-intelligence-ai-and-ai-agents-the-future-of-intelligent-automation-ab4c90aa48b6?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI That Wouldn’t Stay in Its Box](https://medium.com/ai-ai-oh/the-ai-that-wouldnt-stay-in-its-box-7275d3c110ba?source=rss------artificial_intelligence-5)**
+> 🔹 **[Four UI States AI-Generated Dashboards Often Collapse Into One](https://medium.com/@mocha.noter/four-ui-states-ai-generated-dashboards-often-collapse-into-one-e5486f2fbc48?source=rss------artificial_intelligence-5)**
+> 🔹 **[Before You Post That Public-Figure Meme: A Practical Risk Test](https://medium.com/@cnb.lion/before-you-post-that-public-figure-meme-a-practical-risk-test-dde8f619053c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
