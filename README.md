@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Reduced My Spring Boot App’s Startup Time From 12s to 800ms — Here’s How](https://medium.com/@ravendrakumar22000/i-reduced-my-spring-boot-apps-startup-time-from-12s-to-800ms-here-s-how-b4a767a181cf?source=rss------backend_development-5)**
-> 🔹 **[Claude Reroutes Flagged Requests to Opus 4.8. Your Analytics Won’t Catch It.](https://medium.com/@automation.labs/claude-reroutes-flagged-requests-to-opus-4-8-your-analytics-wont-catch-it-080ba81c3c5d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Developer 2.0: The Next Layer of Abstraction](https://luchaninov.medium.com/developer-2-0-the-next-layer-of-abstraction-cc066d321538?source=rss------artificial_intelligence-5)**
-> 🔹 **[Vector Stores in AI Test Automation: When You Actually Need One &lpar;and When You Don’t&rpar;](https://blog.gopenai.com/vector-stores-in-ai-test-automation-when-you-actually-need-one-and-when-you-dont-98696de27db5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence &lpar;AI&rpar; and AI Agents: The Future of Intelligent Automation](https://medium.com/@jahangiranjum/artificial-intelligence-ai-and-ai-agents-the-future-of-intelligent-automation-ab4c90aa48b6?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI That Wouldn’t Stay in Its Box](https://medium.com/ai-ai-oh/the-ai-that-wouldnt-stay-in-its-box-7275d3c110ba?source=rss------artificial_intelligence-5)**
-> 🔹 **[Four UI States AI-Generated Dashboards Often Collapse Into One](https://medium.com/@mocha.noter/four-ui-states-ai-generated-dashboards-often-collapse-into-one-e5486f2fbc48?source=rss------artificial_intelligence-5)**
-> 🔹 **[Before You Post That Public-Figure Meme: A Practical Risk Test](https://medium.com/@cnb.lion/before-you-post-that-public-figure-meme-a-practical-risk-test-dde8f619053c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everyone Can Build Now. That Is Why Systems Thinkers Are Winning.](https://samanbaboli.medium.com/everyone-can-build-now-that-is-why-systems-thinkers-are-winning-cb12541fd618?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Changing Ecommerce Photography: Creativity, Scale and the Trust Problem](https://medium.com/@designrise/ow-ai-is-changing-ecommerce-photography-creativity-scale-and-the-trust-problem-41738215748d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Get Paid to Train AI: 10 Legit Websites Hiring Remote AI Trainers in 2026](https://medium.com/write-a-catalyst/get-paid-to-train-ai-10-legit-websites-hiring-remote-ai-trainers-in-2026-81906dddd0f5?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Note-Taking Is Changing How Students Learn &lpar;Here’s How to Use It Well&rpar;](https://medium.com/@themoonzlenz/ai-note-taking-is-changing-how-students-learn-heres-how-to-use-it-well-94d51c8d1fb7?source=rss------artificial_intelligence-5)**
+> 🔹 **[What if We’re Looking for Intelligence in the Wrong Place?](https://medium.com/@mikorist/what-if-were-looking-for-intelligence-in-the-wrong-place-027382a00754?source=rss------artificial_intelligence-5)**
+> 🔹 **[Edge or Cloud? The Question Every AIoT Project Answers Wrong at Least Once](https://medium.com/@zamiie/edge-or-cloud-the-question-every-aiot-project-answers-wrong-at-least-once-064472c400eb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Trying to Make Your Assignments AI-Proof. Make Them a Bad Deal Instead.](https://medium.com/@ellisblake/stop-trying-to-make-your-assignments-ai-proof-make-them-a-bad-deal-instead-f6478a8ac7d9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google Is Quietly Replacing Search—Most People Haven’t Noticed Yet](https://medium.com/@roamikhan6/google-is-quietly-replacing-search-most-people-havent-noticed-yet-dbea3563012d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
