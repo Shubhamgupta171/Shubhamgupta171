@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Spent 30 Days Replacing Meetings With AI Documentation. Here&#39;s What Actually Changed.](https://medium.com/practice-in-public/i-spent-30-days-replacing-meetings-with-ai-documentation-heres-what-actually-changed-04806711aaa1?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Best AI Image Tools to Learn in 2026 &lpar;I&#39;ve Tried Them All&rpar;](https://medium.com/@sharmaagrima29/the-best-ai-image-tools-to-learn-in-2026-ive-tried-them-all-cfe77a58f4aa?source=rss------artificial_intelligence-5)**
-> 🔹 **[What is Loop Engineering in AI?](https://medium.com/data-science-in-your-pocket/what-is-loop-engineering-in-ai-c22785bdb8d9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Every Safety Rail Worked. Nothing Happened.](https://medium.com/@adrian.verdan/every-safety-rail-worked-nothing-happened-f57c5bd56b11?source=rss------artificial_intelligence-5)**
-> 🔹 **[Jarvis Was Never the Hero](https://medium.com/@guram.melikidze24/jarvis-was-never-the-hero-23ffe96564d8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Model You Paid For Is Not Always the One That Answers](https://medium.com/data-science-collective/the-model-you-paid-for-is-not-always-the-one-that-answers-cd4f8f0b5a14?source=rss------artificial_intelligence-5)**
-> 🔹 **[How does language model actually learns during Reinforcement Learning](https://medium.com/@prachi96652/how-does-language-model-actually-learns-during-reinforcement-learning-a038ba75c0f4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Oltre la bolla dell’hardware IA: dove si sposteranno i capitali nei prossimi 30 giorni](https://medium.com/@SimoneGuerrini/oltre-la-bolla-dellhardware-ia-dove-si-sposteranno-i-capitali-nei-prossimi-30-giorni-8495478c9774?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building AI Features Inside Existing Spring Boot Apps &lpar;Not Just Chatbots&rpar;](https://gainjavaknowledge.medium.com/building-ai-features-inside-existing-spring-boot-apps-not-just-chatbots-1e67076c9fab?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kimi K3 Is Now the World’s Largest Open Model — and It’s Free to Download](https://medium.com/@k.pranav_22/kimi-k3-is-now-the-worlds-largest-open-model-and-it-s-free-to-download-fd2eeba0e9b4?source=rss------artificial_intelligence-5)**
+> 🔹 **[18 When Language Had to Find a World](https://medium.com/@youthgoose/18-when-language-had-to-find-a-world-13d690b3f3b5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Risk Map Is Incomplete If It Ends at Your Organization | High-Stakes AI Failure…](https://medium.com/@highstakesaiintel/your-ai-risk-map-is-incomplete-if-it-ends-at-your-organization-high-stakes-ai-failure-dec6103a4229?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Distributed Locks Work: ZooKeeper, etcd, and Redis Explained](https://medium.com/@ronomahedi/how-distributed-locks-work-zookeeper-etcd-and-redis-explained-c56a8eb2c413?source=rss------system_design-5)**
+> 🔹 **[How to Set Up a VPS from Scratch &lpar;Ubuntu, Step-by-Step&rpar;](https://nitingavhane.medium.com/how-to-set-up-a-vps-from-scratch-ubuntu-step-by-step-6ebdcbb9d935?source=rss------artificial_intelligence-5)**
+> 🔹 **[Prompt Engineering Is Dead. The Future Is Harness + Loop Engineering](https://medium.com/@srajsonu/prompt-engineering-is-dead-the-future-is-harness-loop-engineering-105f7dcc32d1?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Used ChatGPT for 41 Blog Posts and Not One Reader Guessed. Here’s My Actual Process.](https://medium.com/@trends24/i-used-chatgpt-for-41-blog-posts-and-not-one-reader-guessed-heres-my-actual-process-e29f58cdc756?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
