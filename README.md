@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Tree Languages in a Graph World](https://medium.com/@yalovoy/tree-languages-in-a-graph-world-fcef580b0e79?source=rss------backend_development-5)**
-> 🔹 **[LLM Cost Optimization: A Practical Guide for Engineering Teams](https://medium.com/@vishnu_73501/llm-cost-optimization-a-practical-guide-for-engineering-teams-9662f54ca5e1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cut Claude’s Token Overhead by Up to 4× with pi](https://medium.com/@ayalon.idan/cut-claudes-token-overhead-by-up-to-4-with-pi-d6249f8f00f2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Lost Art Of Critical Thinking](https://medium.com/@maryahayes10/the-lost-art-of-critical-thinking-1ece2e89cda2?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Fields Medalist Just Joined OpenAI — And It Says Everything About Where AI Is Headed](https://medium.com/@k.pranav_22/a-fields-medalist-just-joined-openai-and-it-says-everything-about-where-ai-is-headed-cb2a3ea7f3d0?source=rss------artificial_intelligence-5)**
-> 🔹 **[The “Fast” Version of AI Models Is Usually the One You Actually Want](https://medium.com/@TinkererAI/the-fast-version-of-ai-models-is-usually-the-one-you-actually-want-0d46216ae8e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Position Yourself for AI Customer Support Roles Without Sounding Like a Bot](https://medium.com/@nathanielcarteraieng/position-yourself-for-ai-customer-support-roles-without-sounding-like-a-bot-e1fcfeb53bb7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Selected for the 2026 IDC China AI Top 50: DeepCtrls Reshaping Global Computing and Energy…](https://medium.com/@sunyb/selected-for-the-2026-idc-china-ai-top-50-deepctrls-reshaping-global-computing-and-energy-7cff1b316985?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence &amp; Enterprise Strategy](https://medium.com/@ethanwrites6/artificial-intelligence-enterprise-strategy-f8f466262600?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI&#39;s Wildest Month Ever: Everything That Happened in July 2026](https://medium.com/ai-threads/ais-wildest-month-ever-everything-that-happened-in-july-2026-7df8d3be152a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond Vector Search: Building Automated Knowledge Graphs for GenAI](https://oleg-dubetcky.medium.com/beyond-vector-search-building-automated-knowledge-graphs-for-genai-1c15f9f9b707?source=rss------artificial_intelligence-5)**
+> 🔹 **[Tren Masa Depan Arsitektur Digital: Menggabungkan Kecepatan, Keamanan, dan Aksesibilitas](https://kapsul4dinfo.medium.com/tren-masa-depan-arsitektur-digital-menggabungkan-kecepatan-keamanan-dan-aksesibilitas-2cbc9f4ab191?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Asked Claude to Audit My Income Strategy.](https://medium.com/@SuzaanSayed/i-asked-claude-to-audit-my-income-strategy-ff0fb4ee885d?source=rss------artificial_intelligence-5)**
+> 🔹 **[3 Soft Skills that Matter More Than Learning to Code](https://medium.com/illumination/3-soft-skills-that-matter-more-than-learning-to-code-76a5ed6ae156?source=rss------artificial_intelligence-5)**
+> 🔹 **[The End of Traditional Apps? How AI Is Changing Software Forever](https://medium.com/@bytechnik/the-end-of-traditional-apps-how-ai-is-changing-software-forever-072da2ec7080?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Complete Machine Learning Dissertation Guide for University Students &lpar;2026&rpar;](https://medium.com/@assignprosolution.seo/the-complete-machine-learning-dissertation-guide-for-university-students-2026-94d874c00703?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
