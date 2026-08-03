@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Partitioning First, Sharding Later: A Backend Reality Check](https://medium.com/@hossam.hatem/partitioning-first-sharding-later-a-backend-reality-check-df48fd0b1b07?source=rss------backend_development-5)**
-> 🔹 **[Claude Didn’t Replace My Design Process, It Reduced My Mental Overload](https://medium.com/prove-design/claude-didnt-replace-my-design-process-it-reduced-my-mental-overload-63f85f698bc7?source=rss------system_design-5)**
-> 🔹 **[Mastering Model Context Protocol &lpar;MCP&rpar; — Part 3](https://medium.com/@heenasingh1995/mastering-model-context-protocol-mcp-part-3-7f764678264a?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 Prompts that saves you $500 Worth of AI Tools](https://medium.com/@sabiraweis/7-prompts-that-saves-you-500-worth-of-ai-tools-460f07970d5e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Start Building Your Multilingual Digital Ecosystem with the Andrew Networks Virtual Storefront](https://medium.com/@andrewwilliamsjr777/start-building-your-multilingual-digital-ecosystem-with-the-andrew-networks-virtual-storefront-28165d8d35cc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building Swasthya Raksha: An AI-Powered Early Disease Detection Platform for Rural Communities](https://medium.com/@anannyamahajan00/building-swasthya-raksha-an-ai-powered-early-disease-detection-platform-for-rural-communities-9871095a6438?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Does Your Node Server Crash When Handling Files? &lpar;Part 2&rpar;](https://blog.stackademic.com/why-does-your-node-server-crash-when-handling-files-part-2-e217951b746e?source=rss------backend_development-5)**
-> 🔹 **[How To Get Near Unlimited Free Access To The Frontier AI Models](https://medium.com/codetodeploy/how-to-get-near-unlimited-free-access-to-the-frontier-ai-models-718c18644364?source=rss------artificial_intelligence-5)**
+> 🔹 **[A 1B-Parameter Model Beats GPT on My Production Task — And It’s Not Even Close](https://medium.com/@jpfcabral/a-1b-parameter-model-beats-gpt-on-my-production-task-and-its-not-even-close-96c06a462a0b?source=rss------artificial_intelligence-5)**
+> 🔹 **[# El mercado de oficinas más escaso de América Latina: por qué Medellín no tiene margen de erro...](https://medium.com/@velezrestrepoalejandro/el-mercado-de-oficinas-m%C3%A1s-escaso-de-am%C3%A9rica-latina-por-qu%C3%A9-medell%C3%ADn-no-tiene-margen-de-error-e0c353a5d642?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Disease Diagnosis: Is It as Promising as It Seems?](https://medium.com/@sjarugula29/ai-disease-diagnosis-is-it-as-promising-as-it-seems-89f332a6fd60?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Last Computer That Will Still Work After The Grid Goes Down](https://medium.com/@neonmaxima/the-last-computer-that-will-still-work-after-the-grid-goes-down-704b77a0eb4f?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a ChatGPT-Like Assistant Without Using an LLM](https://medium.com/@codebykrishna/i-built-a-chatgpt-like-assistant-without-using-an-llm-eae902553193?source=rss------artificial_intelligence-5)**
+> 🔹 **[Prompt Engineering: The Skill That Unlocks AI’s Full Potential](https://medium.com/@wahabirfan124/prompt-engineering-the-skill-that-unlocks-ais-full-potential-ecddfa0cbefb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Reviewer Isn’t a Second Human. Stop Running Your Process Like It Is.](https://medium.com/@nagatomopedro05/your-ai-reviewer-isnt-a-second-human-stop-running-your-process-like-it-is-4cb04b97549b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Engineering KAIROS V1: Building the Infrastructure Around AI](https://medium.com/@dhrumilpawar2910/engineering-kairos-v1-building-the-infrastructure-around-ai-e308de6ba5e4?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
