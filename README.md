@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Artificial Intelligence &amp; Enterprise Strategy](https://medium.com/@ethanwrites6/artificial-intelligence-enterprise-strategy-f8f466262600?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI&#39;s Wildest Month Ever: Everything That Happened in July 2026](https://medium.com/ai-threads/ais-wildest-month-ever-everything-that-happened-in-july-2026-7df8d3be152a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond Vector Search: Building Automated Knowledge Graphs for GenAI](https://oleg-dubetcky.medium.com/beyond-vector-search-building-automated-knowledge-graphs-for-genai-1c15f9f9b707?source=rss------artificial_intelligence-5)**
-> 🔹 **[Tren Masa Depan Arsitektur Digital: Menggabungkan Kecepatan, Keamanan, dan Aksesibilitas](https://kapsul4dinfo.medium.com/tren-masa-depan-arsitektur-digital-menggabungkan-kecepatan-keamanan-dan-aksesibilitas-2cbc9f4ab191?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Asked Claude to Audit My Income Strategy.](https://medium.com/@SuzaanSayed/i-asked-claude-to-audit-my-income-strategy-ff0fb4ee885d?source=rss------artificial_intelligence-5)**
-> 🔹 **[3 Soft Skills that Matter More Than Learning to Code](https://medium.com/illumination/3-soft-skills-that-matter-more-than-learning-to-code-76a5ed6ae156?source=rss------artificial_intelligence-5)**
-> 🔹 **[The End of Traditional Apps? How AI Is Changing Software Forever](https://medium.com/@bytechnik/the-end-of-traditional-apps-how-ai-is-changing-software-forever-072da2ec7080?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Complete Machine Learning Dissertation Guide for University Students &lpar;2026&rpar;](https://medium.com/@assignprosolution.seo/the-complete-machine-learning-dissertation-guide-for-university-students-2026-94d874c00703?source=rss------artificial_intelligence-5)**
+> 🔹 **[Partitioning First, Sharding Later: A Backend Reality Check](https://medium.com/@hossam.hatem/partitioning-first-sharding-later-a-backend-reality-check-df48fd0b1b07?source=rss------backend_development-5)**
+> 🔹 **[Claude Didn’t Replace My Design Process, It Reduced My Mental Overload](https://medium.com/prove-design/claude-didnt-replace-my-design-process-it-reduced-my-mental-overload-63f85f698bc7?source=rss------system_design-5)**
+> 🔹 **[Mastering Model Context Protocol &lpar;MCP&rpar; — Part 3](https://medium.com/@heenasingh1995/mastering-model-context-protocol-mcp-part-3-7f764678264a?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 Prompts that saves you $500 Worth of AI Tools](https://medium.com/@sabiraweis/7-prompts-that-saves-you-500-worth-of-ai-tools-460f07970d5e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Start Building Your Multilingual Digital Ecosystem with the Andrew Networks Virtual Storefront](https://medium.com/@andrewwilliamsjr777/start-building-your-multilingual-digital-ecosystem-with-the-andrew-networks-virtual-storefront-28165d8d35cc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building Swasthya Raksha: An AI-Powered Early Disease Detection Platform for Rural Communities](https://medium.com/@anannyamahajan00/building-swasthya-raksha-an-ai-powered-early-disease-detection-platform-for-rural-communities-9871095a6438?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Does Your Node Server Crash When Handling Files? &lpar;Part 2&rpar;](https://blog.stackademic.com/why-does-your-node-server-crash-when-handling-files-part-2-e217951b746e?source=rss------backend_development-5)**
+> 🔹 **[How To Get Near Unlimited Free Access To The Frontier AI Models](https://medium.com/codetodeploy/how-to-get-near-unlimited-free-access-to-the-frontier-ai-models-718c18644364?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
