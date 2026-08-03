@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Log Is the Judge: Why Self-Improving Agents Need a Held-Out Test to Trust](https://medium.com/@shreyanshjain05/the-log-is-the-judge-why-self-improving-agents-need-a-held-out-test-to-trust-bd378c3b5521?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Models Don’t Go Rogue. Agentic Systems Can.](https://medium.com/@khan.ahmed.m/ai-models-dont-go-rogue-agentic-systems-can-7489aa36099f?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Build a Free Private AI Automation Workflow](https://medium.com/@leonadpeter8/how-to-build-a-free-private-ai-automation-workflow-25c56f6f1756?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop absorbing the manual work – four steps to solving it yourself](https://generativeai.pub/stop-absorbing-the-manual-work-four-steps-to-solving-it-yourself-99ac67f13a01?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Broke the Law. It Was Worth It.](https://medium.com/@mouhammedsoueidane/i-broke-the-law-it-was-worth-it-1bd8f19f052e?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Didn’t Replace Creativity. It Replaced Production.](https://medium.com/@Promptova/ai-didnt-replace-creativity-it-replaced-production-a5ca93521ef8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Dawn of Next-Generation AI: Redefining Intelligence in the Digital Age](https://medium.com/@rejvi587/the-dawn-of-next-generation-ai-redefining-intelligence-in-the-digital-age-9ca93012758d?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Reads the Market’s Mind Before Prices Move](https://medium.com/@ElaraVenn/how-ai-reads-the-markets-mind-before-prices-move-7f9e68399418?source=rss------artificial_intelligence-5)**
+> 🔹 **[Tree Languages in a Graph World](https://medium.com/@yalovoy/tree-languages-in-a-graph-world-fcef580b0e79?source=rss------backend_development-5)**
+> 🔹 **[LLM Cost Optimization: A Practical Guide for Engineering Teams](https://medium.com/@vishnu_73501/llm-cost-optimization-a-practical-guide-for-engineering-teams-9662f54ca5e1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cut Claude’s Token Overhead by Up to 4× with pi](https://medium.com/@ayalon.idan/cut-claudes-token-overhead-by-up-to-4-with-pi-d6249f8f00f2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Lost Art Of Critical Thinking](https://medium.com/@maryahayes10/the-lost-art-of-critical-thinking-1ece2e89cda2?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Fields Medalist Just Joined OpenAI — And It Says Everything About Where AI Is Headed](https://medium.com/@k.pranav_22/a-fields-medalist-just-joined-openai-and-it-says-everything-about-where-ai-is-headed-cb2a3ea7f3d0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The “Fast” Version of AI Models Is Usually the One You Actually Want](https://medium.com/@TinkererAI/the-fast-version-of-ai-models-is-usually-the-one-you-actually-want-0d46216ae8e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Position Yourself for AI Customer Support Roles Without Sounding Like a Bot](https://medium.com/@nathanielcarteraieng/position-yourself-for-ai-customer-support-roles-without-sounding-like-a-bot-e1fcfeb53bb7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Selected for the 2026 IDC China AI Top 50: DeepCtrls Reshaping Global Computing and Energy…](https://medium.com/@sunyb/selected-for-the-2026-idc-china-ai-top-50-deepctrls-reshaping-global-computing-and-energy-7cff1b316985?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
