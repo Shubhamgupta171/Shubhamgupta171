@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why a Scan Is Not a Document: OCR, Tables and the Numbers That Change](https://devaland.medium.com/why-a-scan-is-not-a-document-ocr-tables-and-the-numbers-that-change-4216103b7b16?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 AI Coding Habits I Learned From Senior Engineers](https://medium.com/skillstuff/7-ai-coding-habits-i-learned-from-senior-engineers-43eaaac0d24f?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Benchmarks Explained: Which Ones Still Matter in 2026?](https://pub.towardsai.net/ai-benchmarks-explained-which-ones-still-matter-in-2026-adafd9ee2887?source=rss------artificial_intelligence-5)**
-> 🔹 **[CoT RL: Training Models to Search, Verify, and Stop Thinking at the Right Time](https://blog.stackademic.com/cot-rl-training-models-to-search-verify-and-stop-thinking-at-the-right-time-92634a222df0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Researchers Keep Blending Biology and Robotics](https://medium.com/@samuelasefa20/why-researchers-keep-blending-biology-and-robotics-dcf6588185a0?source=rss------artificial_intelligence-5)**
-> 🔹 **[666’s Study Guide: Preface to *The Canon*](https://medium.com/@enilphenil_80982/666s-study-guide-preface-to-the-canon-2215ded1befb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Spending More on AI Doesn’t Mean You’re Growing With It](https://medium.com/o-digo-disse/spending-more-on-ai-doesnt-mean-you-re-growing-with-it-1bd4fa52703d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Unauthorized AI Use at Work Has Stopped Being an Exception](https://medium.com/o-digo-disse/unauthorized-ai-use-at-work-has-stopped-being-an-exception-b60bb72f0e79?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building a Plugin System with Java SPI &lpar;Service Provider Interface&rpar;](https://medium.com/@lucianosilva_61035/building-a-plugin-system-with-java-spi-service-provider-interface-92d463a437c6?source=rss------system_design-5)**
+> 🔹 **[Security Thinking from Day One — Why AI-generated applications increase risk surfaces](https://medium.com/@mark.w.1987/security-thinking-from-day-one-why-ai-generated-applications-increase-risk-surfaces-cdfbd5b45493?source=rss------backend_development-5)**
+> 🔹 **[Why Brands Are Secretly “Poisoning” Their Data to Stop AI Scrapers](https://medium.com/@jeetlahauk/why-brands-are-secretly-poisoning-their-data-to-stop-ai-scrapers-3f4953692ce9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Trump Administration Invites OpenAI, Google, Meta, and Anthropic for AI Safety Testing](https://medium.com/@casi.borg/trump-administration-invites-openai-google-meta-and-anthropic-for-ai-safety-testing-575362df3ce3?source=rss------artificial_intelligence-5)**
+> 🔹 **[&quot;Inside Lokosoft: How Three Founders Are Building the Future of Digital Transformation&quot;](https://medium.com/@prerana.bhowmik24/inside-lokosoft-how-three-founders-are-building-the-future-of-digital-transformation-ba063f7c0a92?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kimi K3 Setup: A Product Manager’s Guide](https://medium.com/@mohit15856/kimi-k3-setup-a-product-managers-guide-07e99309da55?source=rss------artificial_intelligence-5)**
+> 🔹 **[Elon Musk Says Money Won’t Matter By 2036. Part 2: His Stock Chart Still Hasn’t Gotten the Memo...](https://medium.com/@codyjay085/elon-musk-says-money-wont-matter-by-2036-part-2-his-stock-chart-still-hasn-t-gotten-the-memo-72bfe22fcfd6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Augmented and Virtual Reality:Changing the Way Humans View The World](https://medium.com/ieee-women-in-engineering-vit/augmented-and-virtual-reality-changing-the-way-humans-view-the-world-954dec8fbc3b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
