@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Ultimate Guide to PostgreSQL Locks: Row, Table, Advisory &amp; More](https://medium.com/@s.a.modares.h/the-ultimate-guide-to-postgresql-locks-row-table-advisory-more-d54328da6b8d?source=rss------backend_development-5)**
-> 🔹 **[The AI Race Won’t Be Won by the Best Chips. It’ll Be Won by Power.](https://medium.com/@tofailahmedtushar/the-ai-race-wont-be-won-by-the-best-chips-it-ll-be-won-by-power-002c0fd4102b?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Automated My Weekly Planning With AI. Here’s What Changed.](https://medium.com/@minuwrites/i-automated-my-weekly-planning-with-ai-heres-what-changed-115ac4fc7e5d?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Clone Your Voice and Generate Realistic AI Speech with Resemble AI](https://medium.com/@liutan2008/how-to-clone-your-voice-and-generate-realistic-ai-speech-with-resemble-ai-ee22fd8daf05?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Fine Print Isn’t the Problem. The Things You Don’t Question Are.](https://medium.com/@jim_9171/the-fine-print-isnt-the-problem-the-things-you-don-t-question-are-141d905da934?source=rss------artificial_intelligence-5)**
-> 🔹 **[Connecting More Tools to Your Agent Makes It Dumber.](https://medium.com/@AkhilAIWorld/connecting-more-tools-to-your-agent-makes-it-dumber-c207c1c1d16c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Resep Gizi dan Sentuhan Digital: Melalui Dapur Desa hingga Edukasi AI, KKN 06 UINSA dan Kader…](https://medium.com/@sabrinawahyu670/resep-gizi-dan-sentuhan-digital-melalui-dapur-desa-hingga-edukasi-ai-kkn-06-uinsa-dan-kader-124d8e2e4d44?source=rss------artificial_intelligence-5)**
-> 🔹 **[Retired but Still Need Extra Income? Use Your Experience and AI to Explore New Possibilities](https://medium.com/@underpar32/retired-but-still-need-extra-income-use-your-experience-and-ai-to-explore-new-possibilities-37ad55c95398?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Day I Stopped Starting With a Blank Canvas](https://medium.com/@coolkalpick/the-day-i-stopped-starting-with-a-blank-canvas-8313449c0868?source=rss------system_design-5)**
+> 🔹 **[Recurrent Neural Networks — The Wall Is Distance, Not Length](https://grahamjroy.medium.com/recurrent-neural-networks-the-wall-is-distance-not-length-9a17b15e8339?source=rss------artificial_intelligence-5)**
+> 🔹 **[Two AI Agents Lost to One in 5 of 6 Early Tests](https://dmytronasyrov.medium.com/two-ai-agents-lost-to-one-in-5-of-6-early-tests-7e248d691ef3?source=rss------artificial_intelligence-5)**
+> 🔹 **[10 AI Prompt Systems That Feel Like Hiring a Business Team](https://medium.com/@sabiraweis/10-ai-prompt-systems-that-feel-like-hiring-a-business-team-dbc63472a0f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Buying vs Renting](https://medium.com/@iratubefollow/buying-vs-renting-a56971c93860?source=rss------artificial_intelligence-5)**
+> 🔹 **[Generative Adversarial Networks: How a Simple PVP Game Gave Us Image Generation](https://medium.com/@cdcore/generative-adversarial-networks-how-a-simple-pvp-game-gave-us-image-generation-3c69965a0230?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Cost of Solving the Wrong Problem](https://medium.com/@claytoncripe/the-hidden-cost-of-solving-the-wrong-problem-2d810f3adc0a?source=rss------system_design-5)**
+> 🔹 **[Episode 6: Why I Started with the Foundation Before Any Feature](https://medium.com/@shawkyalbana/episode-6-why-i-started-with-the-foundation-before-any-feature-fa5e820efa80?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
