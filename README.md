@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Building a Plugin System with Java SPI &lpar;Service Provider Interface&rpar;](https://medium.com/@lucianosilva_61035/building-a-plugin-system-with-java-spi-service-provider-interface-92d463a437c6?source=rss------system_design-5)**
-> 🔹 **[Security Thinking from Day One — Why AI-generated applications increase risk surfaces](https://medium.com/@mark.w.1987/security-thinking-from-day-one-why-ai-generated-applications-increase-risk-surfaces-cdfbd5b45493?source=rss------backend_development-5)**
-> 🔹 **[Why Brands Are Secretly “Poisoning” Their Data to Stop AI Scrapers](https://medium.com/@jeetlahauk/why-brands-are-secretly-poisoning-their-data-to-stop-ai-scrapers-3f4953692ce9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Trump Administration Invites OpenAI, Google, Meta, and Anthropic for AI Safety Testing](https://medium.com/@casi.borg/trump-administration-invites-openai-google-meta-and-anthropic-for-ai-safety-testing-575362df3ce3?source=rss------artificial_intelligence-5)**
-> 🔹 **[&quot;Inside Lokosoft: How Three Founders Are Building the Future of Digital Transformation&quot;](https://medium.com/@prerana.bhowmik24/inside-lokosoft-how-three-founders-are-building-the-future-of-digital-transformation-ba063f7c0a92?source=rss------artificial_intelligence-5)**
-> 🔹 **[Kimi K3 Setup: A Product Manager’s Guide](https://medium.com/@mohit15856/kimi-k3-setup-a-product-managers-guide-07e99309da55?source=rss------artificial_intelligence-5)**
-> 🔹 **[Elon Musk Says Money Won’t Matter By 2036. Part 2: His Stock Chart Still Hasn’t Gotten the Memo...](https://medium.com/@codyjay085/elon-musk-says-money-wont-matter-by-2036-part-2-his-stock-chart-still-hasn-t-gotten-the-memo-72bfe22fcfd6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Augmented and Virtual Reality:Changing the Way Humans View The World](https://medium.com/ieee-women-in-engineering-vit/augmented-and-virtual-reality-changing-the-way-humans-view-the-world-954dec8fbc3b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Ultimate Guide to PostgreSQL Locks: Row, Table, Advisory &amp; More](https://medium.com/@s.a.modares.h/the-ultimate-guide-to-postgresql-locks-row-table-advisory-more-d54328da6b8d?source=rss------backend_development-5)**
+> 🔹 **[The AI Race Won’t Be Won by the Best Chips. It’ll Be Won by Power.](https://medium.com/@tofailahmedtushar/the-ai-race-wont-be-won-by-the-best-chips-it-ll-be-won-by-power-002c0fd4102b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Automated My Weekly Planning With AI. Here’s What Changed.](https://medium.com/@minuwrites/i-automated-my-weekly-planning-with-ai-heres-what-changed-115ac4fc7e5d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Clone Your Voice and Generate Realistic AI Speech with Resemble AI](https://medium.com/@liutan2008/how-to-clone-your-voice-and-generate-realistic-ai-speech-with-resemble-ai-ee22fd8daf05?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Fine Print Isn’t the Problem. The Things You Don’t Question Are.](https://medium.com/@jim_9171/the-fine-print-isnt-the-problem-the-things-you-don-t-question-are-141d905da934?source=rss------artificial_intelligence-5)**
+> 🔹 **[Connecting More Tools to Your Agent Makes It Dumber.](https://medium.com/@AkhilAIWorld/connecting-more-tools-to-your-agent-makes-it-dumber-c207c1c1d16c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Resep Gizi dan Sentuhan Digital: Melalui Dapur Desa hingga Edukasi AI, KKN 06 UINSA dan Kader…](https://medium.com/@sabrinawahyu670/resep-gizi-dan-sentuhan-digital-melalui-dapur-desa-hingga-edukasi-ai-kkn-06-uinsa-dan-kader-124d8e2e4d44?source=rss------artificial_intelligence-5)**
+> 🔹 **[Retired but Still Need Extra Income? Use Your Experience and AI to Explore New Possibilities](https://medium.com/@underpar32/retired-but-still-need-extra-income-use-your-experience-and-ai-to-explore-new-possibilities-37ad55c95398?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
