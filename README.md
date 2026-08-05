@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Artificial Intelligence in Military Market Expected to Reach $38.5](https://medium.com/@siyara.business/artificial-intelligence-in-military-market-expected-to-reach-38-5-d697f6c64677?source=rss------artificial_intelligence-5)**
-> 🔹 **[AIs: Handmade Fear, Machine-Made Future](https://medium.com/illumination/ais-handmade-fear-machine-made-future-4b94a6aa5632?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why I Split One App Into Five Services &lpar;And What It Taught Me About Production Systems&rpar;](https://medium.com/codetodeploy/why-i-split-one-app-into-five-services-and-what-it-taught-me-about-production-systems-80940e66893a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Press Release Is No Longer Just for Clicks. It’s Also for Citations.](https://medium.com/@apoc.signup/your-press-release-is-no-longer-just-for-clicks-its-also-for-citations-c3e035bf2914?source=rss------artificial_intelligence-5)**
-> 🔹 **[The One Longevity Habit No AI Model Will Ever Own](https://medium.com/illumination/the-one-longevity-habit-no-ai-model-will-ever-own-9e39b8a3308a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Humanoid Robots and the Rise of Physical AI: The Next Technology Revolution May Walk Through th...](https://medium.com/@pathikrit.roy/humanoid-robots-and-the-rise-of-physical-ai-the-next-technology-revolution-may-walk-through-the-57d4f7597f8e?source=rss------artificial_intelligence-5)**
-> 🔹 **[What If Your Phone, Your Passwords, and Your Identity Were Stolen While You Were Sleeping?](https://medium.com/@adityajohnsonstanley1709/what-if-your-phone-your-passwords-and-your-identity-were-stolen-while-you-were-sleeping-ffe919ab2716?source=rss------artificial_intelligence-5)**
-> 🔹 **[AWS RDS Hybrid Architecture Optimization: Gestión de Conexiones con RDS Proxy, Caché Distribuid...](https://medium.com/@roybincg/aws-rds-hybrid-architecture-optimization-gesti%C3%B3n-de-conexiones-con-rds-proxy-cach%C3%A9-distribuida-a8682c9962f2?source=rss------backend_development-5)**
+> 🔹 **[Advance Your Software Career with a Full Stack Developer Certification](https://medium.com/@noveljeevan67/advance-your-software-career-with-a-full-stack-developer-certification-c28c39688f20?source=rss------backend_development-5)**
+> 🔹 **[Hackers Love ChatGPT More Than You Do](https://ismailtasdelen.medium.com/hackers-love-chatgpt-more-than-you-do-4fb1b9d05e75?source=rss------artificial_intelligence-5)**
+> 🔹 **[Tres objetivos, un solo sistema: mi laboratorio personal con IA](https://medium.com/@xpertpoint.solutions/tres-objetivos-un-solo-sistema-mi-laboratorio-personal-con-ia-4d1d8ea4a480?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who Wants To Be Chief AI Officer?](https://ehandbook.com/who-wants-to-be-chief-ai-officer-077837a78574?source=rss------artificial_intelligence-5)**
+> 🔹 **[Part 2 — Building High-Income Technical Businesses with AI, Python, and Automation](https://zahidniaxi.medium.com/part-2-building-high-income-technical-businesses-with-ai-python-and-automation-68583bea3176?source=rss------artificial_intelligence-5)**
+> 🔹 **[Construindo um Sistema de Plugins com Java SPI &lpar;Service Provider Interface&rpar;](https://medium.com/@lucianosilva_61035/construindo-um-sistema-de-plugins-com-java-spi-service-provider-interface-d7824f226b57?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Financial Advisors Explained: Can Artificial Intelligence Really Manage Your Investments?](https://medium.com/no-time/ai-financial-advisors-explained-can-artificial-intelligence-really-manage-your-investments-49427cd8e1d6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Meta-cognition for Reasoning AI](https://ai.gopubby.com/meta-cognition-for-reasoning-ai-d2979bbeda55?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
