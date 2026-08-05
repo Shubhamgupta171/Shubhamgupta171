@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Advance Your Software Career with a Full Stack Developer Certification](https://medium.com/@noveljeevan67/advance-your-software-career-with-a-full-stack-developer-certification-c28c39688f20?source=rss------backend_development-5)**
-> 🔹 **[Hackers Love ChatGPT More Than You Do](https://ismailtasdelen.medium.com/hackers-love-chatgpt-more-than-you-do-4fb1b9d05e75?source=rss------artificial_intelligence-5)**
-> 🔹 **[Tres objetivos, un solo sistema: mi laboratorio personal con IA](https://medium.com/@xpertpoint.solutions/tres-objetivos-un-solo-sistema-mi-laboratorio-personal-con-ia-4d1d8ea4a480?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who Wants To Be Chief AI Officer?](https://ehandbook.com/who-wants-to-be-chief-ai-officer-077837a78574?source=rss------artificial_intelligence-5)**
-> 🔹 **[Part 2 — Building High-Income Technical Businesses with AI, Python, and Automation](https://zahidniaxi.medium.com/part-2-building-high-income-technical-businesses-with-ai-python-and-automation-68583bea3176?source=rss------artificial_intelligence-5)**
-> 🔹 **[Construindo um Sistema de Plugins com Java SPI &lpar;Service Provider Interface&rpar;](https://medium.com/@lucianosilva_61035/construindo-um-sistema-de-plugins-com-java-spi-service-provider-interface-d7824f226b57?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Financial Advisors Explained: Can Artificial Intelligence Really Manage Your Investments?](https://medium.com/no-time/ai-financial-advisors-explained-can-artificial-intelligence-really-manage-your-investments-49427cd8e1d6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Meta-cognition for Reasoning AI](https://ai.gopubby.com/meta-cognition-for-reasoning-ai-d2979bbeda55?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Dub Your Videos into Multiple Languages with Wavel AI](https://medium.com/@liutan2008/how-to-dub-your-videos-into-multiple-languages-with-wavel-ai-c195a4328b81?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Agent Memory Becomes a Security Boundary](https://medium.com/@vishal-gopinath/when-agent-memory-becomes-a-security-boundary-32e79e5a22f5?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents Are Leaving the Demo Stage. The Hard Part Starts Now](https://medium.com/@it.sanidhya/ai-agents-are-leaving-the-demo-stage-the-hard-part-starts-now-70962ff61ec1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kecerdasan buatan &lpar;Artificial Intelligence&rpar; kini tidak lagi sebatas peretas kata atau pembuat t...](https://medium.com/@gunardoisra410/kecerdasan-buatan-artificial-intelligence-kini-tidak-lagi-sebatas-peretas-kata-atau-pembuat-teks-72f1916b8487?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Bubble Debate Just Entered a New Phase](https://medium.com/@mohitsinghal48/the-ai-gold-rush-is-entering-its-most-dangerous-stage-2d5b4de2abac?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Last Operating System](https://medium.com/@alexgogan/the-last-operating-system-1f146e34a88b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Generative AI Learning Roadmap &lpar;2026&rpar;](https://medium.com/@brolly-academy/generative-ai-learning-roadmap-2026-62ba4d0dbfa5?source=rss------artificial_intelligence-5)**
+> 🔹 **[I tried the Claude Code repos everyone swears by.](https://learnaitoprofit.com/i-tried-the-claude-code-repos-everyone-swears-by-30ce478a79cd?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
