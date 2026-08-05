@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Dub Your Videos into Multiple Languages with Wavel AI](https://medium.com/@liutan2008/how-to-dub-your-videos-into-multiple-languages-with-wavel-ai-c195a4328b81?source=rss------artificial_intelligence-5)**
-> 🔹 **[When Agent Memory Becomes a Security Boundary](https://medium.com/@vishal-gopinath/when-agent-memory-becomes-a-security-boundary-32e79e5a22f5?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agents Are Leaving the Demo Stage. The Hard Part Starts Now](https://medium.com/@it.sanidhya/ai-agents-are-leaving-the-demo-stage-the-hard-part-starts-now-70962ff61ec1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Kecerdasan buatan &lpar;Artificial Intelligence&rpar; kini tidak lagi sebatas peretas kata atau pembuat t...](https://medium.com/@gunardoisra410/kecerdasan-buatan-artificial-intelligence-kini-tidak-lagi-sebatas-peretas-kata-atau-pembuat-teks-72f1916b8487?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Bubble Debate Just Entered a New Phase](https://medium.com/@mohitsinghal48/the-ai-gold-rush-is-entering-its-most-dangerous-stage-2d5b4de2abac?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Last Operating System](https://medium.com/@alexgogan/the-last-operating-system-1f146e34a88b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Generative AI Learning Roadmap &lpar;2026&rpar;](https://medium.com/@brolly-academy/generative-ai-learning-roadmap-2026-62ba4d0dbfa5?source=rss------artificial_intelligence-5)**
-> 🔹 **[I tried the Claude Code repos everyone swears by.](https://learnaitoprofit.com/i-tried-the-claude-code-repos-everyone-swears-by-30ce478a79cd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best Freelance UGC Content Creator?](https://medium.com/@benwokes014/best-freelance-ugc-content-creator-1a9394d246c9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Implicit Interface Implementation in Go: A Real Backend Example](https://medium.com/@arjun.devb25/implicit-interface-implementation-in-go-a-real-backend-example-3c946f9d10f9?source=rss------backend_development-5)**
+> 🔹 **[GraphRAG: Why Vector Search Fails at Scale &lpar;And How Knowledge Graphs Fix It&rpar;](https://medium.com/@gunti.abhinav/graphrag-why-vector-search-fails-at-scale-and-how-knowledge-graphs-fix-it-69f00ab95e35?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Crash is Coming.](https://nordicmacroanalyst.medium.com/the-crash-is-coming-2db23f7eebf0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Multi-Agent Systems: Building Collaborative AI Workforces](https://medium.com/@rameshrajach/multi-agent-systems-building-collaborative-ai-workforces-e1f3e44f355b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your positioning doc now has to work for AI, too](https://medium.com/@bparker199257/your-positioning-doc-now-has-to-work-for-ai-too-da37c2b67276?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why More AI Features Don’t Always Create Better Results](https://medium.com/@guntarajanuar1/why-more-ai-features-dont-always-create-better-results-1566aa4ae654?source=rss------artificial_intelligence-5)**
+> 🔹 **[Conversation Intelligence: What Your Calls Say About Your Business, Not Your Agents](https://callforceglobal.medium.com/conversation-intelligence-what-your-calls-say-about-your-business-not-your-agents-9adcdebe5c0d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
