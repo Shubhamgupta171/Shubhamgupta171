@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Best Freelance UGC Content Creator?](https://medium.com/@benwokes014/best-freelance-ugc-content-creator-1a9394d246c9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Implicit Interface Implementation in Go: A Real Backend Example](https://medium.com/@arjun.devb25/implicit-interface-implementation-in-go-a-real-backend-example-3c946f9d10f9?source=rss------backend_development-5)**
-> 🔹 **[GraphRAG: Why Vector Search Fails at Scale &lpar;And How Knowledge Graphs Fix It&rpar;](https://medium.com/@gunti.abhinav/graphrag-why-vector-search-fails-at-scale-and-how-knowledge-graphs-fix-it-69f00ab95e35?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Crash is Coming.](https://nordicmacroanalyst.medium.com/the-crash-is-coming-2db23f7eebf0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Multi-Agent Systems: Building Collaborative AI Workforces](https://medium.com/@rameshrajach/multi-agent-systems-building-collaborative-ai-workforces-e1f3e44f355b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your positioning doc now has to work for AI, too](https://medium.com/@bparker199257/your-positioning-doc-now-has-to-work-for-ai-too-da37c2b67276?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why More AI Features Don’t Always Create Better Results](https://medium.com/@guntarajanuar1/why-more-ai-features-dont-always-create-better-results-1566aa4ae654?source=rss------artificial_intelligence-5)**
-> 🔹 **[Conversation Intelligence: What Your Calls Say About Your Business, Not Your Agents](https://callforceglobal.medium.com/conversation-intelligence-what-your-calls-say-about-your-business-not-your-agents-9adcdebe5c0d?source=rss------artificial_intelligence-5)**
+> 🔹 **[An OpenAI Agent Broke Out of Its Sandbox and Hacked Hugging Face to Cheat on a Test](https://medium.com/@aftab001x/an-openai-agent-broke-out-of-its-sandbox-and-hacked-hugging-face-to-cheat-on-a-test-bd3816cea533?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Code add-on claims it cuts your token bill by 40%](https://nitingavhane.medium.com/claude-code-add-on-claims-it-cuts-your-token-bill-by-40-4f88c4147d7d?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 Best AI Music Tools for Video in 2026: A Workflow Guide](https://danielcolestudio.medium.com/7-best-ai-music-tools-for-video-in-2026-a-workflow-guide-d23e06683280?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Eleven Minutes Taught Me About the Future of Software](https://medium.com/@abiralmahafuz/what-eleven-minutes-taught-me-about-the-future-of-software-98e162e8166b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Retry vs Failover: Your SDK Quit After 1.3 Seconds of Claude&#39;s 7.5-Hour Outage](https://pub.towardsai.net/retry-vs-failover-your-sdk-quit-after-1-3-seconds-of-claudes-7-5-hour-outage-c0b8a2228090?source=rss------artificial_intelligence-5)**
+> 🔹 **[Ketika “Buatan Manusia” Bukan Lagi Tentang Siapa yang Menekan Tombol](https://medium.com/berbagi-berdampak/ketika-buatan-manusia-bukan-lagi-tentang-siapa-yang-menekan-tombol-a3771018d696?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT-5.6 Cheated on a Hacking Exam by Hacking Its Way Out and Stealing the Answers from Hugg...](https://medium.com/predict/chatgpt-5-6-cheated-on-a-hacking-exam-by-hacking-its-way-out-and-stealing-the-answers-from-hugging-f-eaeadfc2ad39?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Don’t Need an Original Idea to Ship Your First Digital Product — You Need a Specific One](https://medium.com/@iankentfamador_69728/you-dont-need-an-original-idea-to-ship-your-first-digital-product-you-need-a-specific-one-2082b6117ef9?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
