@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[An OpenAI Agent Broke Out of Its Sandbox and Hacked Hugging Face to Cheat on a Test](https://medium.com/@aftab001x/an-openai-agent-broke-out-of-its-sandbox-and-hacked-hugging-face-to-cheat-on-a-test-bd3816cea533?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Code add-on claims it cuts your token bill by 40%](https://nitingavhane.medium.com/claude-code-add-on-claims-it-cuts-your-token-bill-by-40-4f88c4147d7d?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 Best AI Music Tools for Video in 2026: A Workflow Guide](https://danielcolestudio.medium.com/7-best-ai-music-tools-for-video-in-2026-a-workflow-guide-d23e06683280?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Eleven Minutes Taught Me About the Future of Software](https://medium.com/@abiralmahafuz/what-eleven-minutes-taught-me-about-the-future-of-software-98e162e8166b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Retry vs Failover: Your SDK Quit After 1.3 Seconds of Claude&#39;s 7.5-Hour Outage](https://pub.towardsai.net/retry-vs-failover-your-sdk-quit-after-1-3-seconds-of-claudes-7-5-hour-outage-c0b8a2228090?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ketika “Buatan Manusia” Bukan Lagi Tentang Siapa yang Menekan Tombol](https://medium.com/berbagi-berdampak/ketika-buatan-manusia-bukan-lagi-tentang-siapa-yang-menekan-tombol-a3771018d696?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT-5.6 Cheated on a Hacking Exam by Hacking Its Way Out and Stealing the Answers from Hugg...](https://medium.com/predict/chatgpt-5-6-cheated-on-a-hacking-exam-by-hacking-its-way-out-and-stealing-the-answers-from-hugging-f-eaeadfc2ad39?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Don’t Need an Original Idea to Ship Your First Digital Product — You Need a Specific One](https://medium.com/@iankentfamador_69728/you-dont-need-an-original-idea-to-ship-your-first-digital-product-you-need-a-specific-one-2082b6117ef9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Engineering Persistence: Why Context-Aware Follow-Up Automation Predicts Sales Success](https://medium.com/@dwabi.ai/engineering-persistence-why-context-aware-follow-up-automation-predicts-sales-success-6685716abb35?source=rss------artificial_intelligence-5)**
+> 🔹 **[Data-Intensive vs. Compute-Intensive Systems: Knowing Your System’s Bottleneck](https://medium.com/@subhadip.mishra.eng/data-intensive-vs-compute-intensive-systems-knowing-your-systems-bottleneck-b78febbb9472?source=rss------backend_development-5)**
+> 🔹 **[Finance Agents Need Maker-Checker Job Design](https://medium.com/@nexiuslabs/finance-agents-need-maker-checker-job-design-574f00faebf5?source=rss------artificial_intelligence-5)**
+> 🔹 **[WindBorne Wants to Sell the Decision, Not Just the Forecast](https://notesbyken.medium.com/windborne-wants-to-sell-the-decision-not-just-the-forecast-6fcf05123dd4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Saving Prompts. Fix One Messy To-Do List Instead.](https://sofiarivera8.medium.com/stop-saving-prompts-fix-one-messy-to-do-list-instead-036ae0e94065?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Your Video Ideas Never Become Finished Videos](https://medium.com/@momikomi.com/why-your-video-ideas-never-become-finished-videos-c34c94efc5bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[RAG, MCP, Tool Calling, Agents, or Long Context?](https://medium.com/@mrschneider/rag-mcp-tool-calling-agents-or-long-context-ca53a9cb43ca?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents Are Changing Software Development: Here’s Why Every Developer Should Care](https://medium.com/@Sannan_Ali/ai-agents-are-changing-software-development-heres-why-every-developer-should-care-40154b73dd0d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
