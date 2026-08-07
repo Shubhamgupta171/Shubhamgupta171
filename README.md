@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Gyan Therapy vs Beebom Camera Reviews &lpar;2026&rpar;: Which Smartphone Photography &amp; Camera YouTube Cha...](https://medium.com/@sdplacement8/gyan-therapy-vs-beebom-camera-reviews-2026-which-smartphone-photography-camera-youtube-channel-dd536eabf24b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cómo diseñé un sprint coordinado para tres proyectos de aprendizaje](https://medium.com/@xpertpoint.solutions/c%C3%B3mo-dise%C3%B1%C3%A9-un-sprint-coordinado-para-tres-proyectos-de-aprendizaje-0653f75f7fb7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Client Counted 4,200 Tokens. The Provider Billed 18,000.](https://medium.com/@chenyuan19920509/the-client-counted-4-200-tokens-the-provider-billed-18-000-445a4344c565?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is it Too Much If I Don’t Wanna Share Any of My Face In AI Domination?](https://medium.com/@haezeeya/is-it-too-much-if-i-dont-wanna-share-any-of-my-face-in-ai-domination-82b945ab5e81?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Cost Center in AI Agent Projects: Integration, Not the Model](https://medium.com/@shahzad_3157/the-hidden-cost-center-in-ai-agent-projects-integration-not-the-model-d4cef0026ef3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Phone and Laptop Are Starting to Think Without the Cloud](https://medium.com/@sourcebowresource/your-phone-and-laptop-are-starting-to-think-without-the-cloud-08471ea18da0?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested 15 Best T-shirt Design Midjourney Prompts &lpar;2026 Guide&rpar;](https://medium.com/@itbasetech/i-tested-15-best-t-shirt-design-midjourney-prompts-2026-guide-e3c70a9c6768?source=rss------artificial_intelligence-5)**
-> 🔹 **[Multi Tier Tool Discovery for MCP](https://parthdevai.medium.com/multi-tier-tool-discovery-for-mcp-09ef70280bf8?source=rss------artificial_intelligence-5)**
+> 🔹 **[One Base Token. Every Platform.](https://medium.com/design-bootcamp/one-base-token-every-platform-02b49036b754?source=rss------system_design-5)**
+> 🔹 **[AI Automates the Predictable. Don’t Become Predictable.](https://medium.com/@manavparekh5/ai-automates-the-predictable-dont-become-predictable-6d971e230ea1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Planetary Resilience: Designing Multi-Region Systems That Survive the Unthinkable](https://medium.com/@summitkumar/planetary-resilience-designing-multi-region-systems-that-survive-the-unthinkable-b65560dfbd3a?source=rss------system_design-5)**
+> 🔹 **[The Future of AI Belongs to People Who Can Adapt](https://medium.com/@jameswalkerai/the-future-of-ai-belongs-to-people-who-can-adapt-aa3a5d09c93d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Code That Almost Destroyed Me](https://medium.com/@micahearhart70/the-code-that-almost-destroyed-me-78ccc64b8ce7?source=rss------artificial_intelligence-5)**
+> 🔹 **[12 Brands, One System: Why Multi-Brand Distributors Keep Rebuilding Software That Was Never the...](https://medium.com/@justinlightmarsbound/12-brands-one-system-why-multi-brand-distributors-keep-rebuilding-software-that-was-never-the-792c804dc827?source=rss------artificial_intelligence-5)**
+> 🔹 **[The System Should Understand the Care Worker. Not the Other Way Around.](https://medium.com/@aaron.tabone/the-system-should-understand-the-care-worker-not-the-other-way-around-870797cbe47f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Frontier AI Has a Cybersecurity Expertise Problem](https://matthew-rosenquist.medium.com/frontier-ai-has-a-cybersecurity-expertise-problem-78dfa915354d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
