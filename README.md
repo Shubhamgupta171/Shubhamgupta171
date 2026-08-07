@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to be fearlessly AI native​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌...](https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/)**
-> 🔹 **[The Chinese AI Price War Just Peaked. Here’s the Data Showing the Turn.](https://medium.com/@llmrouterRyan/the-chinese-ai-price-war-just-peaked-heres-the-data-showing-the-turn-93723d797259?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building an Analysis-First Pipeline for Legacy Code Conversion](https://medium.com/@xcceleraai/building-an-analysis-first-pipeline-for-legacy-code-conversion-0810272eedd5?source=rss------artificial_intelligence-5)**
-> 🔹 **[DeepSeek Just Warned Its Prices Are Going Up.](https://medium.com/@ExplorerAI/deepseek-just-warned-its-prices-are-going-up-8563542b43e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[300,000+ Tech Jobs Are Available](https://medium.com/codetodeploy/300-000-tech-jobs-are-available-cd22eb8cfff4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Meta Built a Coding Agent That Delegates the Mess](https://notesbyken.medium.com/meta-built-a-coding-agent-that-delegates-the-mess-f591c383be56?source=rss------artificial_intelligence-5)**
-> 🔹 **[Going banana](https://medium.com/@gitanjali.diwakar/going-banana-589cae5b6c61?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Stack Every Software Engineer Will Be Using in 2027](https://blog.stackademic.com/the-ai-stack-every-software-engineer-will-be-using-in-2027-27456a61af3a?source=rss------artificial_intelligence-5)**
+> 🔹 **[LinkedIn just added a button that lets you report AI slop.](https://medium.com/the-engineering-brief/linkedin-just-added-a-button-that-lets-you-report-ai-slop-60697fe7210e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Terapia com IA e oração por aplicativo: o ouvido que nunca dorme](https://danielbaruces.medium.com/terapia-com-ia-e-ora%C3%A7%C3%A3o-por-aplicativo-o-ouvido-que-nunca-dorme-5f101391416a?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Do You Do With a Grace Hopper Superchip for Five Days?](https://medium.com/@r00tb33r/what-do-you-do-with-a-grace-hopper-superchip-for-five-days-ce1b636fce30?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Happens When Autonomous AI Agents Discover They Can Talk to Each Other?](https://medium.com/@yannis.psarras/what-happens-when-autonomous-ai-agents-discover-they-can-talk-to-each-other-4c5fc6777749?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Problem with pandas Isn’t Performance. It’s Cognitive Overhead.](https://towardsdatascience.com/the-problem-with-pandas-isnt-performance-its-cognitive-overhead/)**
+> 🔹 **[Stop Building Features. Start Solving Jobs.](https://medium.com/@trif.tz/stop-building-features-start-solving-jobs-7a2f8d65f631?source=rss------artificial_intelligence-5)**
+> 🔹 **[Four Shifts Redefining Financial Markets Over the Next Decade](https://medium.com/@info_89106/four-shifts-redefining-financial-markets-over-the-next-decade-8b65b2d32767?source=rss------artificial_intelligence-5)**
+> 🔹 **[Zero-Click Search: Is SEO Still Worth It in 2026?](https://medium.com/@seo.bluconnet/zero-click-search-is-seo-still-worth-it-in-2026-de8443d82163?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
