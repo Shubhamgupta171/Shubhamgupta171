@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[One Base Token. Every Platform.](https://medium.com/design-bootcamp/one-base-token-every-platform-02b49036b754?source=rss------system_design-5)**
-> 🔹 **[AI Automates the Predictable. Don’t Become Predictable.](https://medium.com/@manavparekh5/ai-automates-the-predictable-dont-become-predictable-6d971e230ea1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Planetary Resilience: Designing Multi-Region Systems That Survive the Unthinkable](https://medium.com/@summitkumar/planetary-resilience-designing-multi-region-systems-that-survive-the-unthinkable-b65560dfbd3a?source=rss------system_design-5)**
-> 🔹 **[The Future of AI Belongs to People Who Can Adapt](https://medium.com/@jameswalkerai/the-future-of-ai-belongs-to-people-who-can-adapt-aa3a5d09c93d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Code That Almost Destroyed Me](https://medium.com/@micahearhart70/the-code-that-almost-destroyed-me-78ccc64b8ce7?source=rss------artificial_intelligence-5)**
-> 🔹 **[12 Brands, One System: Why Multi-Brand Distributors Keep Rebuilding Software That Was Never the...](https://medium.com/@justinlightmarsbound/12-brands-one-system-why-multi-brand-distributors-keep-rebuilding-software-that-was-never-the-792c804dc827?source=rss------artificial_intelligence-5)**
-> 🔹 **[The System Should Understand the Care Worker. Not the Other Way Around.](https://medium.com/@aaron.tabone/the-system-should-understand-the-care-worker-not-the-other-way-around-870797cbe47f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Frontier AI Has a Cybersecurity Expertise Problem](https://matthew-rosenquist.medium.com/frontier-ai-has-a-cybersecurity-expertise-problem-78dfa915354d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to be fearlessly AI native​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌...](https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/)**
+> 🔹 **[The Chinese AI Price War Just Peaked. Here’s the Data Showing the Turn.](https://medium.com/@llmrouterRyan/the-chinese-ai-price-war-just-peaked-heres-the-data-showing-the-turn-93723d797259?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building an Analysis-First Pipeline for Legacy Code Conversion](https://medium.com/@xcceleraai/building-an-analysis-first-pipeline-for-legacy-code-conversion-0810272eedd5?source=rss------artificial_intelligence-5)**
+> 🔹 **[DeepSeek Just Warned Its Prices Are Going Up.](https://medium.com/@ExplorerAI/deepseek-just-warned-its-prices-are-going-up-8563542b43e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[300,000+ Tech Jobs Are Available](https://medium.com/codetodeploy/300-000-tech-jobs-are-available-cd22eb8cfff4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Meta Built a Coding Agent That Delegates the Mess](https://notesbyken.medium.com/meta-built-a-coding-agent-that-delegates-the-mess-f591c383be56?source=rss------artificial_intelligence-5)**
+> 🔹 **[Going banana](https://medium.com/@gitanjali.diwakar/going-banana-589cae5b6c61?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Stack Every Software Engineer Will Be Using in 2027](https://blog.stackademic.com/the-ai-stack-every-software-engineer-will-be-using-in-2027-27456a61af3a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
