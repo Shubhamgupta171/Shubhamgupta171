@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Identify the Right Design Pattern in an Interview](https://medium.com/@saxena07/how-to-identify-the-right-design-pattern-in-an-interview-8a482d5b08aa?source=rss------backend_development-5)**
-> 🔹 **[The Disinformation Honeypot](https://medium.com/@rohit97.bc/the-disinformation-honeypot-bb02bad60d43?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Stopped Using AI to Brainstorm. That’s When It Got Useful.](https://medium.com/@Elena.Rivera/i-stopped-using-ai-to-brainstorm-thats-when-it-got-useful-c620a00dc567?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why We Built an AI-Native Alternative to Buildout](https://medium.com/@amiteshks/why-we-built-an-ai-native-alternative-to-buildout-edef8ab5a8f8?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI for Data Analysts: A Beginner’s Guide to Using AI Without Replacing Your Analytical Thinking](https://medium.com/@solankianjali770/ai-for-data-analysts-a-beginners-guide-to-using-ai-without-replacing-your-analytical-thinking-928bebc019ef?source=rss------artificial_intelligence-5)**
-> 🔹 **[Vlog On A Blog 07 August 2026](https://medium.com/@sernas986/vlog-on-a-blog-07-august-2026-5af1ab9b9591?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ad Hoc, Incorporated](https://medium.com/@madkatomega/ad-hoc-incorporated-85ed8060ca4f?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Driven Scams, Supply Chain Attacks and Critical Infrastructure Disruptions: What Recent Cybe...](https://medium.com/@jasmitharouthu_58441/ai-driven-scams-supply-chain-attacks-and-critical-infrastructure-disruptions-what-recent-cyber-9af221e17ded?source=rss------artificial_intelligence-5)**
+> 🔹 **[When We Let Go of the Wheel](https://medium.com/@ztw_17935/when-we-let-go-of-the-wheel-890f8888435f?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Stopped Asking Which AI Is Better – Here’s How I Use ChatGPT and Claude Together](https://medium.com/@muta_jikken/i-stopped-asking-which-ai-is-better-heres-how-i-use-chatgpt-and-claude-together-5a70634da11a?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Salespage Erfahrungen: Wie ein deutscher Online-Unternehmer den Launch-Prozess neu definiert...](https://medium.com/@katharinavogt90/ai-salespage-erfahrungen-wie-ein-deutscher-online-unternehmer-den-launch-prozess-neu-definiert-hat-438249c32100?source=rss------artificial_intelligence-5)**
+> 🔹 **[2026 Comprehensive Comparison Guide to 5 Free LLM APIs](https://medium.com/@peng-Stella/2026-comprehensive-comparison-guide-to-5-free-llm-apis-e74c2258f1e4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hardest Part of Repurposing Video Content Happens Before You Even Start](https://medium.com/@wangchuangji903/the-hardest-part-of-repurposing-video-content-happens-before-you-even-start-1471e305caa6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Post 16: Your Card Was Charged.](https://medium.com/@sabbir.nit/post-16-your-card-was-charged-6e57657c1da0?source=rss------backend_development-5)**
+> 🔹 **[I Asked AI to Review My Code for Six Months. Here’s Why It Almost Made Things Worse.](https://medium.com/@nagatomopedro05/i-asked-ai-to-review-my-code-for-six-months-heres-why-it-almost-made-things-worse-415f96cc8e27?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Invisible Stack Behind Every Smooth “Play” Button](https://medium.com/it-chronicles/the-invisible-stack-behind-every-smooth-play-button-97b583085d53?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
