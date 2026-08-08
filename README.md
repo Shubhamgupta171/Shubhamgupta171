@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What Happens When a Customer Returns Just One Item From Their Order?](https://medium.com/@hardiravals90/what-happens-when-a-customer-returns-just-one-item-from-their-order-31bd4326febb?source=rss------backend_development-5)**
-> 🔹 **[Your Startup Has a Patent. Now What?](https://medium.com/@Hashiip/your-startup-has-a-patent-now-what-19615f406fa2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Build vs. Buy in the AI Era](https://medium.com/@emromano1998/build-vs-buy-in-the-ai-era-29a14eaad8a3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The machines aren’t listening to judge- they’re listening to learn.](https://medium.com/@anokwuruchimuanya891/the-machines-arent-listening-to-judge-they-re-listening-to-learn-d5d78a7a28c2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Study Abroad: The Guide I Wish Someone Had Given Me Before I Started Applying
-Studying abroad…](https://medium.com/@sanakanwal402/photo-by-tim-wildsmith-on-unsplash-175105fb87b1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Evals Are the New Unit Tests: The Unsexy Skill That Separates Real AI Products From Demos](https://medium.com/@aboutnayon/evals-are-the-new-unit-tests-the-unsexy-skill-that-separates-real-ai-products-from-demos-56a9d4c19fea?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building a Streamlit UI for My LangGraph AI Agent](https://towardsdatascience.com/building-a-streamlit-ui-for-my-langgraph-ai-agent/)**
-> 🔹 **[☁️ Bilgisayarımı Yakmadan Model Eğitmek: Bulut Bilişim ve Makine Öğrenimi](https://medium.com/@muratastan12345/%EF%B8%8F-bilgisayar%C4%B1m%C4%B1-yakmadan-model-e%C4%9Fitmek-bulut-bili%C5%9Fim-ve-makine-%C3%B6%C4%9Frenimi-fc3389658034?source=rss------artificial_intelligence-5)**
+> 🔹 **[From a Local Prototype to a Live Azure Deployment: Building a Healthcare Platform with K3s](https://medium.com/@shadrackmaku/from-a-local-prototype-to-a-live-azure-deployment-building-a-healthcare-platform-with-k3s-1359d1979a69?source=rss------system_design-5)**
+> 🔹 **[The Inbox Zero Prompt: How Insurance Brokers Automate 80% of Daily Email Support via ChatGPT](https://medium.com/@devislion77/the-inbox-zero-prompt-how-insurance-brokers-automate-80-of-daily-email-support-via-chatgpt-4c500fdb3494?source=rss------artificial_intelligence-5)**
+> 🔹 **[How We Built LaunchMind: A Five-Agent AI System That Turns a Startup Idea Into a Launch Workflo...](https://medium.com/@ameer.hamzafastian3111/how-we-built-launchmind-a-five-agent-ai-system-that-turns-a-startup-idea-into-a-launch-workflow-d6363f354e8f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Climate Change and AI — How They Interact and What Are the Potential Outcomes?](https://medium.com/@rosen.len/climate-change-and-ai-how-they-interact-and-what-are-the-potential-outcomes-2a3ff849ba9a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cybersecurity is mostly human design](https://medium.com/@ikaminu/cybersecurity-is-mostly-human-design-5f4a8f4a7113?source=rss------system_design-5)**
+> 🔹 **[I Asked ChatGPT the Same Question Every Day for 30 Days. Here’s What Actually Changed.](https://medium.com/@yorzyadnin/i-asked-chatgpt-the-same-question-every-day-for-30-days-heres-what-actually-changed-0503c2a5387d?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Just Automated My Morning Trading Routine In 3 Steps — Here’s How](https://medium.com/capital-one-tech/i-just-automated-my-morning-trading-routine-in-3-steps-heres-how-634db647f2ad?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Model Family: Choosing the Right Model for the Job](https://medium.com/@hitesh88it/claude-model-family-choosing-the-right-model-for-the-job-78252665af28?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
