@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Career Trap Nobody Warns You About: Becoming Too Comfortable](https://medium.com/@attaullahzaib/the-career-trap-nobody-warns-you-about-becoming-too-comfortable-77c865afc8c4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mobile App Development: When Your Business Actually Needs One &lpar;And When It Doesn’t&rpar;](https://medium.com/@prisminfoways.seo/mobile-app-development-when-your-business-actually-needs-one-and-when-it-doesnt-ac3d1ab14080?source=rss------artificial_intelligence-5)**
-> 🔹 **[Any Fashion Item To Fashion Show Video: One Workflow Worth a Million, Now for Free](https://xhinker.medium.com/any-fashion-item-to-fashion-show-video-one-workflow-worth-a-million-now-for-free-d2c9164f1ea7?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Small Businesses Can Compete Using AI](https://medium.com/@shahzad_3157/how-small-businesses-can-compete-using-ai-11e6609f0272?source=rss------artificial_intelligence-5)**
-> 🔹 **[$2 Million Book Deal, Then They Accused Him of Using AI](https://medium.com/@tonylab_net/2-million-book-deal-then-they-accused-him-of-using-ai-ac26e3714461?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Don’t Need Another Hospital Management System. We Need Better Hospital Operations.](https://medium.com/@commoneaseops/we-dont-need-another-hospital-management-system-we-need-better-hospital-operations-123afdfee4cd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Better Opus 5, Half the Point](https://medium.com/prompt-pixel/better-opus-5-half-the-point-5238d9b9d1be?source=rss------artificial_intelligence-5)**
-> 🔹 **[How MediaTek Is Building Software-defined Vehicles](https://medium.com/@tzane499/how-mediatek-is-building-software-defined-vehicles-e2da2f756afa?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Happens When a Customer Returns Just One Item From Their Order?](https://medium.com/@hardiravals90/what-happens-when-a-customer-returns-just-one-item-from-their-order-31bd4326febb?source=rss------backend_development-5)**
+> 🔹 **[Your Startup Has a Patent. Now What?](https://medium.com/@Hashiip/your-startup-has-a-patent-now-what-19615f406fa2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Build vs. Buy in the AI Era](https://medium.com/@emromano1998/build-vs-buy-in-the-ai-era-29a14eaad8a3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The machines aren’t listening to judge- they’re listening to learn.](https://medium.com/@anokwuruchimuanya891/the-machines-arent-listening-to-judge-they-re-listening-to-learn-d5d78a7a28c2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Study Abroad: The Guide I Wish Someone Had Given Me Before I Started Applying
+Studying abroad…](https://medium.com/@sanakanwal402/photo-by-tim-wildsmith-on-unsplash-175105fb87b1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Evals Are the New Unit Tests: The Unsexy Skill That Separates Real AI Products From Demos](https://medium.com/@aboutnayon/evals-are-the-new-unit-tests-the-unsexy-skill-that-separates-real-ai-products-from-demos-56a9d4c19fea?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building a Streamlit UI for My LangGraph AI Agent](https://towardsdatascience.com/building-a-streamlit-ui-for-my-langgraph-ai-agent/)**
+> 🔹 **[☁️ Bilgisayarımı Yakmadan Model Eğitmek: Bulut Bilişim ve Makine Öğrenimi](https://medium.com/@muratastan12345/%EF%B8%8F-bilgisayar%C4%B1m%C4%B1-yakmadan-model-e%C4%9Fitmek-bulut-bili%C5%9Fim-ve-makine-%C3%B6%C4%9Frenimi-fc3389658034?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
