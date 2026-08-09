@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[From a Local Prototype to a Live Azure Deployment: Building a Healthcare Platform with K3s](https://medium.com/@shadrackmaku/from-a-local-prototype-to-a-live-azure-deployment-building-a-healthcare-platform-with-k3s-1359d1979a69?source=rss------system_design-5)**
-> 🔹 **[The Inbox Zero Prompt: How Insurance Brokers Automate 80% of Daily Email Support via ChatGPT](https://medium.com/@devislion77/the-inbox-zero-prompt-how-insurance-brokers-automate-80-of-daily-email-support-via-chatgpt-4c500fdb3494?source=rss------artificial_intelligence-5)**
-> 🔹 **[How We Built LaunchMind: A Five-Agent AI System That Turns a Startup Idea Into a Launch Workflo...](https://medium.com/@ameer.hamzafastian3111/how-we-built-launchmind-a-five-agent-ai-system-that-turns-a-startup-idea-into-a-launch-workflow-d6363f354e8f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Climate Change and AI — How They Interact and What Are the Potential Outcomes?](https://medium.com/@rosen.len/climate-change-and-ai-how-they-interact-and-what-are-the-potential-outcomes-2a3ff849ba9a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cybersecurity is mostly human design](https://medium.com/@ikaminu/cybersecurity-is-mostly-human-design-5f4a8f4a7113?source=rss------system_design-5)**
-> 🔹 **[I Asked ChatGPT the Same Question Every Day for 30 Days. Here’s What Actually Changed.](https://medium.com/@yorzyadnin/i-asked-chatgpt-the-same-question-every-day-for-30-days-heres-what-actually-changed-0503c2a5387d?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Just Automated My Morning Trading Routine In 3 Steps — Here’s How](https://medium.com/capital-one-tech/i-just-automated-my-morning-trading-routine-in-3-steps-heres-how-634db647f2ad?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Model Family: Choosing the Right Model for the Job](https://medium.com/@hitesh88it/claude-model-family-choosing-the-right-model-for-the-job-78252665af28?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Questions AI &lpar;Apparently&rpar; Didn’t Need Answered](https://medium.com/pubdogproject/the-questions-ai-apparently-didnt-need-answered-6b2c309176e4?source=rss------artificial_intelligence-5)**
+> 🔹 **[When One Click Can Expose Enterprise Data: The Growing Security Risk of AI Assistants](https://medium.com/@jasmitharouthu_58441/when-one-click-can-expose-enterprise-data-the-growing-security-risk-of-ai-assistants-9fb705dc6e26?source=rss------artificial_intelligence-5)**
+> 🔹 **[Compiss, Coded On Claude Code Proves Vibe Coding Works for Real Products](https://techaiguild.aibucket.org/compiss-coded-on-claude-code-proves-vibe-coding-works-for-real-products-69f8a484453b?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Turn Product Photos into Clear Assembly Work Instructions](https://medium.com/@localtopai/how-to-turn-product-photos-into-clear-assembly-work-instructions-f8482e34b87e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Membuka Tulisan seperti AI dari Spotify](https://medium.com/berbagi-berdampak/membuka-tulisan-seperti-ai-dari-spotify-1fc66ab7f548?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Geopolitics of Compute: Why Nations Are Hoarding GPUs](https://medium.com/@ensarmaxhuni/the-geopolitics-of-compute-why-nations-are-hoarding-gpus-a6ff62cf528c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The EU AI Act’s Transparency Deadline Just Passed.](https://blog.valqore.io/the-eu-ai-acts-transparency-deadline-just-passed-425b6e548cb7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Beauty That Makes Me Feel Small](https://medium.com/@finlonger/the-beauty-that-makes-me-feel-small-688b1164b0c3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
