@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[A small outline appears here, just before any form begins to lean.](https://medium.com/@Myojin.research/a-small-outline-appears-here-just-before-any-form-begins-to-lean-cb2414188ddb?source=rss------artificial_intelligence-5)**
-> 🔹 **[A comprehensive database of failures in Artificial Intelligence: AI Incident Database](https://medium.com/@sonuadhikari/a-comprehensive-database-of-failures-in-artificial-intelligence-ai-incident-database-6905aa273694?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI for Cocktail Parties &lpar;2026 Edition&rpar;](https://medium.com/on-technology/ai-for-cocktail-parties-2026-edition-3b10e7504db7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Extend GitHub Copilot: A Technical Deep Dive Into the Copilot SDK and Its Rust Runtime](https://medium.com/@daverendon/extend-github-copilot-a-technical-deep-dive-into-the-copilot-sdk-and-its-rust-runtime-f4c7423fb080?source=rss------artificial_intelligence-5)**
-> 🔹 **[Which AI Agent Should You Actually Use in 2026](https://alfiestips.medium.com/which-ai-agent-should-you-actually-use-in-2026-4a4db6af3733?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Kind of Consciousness Could an AI Have?](https://medium.com/@donalex_74690/what-kind-of-consciousness-could-an-ai-have-1c63822d6303?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenClaw Nedir? Bilgisayarınızda Yaşayan Kişisel Yapay Zeka Asistanınız](https://medium.com/@yigitataman1/openclaw-nedir-bilgisayar%C4%B1n%C4%B1zda-ya%C5%9Fayan-ki%C5%9Fisel-yapay-zeka-asistan%C4%B1n%C4%B1z-6f54e5f925db?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Eating Books](https://medium.com/the-daily-glitch/ai-is-eating-books-4719a6695629?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bir Yazılımcının Matematik Bilmesi Gerçekten Gerekli mi?](https://medium.com/@ademucarr/bir-yaz%C4%B1l%C4%B1mc%C4%B1n%C4%B1n-matematik-bilmesi-ger%C3%A7ekten-gerekli-mi-823b1a62d84d?source=rss------artificial_intelligence-5)**
+> 🔹 **[NVIDIA NOOA: Object Oriented Programming for AI Agents](https://medium.com/data-science-in-your-pocket/nvidia-nooa-object-oriented-programming-for-ai-agents-f306f17190df?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Power of Small Habits: How Tiny Changes Can Transform Your Life](https://medium.com/@alihatem2000/the-power-of-small-habits-how-tiny-changes-can-transform-your-life-5687f21ae626?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Use MiniMax H3 for Free : Uncensored AI Video Generation, No GPU Required](https://medium.com/data-science-in-your-pocket/how-to-use-minimax-h3-for-free-uncensored-ai-video-generation-no-gpu-required-2d522d65cd5e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building an AI Loan Default Prediction System with Flask and Machine Learning](https://medium.com/@inayataresha/building-an-ai-loan-default-prediction-system-with-flask-and-machine-learning-2bc13d5064b2?source=rss------artificial_intelligence-5)**
+> 🔹 **[MediLens-360: A Hybrid AI Architecture Bridging Cloud LLMs and Domain-Specific Transfer Learnin...](https://medium.com/@shubham.patil_46694/medilens-360-a-hybrid-ai-architecture-bridging-cloud-llms-and-domain-specific-transfer-learning-2a56500495c8?source=rss------artificial_intelligence-5)**
+> 🔹 **[From REINFORCE to PPO: Every Policy Gradient Trick Is a Variance Story](https://medium.com/@candemir13/from-reinforce-to-ppo-every-policy-gradient-trick-is-a-variance-story-c0a0f4419bb5?source=rss------artificial_intelligence-5)**
+> 🔹 **[95% of Generative AI Pilots Are Failing](https://medium.com/ai-ai-oh/95-of-generative-ai-pilots-are-failing-90c387d43975?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
