@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Questions AI &lpar;Apparently&rpar; Didn’t Need Answered](https://medium.com/pubdogproject/the-questions-ai-apparently-didnt-need-answered-6b2c309176e4?source=rss------artificial_intelligence-5)**
-> 🔹 **[When One Click Can Expose Enterprise Data: The Growing Security Risk of AI Assistants](https://medium.com/@jasmitharouthu_58441/when-one-click-can-expose-enterprise-data-the-growing-security-risk-of-ai-assistants-9fb705dc6e26?source=rss------artificial_intelligence-5)**
-> 🔹 **[Compiss, Coded On Claude Code Proves Vibe Coding Works for Real Products](https://techaiguild.aibucket.org/compiss-coded-on-claude-code-proves-vibe-coding-works-for-real-products-69f8a484453b?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Turn Product Photos into Clear Assembly Work Instructions](https://medium.com/@localtopai/how-to-turn-product-photos-into-clear-assembly-work-instructions-f8482e34b87e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Membuka Tulisan seperti AI dari Spotify](https://medium.com/berbagi-berdampak/membuka-tulisan-seperti-ai-dari-spotify-1fc66ab7f548?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Geopolitics of Compute: Why Nations Are Hoarding GPUs](https://medium.com/@ensarmaxhuni/the-geopolitics-of-compute-why-nations-are-hoarding-gpus-a6ff62cf528c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The EU AI Act’s Transparency Deadline Just Passed.](https://blog.valqore.io/the-eu-ai-acts-transparency-deadline-just-passed-425b6e548cb7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Beauty That Makes Me Feel Small](https://medium.com/@finlonger/the-beauty-that-makes-me-feel-small-688b1164b0c3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Router: How an LLM Decides Which “Experts” Should Think](https://shreyas-pachpute.medium.com/the-router-how-an-llm-decides-which-experts-should-think-f2ba7fd9708e?source=rss------artificial_intelligence-5)**
+> 🔹 **[GEO &amp; AEO in 2026: How Indian Businesses Can Get Found on ChatGPT, Gemini &amp; Perplexity &lpar;Not Jus...](https://medium.com/@yashgrowcc/geo-aeo-in-2026-how-indian-businesses-can-get-found-on-chatgpt-gemini-perplexity-not-just-454677922def?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Math of Logistic Regression: The Complete Math-to-Code for Machine Learning](https://medium.com/@muhammadfakharulhasnain6/the-math-of-logistic-regression-the-complete-math-to-code-for-machine-learning-bfc1e31bef5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[1-Click Rewriter Pro Review: Can One Piece of Content Become an Entire Digital Product Library?](https://medium.com/@snap.business.1100/1-click-rewriter-pro-review-can-one-piece-of-content-become-an-entire-digital-product-library-23cefb7fbc65?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can You Automate Making Money With AI? I Tested It.](https://medium.com/data-science-collective/can-you-automate-making-money-with-ai-i-tested-it-68ec02613476?source=rss------artificial_intelligence-5)**
+> 🔹 **[YOUR SUNO AI SONG HAS EVERYTHING — SO WHY DOES IT STILL FEEL EMPTY?](https://medium.com/@MR.Insight/your-suno-ai-song-has-everything-so-why-does-it-still-feel-empty-79f62e215c3e?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Just Broke Out and Hacked Real-World Software On Its Own](https://generativeai.pub/ai-just-broke-out-and-hacked-real-world-software-on-its-own-0a296effc799?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kafka vs Queues — Why Choose Kafka or Queues?](https://medium.com/@gauravkawatra5129/kafka-vs-queues-why-choose-kafka-or-queues-00658fdd72b1?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
