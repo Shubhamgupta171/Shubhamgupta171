@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Bir Yazılımcının Matematik Bilmesi Gerçekten Gerekli mi?](https://medium.com/@ademucarr/bir-yaz%C4%B1l%C4%B1mc%C4%B1n%C4%B1n-matematik-bilmesi-ger%C3%A7ekten-gerekli-mi-823b1a62d84d?source=rss------artificial_intelligence-5)**
-> 🔹 **[NVIDIA NOOA: Object Oriented Programming for AI Agents](https://medium.com/data-science-in-your-pocket/nvidia-nooa-object-oriented-programming-for-ai-agents-f306f17190df?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Power of Small Habits: How Tiny Changes Can Transform Your Life](https://medium.com/@alihatem2000/the-power-of-small-habits-how-tiny-changes-can-transform-your-life-5687f21ae626?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Use MiniMax H3 for Free : Uncensored AI Video Generation, No GPU Required](https://medium.com/data-science-in-your-pocket/how-to-use-minimax-h3-for-free-uncensored-ai-video-generation-no-gpu-required-2d522d65cd5e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building an AI Loan Default Prediction System with Flask and Machine Learning](https://medium.com/@inayataresha/building-an-ai-loan-default-prediction-system-with-flask-and-machine-learning-2bc13d5064b2?source=rss------artificial_intelligence-5)**
-> 🔹 **[MediLens-360: A Hybrid AI Architecture Bridging Cloud LLMs and Domain-Specific Transfer Learnin...](https://medium.com/@shubham.patil_46694/medilens-360-a-hybrid-ai-architecture-bridging-cloud-llms-and-domain-specific-transfer-learning-2a56500495c8?source=rss------artificial_intelligence-5)**
-> 🔹 **[From REINFORCE to PPO: Every Policy Gradient Trick Is a Variance Story](https://medium.com/@candemir13/from-reinforce-to-ppo-every-policy-gradient-trick-is-a-variance-story-c0a0f4419bb5?source=rss------artificial_intelligence-5)**
-> 🔹 **[95% of Generative AI Pilots Are Failing](https://medium.com/ai-ai-oh/95-of-generative-ai-pilots-are-failing-90c387d43975?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why More Stimulation Leaves You Feeling Empty](https://medium.com/@charlenetan2020/why-more-stimulation-leaves-you-feeling-empty-de94738f301a?source=rss------artificial_intelligence-5)**
+> 🔹 **[HHAI 2026 Study Shows Heavy AI Use Weakens Logical Reasoning Gains](https://medium.com/@vikramlingam/hhai-2026-study-shows-heavy-ai-use-weakens-logical-reasoning-gains-db6ae9885569?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 5 AI Automation Stacks Saving Solopreneurs 25+ Hours Every Week](https://medium.com/the-times-of-chronicle/the-5-ai-automation-stacks-saving-solopreneurs-25-hours-every-week-528f3b044dd4?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents Explained: How They Are Changing the Future of Technology](https://medium.com/@harshadayewale11/ai-agents-explained-how-they-are-changing-the-future-of-technology-b4e1292621d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The New Shape of KPIs in the Age of AI](https://medium.com/@bervice/the-new-shape-of-kpis-in-the-age-of-ai-83c507c86738?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 Funny Face Swap Video Ideas You Can Make for TikTok](https://medium.com/@hut296859/7-funny-face-swap-video-ideas-you-can-make-for-tiktok-b089c8f91892?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Used Machine Learning to Predict Concert Ticket Prices for My Master’s Degree — Here’s What t...](https://medium.com/@ticknexus/i-used-machine-learning-to-predict-concert-ticket-prices-for-my-masters-degree-here-s-what-the-ab5086c24f17?source=rss------artificial_intelligence-5)**
+> 🔹 **[Our AI Future: Would You Like To Play A Game?](https://medium.com/@ghrosenb/our-ai-future-would-you-like-to-play-a-game-57648c9526c5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
