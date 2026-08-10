@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How Businesses Can Build a Smarter Digital Transformation Strategy](https://medium.com/@sailotech.com/how-businesses-can-build-a-smarter-digital-transformation-strategy-71ef282a2288?source=rss------artificial_intelligence-5)**
-> 🔹 **[What I Learned Building an AI-Powered Android Malware Detector](https://medium.com/@jayesh17296/what-i-learned-building-an-ai-powered-android-malware-detector-c5915307b9dc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Every Cybersecurity Professional Should Learn AI](https://medium.com/@gunjan.digicrome/why-every-cybersecurity-professional-should-learn-ai-3b8857873b93?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Create a Month of Social Media Content in One Day Using AI](https://medium.com/@contactdigitalaimarket/how-to-create-a-month-of-social-media-content-in-one-day-using-ai-7ca4a0c2d445?source=rss------artificial_intelligence-5)**
-> 🔹 **[When the AI Safety Test Becomes the Threat](https://grace-001.medium.com/when-the-ai-safety-test-becomes-the-threat-11891f602380?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Literacy Is Becoming a Basic Career Skill](https://medium.com/@pragatiwork14/why-ai-literacy-is-becoming-a-basic-career-skill-93a083b21b81?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Vector Retrieval Alone Fails for Accurate Data Analytics?](https://medium.com/@tanandapriya02/why-vector-retrieval-alone-fails-for-accurate-data-analytics-99eec225dc33?source=rss------artificial_intelligence-5)**
-> 🔹 **[An AI Agent Was Asked to Book a Gym Class. It Hacked the Website Instead.](https://medium.com/@inprogrammer/an-ai-agent-was-asked-to-book-a-gym-class-it-hacked-the-website-instead-68266d4423ad?source=rss------artificial_intelligence-5)**
+> 🔹 **[60+ Scenario-Based System Design Interview Questions Every Engineer Should Know &lpar;Part 2&rpar;](https://medium.com/lets-code-future/60-scenario-based-system-design-interview-questions-every-engineer-should-know-part-2-819301ef1c94?source=rss------system_design-5)**
+> 🔹 **[The Agile Productivity Paradox: Why AI-Powered Teams Aren’t Always Delivering Faster](https://medium.com/@alejandraarochaovalles/the-agile-productivity-paradox-why-ai-powered-teams-arent-always-delivering-faster-048901858eb1?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Five-Year Rule](https://medium.com/@luna.sterling19/the-five-year-rule-22847cac0329?source=rss------artificial_intelligence-5)**
+> 🔹 **[Intent-Driven Agentic Development](https://rkathir.medium.com/intent-driven-agentic-development-99f6be1e2eaf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Financial Literacy Matters in the Digital Economy](https://medium.com/@mnmstream13/why-financial-literacy-matters-in-the-digital-economy-9a1c7b262d85?source=rss------artificial_intelligence-5)**
+> 🔹 **[Grok Imagine Image 2.0 Launch: New Editing Tools Rank #2 on Arena](https://medium.com/no-time/grok-imagine-image-2-0-launch-new-editing-tools-rank-2-on-arena-5415f984d9ff?source=rss------artificial_intelligence-5)**
+> 🔹 **[RIP brand PDFs: Why you need machine-readable brand guidelines in 2026 and beyond](https://medium.com/@filestage/rip-brand-pdfs-why-you-need-machine-readable-brand-guidelines-in-2026-and-beyond-a465f211a9fb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Did It. Now Who’s Legally Responsible?](https://medium.com/the-control-grid/ai-agent-liability-legal-defense-87935dc56191?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
