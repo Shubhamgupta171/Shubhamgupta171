@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[60+ Scenario-Based System Design Interview Questions Every Engineer Should Know &lpar;Part 2&rpar;](https://medium.com/lets-code-future/60-scenario-based-system-design-interview-questions-every-engineer-should-know-part-2-819301ef1c94?source=rss------system_design-5)**
-> 🔹 **[The Agile Productivity Paradox: Why AI-Powered Teams Aren’t Always Delivering Faster](https://medium.com/@alejandraarochaovalles/the-agile-productivity-paradox-why-ai-powered-teams-arent-always-delivering-faster-048901858eb1?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Five-Year Rule](https://medium.com/@luna.sterling19/the-five-year-rule-22847cac0329?source=rss------artificial_intelligence-5)**
-> 🔹 **[Intent-Driven Agentic Development](https://rkathir.medium.com/intent-driven-agentic-development-99f6be1e2eaf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Financial Literacy Matters in the Digital Economy](https://medium.com/@mnmstream13/why-financial-literacy-matters-in-the-digital-economy-9a1c7b262d85?source=rss------artificial_intelligence-5)**
-> 🔹 **[Grok Imagine Image 2.0 Launch: New Editing Tools Rank #2 on Arena](https://medium.com/no-time/grok-imagine-image-2-0-launch-new-editing-tools-rank-2-on-arena-5415f984d9ff?source=rss------artificial_intelligence-5)**
-> 🔹 **[RIP brand PDFs: Why you need machine-readable brand guidelines in 2026 and beyond](https://medium.com/@filestage/rip-brand-pdfs-why-you-need-machine-readable-brand-guidelines-in-2026-and-beyond-a465f211a9fb?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Did It. Now Who’s Legally Responsible?](https://medium.com/the-control-grid/ai-agent-liability-legal-defense-87935dc56191?source=rss------artificial_intelligence-5)**
+> 🔹 **[Python for Data Science — Mini Project: End-to-End Beginner ML Pipeline](https://sudhamsr.medium.com/python-for-data-science-mini-project-end-to-end-beginner-ml-pipeline-8eeb3f4ce38e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Chapter 6](https://medium.com/@blackshadowteam.net/chapter-6-a32bda957af2?source=rss------artificial_intelligence-5)**
+> 🔹 **[DNA Data Storage: What a Software Engineer Learns Looking Under the Hood](https://medium.com/@anuran34/dna-data-storage-what-a-software-engineer-learns-looking-under-the-hood-a686fd2645dd?source=rss------system_design-5)**
+> 🔹 **[Intelligence Is Now a Resource. The Hard Part Is Allocating It.](https://medium.com/@savantisai/intelligence-is-now-a-resource-the-hard-part-is-allocating-it-2f273aadd61e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Memory Problem](https://biswajit-mohapatra.medium.com/the-ai-memory-problem-3c78a438ad1d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Upload Feature Worked Perfectly. That Was the Problem](https://medium.com/@codechanakya/the-upload-feature-worked-perfectly-that-was-the-problem-818675fcf86e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Joining a project mid-development: My approach to learning and delivering features](https://medium.com/@tyingram570/joining-a-project-mid-development-my-approach-to-learning-and-delivering-features-259d37653e1d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Understanding Big-O instead of memorizing it](https://medium.com/@itsanp/understanding-big-o-instead-of-memorizing-it-2db97c0fa7af?source=rss------data_structures-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
