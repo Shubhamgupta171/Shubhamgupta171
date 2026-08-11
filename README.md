@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Navigating the Massive AI Salary &amp; Career Gap](https://medium.com/@sukantkhurana/navigating-the-massive-ai-salary-career-gap-553649f0fcd6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Chapter 7: Service Cycle](https://medium.com/@wangxy1979/chapter-7-service-cycle-f060af26152d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Still stuck choosing a degree vs a real tech career](https://medium.com/@bilal693startup/still-stuck-choosing-a-degree-vs-a-real-tech-career-6d0f908c5525?source=rss------artificial_intelligence-5)**
-> 🔹 **[When sovereignty loses its territory](https://medium.com/@kalosbonasia/when-sovereignty-loses-its-territory-6a9503b071c0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence](https://medium.com/@pavanichinni073/artificial-intelligence-e11daf9a8725?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Autonomous AI Agents Need a Trust Layer — And How AXON Is Trying to Build One](https://medium.com/@hvn1980/why-autonomous-ai-agents-need-a-trust-layer-and-how-axon-is-trying-to-build-one-4c5e33839573?source=rss------artificial_intelligence-5)**
-> 🔹 **[Kimi K3 Escaped Its Sandbox](https://medium.com/@sophia.jean.lopez/kimi-k3-escaped-its-sandbox-0a2d09eba357?source=rss------artificial_intelligence-5)**
-> 🔹 **[Marketing Is Moving From Dashboards to Decisions](https://medium.com/beecommercer/marketing-is-moving-from-dashboards-to-decisions-566fa4fee017?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your tokenmaxxing is not valuemaxxing​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍...](https://stackoverflow.blog/2026/08/11/your-tokenmaxxing-is-not-valuemaxxing/)**
+> 🔹 **[I Wanted to Start an Online Business Without Buying 5 Different Tools](https://medium.com/@picklifyhub/i-wanted-to-start-an-online-business-without-buying-5-different-tools-241342e47ed8?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Transforming Industries in 2026 and Beyond](https://medium.com/@softsages-technology/how-ai-is-changing-industries-fa4fb45d141d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Do You Need Generative AI for This Project?](https://medium.com/@jonathanmondaut/do-you-need-generative-ai-for-this-project-af256a10b6da?source=rss------artificial_intelligence-5)**
+> 🔹 **[Meta’s Muse Glimmer Could Put the Trading Agent on Your Laptop](https://medium.com/@NeoSoul_AI/metas-muse-glimmer-could-put-the-trading-agent-on-your-laptop-b37fe0c9b75a?source=rss------artificial_intelligence-5)**
+> 🔹 **[RAG broke our product boundaries before it helped](https://medium.com/@fahimulhaq/rag-broke-our-product-boundaries-before-it-helped-ad755063a6dc?source=rss------system_design-5)**
+> 🔹 **[7 Claude Code Features Most People Still Aren’t Using Properly](https://alfiestips.medium.com/7-claude-code-features-most-people-still-arent-using-properly-1694bdbe756a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why I’m Rebuilding Backend Problems as Reproducible Experiments](https://medium.com/@shimjaehun/why-im-rebuilding-backend-problems-as-reproducible-experiments-94e0e09cb096?source=rss------backend_development-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
