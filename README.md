@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Finally Started Taking Laravel Seriously: Here’s How the Framework Actually Works](https://medium.com/@olateju202/i-finally-started-taking-laravel-seriously-heres-how-the-framework-actually-works-f53391187936?source=rss------backend_development-5)**
-> 🔹 **[The Interpreter of Misremembered Names](https://medium.com/@yuchuantseng/the-interpreter-of-misremembered-names-2c21ff8aa1a7?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI can scale faster than truth can catch it.](https://medium.com/@aiimpactlab/ai-can-scale-faster-than-truth-can-catch-it-9ec91bd2c49c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Vector Database Is Losing to an Algorithm From 1994](https://medium.com/data-and-beyond/your-vector-database-is-losing-to-an-algorithm-from-1994-e8fe79868c45?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Won’t Replace You. But Someone Using AI Might](https://medium.com/@Artiscribe/ai-wont-replace-you-but-someone-using-ai-might-7f4b680cac41?source=rss------artificial_intelligence-5)**
-> 🔹 **[Qwen 3.8 Benchmarks: What the Numbers Actually Say](https://medium.com/practical-llm-systems/qwen-3-8-benchmarks-what-the-numbers-actually-say-4eeb8885ce70?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Asked AI One Question. Its Answer Changed the Question.](https://medium.com/@theus12358/i-asked-ai-one-question-its-answer-changed-the-question-6e103b23ec86?source=rss------artificial_intelligence-5)**
-> 🔹 **[Suno AI Keeps Ignoring Half Your Prompt : Here’s the Structure That Actually Works](https://james-palm.medium.com/suno-ai-keeps-ignoring-half-your-prompt-heres-the-structure-that-actually-works-8cfd47de2c52?source=rss------artificial_intelligence-5)**
+> 🔹 **[Five AI reviews read my gate commands. The sixth ran them.](https://medium.com/aiarch-dev/five-ai-reviews-read-my-gate-commands-the-sixth-ran-them-eabadf264c82?source=rss------artificial_intelligence-5)**
+> 🔹 **[Teaching an Intrusion Detection System to Recognize What It’s Never Seen](https://medium.com/@gaitondechetana/teaching-an-intrusion-detection-system-to-recognize-what-its-never-seen-1271daae3154?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Won’t Replace Engineers. Engineers Who Control AI Will](https://medium.com/@sthomason/ai-wont-replace-engineers-engineers-who-control-ai-will-f262c4016298?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built &quot;The Ontology of Madonna&quot; with AWS Context Ontology Accelerator](https://acsilv.medium.com/i-built-the-ontology-of-madonna-with-aws-context-ontology-accelerator-a78701809cce?source=rss------artificial_intelligence-5)**
+> 🔹 **[Big Tech Is Hiring Developers Back Instead of AI. So, What Happened?](https://sergeykleftzov.medium.com/big-tech-is-hiring-developers-back-instead-of-ai-so-what-happened-a9bed3c84a57?source=rss------artificial_intelligence-5)**
+> 🔹 **[How 1-bit models could bring AI back to your pocket](https://medium.com/enrique-dans/how-1-bit-models-could-bring-ai-back-to-your-pocket-3545ddc30901?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Problem Isn’t That AI Is Cold. It’s That Human Pain Was Never Part of the Equation.](https://medium.com/@joesmith_54437/the-problem-isnt-that-ai-is-cold-it-s-that-human-pain-was-never-part-of-the-equation-fb78db9d244b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Make This AI Switch If You Don’t Want to Lose Your Thinking Skills](https://medium.com/a-microbiome-scientist-at-large/make-this-ai-switch-if-you-dont-want-to-lose-your-thinking-skills-325ca6d8ab61?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
