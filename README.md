@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Python for Data Science — Mini Project: End-to-End Beginner ML Pipeline](https://sudhamsr.medium.com/python-for-data-science-mini-project-end-to-end-beginner-ml-pipeline-8eeb3f4ce38e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Chapter 6](https://medium.com/@blackshadowteam.net/chapter-6-a32bda957af2?source=rss------artificial_intelligence-5)**
-> 🔹 **[DNA Data Storage: What a Software Engineer Learns Looking Under the Hood](https://medium.com/@anuran34/dna-data-storage-what-a-software-engineer-learns-looking-under-the-hood-a686fd2645dd?source=rss------system_design-5)**
-> 🔹 **[Intelligence Is Now a Resource. The Hard Part Is Allocating It.](https://medium.com/@savantisai/intelligence-is-now-a-resource-the-hard-part-is-allocating-it-2f273aadd61e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Memory Problem](https://biswajit-mohapatra.medium.com/the-ai-memory-problem-3c78a438ad1d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Upload Feature Worked Perfectly. That Was the Problem](https://medium.com/@codechanakya/the-upload-feature-worked-perfectly-that-was-the-problem-818675fcf86e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Joining a project mid-development: My approach to learning and delivering features](https://medium.com/@tyingram570/joining-a-project-mid-development-my-approach-to-learning-and-delivering-features-259d37653e1d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Understanding Big-O instead of memorizing it](https://medium.com/@itsanp/understanding-big-o-instead-of-memorizing-it-2db97c0fa7af?source=rss------data_structures-5)**
+> 🔹 **[Navigating the Massive AI Salary &amp; Career Gap](https://medium.com/@sukantkhurana/navigating-the-massive-ai-salary-career-gap-553649f0fcd6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Chapter 7: Service Cycle](https://medium.com/@wangxy1979/chapter-7-service-cycle-f060af26152d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Still stuck choosing a degree vs a real tech career](https://medium.com/@bilal693startup/still-stuck-choosing-a-degree-vs-a-real-tech-career-6d0f908c5525?source=rss------artificial_intelligence-5)**
+> 🔹 **[When sovereignty loses its territory](https://medium.com/@kalosbonasia/when-sovereignty-loses-its-territory-6a9503b071c0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence](https://medium.com/@pavanichinni073/artificial-intelligence-e11daf9a8725?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Autonomous AI Agents Need a Trust Layer — And How AXON Is Trying to Build One](https://medium.com/@hvn1980/why-autonomous-ai-agents-need-a-trust-layer-and-how-axon-is-trying-to-build-one-4c5e33839573?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kimi K3 Escaped Its Sandbox](https://medium.com/@sophia.jean.lopez/kimi-k3-escaped-its-sandbox-0a2d09eba357?source=rss------artificial_intelligence-5)**
+> 🔹 **[Marketing Is Moving From Dashboards to Decisions](https://medium.com/beecommercer/marketing-is-moving-from-dashboards-to-decisions-566fa4fee017?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
