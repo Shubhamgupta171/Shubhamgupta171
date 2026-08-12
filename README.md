@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Five AI reviews read my gate commands. The sixth ran them.](https://medium.com/aiarch-dev/five-ai-reviews-read-my-gate-commands-the-sixth-ran-them-eabadf264c82?source=rss------artificial_intelligence-5)**
-> 🔹 **[Teaching an Intrusion Detection System to Recognize What It’s Never Seen](https://medium.com/@gaitondechetana/teaching-an-intrusion-detection-system-to-recognize-what-its-never-seen-1271daae3154?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Won’t Replace Engineers. Engineers Who Control AI Will](https://medium.com/@sthomason/ai-wont-replace-engineers-engineers-who-control-ai-will-f262c4016298?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built &quot;The Ontology of Madonna&quot; with AWS Context Ontology Accelerator](https://acsilv.medium.com/i-built-the-ontology-of-madonna-with-aws-context-ontology-accelerator-a78701809cce?source=rss------artificial_intelligence-5)**
-> 🔹 **[Big Tech Is Hiring Developers Back Instead of AI. So, What Happened?](https://sergeykleftzov.medium.com/big-tech-is-hiring-developers-back-instead-of-ai-so-what-happened-a9bed3c84a57?source=rss------artificial_intelligence-5)**
-> 🔹 **[How 1-bit models could bring AI back to your pocket](https://medium.com/enrique-dans/how-1-bit-models-could-bring-ai-back-to-your-pocket-3545ddc30901?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Problem Isn’t That AI Is Cold. It’s That Human Pain Was Never Part of the Equation.](https://medium.com/@joesmith_54437/the-problem-isnt-that-ai-is-cold-it-s-that-human-pain-was-never-part-of-the-equation-fb78db9d244b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Make This AI Switch If You Don’t Want to Lose Your Thinking Skills](https://medium.com/a-microbiome-scientist-at-large/make-this-ai-switch-if-you-dont-want-to-lose-your-thinking-skills-325ca6d8ab61?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tried to Build Software During a Six-Hour Drive With a Coding Agent](https://medium.com/@viajesubmarino/i-tried-to-build-software-during-a-six-hour-drive-with-a-coding-agent-567560c1a12c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 1-Star Review That Hurts One Author Can Help Another Write a Better Book.](https://medium.com/writer-journal/the-1-star-review-that-hurts-one-author-can-help-another-write-a-better-book-553bfa5de662?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Only ChatGPT Prompt Framework You Need &lpar;With 100,000 Examples&rpar;](https://medium.com/@tamilgaming112233/the-only-chatgpt-prompt-framework-you-need-with-100-000-examples-b7f1e4f46b3f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Forget Winning the Startup Game. Make Money From Everyone Playing It.](https://softwaredmind.medium.com/forget-winning-the-startup-game-make-money-from-everyone-playing-it-422fbdb326a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Boyfriend Isn’t the Problem. The Bar Is.](https://medium.com/@thepull/the-ai-boyfriend-isnt-the-problem-the-bar-is-f939be7079aa?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stateless MCP Explained: Why MCP Needed to Become Stateless?](https://devopstronaut.com/stateless-mcp-explained-why-mcp-needed-to-become-stateless-48679d7116c7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Accidental Afterthoughts](https://jinankb.medium.com/the-accidental-afterthoughts-cde79ab0a12d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Multi-Agent Systems: From Specialized Agents to Governed Distributed AI Fleets](https://medium.com/@nandannanda01/multi-agent-systems-from-specialized-agents-to-governed-distributed-ai-fleets-92266084dca5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
