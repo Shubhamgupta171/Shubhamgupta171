@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How I Actually Made Money on YouTube Using AI &lpar;And Why Most People Fail&rpar;](https://medium.com/@shahidabdulla205/how-i-actually-made-money-on-youtube-using-ai-and-why-most-people-fail-8375c5a5dee0?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested an AI Presentation Workflow From Raw Notes to Final Deck](https://medium.com/illumination/i-tested-an-ai-presentation-workflow-from-raw-notes-to-final-deck-c619a0b5f9d7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Death by Architecture Diagram](https://medium.com/the-grand-game-of-software-engineering/death-by-architecture-diagram-8911f266f188?source=rss------artificial_intelligence-5)**
-> 🔹 **[Java Backend Journal #01 — OOP’yi Ezberlemeden Öğrenmek](https://medium.com/@oguzzh4nn/java-backend-journal-01-oopyi-ezberlemeden-%C3%B6%C4%9Frenmek-4d149578447c?source=rss------backend_development-5)**
-> 🔹 **[Your Speech-to-Text Nails the Demo and Falls Apart in the Field](https://forasoft.medium.com/your-speech-to-text-nails-the-demo-and-falls-apart-in-the-field-e77ca183b169?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Code That Changed Everything: How Six Prime Numbers Solved a 37-Year Problem in AI](https://medium.com/@frankmorales_91352/the-code-that-changed-everything-how-six-prime-numbers-solved-a-37-year-problem-in-ai-3cece9fadd9e?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Can You Do With a Computer Science Degree? Best Programs, Jobs, and Salaries &lpar;2026&rpar;](https://medium.com/@heelextension/what-can-you-do-with-a-computer-science-degree-best-programs-jobs-and-salaries-2026-7c06a11a7104?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Companion Addiction: The New Factor in Divorce and Custody Battles](https://medium.com/@DarylGessner/ai-companion-addiction-the-new-factor-in-divorce-and-custody-battles-82d04e5a21cd?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Walled Garden Needs a Gate](https://medium.com/@noahshaw_/the-walled-garden-needs-a-gate-88bc83c8a0ec?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Made a 30-Second Luxury Product Ad From One Image With Zoviz](https://medium.com/@erfanziaforoughi/how-i-made-a-30-second-luxury-product-ad-from-one-image-with-zoviz-5cff2d96b751?source=rss------artificial_intelligence-5)**
+> 🔹 **[“Let p be an odd prime”. Part 3](https://medium.com/@bergel/let-p-be-an-odd-prime-part-3-992187e74cee?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Machine Learning Models to Complete AI Products: My CodeAlpha Internship Experience](https://medium.com/@m.saadjadoon1/from-machine-learning-models-to-complete-ai-products-my-codealpha-internship-experience-0653b3a9b4cd?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT Planned My Week. By Day Four I Stopped Arguing.](https://medium.com/@eliteayaan001/chatgpt-planned-my-week-by-day-four-i-stopped-arguing-fd1591bf4651?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to make $10k/Month in 365 days with “AI”](https://devenkoai.medium.com/how-to-make-10k-month-in-365-days-with-ai-0726a020b307?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents vs Automation: The Difference Every Business Leader Should Understand](https://medium.com/@metareignity/ai-agents-vs-automation-the-difference-every-business-leader-should-understand-c5b3f525e650?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Build an AI Team: Roles, Skills, and Hiring Strategy for 2026](https://ptpchicago.medium.com/how-to-build-an-ai-team-roles-skills-and-hiring-strategy-for-2026-4b518ad04673?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
