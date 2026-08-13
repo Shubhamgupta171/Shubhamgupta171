@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Gym Class is full — not anymore with Bots](https://medium.com/@info_68079/gym-class-is-full-not-anymore-with-bots-21662a879493?source=rss------artificial_intelligence-5)**
-> 🔹 **[SQL vs NoSQL in 2026: The Ultimate Guide to Choosing the Right Database](https://medium.com/@zenlinker/sql-vs-nosql-in-2026-the-ultimate-guide-to-choosing-the-right-database-51f2774706dc?source=rss------backend_development-5)**
-> 🔹 **[How to Ask Claude About Your Oura Ring Data, Including From Your Phone](https://jaredstauffer.medium.com/how-to-ask-claude-about-your-oura-ring-data-including-from-your-phone-a496317312ff?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Obfuscation of Intelligence — Part 35…](https://richardschutte.medium.com/the-obfuscation-of-intelligence-part-35-4d1c7319ecde?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Product Image Approval Loop I Use Before Trusting an AI Listing Shot](https://medium.com/@huangcftt/the-product-image-approval-loop-i-use-before-trusting-an-ai-listing-shot-0782c6af965c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Does Your AI Need to Be More Annoying?](https://medium.com/@finlonger/does-your-ai-need-to-be-more-annoying-0fd4adce1f97?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Survived an Email Subscription Attack and What to Do If It Happens to You](https://medium.com/@wayne.hymenberg/how-i-survived-an-email-subscription-attack-and-what-to-do-if-it-happens-to-you-e2adc1652e6a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Persistent Memory for Any AI Agent with Lians](https://medium.com/@liansmemory/persistent-memory-for-any-ai-agent-with-lians-805003b80619?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Actually Made Money on YouTube Using AI &lpar;And Why Most People Fail&rpar;](https://medium.com/@shahidabdulla205/how-i-actually-made-money-on-youtube-using-ai-and-why-most-people-fail-8375c5a5dee0?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tested an AI Presentation Workflow From Raw Notes to Final Deck](https://medium.com/illumination/i-tested-an-ai-presentation-workflow-from-raw-notes-to-final-deck-c619a0b5f9d7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Death by Architecture Diagram](https://medium.com/the-grand-game-of-software-engineering/death-by-architecture-diagram-8911f266f188?source=rss------artificial_intelligence-5)**
+> 🔹 **[Java Backend Journal #01 — OOP’yi Ezberlemeden Öğrenmek](https://medium.com/@oguzzh4nn/java-backend-journal-01-oopyi-ezberlemeden-%C3%B6%C4%9Frenmek-4d149578447c?source=rss------backend_development-5)**
+> 🔹 **[Your Speech-to-Text Nails the Demo and Falls Apart in the Field](https://forasoft.medium.com/your-speech-to-text-nails-the-demo-and-falls-apart-in-the-field-e77ca183b169?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Code That Changed Everything: How Six Prime Numbers Solved a 37-Year Problem in AI](https://medium.com/@frankmorales_91352/the-code-that-changed-everything-how-six-prime-numbers-solved-a-37-year-problem-in-ai-3cece9fadd9e?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Can You Do With a Computer Science Degree? Best Programs, Jobs, and Salaries &lpar;2026&rpar;](https://medium.com/@heelextension/what-can-you-do-with-a-computer-science-degree-best-programs-jobs-and-salaries-2026-7c06a11a7104?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Companion Addiction: The New Factor in Divorce and Custody Battles](https://medium.com/@DarylGessner/ai-companion-addiction-the-new-factor-in-divorce-and-custody-battles-82d04e5a21cd?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
