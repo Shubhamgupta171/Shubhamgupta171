@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI FinOps Is the Hottest Job in Enterprise AI](https://medium.com/@ian_19841/ai-finops-is-the-hottest-job-in-enterprise-ai-4775550e075b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Customer Didn’t Churn Today. Their Behavior Did.](https://medium.com/@billygareth01/the-customer-didnt-churn-today-their-behavior-did-b1c4f4a500c7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Designing a Cache for AI Agents: How Prompt Caching Really Works](https://medium.com/ai-that-ships/designing-a-cache-for-ai-agents-how-prompt-caching-really-works-ca1e3de838b3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Villain CEO Handbook — Scare. Scale. Silence. Part Uno](https://medium.com/@larklaflamme/the-villain-ceo-handbook-scare-scale-silence-part-uno-62010a4f0180?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Can Write the SQL. It Still Can’t Tell You What “Revenue” Means.](https://medium.com/@contactlmcguire/your-ai-can-write-the-sql-it-still-cant-tell-you-what-revenue-means-c5d581dcc3a8?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested Different Suno AI Prompting Techniques — Here’s What Actually Makes a Difference](https://medium.com/@gboloawadar40/i-tested-different-suno-ai-prompting-techniques-heres-what-actually-makes-a-difference-ba8611602c93?source=rss------artificial_intelligence-5)**
-> 🔹 **[What If ... Was Your AI Agent? NVIDIA&#39;s NOOA Turns Python Methods Into LLM Calls](https://pub.towardsai.net/what-if-was-your-ai-agent-nvidias-nooa-turns-python-methods-into-llm-calls-0d6e003dfdd1?source=rss------artificial_intelligence-5)**
-> 🔹 **[10 AI Tools Every Data Analyst Should Know in 2026](https://medium.com/@chaudhryshujahali0/10-ai-tools-every-data-analyst-should-know-in-2026-86825aad4d53?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gym Class is full — not anymore with Bots](https://medium.com/@info_68079/gym-class-is-full-not-anymore-with-bots-21662a879493?source=rss------artificial_intelligence-5)**
+> 🔹 **[SQL vs NoSQL in 2026: The Ultimate Guide to Choosing the Right Database](https://medium.com/@zenlinker/sql-vs-nosql-in-2026-the-ultimate-guide-to-choosing-the-right-database-51f2774706dc?source=rss------backend_development-5)**
+> 🔹 **[How to Ask Claude About Your Oura Ring Data, Including From Your Phone](https://jaredstauffer.medium.com/how-to-ask-claude-about-your-oura-ring-data-including-from-your-phone-a496317312ff?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Obfuscation of Intelligence — Part 35…](https://richardschutte.medium.com/the-obfuscation-of-intelligence-part-35-4d1c7319ecde?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Product Image Approval Loop I Use Before Trusting an AI Listing Shot](https://medium.com/@huangcftt/the-product-image-approval-loop-i-use-before-trusting-an-ai-listing-shot-0782c6af965c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Does Your AI Need to Be More Annoying?](https://medium.com/@finlonger/does-your-ai-need-to-be-more-annoying-0fd4adce1f97?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Survived an Email Subscription Attack and What to Do If It Happens to You](https://medium.com/@wayne.hymenberg/how-i-survived-an-email-subscription-attack-and-what-to-do-if-it-happens-to-you-e2adc1652e6a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Persistent Memory for Any AI Agent with Lians](https://medium.com/@liansmemory/persistent-memory-for-any-ai-agent-with-lians-805003b80619?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
