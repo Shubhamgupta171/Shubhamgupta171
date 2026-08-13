@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Walled Garden Needs a Gate](https://medium.com/@noahshaw_/the-walled-garden-needs-a-gate-88bc83c8a0ec?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Made a 30-Second Luxury Product Ad From One Image With Zoviz](https://medium.com/@erfanziaforoughi/how-i-made-a-30-second-luxury-product-ad-from-one-image-with-zoviz-5cff2d96b751?source=rss------artificial_intelligence-5)**
-> 🔹 **[“Let p be an odd prime”. Part 3](https://medium.com/@bergel/let-p-be-an-odd-prime-part-3-992187e74cee?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Machine Learning Models to Complete AI Products: My CodeAlpha Internship Experience](https://medium.com/@m.saadjadoon1/from-machine-learning-models-to-complete-ai-products-my-codealpha-internship-experience-0653b3a9b4cd?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT Planned My Week. By Day Four I Stopped Arguing.](https://medium.com/@eliteayaan001/chatgpt-planned-my-week-by-day-four-i-stopped-arguing-fd1591bf4651?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to make $10k/Month in 365 days with “AI”](https://devenkoai.medium.com/how-to-make-10k-month-in-365-days-with-ai-0726a020b307?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agents vs Automation: The Difference Every Business Leader Should Understand](https://medium.com/@metareignity/ai-agents-vs-automation-the-difference-every-business-leader-should-understand-c5b3f525e650?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Build an AI Team: Roles, Skills, and Hiring Strategy for 2026](https://ptpchicago.medium.com/how-to-build-an-ai-team-roles-skills-and-hiring-strategy-for-2026-4b518ad04673?source=rss------artificial_intelligence-5)**
+> 🔹 **[Prompt Engineering AI Agents vs GraphRAG AI Agents](https://medium.com/@sahukc0008/prompt-engineering-ai-agents-vs-graphrag-ai-agents-48a87f03379e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Orchestration Layer That Turns AI Agent Demos Into Production Systems](https://medium.com/@daverendon/the-orchestration-layer-that-turns-ai-agent-demos-into-production-systems-7fd3490f3fa9?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT vs Claude in August 2026: I Use Both Every Day… Here’s My Honest Comparison](https://medium.com/@felixkebaya/chatgpt-vs-claude-in-august-2026-i-use-both-every-day-heres-my-honest-comparison-a8e4b12c614d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bir Filmin Başarısı Önceden Kestirilebilir mi? Makine Öğrenmesi ile Film Analizi](https://medium.com/@sudenazgarip7/bir-filmin-ba%C5%9Far%C4%B1s%C4%B1-%C3%B6nceden-kestirilebilir-mi-makine-%C3%B6%C4%9Frenmesi-ile-film-analizi-fed6183aa54e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude AI Expertise with PLR Review: Is This All-in-One AI Package Actually Worth It?](https://medium.com/@ehancollections/claude-ai-expertise-with-plr-review-is-this-all-in-one-ai-package-actually-worth-it-e57287e74e20?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Essential AI Tools Every Tech Creator Needs in 2026](https://medium.com/@melzzyhope/5-essential-ai-tools-every-tech-creator-needs-in-2026-c220c64a7ed4?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Nova Guerra do Mercado é Cognitiva](https://medium.com/@franciscosantoscientista/a-nova-guerra-do-mercado-%C3%A9-cognitiva-af928a1854eb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Mechanics of Cognitive Atrophy: Designing the Guardrails for the AI-Surrender Era](https://medium.com/@indr1983bi/the-mechanics-of-cognitive-atrophy-designing-the-guardrails-for-the-ai-surrender-era-5196e8897303?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
