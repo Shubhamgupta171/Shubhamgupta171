@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[1-Click Rewriter Pro Review: Can AI Turn Your Existing Content Into an Entire Digital Product…](https://medium.com/@snap.business.1100/1-click-rewriter-pro-review-can-ai-turn-your-existing-content-into-an-entire-digital-product-a5783f28c169?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Real Opportunity Behind AIoT: Making the Physical World More Intelligent](https://medium.com/@akihsay64/the-real-opportunity-behind-aiot-making-the-physical-world-more-intelligent-35907a804f45?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why programmers are still needed in the age of artificial intelligence &lpar;AI&rpar;](https://vinsenrg.medium.com/why-programmers-are-still-needed-in-the-age-of-artificial-intelligence-ai-903fc9ba6c92?source=rss------artificial_intelligence-5)**
-> 🔹 **[Solving integration woes with a hackathon](https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/)**
-> 🔹 **[USA vs Europe: Two Different Approaches to AI Security](https://medium.com/@ayansheikh45689/usa-vs-europe-two-different-approaches-to-ai-security-488dfa5a2efa?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Artificial Intelligence Is Changing the Way Businesses Work](https://medium.com/@ciominds82/how-artificial-intelligence-is-changing-the-way-businesses-work-ebca865019d4?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Math of SVMs: The Complete Math-to-Code for Machine Learning](https://medium.com/@muhammadfakharulhasnain6/the-math-of-svms-the-complete-math-to-code-for-machine-learning-19f2ce772d2a?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Think About Optimizing MCP When You Have 100+ Tools](https://medium.com/@alireza.work/how-i-think-about-optimizing-mcp-when-you-have-100-tools-4a001c063b40?source=rss------backend_development-5)**
+> 🔹 **[Components as Data: a Design System AI Can Read &lpar;2/2&rpar;](https://medium.com/@alex.vaysse/components-as-data-a-design-system-ai-can-read-2-2-91c3927a66c4?source=rss------system_design-5)**
+> 🔹 **[The Future of Artificial Intelligence:](https://medium.com/@nukhbaagral/the-future-of-artificial-intelligence-50574f341b51?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Prototype to Production: What 13 AI Engineering Lessons Taught Us](https://medium.com/@vinayakgalande6/from-prototype-to-production-what-13-ai-engineering-lessons-taught-us-e6aeb49c654d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond Chatbots: Designing Enterprise AI Systems That Deliver Business Value](https://medium.com/learning-data/beyond-chatbots-designing-enterprise-ai-systems-that-deliver-business-value-3d67f8de1368?source=rss------artificial_intelligence-5)**
+> 🔹 **[Big Tech Has Already Put $1 Trillion of Future Infrastructure Under Contract](https://medium.com/the-control-grid/big-tech-has-already-put-1-trillion-of-future-infrastructure-under-contract-64dc736cec21?source=rss------artificial_intelligence-5)**
+> 🔹 **[TOKONOMICS — The New Grid](https://medium.com/@madhuri.d.roy/tokonomics-the-new-grid-de8f1886608c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Asking AI to “Design”. Start Asking It to “Critique”.](https://medium.com/@Rythmuxdesigner/stop-asking-ai-to-design-start-asking-it-to-critique-81a9daec5290?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Model Was Cheating on Its Own Test](https://towardsdatascience.com/my-model-was-cheating-on-its-own-test/)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
