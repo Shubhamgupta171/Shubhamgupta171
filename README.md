@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Components as Data: a Design System AI Can Read &lpar;2/2&rpar;](https://medium.com/@alex.vaysse/components-as-data-a-design-system-ai-can-read-2-2-91c3927a66c4?source=rss------system_design-5)**
-> 🔹 **[The Future of Artificial Intelligence:](https://medium.com/@nukhbaagral/the-future-of-artificial-intelligence-50574f341b51?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Prototype to Production: What 13 AI Engineering Lessons Taught Us](https://medium.com/@vinayakgalande6/from-prototype-to-production-what-13-ai-engineering-lessons-taught-us-e6aeb49c654d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond Chatbots: Designing Enterprise AI Systems That Deliver Business Value](https://medium.com/learning-data/beyond-chatbots-designing-enterprise-ai-systems-that-deliver-business-value-3d67f8de1368?source=rss------artificial_intelligence-5)**
-> 🔹 **[Big Tech Has Already Put $1 Trillion of Future Infrastructure Under Contract](https://medium.com/the-control-grid/big-tech-has-already-put-1-trillion-of-future-infrastructure-under-contract-64dc736cec21?source=rss------artificial_intelligence-5)**
-> 🔹 **[TOKONOMICS — The New Grid](https://medium.com/@madhuri.d.roy/tokonomics-the-new-grid-de8f1886608c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Asking AI to “Design”. Start Asking It to “Critique”.](https://medium.com/@Rythmuxdesigner/stop-asking-ai-to-design-start-asking-it-to-critique-81a9daec5290?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Model Was Cheating on Its Own Test](https://towardsdatascience.com/my-model-was-cheating-on-its-own-test/)**
+> 🔹 **[Age Verification Is Changing Adult Payments: What Payment Providers Need to Understand](https://medium.com/the-gravity/age-verification-is-changing-adult-payments-what-payment-providers-need-to-understand-dc8418f29f5b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Grok 4.6 Got Smarter, A Lot Smarter, But Do Not Believe The Hype Yet.](https://pub.towardsai.net/grok-4-6-got-smarter-a-lot-smarter-but-do-not-believe-the-hype-yet-719612392688?source=rss------artificial_intelligence-5)**
+> 🔹 **[If AI Can Do the Task, What Are We Trying to Teach?](https://medium.com/@psic.jesusgs/if-ai-can-do-the-task-what-are-we-trying-to-teach-1b5df0c9a70a?source=rss------artificial_intelligence-5)**
+> 🔹 **[سلاح ميثوس الرقمي: هل نظامنا المصرفي في مأمن من ثورة الذكاء الاصطناعي الهجومي؟](https://medium.com/@w37274481/%D8%B3%D9%84%D8%A7%D8%AD-%D9%85%D9%8A%D8%AB%D9%88%D8%B3-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D9%87%D9%84-%D9%86%D8%B8%D8%A7%D9%85%D9%86%D8%A7-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A-%D9%81%D9%8A-%D9%85%D8%A3%D9%85%D9%86-%D9%85%D9%86-%D8%AB%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85%D9%8A-97d8fed73e0d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Should We Fear AI? What the Safety Panic Gets Wrong](https://medium.com/@sthomason/should-we-fear-ai-what-the-safety-panic-gets-wrong-76bbd15b37bd?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Security Homelab Part 3: Attacking the RAG Chatbot &lpar;OWASP LLM Top 10&rpar;](https://sthenos.medium.com/ai-security-homelab-part-3-attacking-the-rag-chatbot-owasp-llm-top-10-d9cd8e0c5667?source=rss------artificial_intelligence-5)**
+> 🔹 **[Intelligence as Technology: The Civilization That Comes Next](https://medium.com/@aryamadiwale2808/intelligence-as-technology-the-civilization-that-comes-next-0a0eb9c49433?source=rss------artificial_intelligence-5)**
+> 🔹 **[Over 80% of Global Trade Travels by Sea.](https://medium.com/@SilicontoSoftware5/over-80-of-global-trade-travels-by-sea-1ba112024b6b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
