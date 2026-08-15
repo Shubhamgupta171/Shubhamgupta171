@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The MongoDB Query That Broke HoardSpace’s Explore Page](https://medium.com/@ayantik.sarkar2020/the-mongodb-query-that-broke-hoardspaces-explore-page-efdee2f7cc6d?source=rss------backend_development-5)**
-> 🔹 **[Is SEO Dead in 2026? Here’s the Real Answer](https://medium.com/@prateekrangepalli03/is-seo-dead-in-2026-heres-the-real-answer-44fad2687e59?source=rss------artificial_intelligence-5)**
-> 🔹 **[Dear Rosa,](https://medium.com/@sherryaugusta17/dear-rosa-9f745f11ed98?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Next AI Winners Will Not Be the Ones Selling the Most Chips](https://medium.com/@bibhuashish/the-next-ai-winners-will-not-be-the-ones-selling-the-most-chips-d87635e75066?source=rss------artificial_intelligence-5)**
-> 🔹 **[Amazon Is Trying to Solve a Problem Most of Us Never Think About](https://medium.com/@mymesuperdigital/amazon-is-trying-to-solve-a-problem-most-of-us-never-think-about-e2d0d9a835c1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cloud-Native AI Services Framework for Enterprise Automation Using Microsoft Azure](https://medium.com/@yudaysurendra/cloud-native-ai-services-framework-for-enterprise-automation-using-microsoft-azure-ef5e2149d5d5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building an IT Service Desk Platform with Spring Boot, Angular and SQL Server](https://medium.com/javarevisited/building-an-it-service-desk-platform-with-spring-boot-angular-and-sql-server-e607b4000e00?source=rss------backend_development-5)**
-> 🔹 **[Why Your GEO Strategy Is Probably Backwards &lpar;And What Actually Works&rpar;](https://medium.com/@furqan_30984/why-your-geo-strategy-is-probably-backwards-and-what-actually-works-c627b15cd51e?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Kirana Voice Agent in 10 Days with Murf Falcon, Here’s What I Learned](https://medium.com/@Codewithjha/i-built-a-kirana-voice-agent-in-10-days-with-murf-falcon-heres-what-i-learned-48b78c0cb400?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Capabilities Are Dangerous as a Success Measure](https://timhourigan.medium.com/why-capabilities-are-dangerous-as-a-success-measure-e94c6df1f6d5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Shift in Robot Intelligence and Data Problem](https://medium.com/@arafattakim2/shift-in-robot-intelligence-and-data-problem-896861cc3b80?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building Saathi: A Voice Learning Companion for the Voice for Bharat Challenge](https://medium.com/@krishnanisaakshi/building-saathi-a-voice-learning-companion-for-the-voice-for-bharat-challenge-278b7a24d191?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can Materials Heal Themselves?](https://medium.com/@brundhajetty/can-materials-heal-themselves-ab58f2071651?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Truth About Grinding LeetCode for DSA Interviews](https://medium.com/@rajeev001/the-truth-about-grinding-leetcode-for-dsa-interviews-8fba43ebd763?source=rss------data_structures-5)**
+> 🔹 **[Uçtan Uca Veri Bilimi ve Makine Öğrenmesi Pipeline’ı: E-Ticarette İade Tahmini, Satış Modelleme...](https://medium.com/@bihtersert1/u%C3%A7tan-uca-veri-bilimi-ve-makine-%C3%B6%C4%9Frenmesi-pipeline%C4%B1-e-ticarette-i%CC%87ade-tahmini-sat%C4%B1%C5%9F-modellemesi-935ddea0e187?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Kafka Outages Always Recur Twice: Lessons from PagerDuty 2025 and Parse.ly 2015](https://medium.com/@niketl16/why-kafka-outages-always-recur-twice-lessons-from-pagerduty-2025-and-parse-ly-2015-1107010bb2e3?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
