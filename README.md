@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Built a Kirana Voice Agent in 10 Days with Murf Falcon, Here’s What I Learned](https://medium.com/@Codewithjha/i-built-a-kirana-voice-agent-in-10-days-with-murf-falcon-heres-what-i-learned-48b78c0cb400?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Capabilities Are Dangerous as a Success Measure](https://timhourigan.medium.com/why-capabilities-are-dangerous-as-a-success-measure-e94c6df1f6d5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Shift in Robot Intelligence and Data Problem](https://medium.com/@arafattakim2/shift-in-robot-intelligence-and-data-problem-896861cc3b80?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building Saathi: A Voice Learning Companion for the Voice for Bharat Challenge](https://medium.com/@krishnanisaakshi/building-saathi-a-voice-learning-companion-for-the-voice-for-bharat-challenge-278b7a24d191?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can Materials Heal Themselves?](https://medium.com/@brundhajetty/can-materials-heal-themselves-ab58f2071651?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Truth About Grinding LeetCode for DSA Interviews](https://medium.com/@rajeev001/the-truth-about-grinding-leetcode-for-dsa-interviews-8fba43ebd763?source=rss------data_structures-5)**
-> 🔹 **[Uçtan Uca Veri Bilimi ve Makine Öğrenmesi Pipeline’ı: E-Ticarette İade Tahmini, Satış Modelleme...](https://medium.com/@bihtersert1/u%C3%A7tan-uca-veri-bilimi-ve-makine-%C3%B6%C4%9Frenmesi-pipeline%C4%B1-e-ticarette-i%CC%87ade-tahmini-sat%C4%B1%C5%9F-modellemesi-935ddea0e187?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Kafka Outages Always Recur Twice: Lessons from PagerDuty 2025 and Parse.ly 2015](https://medium.com/@niketl16/why-kafka-outages-always-recur-twice-lessons-from-pagerduty-2025-and-parse-ly-2015-1107010bb2e3?source=rss------system_design-5)**
+> 🔹 **[PostgreSQL Explained: The Database Engineers Love](https://medium.com/@m.edakulahci/postgresql-explained-the-database-engineers-love-d022d2c9b8b0?source=rss------backend_development-5)**
+> 🔹 **[Beyond the Border: Why India’s Next Frontline Is Digital](https://medium.com/@adityacyber/beyond-the-border-why-indias-next-frontline-is-digital-d39e6172b356?source=rss------artificial_intelligence-5)**
+> 🔹 **[# “Is Anyone in There?” — One Language Model Interviews Another](https://medium.com/@mousebacon/is-anyone-in-there-one-language-model-interviews-another-8f9e7902a958?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Morning My AI PDF Parser Dropped Every Single Invoice](https://medium.com/@TheFabledScribe/the-morning-my-ai-pdf-parser-dropped-every-single-invoice-c75db1c94ebd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Multi-Step AI Agent Has a 20% Chance of Success — Even When Every Step Looks Good](https://medium.com/ai-translator/your-multi-step-ai-agent-has-a-20-chance-of-success-even-when-every-step-looks-good-bfd1839c0300?source=rss------artificial_intelligence-5)**
+> 🔹 **[Feeding the Machine: Why Data is the Real Superhero of AI](https://medium.com/@abdulmusai1960/feeding-the-machine-why-data-is-the-real-superhero-of-ai-09e6eb213f2c?source=rss------artificial_intelligence-5)**
+> 🔹 **[What does Linear Independence means Geometrically?&lpar;Linear Algebra&rpar;](https://medium.com/@manjeet981203kumar/what-does-linear-independence-means-geometrically-linear-algebra-4aa4efc2e504?source=rss------artificial_intelligence-5)**
+> 🔹 **[Unmasking the Mechanics of a Digital Shadow Ledger](https://medium.com/reflections-and-realities/unmasking-the-mechanics-of-a-digital-shadow-ledger-339cb308a592?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
