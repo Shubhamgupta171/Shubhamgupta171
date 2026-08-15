@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Age Verification Is Changing Adult Payments: What Payment Providers Need to Understand](https://medium.com/the-gravity/age-verification-is-changing-adult-payments-what-payment-providers-need-to-understand-dc8418f29f5b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Grok 4.6 Got Smarter, A Lot Smarter, But Do Not Believe The Hype Yet.](https://pub.towardsai.net/grok-4-6-got-smarter-a-lot-smarter-but-do-not-believe-the-hype-yet-719612392688?source=rss------artificial_intelligence-5)**
-> 🔹 **[If AI Can Do the Task, What Are We Trying to Teach?](https://medium.com/@psic.jesusgs/if-ai-can-do-the-task-what-are-we-trying-to-teach-1b5df0c9a70a?source=rss------artificial_intelligence-5)**
-> 🔹 **[سلاح ميثوس الرقمي: هل نظامنا المصرفي في مأمن من ثورة الذكاء الاصطناعي الهجومي؟](https://medium.com/@w37274481/%D8%B3%D9%84%D8%A7%D8%AD-%D9%85%D9%8A%D8%AB%D9%88%D8%B3-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D9%87%D9%84-%D9%86%D8%B8%D8%A7%D9%85%D9%86%D8%A7-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A-%D9%81%D9%8A-%D9%85%D8%A3%D9%85%D9%86-%D9%85%D9%86-%D8%AB%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85%D9%8A-97d8fed73e0d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Should We Fear AI? What the Safety Panic Gets Wrong](https://medium.com/@sthomason/should-we-fear-ai-what-the-safety-panic-gets-wrong-76bbd15b37bd?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Security Homelab Part 3: Attacking the RAG Chatbot &lpar;OWASP LLM Top 10&rpar;](https://sthenos.medium.com/ai-security-homelab-part-3-attacking-the-rag-chatbot-owasp-llm-top-10-d9cd8e0c5667?source=rss------artificial_intelligence-5)**
-> 🔹 **[Intelligence as Technology: The Civilization That Comes Next](https://medium.com/@aryamadiwale2808/intelligence-as-technology-the-civilization-that-comes-next-0a0eb9c49433?source=rss------artificial_intelligence-5)**
-> 🔹 **[Over 80% of Global Trade Travels by Sea.](https://medium.com/@SilicontoSoftware5/over-80-of-global-trade-travels-by-sea-1ba112024b6b?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI Checks Its Own Work: Nicole Junkermann on What Has Actually Been Checked](https://medium.com/@coldspaghetti2049/when-ai-checks-its-own-work-nicole-junkermann-on-what-has-actually-been-checked-e69b9a667581?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nicole Junkermann on AI Agents: Delegate the Process, Keep the Judgement](https://medium.com/@coldspaghetti2049/nicole-junkermann-on-ai-agents-delegate-the-process-keep-the-judgement-eb76c9e49f06?source=rss------artificial_intelligence-5)**
+> 🔹 **[RAG Local com MongoDB, IA e Python](https://medium.com/@claudsan/rag-local-com-mongodb-ia-e-python-66fd51aeac68?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Agents Actually Work: Building Ten Agents from Scratch](https://medium.com/@rehman.aimal/how-ai-agents-actually-work-building-ten-agents-from-scratch-44f05630c73b?source=rss------artificial_intelligence-5)**
+> 🔹 **[THE DANGER OF PRESERVING OLD WORDS WITH NEW MEANINGS](https://hermessocraticus.medium.com/the-danger-of-preserving-old-words-with-new-meanings-930f2180f2e2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Probability Machine: How Derivatives, Crypto, Prediction Markets, AI, and Quantum Became On...](https://medium.com/@sonia_21515/the-probability-machine-how-derivatives-crypto-prediction-markets-ai-and-quantum-became-one-b6b9e7a0bd14?source=rss------artificial_intelligence-5)**
+> 🔹 **[TOPO-2026: The Gateway to AGI — How Solving Catastrophic Forgetting Unlocks the Path to Artific...](https://medium.com/ai-simplified-in-plain-english/topo-2026-the-gateway-to-agi-how-solving-catastrophic-forgetting-unlocks-the-path-to-artificial-6dffb0e98f70?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Foundational Physics of AGI: Bridging Mathematics and Deterministic Cognitive Engineering](https://medium.com/ai-simplified-in-plain-english/the-foundational-physics-of-agi-bridging-mathematics-and-deterministic-cognitive-engineering-6e3e26113311?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
