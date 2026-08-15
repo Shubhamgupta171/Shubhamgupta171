@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[When AI Checks Its Own Work: Nicole Junkermann on What Has Actually Been Checked](https://medium.com/@coldspaghetti2049/when-ai-checks-its-own-work-nicole-junkermann-on-what-has-actually-been-checked-e69b9a667581?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nicole Junkermann on AI Agents: Delegate the Process, Keep the Judgement](https://medium.com/@coldspaghetti2049/nicole-junkermann-on-ai-agents-delegate-the-process-keep-the-judgement-eb76c9e49f06?source=rss------artificial_intelligence-5)**
-> 🔹 **[RAG Local com MongoDB, IA e Python](https://medium.com/@claudsan/rag-local-com-mongodb-ia-e-python-66fd51aeac68?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Agents Actually Work: Building Ten Agents from Scratch](https://medium.com/@rehman.aimal/how-ai-agents-actually-work-building-ten-agents-from-scratch-44f05630c73b?source=rss------artificial_intelligence-5)**
-> 🔹 **[THE DANGER OF PRESERVING OLD WORDS WITH NEW MEANINGS](https://hermessocraticus.medium.com/the-danger-of-preserving-old-words-with-new-meanings-930f2180f2e2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Probability Machine: How Derivatives, Crypto, Prediction Markets, AI, and Quantum Became On...](https://medium.com/@sonia_21515/the-probability-machine-how-derivatives-crypto-prediction-markets-ai-and-quantum-became-one-b6b9e7a0bd14?source=rss------artificial_intelligence-5)**
-> 🔹 **[TOPO-2026: The Gateway to AGI — How Solving Catastrophic Forgetting Unlocks the Path to Artific...](https://medium.com/ai-simplified-in-plain-english/topo-2026-the-gateway-to-agi-how-solving-catastrophic-forgetting-unlocks-the-path-to-artificial-6dffb0e98f70?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Foundational Physics of AGI: Bridging Mathematics and Deterministic Cognitive Engineering](https://medium.com/ai-simplified-in-plain-english/the-foundational-physics-of-agi-bridging-mathematics-and-deterministic-cognitive-engineering-6e3e26113311?source=rss------artificial_intelligence-5)**
+> 🔹 **[The MongoDB Query That Broke HoardSpace’s Explore Page](https://medium.com/@ayantik.sarkar2020/the-mongodb-query-that-broke-hoardspaces-explore-page-efdee2f7cc6d?source=rss------backend_development-5)**
+> 🔹 **[Is SEO Dead in 2026? Here’s the Real Answer](https://medium.com/@prateekrangepalli03/is-seo-dead-in-2026-heres-the-real-answer-44fad2687e59?source=rss------artificial_intelligence-5)**
+> 🔹 **[Dear Rosa,](https://medium.com/@sherryaugusta17/dear-rosa-9f745f11ed98?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Next AI Winners Will Not Be the Ones Selling the Most Chips](https://medium.com/@bibhuashish/the-next-ai-winners-will-not-be-the-ones-selling-the-most-chips-d87635e75066?source=rss------artificial_intelligence-5)**
+> 🔹 **[Amazon Is Trying to Solve a Problem Most of Us Never Think About](https://medium.com/@mymesuperdigital/amazon-is-trying-to-solve-a-problem-most-of-us-never-think-about-e2d0d9a835c1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cloud-Native AI Services Framework for Enterprise Automation Using Microsoft Azure](https://medium.com/@yudaysurendra/cloud-native-ai-services-framework-for-enterprise-automation-using-microsoft-azure-ef5e2149d5d5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building an IT Service Desk Platform with Spring Boot, Angular and SQL Server](https://medium.com/javarevisited/building-an-it-service-desk-platform-with-spring-boot-angular-and-sql-server-e607b4000e00?source=rss------backend_development-5)**
+> 🔹 **[Why Your GEO Strategy Is Probably Backwards &lpar;And What Actually Works&rpar;](https://medium.com/@furqan_30984/why-your-geo-strategy-is-probably-backwards-and-what-actually-works-c627b15cd51e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
