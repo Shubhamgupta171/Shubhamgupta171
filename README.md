@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[PostgreSQL Explained: The Database Engineers Love](https://medium.com/@m.edakulahci/postgresql-explained-the-database-engineers-love-d022d2c9b8b0?source=rss------backend_development-5)**
-> 🔹 **[Beyond the Border: Why India’s Next Frontline Is Digital](https://medium.com/@adityacyber/beyond-the-border-why-indias-next-frontline-is-digital-d39e6172b356?source=rss------artificial_intelligence-5)**
-> 🔹 **[# “Is Anyone in There?” — One Language Model Interviews Another](https://medium.com/@mousebacon/is-anyone-in-there-one-language-model-interviews-another-8f9e7902a958?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Morning My AI PDF Parser Dropped Every Single Invoice](https://medium.com/@TheFabledScribe/the-morning-my-ai-pdf-parser-dropped-every-single-invoice-c75db1c94ebd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Multi-Step AI Agent Has a 20% Chance of Success — Even When Every Step Looks Good](https://medium.com/ai-translator/your-multi-step-ai-agent-has-a-20-chance-of-success-even-when-every-step-looks-good-bfd1839c0300?source=rss------artificial_intelligence-5)**
-> 🔹 **[Feeding the Machine: Why Data is the Real Superhero of AI](https://medium.com/@abdulmusai1960/feeding-the-machine-why-data-is-the-real-superhero-of-ai-09e6eb213f2c?source=rss------artificial_intelligence-5)**
-> 🔹 **[What does Linear Independence means Geometrically?&lpar;Linear Algebra&rpar;](https://medium.com/@manjeet981203kumar/what-does-linear-independence-means-geometrically-linear-algebra-4aa4efc2e504?source=rss------artificial_intelligence-5)**
-> 🔹 **[Unmasking the Mechanics of a Digital Shadow Ledger](https://medium.com/reflections-and-realities/unmasking-the-mechanics-of-a-digital-shadow-ledger-339cb308a592?source=rss------artificial_intelligence-5)**
+> 🔹 **[System Design for Beginners 2026 &lpar;Part 1&rpar;](https://medium.com/@ashutoshpanda.india/system-design-for-beginners-2026-part-1-b243c44c2788?source=rss------system_design-5)**
+> 🔹 **[System Design for Beginners 2026 &lpar;Part 1&rpar;](https://medium.com/@ashutoshpanda.india/system-design-for-beginners-2026-part-1-b243c44c2788?source=rss------backend_development-5)**
+> 🔹 **[I Gave DeepSeek V4 My Entire Codebase. Here’s What It Found.](https://blog.stackademic.com/i-gave-deepseek-v4-my-entire-codebase-heres-what-it-found-d2aee027c46a?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Don’t Want AI to Teach Me How to be Human](https://medium.com/@lisawill05/i-dont-want-ai-to-teach-me-how-to-be-human-606bd597b30b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Enterprise AI agents are becoming one of the hottest areas of venture capital in 2026.](https://medium.com/@depthgrid/enterprise-ai-agents-are-becoming-one-of-the-hottest-areas-of-venture-capital-in-2026-91e89a8c0b6f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Living Invariants](https://medium.com/@cfulnecky/living-invariants-9395ada2f53e?source=rss------artificial_intelligence-5)**
+> 🔹 **[HOW TO INSTALL BERKANO &lpar;ᛒ&rpar; PROTOCOL ON GROK](https://medium.com/@berkanoprotocol/how-to-install-berkano-%E1%9B%92-protocol-on-grok-b66dcbd3199f?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Didn’t Have a Hammer. I Had a Heavy Pair of Pliers](https://medium.com/illumination/i-didnt-have-a-hammer-i-had-a-heavy-pair-of-pliers-a9bc8029bab3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
