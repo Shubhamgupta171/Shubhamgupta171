@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[REST APIs Explained: From Your First Request to Production Architecture](https://medium.com/@TheLazyDev0/rest-apis-explained-from-your-first-request-to-production-architecture-b395f77046c6?source=rss------backend_development-5)**
-> 🔹 **[How I Built a YouTube Channel Without Showing My Face](https://medium.com/@ajebolu36/how-i-built-a-youtube-channel-without-showing-my-face-1d9b48930dc0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building an AI-Powered Football Transfer Intelligence Platform](https://medium.com/@parajuli.manish07/building-an-ai-powered-football-transfer-intelligence-platform-e7415f1a74d2?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](https://markyanai.medium.com/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens-69b483c4eb6a?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I automated the tedious follow up loop with Microsoft Scout](https://callmejamie.medium.com/how-i-automated-the-tedious-follow-up-loop-with-microsoft-scout-60016d8984e1?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Made Coding Faster. Now Code Review Is Becoming the Bottleneck.](https://abdulwahabdev.medium.com/ai-made-coding-faster-now-code-review-is-becoming-the-bottleneck-221ff2288ce2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nobody Is Paying for AI. They’re Paying for What It Does.](https://zaidhusnain96.medium.com/nobody-is-paying-for-ai-theyre-paying-for-what-it-does-d99d524ba947?source=rss------artificial_intelligence-5)**
-> 🔹 **[Flutter + AI in 2026: 7 AI Features You Can Actually Build Today](https://medium.com/@yashnariya003248/flutter-ai-in-2026-7-ai-features-you-can-actually-build-today-d3890e7e2cd6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Running SQL Concurrently Across Three Remote DuckDB Servers with Quack](https://towardsdatascience.com/running-sql-concurrently-across-three-remote-duckdb-servers-with-quack/)**
+> 🔹 **[AI Coding Agents Can Build the Interface. Now They Can Use a Real Icon System.](https://medium.com/@iconsearchinfo/ai-coding-agents-can-build-the-interface-now-they-can-use-a-real-icon-system-bd913f5202b2?source=rss------system_design-5)**
+> 🔹 **[Thin Gaming Laptops Are a Thermal Lie. And You’re Paying $4,000 for the Delusion.](https://medium.com/@sardarazizi780/thin-gaming-laptops-are-a-thermal-lie-and-youre-paying-4-000-for-the-delusion-d2facb6ce6ee?source=rss------artificial_intelligence-5)**
+> 🔹 **[Marketing Is the New Coding](https://medium.com/@nazanin.abbaspourrr/marketing-is-the-new-coding-4b5b25618580?source=rss------artificial_intelligence-5)**
+> 🔹 **[Veriden Müşteri Davranışına: Churn Tahmini ve Müşteri Segmentasyonu](https://medium.com/@rabiaeken987/veriden-m%C3%BC%C5%9Fteri-davran%C4%B1%C5%9F%C4%B1na-churn-tahmini-ve-m%C3%BC%C5%9Fteri-segmentasyonu-690e24994066?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the Resume: An Evidence-Grounded AI Portfolio for Recruiters](https://medium.com/@k.mizan1610/beyond-the-resume-an-evidence-grounded-ai-portfolio-for-recruiters-bad62185f998?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Changing the First Rung of the Career Ladder.](https://medium.com/@theazramentor/ai-is-changing-the-first-rung-of-the-career-ladder-b99bfa102c88?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Genesis of Tomorrow: Why Deep Science is the Only Currency That Matters Now](https://medium.com/@akg45272/the-genesis-of-tomorrow-why-deep-science-is-the-only-currency-that-matters-now-54a3193f7dd1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
