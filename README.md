@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Running SQL Concurrently Across Three Remote DuckDB Servers with Quack](https://towardsdatascience.com/running-sql-concurrently-across-three-remote-duckdb-servers-with-quack/)**
-> 🔹 **[AI Coding Agents Can Build the Interface. Now They Can Use a Real Icon System.](https://medium.com/@iconsearchinfo/ai-coding-agents-can-build-the-interface-now-they-can-use-a-real-icon-system-bd913f5202b2?source=rss------system_design-5)**
-> 🔹 **[Thin Gaming Laptops Are a Thermal Lie. And You’re Paying $4,000 for the Delusion.](https://medium.com/@sardarazizi780/thin-gaming-laptops-are-a-thermal-lie-and-youre-paying-4-000-for-the-delusion-d2facb6ce6ee?source=rss------artificial_intelligence-5)**
-> 🔹 **[Marketing Is the New Coding](https://medium.com/@nazanin.abbaspourrr/marketing-is-the-new-coding-4b5b25618580?source=rss------artificial_intelligence-5)**
-> 🔹 **[Veriden Müşteri Davranışına: Churn Tahmini ve Müşteri Segmentasyonu](https://medium.com/@rabiaeken987/veriden-m%C3%BC%C5%9Fteri-davran%C4%B1%C5%9F%C4%B1na-churn-tahmini-ve-m%C3%BC%C5%9Fteri-segmentasyonu-690e24994066?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the Resume: An Evidence-Grounded AI Portfolio for Recruiters](https://medium.com/@k.mizan1610/beyond-the-resume-an-evidence-grounded-ai-portfolio-for-recruiters-bad62185f998?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Changing the First Rung of the Career Ladder.](https://medium.com/@theazramentor/ai-is-changing-the-first-rung-of-the-career-ladder-b99bfa102c88?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Genesis of Tomorrow: Why Deep Science is the Only Currency That Matters Now](https://medium.com/@akg45272/the-genesis-of-tomorrow-why-deep-science-is-the-only-currency-that-matters-now-54a3193f7dd1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why you still miss new AI model drops even if you live on X and HN](https://evangelist67.medium.com/why-you-still-miss-new-ai-model-drops-even-if-you-live-on-x-and-hn-e9e2fba885cb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Промпт-инжиниринг 2026: Почему «волшебные слова» больше не работают](https://medium.com/@shutsveta18/%D0%BF%D1%80%D0%BE%D0%BC%D0%BF%D1%82-%D0%B8%D0%BD%D0%B6%D0%B8%D0%BD%D0%B8%D1%80%D0%B8%D0%BD%D0%B3-2026-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5-%D0%BD%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E%D1%82-b0e8e79578c0?source=rss------artificial_intelligence-5)**
+> 🔹 **[How CNNs Actually Work: From Pixels to Predictions](https://medium.com/@rutuparna.kolte15/how-cnns-actually-work-from-pixels-to-predictions-d5e256cbcfd1?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Data Structure Does Chrome Use for “Reopen Closed Tab”?](https://medium.com/@kashafabdullah01/what-data-structure-does-chrome-use-for-reopen-closed-tab-ef6f6a7fcd92?source=rss------data_structures-5)**
+> 🔹 **[AI Systems Rarely Fail Alone — They Fail at the Seams](https://medium.com/@adityaladage/ai-systems-rarely-fail-alone-they-fail-at-the-seams-2c777ecd0abc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Secret to Directing AI Video Generators Like Sora, Kling, and Luma](https://medium.com/@em07emmawilson/the-hidden-secret-to-directing-ai-video-generators-like-sora-kling-and-luma-572db01a4641?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I’d Build a Marketing Team from Scratch in 2027](https://medium.com/@andrllewellyn/how-id-build-a-marketing-team-from-scratch-in-2027-2da4ffa448e9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The question is not whether AI was used.](https://rabiasadat9.medium.com/the-question-is-not-whether-ai-was-used-c08a5798c8de?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
