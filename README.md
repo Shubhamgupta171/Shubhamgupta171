@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why you still miss new AI model drops even if you live on X and HN](https://evangelist67.medium.com/why-you-still-miss-new-ai-model-drops-even-if-you-live-on-x-and-hn-e9e2fba885cb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Промпт-инжиниринг 2026: Почему «волшебные слова» больше не работают](https://medium.com/@shutsveta18/%D0%BF%D1%80%D0%BE%D0%BC%D0%BF%D1%82-%D0%B8%D0%BD%D0%B6%D0%B8%D0%BD%D0%B8%D1%80%D0%B8%D0%BD%D0%B3-2026-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5-%D0%BD%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E%D1%82-b0e8e79578c0?source=rss------artificial_intelligence-5)**
-> 🔹 **[How CNNs Actually Work: From Pixels to Predictions](https://medium.com/@rutuparna.kolte15/how-cnns-actually-work-from-pixels-to-predictions-d5e256cbcfd1?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Data Structure Does Chrome Use for “Reopen Closed Tab”?](https://medium.com/@kashafabdullah01/what-data-structure-does-chrome-use-for-reopen-closed-tab-ef6f6a7fcd92?source=rss------data_structures-5)**
-> 🔹 **[AI Systems Rarely Fail Alone — They Fail at the Seams](https://medium.com/@adityaladage/ai-systems-rarely-fail-alone-they-fail-at-the-seams-2c777ecd0abc?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Secret to Directing AI Video Generators Like Sora, Kling, and Luma](https://medium.com/@em07emmawilson/the-hidden-secret-to-directing-ai-video-generators-like-sora-kling-and-luma-572db01a4641?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I’d Build a Marketing Team from Scratch in 2027](https://medium.com/@andrllewellyn/how-id-build-a-marketing-team-from-scratch-in-2027-2da4ffa448e9?source=rss------artificial_intelligence-5)**
-> 🔹 **[The question is not whether AI was used.](https://rabiasadat9.medium.com/the-question-is-not-whether-ai-was-used-c08a5798c8de?source=rss------artificial_intelligence-5)**
+> 🔹 **[The era of worldbuilding](https://medium.com/@lanceessner/the-era-of-worldbuilding-c0d987460286?source=rss------artificial_intelligence-5)**
+> 🔹 **[Humans + AI Agents: The Future of Work](https://medium.com/@Techsankar381/humans-ai-agents-the-future-of-work-7989ebefd759?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 AI Tools That Changed the Way I Work in 2026](https://medium.com/@bhagat-/7-ai-tools-that-changed-the-way-i-work-in-2026-c25b99f39fed?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Do’s and Don’ts of Coding in AI](https://medium.com/aidion/the-dos-and-don-ts-of-coding-in-ai-38ba896fc58e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gemini Spark Is Not a Better Chatbot. It Is a Background Employee.](https://medium.com/@acrux.nina/gemini-spark-is-not-a-better-chatbot-it-is-a-background-employee-c786110ff0e5?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Most Expensive Place to Discover Executive Intent Is During Implementation](https://timhourigan.medium.com/the-most-expensive-place-to-discover-executive-intent-is-during-implementation-92364e3e5237?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Intent Economy](https://timhourigan.medium.com/the-intent-economy-cd90bf21f672?source=rss------artificial_intelligence-5)**
+> 🔹 **[أحمد فندي أبو حشيش.. صانع محتوى يحظى بمتابعة واسعة في الخليج](https://medium.com/@pybmwm/%D8%A3%D8%AD%D9%85%D8%AF-%D9%81%D9%86%D8%AF%D9%8A-%D8%A3%D8%A8%D9%88-%D8%AD%D8%B4%D9%8A%D8%B4-%D8%B5%D8%A7%D9%86%D8%B9-%D9%85%D8%AD%D8%AA%D9%88%D9%89-%D9%8A%D8%AD%D8%B8%D9%89-%D8%A8%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-47790845b243?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
