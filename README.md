@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[11 Django Features That Make APIs More Maintainable](https://medium.com/@djangowiki/11-django-features-that-make-apis-more-maintainable-c45930b475e6?source=rss------backend_development-5)**
-> 🔹 **[Why Do We Need Another HTTP Method? I Asked the Same Question About QUERY](https://medium.com/@ayantik.sarkar2020/why-do-we-need-another-http-method-i-asked-the-same-question-about-query-2d2482922185?source=rss------backend_development-5)**
-> 🔹 **[Çalışan Kod Yetmez: Bir Backend’i Gerçek Bir Sisteme Dönüştürmek](https://medium.com/@berfin.zozan/%C3%A7al%C4%B1%C5%9Fan-kod-yetmez-bir-backendi-ger%C3%A7ek-bir-sisteme-d%C3%B6n%C3%BC%C5%9Ft%C3%BCrmek-91c97e282195?source=rss------backend_development-5)**
-> 🔹 **[Tiger Style: The Software Engineering Philosophy Behind Safe, Fast, and Predictable Systems](https://medium.com/@khmerlux8878/tiger-style-the-software-engineering-philosophy-behind-safe-fast-and-predictable-systems-a900f6f06d52?source=rss------system_design-5)**
-> 🔹 **[Mahasiswa KKN 21 Universitas Nurul Huda Kembangkan Vertikultur Gantung dari Limbah Botol Plasti...](https://medium.com/@ferdirifaldo/mahasiswa-kkn-21-universitas-nurul-huda-kembangkan-vertikultur-gantung-dari-limbah-botol-plastik-a43f9fff5efe?source=rss------artificial_intelligence-5)**
-> 🔹 **[Data type :](https://medium.com/@gogurlaradhika/data-type-0aee43d8c7d7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mahasiswa KKN 21 Universitas Nurul Huda Wujudkan Ketahanan Pangan melalui Pembuatan Taman Gizi...](https://medium.com/@ferdirifaldo/mahasiswa-kkn-21-universitas-nurul-huda-wujudkan-ketahanan-pangan-melalui-pembuatan-taman-gizi-di-d442d95cb27e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Not Sure What Color to Paint? Try Paintit.ai’s Guided Repaint Flow](https://medium.com/@paintit/not-sure-what-color-to-paint-try-paintit-ais-guided-repaint-flow-9c47826013d5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your DELETE + INSERT Is Burning PostgreSQL’s CPU. Here’s What’s Actually Happening on the Page.](https://medium.com/@sukach.v.v/your-delete-insert-is-burning-postgresqls-cpu-here-s-what-s-actually-happening-on-the-page-0fa0d86ef21b?source=rss------backend_development-5)**
+> 🔹 **[system design is the language. ai is the compiler.](https://medium.com/@arushkarnatak1881/system-design-is-the-language-ai-is-the-compiler-a1811ec1998c?source=rss------system_design-5)**
+> 🔹 **[AI-Powered Predictive Maintenance: The Next Step in Smarter UAV Manufacturing](https://medium.com/@sonalnyx036/ai-powered-predictive-maintenance-the-next-step-in-smarter-uav-manufacturing-0c20a168900d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Every Researcher Should Start Managing Research Intelligence Assets™](https://medium.com/@alexycliu/every-researcher-should-start-managing-research-intelligence-assets-5357455b18e0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Art of Taking Things Apart](https://www.designsystemscollective.com/the-art-of-taking-things-apart-747e837c072d?source=rss------system_design-5)**
+> 🔹 **[The Human-Only Premium: What the Philippines’ AI Classroom Fight Is Really About](https://justjansen.medium.com/the-human-only-premium-what-the-philippines-ai-classroom-fight-is-really-about-649a13998410?source=rss------artificial_intelligence-5)**
+> 🔹 **[There’s Already a Startup Selling Insurance for AI Agents](https://medium.com/@adskaul1234/theres-already-a-startup-selling-insurance-for-ai-agents-d706e4074491?source=rss------artificial_intelligence-5)**
+> 🔹 **[Coding Is Not Software Engineering: AI Is Changing Where the Engineering Happens](https://medium.com/@haider.mtech2011/coding-is-not-software-engineering-ai-is-changing-where-the-engineering-happens-ff191aa4e460?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
