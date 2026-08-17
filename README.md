@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Choose the Right AI Training Program for a Career in Technology](https://medium.com/@cs.mahalakshmi2707/how-to-choose-the-right-ai-training-program-for-a-career-in-technology-1870f6a7c47a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Asking Which AI Coding Model Is Best. That Question Is Becoming Irrelevant.](https://abdulwahabdev.medium.com/stop-asking-which-ai-coding-model-is-best-that-question-is-becoming-irrelevant-2a5b9b9f4dec?source=rss------artificial_intelligence-5)**
-> 🔹 **[Smart Home Security Systems Market: AI, Connected Living, and Key Trends Shaping 2030](https://medium.com/@santhoshtbrc/smart-home-security-systems-market-ai-connected-living-and-key-trends-shaping-2030-f4cc6d9961cf?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Founder-Led to System-Led Growth](https://medium.com/@shahzad_3157/from-founder-led-to-system-led-growth-a5508b35923d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Next Frontier in Citizen Participation — 1 of 3](https://medium.com/@stroombank/the-next-frontier-in-citizen-participation-1-of-3-aecc57c16a50?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Agent Doesn’t Need a Better Brain. It Needs Better Recovery.](https://harshith-vaddiparthy.medium.com/your-ai-agent-doesnt-need-a-better-brain-it-needs-better-recovery-7f898e18abbc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google AI Mode Is Changing SEO Traffic: How Websites Can Adapt](https://medium.com/@Biztechpulsehub/google-ai-mode-is-changing-seo-traffic-how-websites-can-adapt-5331313786c5?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Attack Surface: Why Your RAG Knowledge Base is a SOC Problem](https://ashutoshyadav-256.medium.com/the-hidden-attack-surface-why-your-rag-knowledge-base-is-a-soc-problem-b12fd2940895?source=rss------artificial_intelligence-5)**
+> 🔹 **[11 Django Features That Make APIs More Maintainable](https://medium.com/@djangowiki/11-django-features-that-make-apis-more-maintainable-c45930b475e6?source=rss------backend_development-5)**
+> 🔹 **[Why Do We Need Another HTTP Method? I Asked the Same Question About QUERY](https://medium.com/@ayantik.sarkar2020/why-do-we-need-another-http-method-i-asked-the-same-question-about-query-2d2482922185?source=rss------backend_development-5)**
+> 🔹 **[Çalışan Kod Yetmez: Bir Backend’i Gerçek Bir Sisteme Dönüştürmek](https://medium.com/@berfin.zozan/%C3%A7al%C4%B1%C5%9Fan-kod-yetmez-bir-backendi-ger%C3%A7ek-bir-sisteme-d%C3%B6n%C3%BC%C5%9Ft%C3%BCrmek-91c97e282195?source=rss------backend_development-5)**
+> 🔹 **[Tiger Style: The Software Engineering Philosophy Behind Safe, Fast, and Predictable Systems](https://medium.com/@khmerlux8878/tiger-style-the-software-engineering-philosophy-behind-safe-fast-and-predictable-systems-a900f6f06d52?source=rss------system_design-5)**
+> 🔹 **[Mahasiswa KKN 21 Universitas Nurul Huda Kembangkan Vertikultur Gantung dari Limbah Botol Plasti...](https://medium.com/@ferdirifaldo/mahasiswa-kkn-21-universitas-nurul-huda-kembangkan-vertikultur-gantung-dari-limbah-botol-plastik-a43f9fff5efe?source=rss------artificial_intelligence-5)**
+> 🔹 **[Data type :](https://medium.com/@gogurlaradhika/data-type-0aee43d8c7d7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mahasiswa KKN 21 Universitas Nurul Huda Wujudkan Ketahanan Pangan melalui Pembuatan Taman Gizi...](https://medium.com/@ferdirifaldo/mahasiswa-kkn-21-universitas-nurul-huda-wujudkan-ketahanan-pangan-melalui-pembuatan-taman-gizi-di-d442d95cb27e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Not Sure What Color to Paint? Try Paintit.ai’s Guided Repaint Flow](https://medium.com/@paintit/not-sure-what-color-to-paint-try-paintit-ais-guided-repaint-flow-9c47826013d5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
