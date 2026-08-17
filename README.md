@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The era of worldbuilding](https://medium.com/@lanceessner/the-era-of-worldbuilding-c0d987460286?source=rss------artificial_intelligence-5)**
-> 🔹 **[Humans + AI Agents: The Future of Work](https://medium.com/@Techsankar381/humans-ai-agents-the-future-of-work-7989ebefd759?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 AI Tools That Changed the Way I Work in 2026](https://medium.com/@bhagat-/7-ai-tools-that-changed-the-way-i-work-in-2026-c25b99f39fed?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Do’s and Don’ts of Coding in AI](https://medium.com/aidion/the-dos-and-don-ts-of-coding-in-ai-38ba896fc58e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gemini Spark Is Not a Better Chatbot. It Is a Background Employee.](https://medium.com/@acrux.nina/gemini-spark-is-not-a-better-chatbot-it-is-a-background-employee-c786110ff0e5?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Most Expensive Place to Discover Executive Intent Is During Implementation](https://timhourigan.medium.com/the-most-expensive-place-to-discover-executive-intent-is-during-implementation-92364e3e5237?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Intent Economy](https://timhourigan.medium.com/the-intent-economy-cd90bf21f672?source=rss------artificial_intelligence-5)**
-> 🔹 **[أحمد فندي أبو حشيش.. صانع محتوى يحظى بمتابعة واسعة في الخليج](https://medium.com/@pybmwm/%D8%A3%D8%AD%D9%85%D8%AF-%D9%81%D9%86%D8%AF%D9%8A-%D8%A3%D8%A8%D9%88-%D8%AD%D8%B4%D9%8A%D8%B4-%D8%B5%D8%A7%D9%86%D8%B9-%D9%85%D8%AD%D8%AA%D9%88%D9%89-%D9%8A%D8%AD%D8%B8%D9%89-%D8%A8%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-47790845b243?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Choose the Right AI Training Program for a Career in Technology](https://medium.com/@cs.mahalakshmi2707/how-to-choose-the-right-ai-training-program-for-a-career-in-technology-1870f6a7c47a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Asking Which AI Coding Model Is Best. That Question Is Becoming Irrelevant.](https://abdulwahabdev.medium.com/stop-asking-which-ai-coding-model-is-best-that-question-is-becoming-irrelevant-2a5b9b9f4dec?source=rss------artificial_intelligence-5)**
+> 🔹 **[Smart Home Security Systems Market: AI, Connected Living, and Key Trends Shaping 2030](https://medium.com/@santhoshtbrc/smart-home-security-systems-market-ai-connected-living-and-key-trends-shaping-2030-f4cc6d9961cf?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Founder-Led to System-Led Growth](https://medium.com/@shahzad_3157/from-founder-led-to-system-led-growth-a5508b35923d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Next Frontier in Citizen Participation — 1 of 3](https://medium.com/@stroombank/the-next-frontier-in-citizen-participation-1-of-3-aecc57c16a50?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Agent Doesn’t Need a Better Brain. It Needs Better Recovery.](https://harshith-vaddiparthy.medium.com/your-ai-agent-doesnt-need-a-better-brain-it-needs-better-recovery-7f898e18abbc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google AI Mode Is Changing SEO Traffic: How Websites Can Adapt](https://medium.com/@Biztechpulsehub/google-ai-mode-is-changing-seo-traffic-how-websites-can-adapt-5331313786c5?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Attack Surface: Why Your RAG Knowledge Base is a SOC Problem](https://ashutoshyadav-256.medium.com/the-hidden-attack-surface-why-your-rag-knowledge-base-is-a-soc-problem-b12fd2940895?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
