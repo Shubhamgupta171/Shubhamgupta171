@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Got My Senior Engineering Role in 2022. I’m Not Sure I’d Pass My Own Interview Today.](https://medium.com/@kakamber07/i-got-my-senior-engineering-role-in-2022-im-not-sure-i-d-pass-my-own-interview-today-439de9232062?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence Is Changing University Admissions.](https://virtualinternationalschool.medium.com/artificial-intelligence-is-changing-university-admissions-2149079c293e?source=rss------artificial_intelligence-5)**
-> 🔹 **[MCP with Database Integration: How to Connect AI to Your Data Step-by-Step](https://medium.com/@nramram4321/mcp-with-database-integration-how-to-connect-ai-to-your-data-step-by-step-727968d88ec9?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Generative AI Actually Creates Content: A Beginner’s Guide](https://medium.com/@nramram4321/how-generative-ai-actually-creates-content-a-beginners-guide-f9c519b59667?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Real ROI of AI in Healthcare Isn’t Diagnosis. It’s Admin.](https://xicomofficial.medium.com/the-real-roi-of-ai-in-healthcare-isnt-diagnosis-it-s-admin-50e932b420bd?source=rss------artificial_intelligence-5)**
-> 🔹 **[The defining privacy questions of the AI era.](https://promptartist.medium.com/the-defining-privacy-questions-of-the-ai-era-bc616c5d20fa?source=rss------artificial_intelligence-5)**
-> 🔹 **[ID CHIMGOZIRIM &lpar;Man Of Grace&rpar; is an International inspirational gospel music minister, who’s…](https://medium.com/@chimgozirim0308/id-chimgozirim-man-of-grace-is-an-international-inspirational-gospel-music-minister-whos-584592343039?source=rss------artificial_intelligence-5)**
-> 🔹 **[Technology Doesn’t Disrupt Business. People Do.](https://medium.com/@philgold/technology-doesnt-disrupt-business-people-do-9ba4a53ceb5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Django Just Killed Celery for Most Projects — And Nobody Noticed](https://medium.com/@yogeshkrishnanseeniraj/django-just-killed-celery-for-most-projects-and-nobody-noticed-c718b26ae3dd?source=rss------backend_development-5)**
+> 🔹 **[The Problems with RAG Start with How We Understand It](https://medium.com/@mkrwczyk.1/the-problems-with-rag-start-with-how-we-understand-it-36a4c2cef69b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is Programming Still Worth Learning in the Age of AI?](https://medium.com/@iam.victoria.brooks/is-programming-still-worth-learning-in-the-age-of-ai-e6323fbff6d4?source=rss------artificial_intelligence-5)**
+> 🔹 **[El cristianismo: la navaja suiza europea en su camino por los últimos dos mil años](https://medium.com/@teodorovalencia07/el-cristianismo-la-navaja-suiza-europea-en-su-camino-por-los-%C3%BAltimos-dos-mil-a%C3%B1os-9de0fc354d2e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Timing Is Evidence](https://augle.medium.com/timing-is-evidence-537c14ac5a17?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agent 2: The Yield Hunter — When Your Bot Learns to Distrust Its Own Data](https://medium.com/@askvoytek/agent-2-the-yield-hunter-when-your-bot-learns-to-distrust-its-own-data-8643df1d8eb6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Your LaTeX Compilation Takes 45 Seconds &lpar;And How We Fixed It&rpar;](https://medium.com/@official.letx.app/why-your-latex-compilation-takes-45-seconds-and-how-we-fixed-it-7fbe96b7b4d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Signs Your Business is Drowning in Busywork &lpar;And How AI Automation Fixes It&rpar;](https://medium.com/@solutions_77804/5-signs-your-business-is-drowning-in-busywork-and-how-ai-automation-fixes-it-e045ffe45948?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
