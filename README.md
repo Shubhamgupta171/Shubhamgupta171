@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What does an agentic SDLC actually look like?](https://stackoverflow.blog/2026/08/18/what-does-an-agentic-sdlc-actually-look-like/)**
-> 🔹 **[Why People Love “Limited Edition” Products](https://medium.com/@trymintly_/why-people-love-limited-edition-products-8ab420a6856d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Enterprise AI Doesn’t Have a Model Problem. It Has a Knowledge Problem.](https://medium.com/joinable/enterprise-ai-doesnt-have-a-model-problem-it-has-a-knowledge-problem-a7894b2f045a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Universal AI Job Search Copilot &amp; ATS Match Engine](https://medium.com/@kalyanjit/the-universal-ai-job-search-copilot-ats-match-engine-b1a2ff4d46c4?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Power of n8n: Why Bangalore Teams Are Rethinking Automation](https://medium.com/@deepikaammu58/the-hidden-power-of-n8n-why-bangalore-teams-are-rethinking-automation-9b3a92a916e0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Realizing $1.85 Trillion in Loss While Decoding Nature’s Algorithms](https://leyla-khrmn.medium.com/realizing-1-85-trillion-in-loss-while-decoding-natures-algorithms-2bd534ae05cc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building MediAssist: What I Learned Bringing an AI Chatbot Into Healthcare](https://medium.com/@sg2549070/building-mediassist-what-i-learned-bringing-an-ai-chatbot-into-healthcare-eb68a2674455?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Every Business in the UAE Needs an ISO 27001 Audit Dubai Experts Trust](https://medium.com/@shehafathima76/why-every-business-in-the-uae-needs-an-iso-27001-audit-dubai-experts-trust-9ce58c0604b9?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Got My Senior Engineering Role in 2022. I’m Not Sure I’d Pass My Own Interview Today.](https://medium.com/@kakamber07/i-got-my-senior-engineering-role-in-2022-im-not-sure-i-d-pass-my-own-interview-today-439de9232062?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence Is Changing University Admissions.](https://virtualinternationalschool.medium.com/artificial-intelligence-is-changing-university-admissions-2149079c293e?source=rss------artificial_intelligence-5)**
+> 🔹 **[MCP with Database Integration: How to Connect AI to Your Data Step-by-Step](https://medium.com/@nramram4321/mcp-with-database-integration-how-to-connect-ai-to-your-data-step-by-step-727968d88ec9?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Generative AI Actually Creates Content: A Beginner’s Guide](https://medium.com/@nramram4321/how-generative-ai-actually-creates-content-a-beginners-guide-f9c519b59667?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Real ROI of AI in Healthcare Isn’t Diagnosis. It’s Admin.](https://xicomofficial.medium.com/the-real-roi-of-ai-in-healthcare-isnt-diagnosis-it-s-admin-50e932b420bd?source=rss------artificial_intelligence-5)**
+> 🔹 **[The defining privacy questions of the AI era.](https://promptartist.medium.com/the-defining-privacy-questions-of-the-ai-era-bc616c5d20fa?source=rss------artificial_intelligence-5)**
+> 🔹 **[ID CHIMGOZIRIM &lpar;Man Of Grace&rpar; is an International inspirational gospel music minister, who’s…](https://medium.com/@chimgozirim0308/id-chimgozirim-man-of-grace-is-an-international-inspirational-gospel-music-minister-whos-584592343039?source=rss------artificial_intelligence-5)**
+> 🔹 **[Technology Doesn’t Disrupt Business. People Do.](https://medium.com/@philgold/technology-doesnt-disrupt-business-people-do-9ba4a53ceb5c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
