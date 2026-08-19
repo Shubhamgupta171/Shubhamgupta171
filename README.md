@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Java Backend in 2026: The Complete Roadmap From Core Java to Spring Boot, Kafka, AWS &amp; System…](https://medium.com/@samanlnayak2003/java-backend-in-2026-the-complete-roadmap-from-core-java-to-spring-boot-kafka-aws-system-78985c7dbb79?source=rss------backend_development-5)**
-> 🔹 **[Did ChatGPT Leak Your Data?](https://medium.com/your-ai-publication/did-chatgpt-leak-your-data-05cedb004cdd?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Employees Are Coming for Your Jobs — But Not in the Way You Think](https://medium.com/@MarkWlamplugh/ai-employees-are-coming-for-your-jobs-but-not-in-the-way-you-think-e05b6d22d9f1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Same Question, Same Answer](https://augle.medium.com/same-question-same-answer-aefed5049c1a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is Mel AI The New Character.AI?](https://medium.com/@AlexandriaJones93/is-mel-ai-the-new-character-ai-3e97ef9dc9a8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Eco-Friendly Google turned AI-Friendly](https://medium.com/whats-so-wrong-with-ai/eco-friendly-google-turned-ai-friendly-7527fa49c04b?source=rss------artificial_intelligence-5)**
-> 🔹 **[When the Model Isn’t Yours &lpar;Part 1&rpar;: Use AI Freely. Just Know What You’re Using.](https://medium.com/@betty.lin.twn/when-the-model-isnt-yours-part-1-use-ai-freely-just-know-what-you-re-using-9a878d296ca8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Commands for SEO: 30-Prompt Cheat Sheet &lpar;2026&rpar;](https://aitechsafar.medium.com/claude-commands-for-seo-30-prompt-cheat-sheet-2026-dc2af74e566b?source=rss------artificial_intelligence-5)**
+> 🔹 **[12 Agentic Harness Patterns from Claude Code](https://medium.com/@vikrantdheer/12-agentic-harness-patterns-from-claude-code-9501e9915fe5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your RAG Pipeline Works in English. That Tells You Almost Nothing About How It Works in Turkish...](https://medium.com/@AIbatros/your-rag-pipeline-works-in-english-that-tells-you-almost-nothing-about-how-it-works-in-turkish-5b7783fdc040?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Benchmark Can’t Measure Capability If the Model Already Read the Answers](https://medium.com/@AIbatros/a-benchmark-cant-measure-capability-if-the-model-already-read-the-answers-ac87a0675d51?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Do We Worship Struggle?](https://medium.com/data-science-collective/why-do-we-worship-struggle-da018e3ff082?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Data Pipeline Works. So Why Is Your Dashboard Wrong?](https://medium.com/@vermagauri865/your-data-pipeline-works-so-why-is-your-dashboard-wrong-309fa35f50f3?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Tech Investor Just Accused Anthropic of Wanting to Rule the World](https://medium.com/ai-tomorrow/a-tech-investor-just-accused-anthropic-of-wanting-to-rule-the-world-a8c0333c3308?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Zoom Call Has a Participant Nobody Invited, and a Federal Judge Just Gave It a Name](https://zvi-melkman.medium.com/your-zoom-call-has-a-participant-nobody-invited-and-a-federal-judge-just-gave-it-a-name-15dd8630e424?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 AI Tools Every Software Engineer Should Be Using in 2026](https://medium.com/write-a-catalyst/7-ai-tools-every-software-engineer-should-be-using-in-2026-dda77faed50d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
