@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Django Just Killed Celery for Most Projects — And Nobody Noticed](https://medium.com/@yogeshkrishnanseeniraj/django-just-killed-celery-for-most-projects-and-nobody-noticed-c718b26ae3dd?source=rss------backend_development-5)**
-> 🔹 **[The Problems with RAG Start with How We Understand It](https://medium.com/@mkrwczyk.1/the-problems-with-rag-start-with-how-we-understand-it-36a4c2cef69b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is Programming Still Worth Learning in the Age of AI?](https://medium.com/@iam.victoria.brooks/is-programming-still-worth-learning-in-the-age-of-ai-e6323fbff6d4?source=rss------artificial_intelligence-5)**
-> 🔹 **[El cristianismo: la navaja suiza europea en su camino por los últimos dos mil años](https://medium.com/@teodorovalencia07/el-cristianismo-la-navaja-suiza-europea-en-su-camino-por-los-%C3%BAltimos-dos-mil-a%C3%B1os-9de0fc354d2e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Timing Is Evidence](https://augle.medium.com/timing-is-evidence-537c14ac5a17?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agent 2: The Yield Hunter — When Your Bot Learns to Distrust Its Own Data](https://medium.com/@askvoytek/agent-2-the-yield-hunter-when-your-bot-learns-to-distrust-its-own-data-8643df1d8eb6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Your LaTeX Compilation Takes 45 Seconds &lpar;And How We Fixed It&rpar;](https://medium.com/@official.letx.app/why-your-latex-compilation-takes-45-seconds-and-how-we-fixed-it-7fbe96b7b4d2?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Signs Your Business is Drowning in Busywork &lpar;And How AI Automation Fixes It&rpar;](https://medium.com/@solutions_77804/5-signs-your-business-is-drowning-in-busywork-and-how-ai-automation-fixes-it-e045ffe45948?source=rss------artificial_intelligence-5)**
+> 🔹 **[Java Backend in 2026: The Complete Roadmap From Core Java to Spring Boot, Kafka, AWS &amp; System…](https://medium.com/@samanlnayak2003/java-backend-in-2026-the-complete-roadmap-from-core-java-to-spring-boot-kafka-aws-system-78985c7dbb79?source=rss------backend_development-5)**
+> 🔹 **[Did ChatGPT Leak Your Data?](https://medium.com/your-ai-publication/did-chatgpt-leak-your-data-05cedb004cdd?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Employees Are Coming for Your Jobs — But Not in the Way You Think](https://medium.com/@MarkWlamplugh/ai-employees-are-coming-for-your-jobs-but-not-in-the-way-you-think-e05b6d22d9f1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Same Question, Same Answer](https://augle.medium.com/same-question-same-answer-aefed5049c1a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is Mel AI The New Character.AI?](https://medium.com/@AlexandriaJones93/is-mel-ai-the-new-character-ai-3e97ef9dc9a8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Eco-Friendly Google turned AI-Friendly](https://medium.com/whats-so-wrong-with-ai/eco-friendly-google-turned-ai-friendly-7527fa49c04b?source=rss------artificial_intelligence-5)**
+> 🔹 **[When the Model Isn’t Yours &lpar;Part 1&rpar;: Use AI Freely. Just Know What You’re Using.](https://medium.com/@betty.lin.twn/when-the-model-isnt-yours-part-1-use-ai-freely-just-know-what-you-re-using-9a878d296ca8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Commands for SEO: 30-Prompt Cheat Sheet &lpar;2026&rpar;](https://aitechsafar.medium.com/claude-commands-for-seo-30-prompt-cheat-sheet-2026-dc2af74e566b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
