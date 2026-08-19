@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[12 Agentic Harness Patterns from Claude Code](https://medium.com/@vikrantdheer/12-agentic-harness-patterns-from-claude-code-9501e9915fe5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your RAG Pipeline Works in English. That Tells You Almost Nothing About How It Works in Turkish...](https://medium.com/@AIbatros/your-rag-pipeline-works-in-english-that-tells-you-almost-nothing-about-how-it-works-in-turkish-5b7783fdc040?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Benchmark Can’t Measure Capability If the Model Already Read the Answers](https://medium.com/@AIbatros/a-benchmark-cant-measure-capability-if-the-model-already-read-the-answers-ac87a0675d51?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Do We Worship Struggle?](https://medium.com/data-science-collective/why-do-we-worship-struggle-da018e3ff082?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Data Pipeline Works. So Why Is Your Dashboard Wrong?](https://medium.com/@vermagauri865/your-data-pipeline-works-so-why-is-your-dashboard-wrong-309fa35f50f3?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Tech Investor Just Accused Anthropic of Wanting to Rule the World](https://medium.com/ai-tomorrow/a-tech-investor-just-accused-anthropic-of-wanting-to-rule-the-world-a8c0333c3308?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Zoom Call Has a Participant Nobody Invited, and a Federal Judge Just Gave It a Name](https://zvi-melkman.medium.com/your-zoom-call-has-a-participant-nobody-invited-and-a-federal-judge-just-gave-it-a-name-15dd8630e424?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 AI Tools Every Software Engineer Should Be Using in 2026](https://medium.com/write-a-catalyst/7-ai-tools-every-software-engineer-should-be-using-in-2026-dda77faed50d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Built a Search Gateway That Reduced Algolia API Costs by 48% Using Go and Redis](https://medium.com/@gk150899/how-i-built-a-search-gateway-that-reduced-algolia-api-costs-by-48-using-go-and-redis-66f74b80d9c1?source=rss------backend_development-5)**
+> 🔹 **[Most Prompts Don’t Make AI Think. This One Does.](https://medium.com/profitable-minds/most-prompts-dont-make-ai-think-this-one-does-9aa05b27ff51?source=rss------artificial_intelligence-5)**
+> 🔹 **[When creating becomes easier, choosing what deserves to exist becomes the real work.](https://medium.com/@natanayele2/when-creating-becomes-easier-choosing-what-deserves-to-exist-becomes-the-real-work-b1f3c1f44017?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Steps To Turn Posts Into Paying Customers](https://medium.com/@jjdspence/5-steps-to-turn-posts-into-paying-customers-f4899a5e7d3b?source=rss------artificial_intelligence-5)**
+> 🔹 **[GenAI in Production Is Very Different From a ChatGPT Demo](https://medium.com/@vvishwakarma/genai-in-production-is-very-different-from-a-chatgpt-demo-44a5f4edebca?source=rss------system_design-5)**
+> 🔹 **[Testing AI Skills: Conformance, Coverage, and Capability as Three Separate Axes](https://medium.com/@wasowski.jarek/testing-ai-skills-conformance-coverage-and-capability-as-three-separate-axes-ed9940be2b3d?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tested Matt Pocock’s Claude Code Skills, And The Lesson Was Not What I Expected](https://ai.plainenglish.io/i-tested-matt-pococks-claude-code-skills-and-the-lesson-was-not-what-i-expected-9f2aceca59c6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Densificar no es la solución. Es apenas el punto de partida.](https://medium.com/@velezrestrepoalejandro/densificar-no-es-la-soluci%C3%B3n-es-apenas-el-punto-de-partida-de3fbc582cb3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
