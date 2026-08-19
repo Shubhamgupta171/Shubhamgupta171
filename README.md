@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How I Built a Search Gateway That Reduced Algolia API Costs by 48% Using Go and Redis](https://medium.com/@gk150899/how-i-built-a-search-gateway-that-reduced-algolia-api-costs-by-48-using-go-and-redis-66f74b80d9c1?source=rss------backend_development-5)**
-> 🔹 **[Most Prompts Don’t Make AI Think. This One Does.](https://medium.com/profitable-minds/most-prompts-dont-make-ai-think-this-one-does-9aa05b27ff51?source=rss------artificial_intelligence-5)**
-> 🔹 **[When creating becomes easier, choosing what deserves to exist becomes the real work.](https://medium.com/@natanayele2/when-creating-becomes-easier-choosing-what-deserves-to-exist-becomes-the-real-work-b1f3c1f44017?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Steps To Turn Posts Into Paying Customers](https://medium.com/@jjdspence/5-steps-to-turn-posts-into-paying-customers-f4899a5e7d3b?source=rss------artificial_intelligence-5)**
-> 🔹 **[GenAI in Production Is Very Different From a ChatGPT Demo](https://medium.com/@vvishwakarma/genai-in-production-is-very-different-from-a-chatgpt-demo-44a5f4edebca?source=rss------system_design-5)**
-> 🔹 **[Testing AI Skills: Conformance, Coverage, and Capability as Three Separate Axes](https://medium.com/@wasowski.jarek/testing-ai-skills-conformance-coverage-and-capability-as-three-separate-axes-ed9940be2b3d?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested Matt Pocock’s Claude Code Skills, And The Lesson Was Not What I Expected](https://ai.plainenglish.io/i-tested-matt-pococks-claude-code-skills-and-the-lesson-was-not-what-i-expected-9f2aceca59c6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Densificar no es la solución. Es apenas el punto de partida.](https://medium.com/@velezrestrepoalejandro/densificar-no-es-la-soluci%C3%B3n-es-apenas-el-punto-de-partida-de3fbc582cb3?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a RAG Pipeline From Scratch to Understand What Frameworks Hide](https://medium.com/@asadsiddiquidev/i-built-a-rag-pipeline-from-scratch-to-understand-what-frameworks-hide-a0ee7debd544?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Changed My Job](https://medium.com/@dr.lodge.mccammon/ai-changed-my-job-8dd24c0e733a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Manifesto. Part II: Why HR Is a Point of Failure, Not a Point of Support](https://medium.com/@vsbdpyrk/manifesto-part-ii-why-hr-is-a-point-of-failure-not-a-point-of-support-336339978482?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who Is in Charge of Knowing Stuff in Your Life?](https://medium.com/@tomsims/who-is-in-charge-of-knowing-stuff-in-your-life-233810b77992?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Codebase Wasn’t Designed for AI](https://medium.com/@meysam.karimi84/your-codebase-wasnt-designed-for-ai-800bcf62bc2c?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Didn’t Give Them a Tutor. You Gave Them the Whole Internet and Hoped.](https://medium.com/@niranjan7988/you-didnt-give-them-a-tutor-you-gave-them-the-whole-internet-and-hoped-c05e0d355384?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Setting Temperature to Zero for “Consistent” AI Output](https://medium.com/ai-tomorrow/stop-setting-temperature-to-zero-for-consistent-ai-output-9dfde2df0f53?source=rss------artificial_intelligence-5)**
+> 🔹 **[L’IA : UN SOUTIEN OU UN REMPlACEMENT ?](https://medium.com/@parkerbrkln/lia-un-soutien-ou-un-remplacement-f02ce377a94d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
