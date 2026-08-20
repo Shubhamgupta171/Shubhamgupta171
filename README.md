@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Meta Muse Code Review: The Terminal Coding Agent Aimed Straight at Claude Code](https://medium.com/@bernardloki/meta-muse-code-review-the-terminal-coding-agent-aimed-straight-at-claude-code-5f8ea9ad3891?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Question Your Master Data Hasn’t Been Asked Yet](https://medium.com/@sonalgoyal/the-question-your-master-data-hasnt-been-asked-yet-38613fa36500?source=rss------artificial_intelligence-5)**
-> 🔹 **[Five Certifications That Are Actually Moving in 2026, and Who Each One Is For](https://medium.com/@gipmcorg/five-certifications-that-are-actually-moving-in-2026-and-who-each-one-is-for-0e1540768c07?source=rss------artificial_intelligence-5)**
-> 🔹 **[21 Things AI Could Do at Our Nonprofit. Here Is What We Built.](https://medium.com/journey-to-impact/21-things-ai-could-do-at-our-nonprofit-here-is-what-we-built-78b6a923b66f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Permission We Never Gave](https://pub.towardsai.net/the-permission-we-never-gave-1b416c03e59d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Don’t Build Your Digital Product Yet. Validate It First.](https://medium.com/@sp.egolights/dont-build-your-digital-product-yet-validate-it-first-745be7515e1d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Shadow AI Detections Rose 4x in a Year. 60% of Companies Still Have No Plan For It.](https://medium.com/@aboutnayon/shadow-ai-detections-rose-4x-in-a-year-60-of-companies-still-have-no-plan-for-it-b52cbf23e42f?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Ticket Can Track the Task. It Can’t Tell You Which Requirement AI Changed.](https://medium.com/@spark.tsai/a-ticket-can-track-the-task-it-cant-tell-you-which-requirement-ai-changed-59cea233002f?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Added a Retry. It Made Things Worse?](https://medium.com/dawn-of-logic/i-added-a-retry-it-made-things-worse-8284fbac3559?source=rss------system_design-5)**
+> 🔹 **[I Added a Retry. It Made Things Worse?](https://medium.com/dawn-of-logic/i-added-a-retry-it-made-things-worse-8284fbac3559?source=rss------backend_development-5)**
+> 🔹 **[The Death of the Generic Workout: How AI Is Ending the Era of “Copy-Paste” Fitness](https://medium.com/@jd837321/the-death-of-the-generic-workout-how-ai-is-ending-the-era-of-copy-paste-fitness-8f17a2ca1c06?source=rss------artificial_intelligence-5)**
+> 🔹 **[Securing Software at the Speed of AI](https://blog.palantir.com/securing-software-at-the-speed-of-ai-0b1d7ddd2bf0?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I’d Make My First $1,000 With AI Today — And Build Toward $3K/Month](https://medium.com/@joshuakennedy021/how-id-make-my-first-1-000-with-ai-today-and-build-toward-3k-month-291c8bdfa92e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Leetcode 75: Sort Colors](https://medium.com/@Rohit08/leetcode-75-sort-colors-e2216fc39c6d?source=rss------data_structures-5)**
+> 🔹 **[I Think We’re Starting to Get Tired of AI](https://medium.com/@brahmavasaniya/i-think-were-starting-to-get-tired-of-ai-4867a9c91b21?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Machine Learning to Agentic AI: The 70-Year AI Evolution &lpar; Visually Explained &rpar;](https://medium.com/ai-engineering-simplified/from-machine-learning-to-agentic-ai-the-70-year-ai-evolution-visually-explained-84d142eaabc1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
