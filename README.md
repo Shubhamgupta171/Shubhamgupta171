@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Singapore’s AI Jobs Boom Is Real.](https://medium.com/@mohan_69314/singapores-ai-jobs-boom-is-real-5cab89079b1c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Running Local SLMs on Mac: MLX Track, Part 1 — Setup with MLX](https://medium.com/@chandru.infinitive/running-local-slms-on-mac-mlx-track-part-1-setup-with-mlx-f542d42522bb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Young People Use AI the Most. So Why Are They the Most Worried About It?](https://ninza7.medium.com/young-people-use-ai-the-most-so-why-are-they-the-most-worried-about-it-8c00251a69fb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Every AI-Coding-Tool Review Crowns a Different Winner. I Mapped Four Verdicts to Four Workflows...](https://medium.com/@thebuildersplaybook/every-ai-coding-tool-review-crowns-a-different-winner-i-mapped-four-verdicts-to-four-workflows-479ea63b652f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Rise of Agentic AI: How Autonomous AI Agents Are Changing Workflows in 2026](https://medium.com/@rohanchhabra2025/the-rise-of-agentic-ai-how-autonomous-ai-agents-are-changing-workflows-in-2026-c7f32c1997b0?source=rss------artificial_intelligence-5)**
-> 🔹 **[OMNISIGNAL PRIME](https://medium.com/@benjamindhols/omnisignal-prime-2828a96f8ca1?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Referral Traffic Report: Which Indie Tools Are Getting Visitors from ChatGPT?](https://medium.com/@Justin3go/ai-referral-traffic-report-which-indie-tools-are-getting-visitors-from-chatgpt-3b6a4537c214?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Stock Market Is Celebrating Your Replacement](https://medium.com/@jamestasticc/the-stock-market-is-celebrating-your-replacement-92021636e2d6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Trace the Data Route Before You Connect AI](https://medium.com/@ai_93276/trace-the-data-route-before-you-connect-ai-1a411b3cc5ce?source=rss------artificial_intelligence-5)**
+> 🔹 **[Robot Humanoid Viral Lagi, Tapi Hype-nya Gak Secanggih yang Orang Kira.](https://medium.com/@zando_id/robot-humanoid-viral-lagi-tapi-hype-nya-gak-secanggih-yang-orang-kira-98e4baf90b60?source=rss------artificial_intelligence-5)**
+> 🔹 **[The SaaS Sprawl Problem: Why Enterprises Are Rethinking Their Software Stack](https://medium.com/@muhammadali.axix/the-saas-sprawl-problem-why-enterprises-are-rethinking-their-software-stack-628576ab2d9b?source=rss------artificial_intelligence-5)**
+> 🔹 **[India’s Data Centre Boom: The invisible infrastructure reshaping our cities and us](https://medium.com/@arp.sakshis96/indias-data-centre-boom-the-invisible-infrastructure-reshaping-our-cities-31760e638c15?source=rss------artificial_intelligence-5)**
+> 🔹 **[Creating Like God: What AI Just Revealed About the Maker in All of Us](https://medium.com/@metfab/creating-like-god-what-ai-just-revealed-about-the-maker-in-all-of-us-c6407d029175?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Changing Rare Disease Diagnosis and Clinical Decision-Making](https://medium.com/@xcelore/how-ai-is-changing-rare-disease-diagnosis-and-clinical-decision-making-65ab0a52c3f5?source=rss------artificial_intelligence-5)**
+> 🔹 **[“AI Writes 30% of Our Code” Measures Three Different Things, and the Interesting One Isn’t Bein...](https://medium.com/@AIbatros/ai-writes-30-of-our-code-measures-three-different-things-and-the-interesting-one-isnt-being-9deebbf123ec?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Model You Built On Will Be Retired, and the Worst Case Is That Nothing Breaks](https://medium.com/@AIbatros/the-model-you-built-on-will-be-retired-and-the-worst-case-is-that-nothing-breaks-224299e00474?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
