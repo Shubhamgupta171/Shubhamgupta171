@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Built a RAG Pipeline From Scratch to Understand What Frameworks Hide](https://medium.com/@asadsiddiquidev/i-built-a-rag-pipeline-from-scratch-to-understand-what-frameworks-hide-a0ee7debd544?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Changed My Job](https://medium.com/@dr.lodge.mccammon/ai-changed-my-job-8dd24c0e733a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Manifesto. Part II: Why HR Is a Point of Failure, Not a Point of Support](https://medium.com/@vsbdpyrk/manifesto-part-ii-why-hr-is-a-point-of-failure-not-a-point-of-support-336339978482?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who Is in Charge of Knowing Stuff in Your Life?](https://medium.com/@tomsims/who-is-in-charge-of-knowing-stuff-in-your-life-233810b77992?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Codebase Wasn’t Designed for AI](https://medium.com/@meysam.karimi84/your-codebase-wasnt-designed-for-ai-800bcf62bc2c?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Didn’t Give Them a Tutor. You Gave Them the Whole Internet and Hoped.](https://medium.com/@niranjan7988/you-didnt-give-them-a-tutor-you-gave-them-the-whole-internet-and-hoped-c05e0d355384?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Setting Temperature to Zero for “Consistent” AI Output](https://medium.com/ai-tomorrow/stop-setting-temperature-to-zero-for-consistent-ai-output-9dfde2df0f53?source=rss------artificial_intelligence-5)**
-> 🔹 **[L’IA : UN SOUTIEN OU UN REMPlACEMENT ?](https://medium.com/@parkerbrkln/lia-un-soutien-ou-un-remplacement-f02ce377a94d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Singapore’s AI Jobs Boom Is Real.](https://medium.com/@mohan_69314/singapores-ai-jobs-boom-is-real-5cab89079b1c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Running Local SLMs on Mac: MLX Track, Part 1 — Setup with MLX](https://medium.com/@chandru.infinitive/running-local-slms-on-mac-mlx-track-part-1-setup-with-mlx-f542d42522bb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Young People Use AI the Most. So Why Are They the Most Worried About It?](https://ninza7.medium.com/young-people-use-ai-the-most-so-why-are-they-the-most-worried-about-it-8c00251a69fb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Every AI-Coding-Tool Review Crowns a Different Winner. I Mapped Four Verdicts to Four Workflows...](https://medium.com/@thebuildersplaybook/every-ai-coding-tool-review-crowns-a-different-winner-i-mapped-four-verdicts-to-four-workflows-479ea63b652f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Rise of Agentic AI: How Autonomous AI Agents Are Changing Workflows in 2026](https://medium.com/@rohanchhabra2025/the-rise-of-agentic-ai-how-autonomous-ai-agents-are-changing-workflows-in-2026-c7f32c1997b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[OMNISIGNAL PRIME](https://medium.com/@benjamindhols/omnisignal-prime-2828a96f8ca1?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Referral Traffic Report: Which Indie Tools Are Getting Visitors from ChatGPT?](https://medium.com/@Justin3go/ai-referral-traffic-report-which-indie-tools-are-getting-visitors-from-chatgpt-3b6a4537c214?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Stock Market Is Celebrating Your Replacement](https://medium.com/@jamestasticc/the-stock-market-is-celebrating-your-replacement-92021636e2d6?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
