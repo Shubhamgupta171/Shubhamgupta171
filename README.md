@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Trace the Data Route Before You Connect AI](https://medium.com/@ai_93276/trace-the-data-route-before-you-connect-ai-1a411b3cc5ce?source=rss------artificial_intelligence-5)**
-> 🔹 **[Robot Humanoid Viral Lagi, Tapi Hype-nya Gak Secanggih yang Orang Kira.](https://medium.com/@zando_id/robot-humanoid-viral-lagi-tapi-hype-nya-gak-secanggih-yang-orang-kira-98e4baf90b60?source=rss------artificial_intelligence-5)**
-> 🔹 **[The SaaS Sprawl Problem: Why Enterprises Are Rethinking Their Software Stack](https://medium.com/@muhammadali.axix/the-saas-sprawl-problem-why-enterprises-are-rethinking-their-software-stack-628576ab2d9b?source=rss------artificial_intelligence-5)**
-> 🔹 **[India’s Data Centre Boom: The invisible infrastructure reshaping our cities and us](https://medium.com/@arp.sakshis96/indias-data-centre-boom-the-invisible-infrastructure-reshaping-our-cities-31760e638c15?source=rss------artificial_intelligence-5)**
-> 🔹 **[Creating Like God: What AI Just Revealed About the Maker in All of Us](https://medium.com/@metfab/creating-like-god-what-ai-just-revealed-about-the-maker-in-all-of-us-c6407d029175?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Is Changing Rare Disease Diagnosis and Clinical Decision-Making](https://medium.com/@xcelore/how-ai-is-changing-rare-disease-diagnosis-and-clinical-decision-making-65ab0a52c3f5?source=rss------artificial_intelligence-5)**
-> 🔹 **[“AI Writes 30% of Our Code” Measures Three Different Things, and the Interesting One Isn’t Bein...](https://medium.com/@AIbatros/ai-writes-30-of-our-code-measures-three-different-things-and-the-interesting-one-isnt-being-9deebbf123ec?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Model You Built On Will Be Retired, and the Worst Case Is That Nothing Breaks](https://medium.com/@AIbatros/the-model-you-built-on-will-be-retired-and-the-worst-case-is-that-nothing-breaks-224299e00474?source=rss------artificial_intelligence-5)**
+> 🔹 **[Meta Muse Code Review: The Terminal Coding Agent Aimed Straight at Claude Code](https://medium.com/@bernardloki/meta-muse-code-review-the-terminal-coding-agent-aimed-straight-at-claude-code-5f8ea9ad3891?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Question Your Master Data Hasn’t Been Asked Yet](https://medium.com/@sonalgoyal/the-question-your-master-data-hasnt-been-asked-yet-38613fa36500?source=rss------artificial_intelligence-5)**
+> 🔹 **[Five Certifications That Are Actually Moving in 2026, and Who Each One Is For](https://medium.com/@gipmcorg/five-certifications-that-are-actually-moving-in-2026-and-who-each-one-is-for-0e1540768c07?source=rss------artificial_intelligence-5)**
+> 🔹 **[21 Things AI Could Do at Our Nonprofit. Here Is What We Built.](https://medium.com/journey-to-impact/21-things-ai-could-do-at-our-nonprofit-here-is-what-we-built-78b6a923b66f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Permission We Never Gave](https://pub.towardsai.net/the-permission-we-never-gave-1b416c03e59d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Don’t Build Your Digital Product Yet. Validate It First.](https://medium.com/@sp.egolights/dont-build-your-digital-product-yet-validate-it-first-745be7515e1d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Shadow AI Detections Rose 4x in a Year. 60% of Companies Still Have No Plan For It.](https://medium.com/@aboutnayon/shadow-ai-detections-rose-4x-in-a-year-60-of-companies-still-have-no-plan-for-it-b52cbf23e42f?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Ticket Can Track the Task. It Can’t Tell You Which Requirement AI Changed.](https://medium.com/@spark.tsai/a-ticket-can-track-the-task-it-cant-tell-you-which-requirement-ai-changed-59cea233002f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
