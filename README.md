@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Added a Retry. It Made Things Worse?](https://medium.com/dawn-of-logic/i-added-a-retry-it-made-things-worse-8284fbac3559?source=rss------system_design-5)**
-> 🔹 **[I Added a Retry. It Made Things Worse?](https://medium.com/dawn-of-logic/i-added-a-retry-it-made-things-worse-8284fbac3559?source=rss------backend_development-5)**
-> 🔹 **[The Death of the Generic Workout: How AI Is Ending the Era of “Copy-Paste” Fitness](https://medium.com/@jd837321/the-death-of-the-generic-workout-how-ai-is-ending-the-era-of-copy-paste-fitness-8f17a2ca1c06?source=rss------artificial_intelligence-5)**
-> 🔹 **[Securing Software at the Speed of AI](https://blog.palantir.com/securing-software-at-the-speed-of-ai-0b1d7ddd2bf0?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I’d Make My First $1,000 With AI Today — And Build Toward $3K/Month](https://medium.com/@joshuakennedy021/how-id-make-my-first-1-000-with-ai-today-and-build-toward-3k-month-291c8bdfa92e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Leetcode 75: Sort Colors](https://medium.com/@Rohit08/leetcode-75-sort-colors-e2216fc39c6d?source=rss------data_structures-5)**
-> 🔹 **[I Think We’re Starting to Get Tired of AI](https://medium.com/@brahmavasaniya/i-think-were-starting-to-get-tired-of-ai-4867a9c91b21?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Machine Learning to Agentic AI: The 70-Year AI Evolution &lpar; Visually Explained &rpar;](https://medium.com/ai-engineering-simplified/from-machine-learning-to-agentic-ai-the-70-year-ai-evolution-visually-explained-84d142eaabc1?source=rss------artificial_intelligence-5)**
+> 🔹 **[2026 Best Chat APIs for Web, Mobile, and Desktop Apps — Top 6](https://medium.com/@peng-Stella/2026-best-chat-apis-for-web-mobile-and-desktop-apps-top-6-00352aad2da0?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 AI Workflows That Can Save Hours Every Week in 2026](https://medium.com/@workspaceboosters/7-ai-workflows-that-can-save-hours-every-week-in-2026-3099857115e7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The CLI Is Having a Second Life](https://mithatakbulut.medium.com/the-cli-is-having-a-second-life-a533ec595996?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Will Not Kill Enterprise Software. It Will Divide the Market](https://medium.com/@ljain6462/ai-will-not-kill-enterprise-software-it-will-divide-the-market-07f4a985e579?source=rss------artificial_intelligence-5)**
+> 🔹 **[Small Language Models vs Large Language Models: Why Efficiency Is the New Frontier of Artificia...](https://medium.com/@rohanchhabra2025/small-language-models-vs-large-language-models-why-efficiency-is-the-new-frontier-of-artificial-84319619b8f0?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Just Broke Something Fundamental About Mathematics](https://ninza7.medium.com/ai-just-broke-something-fundamental-about-mathematics-cac88405399f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The “Only AI Comparison You Need” Was Published in April. By August, Five of Its Facts Had Expi...](https://medium.com/@thebuildersplaybook/the-only-ai-comparison-you-need-was-published-in-april-by-august-five-of-its-facts-had-expired-ce77a4a715f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[What if your boss fires you and it is an AI. Well, it is a real story….](https://medium.com/law-and-ethics-in-tech/what-if-your-boss-fires-you-and-it-is-an-ai-well-it-is-a-real-story-fb31f0caec55?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
