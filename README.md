@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[2026 Best Chat APIs for Web, Mobile, and Desktop Apps — Top 6](https://medium.com/@peng-Stella/2026-best-chat-apis-for-web-mobile-and-desktop-apps-top-6-00352aad2da0?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 AI Workflows That Can Save Hours Every Week in 2026](https://medium.com/@workspaceboosters/7-ai-workflows-that-can-save-hours-every-week-in-2026-3099857115e7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The CLI Is Having a Second Life](https://mithatakbulut.medium.com/the-cli-is-having-a-second-life-a533ec595996?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Will Not Kill Enterprise Software. It Will Divide the Market](https://medium.com/@ljain6462/ai-will-not-kill-enterprise-software-it-will-divide-the-market-07f4a985e579?source=rss------artificial_intelligence-5)**
-> 🔹 **[Small Language Models vs Large Language Models: Why Efficiency Is the New Frontier of Artificia...](https://medium.com/@rohanchhabra2025/small-language-models-vs-large-language-models-why-efficiency-is-the-new-frontier-of-artificial-84319619b8f0?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Just Broke Something Fundamental About Mathematics](https://ninza7.medium.com/ai-just-broke-something-fundamental-about-mathematics-cac88405399f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The “Only AI Comparison You Need” Was Published in April. By August, Five of Its Facts Had Expi...](https://medium.com/@thebuildersplaybook/the-only-ai-comparison-you-need-was-published-in-april-by-august-five-of-its-facts-had-expired-ce77a4a715f6?source=rss------artificial_intelligence-5)**
-> 🔹 **[What if your boss fires you and it is an AI. Well, it is a real story….](https://medium.com/law-and-ethics-in-tech/what-if-your-boss-fires-you-and-it-is-an-ai-well-it-is-a-real-story-fb31f0caec55?source=rss------artificial_intelligence-5)**
+> 🔹 **[Get rid of your CAPTCHA, the future of the web is bots](https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/)**
+> 🔹 **[Cakranex: Membedah Aliran Modal Penambang Bitcoin ke Sektor AI dan HPC](https://medium.com/@Cakranex/cakranex-membedah-aliran-modal-penambang-bitcoin-ke-sektor-ai-dan-hpc-a6cb8043b238?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Test a 60 Per Cent AI Saving Before You Buy](https://medium.com/@ai_93276/how-to-test-a-60-per-cent-ai-saving-before-you-buy-119fc849f37e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Deck Is the Last Thing I Build: A Claude Code System for Tech Talks](https://medium.com/@piotr.kalanski/the-deck-is-the-last-thing-i-build-a-claude-code-system-for-tech-talks-102a2737a38c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Part 3: The knowledge design behind a business AI assistant that doesn’t guess](https://arg-software.medium.com/part-3-the-knowledge-design-behind-a-business-ai-assistant-that-doesnt-guess-10e7e6206c8e?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Changing IT Service Management for Modern Enterprises](https://medium.com/@travisbeckham94/how-ai-is-changing-it-service-management-for-modern-enterprises-d7497ce35874?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Running Out of Something More Valuable Than GPUs: Real Human Data](https://abdulwahabdev.medium.com/ai-is-running-out-of-something-more-valuable-than-gpus-real-human-data-8074aa29b4fc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The People Who Made Your Model Work Are Not Mentioned Anywhere in the Paper](https://medium.com/@AIbatros/the-people-who-made-your-model-work-are-not-mentioned-anywhere-in-the-paper-5a19980df96e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
