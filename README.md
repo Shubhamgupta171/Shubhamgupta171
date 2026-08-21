@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AXON-AI PROTOCOL IS DEVELOPING THE FUTURE OF ON-CHAIN AI &amp; TOKEN LAUNCHES! ⚡](https://medium.com/@hvn1980/axon-ai-protocol-is-developing-the-future-of-on-chain-ai-token-launches-c1db18612b51?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Catalogue of Documented Real-World Harms from LLM Errors](https://chierhu.medium.com/a-catalogue-of-documented-real-world-harms-from-llm-errors-3875b8b54702?source=rss------artificial_intelligence-5)**
-> 🔹 **[Understanding Nvidia](https://medium.com/enrique-dans/understanding-nvidia-03723816f2db?source=rss------artificial_intelligence-5)**
-> 🔹 **[Real-Time Speech Translation in Restaurants: Better Communication](https://medium.com/@dharmesh01/real-time-speech-translation-in-restaurants-better-communication-9dc4cb648ce8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The IKEA Effect Is Coming for Your AI Side Hustle](https://medium.com/@tomenop1114/the-ikea-effect-is-coming-for-your-ai-side-hustle-5175fd27dc5e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Azure AI Landing Zone for APIM — Subscription Hierarchy](https://kyleake.medium.com/azure-ai-landing-zone-for-apim-subscription-hierarchy-6435439a9783?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Friday Agile Sync: Extreme Programming — How AI Pairing Wins by Teaching Less](https://medium.com/inventive-flexibility/the-friday-agile-sync-extreme-programming-how-ai-pairing-wins-by-teaching-less-f57b5c281e4b?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Now Writes 46% of Enterprise Code. One in Four Samples Ships With a Real Vulnerability.](https://medium.com/@aboutnayon/ai-now-writes-46-of-enterprise-code-one-in-four-samples-ships-with-a-real-vulnerability-a64e67b9c48d?source=rss------artificial_intelligence-5)**
+> 🔹 **[AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support](https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/)**
+> 🔹 **[Deepshi vs. Venice AI: An Uncensored AI Comparison &lpar;2026&rpar;](https://medium.com/@marketing_85488/deepshi-vs-venice-ai-an-uncensored-ai-comparison-2026-48bc36c96fbb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is AI Really Diminishing Our Cognitive Ability?](https://medium.com/@abhaygaur2017/is-ai-really-diminishing-our-cognitive-ability-96719adf0105?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond Simple Prompts: How I Built an Autonomous AI Paint Estimator in Google Cloud](https://medium.com/@shivam0972000/beyond-simple-prompts-how-i-built-an-autonomous-ai-paint-estimator-in-google-cloud-83218efa1f7a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your LLM Retry Logic Has a Trapdoor at the Bottom](https://pub.towardsai.net/your-llm-retry-logic-has-a-trapdoor-at-the-bottom-2337c0fddf4f?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tried 15 C/C++ Alternatives, But Came Back to C/C++](https://levelup.gitconnected.com/i-tried-15-c-c-alternatives-but-came-back-to-c-c-da814bc065c0?source=rss----5517fd7b58a6---4)**
+> 🔹 **[The Merge That Quietly Invented $125 of Revenue](https://levelup.gitconnected.com/the-merge-that-quietly-invented-125-of-revenue-a9af348af146?source=rss----5517fd7b58a6---4)**
+> 🔹 **[The Merge That Quietly Invented $125 of Revenue](https://levelup.gitconnected.com/the-merge-that-quietly-invented-125-of-revenue-a9af348af146?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
