@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your Postgres Can Do That](https://medium.com/@patheditor1/your-postgres-can-do-that-f3701f6928b2?source=rss------backend_development-5)**
-> 🔹 **[A New Fed Chair Is About to Give His First Major Speech Here’s Why This Week Could Move Every…](https://medium.com/@alyanhashmi302/a-new-fed-chair-is-about-to-give-his-first-major-speech-heres-why-this-week-could-move-every-622493fd11e8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Autonomous Agentic AI Frameworks for Enterprise Data Automation](https://medium.com/@kushvanthchowdarynagabhyru/autonomous-agentic-ai-frameworks-for-enterprise-data-automation-71b3ddea4b31?source=rss------artificial_intelligence-5)**
-> 🔹 **[Title: How AI is Making Daily Life Easier](https://medium.com/@ehsanuullah/title-how-ai-is-making-daily-life-easier-3205d8ece4f9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Generative Engine Optimization &lpar;GEO&rpar;: The Future of Blog SEO](https://medium.com/@tsdigitalstudio000/generative-engine-optimization-geo-the-future-of-blog-seo-47684450aad7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can AI Fix the Kiosk Margaret Couldn’t Use? Part 2/2](https://medium.com/@ioexpert01/can-ai-fix-the-kiosk-margaret-couldnt-use-part-2-2-fd2da7683c76?source=rss------artificial_intelligence-5)**
-> 🔹 **[3 Numbers That Prove Most AI Trading Bots Are Losing Money in 2026](https://medium.com/@shankarbhoi/3-numbers-that-prove-most-ai-trading-bots-are-losing-money-in-2026-078c1ecb6c6d?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Taking All the Skills and Jobs: Casting a Shadow over the Global Labour Market.](https://medium.com/@ezehe121/ai-is-taking-all-the-skills-and-jobs-casting-a-shadow-over-the-global-labour-market-81a627a36157?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Borrow Checker Isn’t a Memory Safety Tool. It’s a Distributed Systems Proof Assistant.](https://medium.com/@ashishjsharda/the-borrow-checker-isnt-a-memory-safety-tool-it-s-a-distributed-systems-proof-assistant-a6cb1f63b8d9?source=rss------system_design-5)**
+> 🔹 **[AI and the Happy Accident](https://michaeljwhalen.medium.com/ai-and-the-happy-accident-b142e655994d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Humans are not working anymore; different human-sponsored AIs work with one another — Food for…](https://thesagekhan.medium.com/humans-are-not-working-anymore-different-human-sponsored-ais-work-with-one-another-food-for-c68d27a1973c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Atomic Database Operations in High-Concurrency Systems: Patterns, Trade-offs, and Choosing the…](https://medium.com/@gowthamkarthik1823/atomic-database-operations-in-high-concurrency-systems-patterns-trade-offs-and-choosing-the-82c3e29dae3b?source=rss------system_design-5)**
+> 🔹 **[Atomic Database Operations in High-Concurrency Systems: Patterns, Trade-offs, and Choosing the…](https://medium.com/@gowthamkarthik1823/atomic-database-operations-in-high-concurrency-systems-patterns-trade-offs-and-choosing-the-82c3e29dae3b?source=rss------backend_development-5)**
+> 🔹 **[Mandatory Surveillance Is Quietly Funding the Emotion AI Revolution](https://medium.com/@thee9063/mandatory-surveillance-is-quietly-funding-the-emotion-ai-revolution-9053b69dfe9f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Thank You for the Open Door… and the Closed One ️✨](https://medium.com/@AntonioBhardwaj.com/thank-you-for-the-open-door-and-the-closed-one-%EF%B8%8F-6baa363209af?source=rss------artificial_intelligence-5)**
+> 🔹 **[When the Center Holds, Yet the Dance Still Wavers ️✨](https://medium.com/@AntonioBhardwaj.com/when-the-center-holds-yet-the-dance-still-wavers-%EF%B8%8F-de3c043a6186?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
