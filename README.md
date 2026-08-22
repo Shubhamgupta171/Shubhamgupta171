@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Borrow Checker Isn’t a Memory Safety Tool. It’s a Distributed Systems Proof Assistant.](https://medium.com/@ashishjsharda/the-borrow-checker-isnt-a-memory-safety-tool-it-s-a-distributed-systems-proof-assistant-a6cb1f63b8d9?source=rss------system_design-5)**
-> 🔹 **[AI and the Happy Accident](https://michaeljwhalen.medium.com/ai-and-the-happy-accident-b142e655994d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Humans are not working anymore; different human-sponsored AIs work with one another — Food for…](https://thesagekhan.medium.com/humans-are-not-working-anymore-different-human-sponsored-ais-work-with-one-another-food-for-c68d27a1973c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Atomic Database Operations in High-Concurrency Systems: Patterns, Trade-offs, and Choosing the…](https://medium.com/@gowthamkarthik1823/atomic-database-operations-in-high-concurrency-systems-patterns-trade-offs-and-choosing-the-82c3e29dae3b?source=rss------system_design-5)**
-> 🔹 **[Atomic Database Operations in High-Concurrency Systems: Patterns, Trade-offs, and Choosing the…](https://medium.com/@gowthamkarthik1823/atomic-database-operations-in-high-concurrency-systems-patterns-trade-offs-and-choosing-the-82c3e29dae3b?source=rss------backend_development-5)**
-> 🔹 **[Mandatory Surveillance Is Quietly Funding the Emotion AI Revolution](https://medium.com/@thee9063/mandatory-surveillance-is-quietly-funding-the-emotion-ai-revolution-9053b69dfe9f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Thank You for the Open Door… and the Closed One ️✨](https://medium.com/@AntonioBhardwaj.com/thank-you-for-the-open-door-and-the-closed-one-%EF%B8%8F-6baa363209af?source=rss------artificial_intelligence-5)**
-> 🔹 **[When the Center Holds, Yet the Dance Still Wavers ️✨](https://medium.com/@AntonioBhardwaj.com/when-the-center-holds-yet-the-dance-still-wavers-%EF%B8%8F-de3c043a6186?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Taught an AI to Fix Its Own Work. Then We Looked at What Actually Taught It.](https://medium.com/@jesus.salas_67779/we-taught-an-ai-to-fix-its-own-work-then-we-looked-at-what-actually-taught-it-d6ac0402198f?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI IS CHANGING THE WORLD — BUT ARE WE READY?](https://medium.com/@Joelmutwiri/ai-is-changing-the-world-but-are-we-ready-2029f69162d5?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Replaced Finfluencers With Chatbots. The Advice Got Better and the Gap Got Wider.](https://medium.com/@ybhagat2011/we-replaced-finfluencers-with-chatbots-the-advice-got-better-and-the-gap-got-wider-8632b88aa426?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agent Opus Launches Brand Intelligence for AI Video](https://medium.com/@oananmatei/agent-opus-launches-brand-intelligence-for-ai-video-49cb6e0a701b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Hello, Dataset. I’m Data. Nice to Meet you](https://medium.com/@sujal.2005.gundlapelli/hello-dataset-im-data-nice-to-meet-you-38ae76af69e5?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Secret Code of Egyptian Names: How We Engineered a 14-Dimensional NLP Engine](https://medium.com/@abdullah.afify/the-secret-code-of-egyptian-names-how-we-engineered-a-14-dimensional-nlp-engine-5205db7f04f4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Podcast : Inside a16z’s Top 100 AI Apps Report with Olivia Moore](https://medium.com/@huanzidage/podcast-inside-a16zs-top-100-ai-apps-report-with-olivia-moore-2e2ab77c23e8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Android AI Agent Should Think Freely, But Never Act Freely](https://medium.com/@praveen.dheep/your-android-ai-agent-should-think-freely-but-never-act-freely-3a79c95fac7a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
