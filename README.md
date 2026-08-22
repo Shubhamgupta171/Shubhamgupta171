@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support](https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/)**
-> 🔹 **[Deepshi vs. Venice AI: An Uncensored AI Comparison &lpar;2026&rpar;](https://medium.com/@marketing_85488/deepshi-vs-venice-ai-an-uncensored-ai-comparison-2026-48bc36c96fbb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is AI Really Diminishing Our Cognitive Ability?](https://medium.com/@abhaygaur2017/is-ai-really-diminishing-our-cognitive-ability-96719adf0105?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond Simple Prompts: How I Built an Autonomous AI Paint Estimator in Google Cloud](https://medium.com/@shivam0972000/beyond-simple-prompts-how-i-built-an-autonomous-ai-paint-estimator-in-google-cloud-83218efa1f7a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your LLM Retry Logic Has a Trapdoor at the Bottom](https://pub.towardsai.net/your-llm-retry-logic-has-a-trapdoor-at-the-bottom-2337c0fddf4f?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tried 15 C/C++ Alternatives, But Came Back to C/C++](https://levelup.gitconnected.com/i-tried-15-c-c-alternatives-but-came-back-to-c-c-da814bc065c0?source=rss----5517fd7b58a6---4)**
-> 🔹 **[The Merge That Quietly Invented $125 of Revenue](https://levelup.gitconnected.com/the-merge-that-quietly-invented-125-of-revenue-a9af348af146?source=rss----5517fd7b58a6---4)**
-> 🔹 **[The Merge That Quietly Invented $125 of Revenue](https://levelup.gitconnected.com/the-merge-that-quietly-invented-125-of-revenue-a9af348af146?source=rss------artificial_intelligence-5)**
+> 🔹 **[One Question, Two Retrieval Engines: Building an AI System for PTSD Clinical Trials.](https://medium.com/@malliksiddarth/one-question-two-retrieval-engines-building-an-ai-system-for-ptsd-clinical-trials-23f7fd49a490?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Saving Us Time — So Why Do We Feel More Tired Than Ever?](https://medium.com/soultouch/ai-is-saving-us-time-so-why-do-we-feel-more-tired-than-ever-84cf8208b69c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Artificial Intelligence Can Globalize Education for the World’s Underprivileged Students](https://medium.com/@akshar.sinha7/how-artificial-intelligence-can-globalize-education-for-the-worlds-underprivileged-students-8fdc842081e7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Aequalis: A New Model for Understanding How Minds Work Together](https://medium.com/@airicamartel/aequalis-a-new-model-for-understanding-how-minds-work-together-cc6a5a016b24?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Can Learn From an Artist Without an Output Being Traceable Back to Them](https://ninza7.medium.com/ai-can-learn-from-an-artist-without-an-output-being-traceable-back-to-them-00845c9b1190?source=rss------artificial_intelligence-5)**
+> 🔹 **[Multimodal AI: Building Applications That Understand Text, Images, Video, and Audio Together](https://medium.com/@rohanchhabra2025/multimodal-ai-building-applications-that-understand-text-images-video-and-audio-together-165615bec285?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Best Open-Source AI Model of 2026 Needs 64 GPUs to Say Hello.](https://medium.com/@thebuildersplaybook/the-best-open-source-ai-model-of-2026-needs-64-gpus-to-say-hello-7cdbcdc06ca4?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Let AI Analyze 3 Years of My Own Code Commits. It Found a Pattern I Didn’t Want to See.](https://medium.com/illumination/i-let-ai-analyze-3-years-of-my-own-code-commits-it-found-a-pattern-i-didnt-want-to-see-8b000d4b0f0c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
