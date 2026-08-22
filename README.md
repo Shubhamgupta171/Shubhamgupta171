@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[One Question, Two Retrieval Engines: Building an AI System for PTSD Clinical Trials.](https://medium.com/@malliksiddarth/one-question-two-retrieval-engines-building-an-ai-system-for-ptsd-clinical-trials-23f7fd49a490?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Saving Us Time — So Why Do We Feel More Tired Than Ever?](https://medium.com/soultouch/ai-is-saving-us-time-so-why-do-we-feel-more-tired-than-ever-84cf8208b69c?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Artificial Intelligence Can Globalize Education for the World’s Underprivileged Students](https://medium.com/@akshar.sinha7/how-artificial-intelligence-can-globalize-education-for-the-worlds-underprivileged-students-8fdc842081e7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Aequalis: A New Model for Understanding How Minds Work Together](https://medium.com/@airicamartel/aequalis-a-new-model-for-understanding-how-minds-work-together-cc6a5a016b24?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Can Learn From an Artist Without an Output Being Traceable Back to Them](https://ninza7.medium.com/ai-can-learn-from-an-artist-without-an-output-being-traceable-back-to-them-00845c9b1190?source=rss------artificial_intelligence-5)**
-> 🔹 **[Multimodal AI: Building Applications That Understand Text, Images, Video, and Audio Together](https://medium.com/@rohanchhabra2025/multimodal-ai-building-applications-that-understand-text-images-video-and-audio-together-165615bec285?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Best Open-Source AI Model of 2026 Needs 64 GPUs to Say Hello.](https://medium.com/@thebuildersplaybook/the-best-open-source-ai-model-of-2026-needs-64-gpus-to-say-hello-7cdbcdc06ca4?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Let AI Analyze 3 Years of My Own Code Commits. It Found a Pattern I Didn’t Want to See.](https://medium.com/illumination/i-let-ai-analyze-3-years-of-my-own-code-commits-it-found-a-pattern-i-didnt-want-to-see-8b000d4b0f0c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Postgres Can Do That](https://medium.com/@patheditor1/your-postgres-can-do-that-f3701f6928b2?source=rss------backend_development-5)**
+> 🔹 **[A New Fed Chair Is About to Give His First Major Speech Here’s Why This Week Could Move Every…](https://medium.com/@alyanhashmi302/a-new-fed-chair-is-about-to-give-his-first-major-speech-heres-why-this-week-could-move-every-622493fd11e8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Autonomous Agentic AI Frameworks for Enterprise Data Automation](https://medium.com/@kushvanthchowdarynagabhyru/autonomous-agentic-ai-frameworks-for-enterprise-data-automation-71b3ddea4b31?source=rss------artificial_intelligence-5)**
+> 🔹 **[Title: How AI is Making Daily Life Easier](https://medium.com/@ehsanuullah/title-how-ai-is-making-daily-life-easier-3205d8ece4f9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Generative Engine Optimization &lpar;GEO&rpar;: The Future of Blog SEO](https://medium.com/@tsdigitalstudio000/generative-engine-optimization-geo-the-future-of-blog-seo-47684450aad7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can AI Fix the Kiosk Margaret Couldn’t Use? Part 2/2](https://medium.com/@ioexpert01/can-ai-fix-the-kiosk-margaret-couldnt-use-part-2-2-fd2da7683c76?source=rss------artificial_intelligence-5)**
+> 🔹 **[3 Numbers That Prove Most AI Trading Bots Are Losing Money in 2026](https://medium.com/@shankarbhoi/3-numbers-that-prove-most-ai-trading-bots-are-losing-money-in-2026-078c1ecb6c6d?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Taking All the Skills and Jobs: Casting a Shadow over the Global Labour Market.](https://medium.com/@ezehe121/ai-is-taking-all-the-skills-and-jobs-casting-a-shadow-over-the-global-labour-market-81a627a36157?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
