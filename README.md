@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Stripe bought OpenRouter](https://maa1.medium.com/why-stripe-bought-openrouter-082f905a6d98?source=rss------artificial_intelligence-5)**
-> 🔹 **[The people using your design system don’t work here](https://www.designsystemscollective.com/the-people-using-your-design-system-dont-work-here-1a3f3bcdde4c?source=rss------system_design-5)**
-> 🔹 **[AI Makes a Podcast in Minutes. Spotify’s First Payout Is $48 a Month.](https://medium.com/@automation.labs/ai-makes-a-podcast-in-minutes-spotifys-first-payout-is-48-a-month-72712b0acabb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Generalization: When Learning Is More Than Memorizing](https://medium.com/@anupamapb/generalization-when-learning-is-more-than-memorizing-04ceeac0223a?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Prepared for the CAIE™ Exam: 5 Lessons That Helped Me Succeed](https://medium.com/@haris5705/how-i-prepared-for-the-caie-exam-5-lessons-that-helped-me-succeed-85613e26b3f0?source=rss------artificial_intelligence-5)**
-> 🔹 **[MCP Isn&#39;t Dead. It Just Has a Different Job.](https://koenvg.medium.com/mcp-isnt-dead-it-just-has-a-different-job-6a22c625118a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Where Is the Subtraction?](https://medium.com/@roblesrionegro/where-is-the-subtraction-3aadbf1c855c?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Writers Can Prove Their Work Is Human in the Age of AI Detection | Step by step solution |...](https://medium.com/@mahjabin_296/how-writers-can-prove-their-work-is-human-in-the-age-of-ai-detection-step-by-step-solution-2026-b6f56fff3a5b?source=rss------artificial_intelligence-5)**
+> 🔹 **[2. Holocaust: Ek Bada Narsamhar &lpar;Genocide&rpar; 
+​Hitler ki Nazi ideology rashtravad &lpar;nationalism&rpar; a...](https://medium.com/@naeemchanna50.60/2-holocaust-ek-bada-narsamhar-genocide-hitler-ki-nazi-ideology-rashtravad-nationalism-aur-250d80320dd7?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Group Chat Chaos to a Better Way to Travel Together](https://wanderwith.medium.com/from-group-chat-chaos-to-a-better-way-to-travel-together-556251ea2b72?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Programmer-Turned-Billionaire Reveals Why More Features Can Destroy Your SaaS](https://priyadarshisanjay.medium.com/a-programmer-turned-billionaire-reveals-why-more-features-can-destroy-your-saas-0537f8b9fe28?source=rss------artificial_intelligence-5)**
+> 🔹 **[Every Era Gets Its Primitive. Ours Is the Model.](https://medium.com/@bhargav.mohith101/every-era-gets-its-primitive-ours-is-the-model-f7e4bf15f1e8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can an AI Learn the Planning Algorithm? Part 3](https://ai.gopubby.com/can-an-ai-learn-the-planning-algorithm-part-3-b3718af62202?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Shrunk a 671-Billion-Parameter Brain Into a 900MB File. It Runs on a $200 Phone.](https://medium.com/adi-insights-innovations-collective/i-shrunk-a-671-billion-parameter-brain-into-a-900mb-file-it-runs-on-a-200-phone-b41a1f4e1f3f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Data Is Training Something: Defaults, Consent and the Opt-Out You Never Saw](https://nwoguizuh.medium.com/your-data-is-training-something-defaults-consent-and-the-opt-out-you-never-saw-1467011040d6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Your Company’s AI Strategy is Actually Failing ?](https://manusgupta.medium.com/why-your-companys-ai-strategy-is-actually-failing-20b3b603a7ba?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
