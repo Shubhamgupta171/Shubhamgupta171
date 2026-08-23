@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[2. Holocaust: Ek Bada Narsamhar &lpar;Genocide&rpar; 
-​Hitler ki Nazi ideology rashtravad &lpar;nationalism&rpar; a...](https://medium.com/@naeemchanna50.60/2-holocaust-ek-bada-narsamhar-genocide-hitler-ki-nazi-ideology-rashtravad-nationalism-aur-250d80320dd7?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Group Chat Chaos to a Better Way to Travel Together](https://wanderwith.medium.com/from-group-chat-chaos-to-a-better-way-to-travel-together-556251ea2b72?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Programmer-Turned-Billionaire Reveals Why More Features Can Destroy Your SaaS](https://priyadarshisanjay.medium.com/a-programmer-turned-billionaire-reveals-why-more-features-can-destroy-your-saas-0537f8b9fe28?source=rss------artificial_intelligence-5)**
-> 🔹 **[Every Era Gets Its Primitive. Ours Is the Model.](https://medium.com/@bhargav.mohith101/every-era-gets-its-primitive-ours-is-the-model-f7e4bf15f1e8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can an AI Learn the Planning Algorithm? Part 3](https://ai.gopubby.com/can-an-ai-learn-the-planning-algorithm-part-3-b3718af62202?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Shrunk a 671-Billion-Parameter Brain Into a 900MB File. It Runs on a $200 Phone.](https://medium.com/adi-insights-innovations-collective/i-shrunk-a-671-billion-parameter-brain-into-a-900mb-file-it-runs-on-a-200-phone-b41a1f4e1f3f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Data Is Training Something: Defaults, Consent and the Opt-Out You Never Saw](https://nwoguizuh.medium.com/your-data-is-training-something-defaults-consent-and-the-opt-out-you-never-saw-1467011040d6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Your Company’s AI Strategy is Actually Failing ?](https://manusgupta.medium.com/why-your-companys-ai-strategy-is-actually-failing-20b3b603a7ba?source=rss------artificial_intelligence-5)**
+> 🔹 **[What I Learnt From Breaking Temporal on Purpose &lpar;Twice&rpar;](https://medium.com/@sadhana_p/what-i-learnt-from-breaking-temporal-on-purpose-twice-d6c44566863d?source=rss------backend_development-5)**
+> 🔹 **[Your design system cannot make a product accessible](https://medium.com/@mvmantzios/design-system-cannot-make-product-accessible-3b996912c956?source=rss------system_design-5)**
+> 🔹 **[I Went Back to 1998 to Build LeNet-5 From Scratch](https://medium.com/@Pop123/i-went-back-to-1998-to-build-lenet-5-from-scratch-4dd50e075d5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[If We Built a Bank From Scratch Today, Would It Look Anything Like a Bank?](https://medium.com/@upa.him06/if-we-built-a-bank-from-scratch-today-would-it-look-anything-like-a-bank-da0d52090b26?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI is Accelerating Cyber Warfare from Nuisance to Existential Threat](https://hattyhats.medium.com/ai-is-accelerating-cyber-warfare-from-nuisance-to-existential-threat-b86c08ed5eae?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Writes My Code Now. I Still Won’t Hire People Who Can’t Read It.](https://medium.com/@vohrakunal/ai-writes-my-code-now-i-still-wont-hire-people-who-can-t-read-it-f77fcc6310a8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Before You Add AI to Your Application, Ask This First](https://medium.com/@gmharshitha/before-you-add-ai-to-your-application-ask-this-first-cb768653f1b1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Should the AI Press the Button?](https://stefansolves.medium.com/should-the-ai-press-the-button-4a7a43da0e37?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
