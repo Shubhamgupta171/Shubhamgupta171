@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[We Taught an AI to Fix Its Own Work. Then We Looked at What Actually Taught It.](https://medium.com/@jesus.salas_67779/we-taught-an-ai-to-fix-its-own-work-then-we-looked-at-what-actually-taught-it-d6ac0402198f?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI IS CHANGING THE WORLD — BUT ARE WE READY?](https://medium.com/@Joelmutwiri/ai-is-changing-the-world-but-are-we-ready-2029f69162d5?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Replaced Finfluencers With Chatbots. The Advice Got Better and the Gap Got Wider.](https://medium.com/@ybhagat2011/we-replaced-finfluencers-with-chatbots-the-advice-got-better-and-the-gap-got-wider-8632b88aa426?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agent Opus Launches Brand Intelligence for AI Video](https://medium.com/@oananmatei/agent-opus-launches-brand-intelligence-for-ai-video-49cb6e0a701b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Hello, Dataset. I’m Data. Nice to Meet you](https://medium.com/@sujal.2005.gundlapelli/hello-dataset-im-data-nice-to-meet-you-38ae76af69e5?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Secret Code of Egyptian Names: How We Engineered a 14-Dimensional NLP Engine](https://medium.com/@abdullah.afify/the-secret-code-of-egyptian-names-how-we-engineered-a-14-dimensional-nlp-engine-5205db7f04f4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Podcast : Inside a16z’s Top 100 AI Apps Report with Olivia Moore](https://medium.com/@huanzidage/podcast-inside-a16zs-top-100-ai-apps-report-with-olivia-moore-2e2ab77c23e8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Android AI Agent Should Think Freely, But Never Act Freely](https://medium.com/@praveen.dheep/your-android-ai-agent-should-think-freely-but-never-act-freely-3a79c95fac7a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Android App Doesn’t Need More Layers. It Needs Clearer Boundaries.](https://daniyar-nurgaliyev.medium.com/your-android-app-doesnt-need-more-layers-it-needs-clearer-boundaries-0c658d92517e?source=rss------system_design-5)**
+> 🔹 **[What Is DeepSeek V4-Flash-Vision-Exp? ⚡ Why 384 Tokens Per Image Changes Everything](https://medium.com/@greekofai/what-is-deepseek-v4-flash-vision-exp-why-384-tokens-per-image-changes-everything-5112b8a4f2c7?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Actually Happens Inside an LLM When You Give It a Sentence?](https://medium.com/@divyakadava99/what-actually-happens-inside-an-llm-when-you-give-it-a-sentence-af8ef0df1495?source=rss------artificial_intelligence-5)**
+> 🔹 **[Saturday Morning. Two Coffees. And AI Finally Clicked…](https://medium.com/@anujagadde18/saturday-morning-two-coffees-and-ai-finally-clicked-4412bee49b0c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Tingkatkan Skill Komunikasi Visual, 150 Mahasiswa FIKOM UMRI Ikuti Pelatihan CapCut dan Canva…](https://medium.com/@berkatjaya879/tingkatkan-skill-komunikasi-visual-150-mahasiswa-fikom-umri-ikuti-pelatihan-capcut-dan-canva-2ad457bc2002?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cognitive Friction](https://medium.com/@islammokhtarabdelhamid020/cognitive-friction-fd61018797c4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Random Forest](https://medium.com/@poudelutsav057/random-forest-e87682aca41a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Data Science Career Path in the Age of AI: Skills, Tools, and Opportunities in 2026](https://medium.com/@rohanchhabra2025/the-data-science-career-path-in-the-age-of-ai-skills-tools-and-opportunities-in-2026-6c683494c6e6?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
