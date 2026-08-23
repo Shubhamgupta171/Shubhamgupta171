@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your Android App Doesn’t Need More Layers. It Needs Clearer Boundaries.](https://daniyar-nurgaliyev.medium.com/your-android-app-doesnt-need-more-layers-it-needs-clearer-boundaries-0c658d92517e?source=rss------system_design-5)**
-> 🔹 **[What Is DeepSeek V4-Flash-Vision-Exp? ⚡ Why 384 Tokens Per Image Changes Everything](https://medium.com/@greekofai/what-is-deepseek-v4-flash-vision-exp-why-384-tokens-per-image-changes-everything-5112b8a4f2c7?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Actually Happens Inside an LLM When You Give It a Sentence?](https://medium.com/@divyakadava99/what-actually-happens-inside-an-llm-when-you-give-it-a-sentence-af8ef0df1495?source=rss------artificial_intelligence-5)**
-> 🔹 **[Saturday Morning. Two Coffees. And AI Finally Clicked…](https://medium.com/@anujagadde18/saturday-morning-two-coffees-and-ai-finally-clicked-4412bee49b0c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Tingkatkan Skill Komunikasi Visual, 150 Mahasiswa FIKOM UMRI Ikuti Pelatihan CapCut dan Canva…](https://medium.com/@berkatjaya879/tingkatkan-skill-komunikasi-visual-150-mahasiswa-fikom-umri-ikuti-pelatihan-capcut-dan-canva-2ad457bc2002?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cognitive Friction](https://medium.com/@islammokhtarabdelhamid020/cognitive-friction-fd61018797c4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Random Forest](https://medium.com/@poudelutsav057/random-forest-e87682aca41a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Data Science Career Path in the Age of AI: Skills, Tools, and Opportunities in 2026](https://medium.com/@rohanchhabra2025/the-data-science-career-path-in-the-age-of-ai-skills-tools-and-opportunities-in-2026-6c683494c6e6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Stripe bought OpenRouter](https://maa1.medium.com/why-stripe-bought-openrouter-082f905a6d98?source=rss------artificial_intelligence-5)**
+> 🔹 **[The people using your design system don’t work here](https://www.designsystemscollective.com/the-people-using-your-design-system-dont-work-here-1a3f3bcdde4c?source=rss------system_design-5)**
+> 🔹 **[AI Makes a Podcast in Minutes. Spotify’s First Payout Is $48 a Month.](https://medium.com/@automation.labs/ai-makes-a-podcast-in-minutes-spotifys-first-payout-is-48-a-month-72712b0acabb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Generalization: When Learning Is More Than Memorizing](https://medium.com/@anupamapb/generalization-when-learning-is-more-than-memorizing-04ceeac0223a?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Prepared for the CAIE™ Exam: 5 Lessons That Helped Me Succeed](https://medium.com/@haris5705/how-i-prepared-for-the-caie-exam-5-lessons-that-helped-me-succeed-85613e26b3f0?source=rss------artificial_intelligence-5)**
+> 🔹 **[MCP Isn&#39;t Dead. It Just Has a Different Job.](https://koenvg.medium.com/mcp-isnt-dead-it-just-has-a-different-job-6a22c625118a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Where Is the Subtraction?](https://medium.com/@roblesrionegro/where-is-the-subtraction-3aadbf1c855c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Writers Can Prove Their Work Is Human in the Age of AI Detection | Step by step solution |...](https://medium.com/@mahjabin_296/how-writers-can-prove-their-work-is-human-in-the-age-of-ai-detection-step-by-step-solution-2026-b6f56fff3a5b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
