@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your Data Structure Is Too Flexible](https://medium.com/django-unleashed/your-data-structure-is-too-flexible-bc9db2e84f53?source=rss------data_structures-5)**
-> 🔹 **[The Data Structures &amp; Algorithms Behind A Frontend Bundler](https://levelup.gitconnected.com/the-data-structures-algorithms-behind-a-frontend-bundler-5ccb655fc194?source=rss------data_structures-5)**
-> 🔹 **[Vladimer Botsvadze Interviewed by Inspirery: Lessons on AI, Personal Branding, and Long-Term…](https://medium.com/@VladimerBotsvadze/vladimer-botsvadze-interviewed-by-inspirery-lessons-on-ai-personal-branding-and-long-term-c59505d373f9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cybersecurity Threats in the Age of Generative AI: The Threat We Didn’t See Coming](https://medium.com/@recep.zengin908/cybersecurity-threats-in-the-age-of-generative-ai-the-threat-we-didnt-see-coming-bae6c1e52618?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Comfort Index: what it measures, and how to read it](https://medium.com/uxr-microsoft/the-ai-comfort-index-what-it-measures-and-how-to-read-it-9971148a1eb6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who are you going to blame?](https://medium.com/@scharlap_807/who-are-you-going-to-blame-6f7c9824c5dc?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI blind spots: why confident isn’t the same as correct](https://medium.com/@arielzin33/ai-blind-spots-why-confident-isnt-the-same-as-correct-a7340e4f4d56?source=rss------artificial_intelligence-5)**
-> 🔹 **[ARTIFICIAL INTELLIGENCE | HUMAN INTELLIGENCE ALIGNMENT.](https://medium.com/@raywelchx/artificial-intelligence-human-intelligence-alignment-b2d215a8fd54?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Automation Is Changing &lpar;Not Eliminating&rpar; IT Job Roles](https://medium.com/@2iresourcing/how-automation-is-changing-not-eliminating-it-job-roles-cf04eb9cab32?source=rss------artificial_intelligence-5)**
+> 🔹 **[DentalCare AI: Building a Local AI-Powered Oral Health Guide for Sri Lanka](https://medium.com/@suthapirana918/dentalcare-ai-building-a-local-ai-powered-oral-health-guide-for-sri-lanka-a0b0f2588305?source=rss------artificial_intelligence-5)**
+> 🔹 **[Waarom we naar China gaan - AI Studiereis](https://basprins.medium.com/waarom-we-naar-china-gaan-ai-studiereis-7a3a70adf61b?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI Becomes Second Nature, Who Gets to Decide What It Is For?](https://granthbrennermd.medium.com/when-ai-becomes-second-nature-who-gets-to-decide-what-it-is-for-aa6cf67156e1?source=rss------artificial_intelligence-5)**
+> 🔹 **[SaveTheLife: Building a Revenue-Driven Health DePIN for the Next Generation of Digital Healthca...](https://medium.com/@krismonicamulia2020/savethelife-building-a-revenue-driven-health-depin-for-the-next-generation-of-digital-healthcare-fcd53e08fcdf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Most AI Detectors Fail Silently. We Built One That Prints Its Limits on the Label.](https://levelup.gitconnected.com/most-ai-detectors-fail-silently-we-built-one-that-prints-its-limits-on-the-label-3ff651e67f75?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Most AI Detectors Fail Silently. We Built One That Prints Its Limits on the Label.](https://levelup.gitconnected.com/most-ai-detectors-fail-silently-we-built-one-that-prints-its-limits-on-the-label-3ff651e67f75?source=rss------artificial_intelligence-5)**
+> 🔹 **[From 24 Hours to 15 Minutes: How a Streaming Pipeline Caught Defaults Before They Happened](https://medium.com/codex/from-24-hours-to-15-minutes-how-a-streaming-pipeline-caught-defaults-before-they-happened-f1d58fee2db6?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
