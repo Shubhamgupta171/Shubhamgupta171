@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Nobody Sells Tooth Powder Anymore. That Doesn’t Mean Nobody Cleans Teeth.](https://medium.com/@shurahbeelhamid/nobody-sells-tooth-powder-anymore-that-doesnt-mean-nobody-cleans-teeth-6baeaa0a2d8a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Choosing an IAM Platform Is the Easy Part. Operating It Is Where the Work Begins.](https://cybersecuritywriteups.com/choosing-an-iam-platform-is-the-easy-part-operating-it-is-where-the-work-begins-e4831ba554e8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Python Variables &amp; Data Types: Strings Explained &lpar;2026&rpar;](https://medium.com/@khayyamshah2007/python-variables-data-types-strings-explained-2026-a662adc399c3?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Complete Journey Through Natural Language Processing &lpar;NLP&rpar;](https://medium.com/@venkyyennaboina1718/a-complete-journey-through-natural-language-processing-nlp-bfa88443dc10?source=rss------artificial_intelligence-5)**
-> 🔹 **[Accessibility Debt: How the European Accessibility Act Changed What ‘Accessible Enough’ Means](https://medium.com/design-bootcamp/accessibility-debt-how-the-european-accessibility-act-changed-what-accessible-enough-means-3c5aeb979eb0?source=rss------system_design-5)**
-> 🔹 **[Five AI Tools, Not Twenty-Five: How Schools Build Stacks That Last](https://forasoft.medium.com/five-ai-tools-not-twenty-five-how-schools-build-stacks-that-last-9437d1bfe84b?source=rss------artificial_intelligence-5)**
-> 🔹 **[From One Lesson to Many Learner Pathways: A Human-Centred Case for AI-Assisted Authoring](https://medium.com/@nizamkadirteach/from-one-lesson-to-many-learner-pathways-a-human-centred-case-for-ai-assisted-authoring-942735d06b84?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cross-Chain AI Agents: How Autonomous Software Operates Across Multiple Blockchains](https://medium.com/@BOTChain_ai/cross-chain-ai-agents-how-autonomous-software-operates-across-multiple-blockchains-47abef90ffa4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Data Structure Is Too Flexible](https://medium.com/django-unleashed/your-data-structure-is-too-flexible-bc9db2e84f53?source=rss------data_structures-5)**
+> 🔹 **[The Data Structures &amp; Algorithms Behind A Frontend Bundler](https://levelup.gitconnected.com/the-data-structures-algorithms-behind-a-frontend-bundler-5ccb655fc194?source=rss------data_structures-5)**
+> 🔹 **[Vladimer Botsvadze Interviewed by Inspirery: Lessons on AI, Personal Branding, and Long-Term…](https://medium.com/@VladimerBotsvadze/vladimer-botsvadze-interviewed-by-inspirery-lessons-on-ai-personal-branding-and-long-term-c59505d373f9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cybersecurity Threats in the Age of Generative AI: The Threat We Didn’t See Coming](https://medium.com/@recep.zengin908/cybersecurity-threats-in-the-age-of-generative-ai-the-threat-we-didnt-see-coming-bae6c1e52618?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Comfort Index: what it measures, and how to read it](https://medium.com/uxr-microsoft/the-ai-comfort-index-what-it-measures-and-how-to-read-it-9971148a1eb6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who are you going to blame?](https://medium.com/@scharlap_807/who-are-you-going-to-blame-6f7c9824c5dc?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI blind spots: why confident isn’t the same as correct](https://medium.com/@arielzin33/ai-blind-spots-why-confident-isnt-the-same-as-correct-a7340e4f4d56?source=rss------artificial_intelligence-5)**
+> 🔹 **[ARTIFICIAL INTELLIGENCE | HUMAN INTELLIGENCE ALIGNMENT.](https://medium.com/@raywelchx/artificial-intelligence-human-intelligence-alignment-b2d215a8fd54?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
