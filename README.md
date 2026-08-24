@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Building a Virtual Chief DBA in Java: Rejuvenating Legacy Oracle Backbones with Edge AI - How w...](https://medium.com/@banerjeeanupal/langchain4j-oracle-java-virtual-dba-9a6531e96913?source=rss------system_design-5)**
-> 🔹 **[My mind operates non-linearly.](https://medium.com/@fillmorehjames/my-mind-operates-non-linearly-e217cdee91a3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Agents Keep Failing Even as Models Get Better](https://ninza7.medium.com/why-ai-agents-keep-failing-even-as-models-get-better-83b57ce3fdf4?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a Local Search Engine for AI Coding Assistants](https://medium.com/@genautkin/i-built-a-local-search-engine-for-ai-coding-assistants-d9070979ebe2?source=rss------artificial_intelligence-5)**
-> 🔹 **[How spl_autoload_register Resolves a Class — Step by Step](https://medium.com/@annxsa/how-spl-autoload-register-resolves-a-class-step-by-step-718124f58c6a?source=rss------backend_development-5)**
-> 🔹 **[Where AI actually creates leverage in a business &lpar;and where it doesn’t&rpar;](https://medium.com/@rezza.rzk/where-ai-actually-creates-leverage-in-a-business-and-where-it-doesnt-3980a2871738?source=rss------artificial_intelligence-5)**
-> 🔹 **[Are We Becoming Emotionally Dependent on AI?](https://medium.com/@anantariza88/are-we-becoming-emotionally-dependent-on-ai-080d543d23f0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Does the Lesson Travel? What happened when a trained AI specialist left the world that taught i...](https://medium.com/@jesus.salas_67779/does-the-lesson-travel-what-happened-when-a-trained-ai-specialist-left-the-world-that-taught-it-8af340e9417b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nobody Sells Tooth Powder Anymore. That Doesn’t Mean Nobody Cleans Teeth.](https://medium.com/@shurahbeelhamid/nobody-sells-tooth-powder-anymore-that-doesnt-mean-nobody-cleans-teeth-6baeaa0a2d8a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Choosing an IAM Platform Is the Easy Part. Operating It Is Where the Work Begins.](https://cybersecuritywriteups.com/choosing-an-iam-platform-is-the-easy-part-operating-it-is-where-the-work-begins-e4831ba554e8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Python Variables &amp; Data Types: Strings Explained &lpar;2026&rpar;](https://medium.com/@khayyamshah2007/python-variables-data-types-strings-explained-2026-a662adc399c3?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Complete Journey Through Natural Language Processing &lpar;NLP&rpar;](https://medium.com/@venkyyennaboina1718/a-complete-journey-through-natural-language-processing-nlp-bfa88443dc10?source=rss------artificial_intelligence-5)**
+> 🔹 **[Accessibility Debt: How the European Accessibility Act Changed What ‘Accessible Enough’ Means](https://medium.com/design-bootcamp/accessibility-debt-how-the-european-accessibility-act-changed-what-accessible-enough-means-3c5aeb979eb0?source=rss------system_design-5)**
+> 🔹 **[Five AI Tools, Not Twenty-Five: How Schools Build Stacks That Last](https://forasoft.medium.com/five-ai-tools-not-twenty-five-how-schools-build-stacks-that-last-9437d1bfe84b?source=rss------artificial_intelligence-5)**
+> 🔹 **[From One Lesson to Many Learner Pathways: A Human-Centred Case for AI-Assisted Authoring](https://medium.com/@nizamkadirteach/from-one-lesson-to-many-learner-pathways-a-human-centred-case-for-ai-assisted-authoring-942735d06b84?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cross-Chain AI Agents: How Autonomous Software Operates Across Multiple Blockchains](https://medium.com/@BOTChain_ai/cross-chain-ai-agents-how-autonomous-software-operates-across-multiple-blockchains-47abef90ffa4?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
