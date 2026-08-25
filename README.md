@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Inside LinkedIn&#39;s cognitive memory agent for agentic personalization](https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/)**
-> 🔹 **[AI’s Five Minutes Against My Five Minutes — What’s the Difference?](https://medium.com/activated-thinker/ais-five-minutes-against-my-five-minutes-what-s-the-difference-b1dd3c4aa4ee?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT Free vs Pro: Which Breaks Fewer Calendar Events?](https://medium.com/@emma-sullivan8/chatgpt-free-vs-pro-which-breaks-fewer-calendar-events-d05239327c3e?source=rss------artificial_intelligence-5)**
-> 🔹 **[RIZZ Brings Metabolic Health Into the Smart-Ring Era](https://medium.com/@anjalishukla97608/rizz-brings-metabolic-health-into-the-smart-ring-era-0d7aeb08f6c0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Bitcoin Might Win If Governments Can’t Manage Their Debt](https://medium.com/crypto-pulse-daily/why-bitcoin-might-win-if-governments-cant-manage-their-debt-da5d19b6bd7e?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Making Life Easier — So Why Are We Getting Mentally Tired?](https://medium.com/@develmehdid/ai-is-making-life-easier-so-why-are-we-getting-mentally-tired-f3b742901ccd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the Data Catalog: What Makes Enterprise Data Truly AI-Ready?](https://medium.com/@datagaps-insights/beyond-the-data-catalog-what-makes-enterprise-data-truly-ai-ready-dfb7fad10aef?source=rss------artificial_intelligence-5)**
-> 🔹 **[From MVP to $15K MRR in 90 days: what a technical founder got wrong first](https://medium.com/@shahzad_3157/from-mvp-to-15k-mrr-in-90-days-what-a-technical-founder-got-wrong-first-21bef16feb9e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Documents Are Not a Knowledge Base: What Confluence and SharePoint Actually Give Your AI](https://medium.com/@datapaneai/documents-are-not-a-knowledge-base-what-confluence-and-sharepoint-actually-give-your-ai-9f08cf613310?source=rss------artificial_intelligence-5)**
+> 🔹 **[Programmatic Image Generation with FLUX2](https://medium.com/@semantichasm/programmatic-image-generation-with-flux2-d1d6772174d5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Smallest.ai asked what I came to build. Then made me choose again.](https://riyajawandhiya.medium.com/smallest-ai-asked-what-i-came-to-build-then-made-me-choose-again-6de0003786f1?source=rss------artificial_intelligence-5)**
+> 🔹 **[I ran a blind test on my Claude Code AI tools. My documentation was the real winner.](https://medium.com/@FrankPizzuta/i-ran-a-blind-test-on-my-claude-code-ai-tools-my-documentation-was-the-real-winner-f2a03fb98f28?source=rss------artificial_intelligence-5)**
+> 🔹 **[Predictive Maintenance in GPS Fleet Tracking: How AI Catches Engine Problems Before They Become...](https://medium.com/@mukesh.mishra0928/predictive-maintenance-in-gps-fleet-tracking-how-ai-catches-engine-problems-before-they-become-07c260cae23a?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Automate Viral AI Wall Repair &amp; Oddly Satisfying ASMR Videos with a Free Custom Gem](https://medium.com/@thetimemachinetech/how-to-automate-viral-ai-wall-repair-oddly-satisfying-asmr-videos-with-a-free-custom-gem-6a4a0291047b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Second-Order Effect of Getting Exactly What We Want](https://medium.com/@philgold/the-second-order-effect-of-getting-exactly-what-we-want-020bbe8506ab?source=rss------artificial_intelligence-5)**
+> 🔹 **[Trading Chaos for Containers](https://medium.com/project-genesis/trading-chaos-for-containers-81fc1fbf2927?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
