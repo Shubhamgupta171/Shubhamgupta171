@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Documents Are Not a Knowledge Base: What Confluence and SharePoint Actually Give Your AI](https://medium.com/@datapaneai/documents-are-not-a-knowledge-base-what-confluence-and-sharepoint-actually-give-your-ai-9f08cf613310?source=rss------artificial_intelligence-5)**
-> 🔹 **[Programmatic Image Generation with FLUX2](https://medium.com/@semantichasm/programmatic-image-generation-with-flux2-d1d6772174d5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Smallest.ai asked what I came to build. Then made me choose again.](https://riyajawandhiya.medium.com/smallest-ai-asked-what-i-came-to-build-then-made-me-choose-again-6de0003786f1?source=rss------artificial_intelligence-5)**
-> 🔹 **[I ran a blind test on my Claude Code AI tools. My documentation was the real winner.](https://medium.com/@FrankPizzuta/i-ran-a-blind-test-on-my-claude-code-ai-tools-my-documentation-was-the-real-winner-f2a03fb98f28?source=rss------artificial_intelligence-5)**
-> 🔹 **[Predictive Maintenance in GPS Fleet Tracking: How AI Catches Engine Problems Before They Become...](https://medium.com/@mukesh.mishra0928/predictive-maintenance-in-gps-fleet-tracking-how-ai-catches-engine-problems-before-they-become-07c260cae23a?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Automate Viral AI Wall Repair &amp; Oddly Satisfying ASMR Videos with a Free Custom Gem](https://medium.com/@thetimemachinetech/how-to-automate-viral-ai-wall-repair-oddly-satisfying-asmr-videos-with-a-free-custom-gem-6a4a0291047b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Second-Order Effect of Getting Exactly What We Want](https://medium.com/@philgold/the-second-order-effect-of-getting-exactly-what-we-want-020bbe8506ab?source=rss------artificial_intelligence-5)**
-> 🔹 **[Trading Chaos for Containers](https://medium.com/project-genesis/trading-chaos-for-containers-81fc1fbf2927?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Structure a 90-Day AI Rollout Framework](https://medium.com/@sbbuckner7/how-to-structure-a-90-day-ai-rollout-framework-840662770e45?source=rss------artificial_intelligence-5)**
+> 🔹 **[A mosca que vive dentro do computador](https://medium.com/@cistrahennjoel/a-mosca-que-vive-dentro-do-computador-eb79e0caff0a?source=rss------artificial_intelligence-5)**
+> 🔹 **[My AI Didn’t Hallucinate. It Just Rewrote the Truth.](https://medium.com/@farrukh.ahmed8877/my-ai-didnt-hallucinate-it-just-rewrote-the-truth-93c8e165dd33?source=rss------artificial_intelligence-5)**
+> 🔹 **[PixVerse or Kling AI? A buyer’s call for small teams](https://medium.com/@miracalder_93891/pixverse-or-kling-ai-a-buyers-call-for-small-teams-d2a3cf6e5ce8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the Keyboard: How AI and Gesture Control Are Changing Medical Imaging](https://medium.com/@ARTiwary/beyond-the-keyboard-how-ai-and-gesture-control-are-changing-medical-imaging-6ca0ace36771?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Gap I Found in AI’s Imagination by Training My Own](https://juliadaviy.medium.com/the-gap-i-found-in-ais-imagination-by-training-my-own-7c7375128f47?source=rss------artificial_intelligence-5)**
+> 🔹 **[Um framework para quantificar e comunicar o impacto de um Design System](https://brasil.uxdesign.cc/um-framework-para-quantificar-e-comunicar-o-impacto-de-um-design-system-637f8b399d37?source=rss------system_design-5)**
+> 🔹 **[Why Your LLM Fabricates And What Actually Reduces It](https://medium.com/@paul.crinigan218/why-your-llm-fabricates-and-what-actually-reduces-it-0c5327a52dfc?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
