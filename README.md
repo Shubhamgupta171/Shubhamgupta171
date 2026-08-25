@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[SaveTheLife.io](https://medium.com/@whidyeaztuti/savethelife-io-525da1ed3bf3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Programming Languages AI Still Gets Surprisingly Wrong](https://code.likeagirl.io/the-programming-languages-ai-still-gets-surprisingly-wrong-fbad00b269f6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Third Brain #8: Human Meaning](https://medium.com/@jackmyers/your-third-brain-8-human-meaning-b2ab89184f77?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Code Was Crowned “Most Popular Coding Agent of 2026” in January.](https://medium.com/@thebuildersplaybook/claude-code-was-crowned-most-popular-coding-agent-of-2026-in-january-df4b93628dcb?source=rss------artificial_intelligence-5)**
-> 🔹 **[MIT’s Math Shows How ChatGPT Can Push You Into a Delusion](https://ninza7.medium.com/mits-math-shows-how-chatgpt-can-push-you-into-a-delusion-5e08abfb8e19?source=rss------artificial_intelligence-5)**
-> 🔹 **[Psychiatric-Mental Health Nurse Practitioners &lpar;PMHNP&rpar; — Claude Cowork Is Changing How Psychiatr...](https://medium.com/@ismailsaleem/psychiatric-mental-health-nurse-practitioners-pmhnp-claude-cowork-is-changing-how-psychiatric-e1401da8c666?source=rss------artificial_intelligence-5)**
-> 🔹 **[A 9.39-Second Robot Race Is an Awkward Comparison](https://mayabennett01.medium.com/a-9-39-second-robot-race-is-an-awkward-comparison-73ad54181f15?source=rss------artificial_intelligence-5)**
-> 🔹 **[48% of Technical Interview Candidates Are Using AI to Cheat.](https://medium.com/lets-code-future/48-of-technical-interview-candidates-are-using-ai-to-cheat-ba21f0ca1cc9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Inside LinkedIn&#39;s cognitive memory agent for agentic personalization](https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/)**
+> 🔹 **[AI’s Five Minutes Against My Five Minutes — What’s the Difference?](https://medium.com/activated-thinker/ais-five-minutes-against-my-five-minutes-what-s-the-difference-b1dd3c4aa4ee?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT Free vs Pro: Which Breaks Fewer Calendar Events?](https://medium.com/@emma-sullivan8/chatgpt-free-vs-pro-which-breaks-fewer-calendar-events-d05239327c3e?source=rss------artificial_intelligence-5)**
+> 🔹 **[RIZZ Brings Metabolic Health Into the Smart-Ring Era](https://medium.com/@anjalishukla97608/rizz-brings-metabolic-health-into-the-smart-ring-era-0d7aeb08f6c0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Bitcoin Might Win If Governments Can’t Manage Their Debt](https://medium.com/crypto-pulse-daily/why-bitcoin-might-win-if-governments-cant-manage-their-debt-da5d19b6bd7e?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Making Life Easier — So Why Are We Getting Mentally Tired?](https://medium.com/@develmehdid/ai-is-making-life-easier-so-why-are-we-getting-mentally-tired-f3b742901ccd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the Data Catalog: What Makes Enterprise Data Truly AI-Ready?](https://medium.com/@datagaps-insights/beyond-the-data-catalog-what-makes-enterprise-data-truly-ai-ready-dfb7fad10aef?source=rss------artificial_intelligence-5)**
+> 🔹 **[From MVP to $15K MRR in 90 days: what a technical founder got wrong first](https://medium.com/@shahzad_3157/from-mvp-to-15k-mrr-in-90-days-what-a-technical-founder-got-wrong-first-21bef16feb9e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
