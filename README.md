@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How Automation Is Changing &lpar;Not Eliminating&rpar; IT Job Roles](https://medium.com/@2iresourcing/how-automation-is-changing-not-eliminating-it-job-roles-cf04eb9cab32?source=rss------artificial_intelligence-5)**
-> 🔹 **[DentalCare AI: Building a Local AI-Powered Oral Health Guide for Sri Lanka](https://medium.com/@suthapirana918/dentalcare-ai-building-a-local-ai-powered-oral-health-guide-for-sri-lanka-a0b0f2588305?source=rss------artificial_intelligence-5)**
-> 🔹 **[Waarom we naar China gaan - AI Studiereis](https://basprins.medium.com/waarom-we-naar-china-gaan-ai-studiereis-7a3a70adf61b?source=rss------artificial_intelligence-5)**
-> 🔹 **[When AI Becomes Second Nature, Who Gets to Decide What It Is For?](https://granthbrennermd.medium.com/when-ai-becomes-second-nature-who-gets-to-decide-what-it-is-for-aa6cf67156e1?source=rss------artificial_intelligence-5)**
-> 🔹 **[SaveTheLife: Building a Revenue-Driven Health DePIN for the Next Generation of Digital Healthca...](https://medium.com/@krismonicamulia2020/savethelife-building-a-revenue-driven-health-depin-for-the-next-generation-of-digital-healthcare-fcd53e08fcdf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Most AI Detectors Fail Silently. We Built One That Prints Its Limits on the Label.](https://levelup.gitconnected.com/most-ai-detectors-fail-silently-we-built-one-that-prints-its-limits-on-the-label-3ff651e67f75?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Most AI Detectors Fail Silently. We Built One That Prints Its Limits on the Label.](https://levelup.gitconnected.com/most-ai-detectors-fail-silently-we-built-one-that-prints-its-limits-on-the-label-3ff651e67f75?source=rss------artificial_intelligence-5)**
-> 🔹 **[From 24 Hours to 15 Minutes: How a Streaming Pipeline Caught Defaults Before They Happened](https://medium.com/codex/from-24-hours-to-15-minutes-how-a-streaming-pipeline-caught-defaults-before-they-happened-f1d58fee2db6?source=rss------artificial_intelligence-5)**
+> 🔹 **[SaveTheLife.io](https://medium.com/@whidyeaztuti/savethelife-io-525da1ed3bf3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Programming Languages AI Still Gets Surprisingly Wrong](https://code.likeagirl.io/the-programming-languages-ai-still-gets-surprisingly-wrong-fbad00b269f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Third Brain #8: Human Meaning](https://medium.com/@jackmyers/your-third-brain-8-human-meaning-b2ab89184f77?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Code Was Crowned “Most Popular Coding Agent of 2026” in January.](https://medium.com/@thebuildersplaybook/claude-code-was-crowned-most-popular-coding-agent-of-2026-in-january-df4b93628dcb?source=rss------artificial_intelligence-5)**
+> 🔹 **[MIT’s Math Shows How ChatGPT Can Push You Into a Delusion](https://ninza7.medium.com/mits-math-shows-how-chatgpt-can-push-you-into-a-delusion-5e08abfb8e19?source=rss------artificial_intelligence-5)**
+> 🔹 **[Psychiatric-Mental Health Nurse Practitioners &lpar;PMHNP&rpar; — Claude Cowork Is Changing How Psychiatr...](https://medium.com/@ismailsaleem/psychiatric-mental-health-nurse-practitioners-pmhnp-claude-cowork-is-changing-how-psychiatric-e1401da8c666?source=rss------artificial_intelligence-5)**
+> 🔹 **[A 9.39-Second Robot Race Is an Awkward Comparison](https://mayabennett01.medium.com/a-9-39-second-robot-race-is-an-awkward-comparison-73ad54181f15?source=rss------artificial_intelligence-5)**
+> 🔹 **[48% of Technical Interview Candidates Are Using AI to Cheat.](https://medium.com/lets-code-future/48-of-technical-interview-candidates-are-using-ai-to-cheat-ba21f0ca1cc9?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
