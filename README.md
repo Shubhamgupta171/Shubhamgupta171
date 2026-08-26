@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Most ChatGPT Prompts Fail &lpar;And the Fix Takes 10 Seconds&rpar;](https://medium.com/@hamzaaziz5750/why-most-chatgpt-prompts-fail-and-the-fix-takes-10-seconds-f0d6b317ea25?source=rss------artificial_intelligence-5)**
-> 🔹 **[Architecting the Agentic Underwriter: Why Naive RAG Fails in P&amp;C Insurance](https://medium.com/agentic-architecture/architecting-the-agentic-underwriter-why-naive-rag-fails-in-p-c-insurance-60b04d70c105?source=rss------artificial_intelligence-5)**
-> 🔹 **[By the Time We Noticed, the News Was Boiling](https://medium.com/@tobrien/by-the-time-we-noticed-the-news-was-boiling-c8c7419b8e9f?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Artificial Intelligence Detects Supply Chain Risks Before They Become Problems](https://pub.towardsai.net/how-artificial-intelligence-detects-supply-chain-risks-before-they-become-problems-d738d99d259c?source=rss------artificial_intelligence-5)**
-> 🔹 **[One Requirement Changed. What Else Needs Review?](https://medium.com/@spark.tsai/one-requirement-changed-what-else-needs-review-cfd47eb6baf0?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Boom Needs Something Money Can’t Buy](https://medium.com/the-control-grid/ai-data-center-legitimacy-backlash-c32522adb1af?source=rss------artificial_intelligence-5)**
-> 🔹 **[Forward Deployed Engineer: The Role Is Real, the Gate Came First](https://medium.com/inventive-flexibility/forward-deployed-engineer-the-role-is-real-the-gate-came-first-3ffcf79dbb84?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI and the Final Outsourcing of Civilization](https://medium.com/where-thought-bends/ai-and-the-final-outsourcing-of-civilization-5bc7a5e0e805?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Guessing: Find the Right AI Model for the Hardware You Already Own](https://medium.com/@taotang757/stop-guessing-find-the-right-ai-model-for-the-hardware-you-already-own-2fdce0caff7e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Amahub Prime Points and Quests: How the Rewards System Works](https://medium.com/@cejipi2213/amahub-prime-points-and-quests-how-the-rewards-system-works-ff5bb1b6b93e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Capital Trap](https://medium.com/@affilietok0125/the-ai-capital-trap-72e323ae01d7?source=rss------artificial_intelligence-5)**
+> 🔹 **[DeepMind’s Exodus Began 51 Days After a Pentagon Deal](https://meetcyber.net/deepminds-exodus-began-51-days-after-a-pentagon-deal-b3d3ab54a419?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is amahub? A Guide to AI Agents, Trading and the Amadeus Ecosystem](https://medium.com/@xoreyax538/what-is-amahub-a-guide-to-ai-agents-trading-and-the-amadeus-ecosystem-2e5b72894db7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agents, Tools, MCP: What Plugs Into What…](https://himani-gulati.medium.com/agents-tools-mcp-what-plugs-into-what-07d0888d441e?source=rss------artificial_intelligence-5)**
+> 🔹 **[TAI #219: AI, Cancer and the Future of Personalized Medicine](https://pub.towardsai.net/tai-219-ai-cancer-and-the-future-of-personalized-medicine-27763deaa56e?source=rss------artificial_intelligence-5)**
+> 🔹 **[THE CAT’S EAR AND THE MORAL RADIUS OF AI](https://medium.com/@antarex/the-cats-ear-and-the-moral-radius-of-ai-3226022ee263?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
