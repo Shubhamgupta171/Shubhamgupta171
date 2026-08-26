@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Structure a 90-Day AI Rollout Framework](https://medium.com/@sbbuckner7/how-to-structure-a-90-day-ai-rollout-framework-840662770e45?source=rss------artificial_intelligence-5)**
-> 🔹 **[A mosca que vive dentro do computador](https://medium.com/@cistrahennjoel/a-mosca-que-vive-dentro-do-computador-eb79e0caff0a?source=rss------artificial_intelligence-5)**
-> 🔹 **[My AI Didn’t Hallucinate. It Just Rewrote the Truth.](https://medium.com/@farrukh.ahmed8877/my-ai-didnt-hallucinate-it-just-rewrote-the-truth-93c8e165dd33?source=rss------artificial_intelligence-5)**
-> 🔹 **[PixVerse or Kling AI? A buyer’s call for small teams](https://medium.com/@miracalder_93891/pixverse-or-kling-ai-a-buyers-call-for-small-teams-d2a3cf6e5ce8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the Keyboard: How AI and Gesture Control Are Changing Medical Imaging](https://medium.com/@ARTiwary/beyond-the-keyboard-how-ai-and-gesture-control-are-changing-medical-imaging-6ca0ace36771?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Gap I Found in AI’s Imagination by Training My Own](https://juliadaviy.medium.com/the-gap-i-found-in-ais-imagination-by-training-my-own-7c7375128f47?source=rss------artificial_intelligence-5)**
-> 🔹 **[Um framework para quantificar e comunicar o impacto de um Design System](https://brasil.uxdesign.cc/um-framework-para-quantificar-e-comunicar-o-impacto-de-um-design-system-637f8b399d37?source=rss------system_design-5)**
-> 🔹 **[Why Your LLM Fabricates And What Actually Reduces It](https://medium.com/@paul.crinigan218/why-your-llm-fabricates-and-what-actually-reduces-it-0c5327a52dfc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Seedance 2.5 Storyboards Are Maps of Attention, Not Prompt Sheets](https://notesbyken.medium.com/seedance-2-5-storyboards-are-maps-of-attention-not-prompt-sheets-f3795d7b79a3?source=rss------artificial_intelligence-5)**
+> 🔹 **[10 Simple Chat GPT Prompts That Actually Turn Into Money-Making Digital Products](https://medium.com/@peteragoreyo/10-simple-chat-gpt-prompts-that-actually-turn-into-money-making-digital-products-b56a304df218?source=rss------artificial_intelligence-5)**
+> 🔹 **[Ox Alpha: The Mysterious AI Model That Appeared Out of Nowhere — And Is Taking the Coding World...](https://medium.com/codetodeploy/ox-alpha-the-mysterious-ai-model-that-appeared-out-of-nowhere-and-is-taking-the-coding-world-by-902c9c48e5a1?source=rss------artificial_intelligence-5)**
+> 🔹 **[New to AI? Learn These 20 Concepts Before Reading Another Article](https://medium.com/@aishwaryakp2509/new-to-ai-learn-these-20-concepts-before-reading-another-article-fd29d962dfd8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Android Push Notifications: Why “It Worked in Staging” Doesn’t Mean It Works](https://medium.com/@sivavishnu0705/android-push-notifications-why-it-worked-in-staging-doesnt-mean-it-works-f07b31ce61e9?source=rss------system_design-5)**
+> 🔹 **[Mac mini M6 vs M5 Pro: Which One Should You Buy in 2026?](https://pub.towardsai.net/mac-mini-m6-vs-m5-pro-which-one-should-you-buy-in-2026-b647d0c5fc60?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why I Stopped Chasing Frontier Models](https://medium.com/@syed.ahmed.melb/why-i-stopped-chasing-frontier-models-136d10920ad6?source=rss------artificial_intelligence-5)**
+> 🔹 **[A IA ficou mais barata, mas pode custar mais: o paradoxo da inferência](https://medium.com/@essitbrasil/a-ia-ficou-mais-barata-mas-pode-custar-mais-o-paradoxo-da-infer%C3%AAncia-a751d8dddf21?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
