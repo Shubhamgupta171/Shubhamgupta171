@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Seedance 2.5 Storyboards Are Maps of Attention, Not Prompt Sheets](https://notesbyken.medium.com/seedance-2-5-storyboards-are-maps-of-attention-not-prompt-sheets-f3795d7b79a3?source=rss------artificial_intelligence-5)**
-> 🔹 **[10 Simple Chat GPT Prompts That Actually Turn Into Money-Making Digital Products](https://medium.com/@peteragoreyo/10-simple-chat-gpt-prompts-that-actually-turn-into-money-making-digital-products-b56a304df218?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ox Alpha: The Mysterious AI Model That Appeared Out of Nowhere — And Is Taking the Coding World...](https://medium.com/codetodeploy/ox-alpha-the-mysterious-ai-model-that-appeared-out-of-nowhere-and-is-taking-the-coding-world-by-902c9c48e5a1?source=rss------artificial_intelligence-5)**
-> 🔹 **[New to AI? Learn These 20 Concepts Before Reading Another Article](https://medium.com/@aishwaryakp2509/new-to-ai-learn-these-20-concepts-before-reading-another-article-fd29d962dfd8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Android Push Notifications: Why “It Worked in Staging” Doesn’t Mean It Works](https://medium.com/@sivavishnu0705/android-push-notifications-why-it-worked-in-staging-doesnt-mean-it-works-f07b31ce61e9?source=rss------system_design-5)**
-> 🔹 **[Mac mini M6 vs M5 Pro: Which One Should You Buy in 2026?](https://pub.towardsai.net/mac-mini-m6-vs-m5-pro-which-one-should-you-buy-in-2026-b647d0c5fc60?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why I Stopped Chasing Frontier Models](https://medium.com/@syed.ahmed.melb/why-i-stopped-chasing-frontier-models-136d10920ad6?source=rss------artificial_intelligence-5)**
-> 🔹 **[A IA ficou mais barata, mas pode custar mais: o paradoxo da inferência](https://medium.com/@essitbrasil/a-ia-ficou-mais-barata-mas-pode-custar-mais-o-paradoxo-da-infer%C3%AAncia-a751d8dddf21?source=rss------artificial_intelligence-5)**
+> 🔹 **[Page&lt;T&gt; in Spring Data JPA](https://medium.com/@varkalerushikesh/page-t-in-spring-data-jpa-405ce940757d?source=rss------backend_development-5)**
+> 🔹 **[The AI Isn’t the Threat. Everything It’s Plugged Into Is.](https://medium.com/@anurag.singh_40789/the-ai-isnt-the-threat-everything-it-s-plugged-into-is-4caf198e44c7?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Won&#39;t Believe What AI Can Do Now](https://medium.com/codetodeploy/you-wont-believe-what-ai-can-do-now-7d28f874b11b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tested 20 AI Tools — These 7 Are Actually Worth Using](https://medium.com/@dnmuthukumarana713/i-tested-20-ai-tools-these-7-are-actually-worth-using-896790d422b9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Rise of Vibe Coding: Anysphere’s $2 Billion Milestone and What Comes Next](https://medium.com/@andyhxy88/the-rise-of-vibe-coding-anyspheres-2-billion-milestone-and-what-comes-next-fa8b7b5c7673?source=rss------artificial_intelligence-5)**
+> 🔹 **[DSA Patterns Part #27 — Advanced BFS: When a Node Isn’t Enough](https://medium.com/codetodeploy/dsa-patterns-part-27-advanced-bfs-when-a-node-isnt-enough-10470bbbaa9b?source=rss------data_structures-5)**
+> 🔹 **[Membangun Organisasi Humanis di Era AI](https://medium.com/@nitasugiartawijaya_35226/membangun-organisasi-humanis-di-era-ai-9f73a45c8668?source=rss------artificial_intelligence-5)**
+> 🔹 **[Math for ML — Part 2](https://medium.com/@anupamapb/math-for-ml-part-2-5a1263886726?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
