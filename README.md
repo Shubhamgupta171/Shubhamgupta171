@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Page&lt;T&gt; in Spring Data JPA](https://medium.com/@varkalerushikesh/page-t-in-spring-data-jpa-405ce940757d?source=rss------backend_development-5)**
-> 🔹 **[The AI Isn’t the Threat. Everything It’s Plugged Into Is.](https://medium.com/@anurag.singh_40789/the-ai-isnt-the-threat-everything-it-s-plugged-into-is-4caf198e44c7?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Won&#39;t Believe What AI Can Do Now](https://medium.com/codetodeploy/you-wont-believe-what-ai-can-do-now-7d28f874b11b?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested 20 AI Tools — These 7 Are Actually Worth Using](https://medium.com/@dnmuthukumarana713/i-tested-20-ai-tools-these-7-are-actually-worth-using-896790d422b9?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Rise of Vibe Coding: Anysphere’s $2 Billion Milestone and What Comes Next](https://medium.com/@andyhxy88/the-rise-of-vibe-coding-anyspheres-2-billion-milestone-and-what-comes-next-fa8b7b5c7673?source=rss------artificial_intelligence-5)**
-> 🔹 **[DSA Patterns Part #27 — Advanced BFS: When a Node Isn’t Enough](https://medium.com/codetodeploy/dsa-patterns-part-27-advanced-bfs-when-a-node-isnt-enough-10470bbbaa9b?source=rss------data_structures-5)**
-> 🔹 **[Membangun Organisasi Humanis di Era AI](https://medium.com/@nitasugiartawijaya_35226/membangun-organisasi-humanis-di-era-ai-9f73a45c8668?source=rss------artificial_intelligence-5)**
-> 🔹 **[Math for ML — Part 2](https://medium.com/@anupamapb/math-for-ml-part-2-5a1263886726?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Most ChatGPT Prompts Fail &lpar;And the Fix Takes 10 Seconds&rpar;](https://medium.com/@hamzaaziz5750/why-most-chatgpt-prompts-fail-and-the-fix-takes-10-seconds-f0d6b317ea25?source=rss------artificial_intelligence-5)**
+> 🔹 **[Architecting the Agentic Underwriter: Why Naive RAG Fails in P&amp;C Insurance](https://medium.com/agentic-architecture/architecting-the-agentic-underwriter-why-naive-rag-fails-in-p-c-insurance-60b04d70c105?source=rss------artificial_intelligence-5)**
+> 🔹 **[By the Time We Noticed, the News Was Boiling](https://medium.com/@tobrien/by-the-time-we-noticed-the-news-was-boiling-c8c7419b8e9f?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Artificial Intelligence Detects Supply Chain Risks Before They Become Problems](https://pub.towardsai.net/how-artificial-intelligence-detects-supply-chain-risks-before-they-become-problems-d738d99d259c?source=rss------artificial_intelligence-5)**
+> 🔹 **[One Requirement Changed. What Else Needs Review?](https://medium.com/@spark.tsai/one-requirement-changed-what-else-needs-review-cfd47eb6baf0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Boom Needs Something Money Can’t Buy](https://medium.com/the-control-grid/ai-data-center-legitimacy-backlash-c32522adb1af?source=rss------artificial_intelligence-5)**
+> 🔹 **[Forward Deployed Engineer: The Role Is Real, the Gate Came First](https://medium.com/inventive-flexibility/forward-deployed-engineer-the-role-is-real-the-gate-came-first-3ffcf79dbb84?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI and the Final Outsourcing of Civilization](https://medium.com/where-thought-bends/ai-and-the-final-outsourcing-of-civilization-5bc7a5e0e805?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
