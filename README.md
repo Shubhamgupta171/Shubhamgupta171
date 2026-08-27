@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Gemini’s Naming Problem Is Really a Routing Problem](https://oscarmorgan-2.medium.com/geminis-naming-problem-is-really-a-routing-problem-90873846800a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mengenal Orchestration dan Kubernetes: Mengelola Container Skala Besar Secara Otomatis](https://kapsul4dinfo.medium.com/mengenal-orchestration-dan-kubernetes-mengelola-container-skala-besar-secara-otomatis-c758ded0569e?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 Best Claude AI Side Hustles For People Starting Over](https://medium.com/@themoneyonline_27237/7-best-claude-ai-side-hustles-for-people-starting-over-ac0bec985dcb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Salesforce DevOps Training | Salesforce AI Course](https://medium.com/@uvamsik2/salesforce-devops-training-salesforce-ai-course-b2f8f0686f0f?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Linked List Patterns Every JS Developer Needs for Interviews](https://medium.com/@biswajitbehura12/5-linked-list-patterns-every-js-developer-needs-for-interviews-3c368d7f3721?source=rss------data_structures-5)**
-> 🔹 **[POC vs MVP vs Production AI — What Should Your Business Build First?](https://techasoft.medium.com/poc-vs-mvp-vs-production-ai-what-should-your-business-build-first-63e3cee01839?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Metrics That Actually Predict SaaS Growth](https://talhafakhar.medium.com/the-metrics-that-actually-predict-saas-growth-07c0700e38a6?source=rss------artificial_intelligence-5)**
-> 🔹 **[From “I Don’t Understand Any of This” to Registering My First Bittensor Miner](https://medium.com/@srilekhadas007/from-i-dont-understand-any-of-this-to-registering-my-first-bittensor-miner-8183a4422fad?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Bait You Took on Your Way Somewhere Else](https://ai.gopubby.com/the-bait-you-took-on-your-way-somewhere-else-703a88012aba?source=rss------artificial_intelligence-5)**
+> 🔹 **[More Reasoning Can Make an Alert Worse](https://medium.com/kairi-ai/more-reasoning-can-make-an-alert-worse-92b3d49e5b20?source=rss------artificial_intelligence-5)**
+> 🔹 **[A IA pode avaliar você.
+Você não pode usá-la.](https://creusio16.medium.com/a-ia-pode-avaliar-voc%C3%AA-voc%C3%AA-n%C3%A3o-pode-us%C3%A1-la-aee5b5bbff73?source=rss------artificial_intelligence-5)**
+> 🔹 **[Over Half of Web Traffic No Longer Involves Human Eyes](https://hattyhats.medium.com/over-half-of-web-traffic-no-longer-involves-human-eyes-1fba5de92e78?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Podcasts + High-Ticket Automation: The New Blueprint for Building Online Income](https://medium.com/@hasibariyan6/ai-podcasts-high-ticket-automation-the-new-blueprint-for-building-online-income-2b6f50b91bbd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Not Every Release Is a Pluto Transit](https://amanda-n-george.medium.com/not-every-release-is-a-pluto-transit-06b5f81be0d9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Vibe code Roblox with Cursor: Studio MCP, honest scopes, and what AI still cannot do](https://medium.com/@safeburseng/vibe-code-roblox-with-cursor-studio-mcp-honest-scopes-and-what-ai-still-cannot-do-bca2352dc910?source=rss------artificial_intelligence-5)**
+> 🔹 **[Palantir Is Not an AI Stock. That Is Why It Is Winning.](https://medium.com/techreviewaustralia/palantir-is-not-an-ai-stock-that-is-why-it-is-winning-b2a0399203ae?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
