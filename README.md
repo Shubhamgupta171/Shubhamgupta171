@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Stop Guessing: Find the Right AI Model for the Hardware You Already Own](https://medium.com/@taotang757/stop-guessing-find-the-right-ai-model-for-the-hardware-you-already-own-2fdce0caff7e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Amahub Prime Points and Quests: How the Rewards System Works](https://medium.com/@cejipi2213/amahub-prime-points-and-quests-how-the-rewards-system-works-ff5bb1b6b93e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Capital Trap](https://medium.com/@affilietok0125/the-ai-capital-trap-72e323ae01d7?source=rss------artificial_intelligence-5)**
-> 🔹 **[DeepMind’s Exodus Began 51 Days After a Pentagon Deal](https://meetcyber.net/deepminds-exodus-began-51-days-after-a-pentagon-deal-b3d3ab54a419?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is amahub? A Guide to AI Agents, Trading and the Amadeus Ecosystem](https://medium.com/@xoreyax538/what-is-amahub-a-guide-to-ai-agents-trading-and-the-amadeus-ecosystem-2e5b72894db7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agents, Tools, MCP: What Plugs Into What…](https://himani-gulati.medium.com/agents-tools-mcp-what-plugs-into-what-07d0888d441e?source=rss------artificial_intelligence-5)**
-> 🔹 **[TAI #219: AI, Cancer and the Future of Personalized Medicine](https://pub.towardsai.net/tai-219-ai-cancer-and-the-future-of-personalized-medicine-27763deaa56e?source=rss------artificial_intelligence-5)**
-> 🔹 **[THE CAT’S EAR AND THE MORAL RADIUS OF AI](https://medium.com/@antarex/the-cats-ear-and-the-moral-radius-of-ai-3226022ee263?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gemini’s Naming Problem Is Really a Routing Problem](https://oscarmorgan-2.medium.com/geminis-naming-problem-is-really-a-routing-problem-90873846800a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mengenal Orchestration dan Kubernetes: Mengelola Container Skala Besar Secara Otomatis](https://kapsul4dinfo.medium.com/mengenal-orchestration-dan-kubernetes-mengelola-container-skala-besar-secara-otomatis-c758ded0569e?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 Best Claude AI Side Hustles For People Starting Over](https://medium.com/@themoneyonline_27237/7-best-claude-ai-side-hustles-for-people-starting-over-ac0bec985dcb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Salesforce DevOps Training | Salesforce AI Course](https://medium.com/@uvamsik2/salesforce-devops-training-salesforce-ai-course-b2f8f0686f0f?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Linked List Patterns Every JS Developer Needs for Interviews](https://medium.com/@biswajitbehura12/5-linked-list-patterns-every-js-developer-needs-for-interviews-3c368d7f3721?source=rss------data_structures-5)**
+> 🔹 **[POC vs MVP vs Production AI — What Should Your Business Build First?](https://techasoft.medium.com/poc-vs-mvp-vs-production-ai-what-should-your-business-build-first-63e3cee01839?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Metrics That Actually Predict SaaS Growth](https://talhafakhar.medium.com/the-metrics-that-actually-predict-saas-growth-07c0700e38a6?source=rss------artificial_intelligence-5)**
+> 🔹 **[From “I Don’t Understand Any of This” to Registering My First Bittensor Miner](https://medium.com/@srilekhadas007/from-i-dont-understand-any-of-this-to-registering-my-first-bittensor-miner-8183a4422fad?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
