@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Bait You Took on Your Way Somewhere Else](https://ai.gopubby.com/the-bait-you-took-on-your-way-somewhere-else-703a88012aba?source=rss------artificial_intelligence-5)**
-> 🔹 **[More Reasoning Can Make an Alert Worse](https://medium.com/kairi-ai/more-reasoning-can-make-an-alert-worse-92b3d49e5b20?source=rss------artificial_intelligence-5)**
-> 🔹 **[A IA pode avaliar você.
-Você não pode usá-la.](https://creusio16.medium.com/a-ia-pode-avaliar-voc%C3%AA-voc%C3%AA-n%C3%A3o-pode-us%C3%A1-la-aee5b5bbff73?source=rss------artificial_intelligence-5)**
-> 🔹 **[Over Half of Web Traffic No Longer Involves Human Eyes](https://hattyhats.medium.com/over-half-of-web-traffic-no-longer-involves-human-eyes-1fba5de92e78?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Podcasts + High-Ticket Automation: The New Blueprint for Building Online Income](https://medium.com/@hasibariyan6/ai-podcasts-high-ticket-automation-the-new-blueprint-for-building-online-income-2b6f50b91bbd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Not Every Release Is a Pluto Transit](https://amanda-n-george.medium.com/not-every-release-is-a-pluto-transit-06b5f81be0d9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Vibe code Roblox with Cursor: Studio MCP, honest scopes, and what AI still cannot do](https://medium.com/@safeburseng/vibe-code-roblox-with-cursor-studio-mcp-honest-scopes-and-what-ai-still-cannot-do-bca2352dc910?source=rss------artificial_intelligence-5)**
-> 🔹 **[Palantir Is Not an AI Stock. That Is Why It Is Winning.](https://medium.com/techreviewaustralia/palantir-is-not-an-ai-stock-that-is-why-it-is-winning-b2a0399203ae?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Run Nearly 100 AI Agent Skills. Most Of Them Are Trash](https://medium.com/@dtrinciarelli/i-run-nearly-100-ai-agent-skills-most-of-them-are-trash-5db25532e034?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Automation Portfolio: Proof That Beats a Certificate](https://corranforce.medium.com/ai-automation-portfolio-proof-that-beats-a-certificate-685e4c10c20f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Asking for Executive Sponsorship. Start Selling Outcomes.](https://medium.com/@angusewing/stop-asking-for-executive-sponsorship-start-selling-outcomes-59f5c86cad19?source=rss------system_design-5)**
+> 🔹 **[Anthropic Is Going Public at $2T Valuation — Top 10 AI &amp; Flutter News August 28, 2026](https://blurbrahlab.medium.com/anthropic-is-going-public-at-2t-valuation-top-10-ai-flutter-news-august-28-2026-b9c9354804d4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Passed the Demo. Would It Pass an Audit?](https://medium.com/@avalarushvithreddy/your-ai-passed-the-demo-would-it-pass-an-audit-51936b895e33?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tested Whether Editing Actually Strips AI Text Watermarks](https://medium.com/@jassky908/i-tested-whether-editing-actually-strips-ai-text-watermarks-6791c8afa00d?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Spent $30K on Virtual Assistants. Then I Tried AI Employees.](https://medium.com/@colakang/i-spent-30k-on-virtual-assistants-then-i-tried-ai-employees-39aa10e50229?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Decision Quality Matters More Than Deal Volume](https://medium.com/@vrexo_ai/why-decision-quality-matters-more-than-deal-volume-b74b19ae96ab?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
