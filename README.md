@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Run Nearly 100 AI Agent Skills. Most Of Them Are Trash](https://medium.com/@dtrinciarelli/i-run-nearly-100-ai-agent-skills-most-of-them-are-trash-5db25532e034?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Automation Portfolio: Proof That Beats a Certificate](https://corranforce.medium.com/ai-automation-portfolio-proof-that-beats-a-certificate-685e4c10c20f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Asking for Executive Sponsorship. Start Selling Outcomes.](https://medium.com/@angusewing/stop-asking-for-executive-sponsorship-start-selling-outcomes-59f5c86cad19?source=rss------system_design-5)**
-> 🔹 **[Anthropic Is Going Public at $2T Valuation — Top 10 AI &amp; Flutter News August 28, 2026](https://blurbrahlab.medium.com/anthropic-is-going-public-at-2t-valuation-top-10-ai-flutter-news-august-28-2026-b9c9354804d4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Passed the Demo. Would It Pass an Audit?](https://medium.com/@avalarushvithreddy/your-ai-passed-the-demo-would-it-pass-an-audit-51936b895e33?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested Whether Editing Actually Strips AI Text Watermarks](https://medium.com/@jassky908/i-tested-whether-editing-actually-strips-ai-text-watermarks-6791c8afa00d?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Spent $30K on Virtual Assistants. Then I Tried AI Employees.](https://medium.com/@colakang/i-spent-30k-on-virtual-assistants-then-i-tried-ai-employees-39aa10e50229?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Decision Quality Matters More Than Deal Volume](https://medium.com/@vrexo_ai/why-decision-quality-matters-more-than-deal-volume-b74b19ae96ab?source=rss------artificial_intelligence-5)**
+> 🔹 **[Dual R9700 local AI: When 64GB VRAM beats an RTX 5090](https://medium.com/@popularai/dual-r9700-local-ai-when-64gb-vram-beats-an-rtx-5090-e04e69d075f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Build First, Think Later](https://medium.com/@poola.vii/build-first-think-later-36ea1d548737?source=rss------artificial_intelligence-5)**
+> 🔹 **[U.S. Weighs Extending Chip Tariffs to AI Servers and PCs — Semiconductor News, August 29, 2026](https://tai-semicon.medium.com/u-s-weighs-extending-chip-tariffs-to-ai-servers-and-pcs-semiconductor-news-august-29-2026-526caff405d7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Hospitals Can’t Monitor AI They Haven’t Found](https://medium.com/kairi-ai/hospitals-cant-monitor-ai-they-haven-t-found-b6dee9c19f42?source=rss------artificial_intelligence-5)**
+> 🔹 **[Flow Trade AI Review: Unable to Withdraw on Flow Trade AI, Scam Warning Signs and What Victims…](https://medium.com/@Dataloads/flow-trade-ai-review-unable-to-withdraw-on-flow-trade-ai-scam-warning-signs-and-what-victims-5a5b170b9d65?source=rss------artificial_intelligence-5)**
+> 🔹 **[AUDIENCE INFRASTRUCTURE™](https://medium.com/@moltybeeai/audience-infrastructure-247d0ca7e9dd?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Chat With a PDF Free: Ask Questions Without Reading Every Page](https://medium.com/@fazi2252648/how-to-chat-with-a-pdf-free-ask-questions-without-reading-every-page-9470b4e0a2ae?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Yelp’s Information Architecture Fosters Community and Exploration](https://medium.com/@michaelakincaid2028/how-yelps-information-architecture-fosters-community-and-exploration-a73ba1a1c69d?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
