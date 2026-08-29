@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Dual R9700 local AI: When 64GB VRAM beats an RTX 5090](https://medium.com/@popularai/dual-r9700-local-ai-when-64gb-vram-beats-an-rtx-5090-e04e69d075f6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Build First, Think Later](https://medium.com/@poola.vii/build-first-think-later-36ea1d548737?source=rss------artificial_intelligence-5)**
-> 🔹 **[U.S. Weighs Extending Chip Tariffs to AI Servers and PCs — Semiconductor News, August 29, 2026](https://tai-semicon.medium.com/u-s-weighs-extending-chip-tariffs-to-ai-servers-and-pcs-semiconductor-news-august-29-2026-526caff405d7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Hospitals Can’t Monitor AI They Haven’t Found](https://medium.com/kairi-ai/hospitals-cant-monitor-ai-they-haven-t-found-b6dee9c19f42?source=rss------artificial_intelligence-5)**
-> 🔹 **[Flow Trade AI Review: Unable to Withdraw on Flow Trade AI, Scam Warning Signs and What Victims…](https://medium.com/@Dataloads/flow-trade-ai-review-unable-to-withdraw-on-flow-trade-ai-scam-warning-signs-and-what-victims-5a5b170b9d65?source=rss------artificial_intelligence-5)**
-> 🔹 **[AUDIENCE INFRASTRUCTURE™](https://medium.com/@moltybeeai/audience-infrastructure-247d0ca7e9dd?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Chat With a PDF Free: Ask Questions Without Reading Every Page](https://medium.com/@fazi2252648/how-to-chat-with-a-pdf-free-ask-questions-without-reading-every-page-9470b4e0a2ae?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Yelp’s Information Architecture Fosters Community and Exploration](https://medium.com/@michaelakincaid2028/how-yelps-information-architecture-fosters-community-and-exploration-a73ba1a1c69d?source=rss------system_design-5)**
+> 🔹 **[How an AI Model Is Actually Trained](https://barisgunduz.medium.com/how-an-ai-model-is-actually-trained-33627c4b971d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Meet The Builder: Exploring Generative AI Through Creativity](https://medium.com/@bharatbishttt19/meet-the-builder-exploring-generative-ai-through-creativity-2c8933569b5b?source=rss------artificial_intelligence-5)**
+> 🔹 **[How the N+1 Query Problem Actually Works | Why Your API Gets Slower With Every Row You Add](https://medium.com/@singh.piyush/how-the-n-1-query-problem-actually-works-why-your-api-gets-slower-with-every-row-you-add-e649b868f98f?source=rss------system_design-5)**
+> 🔹 **[How the N+1 Query Problem Actually Works | Why Your API Gets Slower With Every Row You Add](https://medium.com/@singh.piyush/how-the-n-1-query-problem-actually-works-why-your-api-gets-slower-with-every-row-you-add-e649b868f98f?source=rss------backend_development-5)**
+> 🔹 **[MCP and Skills Hit Their Limits in Finance: The Multi-Agent Solution](https://medium.com/agentive-futures/mcp-and-skills-hit-their-limits-in-finance-the-multi-agent-solution-c276d55bd733?source=rss------artificial_intelligence-5)**
+> 🔹 **[US Court Blocks Pentagon’s Anthropic Ban — What the August 27 2026 Ruling Means for AI, Nationa...](https://tehnologijaviews.medium.com/us-court-blocks-pentagons-anthropic-ban-what-the-august-27-2026-ruling-means-for-ai-national-4de195768978?source=rss------artificial_intelligence-5)**
+> 🔹 **[How SDD Changes Code Review: From Code Inspection to Intent Verification](https://medium.com/@wasowski.jarek/how-sdd-changes-code-review-from-code-inspection-to-intent-verification-f27d98fc96d3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Languages AI Wants You to Choose](https://medium.com/@arturormk/the-languages-ai-wants-you-to-choose-b3c865e65a3e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
