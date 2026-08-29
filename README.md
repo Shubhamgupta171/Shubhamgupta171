@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Real Cost of AI: From Tokens to Business Value](https://medium.com/@bandla.tejesh18/the-real-cost-of-ai-from-tokens-to-business-value-6650cd877ec9?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Was Asked These Java Interview Questions — And Most Developers Get at Least 3 of Them Wrong](https://medium.com/@samanlnayak2003/i-was-asked-these-java-interview-questions-and-most-developers-get-at-least-3-of-them-wrong-63bc2faa9638?source=rss------artificial_intelligence-5)**
-> 🔹 **[Where Hides the Expert? — A daily short story](https://medium.com/@andrewjamesmurphy79/where-hides-the-expert-a-daily-short-story-bcb33711acd8?source=rss------artificial_intelligence-5)**
-> 🔹 **[GPT-5.4: One Family for Reasoning, Pro, Mini and Nano](https://medium.com/@ibokkon/gpt-5-4-one-family-for-reasoning-pro-mini-and-nano-2a5621f69f05?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Ways to Stay Productive While Working Remote in Nigeria](https://medium.com/@stellaebimoboere76/5-ways-to-stay-productive-while-working-remote-in-nigeria-9715cf19f464?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Stopped Rewriting Prompts and Built My Own ChatGPT Command System](https://medium.com/activated-thinker/i-stopped-rewriting-prompts-and-built-my-own-chatgpt-command-system-e32813ce300c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mensagem.](https://medium.com/@annaluh9097/mensagem-80a38d7fcaa1?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Implement AI in Business: Where to Start | Beetrail](https://medium.com/@hello_55692/how-to-implement-ai-in-business-where-to-start-beetrail-eaf193125ee0?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 AI Tools That Will Replace 90% of Freelancers by 2027 &lpar;And How to Stay Ahead&rpar;](https://medium.com/@mrahimeen646/5-ai-tools-that-will-replace-90-of-freelancers-by-2027-and-how-to-stay-ahead-2fdf6c4f84c2?source=rss------artificial_intelligence-5)**
+> 🔹 **[When we Ship a 92% Accurate Agent. It Approves a Loan It Never Read.](https://medium.com/@pranavnarendrapatil.2104/when-we-ship-a-92-accurate-agent-it-approves-a-loan-it-never-read-9b1e2b55963d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Most Small Businesses Are Buying the Wrong Website — and Paying Too Much for It](https://medium.com/marketing-for-growth/most-small-businesses-are-buying-the-wrong-website-and-paying-too-much-for-it-e89171b660d0?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents for Small Businesses: The Ultimate Guide to Scaling &lpar;2026&rpar;](https://medium.com/@SolosolveAi_/ai-agents-for-small-businesses-the-ultimate-guide-to-scaling-2026-49e066c40db0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Webhook That Cried Wolf: The Silent Bug Quietly Costing SaaS Companies Real Money](https://medium.com/@tar1z/the-webhook-that-cried-wolf-the-silent-bug-quietly-costing-saas-companies-real-money-57be8aae6baa?source=rss------backend_development-5)**
+> 🔹 **[Mit 18 und 20 gegen etablierte Agenturen: Diese jungen Gründer wollen den deutschen Digitalmark...](https://startupgermany.medium.com/mit-18-und-20-gegen-etablierte-agenturen-diese-jungen-gr%C3%BCnder-wollen-den-deutschen-digitalmarkt-5587f7d7f989?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Gave Claude Four Extra Skills. My Output Changed More Than My Prompts Ever Did.](https://medium.com/startup-insider-edge/i-gave-claude-four-extra-skills-my-output-changed-more-than-my-prompts-ever-did-1dfc8d05edbf?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Structure My Backends Using Clean Architecture, DDD, Ports &amp; Adapters](https://medium.com/@vvbvargas/how-i-structure-my-backends-using-clean-architecture-ddd-ports-adapters-4df3fbb62caf?source=rss------backend_development-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
