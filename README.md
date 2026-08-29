@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How an AI Model Is Actually Trained](https://barisgunduz.medium.com/how-an-ai-model-is-actually-trained-33627c4b971d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Meet The Builder: Exploring Generative AI Through Creativity](https://medium.com/@bharatbishttt19/meet-the-builder-exploring-generative-ai-through-creativity-2c8933569b5b?source=rss------artificial_intelligence-5)**
-> 🔹 **[How the N+1 Query Problem Actually Works | Why Your API Gets Slower With Every Row You Add](https://medium.com/@singh.piyush/how-the-n-1-query-problem-actually-works-why-your-api-gets-slower-with-every-row-you-add-e649b868f98f?source=rss------system_design-5)**
-> 🔹 **[How the N+1 Query Problem Actually Works | Why Your API Gets Slower With Every Row You Add](https://medium.com/@singh.piyush/how-the-n-1-query-problem-actually-works-why-your-api-gets-slower-with-every-row-you-add-e649b868f98f?source=rss------backend_development-5)**
-> 🔹 **[MCP and Skills Hit Their Limits in Finance: The Multi-Agent Solution](https://medium.com/agentive-futures/mcp-and-skills-hit-their-limits-in-finance-the-multi-agent-solution-c276d55bd733?source=rss------artificial_intelligence-5)**
-> 🔹 **[US Court Blocks Pentagon’s Anthropic Ban — What the August 27 2026 Ruling Means for AI, Nationa...](https://tehnologijaviews.medium.com/us-court-blocks-pentagons-anthropic-ban-what-the-august-27-2026-ruling-means-for-ai-national-4de195768978?source=rss------artificial_intelligence-5)**
-> 🔹 **[How SDD Changes Code Review: From Code Inspection to Intent Verification](https://medium.com/@wasowski.jarek/how-sdd-changes-code-review-from-code-inspection-to-intent-verification-f27d98fc96d3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Languages AI Wants You to Choose](https://medium.com/@arturormk/the-languages-ai-wants-you-to-choose-b3c865e65a3e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Real Cost of AI: From Tokens to Business Value](https://medium.com/@bandla.tejesh18/the-real-cost-of-ai-from-tokens-to-business-value-6650cd877ec9?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Was Asked These Java Interview Questions — And Most Developers Get at Least 3 of Them Wrong](https://medium.com/@samanlnayak2003/i-was-asked-these-java-interview-questions-and-most-developers-get-at-least-3-of-them-wrong-63bc2faa9638?source=rss------artificial_intelligence-5)**
+> 🔹 **[Where Hides the Expert? — A daily short story](https://medium.com/@andrewjamesmurphy79/where-hides-the-expert-a-daily-short-story-bcb33711acd8?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPT-5.4: One Family for Reasoning, Pro, Mini and Nano](https://medium.com/@ibokkon/gpt-5-4-one-family-for-reasoning-pro-mini-and-nano-2a5621f69f05?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Ways to Stay Productive While Working Remote in Nigeria](https://medium.com/@stellaebimoboere76/5-ways-to-stay-productive-while-working-remote-in-nigeria-9715cf19f464?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Stopped Rewriting Prompts and Built My Own ChatGPT Command System](https://medium.com/activated-thinker/i-stopped-rewriting-prompts-and-built-my-own-chatgpt-command-system-e32813ce300c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mensagem.](https://medium.com/@annaluh9097/mensagem-80a38d7fcaa1?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Implement AI in Business: Where to Start | Beetrail](https://medium.com/@hello_55692/how-to-implement-ai-in-business-where-to-start-beetrail-eaf193125ee0?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
