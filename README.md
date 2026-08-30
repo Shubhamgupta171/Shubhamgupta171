@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[From “AI Can Reason” to “AI Can Transact”: The Next Evolution of AI Payments](https://medium.com/@ehmperhor001/from-ai-can-reason-to-ai-can-transact-the-next-evolution-of-ai-payments-7afc555aaf53?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Benchmark That Defined the AI Coding Race Just Got Retired by the Company That Built It](https://medium.com/activated-thinker/the-benchmark-that-defined-the-ai-coding-race-just-got-retired-by-the-company-that-built-it-160c4d64b31c?source=rss------artificial_intelligence-5)**
-> 🔹 **[11 Best AI Expense Tracker Apps in India &lpar;2026–2027&rpar;: Honest Reviews](https://medium.com/@sumiet.tale/11-best-ai-expense-tracker-apps-in-india-2026-2027-honest-reviews-360e5c810e3c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Same Problem. Two Minds. Completely Different Mathematics.](https://swarnenduiitb2020i.medium.com/same-problem-two-minds-completely-different-mathematics-e08fcb5ff552?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Bubble: Why “GPT Wrappers” Are Failing &lpar;And What Survives&rpar;](https://medium.com/@ridhampokiya10/the-ai-bubble-why-gpt-wrappers-are-failing-and-what-survives-d0753f81b188?source=rss------artificial_intelligence-5)**
-> 🔹 **[Sellables AI Review: Can This All-in-One AI Digital Product Builder Launch Your Online Store?](https://medium.com/@muzammalpir360/sellables-ai-review-can-this-all-in-one-ai-digital-product-builder-launch-your-online-store-2f32ffab0794?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Great Inversion: Why the World Will Soon Have More Grandparents Than Grandchildren](https://medium.com/@jeetlahauk/the-great-inversion-why-the-world-will-soon-have-more-grandparents-than-grandchildren-1825ce46e243?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Business Analysts Can Design Human-in-the-Loop Workflows for AI Agents](https://medium.com/@soundaryajb4/how-business-analysts-can-design-human-in-the-loop-workflows-for-ai-agents-721ab32b0bc9?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Rules to Make Figma Agent Follow Your System](https://medium.com/@sinarad.me/5-rules-to-make-figma-agent-follow-your-system-75227bb1925c?source=rss------system_design-5)**
+> 🔹 **[How Can Multiple Tasks Run Without Running at the Same Time?](https://medium.com/@asyncyash/how-can-multiple-tasks-run-without-running-at-the-same-time-cb4b56c47959?source=rss------backend_development-5)**
+> 🔹 **[Employers Don’t Want You to Be an AI Expert](https://medium.com/kurious-mind/employers-dont-want-you-to-be-an-ai-expert-fd352d37c862?source=rss------artificial_intelligence-5)**
+> 🔹 **[Hello world.](https://gridheap.medium.com/hello-world-ee9cffd7064c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Andrew Ng’s Agentic AI Course, All Five Modules, in One Read](https://medium.com/data-science-collective/andrew-ngs-agentic-ai-course-all-five-modules-in-one-read-8c6f2ec5a19a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can AI Do Your Taxes. I Tested 72 Estimates Against Real Maths](https://ai.plainenglish.io/can-ai-do-your-taxes-i-tested-72-estimates-against-real-maths-c488267b09b5?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Writing: Copyright and the Human in the Loop Loophole](https://medium.com/@00leonmarks00/ai-writing-copyright-and-the-human-in-the-loop-loophole-8c6a3f5560b1?source=rss------artificial_intelligence-5)**
+> 🔹 **[A prompt is a wish, a mechanism is a guarantee — how we built Keepsake](https://medium.com/@unzila15/a-prompt-is-a-wish-a-mechanism-is-a-guarantee-how-we-built-keepsake-8425b6c3e7ee?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
