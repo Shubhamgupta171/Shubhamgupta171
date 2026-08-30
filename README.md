@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How AI-Assisted Debugging Changed My Daily Workflow as a Backend Developer](https://medium.com/lets-code-future/how-ai-assisted-debugging-changed-my-daily-workflow-as-a-backend-developer-ff81b230dd39?source=rss------backend_development-5)**
-> 🔹 **[AI Ethics in JavaScript: Building Responsible AI-Powered Web Applications](https://medium.com/@msdc.itskills/ai-ethics-in-javascript-building-responsible-ai-powered-web-applications-3e08178d68b6?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Starting to Improve AI — and That May Be the Biggest Shift of 2026](https://medium.com/activated-thinker/ai-is-starting-to-improve-ai-and-that-may-be-the-biggest-shift-of-2026-88ec7f363da1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the Front Desk: How Marriott is Rewriting the Rules of Hospitality with AI](https://medium.com/@ujjwalgupta893/beyond-the-front-desk-how-marriott-is-rewriting-the-rules-of-hospitality-with-ai-836316360f65?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Human Creativity and Passion Will Never Be Replaced by AI](https://medium.com/@azanaliasif664/why-human-creativity-and-passion-will-never-be-replaced-by-ai-d4e36d082a64?source=rss------artificial_intelligence-5)**
-> 🔹 **[10 Best AI Graphic Design Tools in 2026](https://medium.com/@sovannaro/10-best-ai-graphic-design-tools-in-2026-dae3e41d0956?source=rss------artificial_intelligence-5)**
-> 🔹 **[​ Wait! Are You Overpaying for Your Insurance Policies?](https://medium.com/@arahmedahmed99/wait-are-you-overpaying-for-your-insurance-policies-b0aeacbc90f3?source=rss------artificial_intelligence-5)**
-> 🔹 **[More Than 1,000 OpenAI Agents Colluded to Build a Secret Message Board and Attack a Competitor](https://medium.com/the-generator/more-than-1-000-openai-agents-colluded-to-build-a-secret-message-board-and-attack-a-competitor-652fbfe748b8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Don’t Pay for 28,000 Tokens to Read 250 Words](https://kevinjztan.medium.com/dont-pay-for-28-000-tokens-to-read-250-words-eb017ee71d57?source=rss------artificial_intelligence-5)**
+> 🔹 **[Tier 7](https://medium.com/@savantframeworkadmin/tier-7-17aa11603608?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mechanical Consciousness](https://medium.com/@spextreme/mechanical-consciousness-92e32570a610?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Receptionists Cost $0.13 a Minute. The Service Sells for $300.](https://medium.com/@automation.labs/ai-receptionists-cost-0-13-a-minute-the-service-sells-for-300-6c4db73c8852?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Human Skills the WEF says will decide who survives in Post-Production by 2030](https://medium.com/@jdcruel/5-human-skills-the-wef-says-will-decide-who-survives-in-post-production-by-2030-15548a762cbc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Apple Silicon vs NVIDIA for Local AI: Unified Memory Wins One Test. Throughput Wins Another.](https://blog.stackademic.com/apple-silicon-vs-nvidia-for-local-ai-unified-memory-wins-one-test-throughput-wins-another-593c66d30eb3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your 128K Local Model Does Not Have 128K of Free Context. The KV Cache Took the Rest.](https://medium.com/@LocalAiSystems/your-128k-local-model-does-not-have-128k-of-free-context-the-kv-cache-took-the-rest-315dafe204e7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Banking Interface: What Happens When Customers Stop Opening Banking Apps?](https://medium.com/@zahoor_213/the-ai-banking-interface-what-happens-when-customers-stop-opening-banking-apps-1adb115c8879?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
