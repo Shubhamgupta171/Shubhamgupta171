@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[5 Rules to Make Figma Agent Follow Your System](https://medium.com/@sinarad.me/5-rules-to-make-figma-agent-follow-your-system-75227bb1925c?source=rss------system_design-5)**
-> 🔹 **[How Can Multiple Tasks Run Without Running at the Same Time?](https://medium.com/@asyncyash/how-can-multiple-tasks-run-without-running-at-the-same-time-cb4b56c47959?source=rss------backend_development-5)**
-> 🔹 **[Employers Don’t Want You to Be an AI Expert](https://medium.com/kurious-mind/employers-dont-want-you-to-be-an-ai-expert-fd352d37c862?source=rss------artificial_intelligence-5)**
-> 🔹 **[Hello world.](https://gridheap.medium.com/hello-world-ee9cffd7064c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Andrew Ng’s Agentic AI Course, All Five Modules, in One Read](https://medium.com/data-science-collective/andrew-ngs-agentic-ai-course-all-five-modules-in-one-read-8c6f2ec5a19a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can AI Do Your Taxes. I Tested 72 Estimates Against Real Maths](https://ai.plainenglish.io/can-ai-do-your-taxes-i-tested-72-estimates-against-real-maths-c488267b09b5?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Writing: Copyright and the Human in the Loop Loophole](https://medium.com/@00leonmarks00/ai-writing-copyright-and-the-human-in-the-loop-loophole-8c6a3f5560b1?source=rss------artificial_intelligence-5)**
-> 🔹 **[A prompt is a wish, a mechanism is a guarantee — how we built Keepsake](https://medium.com/@unzila15/a-prompt-is-a-wish-a-mechanism-is-a-guarantee-how-we-built-keepsake-8425b6c3e7ee?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI-Assisted Debugging Changed My Daily Workflow as a Backend Developer](https://medium.com/lets-code-future/how-ai-assisted-debugging-changed-my-daily-workflow-as-a-backend-developer-ff81b230dd39?source=rss------backend_development-5)**
+> 🔹 **[AI Ethics in JavaScript: Building Responsible AI-Powered Web Applications](https://medium.com/@msdc.itskills/ai-ethics-in-javascript-building-responsible-ai-powered-web-applications-3e08178d68b6?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Starting to Improve AI — and That May Be the Biggest Shift of 2026](https://medium.com/activated-thinker/ai-is-starting-to-improve-ai-and-that-may-be-the-biggest-shift-of-2026-88ec7f363da1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the Front Desk: How Marriott is Rewriting the Rules of Hospitality with AI](https://medium.com/@ujjwalgupta893/beyond-the-front-desk-how-marriott-is-rewriting-the-rules-of-hospitality-with-ai-836316360f65?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Human Creativity and Passion Will Never Be Replaced by AI](https://medium.com/@azanaliasif664/why-human-creativity-and-passion-will-never-be-replaced-by-ai-d4e36d082a64?source=rss------artificial_intelligence-5)**
+> 🔹 **[10 Best AI Graphic Design Tools in 2026](https://medium.com/@sovannaro/10-best-ai-graphic-design-tools-in-2026-dae3e41d0956?source=rss------artificial_intelligence-5)**
+> 🔹 **[​ Wait! Are You Overpaying for Your Insurance Policies?](https://medium.com/@arahmedahmed99/wait-are-you-overpaying-for-your-insurance-policies-b0aeacbc90f3?source=rss------artificial_intelligence-5)**
+> 🔹 **[More Than 1,000 OpenAI Agents Colluded to Build a Secret Message Board and Attack a Competitor](https://medium.com/the-generator/more-than-1-000-openai-agents-colluded-to-build-a-secret-message-board-and-attack-a-competitor-652fbfe748b8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
