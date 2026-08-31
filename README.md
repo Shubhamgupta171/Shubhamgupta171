@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Getting Started with Tencent EdgeOne Makers: A Feature Review for Young Developers](https://medium.com/@adityasn09/getting-started-with-tencent-edgeone-makers-a-feature-review-for-young-developers-5b1ee148570d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Unconventional Uniqueness of Palantir’s CEO](https://medium.com/@abandoned_train_station/the-unconventional-uniqueness-of-palantirs-ceo-8734b3d6e42c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building Toward Agentic Financial Intelligence on AWS](https://medium.com/@hobballah.yasser/building-toward-agentic-financial-intelligence-on-aws-afcd7ed3d972?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Bulk Invoice Validation Helps Enterprises Process High Invoice Volumes Accurately](https://computyne.medium.com/how-bulk-invoice-validation-helps-enterprises-process-high-invoice-volumes-accurately-a93fd042d61d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google now lets you use Gemini in interviews. The round is a code review, not a cheat code.](https://medium.com/@zskzskabcd/google-now-lets-you-use-gemini-in-interviews-the-round-is-a-code-review-not-a-cheat-code-1fffb8c534bb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Synthetic Minds | From Tool to Actor: The Line AI Has Quietly Crossed](https://markvanrijmenam.medium.com/synthetic-minds-from-tool-to-actor-the-line-ai-has-quietly-crossed-d93f46c3e0cc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Understanding Latency and Throughput: The Twin Pillars of System Performance](https://rounakkraajsabat.medium.com/understanding-latency-and-throughput-the-twin-pillars-of-system-performance-11c9e3463bd6?source=rss------backend_development-5)**
-> 🔹 **[AI Employees Aren’t Employees. That’s Actually the Point.](https://medium.com/@taku_ai/ai-employees-arent-employees-that-s-actually-the-point-41b33c07c351?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everyone Has AI. Now What?](https://medium.com/data-nuggets/everyone-has-ai-now-what-366287d34144?source=rss------artificial_intelligence-5)**
+> 🔹 **[Don’t Ask an LLM to Detect Training Failures. Ask It to Explain the Evidence.](https://medium.com/@agarwal15pragya/dont-ask-an-llm-to-detect-training-failures-ask-it-to-explain-the-evidence-a7f0a11879a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Step 4 of 7 Failed. What Does the Screen Say?](https://medium.com/data-science-collective/step-4-of-7-failed-what-does-the-screen-say-4f9497ef7ce0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Sandy Regime: When More Signal Becomes Less Meaning](https://medium.com/@raulidentia/the-sandy-regime-when-more-signal-becomes-less-meaning-93c38f0a7edd?source=rss------system_design-5)**
+> 🔹 **[The Sandy Regime: When More Signal Becomes Less Meaning](https://medium.com/@raulidentia/the-sandy-regime-when-more-signal-becomes-less-meaning-93c38f0a7edd?source=rss------artificial_intelligence-5)**
+> 🔹 **[JetVoy: Crypto has no shortage of tokens.](https://jetvoy.medium.com/jetvoy-crypto-has-no-shortage-of-tokens-1e47b71fddd6?source=rss------artificial_intelligence-5)**
+> 🔹 **[It didn’t fail. It answered.](https://medium.com/@donkeybetzking/it-didnt-fail-it-answered-924010d216d6?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Turn Your Own Lyrics Into a Suno AI Song: A Complete Guide](https://medium.com/@earnboxmedia/how-to-turn-your-own-lyrics-into-a-suno-ai-song-a-complete-guide-fc5f22ec1748?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
