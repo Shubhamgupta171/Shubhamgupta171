@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Don’t Pay for 28,000 Tokens to Read 250 Words](https://kevinjztan.medium.com/dont-pay-for-28-000-tokens-to-read-250-words-eb017ee71d57?source=rss------artificial_intelligence-5)**
-> 🔹 **[Tier 7](https://medium.com/@savantframeworkadmin/tier-7-17aa11603608?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mechanical Consciousness](https://medium.com/@spextreme/mechanical-consciousness-92e32570a610?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Receptionists Cost $0.13 a Minute. The Service Sells for $300.](https://medium.com/@automation.labs/ai-receptionists-cost-0-13-a-minute-the-service-sells-for-300-6c4db73c8852?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Human Skills the WEF says will decide who survives in Post-Production by 2030](https://medium.com/@jdcruel/5-human-skills-the-wef-says-will-decide-who-survives-in-post-production-by-2030-15548a762cbc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Apple Silicon vs NVIDIA for Local AI: Unified Memory Wins One Test. Throughput Wins Another.](https://blog.stackademic.com/apple-silicon-vs-nvidia-for-local-ai-unified-memory-wins-one-test-throughput-wins-another-593c66d30eb3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your 128K Local Model Does Not Have 128K of Free Context. The KV Cache Took the Rest.](https://medium.com/@LocalAiSystems/your-128k-local-model-does-not-have-128k-of-free-context-the-kv-cache-took-the-rest-315dafe204e7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Banking Interface: What Happens When Customers Stop Opening Banking Apps?](https://medium.com/@zahoor_213/the-ai-banking-interface-what-happens-when-customers-stop-opening-banking-apps-1adb115c8879?source=rss------artificial_intelligence-5)**
+> 🔹 **[Taste Is the Moat](https://medium.com/design-bootcamp/taste-is-the-moat-937adc9b9420?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Threshold Nobody Notices](https://medium.com/@cls16/the-threshold-nobody-notices-390d69075b48?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Coding Dictionary in Detail: Input Tokens, Output Tokens, Prefix Cache &amp; Cache Tokens](https://medium.com/@niteshkrjhag/ai-coding-dictionary-in-detail-input-tokens-output-tokens-prefix-cache-cache-tokens-ab4d93799768?source=rss------artificial_intelligence-5)**
+> 🔹 **[Expand Your Hiring Network with a Smarter Vendor Marketplace](https://medium.com/@adhirajnovelvista/expand-your-hiring-network-with-a-smarter-vendor-marketplace-7a8a89c478a9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Default That Decides For You](https://medium.com/@cls16/the-default-that-decides-for-you-08c1ed59fadc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building a Future with AI Skills](https://medium.com/@beaubelle278/building-a-future-with-ai-skills-b67be3cf1629?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 70-Hour Workweek Isn’t Hustle. It’s a Math Error With a Body Count.](https://medium.com/@ethanwrites6/the-70-hour-workweek-isnt-hustle-it-s-a-math-error-with-a-body-count-1ebe67fafd64?source=rss------artificial_intelligence-5)**
+> 🔹 **[Saima Shakeel](https://medium.com/@saimashakeelaarib/saima-shakeel-75311780ef99?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
