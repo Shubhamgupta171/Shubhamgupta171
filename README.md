@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Taste Is the Moat](https://medium.com/design-bootcamp/taste-is-the-moat-937adc9b9420?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Threshold Nobody Notices](https://medium.com/@cls16/the-threshold-nobody-notices-390d69075b48?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Coding Dictionary in Detail: Input Tokens, Output Tokens, Prefix Cache &amp; Cache Tokens](https://medium.com/@niteshkrjhag/ai-coding-dictionary-in-detail-input-tokens-output-tokens-prefix-cache-cache-tokens-ab4d93799768?source=rss------artificial_intelligence-5)**
-> 🔹 **[Expand Your Hiring Network with a Smarter Vendor Marketplace](https://medium.com/@adhirajnovelvista/expand-your-hiring-network-with-a-smarter-vendor-marketplace-7a8a89c478a9?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Default That Decides For You](https://medium.com/@cls16/the-default-that-decides-for-you-08c1ed59fadc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building a Future with AI Skills](https://medium.com/@beaubelle278/building-a-future-with-ai-skills-b67be3cf1629?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 70-Hour Workweek Isn’t Hustle. It’s a Math Error With a Body Count.](https://medium.com/@ethanwrites6/the-70-hour-workweek-isnt-hustle-it-s-a-math-error-with-a-body-count-1ebe67fafd64?source=rss------artificial_intelligence-5)**
-> 🔹 **[Saima Shakeel](https://medium.com/@saimashakeelaarib/saima-shakeel-75311780ef99?source=rss------artificial_intelligence-5)**
+> 🔹 **[Getting Started with Tencent EdgeOne Makers: A Feature Review for Young Developers](https://medium.com/@adityasn09/getting-started-with-tencent-edgeone-makers-a-feature-review-for-young-developers-5b1ee148570d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Unconventional Uniqueness of Palantir’s CEO](https://medium.com/@abandoned_train_station/the-unconventional-uniqueness-of-palantirs-ceo-8734b3d6e42c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building Toward Agentic Financial Intelligence on AWS](https://medium.com/@hobballah.yasser/building-toward-agentic-financial-intelligence-on-aws-afcd7ed3d972?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Bulk Invoice Validation Helps Enterprises Process High Invoice Volumes Accurately](https://computyne.medium.com/how-bulk-invoice-validation-helps-enterprises-process-high-invoice-volumes-accurately-a93fd042d61d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google now lets you use Gemini in interviews. The round is a code review, not a cheat code.](https://medium.com/@zskzskabcd/google-now-lets-you-use-gemini-in-interviews-the-round-is-a-code-review-not-a-cheat-code-1fffb8c534bb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Synthetic Minds | From Tool to Actor: The Line AI Has Quietly Crossed](https://markvanrijmenam.medium.com/synthetic-minds-from-tool-to-actor-the-line-ai-has-quietly-crossed-d93f46c3e0cc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Understanding Latency and Throughput: The Twin Pillars of System Performance](https://rounakkraajsabat.medium.com/understanding-latency-and-throughput-the-twin-pillars-of-system-performance-11c9e3463bd6?source=rss------backend_development-5)**
+> 🔹 **[AI Employees Aren’t Employees. That’s Actually the Point.](https://medium.com/@taku_ai/ai-employees-arent-employees-that-s-actually-the-point-41b33c07c351?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
