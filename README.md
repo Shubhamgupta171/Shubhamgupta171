@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Everyone Has AI. Now What?](https://medium.com/data-nuggets/everyone-has-ai-now-what-366287d34144?source=rss------artificial_intelligence-5)**
-> 🔹 **[Don’t Ask an LLM to Detect Training Failures. Ask It to Explain the Evidence.](https://medium.com/@agarwal15pragya/dont-ask-an-llm-to-detect-training-failures-ask-it-to-explain-the-evidence-a7f0a11879a0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Step 4 of 7 Failed. What Does the Screen Say?](https://medium.com/data-science-collective/step-4-of-7-failed-what-does-the-screen-say-4f9497ef7ce0?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Sandy Regime: When More Signal Becomes Less Meaning](https://medium.com/@raulidentia/the-sandy-regime-when-more-signal-becomes-less-meaning-93c38f0a7edd?source=rss------system_design-5)**
-> 🔹 **[The Sandy Regime: When More Signal Becomes Less Meaning](https://medium.com/@raulidentia/the-sandy-regime-when-more-signal-becomes-less-meaning-93c38f0a7edd?source=rss------artificial_intelligence-5)**
-> 🔹 **[JetVoy: Crypto has no shortage of tokens.](https://jetvoy.medium.com/jetvoy-crypto-has-no-shortage-of-tokens-1e47b71fddd6?source=rss------artificial_intelligence-5)**
-> 🔹 **[It didn’t fail. It answered.](https://medium.com/@donkeybetzking/it-didnt-fail-it-answered-924010d216d6?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Turn Your Own Lyrics Into a Suno AI Song: A Complete Guide](https://medium.com/@earnboxmedia/how-to-turn-your-own-lyrics-into-a-suno-ai-song-a-complete-guide-fc5f22ec1748?source=rss------artificial_intelligence-5)**
+> 🔹 **[The good ol’ days of building Java](https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/)**
+> 🔹 **[The Shoebox That Holds the Internet: Why Biological Hard Drives Are the Future of Technology](https://medium.com/@jeetlahauk/the-shoebox-that-holds-the-internet-why-biological-hard-drives-are-the-future-of-technology-bf8fc3e9216f?source=rss------artificial_intelligence-5)**
+> 🔹 **[NVIDIA Just Made a $3.5 Billion Bet That Changes the AI Chip War](https://abdulwahabdev.medium.com/nvidia-just-made-a-3-5-billion-bet-that-changes-the-ai-chip-war-9844ba9f093d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Ultimate UI Spacing Cheat Sheet](https://pixicstudio.medium.com/ui-spacing-guide-8pt-grid-system-26cf12264438?source=rss------system_design-5)**
+> 🔹 **[Your AI Agent Can Remember Everything and Still Forget What Matters](https://manalisomani099.medium.com/your-ai-agent-can-remember-everything-and-still-forget-what-matters-16bf550459e9?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Doesn’t Make Hiring Mistakes. People Make Them Faster With AI](https://sanskaranjane.medium.com/ai-doesnt-make-hiring-mistakes-people-make-them-faster-with-ai-39595980b831?source=rss------artificial_intelligence-5)**
+> 🔹 **[Preparing Leaders for an AI-Powered World](https://medium.com/@zaydmajeed1/preparing-leaders-for-an-ai-powered-world-d05fc8b3fe18?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Quietly Makes Your Daily Routine Smarter](https://medium.com/@dasrolex508/how-ai-quietly-makes-your-daily-routine-smarter-d384d7bf284c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
