@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The AI Frontier: Smarter, Cheaper, and Going Open-Source](https://medium.com/pen-with-paper/the-ai-frontier-smarter-cheaper-and-going-open-source-6440ec59058e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Does ChatGPT Watermark Text? Here’s What’s Actually True](https://medium.com/@urao96333/does-chatgpt-watermark-text-heres-what-s-actually-true-dfe08934adb7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Pentagon Just Deployed Grok to 1.7 Million Military Personnel](https://medium.com/@kolabsnews/the-pentagon-just-deployed-grok-to-1-7-million-military-personnel-27df1c702632?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Last Mile Problem: Why AI Advantage Now Lives in Your Org Chart, Not Your Tech Stack](https://medium.com/@deeptecres2/the-last-mile-problem-why-ai-advantage-now-lives-in-your-org-chart-not-your-tech-stack-9bed7c418f5b?source=rss------artificial_intelligence-5)**
-> 🔹 **[When Machines Start to Think](https://medium.com/@kis.anik637/when-machines-start-to-think-967ec338af59?source=rss------artificial_intelligence-5)**
-> 🔹 **[Did You Know You Can See How Many Lifetime Tokens You’ve Spent on ChatGPT?](https://medium.com/towards-data-engineering/did-you-know-you-can-see-how-many-lifetime-tokens-youve-spent-on-chatgpt-3bd467ee055c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 2026 AI Gold Rush: 19 Practical Ways to Build a Full-Time Digital Income](https://medium.com/@qasem.ali.6084/the-2026-ai-gold-rush-19-practical-ways-to-build-a-full-time-digital-income-e7ceb337d2e1?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Got Tired of Reading Claude Code, So I Taught It to Talk](https://medium.com/@tihomir.manushev/i-got-tired-of-reading-claude-code-so-i-taught-it-to-talk-59f0cab45f03?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to scrape Cloudflare protected sites..](https://err0rgod.medium.com/how-to-scrape-cloudflare-protected-sites-b0be23bc7e6b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Evolution of Evika: A Journey of Self-Discovery and Purpose](https://medium.com/@dredgediver/the-evolution-of-evika-a-journey-of-self-discovery-and-purpose-2d3ca78e8690?source=rss------artificial_intelligence-5)**
+> 🔹 **[I’mA world without data centres in Australia - is it possible ?](https://medium.com/@dredgediver/ima-world-without-data-centres-in-australia-is-it-possible-35d6ebbcd57b?source=rss------artificial_intelligence-5)**
+> 🔹 **[How People Are Making Money With AI Every Day](https://medium.com/@msimoliunas/how-people-are-making-money-with-ai-every-day-804daa6169af?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Won’t Replace Judgment. It Will Expose Who Has It.](https://medium.com/@rajeshdevadasan/ai-wont-replace-judgment-it-will-expose-who-has-it-72ad0a908d47?source=rss------artificial_intelligence-5)**
+> 🔹 **[Reinforce Algorithm: A Comprehensive Guide](https://medium.com/@arko_sengupta/reinforce-algorithm-a-comprehensive-guide-88c0e1d9011d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Beginning of the Road](https://medium.com/@emmanuelnj26/the-beginning-of-the-road-ea8971e7a393?source=rss------artificial_intelligence-5)**
+> 🔹 **[If I Had Five Days to Make Money With AI, I Wouldn’t Build an AI App](https://medium.com/@ayushramawat29/if-i-had-five-days-to-make-money-with-ai-i-wouldnt-build-an-ai-app-cc59dae7e6ad?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
