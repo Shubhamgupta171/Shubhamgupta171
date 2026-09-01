@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[خطة محتوى شهرية بالذكاء الاصطناعي: دليل عملي للمسوقين](https://promptguide.medium.com/%D8%AE%D8%B7%D8%A9-%D9%85%D8%AD%D8%AA%D9%88%D9%89-%D8%B4%D9%87%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%AF%D9%84%D9%8A%D9%84-%D8%B9%D9%85%D9%84%D9%8A-%D9%84%D9%84%D9%85%D8%B3%D9%88%D9%82%D9%8A%D9%86-378cc6f0094c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ox Alpha: The Free 1M-Token AI Model That Turned Out to Be GLM-5.3-Flash](https://pub.towardsai.net/ox-alpha-the-free-1m-token-ai-model-that-turned-out-to-be-glm-5-3-flash-919a2008f35d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Forget ChatGPT &amp; Gemini — Here Are New AI Tools That Will Blow Your Mind](https://medium.com/@nitinfab/forget-chatgpt-gemini-here-are-new-ai-tools-that-will-blow-your-mind-5f1f07d26927?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is SAP ABAP Still Worth Learning in 2026? Here’s What the Data Actually Says](https://medium.com/@personalaccout33/is-sap-abap-still-worth-learning-in-2026-heres-what-the-data-actually-says-a82f6912918c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Moment You Realize an Article Was Written by AI](https://medium.com/@floribercus/the-moment-you-realize-an-article-was-written-by-ai-f09cfe61fa9c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Anti-AI is the new cool](https://medium.com/@mohitchoraria/anti-ai-is-the-new-cool-8ba1b0390ad6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google traffic to my AI news site fell to zero overnight. The readers didn’t leave.](https://medium.com/@specicus/google-traffic-to-my-ai-news-site-fell-to-zero-overnight-the-readers-didnt-leave-a3acfd61b965?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Boutique IT &amp; AI Companies in Prague to Watch in 2026](https://medium.com/@emrealemdar41/5-boutique-it-ai-companies-in-prague-to-watch-in-2026-57d905002b09?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Frontier: Smarter, Cheaper, and Going Open-Source](https://medium.com/pen-with-paper/the-ai-frontier-smarter-cheaper-and-going-open-source-6440ec59058e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Does ChatGPT Watermark Text? Here’s What’s Actually True](https://medium.com/@urao96333/does-chatgpt-watermark-text-heres-what-s-actually-true-dfe08934adb7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Pentagon Just Deployed Grok to 1.7 Million Military Personnel](https://medium.com/@kolabsnews/the-pentagon-just-deployed-grok-to-1-7-million-military-personnel-27df1c702632?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Last Mile Problem: Why AI Advantage Now Lives in Your Org Chart, Not Your Tech Stack](https://medium.com/@deeptecres2/the-last-mile-problem-why-ai-advantage-now-lives-in-your-org-chart-not-your-tech-stack-9bed7c418f5b?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Machines Start to Think](https://medium.com/@kis.anik637/when-machines-start-to-think-967ec338af59?source=rss------artificial_intelligence-5)**
+> 🔹 **[Did You Know You Can See How Many Lifetime Tokens You’ve Spent on ChatGPT?](https://medium.com/towards-data-engineering/did-you-know-you-can-see-how-many-lifetime-tokens-youve-spent-on-chatgpt-3bd467ee055c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 2026 AI Gold Rush: 19 Practical Ways to Build a Full-Time Digital Income](https://medium.com/@qasem.ali.6084/the-2026-ai-gold-rush-19-practical-ways-to-build-a-full-time-digital-income-e7ceb337d2e1?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Got Tired of Reading Claude Code, So I Taught It to Talk](https://medium.com/@tihomir.manushev/i-got-tired-of-reading-claude-code-so-i-taught-it-to-talk-59f0cab45f03?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
