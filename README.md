@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The good ol’ days of building Java](https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/)**
-> 🔹 **[The Shoebox That Holds the Internet: Why Biological Hard Drives Are the Future of Technology](https://medium.com/@jeetlahauk/the-shoebox-that-holds-the-internet-why-biological-hard-drives-are-the-future-of-technology-bf8fc3e9216f?source=rss------artificial_intelligence-5)**
-> 🔹 **[NVIDIA Just Made a $3.5 Billion Bet That Changes the AI Chip War](https://abdulwahabdev.medium.com/nvidia-just-made-a-3-5-billion-bet-that-changes-the-ai-chip-war-9844ba9f093d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Ultimate UI Spacing Cheat Sheet](https://pixicstudio.medium.com/ui-spacing-guide-8pt-grid-system-26cf12264438?source=rss------system_design-5)**
-> 🔹 **[Your AI Agent Can Remember Everything and Still Forget What Matters](https://manalisomani099.medium.com/your-ai-agent-can-remember-everything-and-still-forget-what-matters-16bf550459e9?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Doesn’t Make Hiring Mistakes. People Make Them Faster With AI](https://sanskaranjane.medium.com/ai-doesnt-make-hiring-mistakes-people-make-them-faster-with-ai-39595980b831?source=rss------artificial_intelligence-5)**
-> 🔹 **[Preparing Leaders for an AI-Powered World](https://medium.com/@zaydmajeed1/preparing-leaders-for-an-ai-powered-world-d05fc8b3fe18?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Quietly Makes Your Daily Routine Smarter](https://medium.com/@dasrolex508/how-ai-quietly-makes-your-daily-routine-smarter-d384d7bf284c?source=rss------artificial_intelligence-5)**
+> 🔹 **[خطة محتوى شهرية بالذكاء الاصطناعي: دليل عملي للمسوقين](https://promptguide.medium.com/%D8%AE%D8%B7%D8%A9-%D9%85%D8%AD%D8%AA%D9%88%D9%89-%D8%B4%D9%87%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%AF%D9%84%D9%8A%D9%84-%D8%B9%D9%85%D9%84%D9%8A-%D9%84%D9%84%D9%85%D8%B3%D9%88%D9%82%D9%8A%D9%86-378cc6f0094c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Ox Alpha: The Free 1M-Token AI Model That Turned Out to Be GLM-5.3-Flash](https://pub.towardsai.net/ox-alpha-the-free-1m-token-ai-model-that-turned-out-to-be-glm-5-3-flash-919a2008f35d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Forget ChatGPT &amp; Gemini — Here Are New AI Tools That Will Blow Your Mind](https://medium.com/@nitinfab/forget-chatgpt-gemini-here-are-new-ai-tools-that-will-blow-your-mind-5f1f07d26927?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is SAP ABAP Still Worth Learning in 2026? Here’s What the Data Actually Says](https://medium.com/@personalaccout33/is-sap-abap-still-worth-learning-in-2026-heres-what-the-data-actually-says-a82f6912918c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Moment You Realize an Article Was Written by AI](https://medium.com/@floribercus/the-moment-you-realize-an-article-was-written-by-ai-f09cfe61fa9c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Anti-AI is the new cool](https://medium.com/@mohitchoraria/anti-ai-is-the-new-cool-8ba1b0390ad6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google traffic to my AI news site fell to zero overnight. The readers didn’t leave.](https://medium.com/@specicus/google-traffic-to-my-ai-news-site-fell-to-zero-overnight-the-readers-didnt-leave-a3acfd61b965?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Boutique IT &amp; AI Companies in Prague to Watch in 2026](https://medium.com/@emrealemdar41/5-boutique-it-ai-companies-in-prague-to-watch-in-2026-57d905002b09?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
