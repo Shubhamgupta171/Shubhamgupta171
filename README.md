@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to scrape Cloudflare protected sites..](https://err0rgod.medium.com/how-to-scrape-cloudflare-protected-sites-b0be23bc7e6b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Evolution of Evika: A Journey of Self-Discovery and Purpose](https://medium.com/@dredgediver/the-evolution-of-evika-a-journey-of-self-discovery-and-purpose-2d3ca78e8690?source=rss------artificial_intelligence-5)**
-> 🔹 **[I’mA world without data centres in Australia - is it possible ?](https://medium.com/@dredgediver/ima-world-without-data-centres-in-australia-is-it-possible-35d6ebbcd57b?source=rss------artificial_intelligence-5)**
-> 🔹 **[How People Are Making Money With AI Every Day](https://medium.com/@msimoliunas/how-people-are-making-money-with-ai-every-day-804daa6169af?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Won’t Replace Judgment. It Will Expose Who Has It.](https://medium.com/@rajeshdevadasan/ai-wont-replace-judgment-it-will-expose-who-has-it-72ad0a908d47?source=rss------artificial_intelligence-5)**
-> 🔹 **[Reinforce Algorithm: A Comprehensive Guide](https://medium.com/@arko_sengupta/reinforce-algorithm-a-comprehensive-guide-88c0e1d9011d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Beginning of the Road](https://medium.com/@emmanuelnj26/the-beginning-of-the-road-ea8971e7a393?source=rss------artificial_intelligence-5)**
-> 🔹 **[If I Had Five Days to Make Money With AI, I Wouldn’t Build an AI App](https://medium.com/@ayushramawat29/if-i-had-five-days-to-make-money-with-ai-i-wouldnt-build-an-ai-app-cc59dae7e6ad?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Great Memory Race: Understanding Flash Attention](https://medium.com/@rahulprasanth487/the-great-memory-race-understanding-flash-attention-c92fdf4f9b70?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Use Figma Make/Agents Effectively as a UX Designer](https://medium.com/@designerlifestyle/how-to-use-figma-make-agents-effectively-as-a-ux-designer-86660e9e0f55?source=rss------artificial_intelligence-5)**
+> 🔹 **[Figma Config 2026: What Actually Matters &lpar;Not Everything They Announced&rpar;](https://mohitphogat.medium.com/figma-config-2026-what-actually-matters-not-everything-they-announced-36c7ef6c094f?source=rss------system_design-5)**
+> 🔹 **[Players Infoguide Dmgconselistas: How Data-Driven Gaming Strategies Are Changing Player Perform...](https://medium.com/@chrisellesterling/players-infoguide-dmgconselistas-how-data-driven-gaming-strategies-are-changing-player-performance-dda3aceb8f54?source=rss------artificial_intelligence-5)**
+> 🔹 **[Medium Day 2026](https://medium.com/@y180/medium-day-2026-80075c7cf301?source=rss------artificial_intelligence-5)**
+> 🔹 **[Before I Sell You a Teapot, Would You Like to Analyse My Personality?](https://medium.com/@katehalloran/before-i-sell-you-a-teapot-would-you-like-to-analyse-my-personality-23144d42958f?source=rss------artificial_intelligence-5)**
+> 🔹 **[An AI Safety Lab Got Robbed of $600,000. All the Thief Had to Do Was Ask.](https://amitspitzer.medium.com/an-ai-safety-lab-got-robbed-of-600-000-all-the-thief-had-to-do-was-ask-b74151c0c283?source=rss------artificial_intelligence-5)**
+> 🔹 **[No todos los design systems nacen igual](https://medium.com/@sofia-design-systems/no-todos-los-design-systems-nacen-igual-aff4b0d76e45?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
