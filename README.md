@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Great Memory Race: Understanding Flash Attention](https://medium.com/@rahulprasanth487/the-great-memory-race-understanding-flash-attention-c92fdf4f9b70?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Use Figma Make/Agents Effectively as a UX Designer](https://medium.com/@designerlifestyle/how-to-use-figma-make-agents-effectively-as-a-ux-designer-86660e9e0f55?source=rss------artificial_intelligence-5)**
-> 🔹 **[Figma Config 2026: What Actually Matters &lpar;Not Everything They Announced&rpar;](https://mohitphogat.medium.com/figma-config-2026-what-actually-matters-not-everything-they-announced-36c7ef6c094f?source=rss------system_design-5)**
-> 🔹 **[Players Infoguide Dmgconselistas: How Data-Driven Gaming Strategies Are Changing Player Perform...](https://medium.com/@chrisellesterling/players-infoguide-dmgconselistas-how-data-driven-gaming-strategies-are-changing-player-performance-dda3aceb8f54?source=rss------artificial_intelligence-5)**
-> 🔹 **[Medium Day 2026](https://medium.com/@y180/medium-day-2026-80075c7cf301?source=rss------artificial_intelligence-5)**
-> 🔹 **[Before I Sell You a Teapot, Would You Like to Analyse My Personality?](https://medium.com/@katehalloran/before-i-sell-you-a-teapot-would-you-like-to-analyse-my-personality-23144d42958f?source=rss------artificial_intelligence-5)**
-> 🔹 **[An AI Safety Lab Got Robbed of $600,000. All the Thief Had to Do Was Ask.](https://amitspitzer.medium.com/an-ai-safety-lab-got-robbed-of-600-000-all-the-thief-had-to-do-was-ask-b74151c0c283?source=rss------artificial_intelligence-5)**
-> 🔹 **[No todos los design systems nacen igual](https://medium.com/@sofia-design-systems/no-todos-los-design-systems-nacen-igual-aff4b0d76e45?source=rss------system_design-5)**
+> 🔹 **[10 Leading AI Agents Development Partners for Enterprise Automation in 2026](https://medium.com/@emcarter9/10-leading-ai-agents-development-partners-for-enterprise-automation-in-2026-006d80f3e9ce?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Decide Where Your AI Feature Needs Friction](https://medium.com/design-bootcamp/how-to-decide-where-your-ai-feature-needs-friction-f9fd3fe1340d?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Are Not One Person, You’re a Team of Rivals](https://medium.com/@danielakunekwu111/you-are-not-one-person-youre-a-team-of-rivals-f70be7f073a6?source=rss------artificial_intelligence-5)**
+> 🔹 **[9 Questions I Ask Before Accepting Any AI-Generated Pull Request](https://medium.com/skillstuff/9-questions-i-ask-before-accepting-any-ai-generated-pull-request-6faa3af4d9a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Should You Switch From Cursor to Windsurf?](https://adiinsightsinnovations.medium.com/should-you-switch-from-cursor-to-windsurf-f81c9ca6ccf8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The People Making Money With AI Aren’t the Ones You Think](https://medium.com/no-time/the-people-making-money-with-ai-arent-the-ones-you-think-bd4bf5e363f7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Convergenation: How AI Is Rewriting the Way We Build Software](https://medium.com/@bharat.chandera/convergenation-how-ai-is-rewriting-the-way-we-build-software-89ef416d2535?source=rss------system_design-5)**
+> 🔹 **[Convergenation: How AI Is Rewriting the Way We Build Software](https://medium.com/@bharat.chandera/convergenation-how-ai-is-rewriting-the-way-we-build-software-89ef416d2535?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
