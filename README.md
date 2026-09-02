@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to really know if i am getting replaced by AI](https://medium.com/@luisologi/how-to-really-know-if-i-am-getting-replaced-by-ai-57c60cb8d3ed?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cuando el software se vuelve desechable: la defensa humana del diseño que perdura.](https://monfa.medium.com/cuando-el-software-se-vuelve-desechable-la-defensa-humana-del-dise%C3%B1o-que-perdura-4cf81cfaf2ff?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Lightweight Signature Matching Model Without Training a Signature Classifier](https://medium.com/@ashwinthandu03/a-lightweight-signature-matching-model-without-training-a-signature-classifier-3111e060cecf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Snowflake Semantic Views: What They Are, and What Sits Beyond](https://medium.com/@mayankmudgal/snowflake-semantic-views-what-they-are-and-what-sits-beyond-2ca92946a1b2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Runtime Guardrails Fire After the Data Has Already Been Read](https://medium.com/@Harshit_Chouhan/runtime-guardrails-fire-after-the-data-has-already-been-read-a5080efb585c?source=rss------artificial_intelligence-5)**
-> 🔹 **[When Agents Talk: Can Multi-Agent Architectures Lead to Chaos?](https://medium.com/@paushi213/when-agents-talk-can-multi-agent-architectures-lead-to-chaos-4e8bf80e3c72?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Stopped Using ChatGPT Like a Search Box – Here’s How I Use It Like a Pro](https://medium.com/@lishayyyy/i-stopped-using-chatgpt-like-a-search-box-heres-how-i-use-it-like-a-pro-b4b63d78d852?source=rss------artificial_intelligence-5)**
-> 🔹 **[Tokens Explained for Developers: Why LLMs Don’t Read Text the Way You Do](https://medium.com/ai-engineering-compass/tokens-explained-for-developers-why-llms-dont-read-text-the-way-you-do-0077c106388e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Company That Replaced Taxi Drivers With Gig Workers Is Now Replacing Gig Workers With Robot...](https://medium.com/@CoreFocus/the-company-that-replaced-taxi-drivers-with-gig-workers-is-now-replacing-gig-workers-with-robots-ee69b681f0b7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Self Improving Model Got An Upgrade And It Competes For The Top Spot In Local AI.](https://pub.towardsai.net/the-self-improving-model-got-an-upgrade-and-it-competes-for-the-top-spot-in-local-ai-d80ab61151b4?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI Rated Its Next Model a Critical Cyber Risk Under Its Own Safety Framework — and Is Relea...](https://medium.com/@kolabsnews/openai-rated-its-next-model-a-critical-cyber-risk-under-its-own-safety-framework-and-is-releasing-3489aa910f12?source=rss------artificial_intelligence-5)**
+> 🔹 **[Ruby on Rails Creator Says Non-Coders Can Sometimes Outperform Coders With AI](https://itnext.io/ruby-on-rails-creator-says-non-coders-can-sometimes-outperform-coders-with-ai-ab7e7c7aeef4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mobile Gaming 2026: Mengapa Smartphone Menjadi Pusat Pengalaman Game Modern?](https://medium.com/@negeri4d/mobile-gaming-2026-mengapa-smartphone-menjadi-pusat-pengalaman-game-modern-3741a3044f6e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Over-Engineering Tax: How a “Lazy Senior Dev” Mode Can Cut Your AI Token Bill by up to 9...](https://medium.com/@wl8380/the-ai-over-engineering-tax-how-a-lazy-senior-dev-mode-can-cut-your-ai-token-bill-by-up-to-90-1cd285d0a040?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Best Intel Mini PC for AI Agents in 2026 &lpar;After My “No More Subscriptions” Box Became One…](https://medium.com/@marryy1515m/the-best-intel-mini-pc-for-ai-agents-in-2026-after-my-no-more-subscriptions-box-became-one-88d3c9ac56df?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Do You QA an AI QA Agent?](https://medium.com/@daniel.dahlin/how-do-you-qa-an-ai-qa-agent-d817b3ff12bc?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
