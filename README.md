@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[10 Leading AI Agents Development Partners for Enterprise Automation in 2026](https://medium.com/@emcarter9/10-leading-ai-agents-development-partners-for-enterprise-automation-in-2026-006d80f3e9ce?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Decide Where Your AI Feature Needs Friction](https://medium.com/design-bootcamp/how-to-decide-where-your-ai-feature-needs-friction-f9fd3fe1340d?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Are Not One Person, You’re a Team of Rivals](https://medium.com/@danielakunekwu111/you-are-not-one-person-youre-a-team-of-rivals-f70be7f073a6?source=rss------artificial_intelligence-5)**
-> 🔹 **[9 Questions I Ask Before Accepting Any AI-Generated Pull Request](https://medium.com/skillstuff/9-questions-i-ask-before-accepting-any-ai-generated-pull-request-6faa3af4d9a0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Should You Switch From Cursor to Windsurf?](https://adiinsightsinnovations.medium.com/should-you-switch-from-cursor-to-windsurf-f81c9ca6ccf8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The People Making Money With AI Aren’t the Ones You Think](https://medium.com/no-time/the-people-making-money-with-ai-arent-the-ones-you-think-bd4bf5e363f7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Convergenation: How AI Is Rewriting the Way We Build Software](https://medium.com/@bharat.chandera/convergenation-how-ai-is-rewriting-the-way-we-build-software-89ef416d2535?source=rss------system_design-5)**
-> 🔹 **[Convergenation: How AI Is Rewriting the Way We Build Software](https://medium.com/@bharat.chandera/convergenation-how-ai-is-rewriting-the-way-we-build-software-89ef416d2535?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to really know if i am getting replaced by AI](https://medium.com/@luisologi/how-to-really-know-if-i-am-getting-replaced-by-ai-57c60cb8d3ed?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cuando el software se vuelve desechable: la defensa humana del diseño que perdura.](https://monfa.medium.com/cuando-el-software-se-vuelve-desechable-la-defensa-humana-del-dise%C3%B1o-que-perdura-4cf81cfaf2ff?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Lightweight Signature Matching Model Without Training a Signature Classifier](https://medium.com/@ashwinthandu03/a-lightweight-signature-matching-model-without-training-a-signature-classifier-3111e060cecf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Snowflake Semantic Views: What They Are, and What Sits Beyond](https://medium.com/@mayankmudgal/snowflake-semantic-views-what-they-are-and-what-sits-beyond-2ca92946a1b2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Runtime Guardrails Fire After the Data Has Already Been Read](https://medium.com/@Harshit_Chouhan/runtime-guardrails-fire-after-the-data-has-already-been-read-a5080efb585c?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Agents Talk: Can Multi-Agent Architectures Lead to Chaos?](https://medium.com/@paushi213/when-agents-talk-can-multi-agent-architectures-lead-to-chaos-4e8bf80e3c72?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Stopped Using ChatGPT Like a Search Box – Here’s How I Use It Like a Pro](https://medium.com/@lishayyyy/i-stopped-using-chatgpt-like-a-search-box-heres-how-i-use-it-like-a-pro-b4b63d78d852?source=rss------artificial_intelligence-5)**
+> 🔹 **[Tokens Explained for Developers: Why LLMs Don’t Read Text the Way You Do](https://medium.com/ai-engineering-compass/tokens-explained-for-developers-why-llms-dont-read-text-the-way-you-do-0077c106388e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
