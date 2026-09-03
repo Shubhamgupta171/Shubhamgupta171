@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Company That Replaced Taxi Drivers With Gig Workers Is Now Replacing Gig Workers With Robot...](https://medium.com/@CoreFocus/the-company-that-replaced-taxi-drivers-with-gig-workers-is-now-replacing-gig-workers-with-robots-ee69b681f0b7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Self Improving Model Got An Upgrade And It Competes For The Top Spot In Local AI.](https://pub.towardsai.net/the-self-improving-model-got-an-upgrade-and-it-competes-for-the-top-spot-in-local-ai-d80ab61151b4?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenAI Rated Its Next Model a Critical Cyber Risk Under Its Own Safety Framework — and Is Relea...](https://medium.com/@kolabsnews/openai-rated-its-next-model-a-critical-cyber-risk-under-its-own-safety-framework-and-is-releasing-3489aa910f12?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ruby on Rails Creator Says Non-Coders Can Sometimes Outperform Coders With AI](https://itnext.io/ruby-on-rails-creator-says-non-coders-can-sometimes-outperform-coders-with-ai-ab7e7c7aeef4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mobile Gaming 2026: Mengapa Smartphone Menjadi Pusat Pengalaman Game Modern?](https://medium.com/@negeri4d/mobile-gaming-2026-mengapa-smartphone-menjadi-pusat-pengalaman-game-modern-3741a3044f6e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Over-Engineering Tax: How a “Lazy Senior Dev” Mode Can Cut Your AI Token Bill by up to 9...](https://medium.com/@wl8380/the-ai-over-engineering-tax-how-a-lazy-senior-dev-mode-can-cut-your-ai-token-bill-by-up-to-90-1cd285d0a040?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Best Intel Mini PC for AI Agents in 2026 &lpar;After My “No More Subscriptions” Box Became One…](https://medium.com/@marryy1515m/the-best-intel-mini-pc-for-ai-agents-in-2026-after-my-no-more-subscriptions-box-became-one-88d3c9ac56df?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Do You QA an AI QA Agent?](https://medium.com/@daniel.dahlin/how-do-you-qa-an-ai-qa-agent-d817b3ff12bc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The economics of agent scale: tokens, ROI, and building platforms for AI-first teams &lpar;Part 2&rpar;](https://stackoverflow.blog/2026/09/03/the-economics-of-agent-scale/)**
+> 🔹 **[Anomaly Detection with Isolation Forest — Part 1: A Practical Guide to EDA, Ordinal Encoding an...](https://medium.com/ai-qa-nexus/anomaly-detection-with-isolation-forest-part-1-a-practical-guide-to-eda-ordinal-encoding-and-cf377154c9be?source=rss------artificial_intelligence-5)**
+> 🔹 **[In Cybersecurity, AI Isn’t Enough: Why PAGO Networks Puts People First](https://medium.com/@gptwmaster/in-cybersecurity-ai-isnt-enough-why-pago-networks-puts-people-first-cb6e01c41c3f?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Immediately Know a Writer Used ChatGPT When I See These 8 Things](https://medium.com/illumination/i-immediately-know-a-writer-used-chatgpt-when-i-see-these-8-things-b3739bbad305?source=rss------artificial_intelligence-5)**
+> 🔹 **[A ChatGPT Project Is More Than a Folder Full of Chats](https://medium.com/chatgpt-beyond/a-chatgpt-project-is-more-than-a-folder-full-of-chats-e2bf6b2c2c5a?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Coding Agents Are Changing Software Engineering](https://medium.com/@krtarunsingh/ai-coding-agents-are-changing-software-engineering-544c7a0a2073?source=rss------artificial_intelligence-5)**
+> 🔹 **[Papers Explained 609: TinyGSM](https://ritvik19.medium.com/papers-explained-609-tinygsm-da8672bca027?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Your AI Strategy Is Just a Vendor Roadmap](https://medium.com/@gil_69997/when-your-ai-strategy-is-just-a-vendor-roadmap-1905984d4c22?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
