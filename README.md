@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The economics of agent scale: tokens, ROI, and building platforms for AI-first teams &lpar;Part 2&rpar;](https://stackoverflow.blog/2026/09/03/the-economics-of-agent-scale/)**
-> 🔹 **[Anomaly Detection with Isolation Forest — Part 1: A Practical Guide to EDA, Ordinal Encoding an...](https://medium.com/ai-qa-nexus/anomaly-detection-with-isolation-forest-part-1-a-practical-guide-to-eda-ordinal-encoding-and-cf377154c9be?source=rss------artificial_intelligence-5)**
-> 🔹 **[In Cybersecurity, AI Isn’t Enough: Why PAGO Networks Puts People First](https://medium.com/@gptwmaster/in-cybersecurity-ai-isnt-enough-why-pago-networks-puts-people-first-cb6e01c41c3f?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Immediately Know a Writer Used ChatGPT When I See These 8 Things](https://medium.com/illumination/i-immediately-know-a-writer-used-chatgpt-when-i-see-these-8-things-b3739bbad305?source=rss------artificial_intelligence-5)**
-> 🔹 **[A ChatGPT Project Is More Than a Folder Full of Chats](https://medium.com/chatgpt-beyond/a-chatgpt-project-is-more-than-a-folder-full-of-chats-e2bf6b2c2c5a?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Coding Agents Are Changing Software Engineering](https://medium.com/@krtarunsingh/ai-coding-agents-are-changing-software-engineering-544c7a0a2073?source=rss------artificial_intelligence-5)**
-> 🔹 **[Papers Explained 609: TinyGSM](https://ritvik19.medium.com/papers-explained-609-tinygsm-da8672bca027?source=rss------artificial_intelligence-5)**
-> 🔹 **[When Your AI Strategy Is Just a Vendor Roadmap](https://medium.com/@gil_69997/when-your-ai-strategy-is-just-a-vendor-roadmap-1905984d4c22?source=rss------artificial_intelligence-5)**
+> 🔹 **[New York Just Banned AI Until 9th Grade. That’s Not Caution — It’s a Bet.](https://medium.com/@TideVeil/new-york-just-banned-ai-until-9th-grade-thats-not-caution-it-s-a-bet-e4380ee0776c?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenTelemetry Now Traces MCP Tool Calls: What It Means for AI Agent Observability](https://medium.com/@rahul.fiem/opentelemetry-now-traces-mcp-tool-calls-what-it-means-for-ai-agent-observability-cdee3debd642?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPT-5.6 Sol Just Got 14 Times Faster. The Catch Is Who Can Use It](https://medium.com/@bernardloki/gpt-5-6-sol-just-got-14-times-faster-the-catch-is-who-can-use-it-ca5d08162199?source=rss------artificial_intelligence-5)**
+> 🔹 **[Design Patterns in Java: Why Do We Need Them?](https://mrmadhukar.medium.com/design-patterns-in-java-why-do-we-need-them-8c2f6e20648d?source=rss------backend_development-5)**
+> 🔹 **[Before Datapane.ai vs. After Datapane.ai: A Day in the Life of a Business Analyst](https://medium.com/@datapaneai/before-datapane-ai-vs-after-datapane-ai-a-day-in-the-life-of-a-business-analyst-0381535830f1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why I don’t Let AI Decide How You Feel](https://medium.com/@luniwell7/why-i-dont-let-ai-decide-how-you-feel-ba7bf4caa842?source=rss------artificial_intelligence-5)**
+> 🔹 **[Omniroot: The “Infinite Fuel” Hack for AI Agents](https://medium.com/@skaushal.gen/omniroot-the-infinite-fuel-hack-for-ai-agents-d30e686eeff2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Best Study Partner Isn’t Always in a Classroom](https://medium.com/@shyamrathore013/the-best-study-partner-isnt-always-in-a-classroom-d9cc8c0d264d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
