@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[New York Just Banned AI Until 9th Grade. That’s Not Caution — It’s a Bet.](https://medium.com/@TideVeil/new-york-just-banned-ai-until-9th-grade-thats-not-caution-it-s-a-bet-e4380ee0776c?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenTelemetry Now Traces MCP Tool Calls: What It Means for AI Agent Observability](https://medium.com/@rahul.fiem/opentelemetry-now-traces-mcp-tool-calls-what-it-means-for-ai-agent-observability-cdee3debd642?source=rss------artificial_intelligence-5)**
-> 🔹 **[GPT-5.6 Sol Just Got 14 Times Faster. The Catch Is Who Can Use It](https://medium.com/@bernardloki/gpt-5-6-sol-just-got-14-times-faster-the-catch-is-who-can-use-it-ca5d08162199?source=rss------artificial_intelligence-5)**
-> 🔹 **[Design Patterns in Java: Why Do We Need Them?](https://mrmadhukar.medium.com/design-patterns-in-java-why-do-we-need-them-8c2f6e20648d?source=rss------backend_development-5)**
-> 🔹 **[Before Datapane.ai vs. After Datapane.ai: A Day in the Life of a Business Analyst](https://medium.com/@datapaneai/before-datapane-ai-vs-after-datapane-ai-a-day-in-the-life-of-a-business-analyst-0381535830f1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why I don’t Let AI Decide How You Feel](https://medium.com/@luniwell7/why-i-dont-let-ai-decide-how-you-feel-ba7bf4caa842?source=rss------artificial_intelligence-5)**
-> 🔹 **[Omniroot: The “Infinite Fuel” Hack for AI Agents](https://medium.com/@skaushal.gen/omniroot-the-infinite-fuel-hack-for-ai-agents-d30e686eeff2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Best Study Partner Isn’t Always in a Classroom](https://medium.com/@shyamrathore013/the-best-study-partner-isnt-always-in-a-classroom-d9cc8c0d264d?source=rss------artificial_intelligence-5)**
+> 🔹 **[our Brain Doesn’t Want You to Be Happy. It Wants You to Survive.”](https://medium.com/@ariel101630/our-brain-doesnt-want-you-to-be-happy-it-wants-you-to-survive-ca8d3b0ef89b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I’d hire the consultant before the engineer](https://medium.com/@vlad.koval/id-hire-the-consultant-before-the-engineer-0a66c8f009fa?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Makes a Complete Electric Guitar Starter Gift for a Teenager?](https://medium.com/@CassidyJune/what-makes-a-complete-electric-guitar-starter-gift-for-a-teenager-6b8d8171251c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Question That Became a Working AI Ecosystem](https://medium.com/@smartsentinels/the-question-that-became-a-working-ai-ecosystem-5dfe9de1258c?source=rss------artificial_intelligence-5)**
+> 🔹 **[25 Spring Boot 4 Annotations You’re Probably Not Using Yet](https://medium.com/@devadiga.navya/25-spring-boot-4-annotations-youre-probably-not-using-yet-b8b431526f2e?source=rss------backend_development-5)**
+> 🔹 **[MoE Routing Failures: What Happens When Top-K Load Balancing Breaks Down](https://pub.towardsai.net/moe-routing-failures-what-happens-when-top-k-load-balancing-breaks-down-9d8490207015?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your First AI Workflow Should Start With One Real Task](https://medium.com/@coreassetsoperations/your-first-ai-workflow-should-start-with-one-real-task-1e053fd22cc6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why You Always Feel Like You’re Catching Up at Work](https://medium.com/@jilovecjoseph/why-you-always-feel-like-youre-catching-up-at-work-621d3c45e9f2?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
