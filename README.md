@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[our Brain Doesn’t Want You to Be Happy. It Wants You to Survive.”](https://medium.com/@ariel101630/our-brain-doesnt-want-you-to-be-happy-it-wants-you-to-survive-ca8d3b0ef89b?source=rss------artificial_intelligence-5)**
-> 🔹 **[I’d hire the consultant before the engineer](https://medium.com/@vlad.koval/id-hire-the-consultant-before-the-engineer-0a66c8f009fa?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Makes a Complete Electric Guitar Starter Gift for a Teenager?](https://medium.com/@CassidyJune/what-makes-a-complete-electric-guitar-starter-gift-for-a-teenager-6b8d8171251c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Question That Became a Working AI Ecosystem](https://medium.com/@smartsentinels/the-question-that-became-a-working-ai-ecosystem-5dfe9de1258c?source=rss------artificial_intelligence-5)**
-> 🔹 **[25 Spring Boot 4 Annotations You’re Probably Not Using Yet](https://medium.com/@devadiga.navya/25-spring-boot-4-annotations-youre-probably-not-using-yet-b8b431526f2e?source=rss------backend_development-5)**
-> 🔹 **[MoE Routing Failures: What Happens When Top-K Load Balancing Breaks Down](https://pub.towardsai.net/moe-routing-failures-what-happens-when-top-k-load-balancing-breaks-down-9d8490207015?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your First AI Workflow Should Start With One Real Task](https://medium.com/@coreassetsoperations/your-first-ai-workflow-should-start-with-one-real-task-1e053fd22cc6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why You Always Feel Like You’re Catching Up at Work](https://medium.com/@jilovecjoseph/why-you-always-feel-like-youre-catching-up-at-work-621d3c45e9f2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defen...](https://blog.cloudflare.com/vulnerability-discovery-remediation/)**
+> 🔹 **[GPT-6 Astra vs Fable 5.1: What PMs Actually Get](https://medium.com/product-powerhouse/gpt-6-astra-vs-fable-5-1-what-pms-actually-get-1706b8d893ed?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Dante teaches us about the use of Artificial Intelligence](https://medium.com/@rafaelvalerofernandez/what-dante-teaches-us-about-the-use-of-artificial-intelligence-a0bb337f9492?source=rss------artificial_intelligence-5)**
+> 🔹 **[Synopsys:“Silicon-To-Systems”](https://medium.com/@gxabhashe430/synopsys-silicon-to-systems-abb2e6387760?source=rss------artificial_intelligence-5)**
+> 🔹 **[What is Node.js? JavaScript on the Server Explained](https://towardsdev.com/what-is-node-js-javascript-on-the-server-explained-af96c634cb4e?source=rss------backend_development-5)**
+> 🔹 **[La Demanda Histórica de Marlon Andrés Pasquel Espín contra la Inseguridad Jurídica
+Jannet H.](https://medium.com/@observatorio.electoral.oficial/la-demanda-hist%C3%B3rica-de-marlon-andr%C3%A9s-pasquel-esp%C3%ADn-contra-la-inseguridad-jur%C3%ADdica-jannet-h-af150c36c15a?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Short Review of Anthropic’s Fable 5.1](https://medium.com/jonathans-musings/a-short-review-of-anthropics-fable-5-1-3061ab757b4c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Turn One Business Idea Into a Week of Content With ChatGPT](https://medium.com/@Mentalmomboss/how-i-turn-one-business-idea-into-a-week-of-content-with-chatgpt-40a8e61a4598?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
