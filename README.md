@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Figma Design Critique Using Claude Code](https://uxplanet.org/figma-design-critique-using-claude-code-d8f2ee54bf01?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Are People Actually Looking For When They Use AI?](https://medium.com/@simohamed.amara/what-are-people-actually-looking-for-when-they-use-ai-0824e92c9951?source=rss------artificial_intelligence-5)**
-> 🔹 **[Fine-Tuning LLM Into a Spam Classifier &lt;&gt; Build an LLM From Scratch [5]](https://medium.com/@simranjeetsingh1497/fine-tuning-llm-into-a-spam-classifier-build-an-llm-from-scratch-5-452c59c29f30?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Scrolled My Phone While My AI Agent Worked. Big Mistake.](https://medium.com/@TusharKanjariya/i-scrolled-my-phone-while-my-ai-agent-worked-big-mistake-71ecec037e2f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Extracting My Philosophy](https://medium.com/@dr.lodge.mccammon/extracting-my-philosophy-827f0d41da29?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Local AI Is Making a Comeback as Cloud Costs Rise](https://medium.com/@aimoneyproofficial/why-local-ai-is-making-a-comeback-as-cloud-costs-rise-2d113950f4db?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Future is .md](https://omerseyfeddinkoc.medium.com/the-future-is-md-1df5c20ee425?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Trust Problem: Why People Are Starting to Question the Promise of Artificial Intelligenc...](https://medium.com/@naro7217/the-ai-trust-problem-why-people-are-starting-to-question-the-promise-of-artificial-intelligence-ef7f5eb9a0cc?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Can Copy Your Code. It Can’t Copy Your Judgment, Experience &amp; Heart](https://medium.com/@jh.baek.sd/ai-can-copy-your-code-it-cant-copy-your-judgment-experience-heart-7aba168e5901?source=rss------artificial_intelligence-5)**
+> 🔹 **[New AI Data Centers Under Construction Will Emit as Much CO2 as 24 Million Gas Cars](https://medium.com/@virtualguild.ai/new-ai-data-centers-under-construction-will-emit-as-much-co2-as-24-million-gas-cars-d12f65d8283a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Most Important Leadership Skill of the AI Era Is Knowing When to Override the Machine](https://medium.com/@leaders_edge_labs/the-most-important-leadership-skill-of-the-ai-era-is-knowing-when-to-override-the-machine-43e650ec8c6a?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPT-6 Astra: Has AGI Actually Arrived?](https://medium.com/@zulfiqarshk/gpt-6-astra-has-agi-actually-arrived-2cd21e84fec8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Most Important Thing About GPT‑6 Astra Is Not That It Is Smarter](https://medium.com/@denysbutakov/the-most-important-thing-about-gpt-6-astra-is-not-that-it-is-smarter-973a67d575de?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI Released GPT-6 Astra Today and Declared the AGI Era Has Arrived — One Day After Rating I...](https://medium.com/@kolabsnews/openai-released-gpt-6-astra-today-and-declared-the-agi-era-has-arrived-one-day-after-rating-it-a-3fde22d8ea4c?source=rss------artificial_intelligence-5)**
+> 🔹 **[SQL Sorgularının Arkasında Ne Var? Veri Yapılarıyla Tanışın](https://medium.com/@esmanurhavinak/sql-sorgular%C4%B1n%C4%B1n-arkas%C4%B1nda-ne-var-veri-yap%C4%B1lar%C4%B1yla-tan%C4%B1%C5%9F%C4%B1n-bc98b698952b?source=rss------data_structures-5)**
+> 🔹 **[They Called It God](https://medium.com/@catomarlowe/they-called-it-god-95c1150c2983?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
