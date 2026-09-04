@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Mahasiswa KKN 21 Universitas Nurul Huda Laksanakan Kerja Bakti Jumat Bersih di Vihara Buddha De...](https://medium.com/@ferdirifaldo/mahasiswa-kkn-21-universitas-nurul-huda-laksanakan-kerja-bakti-jumat-bersih-di-vihara-buddha-desa-0c40bd988966?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Fundamentals for Developers: The Round That Didn’t Exist Two Years Ago](https://medium.com/@thecurlybrace/ai-fundamentals-for-developers-the-round-that-didnt-exist-two-years-ago-e1b2cb40c2bc?source=rss------artificial_intelligence-5)**
-> 🔹 **[HUMINT, OSINT, SIGINT and More: The Different Ways Intelligence Is Gathered](https://medium.com/@cyberfox282/humint-osint-sigint-and-more-the-different-ways-intelligence-is-gathered-b874da9dfe6f?source=rss------artificial_intelligence-5)**
-> 🔹 **[I found 5 GitHub repos that quietly do the work you’re still doing by hand](https://medium.com/@hii_mohit/i-found-5-github-repos-that-quietly-do-the-work-youre-still-doing-by-hand-751fdc43dbb8?source=rss------artificial_intelligence-5)**
-> 🔹 **[GPT-6 Astra vs Claude Fable 5.1](https://medium.com/data-science-in-your-pocket/gpt-6-astra-vs-claude-fable-5-1-eefc3e663f08?source=rss------artificial_intelligence-5)**
-> 🔹 **[Discover how AI actually works — #AIwithUX Series #02](https://medium.com/@wardharaheem/discover-how-ai-actually-works-aiwithux-series-02-bfe3401122c2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Bidirectional Gated Recurrent Unit &lpar;Bi-GRU&rpar;](https://medium.com/@neelameherunnesa/bidirectional-gated-recurrent-unit-bi-gru-a86f21cf3fda?source=rss------artificial_intelligence-5)**
-> 🔹 **[Graph Engineering: The End of the Monolithic AI Agent](https://abdullahahmadme.medium.com/graph-engineering-the-end-of-the-monolithic-ai-agent-f19b8ebc15cd?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI chatbots can generate answers.](https://medium.com/@peculiaralexchi/ai-chatbots-can-generate-answers-8493a4b9d1a8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Rereading the Fine Print: Build an AI Decision Tree](https://medium.com/@davidmpeterson1998/stop-rereading-the-fine-print-build-an-ai-decision-tree-c65775bf102f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is a Cheap Gaming Laptop Worth It? Honest Experience](https://medium.com/@miltonjcurry606/is-a-cheap-gaming-laptop-worth-it-honest-experience-72fbc3ff1a51?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Journey Battling AI Coding Agent Shortcuts](https://medium.com/@tanjianbo_53462/my-journey-battling-ai-coding-agent-shortcuts-b4c66b85e683?source=rss------artificial_intelligence-5)**
+> 🔹 **[Optimization](https://medium.com/@shashi.mehta/optimization-fc5b05de294e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can The Pocket.AI Become My Digital Twin?](https://fongchengwah.medium.com/can-the-pocket-ai-become-my-digital-twin-f5f5f14ad884?source=rss------artificial_intelligence-5)**
+> 🔹 **[BIRTH OF A CORPSE? — PART 3](https://medium.com/newintellectual/birth-of-a-corpse-part-3-743370231be7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cursor Analyzed Nokia’s 50M+ Lines of Code in Two Weeks — Top 10 AI &amp; Flutter News September 4…](https://blurbrahlab.medium.com/cursor-analyzed-nokias-50m-lines-of-code-in-two-weeks-top-10-ai-flutter-news-september-4-0c24a27194eb?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
