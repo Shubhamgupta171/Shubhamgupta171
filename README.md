@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defen...](https://blog.cloudflare.com/vulnerability-discovery-remediation/)**
-> 🔹 **[GPT-6 Astra vs Fable 5.1: What PMs Actually Get](https://medium.com/product-powerhouse/gpt-6-astra-vs-fable-5-1-what-pms-actually-get-1706b8d893ed?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Dante teaches us about the use of Artificial Intelligence](https://medium.com/@rafaelvalerofernandez/what-dante-teaches-us-about-the-use-of-artificial-intelligence-a0bb337f9492?source=rss------artificial_intelligence-5)**
-> 🔹 **[Synopsys:“Silicon-To-Systems”](https://medium.com/@gxabhashe430/synopsys-silicon-to-systems-abb2e6387760?source=rss------artificial_intelligence-5)**
-> 🔹 **[What is Node.js? JavaScript on the Server Explained](https://towardsdev.com/what-is-node-js-javascript-on-the-server-explained-af96c634cb4e?source=rss------backend_development-5)**
-> 🔹 **[La Demanda Histórica de Marlon Andrés Pasquel Espín contra la Inseguridad Jurídica
-Jannet H.](https://medium.com/@observatorio.electoral.oficial/la-demanda-hist%C3%B3rica-de-marlon-andr%C3%A9s-pasquel-esp%C3%ADn-contra-la-inseguridad-jur%C3%ADdica-jannet-h-af150c36c15a?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Short Review of Anthropic’s Fable 5.1](https://medium.com/jonathans-musings/a-short-review-of-anthropics-fable-5-1-3061ab757b4c?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Turn One Business Idea Into a Week of Content With ChatGPT](https://medium.com/@Mentalmomboss/how-i-turn-one-business-idea-into-a-week-of-content-with-chatgpt-40a8e61a4598?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mahasiswa KKN 21 Universitas Nurul Huda Laksanakan Kerja Bakti Jumat Bersih di Vihara Buddha De...](https://medium.com/@ferdirifaldo/mahasiswa-kkn-21-universitas-nurul-huda-laksanakan-kerja-bakti-jumat-bersih-di-vihara-buddha-desa-0c40bd988966?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Fundamentals for Developers: The Round That Didn’t Exist Two Years Ago](https://medium.com/@thecurlybrace/ai-fundamentals-for-developers-the-round-that-didnt-exist-two-years-ago-e1b2cb40c2bc?source=rss------artificial_intelligence-5)**
+> 🔹 **[HUMINT, OSINT, SIGINT and More: The Different Ways Intelligence Is Gathered](https://medium.com/@cyberfox282/humint-osint-sigint-and-more-the-different-ways-intelligence-is-gathered-b874da9dfe6f?source=rss------artificial_intelligence-5)**
+> 🔹 **[I found 5 GitHub repos that quietly do the work you’re still doing by hand](https://medium.com/@hii_mohit/i-found-5-github-repos-that-quietly-do-the-work-youre-still-doing-by-hand-751fdc43dbb8?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPT-6 Astra vs Claude Fable 5.1](https://medium.com/data-science-in-your-pocket/gpt-6-astra-vs-claude-fable-5-1-eefc3e663f08?source=rss------artificial_intelligence-5)**
+> 🔹 **[Discover how AI actually works — #AIwithUX Series #02](https://medium.com/@wardharaheem/discover-how-ai-actually-works-aiwithux-series-02-bfe3401122c2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bidirectional Gated Recurrent Unit &lpar;Bi-GRU&rpar;](https://medium.com/@neelameherunnesa/bidirectional-gated-recurrent-unit-bi-gru-a86f21cf3fda?source=rss------artificial_intelligence-5)**
+> 🔹 **[Graph Engineering: The End of the Monolithic AI Agent](https://abdullahahmadme.medium.com/graph-engineering-the-end-of-the-monolithic-ai-agent-f19b8ebc15cd?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
