@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI chatbots can generate answers.](https://medium.com/@peculiaralexchi/ai-chatbots-can-generate-answers-8493a4b9d1a8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Rereading the Fine Print: Build an AI Decision Tree](https://medium.com/@davidmpeterson1998/stop-rereading-the-fine-print-build-an-ai-decision-tree-c65775bf102f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is a Cheap Gaming Laptop Worth It? Honest Experience](https://medium.com/@miltonjcurry606/is-a-cheap-gaming-laptop-worth-it-honest-experience-72fbc3ff1a51?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Journey Battling AI Coding Agent Shortcuts](https://medium.com/@tanjianbo_53462/my-journey-battling-ai-coding-agent-shortcuts-b4c66b85e683?source=rss------artificial_intelligence-5)**
-> 🔹 **[Optimization](https://medium.com/@shashi.mehta/optimization-fc5b05de294e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can The Pocket.AI Become My Digital Twin?](https://fongchengwah.medium.com/can-the-pocket-ai-become-my-digital-twin-f5f5f14ad884?source=rss------artificial_intelligence-5)**
-> 🔹 **[BIRTH OF A CORPSE? — PART 3](https://medium.com/newintellectual/birth-of-a-corpse-part-3-743370231be7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cursor Analyzed Nokia’s 50M+ Lines of Code in Two Weeks — Top 10 AI &amp; Flutter News September 4…](https://blurbrahlab.medium.com/cursor-analyzed-nokias-50m-lines-of-code-in-two-weeks-top-10-ai-flutter-news-september-4-0c24a27194eb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Figma Design Critique Using Claude Code](https://uxplanet.org/figma-design-critique-using-claude-code-d8f2ee54bf01?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Are People Actually Looking For When They Use AI?](https://medium.com/@simohamed.amara/what-are-people-actually-looking-for-when-they-use-ai-0824e92c9951?source=rss------artificial_intelligence-5)**
+> 🔹 **[Fine-Tuning LLM Into a Spam Classifier &lt;&gt; Build an LLM From Scratch [5]](https://medium.com/@simranjeetsingh1497/fine-tuning-llm-into-a-spam-classifier-build-an-llm-from-scratch-5-452c59c29f30?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Scrolled My Phone While My AI Agent Worked. Big Mistake.](https://medium.com/@TusharKanjariya/i-scrolled-my-phone-while-my-ai-agent-worked-big-mistake-71ecec037e2f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Extracting My Philosophy](https://medium.com/@dr.lodge.mccammon/extracting-my-philosophy-827f0d41da29?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Local AI Is Making a Comeback as Cloud Costs Rise](https://medium.com/@aimoneyproofficial/why-local-ai-is-making-a-comeback-as-cloud-costs-rise-2d113950f4db?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future is .md](https://omerseyfeddinkoc.medium.com/the-future-is-md-1df5c20ee425?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Trust Problem: Why People Are Starting to Question the Promise of Artificial Intelligenc...](https://medium.com/@naro7217/the-ai-trust-problem-why-people-are-starting-to-question-the-promise-of-artificial-intelligence-ef7f5eb9a0cc?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
