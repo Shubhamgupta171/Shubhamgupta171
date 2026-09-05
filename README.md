@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Eventual Consistency: Why Your Data Is Sometimes “Wrong” in Distributed Systems](https://medium.com/@ronomahedi/eventual-consistency-why-your-data-is-sometimes-wrong-in-distributed-systems-d7cf578224dc?source=rss------system_design-5)**
-> 🔹 **[Eventual Consistency: Why Your Data Is Sometimes “Wrong” in Distributed Systems](https://medium.com/@ronomahedi/eventual-consistency-why-your-data-is-sometimes-wrong-in-distributed-systems-d7cf578224dc?source=rss------backend_development-5)**
-> 🔹 **[The Ad Studio That Never Sleeps: Inside Creatify AI](https://medium.com/@adibaibnath770/the-ad-studio-that-never-sleeps-inside-creatify-ai-eb4f6012c444?source=rss------artificial_intelligence-5)**
-> 🔹 **[Survived, But Exhausted.](https://medium.com/@wordscocoon/survived-but-exhausted-fa5284c18a26?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Knows Your Website 76% of the Time. It Still Won’t Recommend You.](https://medium.com/@Atom_Foundry/ai-knows-your-website-76-of-the-time-it-still-wont-recommend-you-a2c747e07564?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Would You Delete 2 Billion WhatsApp Statuses Every Day?](https://medium.com/codetodeploy/how-would-you-delete-2-billion-whatsapp-statuses-every-day-84b2ac67063c?source=rss------system_design-5)**
-> 🔹 **[How Machine Learning Improves Game Testing — And Why It’s Changing Everything](https://medium.com/@recep.zengin908/how-machine-learning-improves-game-testing-and-why-its-changing-everything-705378260d7a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Transformers Need Positional Encoding For Time Series: A Visual Guide](https://towardsdatascience.com/why-transformers-need-positional-encoding-for-time-series-a-visual-guide/)**
+> 🔹 **[Recursive AI, Astra, and the Emergence of “Self”: I Tried the Experiment on GPT-2](https://medium.com/@andrey_34039/recursive-ai-astra-and-the-emergence-of-self-i-tried-the-experiment-on-gpt-2-e1681400b0d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[From AI Demo to Fashion Campaign: Testing Seedance 2.5 for Creative Production](https://medium.com/@ganweizhang/from-ai-demo-to-fashion-campaign-testing-seedance-2-5-for-creative-production-fe676629b4bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Proprietary Intelligence Foundry Market](https://medium.com/technology-media-telecom/the-proprietary-intelligence-foundry-market-e5f8b868f42f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Biggest AI Image Prompting Mistakes Beginners Don’t Know They’re Making](https://medium.com/@mericreativAI/the-biggest-ai-image-prompting-mistakes-beginners-dont-know-they-re-making-7e5fdf44906c?source=rss------artificial_intelligence-5)**
+> 🔹 **[​AI Workflows, Automation Tools, and B2B Scaling Frameworks: 2026 Strategy Guide](https://medium.com/@jahangeerkhanabbasi391/ai-workflows-automation-tools-and-b2b-scaling-frameworks-2026-strategy-guide-581f91ed43a5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Data Storage Is No Longer the Core Executive Conversation](https://medium.com/@patriciagcomunicaciones/data-storage-is-no-longer-the-core-executive-conversation-597dd5ab0247?source=rss------artificial_intelligence-5)**
+> 🔹 **[Langfuse for Monitoring Non-Deterministic Agent Workflows](https://pub.towardsai.net/langfuse-for-monitoring-non-deterministic-agent-workflows-a669dc7ecc1f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why the Most Expensive Bugs Rarely Live in One Function](https://medium.com/skillstuff/why-the-most-expensive-bugs-rarely-live-in-one-function-5b8669fe753a?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
