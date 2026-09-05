@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI Can Copy Your Code. It Can’t Copy Your Judgment, Experience &amp; Heart](https://medium.com/@jh.baek.sd/ai-can-copy-your-code-it-cant-copy-your-judgment-experience-heart-7aba168e5901?source=rss------artificial_intelligence-5)**
-> 🔹 **[New AI Data Centers Under Construction Will Emit as Much CO2 as 24 Million Gas Cars](https://medium.com/@virtualguild.ai/new-ai-data-centers-under-construction-will-emit-as-much-co2-as-24-million-gas-cars-d12f65d8283a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Most Important Leadership Skill of the AI Era Is Knowing When to Override the Machine](https://medium.com/@leaders_edge_labs/the-most-important-leadership-skill-of-the-ai-era-is-knowing-when-to-override-the-machine-43e650ec8c6a?source=rss------artificial_intelligence-5)**
-> 🔹 **[GPT-6 Astra: Has AGI Actually Arrived?](https://medium.com/@zulfiqarshk/gpt-6-astra-has-agi-actually-arrived-2cd21e84fec8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Most Important Thing About GPT‑6 Astra Is Not That It Is Smarter](https://medium.com/@denysbutakov/the-most-important-thing-about-gpt-6-astra-is-not-that-it-is-smarter-973a67d575de?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenAI Released GPT-6 Astra Today and Declared the AGI Era Has Arrived — One Day After Rating I...](https://medium.com/@kolabsnews/openai-released-gpt-6-astra-today-and-declared-the-agi-era-has-arrived-one-day-after-rating-it-a-3fde22d8ea4c?source=rss------artificial_intelligence-5)**
-> 🔹 **[SQL Sorgularının Arkasında Ne Var? Veri Yapılarıyla Tanışın](https://medium.com/@esmanurhavinak/sql-sorgular%C4%B1n%C4%B1n-arkas%C4%B1nda-ne-var-veri-yap%C4%B1lar%C4%B1yla-tan%C4%B1%C5%9F%C4%B1n-bc98b698952b?source=rss------data_structures-5)**
-> 🔹 **[They Called It God](https://medium.com/@catomarlowe/they-called-it-god-95c1150c2983?source=rss------artificial_intelligence-5)**
+> 🔹 **[DS in Python 2 — Generators](https://medium.com/@abhishekjainindore24/ds-in-python-2-generators-4cf3aed774ef?source=rss------data_structures-5)**
+> 🔹 **[You Don’t Need a Scheduler Yet](https://kuangbyte.medium.com/you-dont-need-a-scheduler-yet-314bdc4cc2c0?source=rss------system_design-5)**
+> 🔹 **[The E-Commerce Stack Is Changing: Why Shopify, WooCommerce and AI Will Redefine Performance…](https://veera9.medium.com/the-e-commerce-stack-is-changing-why-shopify-woocommerce-and-ai-will-redefine-performance-4febb75b566c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Code Is a Unix Filter, and Almost Nobody Uses It That Way](https://medium.com/@anup.karanjkar08/claude-code-is-a-unix-filter-and-almost-nobody-uses-it-that-way-0ab65b810598?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Real Wishlist: What Developers Actually Want From GPT-6](https://medium.com/illumination/the-real-wishlist-what-developers-actually-want-from-gpt-6-0304ac673c76?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everything Becomes a Plugin: Why Agent Skills Need Evidence, Not Just Stars](https://medium.com/@liuyileo0036/everything-becomes-a-plugin-why-agent-skills-need-evidence-not-just-stars-57bdc67ad9fb?source=rss------artificial_intelligence-5)**
+> 🔹 **[I’m Exploring JanitorAI as Part of My AI Companion Research](https://ranjimercado.medium.com/im-exploring-janitorai-as-part-of-my-ai-companion-research-cbece8dcafb3?source=rss------artificial_intelligence-5)**
+> 🔹 **[AGI: What Happens When AI Can Do Almost Everything We Can?](https://medium.com/@vaibhavrawat.dev/agi-what-happens-when-ai-can-do-almost-everything-we-can-555686a49839?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
