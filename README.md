@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How AI Is Revolutionizing Digital Banking in 2026](https://medium.com/@secureedge96/how-ai-is-revolutionizing-digital-banking-in-2026-28c3ed781a9f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Federated Trust for Agents: Core Architecture Components](https://medium.com/@ericbroda/federated-trust-for-agents-core-architecture-components-e7b1bb94c1a9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best AI Course in Bangalore | Top AI Training in Bangalore](https://medium.com/@SonuBlogzz/best-ai-course-in-bangalore-top-ai-training-in-bangalore-c075f2091071?source=rss------artificial_intelligence-5)**
-> 🔹 **[From AppExchange to AgentExchange: How Salesforce Is Building the AI Marketplace](https://medium.com/codetodeploy/from-appexchange-to-agentexchange-how-salesforce-is-building-the-ai-marketplace-d7c4701f2fea?source=rss------artificial_intelligence-5)**
-> 🔹 **[Access Tokens and Refresh Tokens: What I Learned About Authentication](https://medium.com/@shinjanverma/access-tokens-and-refresh-tokens-what-i-learned-about-authentication-7a59e4b91b25?source=rss------backend_development-5)**
-> 🔹 **[What Actually Happens When You Hit Enter in Claude Code](https://javascript.plainenglish.io/what-actually-happens-when-you-hit-enter-in-claude-code-399659a3691f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Quiet Job Boom Behind Frontier AI: Why Domain Experts Are Getting Paid to Train Models](https://medium.com/@littleoneadvice/the-quiet-job-boom-behind-frontier-ai-why-domain-experts-are-getting-paid-to-train-models-54d763f8557a?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Café Staff to UNICUP COMPANY: How the Operating Questions Change](https://medium.com/@qorud001/from-caf%C3%A9-staff-to-unicup-company-how-the-operating-questions-change-6476d550595d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Eventual Consistency: Why Your Data Is Sometimes “Wrong” in Distributed Systems](https://medium.com/@ronomahedi/eventual-consistency-why-your-data-is-sometimes-wrong-in-distributed-systems-d7cf578224dc?source=rss------system_design-5)**
+> 🔹 **[Eventual Consistency: Why Your Data Is Sometimes “Wrong” in Distributed Systems](https://medium.com/@ronomahedi/eventual-consistency-why-your-data-is-sometimes-wrong-in-distributed-systems-d7cf578224dc?source=rss------backend_development-5)**
+> 🔹 **[The Ad Studio That Never Sleeps: Inside Creatify AI](https://medium.com/@adibaibnath770/the-ad-studio-that-never-sleeps-inside-creatify-ai-eb4f6012c444?source=rss------artificial_intelligence-5)**
+> 🔹 **[Survived, But Exhausted.](https://medium.com/@wordscocoon/survived-but-exhausted-fa5284c18a26?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Knows Your Website 76% of the Time. It Still Won’t Recommend You.](https://medium.com/@Atom_Foundry/ai-knows-your-website-76-of-the-time-it-still-wont-recommend-you-a2c747e07564?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Would You Delete 2 Billion WhatsApp Statuses Every Day?](https://medium.com/codetodeploy/how-would-you-delete-2-billion-whatsapp-statuses-every-day-84b2ac67063c?source=rss------system_design-5)**
+> 🔹 **[How Machine Learning Improves Game Testing — And Why It’s Changing Everything](https://medium.com/@recep.zengin908/how-machine-learning-improves-game-testing-and-why-its-changing-everything-705378260d7a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Transformers Need Positional Encoding For Time Series: A Visual Guide](https://towardsdatascience.com/why-transformers-need-positional-encoding-for-time-series-a-visual-guide/)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
