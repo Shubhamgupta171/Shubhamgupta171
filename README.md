@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[DS in Python 2 — Generators](https://medium.com/@abhishekjainindore24/ds-in-python-2-generators-4cf3aed774ef?source=rss------data_structures-5)**
-> 🔹 **[You Don’t Need a Scheduler Yet](https://kuangbyte.medium.com/you-dont-need-a-scheduler-yet-314bdc4cc2c0?source=rss------system_design-5)**
-> 🔹 **[The E-Commerce Stack Is Changing: Why Shopify, WooCommerce and AI Will Redefine Performance…](https://veera9.medium.com/the-e-commerce-stack-is-changing-why-shopify-woocommerce-and-ai-will-redefine-performance-4febb75b566c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Code Is a Unix Filter, and Almost Nobody Uses It That Way](https://medium.com/@anup.karanjkar08/claude-code-is-a-unix-filter-and-almost-nobody-uses-it-that-way-0ab65b810598?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Real Wishlist: What Developers Actually Want From GPT-6](https://medium.com/illumination/the-real-wishlist-what-developers-actually-want-from-gpt-6-0304ac673c76?source=rss------artificial_intelligence-5)**
-> 🔹 **[Everything Becomes a Plugin: Why Agent Skills Need Evidence, Not Just Stars](https://medium.com/@liuyileo0036/everything-becomes-a-plugin-why-agent-skills-need-evidence-not-just-stars-57bdc67ad9fb?source=rss------artificial_intelligence-5)**
-> 🔹 **[I’m Exploring JanitorAI as Part of My AI Companion Research](https://ranjimercado.medium.com/im-exploring-janitorai-as-part-of-my-ai-companion-research-cbece8dcafb3?source=rss------artificial_intelligence-5)**
-> 🔹 **[AGI: What Happens When AI Can Do Almost Everything We Can?](https://medium.com/@vaibhavrawat.dev/agi-what-happens-when-ai-can-do-almost-everything-we-can-555686a49839?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Revolutionizing Digital Banking in 2026](https://medium.com/@secureedge96/how-ai-is-revolutionizing-digital-banking-in-2026-28c3ed781a9f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Federated Trust for Agents: Core Architecture Components](https://medium.com/@ericbroda/federated-trust-for-agents-core-architecture-components-e7b1bb94c1a9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best AI Course in Bangalore | Top AI Training in Bangalore](https://medium.com/@SonuBlogzz/best-ai-course-in-bangalore-top-ai-training-in-bangalore-c075f2091071?source=rss------artificial_intelligence-5)**
+> 🔹 **[From AppExchange to AgentExchange: How Salesforce Is Building the AI Marketplace](https://medium.com/codetodeploy/from-appexchange-to-agentexchange-how-salesforce-is-building-the-ai-marketplace-d7c4701f2fea?source=rss------artificial_intelligence-5)**
+> 🔹 **[Access Tokens and Refresh Tokens: What I Learned About Authentication](https://medium.com/@shinjanverma/access-tokens-and-refresh-tokens-what-i-learned-about-authentication-7a59e4b91b25?source=rss------backend_development-5)**
+> 🔹 **[What Actually Happens When You Hit Enter in Claude Code](https://javascript.plainenglish.io/what-actually-happens-when-you-hit-enter-in-claude-code-399659a3691f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Quiet Job Boom Behind Frontier AI: Why Domain Experts Are Getting Paid to Train Models](https://medium.com/@littleoneadvice/the-quiet-job-boom-behind-frontier-ai-why-domain-experts-are-getting-paid-to-train-models-54d763f8557a?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Café Staff to UNICUP COMPANY: How the Operating Questions Change](https://medium.com/@qorud001/from-caf%C3%A9-staff-to-unicup-company-how-the-operating-questions-change-6476d550595d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
