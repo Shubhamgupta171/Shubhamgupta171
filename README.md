@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI Çağında Backend Developer Olmak: Kariyerimiz Nasıl Değişiyor, Biz Nasıl Değişmeliyiz?](https://medium.com/@suleymankayabasi/ai-%C3%A7a%C4%9F%C4%B1nda-backend-developer-olmak-kariyerimiz-nas%C4%B1l-de%C4%9Fi%C5%9Fiyor-biz-nas%C4%B1l-de%C4%9Fi%C5%9Fmeliyiz-f6afd117b50c?source=rss------backend_development-5)**
-> 🔹 **[AI Çağında Backend Developer Olmak: Kariyerimiz Nasıl Değişiyor, Biz Nasıl Değişmeliyiz?](https://medium.com/@suleymankayabasi/ai-%C3%A7a%C4%9F%C4%B1nda-backend-developer-olmak-kariyerimiz-nas%C4%B1l-de%C4%9Fi%C5%9Fiyor-biz-nas%C4%B1l-de%C4%9Fi%C5%9Fmeliyiz-f6afd117b50c?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenAI’s Agents Turned a Dead Wiki Into a Message Board](https://medium.com/@theaidownside/openais-agents-turned-a-dead-wiki-into-a-message-board-7e4d4a5e6810?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Research Agenda at the Intersection: Disease Surveillance, Equity, and Low-Resource Design](https://medium.com/@emmanuelowusuadu10/a-research-agenda-at-the-intersection-disease-surveillance-equity-and-low-resource-design-7963f4fe8aa0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Write the Veto Before the Agent Writes the Diff](https://medium.com/@delecch/write-the-veto-before-the-agent-writes-the-diff-d8481cf2776e?source=rss------artificial_intelligence-5)**
-> 🔹 **[What happens when an AI model knows it’s being watched?](https://medium.com/enrique-dans/what-happens-when-an-ai-model-knows-its-being-watched-f57106255ef6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Six More Features, the Same Question: What Would Have Been Possible Without an LLM?](https://medium.com/@tradingsmarts26/six-more-features-the-same-question-what-would-have-been-possible-without-an-llm-8c4289e32158?source=rss------artificial_intelligence-5)**
-> 🔹 **[0905.501.9190شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شما...](https://medium.com/@bxbxbsshsbsb/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-53145c7d9cab?source=rss------artificial_intelligence-5)**
+> 🔹 **[Explorer Browser Pentesting | Find Browser Security Vulnerabilities](https://medium.com/@pentesterclubpvtltd/explorer-browser-pentesting-find-browser-security-vulnerabilities-2ceb1be062e8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic AI Consulting: Enterprise Guide to Autonomous Multi-Agent Systems](https://medium.com/@jhon_60219/agentic-ai-consulting-enterprise-guide-to-autonomous-multi-agent-systems-82533447e15d?source=rss------artificial_intelligence-5)**
+> 🔹 **[10 Best Free AI Image Generators in 2026: What Actually Works](https://medium.com/@zuqren/10-best-free-ai-image-generators-in-2026-what-actually-works-67fe091e0489?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Dimension Gap: Why Cold Logic Spins in Circles While Reality Breathes](https://medium.com/@adam_1001/the-dimension-gap-why-cold-logic-spins-in-circles-while-reality-breathes-e5e261c521bb?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Running Out of High-Quality Data — So What Comes Next?](https://medium.com/@aimoneyproofficial/ai-is-running-out-of-high-quality-data-so-what-comes-next-24c367042794?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Elon Musk Is Right About AI Solving Chess](https://medium.com/@airicamartel/why-elon-musk-is-right-about-ai-solving-chess-d913a3b9d8dd?source=rss------artificial_intelligence-5)**
+> 🔹 **[All About Cookies and Headers in Next.js](https://medium.com/@gauravff0135/all-about-cookies-and-headers-in-next-js-0e332eda4148?source=rss------backend_development-5)**
+> 🔹 **[Beyond the Hype: How Practical AI Tools Are Transforming Daily Workflows](https://medium.com/@ymiesho/beyond-the-hype-how-practical-ai-tools-are-transforming-daily-workflows-3982dfcfd316?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
