@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[100+ AI Art Styles You Need to Try &lpar;Cyberpunk to Gothic&rpar;](https://immiley.medium.com/100-ai-art-styles-you-need-to-try-cyberpunk-to-gothic-6b9894bf0547?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Command Palette Is the Interface: Why I Built a Keyboard-First Browser on WebKit and Rust](https://medium.com/@donk8r/the-command-palette-is-the-interface-why-i-built-a-keyboard-first-browser-on-webkit-and-rust-cee213525242?source=rss------artificial_intelligence-5)**
-> 🔹 **[700 AI Agents Coordinated an Attack. Here’s What It Means for Cybersecurity](https://codebookfusion.medium.com/700-ai-agents-coordinated-an-attack-heres-what-it-means-for-cybersecurity-906489496e6f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Agent Internet Is Here How Websites Must Change Before 2027](https://medium.com/@Artiscribe/the-ai-agent-internet-is-here-how-websites-must-change-before-2027-e63dfd86b960?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Business Doesn’t Have a Visibility Problem. It Has a Timing Problem.](https://medium.com/@versatile_satin_sardine_119/your-business-doesnt-have-a-visibility-problem-it-has-a-timing-problem-bbbbf52c541c?source=rss------artificial_intelligence-5)**
-> 🔹 **[GEO vs. SEO: How to Optimize Your Content for AI Search Engines and LLMs](https://medium.com/@hafsatariq277/geo-vs-seo-how-to-optimize-your-content-for-ai-search-engines-and-llms-f9f39f861551?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Train an LLM: From Small Tasks to an Intelligent, Human-Like Model](https://medium.com/codetodeploy/how-to-train-an-llm-from-small-tasks-to-an-intelligent-human-like-model-e45811639bed?source=rss------artificial_intelligence-5)**
-> 🔹 **[Before Calling Astra Human-Level, Ask These Three Questions](https://medium.com/@firestorm-ai/before-calling-astra-human-level-ask-these-three-questions-87a14b64583b?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Çağında Backend Developer Olmak: Kariyerimiz Nasıl Değişiyor, Biz Nasıl Değişmeliyiz?](https://medium.com/@suleymankayabasi/ai-%C3%A7a%C4%9F%C4%B1nda-backend-developer-olmak-kariyerimiz-nas%C4%B1l-de%C4%9Fi%C5%9Fiyor-biz-nas%C4%B1l-de%C4%9Fi%C5%9Fmeliyiz-f6afd117b50c?source=rss------backend_development-5)**
+> 🔹 **[AI Çağında Backend Developer Olmak: Kariyerimiz Nasıl Değişiyor, Biz Nasıl Değişmeliyiz?](https://medium.com/@suleymankayabasi/ai-%C3%A7a%C4%9F%C4%B1nda-backend-developer-olmak-kariyerimiz-nas%C4%B1l-de%C4%9Fi%C5%9Fiyor-biz-nas%C4%B1l-de%C4%9Fi%C5%9Fmeliyiz-f6afd117b50c?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI’s Agents Turned a Dead Wiki Into a Message Board](https://medium.com/@theaidownside/openais-agents-turned-a-dead-wiki-into-a-message-board-7e4d4a5e6810?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Research Agenda at the Intersection: Disease Surveillance, Equity, and Low-Resource Design](https://medium.com/@emmanuelowusuadu10/a-research-agenda-at-the-intersection-disease-surveillance-equity-and-low-resource-design-7963f4fe8aa0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Write the Veto Before the Agent Writes the Diff](https://medium.com/@delecch/write-the-veto-before-the-agent-writes-the-diff-d8481cf2776e?source=rss------artificial_intelligence-5)**
+> 🔹 **[What happens when an AI model knows it’s being watched?](https://medium.com/enrique-dans/what-happens-when-an-ai-model-knows-its-being-watched-f57106255ef6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Six More Features, the Same Question: What Would Have Been Possible Without an LLM?](https://medium.com/@tradingsmarts26/six-more-features-the-same-question-what-would-have-been-possible-without-an-llm-8c4289e32158?source=rss------artificial_intelligence-5)**
+> 🔹 **[0905.501.9190شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شما...](https://medium.com/@bxbxbsshsbsb/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-53145c7d9cab?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
