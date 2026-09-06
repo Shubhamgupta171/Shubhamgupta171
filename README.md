@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Recursive AI, Astra, and the Emergence of “Self”: I Tried the Experiment on GPT-2](https://medium.com/@andrey_34039/recursive-ai-astra-and-the-emergence-of-self-i-tried-the-experiment-on-gpt-2-e1681400b0d2?source=rss------artificial_intelligence-5)**
-> 🔹 **[From AI Demo to Fashion Campaign: Testing Seedance 2.5 for Creative Production](https://medium.com/@ganweizhang/from-ai-demo-to-fashion-campaign-testing-seedance-2-5-for-creative-production-fe676629b4bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Proprietary Intelligence Foundry Market](https://medium.com/technology-media-telecom/the-proprietary-intelligence-foundry-market-e5f8b868f42f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Biggest AI Image Prompting Mistakes Beginners Don’t Know They’re Making](https://medium.com/@mericreativAI/the-biggest-ai-image-prompting-mistakes-beginners-dont-know-they-re-making-7e5fdf44906c?source=rss------artificial_intelligence-5)**
-> 🔹 **[​AI Workflows, Automation Tools, and B2B Scaling Frameworks: 2026 Strategy Guide](https://medium.com/@jahangeerkhanabbasi391/ai-workflows-automation-tools-and-b2b-scaling-frameworks-2026-strategy-guide-581f91ed43a5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Data Storage Is No Longer the Core Executive Conversation](https://medium.com/@patriciagcomunicaciones/data-storage-is-no-longer-the-core-executive-conversation-597dd5ab0247?source=rss------artificial_intelligence-5)**
-> 🔹 **[Langfuse for Monitoring Non-Deterministic Agent Workflows](https://pub.towardsai.net/langfuse-for-monitoring-non-deterministic-agent-workflows-a669dc7ecc1f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why the Most Expensive Bugs Rarely Live in One Function](https://medium.com/skillstuff/why-the-most-expensive-bugs-rarely-live-in-one-function-5b8669fe753a?source=rss------system_design-5)**
+> 🔹 **[100+ AI Art Styles You Need to Try &lpar;Cyberpunk to Gothic&rpar;](https://immiley.medium.com/100-ai-art-styles-you-need-to-try-cyberpunk-to-gothic-6b9894bf0547?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Command Palette Is the Interface: Why I Built a Keyboard-First Browser on WebKit and Rust](https://medium.com/@donk8r/the-command-palette-is-the-interface-why-i-built-a-keyboard-first-browser-on-webkit-and-rust-cee213525242?source=rss------artificial_intelligence-5)**
+> 🔹 **[700 AI Agents Coordinated an Attack. Here’s What It Means for Cybersecurity](https://codebookfusion.medium.com/700-ai-agents-coordinated-an-attack-heres-what-it-means-for-cybersecurity-906489496e6f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Agent Internet Is Here How Websites Must Change Before 2027](https://medium.com/@Artiscribe/the-ai-agent-internet-is-here-how-websites-must-change-before-2027-e63dfd86b960?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Business Doesn’t Have a Visibility Problem. It Has a Timing Problem.](https://medium.com/@versatile_satin_sardine_119/your-business-doesnt-have-a-visibility-problem-it-has-a-timing-problem-bbbbf52c541c?source=rss------artificial_intelligence-5)**
+> 🔹 **[GEO vs. SEO: How to Optimize Your Content for AI Search Engines and LLMs](https://medium.com/@hafsatariq277/geo-vs-seo-how-to-optimize-your-content-for-ai-search-engines-and-llms-f9f39f861551?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Train an LLM: From Small Tasks to an Intelligent, Human-Like Model](https://medium.com/codetodeploy/how-to-train-an-llm-from-small-tasks-to-an-intelligent-human-like-model-e45811639bed?source=rss------artificial_intelligence-5)**
+> 🔹 **[Before Calling Astra Human-Level, Ask These Three Questions](https://medium.com/@firestorm-ai/before-calling-astra-human-level-ask-these-three-questions-87a14b64583b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
