@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your Spring Data Repository Has Become a Second Service Layer](https://medium.com/@serxanhamzayev/your-spring-data-repository-has-become-a-second-service-layer-28c149cb8449?source=rss------backend_development-5)**
-> 🔹 **[Is This the Best Free Image Generator You Can Actually Own? Stable Diffusion Explained](https://medium.com/@mayhemcode/is-this-the-best-free-image-generator-you-can-actually-own-stable-diffusion-explained-84f7e40edac8?source=rss------artificial_intelligence-5)**
-> 🔹 **[How would you build an AI model when you have very little labeled data?](https://medium.com/@hebsibanisha1230/how-would-you-build-an-ai-model-when-you-have-very-little-labeled-data-55cd01e90094?source=rss------artificial_intelligence-5)**
-> 🔹 **[Making a blog illustration inside a Claude conversation](https://medium.com/@xuxuanzhou2015/making-a-blog-illustration-inside-a-claude-conversation-f73b24367b2d?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Ecommerce to Agentic Commerce: The Next Evolution of Online Retail](https://medium.com/@afrin.fathima/from-ecommerce-to-agentic-commerce-the-next-evolution-of-online-retail-e8c0e725b810?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Don’t Need to Learn All of Computer Science to learn AI.](https://medium.com/@sumiranrai729/you-dont-need-to-learn-all-of-computer-science-to-learn-ai-e15b1593e0d2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Video Deepfake Detection Is Becoming Essential for Modern Digital Fraud Prevention](https://medium.com/@aartimaurya/video-deepfake-detection-is-becoming-essential-for-modern-digital-fraud-prevention-6d1fdde53cf2?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Thought I Had Three AI Backups. I Was Wrong](https://medium.com/design-bootcamp/i-thought-i-had-three-ai-backups-i-was-wrong-b0d9a47e8511?source=rss------artificial_intelligence-5)**
+> 🔹 **[An Amazon team opens Monday’s dashboard and finds a familiar contradiction.](https://medium.com/@marcdeluca/an-amazon-team-opens-mondays-dashboard-and-finds-a-familiar-contradiction-eb6a0a049f01?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Podcast Discovery Should Feel More Like “Video”](https://medium.com/@tommydelarosbil/why-podcast-discovery-should-feel-more-like-video-ae412ad96b23?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is an AI Dating Reply Generator? How RizzNext Helps You Know What to Say Next](https://medium.com/@vah7id/what-is-an-ai-dating-reply-generator-how-rizznext-helps-you-know-what-to-say-next-8de6afcee8d4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Autonomous Agents Have Started Probing an Internet Built for Humans](https://medium.com/after-the-update/autonomous-agents-have-started-probing-an-internet-built-for-humans-909ba4df636b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial intelligence is moving beyond experimentation.](https://medium.com/@omkar4648/artificial-intelligence-is-moving-beyond-experimentation-40464e2ccfbc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Does More Orchestration Make Better Research?](https://medium.com/@peter.mccann.strain/does-more-orchestration-make-better-research-85663ae5d2bb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Argument You Can’t Run](https://medium.com/@zwolf25/the-argument-you-cant-run-ae40c2d06667?source=rss------artificial_intelligence-5)**
+> 🔹 **[Finanstan Data ve AI’a: Kariyer Değişimim ve Workintech Deneyimim](https://datamesa.medium.com/finanstan-data-ve-aia-kariyer-de%C4%9Fi%C5%9Fimim-ve-workintech-deneyimim-c3bb6232d3d9?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
