@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[5 Ways GPT Astra Will Completely Rewire How You Interact With Reality](https://medium.com/@evander.croft/5-ways-gpt-astra-will-completely-rewire-how-you-interact-with-reality-b3601ce33a99?source=rss------artificial_intelligence-5)**
-> 🔹 **[Architecture Is All You Need: Gamify Building With AI, Skip the Syntax, Start Today](https://medium.com/@rondlanbr/architecture-is-all-you-need-gamify-building-with-ai-skip-the-syntax-start-today-a5450d540aa1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Inside Google’s Gen AI Kotlin SDK 1.0: Kotlin-First APIs and an Android Security Boundary](https://medium.com/@aniketindulkar/inside-googles-gen-ai-kotlin-sdk-1-0-kotlin-first-apis-and-an-android-security-boundary-15a127b5e49a?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Found 5 ways AI can Make You Money](https://medium.com/@wolfofwriting/i-found-5-ways-ai-can-make-you-money-687ebd744bfd?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI: Fast Learning or Slow Drain?](https://medium.com/@agarwalaryan308/ai-fast-learning-or-slow-drain-951fd4eed412?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Gap Between AI Hype and AI Capacity](https://medium.com/@johnkump7/the-gap-between-ai-hype-and-ai-capacity-141e91d3252a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Harness Matters More Than the Model](https://dorbd.medium.com/the-harness-matters-more-than-the-model-0ee4c140c412?source=rss------artificial_intelligence-5)**
-> 🔹 **[What is Claude Code? Everything You Need to Know](https://medium.com/@rawprince10/what-is-claude-code-everything-you-need-to-know-f5db4a0f3880?source=rss------artificial_intelligence-5)**
+> 🔹 **[An Alien Mind: OpenAI’s Chief Scientist Warns We’re Building AI We Can No Longer Understand](https://ai-engineering-trend.medium.com/an-alien-mind-openais-chief-scientist-warns-we-re-building-ai-we-can-no-longer-understand-88a18350cf88?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is 3D Object Generation?](https://medium.com/@3dobject/what-is-3d-object-generation-73b9f64bac33?source=rss------artificial_intelligence-5)**
+> 🔹 **[Adding a Message Queue to Your Node.js Microservices &lpar;AWS SQS + TypeScript&rpar;](https://medium.com/@chiragmehta900/adding-a-message-queue-to-your-node-js-microservices-aws-sqs-typescript-5c9d08576155?source=rss------backend_development-5)**
+> 🔹 **[The Best Developers in 2026 Aren’t Writing Code. They’re Deleting AI-Generated Code.](https://medium.com/@thedevnotebook/best-developers-delete-ai-generated-code-0eb2908d6fde?source=rss------artificial_intelligence-5)**
+> 🔹 **[OSINT Framework: The Map Every Investigator Needs &lpar;Part 1&rpar;](https://medium.com/@cyberfox282/osint-framework-the-map-every-investigator-needs-part-1-100ad7e262d3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Organizational Memory Problem: What Happens When Employees Take Knowledge With Them?](https://medium.com/@versatile_satin_sardine_119/the-organizational-memory-problem-what-happens-when-employees-take-knowledge-with-them-0b6db1aff61f?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Artificial Intelligence is Changing Science?](https://medium.com/@ivyvianneypeter/how-artificial-intelligence-is-changing-science-7875eabad965?source=rss------artificial_intelligence-5)**
+> 🔹 **[Papers Explained 611: Position Encodings in Transformers](https://ritvik19.medium.com/papers-explained-611-position-encodings-in-transformers-3dafda9e6f47?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
