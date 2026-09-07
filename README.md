@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[An Alien Mind: OpenAI’s Chief Scientist Warns We’re Building AI We Can No Longer Understand](https://ai-engineering-trend.medium.com/an-alien-mind-openais-chief-scientist-warns-we-re-building-ai-we-can-no-longer-understand-88a18350cf88?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is 3D Object Generation?](https://medium.com/@3dobject/what-is-3d-object-generation-73b9f64bac33?source=rss------artificial_intelligence-5)**
-> 🔹 **[Adding a Message Queue to Your Node.js Microservices &lpar;AWS SQS + TypeScript&rpar;](https://medium.com/@chiragmehta900/adding-a-message-queue-to-your-node-js-microservices-aws-sqs-typescript-5c9d08576155?source=rss------backend_development-5)**
-> 🔹 **[The Best Developers in 2026 Aren’t Writing Code. They’re Deleting AI-Generated Code.](https://medium.com/@thedevnotebook/best-developers-delete-ai-generated-code-0eb2908d6fde?source=rss------artificial_intelligence-5)**
-> 🔹 **[OSINT Framework: The Map Every Investigator Needs &lpar;Part 1&rpar;](https://medium.com/@cyberfox282/osint-framework-the-map-every-investigator-needs-part-1-100ad7e262d3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Organizational Memory Problem: What Happens When Employees Take Knowledge With Them?](https://medium.com/@versatile_satin_sardine_119/the-organizational-memory-problem-what-happens-when-employees-take-knowledge-with-them-0b6db1aff61f?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Artificial Intelligence is Changing Science?](https://medium.com/@ivyvianneypeter/how-artificial-intelligence-is-changing-science-7875eabad965?source=rss------artificial_intelligence-5)**
-> 🔹 **[Papers Explained 611: Position Encodings in Transformers](https://ritvik19.medium.com/papers-explained-611-position-encodings-in-transformers-3dafda9e6f47?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Spring Data Repository Has Become a Second Service Layer](https://medium.com/@serxanhamzayev/your-spring-data-repository-has-become-a-second-service-layer-28c149cb8449?source=rss------backend_development-5)**
+> 🔹 **[Is This the Best Free Image Generator You Can Actually Own? Stable Diffusion Explained](https://medium.com/@mayhemcode/is-this-the-best-free-image-generator-you-can-actually-own-stable-diffusion-explained-84f7e40edac8?source=rss------artificial_intelligence-5)**
+> 🔹 **[How would you build an AI model when you have very little labeled data?](https://medium.com/@hebsibanisha1230/how-would-you-build-an-ai-model-when-you-have-very-little-labeled-data-55cd01e90094?source=rss------artificial_intelligence-5)**
+> 🔹 **[Making a blog illustration inside a Claude conversation](https://medium.com/@xuxuanzhou2015/making-a-blog-illustration-inside-a-claude-conversation-f73b24367b2d?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Ecommerce to Agentic Commerce: The Next Evolution of Online Retail](https://medium.com/@afrin.fathima/from-ecommerce-to-agentic-commerce-the-next-evolution-of-online-retail-e8c0e725b810?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Don’t Need to Learn All of Computer Science to learn AI.](https://medium.com/@sumiranrai729/you-dont-need-to-learn-all-of-computer-science-to-learn-ai-e15b1593e0d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Video Deepfake Detection Is Becoming Essential for Modern Digital Fraud Prevention](https://medium.com/@aartimaurya/video-deepfake-detection-is-becoming-essential-for-modern-digital-fraud-prevention-6d1fdde53cf2?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Thought I Had Three AI Backups. I Was Wrong](https://medium.com/design-bootcamp/i-thought-i-had-three-ai-backups-i-was-wrong-b0d9a47e8511?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
