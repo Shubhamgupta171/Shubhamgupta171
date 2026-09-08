@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[An Amazon team opens Monday’s dashboard and finds a familiar contradiction.](https://medium.com/@marcdeluca/an-amazon-team-opens-mondays-dashboard-and-finds-a-familiar-contradiction-eb6a0a049f01?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Podcast Discovery Should Feel More Like “Video”](https://medium.com/@tommydelarosbil/why-podcast-discovery-should-feel-more-like-video-ae412ad96b23?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is an AI Dating Reply Generator? How RizzNext Helps You Know What to Say Next](https://medium.com/@vah7id/what-is-an-ai-dating-reply-generator-how-rizznext-helps-you-know-what-to-say-next-8de6afcee8d4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Autonomous Agents Have Started Probing an Internet Built for Humans](https://medium.com/after-the-update/autonomous-agents-have-started-probing-an-internet-built-for-humans-909ba4df636b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial intelligence is moving beyond experimentation.](https://medium.com/@omkar4648/artificial-intelligence-is-moving-beyond-experimentation-40464e2ccfbc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Does More Orchestration Make Better Research?](https://medium.com/@peter.mccann.strain/does-more-orchestration-make-better-research-85663ae5d2bb?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Argument You Can’t Run](https://medium.com/@zwolf25/the-argument-you-cant-run-ae40c2d06667?source=rss------artificial_intelligence-5)**
-> 🔹 **[Finanstan Data ve AI’a: Kariyer Değişimim ve Workintech Deneyimim](https://datamesa.medium.com/finanstan-data-ve-aia-kariyer-de%C4%9Fi%C5%9Fimim-ve-workintech-deneyimim-c3bb6232d3d9?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Remove LLM Refusal Guardrails](https://medium.com/@IamLucif3r/llm-abliteration-refusal-guardrails-f227460e2c7c?source=rss------artificial_intelligence-5)**
+> 🔹 **[GitHub Just Let Copilot Approve Pull Requests. That Changes What “Code Review” Means.](https://medium.com/@thedevnotebook/github-copilot-approve-pull-requests-code-review-c196913112d1?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Personalizing Skincare: Inside The $36 Billion Beauty Market Set To Surge By 2030](https://medium.com/@rakeshtbrc/ai-is-personalizing-skincare-inside-the-36-billion-beauty-market-set-to-surge-by-2030-a599de67d228?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is Artificial Intelligence? A Complete Guide for Businesses](https://medium.com/@kundhan1913/what-is-artificial-intelligence-a-complete-guide-for-businesses-caccaefafcbc?source=rss------artificial_intelligence-5)**
+> 🔹 **[When the Cost of Execution Falls: AI, New Work, and Economic Opportunity](https://medium.com/@takafumi.endo/when-the-cost-of-execution-falls-ai-new-work-and-economic-opportunity-2f63eb440f07?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Goldman Sachs Looks For in Data Scientists in 2026](https://bhaskarranjankarn.medium.com/what-goldman-sachs-looks-for-in-data-scientists-in-2026-6bf97b1d607e?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Get More Done Using AI — Without Working More Hours](https://medium.com/@msimoliunas/how-i-get-more-done-using-ai-without-working-more-hours-d498b18bc106?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Rejections Nobody Saw, The Rebuild Nobody Expected](https://blog.healthmanagement.in/the-rejections-nobody-saw-the-rebuild-nobody-expected-8e363e84bfc9?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
