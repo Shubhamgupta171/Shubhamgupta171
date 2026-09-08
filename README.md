@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Remove LLM Refusal Guardrails](https://medium.com/@IamLucif3r/llm-abliteration-refusal-guardrails-f227460e2c7c?source=rss------artificial_intelligence-5)**
-> 🔹 **[GitHub Just Let Copilot Approve Pull Requests. That Changes What “Code Review” Means.](https://medium.com/@thedevnotebook/github-copilot-approve-pull-requests-code-review-c196913112d1?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Personalizing Skincare: Inside The $36 Billion Beauty Market Set To Surge By 2030](https://medium.com/@rakeshtbrc/ai-is-personalizing-skincare-inside-the-36-billion-beauty-market-set-to-surge-by-2030-a599de67d228?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is Artificial Intelligence? A Complete Guide for Businesses](https://medium.com/@kundhan1913/what-is-artificial-intelligence-a-complete-guide-for-businesses-caccaefafcbc?source=rss------artificial_intelligence-5)**
-> 🔹 **[When the Cost of Execution Falls: AI, New Work, and Economic Opportunity](https://medium.com/@takafumi.endo/when-the-cost-of-execution-falls-ai-new-work-and-economic-opportunity-2f63eb440f07?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Goldman Sachs Looks For in Data Scientists in 2026](https://bhaskarranjankarn.medium.com/what-goldman-sachs-looks-for-in-data-scientists-in-2026-6bf97b1d607e?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Get More Done Using AI — Without Working More Hours](https://medium.com/@msimoliunas/how-i-get-more-done-using-ai-without-working-more-hours-d498b18bc106?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Rejections Nobody Saw, The Rebuild Nobody Expected](https://blog.healthmanagement.in/the-rejections-nobody-saw-the-rebuild-nobody-expected-8e363e84bfc9?source=rss------artificial_intelligence-5)**
+> 🔹 **[write](https://medium.com/@tajidachoudhury32/write-b13cd61031b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Meet Sadie: Building an Almost 100% Local Family AI](https://medium.com/@jamieeduncan/meet-sadie-building-an-almost-100-local-family-ai-88a2c9b55fc7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Before Calling AI Adoption Slow, Listen to the Question.](https://medium.com/@amakari.with.utaichira.ks/before-calling-ai-adoption-slow-listen-to-the-question-2f6f7948bd67?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Topological Deviance Survey](https://medium.com/@dom.pennock/the-topological-deviance-survey-1eb9ab27ccfa?source=rss------artificial_intelligence-5)**
+> 🔹 **[Storage Needs More Than a Place to Put Data](https://medium.com/@abubakar133/storage-needs-more-than-a-place-to-put-data-fc3374a4b18f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Designing one component for thousands of apps](https://medium.com/design-bootcamp/designing-one-component-for-thousands-of-apps-de021d5279ea?source=rss------system_design-5)**
+> 🔹 **[Side Hustle Summit Day 2 Recap](https://medium.com/@daniel.erinj/side-hustle-summit-day-2-recap-7c897e9787e2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Rogue AI Agents Are Real. The Real Failure Is Detection](https://medium.com/@inprogrammer651/rogue-ai-agents-are-real-the-real-failure-is-detection-8ee611bc36ff?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
