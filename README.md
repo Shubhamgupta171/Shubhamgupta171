@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Ai Prompts: Making Your Work Easier](https://medium.com/@primedigital/ai-prompts-making-your-work-easier-2fba0d0424d8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Gate of Silence: The Paradox of Becoming No One and Everything](https://medium.com/@tb2015yy/the-gate-of-silence-the-paradox-of-becoming-no-one-and-everything-2206aea9af4d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Ultimate Self-Hosted AI Stack for Developers: Build More, Spend Less](https://medium.com/@highsongs2020/the-ultimate-self-hosted-ai-stack-for-developers-build-more-spend-less-c167aee63c2c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Code shipped a command that tells you which of its own features are wasting your context](https://ai.plainenglish.io/claude-code-shipped-a-command-that-tells-you-which-of-its-own-features-are-wasting-your-context-544dbfcc94e8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Your Custom Element Isn’t Working in Forms](https://medium.com/tutorial-savvy/why-your-custom-element-isnt-working-in-forms-0558b0a2f293?source=rss------system_design-5)**
-> 🔹 **[Why Your Autonomous AI Agents Are Silently Murdering Your SRE Error Budget](https://medium.datadriveninvestor.com/why-your-autonomous-ai-agents-are-silently-murdering-your-sre-error-budget-3a5ced293bb1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Day Two Hit Different](https://medium.com/@ogunbiyijesutomisin/day-two-hit-different-957afdd05254?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Conative-Integrative Framework: How Active Inference and IIT 4.0](https://medium.com/@tron60586/the-conative-integrative-framework-how-active-inference-and-iit-4-0-107c8e345f6a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Finite Power, Infinite Ambition](https://medium.com/@johnkump7/finite-power-infinite-ambition-cc7eef51ddc0?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Want AI. Just Not the Data Centers Next Door.](https://abvcreative.medium.com/we-want-ai-just-not-the-data-centers-next-door-d6c5ca997ce2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Will AI Take My Job? I Build and Teach AI for a Living. Here’s What I Actually Think.](https://medium.com/@chandanharthi/will-ai-take-my-job-i-build-and-teach-ai-for-a-living-heres-what-i-actually-think-fa8ecf0b277a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Industry Is Investing in Itself](https://medium.com/@johnkump7/the-ai-industry-is-investing-in-itself-ee60bb37e58e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Express-Validator in Express.js: From Messy Controllers to Clean APIs.](https://medium.com/@bikisahu161/express-validator-in-express-js-from-messy-controllers-to-clean-apis-8eaeaaf6379a?source=rss------backend_development-5)**
+> 🔹 **[Express Validator Explained: From Messy Controllers to Clean Express APIs](https://medium.com/@khanhamzatz/express-validator-explained-from-messy-controllers-to-clean-express-apis-5604de9dcd36?source=rss------backend_development-5)**
+> 🔹 **[الخطأ الدلالي الصامت في الترجمة الآلية](https://medium.com/@asmaaeliwa2017/%D8%A7%D9%84%D8%AE%D8%B7%D8%A3-%D8%A7%D9%84%D8%AF%D9%84%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B5%D8%A7%D9%85%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%84%D8%A2%D9%84%D9%8A%D8%A9-eb532799d576?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI vs Traditional Content Creation: What Actually Works Better in 2026?](https://medium.com/@msimoliunas/ai-vs-traditional-content-creation-what-actually-works-better-in-2026-058b8716cd7c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
