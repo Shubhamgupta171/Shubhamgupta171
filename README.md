@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[write](https://medium.com/@tajidachoudhury32/write-b13cd61031b3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Meet Sadie: Building an Almost 100% Local Family AI](https://medium.com/@jamieeduncan/meet-sadie-building-an-almost-100-local-family-ai-88a2c9b55fc7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Before Calling AI Adoption Slow, Listen to the Question.](https://medium.com/@amakari.with.utaichira.ks/before-calling-ai-adoption-slow-listen-to-the-question-2f6f7948bd67?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Topological Deviance Survey](https://medium.com/@dom.pennock/the-topological-deviance-survey-1eb9ab27ccfa?source=rss------artificial_intelligence-5)**
-> 🔹 **[Storage Needs More Than a Place to Put Data](https://medium.com/@abubakar133/storage-needs-more-than-a-place-to-put-data-fc3374a4b18f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Designing one component for thousands of apps](https://medium.com/design-bootcamp/designing-one-component-for-thousands-of-apps-de021d5279ea?source=rss------system_design-5)**
-> 🔹 **[Side Hustle Summit Day 2 Recap](https://medium.com/@daniel.erinj/side-hustle-summit-day-2-recap-7c897e9787e2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Rogue AI Agents Are Real. The Real Failure Is Detection](https://medium.com/@inprogrammer651/rogue-ai-agents-are-real-the-real-failure-is-detection-8ee611bc36ff?source=rss------artificial_intelligence-5)**
+> 🔹 **[Ai Prompts: Making Your Work Easier](https://medium.com/@primedigital/ai-prompts-making-your-work-easier-2fba0d0424d8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Gate of Silence: The Paradox of Becoming No One and Everything](https://medium.com/@tb2015yy/the-gate-of-silence-the-paradox-of-becoming-no-one-and-everything-2206aea9af4d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Ultimate Self-Hosted AI Stack for Developers: Build More, Spend Less](https://medium.com/@highsongs2020/the-ultimate-self-hosted-ai-stack-for-developers-build-more-spend-less-c167aee63c2c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Code shipped a command that tells you which of its own features are wasting your context](https://ai.plainenglish.io/claude-code-shipped-a-command-that-tells-you-which-of-its-own-features-are-wasting-your-context-544dbfcc94e8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Your Custom Element Isn’t Working in Forms](https://medium.com/tutorial-savvy/why-your-custom-element-isnt-working-in-forms-0558b0a2f293?source=rss------system_design-5)**
+> 🔹 **[Why Your Autonomous AI Agents Are Silently Murdering Your SRE Error Budget](https://medium.datadriveninvestor.com/why-your-autonomous-ai-agents-are-silently-murdering-your-sre-error-budget-3a5ced293bb1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day Two Hit Different](https://medium.com/@ogunbiyijesutomisin/day-two-hit-different-957afdd05254?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Conative-Integrative Framework: How Active Inference and IIT 4.0](https://medium.com/@tron60586/the-conative-integrative-framework-how-active-inference-and-iit-4-0-107c8e345f6a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
