@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Java’s age is its AI superpower](https://stackoverflow.blog/2026/09/09/java-s-age-is-its-ai-superpower/)**
-> 🔹 **[Frontend vs Backend Development: Which One Should You Actually Learn?](https://medium.com/@kundhan1913/frontend-vs-backend-development-which-one-should-you-actually-learn-993f1927983a?source=rss------backend_development-5)**
-> 🔹 **[AI in Our Daily Lives: How Artificial Intelligence Makes Life Easier](https://medium.com/@sanjaykumar13090901/ai-in-our-daily-lives-how-artificial-intelligence-makes-life-easier-fb6c40c1c364?source=rss------artificial_intelligence-5)**
-> 🔹 **[Calm, Everyday Support](https://medium.com/@careflickmarketing/calm-everyday-support-37c58a18cc53?source=rss------artificial_intelligence-5)**
-> 🔹 **[Teaching a Transformer to Forge Economic History: A Conditional Transformer-GAN for Multivariat...](https://medium.com/programmed-iq/teaching-a-transformer-to-forge-economic-history-a-conditional-transformer-gan-for-multivariate-e83903d73927?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Automation Test Failed. Should AI Fix It Automatically?](https://medium.com/@to.soniaakhter/your-automation-test-failed-should-ai-fix-it-automatically-1fd01c897740?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cómo entrené mi primera IA sin saber programar inteligencia artificial](https://medium.com/@jcanuldedios/c%C3%B3mo-entren%C3%A9-mi-primera-ia-sin-saber-programar-inteligencia-artificial-469c27987f06?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 AI Prompts Every Student Should Know](https://medium.com/@tanviitaliya8095/5-ai-prompts-every-student-should-know-a75d838e65d0?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPT Image 2.5 turns AI images into a production loop](https://medium.com/data-science-collective/gpt-image-2-5-turns-ai-images-into-a-production-loop-6d582725b950?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can Runaway AI Robots Still Be Stopped?](https://medium.com/@chikara.01.2001/can-runaway-ai-robots-still-be-stopped-0571c81f7108?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPT-6 Astra Is Here. Should CSE Students Be Scared?](https://medium.com/@rtiyw/gpt-6-astra-is-here-should-cse-students-be-scared-5bbbed0b5fe5?source=rss------artificial_intelligence-5)**
+> 🔹 **[You’re Probably Reading AI-Generated Writing Right Now. You Just Don’t Know It.](https://medium.com/@muhammadahmad03666/youre-probably-reading-ai-generated-writing-right-now-you-just-don-t-know-it-7538b87a88f8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Convenience Trap: When Saving Time Costs Us Understanding](https://medium.com/@attaullahzaib/the-ai-convenience-trap-when-saving-time-costs-us-understanding-0946a3e97333?source=rss------artificial_intelligence-5)**
+> 🔹 **[WebMCP: Making Web More Accessible To AI agents](https://amangupta-me.medium.com/webmcp-making-web-more-accessible-to-ai-agents-d201dc516be3?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Pastor’s View of Work and AI](https://clearpurpose.media/a-pastors-view-of-work-and-ai-2bef598508f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Fails Differently Than Software](https://medium.com/@jitusat/ai-fails-differently-than-software-942c63f65cc9?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
