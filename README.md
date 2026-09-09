@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[DSA Patterns #34 —  The Bit Patterns That Unlock Hard Problems](https://medium.com/codetodeploy/dsa-patterns-34-the-bit-patterns-that-unlock-hard-problems-8308e5794a4e?source=rss------data_structures-5)**
-> 🔹 **[The AI Outage Nobody Could Explain: What September 3 Revealed About Cloud Dependence](https://medium.com/@loengnavy/the-ai-outage-nobody-could-explain-what-september-3-revealed-about-cloud-dependence-9794fb965c6f?source=rss------artificial_intelligence-5)**
-> 🔹 **[DSA Patterns #38 —  BFS in Trees: Solving Problems One Level at a Time](https://medium.com/codetodeploy/dsa-patterns-38-bfs-in-trees-solving-problems-one-level-at-a-time-c74a3c8dd779?source=rss------data_structures-5)**
-> 🔹 **[What People Mean When They Press Ctrl+Z: Rethinking Undo for the Age of AI](https://medium.com/@marah_80362/what-people-mean-when-they-press-ctrl-z-rethinking-undo-for-the-age-of-ai-4e9d207a5235?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Software Engineering Job Market Has Changed in 3 Major Ways — and Layoffs Are Only One Part...](https://medium.com/@naro7217/the-software-engineering-job-market-has-changed-in-3-major-ways-and-layoffs-are-only-one-part-of-48d77ab66eeb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is Programming Really Dead? What Developers Should Learn in the AI Era](https://medium.com/@naro7217/is-programming-really-dead-what-developers-should-learn-in-the-ai-era-52b3cc1cc55a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Galactic Thinker — A.I. Search Summaries vs. Reality](https://wbiro.medium.com/the-galactic-thinker-a-i-search-summaries-vs-reality-1c26029c73ab?source=rss------artificial_intelligence-5)**
-> 🔹 **[Suno AI Music Prompting Guide: Tips That Actually Work &lpar;2026&rpar;](https://medium.com/write-your-world/suno-ai-music-prompting-guide-tips-that-actually-work-2026-f4f9df5f8128?source=rss------artificial_intelligence-5)**
+> 🔹 **[Full-Text Search with SQL Server](https://medium.com/@AlexanderObregon/full-text-search-with-sql-server-e1bcd7bee01f?source=rss------backend_development-5)**
+> 🔹 **[Types of SQL Commands: DDL, DML, DQL, DCL &amp; TCL](https://medium.com/@rajesh_data_ai/types-of-sql-commands-ddl-dml-dql-dcl-tcl-08bece59c46d?source=rss------artificial_intelligence-5)**
+> 🔹 **[White Rabbit — TryHackMe CTF Walkthrough | DarkRX](https://medium.com/@darkrx001/white-rabbit-tryhackme-ctf-walkthrough-darkrx-c5d23b3ca2d3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Could A.I. Be Humanity’s Waterworld?](https://medium.com/@plsutton12/could-a-i-be-humanitys-waterworld-26b1f852e63d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Part III of *The Body They Are Building*.](https://medium.com/@MxBv/part-iii-of-the-body-they-are-building-5ec181bcc3ab?source=rss------artificial_intelligence-5)**
+> 🔹 **[​THE NEW TRANSHUMAN DIVERGENCE](https://medium.com/@shauna.collins_3762/the-new-transhuman-divergence-cc4cb8e78273?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPT-6 Astra Scored 83% Without Showing Its Work](https://medium.com/@marlonsteiner/gpt-6-astra-scored-83-without-showing-its-work-aecad96bfb1b?source=rss------artificial_intelligence-5)**
+> 🔹 **[10 Digital Product Ideas You Can Create With AI](https://medium.com/@PlanoraNext/10-digital-product-ideas-you-can-create-with-ai-bcbca9d679bd?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
