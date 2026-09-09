@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[GPT Image 2.5 turns AI images into a production loop](https://medium.com/data-science-collective/gpt-image-2-5-turns-ai-images-into-a-production-loop-6d582725b950?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can Runaway AI Robots Still Be Stopped?](https://medium.com/@chikara.01.2001/can-runaway-ai-robots-still-be-stopped-0571c81f7108?source=rss------artificial_intelligence-5)**
-> 🔹 **[GPT-6 Astra Is Here. Should CSE Students Be Scared?](https://medium.com/@rtiyw/gpt-6-astra-is-here-should-cse-students-be-scared-5bbbed0b5fe5?source=rss------artificial_intelligence-5)**
-> 🔹 **[You’re Probably Reading AI-Generated Writing Right Now. You Just Don’t Know It.](https://medium.com/@muhammadahmad03666/youre-probably-reading-ai-generated-writing-right-now-you-just-don-t-know-it-7538b87a88f8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Convenience Trap: When Saving Time Costs Us Understanding](https://medium.com/@attaullahzaib/the-ai-convenience-trap-when-saving-time-costs-us-understanding-0946a3e97333?source=rss------artificial_intelligence-5)**
-> 🔹 **[WebMCP: Making Web More Accessible To AI agents](https://amangupta-me.medium.com/webmcp-making-web-more-accessible-to-ai-agents-d201dc516be3?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Pastor’s View of Work and AI](https://clearpurpose.media/a-pastors-view-of-work-and-ai-2bef598508f6?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Fails Differently Than Software](https://medium.com/@jitusat/ai-fails-differently-than-software-942c63f65cc9?source=rss------artificial_intelligence-5)**
+> 🔹 **[DSA Patterns #34 —  The Bit Patterns That Unlock Hard Problems](https://medium.com/codetodeploy/dsa-patterns-34-the-bit-patterns-that-unlock-hard-problems-8308e5794a4e?source=rss------data_structures-5)**
+> 🔹 **[The AI Outage Nobody Could Explain: What September 3 Revealed About Cloud Dependence](https://medium.com/@loengnavy/the-ai-outage-nobody-could-explain-what-september-3-revealed-about-cloud-dependence-9794fb965c6f?source=rss------artificial_intelligence-5)**
+> 🔹 **[DSA Patterns #38 —  BFS in Trees: Solving Problems One Level at a Time](https://medium.com/codetodeploy/dsa-patterns-38-bfs-in-trees-solving-problems-one-level-at-a-time-c74a3c8dd779?source=rss------data_structures-5)**
+> 🔹 **[What People Mean When They Press Ctrl+Z: Rethinking Undo for the Age of AI](https://medium.com/@marah_80362/what-people-mean-when-they-press-ctrl-z-rethinking-undo-for-the-age-of-ai-4e9d207a5235?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Software Engineering Job Market Has Changed in 3 Major Ways — and Layoffs Are Only One Part...](https://medium.com/@naro7217/the-software-engineering-job-market-has-changed-in-3-major-ways-and-layoffs-are-only-one-part-of-48d77ab66eeb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is Programming Really Dead? What Developers Should Learn in the AI Era](https://medium.com/@naro7217/is-programming-really-dead-what-developers-should-learn-in-the-ai-era-52b3cc1cc55a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Galactic Thinker — A.I. Search Summaries vs. Reality](https://wbiro.medium.com/the-galactic-thinker-a-i-search-summaries-vs-reality-1c26029c73ab?source=rss------artificial_intelligence-5)**
+> 🔹 **[Suno AI Music Prompting Guide: Tips That Actually Work &lpar;2026&rpar;](https://medium.com/write-your-world/suno-ai-music-prompting-guide-tips-that-actually-work-2026-f4f9df5f8128?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
