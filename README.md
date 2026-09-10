@@ -34,16 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Interface Is Only the Face](https://medium.com/@f.brinkmann-design/the-interface-is-only-the-face-6fc284bb1972?source=rss------system_design-5)**
-> 🔹 **[GPT-6 Astra: The Shift from AI Assistant to AI Worker](https://medium.com/@techybob/gpt-6-astra-the-shift-from-ai-assistant-to-ai-worker-fbb57325d982?source=rss------artificial_intelligence-5)**
-> 🔹 **[So, What Is AI Actually Good For?](https://medium.com/@vamshi.pirampalli/so-what-is-ai-actually-good-for-d8a5db3b06b8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Meta’s Muse Doesn’t Want to Answer Your Questions — It Wants to Do Your Chores](https://medium.com/@k.pranav_22/metas-muse-doesn-t-want-to-answer-your-questions-it-wants-to-do-your-chores-5e75680a1e23?source=rss------artificial_intelligence-5)**
-> 🔹 **[Free AI Writing Tools 2026: 5 Tools That Can Save Content Creators Hours
-Creating good content...](https://medium.com/@siamlove61yt/free-ai-writing-tools-2026-5-tools-that-can-save-content-creators-hours-creating-good-content-is-cc0e880074d1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ketika Kita Tidak Lagi Tahu Mana yang Nyata: Hidup di Era Konten AI](https://medium.com/@priskamaulidiara/ketika-kita-tidak-lagi-tahu-mana-yang-nyata-hidup-di-era-konten-ai-d94aa4d77a0c?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenAI releases Astra AI model](https://medium.com/startupreviews/openai-releases-astra-ai-model-ea925987de9a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Data Doesn’t Need Another Owner — It Needs Decision Rights
-&quot;Who owns this data?&quot;](https://medium.com/@bangismathias10/your-data-doesnt-need-another-owner-it-needs-decision-rights-who-owns-this-data-d4d15177197e?source=rss------artificial_intelligence-5)**
+> 🔹 **[ProcureGuard: Building an Autonomous 4-Agent Fraud Detection Engine on Google Cloud](https://medium.com/@kolanurenuka3/procureguard-building-an-autonomous-4-agent-fraud-detection-engine-on-google-cloud-79af0713e7fa?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Does “Production Ready” Mean for an AI Feature?](https://heartbeat.comet.ml/what-does-production-ready-mean-for-an-ai-feature-86b4c00bdf5f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future of AI Won’t Feel Like Science Fiction — It’ll Feel Like Nothing at All](https://medium.com/@jaszk3450/the-future-of-ai-wont-feel-like-science-fiction-it-ll-feel-like-nothing-at-all-c8b473bca074?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Not Coming for Junior Developers. It Is Coming for Mediocre Senior Engineers.](https://medium.com/javarevisited/ai-is-not-coming-for-junior-developers-it-is-coming-for-mediocre-senior-engineers-9812db573100?source=rss------artificial_intelligence-5)**
+> 🔹 **[Our Senior Engineer Banned AI-Generated Code. Two Weeks Later, He Was the Bottleneck.](https://medium.com/javarevisited/our-senior-engineer-banned-ai-generated-code-two-weeks-later-he-was-the-bottleneck-e7a9adde9722?source=rss------artificial_intelligence-5)**
+> 🔹 **[Data Leakage in Machine Learning: How to Detect and Prevent It](https://medium.com/@ahmedarafat246810/data-leakage-in-machine-learning-how-to-detect-and-prevent-it-0fb42b5555b5?source=rss------artificial_intelligence-5)**
+> 🔹 **[VitalSync: Closing the Loop Between a Doctor’s Desk and a Patient’s Plate](https://medium.com/@tejadeepthy89/vitalsync-closing-the-loop-between-a-doctors-desk-and-a-patient-s-plate-2469e7b0e60e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Does Not Need Consciousness to Become Dangerous](https://medium.com/@francesco.cozzolino/why-ai-does-not-need-consciousness-to-become-dangerous-d40e44d6ec3d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
