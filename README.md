@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Muse by Meta: The New Personal AI Agent That Can Actually Do Things](https://medium.com/@techassistant.hub/muse-by-meta-the-new-personal-ai-agent-that-can-actually-do-things-053214eef2df?source=rss------artificial_intelligence-5)**
-> 🔹 **[Title: AI Product Title Generator Tools in 2026: 10 Best Tools for E-Commerce Sellers
-Writing…](https://medium.com/@contact_65072/title-ai-product-title-generator-tools-in-2026-10-best-tools-for-e-commerce-sellers-writing-5db91c780d34?source=rss------artificial_intelligence-5)**
-> 🔹 **[Spring AI and ChatClient — Complete Beginer to Advanced Guide](https://medium.com/@mahimaallu16/spring-ai-and-chatclient-complete-beginer-to-advanced-guide-e1f3c423dd8c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Do You Even Remember Life Before AI?](https://medium.com/@athmaja.charles/do-you-even-remember-life-before-ai-f17033e2a391?source=rss------artificial_intelligence-5)**
-> 🔹 **[OSINT Framework: How to Actually Use It &lpar;Part 2&rpar;](https://medium.com/@cyberfox282/osint-framework-how-to-actually-use-it-part-2-082ac690f100?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Front Desk for Dental Practices: Never Miss a Call Again](https://medium.com/@swapnil_42292/the-ai-front-desk-for-dental-practices-never-miss-a-call-again-2f93c6ab39a5?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested 9 AI Agent Frameworks. Popularity Had Almost Nothing to Do With Performance.](https://medium.com/@shreetejghodekar/i-tested-9-ai-agent-frameworks-popularity-had-almost-nothing-to-do-with-performance-34f0b732f872?source=rss------artificial_intelligence-5)**
-> 🔹 **[About AI #2x01: AI Is Evolving. But Why Is It Getting Harder to Find Where Things Are?](https://medium.com/my-opinion-diaries/about-ai-2x01-ai-is-evolving-but-why-is-it-getting-harder-to-find-where-things-are-119d6ff045ce?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 Career Development Traps Holding Your People Back](https://medium.com/@james.brook_talentpredix/7-career-development-traps-holding-your-people-back-581d6201a0a6?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Death of the Studio Factory: Why the Future of Cinema Belongs to the Sovereign Auteur by Ad...](https://adelabdeldayem.medium.com/the-death-of-the-studio-factory-why-the-future-of-cinema-belongs-to-the-sovereign-auteur-by-adel-e47faf60e50c?source=rss------artificial_intelligence-5)**
+> 🔹 **[I tried writing every PR description with an AI agent for a month. My team noticed.](https://medium.com/codetodeploy/i-tried-writing-every-pr-description-with-an-ai-agent-for-a-month-my-team-noticed-be269f51dc77?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Corporate IT Training Mistakes That Waste More Money Than the Course Itself](https://medium.com/@maman_61682/the-corporate-it-training-mistakes-that-waste-more-money-than-the-course-itself-dd05f0c2cb18?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best AI Agents for DevOps Engineers Course | Visualpath](https://medium.com/@uvamsik2/best-ai-agents-for-devops-engineers-course-visualpath-df8069d0b800?source=rss------artificial_intelligence-5)**
+> 🔹 **[Token Economics for Business: What Your AI Feature Actually Pays For](https://leobit.medium.com/token-economics-for-business-what-your-ai-feature-actually-pays-for-429877dbf03d?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agent SLA: What to Promise a Client](https://corranforce.medium.com/ai-agent-sla-what-to-promise-a-client-da82d6db83c0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Life Takes a Full Circle](https://medium.com/@hozefamatiwala/life-takes-a-full-circle-0ad7c0e8e069?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
