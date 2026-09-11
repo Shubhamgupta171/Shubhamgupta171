@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Touching bases on my Journrey to Cracked Dev progress so far!](https://medium.com/@rbray77777/touching-bases-on-my-journrey-to-cracked-dev-progress-so-far-352df0f0a04b?source=rss------backend_development-5)**
-> 🔹 **[telegram](https://medium.com/@bofeni3335/telegram-99ba9f024b14?source=rss------artificial_intelligence-5)**
-> 🔹 **[MLOps for Healthcare AI: CI/CD Pipelines That Actually Work](https://medium.com/@rudradcruze/mlops-for-healthcare-ai-ci-cd-pipelines-that-actually-work-d94926ba81bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[In-Store Conversation Intelligence: How It Works, What It Costs, What to Ask a Vendor](https://medium.com/@singh.yash.d/in-store-conversation-intelligence-how-it-works-what-it-costs-what-to-ask-a-vendor-48ba63dd0b35?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Asked Claude, GPT, and Kimi the Same Hard Question.](https://medium.com/@ravinduhimansha99/i-asked-claude-gpt-and-kimi-the-same-hard-question-28540c224d3e?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a Real-Time Voice Agent and the Hardest Part Was Getting It to Shut Up](https://medium.com/@ashrayadhikari/i-built-a-real-time-voice-agent-and-the-hardest-part-was-getting-it-to-shut-up-18c8809ea916?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Smart Money is Buying $AXG: $2.20 Micro-Cap, Ahead of the Sept 15 CLARITY Act](https://medium.com/@fasttape/why-smart-money-is-buying-axg-2-20-micro-cap-ahead-of-the-sept-15-clarity-act-b1658ff8bf65?source=rss------artificial_intelligence-5)**
-> 🔹 **[20,000 articles later, this is the ten-point check](https://itspalashjain.medium.com/20-000-articles-later-this-is-the-ten-point-check-e4128417bffb?source=rss------artificial_intelligence-5)**
+> 🔹 **[satomagazine.xyz &lpar;Diciembre 2026&rpar;](https://medium.com/@reactysoft/satomagazine-xyz-diciembre-2026-8ba44ee7cb47?source=rss------artificial_intelligence-5)**
+> 🔹 **[How US Athletes Are Using AI Sub-Routines to Bypass Corrupted Fitness App Paywalls in 2026 ⚡](https://medium.com/@pulsefit.app.support/how-us-athletes-are-using-ai-sub-routines-to-bypass-corrupted-fitness-app-paywalls-in-2026-3bac0debdee2?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Visual Analytics Improves Logistics Operations](https://medium.com/@rashid3433/how-visual-analytics-improves-logistics-operations-c7e5715e0c49?source=rss------artificial_intelligence-5)**
+> 🔹 **[Visual Analytics for Workforce and Capacity Planning](https://medium.com/@rashid3433/visual-analytics-for-workforce-and-capacity-planning-c70c13452dfc?source=rss------artificial_intelligence-5)**
+> 🔹 **[When the Architects Tremble: AI, a 10% Chance of Doom, and the Ancient Quest for Control](https://medium.com/@root.to.fruit.social/when-the-architects-tremble-ai-a-10-chance-of-doom-and-the-ancient-quest-for-control-61d990aafa1b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Understanding Bitcask, Part 1: Append-Only Storage, KeyDir, and Safe Compaction](https://medium.com/@lakshyaa149/bitcask-deep-dive-1-b3e63fff003e?source=rss------system_design-5)**
+> 🔹 **[The GPT-6 Astra Launch Drama: Did an Open-Source Leak Just Neutralize OpenAI’s Newest Model?](https://medium.com/@chatgpt6astra/the-gpt-6-astra-launch-drama-did-an-open-source-leak-just-neutralize-openais-newest-model-6e8a0817044c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How LangGraph Actually Implements Checkpointing: Thread IDs, Checkpointers, and Where State Liv...](https://medium.com/@tpriya27/how-langgraph-actually-implements-checkpointing-thread-ids-checkpointers-and-where-state-lives-53a673a751cc?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
