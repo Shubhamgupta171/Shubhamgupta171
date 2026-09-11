@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Coding Has Become Faster; The Role of Software Engineering Has Become More Important](https://vahid-faraji-dev.medium.com/coding-has-become-faster-the-role-of-software-engineering-has-become-more-important-7dfb782db765?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Ex-Colleague Told Me to Take a Grokking System Design Course. He Forgot to Say Which One](https://medium.com/@kei.zee/my-ex-colleague-told-me-to-take-a-grokking-system-design-course-he-forgot-to-say-which-one-430f027bf231?source=rss------system_design-5)**
-> 🔹 **[DeepSeek V4.1-Flash takes over from V4-Pro after 32 days and it is worse](https://medium.com/data-science-collective/deepseek-v4-1-flash-takes-over-from-v4-pro-after-32-days-and-it-is-worse-0f1e25124acc?source=rss------artificial_intelligence-5)**
-> 🔹 **[NetSuite Next &lpar;2026.2&rpar;: An Operator’s Migration Memo &lpar;What to Test Before You Flip the Switch&rpar;](https://medium.com/@TopSource.Global/netsuite-next-2026-2-an-operators-migration-memo-what-to-test-before-you-flip-the-switch-5859b65b89fb?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Multiple Bids to the Right Award: Why Scenario Optimization Matters in Strategic Sourcing](https://medium.com/@aashimaSourcingAcumen/from-multiple-bids-to-the-right-award-why-scenario-optimization-matters-in-strategic-sourcing-a342a8c91c21?source=rss------artificial_intelligence-5)**
-> 🔹 **[Future Friday: The AI Panic of 2030 — Why We’re Still the Drivers](https://medium.com/@javaskr/future-friday-the-ai-panic-of-2030-why-were-still-the-drivers-0d98f2ec94ac?source=rss------artificial_intelligence-5)**
-> 🔹 **[Tablonuz 6 Ay Önce Hızlıydı, Şimdi Değil: PostgreSQL’de Bloat](https://medium.com/@sivrieraycan/tablonuz-6-ay-%C3%B6nce-h%C4%B1zl%C4%B1yd%C4%B1-%C5%9Fimdi-de%C4%9Fil-postgresqlde-bloat-7627dfa1ceab?source=rss------backend_development-5)**
-> 🔹 **[Securing AI Agents: The New Cybersecurity Challenge for Businesses](https://medium.com/@harshitayadav954/securing-ai-agents-the-new-cybersecurity-challenge-for-businesses-30ad938174be?source=rss------artificial_intelligence-5)**
+> 🔹 **[Touching bases on my Journrey to Cracked Dev progress so far!](https://medium.com/@rbray77777/touching-bases-on-my-journrey-to-cracked-dev-progress-so-far-352df0f0a04b?source=rss------backend_development-5)**
+> 🔹 **[telegram](https://medium.com/@bofeni3335/telegram-99ba9f024b14?source=rss------artificial_intelligence-5)**
+> 🔹 **[MLOps for Healthcare AI: CI/CD Pipelines That Actually Work](https://medium.com/@rudradcruze/mlops-for-healthcare-ai-ci-cd-pipelines-that-actually-work-d94926ba81bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[In-Store Conversation Intelligence: How It Works, What It Costs, What to Ask a Vendor](https://medium.com/@singh.yash.d/in-store-conversation-intelligence-how-it-works-what-it-costs-what-to-ask-a-vendor-48ba63dd0b35?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Asked Claude, GPT, and Kimi the Same Hard Question.](https://medium.com/@ravinduhimansha99/i-asked-claude-gpt-and-kimi-the-same-hard-question-28540c224d3e?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Real-Time Voice Agent and the Hardest Part Was Getting It to Shut Up](https://medium.com/@ashrayadhikari/i-built-a-real-time-voice-agent-and-the-hardest-part-was-getting-it-to-shut-up-18c8809ea916?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Smart Money is Buying $AXG: $2.20 Micro-Cap, Ahead of the Sept 15 CLARITY Act](https://medium.com/@fasttape/why-smart-money-is-buying-axg-2-20-micro-cap-ahead-of-the-sept-15-clarity-act-b1658ff8bf65?source=rss------artificial_intelligence-5)**
+> 🔹 **[20,000 articles later, this is the ten-point check](https://itspalashjain.medium.com/20-000-articles-later-this-is-the-ten-point-check-e4128417bffb?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
