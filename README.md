@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI cybersecurity is a cat and mouse game](https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/)**
-> 🔹 **[3 Free AI Tools That Will Save You 20+ Hours a Week](https://medium.com/@vikashyadav259599/3-free-ai-tools-that-will-save-you-20-hours-a-week-14422b7dd668?source=rss------artificial_intelligence-5)**
-> 🔹 **[ServiceNow Isn’t Dying. The Idea That Work Happens Inside It Is.](https://medium.com/@wojahn_20314/servicenow-isnt-dying-the-idea-that-work-happens-inside-it-is-9086ebe104c3?source=rss------artificial_intelligence-5)**
-> 🔹 **[8 Insane Things People Are Actually Doing With GPT-6 Astra &lpar;Not the “Write My Email” Stuff&rpar;](https://medium.com/@trends24/8-insane-things-people-are-actually-doing-with-gpt-6-astra-not-the-write-my-email-stuff-229990df295d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Testing Node.js + TypeScript APIs the Right Way &lpar;Vitest + Supertest&rpar;](https://medium.com/@chiragmehta900/testing-node-js-typescript-apis-the-right-way-vitest-supertest-615106284952?source=rss------backend_development-5)**
-> 🔹 **[Isn’t It Ironic?](https://medium.com/@Gbgrow/isnt-it-ironic-4f0f91cb65c7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Solved Output Initialization &lpar;SOI&rpar;: solving the output layer first may make training faster](https://medium.com/@ceo_44783/solved-output-initialization-soi-solving-the-output-layer-first-may-make-training-faster-b436b974ae1b?source=rss------artificial_intelligence-5)**
-> 🔹 **[India doesn’t have an AI adoption problem. It has an AI trust and scaling problem.](https://medium.com/@gaurav.ai.pro/india-doesnt-have-an-ai-adoption-problem-it-has-an-ai-trust-and-scaling-problem-9d4155489029?source=rss------artificial_intelligence-5)**
+> 🔹 **[Coding Has Become Faster; The Role of Software Engineering Has Become More Important](https://vahid-faraji-dev.medium.com/coding-has-become-faster-the-role-of-software-engineering-has-become-more-important-7dfb782db765?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Ex-Colleague Told Me to Take a Grokking System Design Course. He Forgot to Say Which One](https://medium.com/@kei.zee/my-ex-colleague-told-me-to-take-a-grokking-system-design-course-he-forgot-to-say-which-one-430f027bf231?source=rss------system_design-5)**
+> 🔹 **[DeepSeek V4.1-Flash takes over from V4-Pro after 32 days and it is worse](https://medium.com/data-science-collective/deepseek-v4-1-flash-takes-over-from-v4-pro-after-32-days-and-it-is-worse-0f1e25124acc?source=rss------artificial_intelligence-5)**
+> 🔹 **[NetSuite Next &lpar;2026.2&rpar;: An Operator’s Migration Memo &lpar;What to Test Before You Flip the Switch&rpar;](https://medium.com/@TopSource.Global/netsuite-next-2026-2-an-operators-migration-memo-what-to-test-before-you-flip-the-switch-5859b65b89fb?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Multiple Bids to the Right Award: Why Scenario Optimization Matters in Strategic Sourcing](https://medium.com/@aashimaSourcingAcumen/from-multiple-bids-to-the-right-award-why-scenario-optimization-matters-in-strategic-sourcing-a342a8c91c21?source=rss------artificial_intelligence-5)**
+> 🔹 **[Future Friday: The AI Panic of 2030 — Why We’re Still the Drivers](https://medium.com/@javaskr/future-friday-the-ai-panic-of-2030-why-were-still-the-drivers-0d98f2ec94ac?source=rss------artificial_intelligence-5)**
+> 🔹 **[Tablonuz 6 Ay Önce Hızlıydı, Şimdi Değil: PostgreSQL’de Bloat](https://medium.com/@sivrieraycan/tablonuz-6-ay-%C3%B6nce-h%C4%B1zl%C4%B1yd%C4%B1-%C5%9Fimdi-de%C4%9Fil-postgresqlde-bloat-7627dfa1ceab?source=rss------backend_development-5)**
+> 🔹 **[Securing AI Agents: The New Cybersecurity Challenge for Businesses](https://medium.com/@harshitayadav954/securing-ai-agents-the-new-cybersecurity-challenge-for-businesses-30ad938174be?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
