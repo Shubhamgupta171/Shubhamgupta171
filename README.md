@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[OpenAI Didn’t Just Solve a Math Problem — It Prototyped a New Way to Do Research](https://jinlow.medium.com/openai-didnt-just-solve-a-math-problem-it-prototyped-a-new-way-to-do-research-e45406a56569?source=rss------artificial_intelligence-5)**
-> 🔹 **[GPT-6 Astra: The next generation in intelligence for work](https://medium.com/@mohanrukshika054/gpt-6-astra-the-next-generation-in-intelligence-for-work-770ff662c0bd?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Teams Actually Use AI Every Day: Tools, Workflows, and Results](https://medium.com/technology-hits/how-teams-actually-use-ai-every-day-tools-workflows-and-results-ae494e4ca091?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Machines Learn to Understand Human Language: The Hidden Complexity of Natural Language…](https://medium.com/@cnh.zzt/how-machines-learn-to-understand-human-language-the-hidden-complexity-of-natural-language-7bcda1f75a8a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is the iPhone 18 Pro a true generational leap?](https://medium.com/technology-hits/apple-iphone-18-pro-generational-leap-b6bff55c11c8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Python vs Node.js for API Development: Which Is Best for Businesses in India in 2026?](https://medium.com/@contact.cyberathon/python-vs-node-js-for-api-development-which-is-best-for-businesses-in-india-in-2026-25049159cda3?source=rss------backend_development-5)**
-> 🔹 **[From Product to Person: What Happens When Machines Shape the Language of Beauty?](https://medium.com/@dean_54835/from-product-to-person-what-happens-when-machines-shape-the-language-of-beauty-00be13a6ff1f?source=rss------artificial_intelligence-5)**
-> 🔹 **[RubyGems Shut Off Signups for Four Days, and Nobody Told Them Who Was Attacking](https://medium.com/@sebuzdugan/rubygems-shut-off-signups-for-four-days-and-nobody-told-them-who-was-attacking-e01849e79d98?source=rss------artificial_intelligence-5)**
+> 🔹 **[Procedural Narrative Generation in Games: When Your Story Writes Itself [And Why That’s Amazing...](https://medium.com/@recep.zengin908/procedural-narrative-generation-in-games-when-your-story-writes-itself-and-why-thats-amazing-ed2c5560364f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cognitive Debt: The Real Price You Pay Every Time You Let AI Think For You](https://medium.com/codetodeploy/cognitive-debt-the-real-price-you-pay-every-time-you-let-ai-think-for-you-a6679d424619?source=rss------artificial_intelligence-5)**
+> 🔹 **[KV Cache, Prefix Caching, Prompt Caching, and Semantic Caching — Four Cache Layers in LLMs](https://medium.com/@wasowski.jarek/kv-cache-prefix-caching-prompt-caching-and-semantic-caching-four-cache-layers-in-llms-8316952f18db?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 5/10 — Going Beyond Basic Prompts: Advanced Prompting Techniques](https://medium.com/@shriparnaprasad2005/day-5-10-going-beyond-basic-prompts-advanced-prompting-techniques-821539b8cae0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Brain Is the Original Algorithm](https://medium.com/@emergentinnovationco/your-brain-is-the-original-algorithm-3f7712326d50?source=rss------artificial_intelligence-5)**
+> 🔹 **[Some thoughts on adding code quality scoring to llm benchmarks](https://morganlinton.medium.com/some-thoughts-on-adding-code-quality-scoring-to-llm-benchmarks-d9a5c9ed20f9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is PDF a problem for AI?](https://medium.com/codetodeploy/is-pdf-a-problem-for-ai-7d5e595b10d5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Phishing To Trick AI And How To Defend Against It](https://medium.com/@mandem868/phishing-to-trick-ai-and-how-to-defend-against-it-367f897f09ec?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
