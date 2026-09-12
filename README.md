@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Backend, APIs &amp; RBAC Security: Designing Secure Web APIs](https://medium.com/@anujbansaldev/backend-apis-rbac-security-designing-secure-web-apis-72d8e0f4e5ee?source=rss------backend_development-5)**
-> 🔹 **[Something Still Crosses](https://medium.com/wsbegin/something-still-crosses-6d0aa198c173?source=rss------artificial_intelligence-5)**
-> 🔹 **[The ’80s ChatGPT Trend Is More Psychological Than You Think](https://medium.com/@dubeyshiavni1999/the-80s-chatgpt-trend-is-more-psychological-than-you-think-1f48731b9b93?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Tech Skills Worth Millions in 5 Years](https://medium.com/illumination/the-tech-skills-worth-millions-in-5-years-a35a3a5c3349?source=rss------artificial_intelligence-5)**
-> 🔹 **[GPT-6 Astra Just Ended Software.](https://medium.com/@moizamjad279/gpt-6-astra-just-ended-software-0755d676154b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Understanding 5starsstocks.com](https://medium.com/@sevangeline2729/understanding-5starsstocks-com-731989dc7784?source=rss------artificial_intelligence-5)**
-> 🔹 **[The $2,000 Illusion: How ChatGPT and an Unregulated Wallet Drained My Life Savings in 10 Minute...](https://medium.com/@entrenched36966/the-2-000-illusion-how-chatgpt-and-an-unregulated-wallet-drained-my-life-savings-in-10-minutes-6e134e9253c2?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Remains of Reality When We Change the Mind Observing It?](https://medium.com/@carloswilsonperez/what-remains-of-reality-when-we-change-the-mind-observing-it-e124c1aa473a?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI Didn’t Just Solve a Math Problem — It Prototyped a New Way to Do Research](https://jinlow.medium.com/openai-didnt-just-solve-a-math-problem-it-prototyped-a-new-way-to-do-research-e45406a56569?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPT-6 Astra: The next generation in intelligence for work](https://medium.com/@mohanrukshika054/gpt-6-astra-the-next-generation-in-intelligence-for-work-770ff662c0bd?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Teams Actually Use AI Every Day: Tools, Workflows, and Results](https://medium.com/technology-hits/how-teams-actually-use-ai-every-day-tools-workflows-and-results-ae494e4ca091?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Machines Learn to Understand Human Language: The Hidden Complexity of Natural Language…](https://medium.com/@cnh.zzt/how-machines-learn-to-understand-human-language-the-hidden-complexity-of-natural-language-7bcda1f75a8a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is the iPhone 18 Pro a true generational leap?](https://medium.com/technology-hits/apple-iphone-18-pro-generational-leap-b6bff55c11c8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Python vs Node.js for API Development: Which Is Best for Businesses in India in 2026?](https://medium.com/@contact.cyberathon/python-vs-node-js-for-api-development-which-is-best-for-businesses-in-india-in-2026-25049159cda3?source=rss------backend_development-5)**
+> 🔹 **[From Product to Person: What Happens When Machines Shape the Language of Beauty?](https://medium.com/@dean_54835/from-product-to-person-what-happens-when-machines-shape-the-language-of-beauty-00be13a6ff1f?source=rss------artificial_intelligence-5)**
+> 🔹 **[RubyGems Shut Off Signups for Four Days, and Nobody Told Them Who Was Attacking](https://medium.com/@sebuzdugan/rubygems-shut-off-signups-for-four-days-and-nobody-told-them-who-was-attacking-e01849e79d98?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
