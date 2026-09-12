@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[satomagazine.xyz &lpar;Diciembre 2026&rpar;](https://medium.com/@reactysoft/satomagazine-xyz-diciembre-2026-8ba44ee7cb47?source=rss------artificial_intelligence-5)**
-> 🔹 **[How US Athletes Are Using AI Sub-Routines to Bypass Corrupted Fitness App Paywalls in 2026 ⚡](https://medium.com/@pulsefit.app.support/how-us-athletes-are-using-ai-sub-routines-to-bypass-corrupted-fitness-app-paywalls-in-2026-3bac0debdee2?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Visual Analytics Improves Logistics Operations](https://medium.com/@rashid3433/how-visual-analytics-improves-logistics-operations-c7e5715e0c49?source=rss------artificial_intelligence-5)**
-> 🔹 **[Visual Analytics for Workforce and Capacity Planning](https://medium.com/@rashid3433/visual-analytics-for-workforce-and-capacity-planning-c70c13452dfc?source=rss------artificial_intelligence-5)**
-> 🔹 **[When the Architects Tremble: AI, a 10% Chance of Doom, and the Ancient Quest for Control](https://medium.com/@root.to.fruit.social/when-the-architects-tremble-ai-a-10-chance-of-doom-and-the-ancient-quest-for-control-61d990aafa1b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Understanding Bitcask, Part 1: Append-Only Storage, KeyDir, and Safe Compaction](https://medium.com/@lakshyaa149/bitcask-deep-dive-1-b3e63fff003e?source=rss------system_design-5)**
-> 🔹 **[The GPT-6 Astra Launch Drama: Did an Open-Source Leak Just Neutralize OpenAI’s Newest Model?](https://medium.com/@chatgpt6astra/the-gpt-6-astra-launch-drama-did-an-open-source-leak-just-neutralize-openais-newest-model-6e8a0817044c?source=rss------artificial_intelligence-5)**
-> 🔹 **[How LangGraph Actually Implements Checkpointing: Thread IDs, Checkpointers, and Where State Liv...](https://medium.com/@tpriya27/how-langgraph-actually-implements-checkpointing-thread-ids-checkpointers-and-where-state-lives-53a673a751cc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Backend, APIs &amp; RBAC Security: Designing Secure Web APIs](https://medium.com/@anujbansaldev/backend-apis-rbac-security-designing-secure-web-apis-72d8e0f4e5ee?source=rss------backend_development-5)**
+> 🔹 **[Something Still Crosses](https://medium.com/wsbegin/something-still-crosses-6d0aa198c173?source=rss------artificial_intelligence-5)**
+> 🔹 **[The ’80s ChatGPT Trend Is More Psychological Than You Think](https://medium.com/@dubeyshiavni1999/the-80s-chatgpt-trend-is-more-psychological-than-you-think-1f48731b9b93?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Tech Skills Worth Millions in 5 Years](https://medium.com/illumination/the-tech-skills-worth-millions-in-5-years-a35a3a5c3349?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPT-6 Astra Just Ended Software.](https://medium.com/@moizamjad279/gpt-6-astra-just-ended-software-0755d676154b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Understanding 5starsstocks.com](https://medium.com/@sevangeline2729/understanding-5starsstocks-com-731989dc7784?source=rss------artificial_intelligence-5)**
+> 🔹 **[The $2,000 Illusion: How ChatGPT and an Unregulated Wallet Drained My Life Savings in 10 Minute...](https://medium.com/@entrenched36966/the-2-000-illusion-how-chatgpt-and-an-unregulated-wallet-drained-my-life-savings-in-10-minutes-6e134e9253c2?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Remains of Reality When We Change the Mind Observing It?](https://medium.com/@carloswilsonperez/what-remains-of-reality-when-we-change-the-mind-observing-it-e124c1aa473a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
