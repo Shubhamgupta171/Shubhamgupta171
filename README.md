@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Procedural Narrative Generation in Games: When Your Story Writes Itself [And Why That’s Amazing...](https://medium.com/@recep.zengin908/procedural-narrative-generation-in-games-when-your-story-writes-itself-and-why-thats-amazing-ed2c5560364f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cognitive Debt: The Real Price You Pay Every Time You Let AI Think For You](https://medium.com/codetodeploy/cognitive-debt-the-real-price-you-pay-every-time-you-let-ai-think-for-you-a6679d424619?source=rss------artificial_intelligence-5)**
-> 🔹 **[KV Cache, Prefix Caching, Prompt Caching, and Semantic Caching — Four Cache Layers in LLMs](https://medium.com/@wasowski.jarek/kv-cache-prefix-caching-prompt-caching-and-semantic-caching-four-cache-layers-in-llms-8316952f18db?source=rss------artificial_intelligence-5)**
-> 🔹 **[Day 5/10 — Going Beyond Basic Prompts: Advanced Prompting Techniques](https://medium.com/@shriparnaprasad2005/day-5-10-going-beyond-basic-prompts-advanced-prompting-techniques-821539b8cae0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Brain Is the Original Algorithm](https://medium.com/@emergentinnovationco/your-brain-is-the-original-algorithm-3f7712326d50?source=rss------artificial_intelligence-5)**
-> 🔹 **[Some thoughts on adding code quality scoring to llm benchmarks](https://morganlinton.medium.com/some-thoughts-on-adding-code-quality-scoring-to-llm-benchmarks-d9a5c9ed20f9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is PDF a problem for AI?](https://medium.com/codetodeploy/is-pdf-a-problem-for-ai-7d5e595b10d5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Phishing To Trick AI And How To Defend Against It](https://medium.com/@mandem868/phishing-to-trick-ai-and-how-to-defend-against-it-367f897f09ec?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Get Your Reviews and Ratings to Show Up in ChatGPT and AI Search Results](https://medium.com/@sheetal_53064/how-to-get-your-reviews-and-ratings-to-show-up-in-chatgpt-and-ai-search-results-c35af6498847?source=rss------artificial_intelligence-5)**
+> 🔹 **[How invisible Device Admin stole my data and time since 2025.](https://medium.com/@nisocey807/how-invisible-device-admin-stole-my-data-and-time-since-2025-b71b74e9864a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Senate AI Rules: What They Mean](https://medium.com/@sumbalabbas45/senate-ai-rules-what-they-mean-a82ca5adc0a9?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Wrote a Model Context Protocol SDK in Pure Clojure — No Java Bloat Required](https://medium.com/@pooriayousefi/i-wrote-a-model-context-protocol-sdk-in-pure-clojure-no-java-bloat-required-be8659b0eca2?source=rss------artificial_intelligence-5)**
+> 🔹 **[10 Python Techniques That Made My Code Feel More Professional](https://python.plainenglish.io/10-python-techniques-that-made-my-code-feel-more-professional-2295b5cd6434?source=rss------artificial_intelligence-5)**
+> 🔹 **[GitHub’s HydraFusion Lets AI Models Critique Each Other’s Code.](https://medium.com/@thedevnotebook/github-hydrafusion-ai-code-review-4e6e0defdabd?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Checked 841 LLM Benchmark Configs. Exactly One Pins the Data It Grades.](https://medium.com/@decoding_ai_by_nureravi/we-checked-841-llm-benchmark-configs-exactly-one-pins-the-data-it-grades-69b49b20ffcd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Astra Just Launched. OpenAI Says This Is Where AGI Begins.](https://medium.com/@zulfiqarshk/astra-just-launched-openai-says-this-is-where-agi-begins-d5cff9aa117f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
