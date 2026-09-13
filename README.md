@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI-generated screens felt off,so I built a design setup](https://medium.com/@vbdd556/ai-generated-screens-felt-off-so-i-built-a-design-setup-1584e23fc5fc?source=rss------system_design-5)**
-> 🔹 **[RBAC in Angular + Spring Boot: How We Handled Role-Based Access Control](https://blog.stackademic.com/rbac-in-angular-spring-boot-how-we-handled-role-based-access-control-d57d9a06eb6a?source=rss------backend_development-5)**
-> 🔹 **[AI Writes My Code Now. Here’s What I Actually Do With My Time.](https://blog.stackademic.com/ai-writes-my-code-now-heres-what-i-actually-do-with-my-time-a7387fd82e75?source=rss------artificial_intelligence-5)**
-> 🔹 **[What is an AI Software Factory? A Complete Guide to Agentic Software Development](https://blog.stackademic.com/what-is-an-ai-software-factory-a-complete-guide-to-agentic-software-development-3ca110efd82b?source=rss------artificial_intelligence-5)**
-> 🔹 **[An AI Agent Built Fake Identities to Merge Malicious Code. The Maintainer Caught It](https://medium.com/@chenyuan19920509/an-ai-agent-built-fake-identities-to-merge-malicious-code-the-maintainer-caught-it-e95af368742d?source=rss------artificial_intelligence-5)**
-> 🔹 **[GPT-6 Astra and the AGI Question: What Developers Should Actually Measure](https://medium.com/@pashikantibhanuteja/gpt-6-astra-and-the-agi-question-what-developers-should-actually-measure-95edd362923f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Business Continuity Plan](https://blog.stackademic.com/business-continuity-plan-9209eb9f3d22?source=rss------artificial_intelligence-5)**
-> 🔹 **[Get a Second Opinion from Hermes and OpenClaw in One Chat](https://medium.com/@zackchew/get-a-second-opinion-from-hermes-and-openclaw-in-one-chat-fc09f29d8840?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Rover, a Rock and a Planet of Decisions](https://medium.com/activated-thinker/a-rover-a-rock-and-a-planet-of-decisions-0e4fbb0398a3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who checks the AI lab? Reading the promise behind embedded evaluators](https://medium.com/@firestorm-ai/who-checks-the-ai-lab-reading-the-promise-behind-embedded-evaluators-7a81f9acda3c?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Language for Machines, Not for Us](https://medium.com/@homolibere/a-language-for-machines-not-for-us-445f9bf1026a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Islamic Republic Is Not Iran](https://alexandre-lores1984.medium.com/the-islamic-republic-is-not-iran-cb4ea272f27c?source=rss------artificial_intelligence-5)**
+> 🔹 **[An AI History That Has Fascinated Me to This Day](https://medium.com/@sujithblore/an-ai-history-that-has-fascinated-me-to-this-day-426d1b43fddd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Yavaşlama Çağrısının Ekonomisi](https://medium.com/@emrehaciarap/yava%C5%9Flama-%C3%A7a%C4%9Fr%C4%B1s%C4%B1n%C4%B1n-ekonomisi-71919061ccfd?source=rss------artificial_intelligence-5)**
+> 🔹 **[England and Wales Logged 163 AI Deepfake Sex Crimes by July. Three Years Ago It Was 10.](https://medium.com/all-my-circuits/england-and-wales-logged-163-ai-deepfake-sex-crimes-by-july-three-years-ago-it-was-10-2bc72e132e07?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agent Harness — A no-BS guide](https://generativeai.pub/agent-harness-a-no-bs-guide-8f69e3c0a3da?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
