@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Facial Recognition and the New Meaning of Equality](https://medium.com/@tantrum.media.store/facial-recognition-and-the-new-meaning-of-equality-23dbe4a23fb9?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Highest Paying Jobs AI Could Change First](https://medium.com/@johndoe1008/the-highest-paying-jobs-ai-could-change-first-3fbdaf7911f9?source=rss------artificial_intelligence-5)**
-> 🔹 **[System Design for Backend Engineers: A Practical Guide With Real Examples](https://medium.com/@mitsonani7777/system-design-for-backend-engineers-a-practical-guide-with-real-examples-e2029691d142?source=rss------system_design-5)**
-> 🔹 **[System Design for Backend Engineers: A Practical Guide With Real Examples](https://medium.com/@mitsonani7777/system-design-for-backend-engineers-a-practical-guide-with-real-examples-e2029691d142?source=rss------backend_development-5)**
-> 🔹 **[Dredge: An analysis of tension](https://medium.com/@hello_48618/dredge-an-analysis-of-tension-6b9cbc6fb339?source=rss------system_design-5)**
-> 🔹 **[OSINT Framework: Ethics, Privacy, and How Security Teams Use It &lpar;Part 3&rpar;](https://medium.com/@cyberfox282/osint-framework-ethics-privacy-and-how-security-teams-use-it-part-3-cf86ff60abd5?source=rss------artificial_intelligence-5)**
-> 🔹 **[LLM Interest Stories](https://medium.com/@arturormk/llm-interest-stories-3336b5aa2ae3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Labs Agreed to Slow Down. Now Someone Has to Check.](https://medium.com/@srajasoundarya99/the-ai-labs-agreed-to-slow-down-now-someone-has-to-check-7ae477420620?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI-generated screens felt off,so I built a design setup](https://medium.com/@vbdd556/ai-generated-screens-felt-off-so-i-built-a-design-setup-1584e23fc5fc?source=rss------system_design-5)**
+> 🔹 **[RBAC in Angular + Spring Boot: How We Handled Role-Based Access Control](https://blog.stackademic.com/rbac-in-angular-spring-boot-how-we-handled-role-based-access-control-d57d9a06eb6a?source=rss------backend_development-5)**
+> 🔹 **[AI Writes My Code Now. Here’s What I Actually Do With My Time.](https://blog.stackademic.com/ai-writes-my-code-now-heres-what-i-actually-do-with-my-time-a7387fd82e75?source=rss------artificial_intelligence-5)**
+> 🔹 **[What is an AI Software Factory? A Complete Guide to Agentic Software Development](https://blog.stackademic.com/what-is-an-ai-software-factory-a-complete-guide-to-agentic-software-development-3ca110efd82b?source=rss------artificial_intelligence-5)**
+> 🔹 **[An AI Agent Built Fake Identities to Merge Malicious Code. The Maintainer Caught It](https://medium.com/@chenyuan19920509/an-ai-agent-built-fake-identities-to-merge-malicious-code-the-maintainer-caught-it-e95af368742d?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPT-6 Astra and the AGI Question: What Developers Should Actually Measure](https://medium.com/@pashikantibhanuteja/gpt-6-astra-and-the-agi-question-what-developers-should-actually-measure-95edd362923f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Business Continuity Plan](https://blog.stackademic.com/business-continuity-plan-9209eb9f3d22?source=rss------artificial_intelligence-5)**
+> 🔹 **[Get a Second Opinion from Hermes and OpenClaw in One Chat](https://medium.com/@zackchew/get-a-second-opinion-from-hermes-and-openclaw-in-one-chat-fc09f29d8840?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
