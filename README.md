@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[A Rover, a Rock and a Planet of Decisions](https://medium.com/activated-thinker/a-rover-a-rock-and-a-planet-of-decisions-0e4fbb0398a3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who checks the AI lab? Reading the promise behind embedded evaluators](https://medium.com/@firestorm-ai/who-checks-the-ai-lab-reading-the-promise-behind-embedded-evaluators-7a81f9acda3c?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Language for Machines, Not for Us](https://medium.com/@homolibere/a-language-for-machines-not-for-us-445f9bf1026a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Islamic Republic Is Not Iran](https://alexandre-lores1984.medium.com/the-islamic-republic-is-not-iran-cb4ea272f27c?source=rss------artificial_intelligence-5)**
-> 🔹 **[An AI History That Has Fascinated Me to This Day](https://medium.com/@sujithblore/an-ai-history-that-has-fascinated-me-to-this-day-426d1b43fddd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Yavaşlama Çağrısının Ekonomisi](https://medium.com/@emrehaciarap/yava%C5%9Flama-%C3%A7a%C4%9Fr%C4%B1s%C4%B1n%C4%B1n-ekonomisi-71919061ccfd?source=rss------artificial_intelligence-5)**
-> 🔹 **[England and Wales Logged 163 AI Deepfake Sex Crimes by July. Three Years Ago It Was 10.](https://medium.com/all-my-circuits/england-and-wales-logged-163-ai-deepfake-sex-crimes-by-july-three-years-ago-it-was-10-2bc72e132e07?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agent Harness — A no-BS guide](https://generativeai.pub/agent-harness-a-no-bs-guide-8f69e3c0a3da?source=rss------artificial_intelligence-5)**
+> 🔹 **[Winter Is Coming](https://medium.com/@Spark-NITT/winter-is-coming-232f1211a693?source=rss------artificial_intelligence-5)**
+> 🔹 **[We made our product worse on purpose](https://medium.com/design-bootcamp/we-made-our-product-worse-on-purpose-46e3e63228e2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Da User Story ao Código: Como Construímos IA Agêntica Incremental com Azure DevOps, Power Autom...](https://medium.com/@brenoplucena/da-user-story-ao-c%C3%B3digo-como-constru%C3%ADmos-ia-ag%C3%AAntica-incremental-com-azure-devops-power-automate-a04d979fe3d6?source=rss------artificial_intelligence-5)**
+> 🔹 **[The End of Legacy Software: How Next-Gen AI Models Are Upending the SaaS Paradigm](https://unicornprivate.medium.com/the-end-of-legacy-software-how-next-gen-ai-models-are-upending-the-saas-paradigm-ca987e10b612?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Efficiency Trap](https://medium.com/@davysontheroadagain/the-efficiency-trap-634c52911b30?source=rss------artificial_intelligence-5)**
+> 🔹 **[Hard Fork, Part Three: What “Open” Actually Means](https://medium.com/@emanuel.maceira/hard-fork-part-three-what-open-actually-means-815652b974c8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Insiders Say AI Might Kill Us All. Now What?](https://medium.com/atlas-writes/insiders-say-ai-might-kill-us-all-now-what-0aa653cd03da?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Glass Is One-Tenth Full](https://medium.com/@emanuel.maceira/the-glass-is-one-tenth-full-83547fc4e109?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
