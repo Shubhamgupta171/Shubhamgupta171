@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Get Your Reviews and Ratings to Show Up in ChatGPT and AI Search Results](https://medium.com/@sheetal_53064/how-to-get-your-reviews-and-ratings-to-show-up-in-chatgpt-and-ai-search-results-c35af6498847?source=rss------artificial_intelligence-5)**
-> 🔹 **[How invisible Device Admin stole my data and time since 2025.](https://medium.com/@nisocey807/how-invisible-device-admin-stole-my-data-and-time-since-2025-b71b74e9864a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Senate AI Rules: What They Mean](https://medium.com/@sumbalabbas45/senate-ai-rules-what-they-mean-a82ca5adc0a9?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Wrote a Model Context Protocol SDK in Pure Clojure — No Java Bloat Required](https://medium.com/@pooriayousefi/i-wrote-a-model-context-protocol-sdk-in-pure-clojure-no-java-bloat-required-be8659b0eca2?source=rss------artificial_intelligence-5)**
-> 🔹 **[10 Python Techniques That Made My Code Feel More Professional](https://python.plainenglish.io/10-python-techniques-that-made-my-code-feel-more-professional-2295b5cd6434?source=rss------artificial_intelligence-5)**
-> 🔹 **[GitHub’s HydraFusion Lets AI Models Critique Each Other’s Code.](https://medium.com/@thedevnotebook/github-hydrafusion-ai-code-review-4e6e0defdabd?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Checked 841 LLM Benchmark Configs. Exactly One Pins the Data It Grades.](https://medium.com/@decoding_ai_by_nureravi/we-checked-841-llm-benchmark-configs-exactly-one-pins-the-data-it-grades-69b49b20ffcd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Astra Just Launched. OpenAI Says This Is Where AGI Begins.](https://medium.com/@zulfiqarshk/astra-just-launched-openai-says-this-is-where-agi-begins-d5cff9aa117f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Facial Recognition and the New Meaning of Equality](https://medium.com/@tantrum.media.store/facial-recognition-and-the-new-meaning-of-equality-23dbe4a23fb9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Highest Paying Jobs AI Could Change First](https://medium.com/@johndoe1008/the-highest-paying-jobs-ai-could-change-first-3fbdaf7911f9?source=rss------artificial_intelligence-5)**
+> 🔹 **[System Design for Backend Engineers: A Practical Guide With Real Examples](https://medium.com/@mitsonani7777/system-design-for-backend-engineers-a-practical-guide-with-real-examples-e2029691d142?source=rss------system_design-5)**
+> 🔹 **[System Design for Backend Engineers: A Practical Guide With Real Examples](https://medium.com/@mitsonani7777/system-design-for-backend-engineers-a-practical-guide-with-real-examples-e2029691d142?source=rss------backend_development-5)**
+> 🔹 **[Dredge: An analysis of tension](https://medium.com/@hello_48618/dredge-an-analysis-of-tension-6b9cbc6fb339?source=rss------system_design-5)**
+> 🔹 **[OSINT Framework: Ethics, Privacy, and How Security Teams Use It &lpar;Part 3&rpar;](https://medium.com/@cyberfox282/osint-framework-ethics-privacy-and-how-security-teams-use-it-part-3-cf86ff60abd5?source=rss------artificial_intelligence-5)**
+> 🔹 **[LLM Interest Stories](https://medium.com/@arturormk/llm-interest-stories-3336b5aa2ae3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Labs Agreed to Slow Down. Now Someone Has to Check.](https://medium.com/@srajasoundarya99/the-ai-labs-agreed-to-slow-down-now-someone-has-to-check-7ae477420620?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
