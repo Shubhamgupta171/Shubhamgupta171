@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Cloud Security Matters More in the Age of AI: Emerging Risks and Protection Strategies](https://medium.com/beyond-key/why-cloud-security-matters-more-in-the-age-of-ai-emerging-risks-and-protection-strategies-7983dbe29453?source=rss------artificial_intelligence-5)**
-> 🔹 **[Design System as a service](https://medium.com/pretto/design-system-as-a-service-6c1c68c5bbcc?source=rss------system_design-5)**
-> 🔹 **[What I Learned About Harness Engineering &amp; AI Agents](https://medium.com/@hemasreerhs/what-i-learned-about-harness-engineering-ai-agents-e395c9e964cf?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Notification That Opened the Wrong Chat](https://medium.com/@info.codelps/the-notification-that-opened-the-wrong-chat-2289600c98e6?source=rss------backend_development-5)**
-> 🔹 **[AI Didn’t Kill Software. It Killed the Cost of Making Software](https://medium.com/data-science-in-your-pocket/ai-didnt-kill-software-it-killed-the-cost-of-making-software-2e21d5855ae7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Automatic System Identification Using Excitation Signals and Response Analysis: Principles…](https://medium.com/@shivam.singh18/automatic-system-identification-using-excitation-signals-and-response-analysis-principles-3d649f6a434e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Lakeflow Connect in Databricks: Simplified Data Ingestion Through No Code UI Configuration](https://medium.com/@muaazmuzammil69/lakeflow-connect-in-databricks-simplified-data-ingestion-through-no-code-ui-configuration-1f820cd754e4?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Tape Didn’t Agree With the Headline](https://medium.com/@unlockfutures/the-tape-didnt-agree-with-the-headline-2f67252c661b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Refused to Consent to AI Recording, and My Doctor Refused to Provide Care](https://medium.com/@sherilynburris/i-refused-to-consent-to-ai-recording-and-my-doctor-refused-to-provide-care-de0377b813ec?source=rss------artificial_intelligence-5)**
+> 🔹 **[Para los agentes no todas las tareas necesitan el mismo conocimiento](https://medium.com/@judlup/para-los-agentes-no-todas-las-tareas-necesitan-el-mismo-conocimiento-def66a387199?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can Free Public Weather Predict a Solar Plant’s Power?](https://medium.com/@f236022/can-free-public-weather-predict-a-solar-plants-power-29d73e90748e?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Said Apple Would Figure Out Siri](https://medium.com/@tonylab_net/i-said-apple-would-figure-out-siri-7749b7fb4f78?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Generative AI Makes Ungoverned Engineering Data Irresistibly Believable](https://medium.com/@hilmarretief/why-generative-ai-makes-ungoverned-engineering-data-irresistibly-believable-adff72c342c1?source=rss------artificial_intelligence-5)**
+> 🔹 **[The RAG Project I Forgot I Built](https://medium.com/@nassersanou23/the-rag-project-i-forgot-i-built-e59d962ee27f?source=rss------artificial_intelligence-5)**
+> 🔹 **[K2 Horizon 36B-A4B for local AI: what the 4B-active model actually needs](https://medium.com/@popularai/k2-horizon-36b-a4b-for-local-ai-what-the-4b-active-model-actually-needs-2b704a32446c?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Fooled Myself Before I Fooled Anyone Else](https://ntrongtin11702.medium.com/i-fooled-myself-before-i-fooled-anyone-else-65808878e62a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
