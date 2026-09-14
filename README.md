@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Winter Is Coming](https://medium.com/@Spark-NITT/winter-is-coming-232f1211a693?source=rss------artificial_intelligence-5)**
-> 🔹 **[We made our product worse on purpose](https://medium.com/design-bootcamp/we-made-our-product-worse-on-purpose-46e3e63228e2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Da User Story ao Código: Como Construímos IA Agêntica Incremental com Azure DevOps, Power Autom...](https://medium.com/@brenoplucena/da-user-story-ao-c%C3%B3digo-como-constru%C3%ADmos-ia-ag%C3%AAntica-incremental-com-azure-devops-power-automate-a04d979fe3d6?source=rss------artificial_intelligence-5)**
-> 🔹 **[The End of Legacy Software: How Next-Gen AI Models Are Upending the SaaS Paradigm](https://unicornprivate.medium.com/the-end-of-legacy-software-how-next-gen-ai-models-are-upending-the-saas-paradigm-ca987e10b612?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Efficiency Trap](https://medium.com/@davysontheroadagain/the-efficiency-trap-634c52911b30?source=rss------artificial_intelligence-5)**
-> 🔹 **[Hard Fork, Part Three: What “Open” Actually Means](https://medium.com/@emanuel.maceira/hard-fork-part-three-what-open-actually-means-815652b974c8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Insiders Say AI Might Kill Us All. Now What?](https://medium.com/atlas-writes/insiders-say-ai-might-kill-us-all-now-what-0aa653cd03da?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Glass Is One-Tenth Full](https://medium.com/@emanuel.maceira/the-glass-is-one-tenth-full-83547fc4e109?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI-Ready: preparar a engenharia para agentes de IA](https://brunoseco.medium.com/ai-ready-engenharia-agentes-ia-f5df8a5ebb30?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Model Cleared It. The Shelf Did Not.](https://medium.com/@mohamedalhashemi/the-model-cleared-it-the-shelf-did-not-a3fd1e2aebe8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Drama OpenAI vs Anthropic Gara-Gara Soal Matematika: Ini yang Bisa Dipelajari Marketer](https://medium.com/@zando_id/drama-openai-vs-anthropic-gara-gara-soal-matematika-ini-yang-bisa-dipelajari-marketer-bd26dd4d3a1e?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Actually Happens When a Request Hits a Spring Boot Application?](https://medium.com/@kaveeshasanduni200066/what-actually-happens-when-a-request-hits-a-spring-boot-application-c6a6ee37effe?source=rss------backend_development-5)**
+> 🔹 **[What Is Click Staff AI? A Simple Guide to Using AI as Your Digital Team](https://medium.com/@marskkp2020/what-is-click-staff-ai-a-simple-guide-to-using-ai-as-your-digital-team-b94860b9f8e2?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Happens When an AI Agent Gets Hacked?](https://medium.com/@trevorltaylor/what-happens-when-an-ai-agent-gets-hacked-5a8b4fd43c20?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best LLM Hosting Providers for Open-Source Models in 2026](https://medium.com/@aatreyaadvith/best-llm-hosting-providers-for-open-source-models-in-2026-9039fa5f661d?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Video Ideas for E-commerce Sellers and Smarter Dropshippers](https://medium.com/@facelessbrain2/ai-video-ideas-for-e-commerce-sellers-and-smarter-dropshippers-fe2e227efb18?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
