@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI-Ready: preparar a engenharia para agentes de IA](https://brunoseco.medium.com/ai-ready-engenharia-agentes-ia-f5df8a5ebb30?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Model Cleared It. The Shelf Did Not.](https://medium.com/@mohamedalhashemi/the-model-cleared-it-the-shelf-did-not-a3fd1e2aebe8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Drama OpenAI vs Anthropic Gara-Gara Soal Matematika: Ini yang Bisa Dipelajari Marketer](https://medium.com/@zando_id/drama-openai-vs-anthropic-gara-gara-soal-matematika-ini-yang-bisa-dipelajari-marketer-bd26dd4d3a1e?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Actually Happens When a Request Hits a Spring Boot Application?](https://medium.com/@kaveeshasanduni200066/what-actually-happens-when-a-request-hits-a-spring-boot-application-c6a6ee37effe?source=rss------backend_development-5)**
-> 🔹 **[What Is Click Staff AI? A Simple Guide to Using AI as Your Digital Team](https://medium.com/@marskkp2020/what-is-click-staff-ai-a-simple-guide-to-using-ai-as-your-digital-team-b94860b9f8e2?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Happens When an AI Agent Gets Hacked?](https://medium.com/@trevorltaylor/what-happens-when-an-ai-agent-gets-hacked-5a8b4fd43c20?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best LLM Hosting Providers for Open-Source Models in 2026](https://medium.com/@aatreyaadvith/best-llm-hosting-providers-for-open-source-models-in-2026-9039fa5f661d?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Video Ideas for E-commerce Sellers and Smarter Dropshippers](https://medium.com/@facelessbrain2/ai-video-ideas-for-e-commerce-sellers-and-smarter-dropshippers-fe2e227efb18?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Cloud Security Matters More in the Age of AI: Emerging Risks and Protection Strategies](https://medium.com/beyond-key/why-cloud-security-matters-more-in-the-age-of-ai-emerging-risks-and-protection-strategies-7983dbe29453?source=rss------artificial_intelligence-5)**
+> 🔹 **[Design System as a service](https://medium.com/pretto/design-system-as-a-service-6c1c68c5bbcc?source=rss------system_design-5)**
+> 🔹 **[What I Learned About Harness Engineering &amp; AI Agents](https://medium.com/@hemasreerhs/what-i-learned-about-harness-engineering-ai-agents-e395c9e964cf?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Notification That Opened the Wrong Chat](https://medium.com/@info.codelps/the-notification-that-opened-the-wrong-chat-2289600c98e6?source=rss------backend_development-5)**
+> 🔹 **[AI Didn’t Kill Software. It Killed the Cost of Making Software](https://medium.com/data-science-in-your-pocket/ai-didnt-kill-software-it-killed-the-cost-of-making-software-2e21d5855ae7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Automatic System Identification Using Excitation Signals and Response Analysis: Principles…](https://medium.com/@shivam.singh18/automatic-system-identification-using-excitation-signals-and-response-analysis-principles-3d649f6a434e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Lakeflow Connect in Databricks: Simplified Data Ingestion Through No Code UI Configuration](https://medium.com/@muaazmuzammil69/lakeflow-connect-in-databricks-simplified-data-ingestion-through-no-code-ui-configuration-1f820cd754e4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Tape Didn’t Agree With the Headline](https://medium.com/@unlockfutures/the-tape-didnt-agree-with-the-headline-2f67252c661b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
