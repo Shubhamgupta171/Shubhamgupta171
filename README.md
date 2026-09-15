@@ -34,16 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why We Feel Like Time Is Moving Faster As We Get Older](https://medium.com/@mirfathmirfa60/why-we-feel-like-time-is-moving-faster-as-we-get-older-86f92370f17b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence: How It Works, Where It Is Used, and Its Impact on Modern Technology](https://medium.com/@shrirangesh/artificial-intelligence-how-it-works-where-it-is-used-and-its-impact-on-modern-technology-0744caa433cc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can Weather Data Predict Solar Power? A Machine Learning Analysis](https://medium.com/@abdulrehmandgk594/can-weather-data-predict-solar-power-a-machine-learning-analysis-a60a6e5c0dcf?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agents Are Not the Solution to Every Business Problem](https://medium.com/@avyora.tech/ai-agents-are-not-the-solution-to-every-business-problem-9ec26c33876f?source=rss------artificial_intelligence-5)**
-> 🔹 **[2030: The World We Are Quietly Building](https://medium.com/codetodeploy/2030-the-world-we-are-quietly-building-73fe02eab487?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Researchers Are Warning About Extinction. But the More Immediate Problem Is Already Here.](https://medium.com/@mubashirburfat4/ai-researchers-are-warning-about-extinction-but-the-more-immediate-problem-is-already-here-5afb76182b13?source=rss------artificial_intelligence-5)**
-> 🔹 **[Here is a simple 150-word paragraph on Technology and AI:
-Writing
-Technology and Artificial…](https://medium.com/@sainitanmay017/here-is-a-simple-150-word-paragraph-on-technology-and-ai-writing-technology-and-artificial-f8649c58ee42?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Coding Agent Is Not Your Software Engineer](https://ai.plainenglish.io/your-ai-coding-agent-is-not-your-software-engineer-b444f84884b8?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Arms Control Taught Me About AI Governance](https://medium.com/@danielle.samler/what-arms-control-taught-me-about-ai-governance-52b67490b7d4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Quiet Anxiety of Living Beside Machines That Think](https://medium.com/@aimuse917/the-quiet-anxiety-of-living-beside-machines-that-think-bb013190a6fb?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Use AI to Automate Your Email Without Missing Important Messages](https://medium.com/@adebayokab32/how-to-use-ai-to-automate-your-email-without-missing-important-messages-16a8635def40?source=rss------artificial_intelligence-5)**
+> 🔹 **[Five Hours and 58 Minutes](https://medium.com/@nicole.builds.tech/five-hours-and-58-minutes-8caa2bdc07d0?source=rss------artificial_intelligence-5)**
+> 🔹 **[China Steps Up Preparations for AI Safety Risks](https://aunwrites.medium.com/china-steps-up-preparations-for-ai-safety-risks-61f7e994a97c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The $1.2M SRE Autoscaling Disaster: Why Autoregressive Agents Fail at Infrastructure Write…](https://pub.towardsai.net/the-1-2m-sre-autoscaling-disaster-why-autoregressive-agents-fail-at-infrastructure-write-8c45d16b7089?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I pioneered the field of Topology Optimization by Reinforcement Learning and Did Some Other...](https://gigatskhondia.medium.com/how-i-pioneered-the-field-of-topology-optimization-by-reinforcement-learning-and-did-some-other-e87875891bf3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Every AI Architect or Engineer Needs to Understand the Backend They Are Deploying To](https://medium.com/@gboyehigh/why-every-ai-architect-or-engineer-needs-to-understand-the-backend-they-are-deploying-to-f4eee95e5fec?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
