@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Refused to Consent to AI Recording, and My Doctor Refused to Provide Care](https://medium.com/@sherilynburris/i-refused-to-consent-to-ai-recording-and-my-doctor-refused-to-provide-care-de0377b813ec?source=rss------artificial_intelligence-5)**
-> 🔹 **[Para los agentes no todas las tareas necesitan el mismo conocimiento](https://medium.com/@judlup/para-los-agentes-no-todas-las-tareas-necesitan-el-mismo-conocimiento-def66a387199?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can Free Public Weather Predict a Solar Plant’s Power?](https://medium.com/@f236022/can-free-public-weather-predict-a-solar-plants-power-29d73e90748e?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Said Apple Would Figure Out Siri](https://medium.com/@tonylab_net/i-said-apple-would-figure-out-siri-7749b7fb4f78?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Generative AI Makes Ungoverned Engineering Data Irresistibly Believable](https://medium.com/@hilmarretief/why-generative-ai-makes-ungoverned-engineering-data-irresistibly-believable-adff72c342c1?source=rss------artificial_intelligence-5)**
-> 🔹 **[The RAG Project I Forgot I Built](https://medium.com/@nassersanou23/the-rag-project-i-forgot-i-built-e59d962ee27f?source=rss------artificial_intelligence-5)**
-> 🔹 **[K2 Horizon 36B-A4B for local AI: what the 4B-active model actually needs](https://medium.com/@popularai/k2-horizon-36b-a4b-for-local-ai-what-the-4b-active-model-actually-needs-2b704a32446c?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Fooled Myself Before I Fooled Anyone Else](https://ntrongtin11702.medium.com/i-fooled-myself-before-i-fooled-anyone-else-65808878e62a?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI, JD, and other letters of the law](https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/)**
+> 🔹 **[The Future of AI: What You Need to Know in 2026](https://medium.com/@lokeshbohra/the-future-of-ai-what-you-need-to-know-in-2026-abd44c93a7ea?source=rss------artificial_intelligence-5)**
+> 🔹 **[If I Had to Learn Python Again in 2026, I Wouldn’t Start With Python](https://medium.com/@pythonadvisor/if-i-had-to-learn-python-again-in-2026-i-wouldnt-start-with-python-1f8bc8934015?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google &amp; AI Search Is Changing SEO in 2026: What Indian Businesses Need to Know](https://medium.com/@techassistant.hub/google-ai-search-is-changing-seo-in-2026-what-indian-businesses-need-to-know-791402debf1d?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Getting Too Powerful? Anthropic Researcher Raises a Serious Warning](https://medium.com/@aswin.unfiltered369/ai-is-getting-too-powerful-anthropic-researcher-raises-a-serious-warning-4de83a8f2453?source=rss------artificial_intelligence-5)**
+> 🔹 **[Traveller of kufah —part-10](https://medium.com/learning-bots/traveller-of-kufah-part-10-2c853fc61a96?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI 和人，是多啦A夢與大雄的關係](https://medium.com/@mindsteps.alex/ai-%E5%92%8C%E4%BA%BA-%E6%98%AF%E5%A4%9A%E5%95%A6a%E5%A4%A2%E8%88%87%E5%A4%A7%E9%9B%84%E7%9A%84%E9%97%9C%E4%BF%82-5d1a26feaa27?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can AI Create Social Media Ads Without a Designer](https://medium.com/@facelessbrain2/can-ai-create-social-media-ads-without-a-designer-08dfe25df3d4?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
