@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI, JD, and other letters of the law](https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/)**
-> 🔹 **[The Future of AI: What You Need to Know in 2026](https://medium.com/@lokeshbohra/the-future-of-ai-what-you-need-to-know-in-2026-abd44c93a7ea?source=rss------artificial_intelligence-5)**
-> 🔹 **[If I Had to Learn Python Again in 2026, I Wouldn’t Start With Python](https://medium.com/@pythonadvisor/if-i-had-to-learn-python-again-in-2026-i-wouldnt-start-with-python-1f8bc8934015?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google &amp; AI Search Is Changing SEO in 2026: What Indian Businesses Need to Know](https://medium.com/@techassistant.hub/google-ai-search-is-changing-seo-in-2026-what-indian-businesses-need-to-know-791402debf1d?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Getting Too Powerful? Anthropic Researcher Raises a Serious Warning](https://medium.com/@aswin.unfiltered369/ai-is-getting-too-powerful-anthropic-researcher-raises-a-serious-warning-4de83a8f2453?source=rss------artificial_intelligence-5)**
-> 🔹 **[Traveller of kufah —part-10](https://medium.com/learning-bots/traveller-of-kufah-part-10-2c853fc61a96?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI 和人，是多啦A夢與大雄的關係](https://medium.com/@mindsteps.alex/ai-%E5%92%8C%E4%BA%BA-%E6%98%AF%E5%A4%9A%E5%95%A6a%E5%A4%A2%E8%88%87%E5%A4%A7%E9%9B%84%E7%9A%84%E9%97%9C%E4%BF%82-5d1a26feaa27?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can AI Create Social Media Ads Without a Designer](https://medium.com/@facelessbrain2/can-ai-create-social-media-ads-without-a-designer-08dfe25df3d4?source=rss------artificial_intelligence-5)**
+> 🔹 **[New Zealand AI Implementation Case Study: 91% Invoice Automation at a Construction Company](https://medium.com/@xkbear/new-zealand-ai-implementation-case-study-91-invoice-automation-at-a-construction-company-3abc453648fc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Chat or Work? How to Build a Reliable AI Workflow in ChatGPT](https://medium.com/business-as-usual-io/chatgpt-work-vs-chat-ai-workflow-ebee115de9f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[How an AI Agent’s Retrieval Harness Protects Against Data Drift](https://medium.com/it-chronicles/how-an-ai-agents-retrieval-harness-protects-against-data-drift-1c4513c7b820?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Has Reached a New Milestone in Drug Discovery: The First Generative AI Drug Enters Phase III](https://medium.com/@tai77s220/ai-has-reached-a-new-milestone-in-drug-discovery-the-first-generative-ai-drug-enters-phase-iii-a49760c5757d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Closing the Matter File: What Small Firms Must Hand Over—and How to Find It Before Successor…](https://medium.com/@gloistennps4/closing-the-matter-file-what-small-firms-must-hand-over-and-how-to-find-it-before-successor-b4d603f09281?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Operating Layer: What I Learned Running OpenExecutive for a Real Small Business](https://medium.com/@hello_41580/the-ai-operating-layer-what-i-learned-running-openexecutive-for-a-real-small-business-1c80001a3df1?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Checked 36 AI Python Packages. The Median pip install Is 19 Days Behind Main.](https://medium.com/@decoding_ai_by_nureravi/we-checked-36-ai-python-packages-the-median-pip-install-is-19-days-behind-main-4f8e9f1815f3?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is Generative AI, Really? A Simple Guide for Everyone](https://medium.com/@prasanna.ahirrao/what-is-generative-ai-really-a-simple-guide-for-everyone-2ad2a77364d8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
