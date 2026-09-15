@@ -34,14 +34,16 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[New Zealand AI Implementation Case Study: 91% Invoice Automation at a Construction Company](https://medium.com/@xkbear/new-zealand-ai-implementation-case-study-91-invoice-automation-at-a-construction-company-3abc453648fc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Chat or Work? How to Build a Reliable AI Workflow in ChatGPT](https://medium.com/business-as-usual-io/chatgpt-work-vs-chat-ai-workflow-ebee115de9f6?source=rss------artificial_intelligence-5)**
-> 🔹 **[How an AI Agent’s Retrieval Harness Protects Against Data Drift](https://medium.com/it-chronicles/how-an-ai-agents-retrieval-harness-protects-against-data-drift-1c4513c7b820?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Has Reached a New Milestone in Drug Discovery: The First Generative AI Drug Enters Phase III](https://medium.com/@tai77s220/ai-has-reached-a-new-milestone-in-drug-discovery-the-first-generative-ai-drug-enters-phase-iii-a49760c5757d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Closing the Matter File: What Small Firms Must Hand Over—and How to Find It Before Successor…](https://medium.com/@gloistennps4/closing-the-matter-file-what-small-firms-must-hand-over-and-how-to-find-it-before-successor-b4d603f09281?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Operating Layer: What I Learned Running OpenExecutive for a Real Small Business](https://medium.com/@hello_41580/the-ai-operating-layer-what-i-learned-running-openexecutive-for-a-real-small-business-1c80001a3df1?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Checked 36 AI Python Packages. The Median pip install Is 19 Days Behind Main.](https://medium.com/@decoding_ai_by_nureravi/we-checked-36-ai-python-packages-the-median-pip-install-is-19-days-behind-main-4f8e9f1815f3?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is Generative AI, Really? A Simple Guide for Everyone](https://medium.com/@prasanna.ahirrao/what-is-generative-ai-really-a-simple-guide-for-everyone-2ad2a77364d8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why We Feel Like Time Is Moving Faster As We Get Older](https://medium.com/@mirfathmirfa60/why-we-feel-like-time-is-moving-faster-as-we-get-older-86f92370f17b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence: How It Works, Where It Is Used, and Its Impact on Modern Technology](https://medium.com/@shrirangesh/artificial-intelligence-how-it-works-where-it-is-used-and-its-impact-on-modern-technology-0744caa433cc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can Weather Data Predict Solar Power? A Machine Learning Analysis](https://medium.com/@abdulrehmandgk594/can-weather-data-predict-solar-power-a-machine-learning-analysis-a60a6e5c0dcf?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents Are Not the Solution to Every Business Problem](https://medium.com/@avyora.tech/ai-agents-are-not-the-solution-to-every-business-problem-9ec26c33876f?source=rss------artificial_intelligence-5)**
+> 🔹 **[2030: The World We Are Quietly Building](https://medium.com/codetodeploy/2030-the-world-we-are-quietly-building-73fe02eab487?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Researchers Are Warning About Extinction. But the More Immediate Problem Is Already Here.](https://medium.com/@mubashirburfat4/ai-researchers-are-warning-about-extinction-but-the-more-immediate-problem-is-already-here-5afb76182b13?source=rss------artificial_intelligence-5)**
+> 🔹 **[Here is a simple 150-word paragraph on Technology and AI:
+Writing
+Technology and Artificial…](https://medium.com/@sainitanmay017/here-is-a-simple-150-word-paragraph-on-technology-and-ai-writing-technology-and-artificial-f8649c58ee42?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Coding Agent Is Not Your Software Engineer](https://ai.plainenglish.io/your-ai-coding-agent-is-not-your-software-engineer-b444f84884b8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
