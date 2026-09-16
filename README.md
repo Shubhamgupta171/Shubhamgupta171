@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Async/Await Didn’t Make Your API Faster](https://medium.com/@bairagi44/async-await-didnt-make-your-api-faster-c4c5ac56ea6e?source=rss------backend_development-5)**
-> 🔹 **[LeetCode 2472: Maximum Number of Non-overlapping Palindrome Substrings : My Intution and ideas](https://medium.com/@everythingguy007/leetcode-2472-maximum-number-of-non-overlapping-palindrome-substrings-my-intution-and-ideas-7102251a10e5?source=rss------data_structures-5)**
-> 🔹 **[সার্ভার কি আসলেই মাল্টিটাস্কিং করে, নাকি পুরোটাই ইল্যুশন?](https://medium.com/@jihadmia35/%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BF-%E0%A6%86%E0%A6%B8%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A6%BF-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%9F%E0%A6%BE%E0%A6%87-%E0%A6%87%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B6%E0%A6%A8-5ce85b5b409a?source=rss------backend_development-5)**
-> 🔹 **[What Should Programmers Do While AI Writes Code? The Skills That Will Matter Most](https://medium.com/@shandilzshan/what-should-programmers-do-while-ai-writes-code-the-skills-that-will-matter-most-3bf42e5134d8?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Hired a Senior Engineer Who Was Brilliant in Interviews. Six Months Later, We Let Him Go.](https://blog.stackademic.com/we-hired-a-senior-engineer-who-was-brilliant-in-interviews-six-months-later-we-let-him-go-70246fd68d6c?source=rss------artificial_intelligence-5)**
-> 🔹 **[America Is Building an AI Empire on Borrowed Money](https://medium.com/illumination/america-is-building-an-ai-empire-on-borrowed-money-6c838d58534c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Is Quietly Killing the SaaS Seat Model?](https://medium.com/illumination/why-ai-is-quietly-killing-the-saas-seat-model-45acde64599b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The World’s Most Valuable Hardware Company Just Rented Its AI Brain](https://medium.com/@pxmx999/the-worlds-most-valuable-hardware-company-just-rented-its-ai-brain-c4704f9c24b2?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Acceleration, Entropy, and Universe 25 Part II: Is Humanity Sliding Towards Self-Induced…](https://medium.com/@henri.baskorvil/ai-acceleration-entropy-and-universe-25-part-ii-is-humanity-sliding-towards-self-induced-8fa0eb1f1e6e?source=rss------artificial_intelligence-5)**
+> 🔹 **[3 AI-Assisted Income Paths That Make Sense for Affiliate Marketers](https://medium.com/@clintherman/3-ai-assisted-income-paths-that-make-sense-for-affiliate-marketers-9339ec1eacef?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Scaled My AI Agency to $72K a Month by Refusing to Sell to Local Businesses](https://medium.com/@Nestora/i-scaled-my-ai-agency-to-72k-a-month-by-refusing-to-sell-to-local-businesses-9b5b0000f14b?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Governance Belongs in Communications — Not Just IT](https://medium.com/@jodibragg/ai-governance-belongs-in-communications-not-just-it-5ab268db3f87?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future of Math in AI era](https://medium.com/@paulbazhutov/the-future-of-math-in-ai-era-d780f84e75a3?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Acceleration, Entropy, and Universe 25: Is Humanity Sliding Towards Self-Induced Extinction?](https://medium.com/@henri.baskorvil/ai-acceleration-entropy-and-universe-25-is-humanity-sliding-towards-self-induced-extinction-b6376eb1eccc?source=rss------artificial_intelligence-5)**
+> 🔹 **[10,000 AI agents, 88 hours, one unsolved math problem](https://medium.com/@kankit570/10-000-ai-agents-88-hours-one-unsolved-math-problem-82e0ffe52cd4?source=rss------artificial_intelligence-5)**
+> 🔹 **[When the World Starts Responding](https://medium.com/@bekwagoro/when-the-world-starts-responding-686342ad0e97?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
