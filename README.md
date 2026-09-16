@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why I built The-CPTO.com before the Role was Comfortable](https://jenskuerschner.medium.com/why-i-built-the-cpto-com-before-the-role-was-comfortable-134658d304e1?source=rss------artificial_intelligence-5)**
-> 🔹 **[CBOW vs Skip-Gram: Two Ways Word2Vec Learns Language](https://medium.com/@s.aditya1317/cbow-vs-skip-gram-two-ways-word2vec-learns-language-4857a5a6de92?source=rss------artificial_intelligence-5)**
-> 🔹 **[Before You Post, Watch Your AI Captions on Mute](https://sofiarivera8.medium.com/before-you-post-watch-your-ai-captions-on-mute-2d54970a66b1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Fashion Photography vs. AI Production: What Really Changes?](https://medium.com/@cdirector/fashion-photography-vs-ai-production-what-really-changes-538f3885b5c3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Rent a Human](https://medium.com/counterarts/rent-a-human-92305421b838?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 5-Minute Rule: Why AI Automation Wins Every Lead](https://medium.com/@innovaitai1/the-5-minute-rule-why-ai-automation-wins-every-lead-342d25ac088c?source=rss------artificial_intelligence-5)**
-> 🔹 **[When a new civilization emerges, it can take command of its era only by breaking apart the…](https://medium.com/%EC%83%81%EB%B6%88%EA%B2%BD-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4/when-a-new-civilization-emerges-it-can-take-command-of-its-era-only-by-breaking-apart-the-e439f5985b21?source=rss------artificial_intelligence-5)**
-> 🔹 **[Salesforce AI vs. Your Own AI Stack: RAG, LLMs &amp; Enterprise Architecture](https://medium.com/@williams18121812/salesforce-ai-vs-your-own-ai-stack-rag-llms-enterprise-architecture-e62c0bb180e9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Async/Await Didn’t Make Your API Faster](https://medium.com/@bairagi44/async-await-didnt-make-your-api-faster-c4c5ac56ea6e?source=rss------backend_development-5)**
+> 🔹 **[LeetCode 2472: Maximum Number of Non-overlapping Palindrome Substrings : My Intution and ideas](https://medium.com/@everythingguy007/leetcode-2472-maximum-number-of-non-overlapping-palindrome-substrings-my-intution-and-ideas-7102251a10e5?source=rss------data_structures-5)**
+> 🔹 **[সার্ভার কি আসলেই মাল্টিটাস্কিং করে, নাকি পুরোটাই ইল্যুশন?](https://medium.com/@jihadmia35/%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BF-%E0%A6%86%E0%A6%B8%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%82-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A6%BF-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%9F%E0%A6%BE%E0%A6%87-%E0%A6%87%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B6%E0%A6%A8-5ce85b5b409a?source=rss------backend_development-5)**
+> 🔹 **[What Should Programmers Do While AI Writes Code? The Skills That Will Matter Most](https://medium.com/@shandilzshan/what-should-programmers-do-while-ai-writes-code-the-skills-that-will-matter-most-3bf42e5134d8?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Hired a Senior Engineer Who Was Brilliant in Interviews. Six Months Later, We Let Him Go.](https://blog.stackademic.com/we-hired-a-senior-engineer-who-was-brilliant-in-interviews-six-months-later-we-let-him-go-70246fd68d6c?source=rss------artificial_intelligence-5)**
+> 🔹 **[America Is Building an AI Empire on Borrowed Money](https://medium.com/illumination/america-is-building-an-ai-empire-on-borrowed-money-6c838d58534c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Is Quietly Killing the SaaS Seat Model?](https://medium.com/illumination/why-ai-is-quietly-killing-the-saas-seat-model-45acde64599b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The World’s Most Valuable Hardware Company Just Rented Its AI Brain](https://medium.com/@pxmx999/the-worlds-most-valuable-hardware-company-just-rented-its-ai-brain-c4704f9c24b2?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
