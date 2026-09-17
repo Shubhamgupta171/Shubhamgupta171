@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Sprawl Cost Is Superlinear Under a Fixed Monitoring Budget: A Pre‑Registered Calibration of Age...](https://medium.com/@tinholt/sprawl-cost-is-superlinear-under-a-fixed-monitoring-budget-a-pre-registered-calibration-of-agent-e24cbaa7e62a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Subject Reference AI for YouTube Creators](https://medium.com/@videoscripter349/subject-reference-ai-for-youtube-creators-270dcdffb444?source=rss------artificial_intelligence-5)**
-> 🔹 **[Same voice test: about $3.50](https://agrawalparth.medium.com/same-voice-test-about-3-50-163fe5c357e5?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Around Me: From Everyday AI to Data-Driven E-Commerce Decisions](https://medium.com/@sisodiyasandharv411/ai-around-me-from-everyday-ai-to-data-driven-e-commerce-decisions-bf18366846e9?source=rss------artificial_intelligence-5)**
-> 🔹 **[REST API Explained for Beginners: What It Actually Is and Why It Matters](https://medium.com/@manasasurusuri0909/rest-api-explained-for-beginners-what-it-actually-is-and-why-it-matters-9f7eda7e33f0?source=rss------backend_development-5)**
-> 🔹 **[Every Retail Chain Has the Same Tuesday Morning.](https://medium.com/@marketing_79269/every-retail-chain-has-the-same-tuesday-morning-f49d4f57eeac?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Coding Tools in 2026: How GitHub Copilot and AI Coding Agents Are Changing Software Developm...](https://medium.com/@techassistant.hub/ai-coding-tools-in-2026-how-github-copilot-and-ai-coding-agents-are-changing-software-development-67b826ca26de?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is a Bad Editor. That Doesn’t Mean You Shouldn’t Use It to Edit.](https://medium.com/coding-nexus/ai-is-a-bad-editor-that-doesnt-mean-you-shouldn-t-use-it-to-edit-1020f104c724?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Ultimate Guide to Jev: The new Frontier AI for faster decisions](https://medium.com/@unicodeveloper/the-ultimate-guide-to-jev-the-new-frontier-ai-for-faster-decisions-acd78e5f4c56?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Agents Talk Across Vendors — and Treat Hugging Face Like Just Another Box to Probe](https://medium.com/@akshaybhardwaj1992/when-agents-talk-across-vendors-and-treat-hugging-face-like-just-another-box-to-probe-e9b1c101fd09?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to run AI on a school laptop with no internet: a practical 2026 guide](https://medium.com/@fantastic_persimmon_toad_230/how-to-run-ai-on-a-school-laptop-with-no-internet-a-practical-2026-guide-21969aa7a11b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building Si Gembul When Working Was Not Enough](https://medium.com/@aztec.teknologi/building-si-gembul-when-working-was-not-enough-8f58d2bd5478?source=rss------artificial_intelligence-5)**
+> 🔹 **[Write Me a Novel](https://medium.com/@A.gee/write-me-a-novel-3d6a67ae0dad?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building a Fabric of Trust for the Future](https://medium.com/@jameswi99/building-a-fabric-of-trust-for-the-future-c0bc5c9e6302?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building HolyNumber7’s New York Mood with an AI Media Wall](https://medium.com/@cdirector/building-holynumber7s-new-york-mood-with-an-ai-media-wall-8f1e313f036e?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Asked Four AIs How AI Destroys Humanity — The Answers Are Scary](https://medium.com/@joe_62117/i-asked-four-ais-how-ai-destroys-humanity-the-answers-are-scary-c4a6123d7a12?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
