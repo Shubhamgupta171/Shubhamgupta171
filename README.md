@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Architectural Wars in the Backend World: An In-Depth Anatomy of Python, C# and Go](https://medium.com/@hevalvural007/architectural-wars-in-the-backend-world-an-in-depth-anatomy-of-python-c-and-go-12776e60a20a?source=rss------backend_development-5)**
-> 🔹 **[Trapping Rain Water: Understanding Data Structure Choices from a Beginner’s Perspective](https://medium.com/@sanjai.e2023/trapping-rain-water-understanding-data-structure-choices-from-a-beginners-perspective-72b7aac7ebde?source=rss------data_structures-5)**
-> 🔹 **[The IT Industry in 2026: From Software Development to AI-Powered Innovation](https://medium.com/@gayatridoke774/the-it-industry-in-2026-from-software-development-to-ai-powered-innovation-fa5617609b25?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ali Noor Mostafa Kamal — E-commerce SEO &amp; AI Visibility Specialist](https://medium.com/@alinoormostafakamal/ali-noor-mostafa-kamal-e-commerce-seo-ai-visibility-specialist-beafedf5d20d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Don’t Automate the Process. Fix It First.](https://medium.com/@aadityaseal/dont-automate-the-process-fix-it-first-6b3ddb117b5f?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Requirements to Responsible Value: What PMI’s Business Analysis Guide Taught Me About AI…](https://medium.com/@Akanksha_Gupta/from-requirements-to-responsible-value-what-pmis-business-analysis-guide-taught-me-about-ai-c9c78dd0aca5?source=rss------artificial_intelligence-5)**
-> 🔹 **[An Alien Mind: What OpenAI’s Chief Scientist Actually Warned About](https://aiadvances.org/an-alien-mind-what-openais-chief-scientist-actually-warned-about-418a0f621ac8?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Can’t Slow Down. The Money Keeps Pouring In.  But Who Can Still Trace Where It Comes From.](https://medium.com/@highstakesaiintel/ai-cant-slow-down-the-money-keeps-pouring-in-but-who-can-still-trace-where-it-comes-from-52a1a475fd56?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI Admits Its AI Models Did Some Strange Things, Here’s What Happened](https://medium.com/the-code-frontier/openai-admits-its-ai-models-did-some-strange-things-heres-what-happened-a6cd60d292a3?source=rss------artificial_intelligence-5)**
+> 🔹 **[TOKEN LIFE MATTERS](https://medium.com/@aazam.parvez/token-life-matters-d70cbee1c8e4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building an End-to-End E-Commerce Demand Forecasting System with XGBoost &amp; Streamlit](https://medium.com/@isaacmcharo9/building-an-end-to-end-e-commerce-demand-forecasting-system-with-xgboost-streamlit-0b3ae900c8aa?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Aren’t Failing. The Tech Job Market is Shifting &lpar;And How to Survive It&rpar;](https://medium.com/@vykrram/you-arent-failing-the-tech-job-market-is-shifting-and-how-to-survive-it-ab71ca576640?source=rss------artificial_intelligence-5)**
+> 🔹 **[Putting Efficiency into Practice: Unifying Robotics AI and Control Development](https://medium.com/@steveski170/putting-efficiency-into-practice-unifying-robotics-ai-and-control-development-3708fa72b4d0?source=rss------artificial_intelligence-5)**
+> 🔹 **[캐시 운영 시 고려해야할 2가지 — Cache Evict는 누구의 책임인가?](https://medium.com/@evanbackeng/%EC%BA%90%EC%8B%9C-%EC%9A%B4%EC%98%81-%EC%8B%9C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC%ED%95%A0-2%EA%B0%80%EC%A7%80-cache-evict%EB%8A%94-%EB%88%84%EA%B5%AC%EC%9D%98-%EC%B1%85%EC%9E%84%EC%9D%B8%EA%B0%80-0671e072a25b?source=rss------backend_development-5)**
+> 🔹 **[New low-cost burstable Amazon EC2 T8i instances are generally available](https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/)**
+> 🔹 **[AI Is Creating Developers Who Can Ship Code They Cannot Debug](https://javascript.plainenglish.io/ai-is-creating-developers-who-can-ship-code-they-cannot-debug-9d1302f2554b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
