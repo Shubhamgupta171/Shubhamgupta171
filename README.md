@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI Acceleration, Entropy, and Universe 25 Part II: Is Humanity Sliding Towards Self-Induced…](https://medium.com/@henri.baskorvil/ai-acceleration-entropy-and-universe-25-part-ii-is-humanity-sliding-towards-self-induced-8fa0eb1f1e6e?source=rss------artificial_intelligence-5)**
-> 🔹 **[3 AI-Assisted Income Paths That Make Sense for Affiliate Marketers](https://medium.com/@clintherman/3-ai-assisted-income-paths-that-make-sense-for-affiliate-marketers-9339ec1eacef?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Scaled My AI Agency to $72K a Month by Refusing to Sell to Local Businesses](https://medium.com/@Nestora/i-scaled-my-ai-agency-to-72k-a-month-by-refusing-to-sell-to-local-businesses-9b5b0000f14b?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Governance Belongs in Communications — Not Just IT](https://medium.com/@jodibragg/ai-governance-belongs-in-communications-not-just-it-5ab268db3f87?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Future of Math in AI era](https://medium.com/@paulbazhutov/the-future-of-math-in-ai-era-d780f84e75a3?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Acceleration, Entropy, and Universe 25: Is Humanity Sliding Towards Self-Induced Extinction?](https://medium.com/@henri.baskorvil/ai-acceleration-entropy-and-universe-25-is-humanity-sliding-towards-self-induced-extinction-b6376eb1eccc?source=rss------artificial_intelligence-5)**
-> 🔹 **[10,000 AI agents, 88 hours, one unsolved math problem](https://medium.com/@kankit570/10-000-ai-agents-88-hours-one-unsolved-math-problem-82e0ffe52cd4?source=rss------artificial_intelligence-5)**
-> 🔹 **[When the World Starts Responding](https://medium.com/@bekwagoro/when-the-world-starts-responding-686342ad0e97?source=rss------artificial_intelligence-5)**
+> 🔹 **[Sprawl Cost Is Superlinear Under a Fixed Monitoring Budget: A Pre‑Registered Calibration of Age...](https://medium.com/@tinholt/sprawl-cost-is-superlinear-under-a-fixed-monitoring-budget-a-pre-registered-calibration-of-agent-e24cbaa7e62a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Subject Reference AI for YouTube Creators](https://medium.com/@videoscripter349/subject-reference-ai-for-youtube-creators-270dcdffb444?source=rss------artificial_intelligence-5)**
+> 🔹 **[Same voice test: about $3.50](https://agrawalparth.medium.com/same-voice-test-about-3-50-163fe5c357e5?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Around Me: From Everyday AI to Data-Driven E-Commerce Decisions](https://medium.com/@sisodiyasandharv411/ai-around-me-from-everyday-ai-to-data-driven-e-commerce-decisions-bf18366846e9?source=rss------artificial_intelligence-5)**
+> 🔹 **[REST API Explained for Beginners: What It Actually Is and Why It Matters](https://medium.com/@manasasurusuri0909/rest-api-explained-for-beginners-what-it-actually-is-and-why-it-matters-9f7eda7e33f0?source=rss------backend_development-5)**
+> 🔹 **[Every Retail Chain Has the Same Tuesday Morning.](https://medium.com/@marketing_79269/every-retail-chain-has-the-same-tuesday-morning-f49d4f57eeac?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Coding Tools in 2026: How GitHub Copilot and AI Coding Agents Are Changing Software Developm...](https://medium.com/@techassistant.hub/ai-coding-tools-in-2026-how-github-copilot-and-ai-coding-agents-are-changing-software-development-67b826ca26de?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is a Bad Editor. That Doesn’t Mean You Shouldn’t Use It to Edit.](https://medium.com/coding-nexus/ai-is-a-bad-editor-that-doesnt-mean-you-shouldn-t-use-it-to-edit-1020f104c724?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
