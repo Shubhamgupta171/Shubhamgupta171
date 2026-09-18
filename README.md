@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI Beyond Human Control?](https://timecapulewritter.medium.com/ai-beyond-human-control-cb0d1754022e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can You Trust an AI-Built SaaS With More Than One Customer’s Data?](https://medium.com/@khushijigenshah/can-you-trust-an-ai-built-saas-with-more-than-one-customers-data-572fa44f68f2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude’s Computer Use, Skills &amp; Files APIs All Go GA — Top 10 AI &amp; Flutter News September 18, 2...](https://blurbrahlab.medium.com/claudes-computer-use-skills-files-apis-all-go-ga-top-10-ai-flutter-news-september-18-2026-7c24eeb5feb8?source=rss------artificial_intelligence-5)**
-> 🔹 **[He Wasn’t the Problem. My Attachment Was.](https://medium.com/@mercyratos/he-wasnt-the-problem-my-attachment-was-75eb96f1303f?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI companion apps handle emotional dependency and why it matters](https://medium.com/@TesseractAcade1/how-ai-companion-apps-handle-emotional-dependency-and-why-it-matters-8bc04ce97592?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Stopped Treating AI Like a Search Engine. Here’s What Changed.](https://medium.com/@trinaadpotluri/i-stopped-treating-ai-like-a-search-engine-heres-what-changed-bf5fd86035e1?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Build a Multi-Tenant SaaS With AI](https://medium.com/@8080AI/how-to-build-a-multi-tenant-saas-with-ai-9c08a7af06ce?source=rss------artificial_intelligence-5)**
-> 🔹 **[Another Unreliable Dependency, Part 4 of 10](https://blog.stackademic.com/another-unreliable-dependency-part-4-of-10-426ec0b981d9?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI in Germany’s Mittelstand: Who Uses It and Why?](https://christinapletowski.medium.com/ai-in-germanys-mittelstand-who-uses-it-and-why-f6905f09eb66?source=rss------artificial_intelligence-5)**
+> 🔹 **[313 MB of Git History, 564 Failed Uploads, and No Switch to Turn It Off](https://medium.com/@chenyuan19920509/313-mb-of-git-history-564-failed-uploads-and-no-switch-to-turn-it-off-0a04b4d48ebe?source=rss------artificial_intelligence-5)**
+> 🔹 **[Moment of Creation](https://artfullyprompt.medium.com/moment-of-creation-d43c791c7e31?source=rss------artificial_intelligence-5)**
+> 🔹 **[MCP &lpar;Model Context Protocol&rpar;](https://medium.com/@Amarjeet0406/mcp-model-context-protocol-c5b62d562c08?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Stripped Away the Story. Then “Find the Town Judge” Became an Indegree–Outdegree Problem.](https://medium.com/@saipranavmoluguri2001/i-stripped-away-the-story-then-find-the-town-judge-became-an-indegree-outdegree-problem-b3e8d23f2d76?source=rss------data_structures-5)**
+> 🔹 **[LLMs vs Traditional ML in Healthcare: A Complete Comparison](https://medium.com/@rudradcruze/llms-vs-traditional-ml-in-healthcare-a-complete-comparison-01da534d4be9?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Gave Gemini Notebook a Lecture. Here’s the Study System It Actually Builds.](https://medium.com/@mubashirburfat4/i-gave-gemini-notebook-a-lecture-heres-the-study-system-it-actually-builds-7c5c059919bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Won’t Make Humans Useless. But It Could Make Power More Unequal.](https://medium.com/@justicendlovubusiness/ai-wont-make-humans-useless-but-it-could-make-power-more-unequal-0a08aad39b07?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
