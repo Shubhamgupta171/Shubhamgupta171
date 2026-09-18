@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI in Germany’s Mittelstand: Who Uses It and Why?](https://christinapletowski.medium.com/ai-in-germanys-mittelstand-who-uses-it-and-why-f6905f09eb66?source=rss------artificial_intelligence-5)**
-> 🔹 **[313 MB of Git History, 564 Failed Uploads, and No Switch to Turn It Off](https://medium.com/@chenyuan19920509/313-mb-of-git-history-564-failed-uploads-and-no-switch-to-turn-it-off-0a04b4d48ebe?source=rss------artificial_intelligence-5)**
-> 🔹 **[Moment of Creation](https://artfullyprompt.medium.com/moment-of-creation-d43c791c7e31?source=rss------artificial_intelligence-5)**
-> 🔹 **[MCP &lpar;Model Context Protocol&rpar;](https://medium.com/@Amarjeet0406/mcp-model-context-protocol-c5b62d562c08?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Stripped Away the Story. Then “Find the Town Judge” Became an Indegree–Outdegree Problem.](https://medium.com/@saipranavmoluguri2001/i-stripped-away-the-story-then-find-the-town-judge-became-an-indegree-outdegree-problem-b3e8d23f2d76?source=rss------data_structures-5)**
-> 🔹 **[LLMs vs Traditional ML in Healthcare: A Complete Comparison](https://medium.com/@rudradcruze/llms-vs-traditional-ml-in-healthcare-a-complete-comparison-01da534d4be9?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Gave Gemini Notebook a Lecture. Here’s the Study System It Actually Builds.](https://medium.com/@mubashirburfat4/i-gave-gemini-notebook-a-lecture-heres-the-study-system-it-actually-builds-7c5c059919bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Won’t Make Humans Useless. But It Could Make Power More Unequal.](https://medium.com/@justicendlovubusiness/ai-wont-make-humans-useless-but-it-could-make-power-more-unequal-0a08aad39b07?source=rss------artificial_intelligence-5)**
+> 🔹 **[Django’s Authentication System, Properly Understood: From Login Forms to Custom Backends](https://python.plainenglish.io/djangos-authentication-system-properly-understood-from-login-forms-to-custom-backends-19111691ecd6?source=rss------backend_development-5)**
+> 🔹 **[What Is Jev AI? The New AI That Cannot Write a Single Word](https://medium.com/@harshiljani2002/what-is-jev-ai-the-new-ai-that-cannot-write-a-single-word-df57baa23cd5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Monolithic vs Microservices Architecture: Choosing the Right Approach](https://towardsdev.com/monolithic-vs-microservices-architecture-choosing-the-right-approach-401889110fe5?source=rss------backend_development-5)**
+> 🔹 **[Decoding the Black Box: How Anthropic Maps Claude’s Internal Circuits](https://aiadvances.org/decoding-the-black-box-how-anthropic-maps-claudes-internal-circuits-b0354f35275b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Dash, the Zero, and the Number: Designing Public State in a Multi-Tenant SaaS](https://blog.devgenius.io/the-dash-the-zero-and-the-number-designing-public-state-in-a-multi-tenant-saas-ab75b5bb905f?source=rss------system_design-5)**
+> 🔹 **[Microservices Interview Questions and Answers for Senior Engineers](https://medium.com/javarevisited/microservices-interview-questions-and-answers-for-senior-engineers-eb711f8d382d?source=rss------backend_development-5)**
+> 🔹 **[One AI Agent Can Make a Mistake. What Happens When 100 Agree?](https://veritas-stories.medium.com/one-ai-agent-can-make-a-mistake-what-happens-when-100-agree-51a49da54e0c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Will AI Actually Steal Our Jobs? How to Thrive and Lead in the AI Era](https://agcharith.medium.com/will-ai-actually-steal-our-jobs-how-to-thrive-and-lead-in-the-ai-era-fe435d8c6f3f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
