@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[OpenAI Admits Its AI Models Did Some Strange Things, Here’s What Happened](https://medium.com/the-code-frontier/openai-admits-its-ai-models-did-some-strange-things-heres-what-happened-a6cd60d292a3?source=rss------artificial_intelligence-5)**
-> 🔹 **[TOKEN LIFE MATTERS](https://medium.com/@aazam.parvez/token-life-matters-d70cbee1c8e4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building an End-to-End E-Commerce Demand Forecasting System with XGBoost &amp; Streamlit](https://medium.com/@isaacmcharo9/building-an-end-to-end-e-commerce-demand-forecasting-system-with-xgboost-streamlit-0b3ae900c8aa?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Aren’t Failing. The Tech Job Market is Shifting &lpar;And How to Survive It&rpar;](https://medium.com/@vykrram/you-arent-failing-the-tech-job-market-is-shifting-and-how-to-survive-it-ab71ca576640?source=rss------artificial_intelligence-5)**
-> 🔹 **[Putting Efficiency into Practice: Unifying Robotics AI and Control Development](https://medium.com/@steveski170/putting-efficiency-into-practice-unifying-robotics-ai-and-control-development-3708fa72b4d0?source=rss------artificial_intelligence-5)**
-> 🔹 **[캐시 운영 시 고려해야할 2가지 — Cache Evict는 누구의 책임인가?](https://medium.com/@evanbackeng/%EC%BA%90%EC%8B%9C-%EC%9A%B4%EC%98%81-%EC%8B%9C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC%ED%95%A0-2%EA%B0%80%EC%A7%80-cache-evict%EB%8A%94-%EB%88%84%EA%B5%AC%EC%9D%98-%EC%B1%85%EC%9E%84%EC%9D%B8%EA%B0%80-0671e072a25b?source=rss------backend_development-5)**
-> 🔹 **[New low-cost burstable Amazon EC2 T8i instances are generally available](https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/)**
-> 🔹 **[AI Is Creating Developers Who Can Ship Code They Cannot Debug](https://javascript.plainenglish.io/ai-is-creating-developers-who-can-ship-code-they-cannot-debug-9d1302f2554b?source=rss------artificial_intelligence-5)**
+> 🔹 **[From 56-Page Chaos to AI Advisor: Building a RAG &amp; Graph-Powered Chatbot for University Advisin...](https://medium.com/@shazadakbar800/from-56-page-chaos-to-ai-advisor-building-a-rag-graph-powered-chatbot-for-university-advising-b5f5b941d199?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 AI Tools That Can Save You Hours of Work in 2026](https://medium.com/@onlineworkwork46/7-ai-tools-that-can-save-you-hours-of-work-in-2026-7f0f6de36b87?source=rss------artificial_intelligence-5)**
+> 🔹 **[2&gt;&amp;1](https://medium.com/@nirbhaysingh281/2-1-ca8c19b41810?source=rss------artificial_intelligence-5)**
+> 🔹 **[JWT Isn’t Complicated. Everyone Just Explains It Badly.](https://medium.com/@aniruththen3/jwt-isnt-complicated-everyone-just-explains-it-badly-668f7364340c?source=rss------backend_development-5)**
+> 🔹 **[The 10 Social Media Traps
+1.](https://medium.com/@malqa502/the-10-social-media-traps-1-24a48f75a129?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Making Social Media Smarter and Faster](https://medium.com/@shabeebadigi/how-ai-is-making-social-media-smarter-and-faster-5a291ac494c9?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Code Review Created a New Kind of Bug: The One Nobody Looks for Anymore.](https://medium.com/@thedevnotebook/ai-code-review-new-kind-of-bug-5118ebb5a58b?source=rss------artificial_intelligence-5)**
+> 🔹 **[What an AI UGC video actually costs in 2026](https://medium.com/@contact_95096/what-an-ai-ugc-video-actually-costs-in-2026-45159411bff8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
