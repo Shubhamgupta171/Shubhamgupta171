@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[From 56-Page Chaos to AI Advisor: Building a RAG &amp; Graph-Powered Chatbot for University Advisin...](https://medium.com/@shazadakbar800/from-56-page-chaos-to-ai-advisor-building-a-rag-graph-powered-chatbot-for-university-advising-b5f5b941d199?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 AI Tools That Can Save You Hours of Work in 2026](https://medium.com/@onlineworkwork46/7-ai-tools-that-can-save-you-hours-of-work-in-2026-7f0f6de36b87?source=rss------artificial_intelligence-5)**
-> 🔹 **[2&gt;&amp;1](https://medium.com/@nirbhaysingh281/2-1-ca8c19b41810?source=rss------artificial_intelligence-5)**
-> 🔹 **[JWT Isn’t Complicated. Everyone Just Explains It Badly.](https://medium.com/@aniruththen3/jwt-isnt-complicated-everyone-just-explains-it-badly-668f7364340c?source=rss------backend_development-5)**
-> 🔹 **[The 10 Social Media Traps
-1.](https://medium.com/@malqa502/the-10-social-media-traps-1-24a48f75a129?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Is Making Social Media Smarter and Faster](https://medium.com/@shabeebadigi/how-ai-is-making-social-media-smarter-and-faster-5a291ac494c9?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Code Review Created a New Kind of Bug: The One Nobody Looks for Anymore.](https://medium.com/@thedevnotebook/ai-code-review-new-kind-of-bug-5118ebb5a58b?source=rss------artificial_intelligence-5)**
-> 🔹 **[What an AI UGC video actually costs in 2026](https://medium.com/@contact_95096/what-an-ai-ugc-video-actually-costs-in-2026-45159411bff8?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Beyond Human Control?](https://timecapulewritter.medium.com/ai-beyond-human-control-cb0d1754022e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can You Trust an AI-Built SaaS With More Than One Customer’s Data?](https://medium.com/@khushijigenshah/can-you-trust-an-ai-built-saas-with-more-than-one-customers-data-572fa44f68f2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude’s Computer Use, Skills &amp; Files APIs All Go GA — Top 10 AI &amp; Flutter News September 18, 2...](https://blurbrahlab.medium.com/claudes-computer-use-skills-files-apis-all-go-ga-top-10-ai-flutter-news-september-18-2026-7c24eeb5feb8?source=rss------artificial_intelligence-5)**
+> 🔹 **[He Wasn’t the Problem. My Attachment Was.](https://medium.com/@mercyratos/he-wasnt-the-problem-my-attachment-was-75eb96f1303f?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI companion apps handle emotional dependency and why it matters](https://medium.com/@TesseractAcade1/how-ai-companion-apps-handle-emotional-dependency-and-why-it-matters-8bc04ce97592?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Stopped Treating AI Like a Search Engine. Here’s What Changed.](https://medium.com/@trinaadpotluri/i-stopped-treating-ai-like-a-search-engine-heres-what-changed-bf5fd86035e1?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Build a Multi-Tenant SaaS With AI](https://medium.com/@8080AI/how-to-build-a-multi-tenant-saas-with-ai-9c08a7af06ce?source=rss------artificial_intelligence-5)**
+> 🔹 **[Another Unreliable Dependency, Part 4 of 10](https://blog.stackademic.com/another-unreliable-dependency-part-4-of-10-426ec0b981d9?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
