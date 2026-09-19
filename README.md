@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Prepare for a Senior Software Engineer Interview in 3 Months](https://medium.com/@lifenoteswithpriyanka/how-to-prepare-for-a-senior-software-engineer-interview-in-3-months-975062c6bb09?source=rss------backend_development-5)**
-> 🔹 **[Google’s new transcription model scores 2.6% WER and still rewrites what you said](https://medium.com/@thenewgencoder/googles-new-transcription-model-scores-2-6-wer-and-still-rewrites-what-you-said-dfb7c860f584?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Amānah Cannot Be Delegated to a Non-Human Agent](https://medium.com/@zakipantellica/why-am%C4%81nah-cannot-be-delegated-to-a-non-human-agent-3a7eef4b23b9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Revolutionizing Pharmaceutics: How AI is Transforming Drug Delivery Systems](https://medium.com/@singhrs3589/revolutionizing-pharmaceutics-how-ai-is-transforming-drug-delivery-systems-ee26df7f2109?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Use AI to Write Better Customer Emails &lpar;With Examples&rpar;](https://medium.com/@mohitjibhkate007/how-to-use-ai-to-write-better-customer-emails-with-examples-c9afd3080727?source=rss------artificial_intelligence-5)**
-> 🔹 **[I built 73 free face measurement tools. Most never see your photo.](https://medium.com/@lverus/i-built-73-free-face-measurement-tools-most-never-see-your-photo-6122ba94e8e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Made Me Faster at Writing Code and Slower at Understanding It](https://medium.com/skillstuff/ai-made-me-faster-at-writing-code-and-slower-at-understanding-it-59716f51f03c?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is RAG? How AI Can Answer From Your Data Without Retraining the Model](https://dreamlogsdata.medium.com/what-is-rag-how-ai-can-answer-from-your-data-without-retraining-the-model-c120f3c7a2eb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why a Greenhouse Inventory App Refuses to Guess the Next Step](https://blog.devgenius.io/why-a-greenhouse-inventory-app-refuses-to-guess-the-next-step-1857e640d7d1?source=rss------system_design-5)**
+> 🔹 **[Evals: It Never Crashed, and It Was Still Broken](https://medium.com/@sainitesh/evals-it-never-crashed-and-it-was-still-broken-633fc50ea5cb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Prompt Is Becoming the Interface: Inside PROMT.AZ, a 7,000+ Prompt Library Built for the AI...](https://medium.com/@allahverdiyev.tural/the-prompt-is-becoming-the-interface-inside-promt-az-a-7-000-prompt-library-built-for-the-ai-era-5a2f4e361cfa?source=rss------artificial_intelligence-5)**
+> 🔹 **[Azerbaijan Needs a Data Layer. Statix.az Is Building One.](https://medium.com/@allahverdiyev.tural/azerbaijan-needs-a-data-layer-statix-az-is-building-one-ddaeff34f161?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future of AI in Healthcare: How It’s Changing the Way Teams Work](https://medium.com/@kennedyobodosike13/the-future-of-ai-in-healthcare-how-its-changing-the-way-teams-work-f8bce9a4e3aa?source=rss------artificial_intelligence-5)**
+> 🔹 **[How motion AI Streamlining Creative Production](https://medium.com/@oisharjorahaman/how-motion-ai-streamlining-creative-production-310888eb8414?source=rss------artificial_intelligence-5)**
+> 🔹 **[Approval Is Not a Receipt](https://medium.com/@osmankaankars/approval-is-not-a-receipt-ca4c69a4ea53?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mamba’yı Derinlemesine Anlamak: Durum, Seçicilik ve Unutmanın Gücü](https://medium.com/@meryemmcftc/mambay%C4%B1-derinlemesine-anlamak-durum-se%C3%A7icilik-ve-unutman%C4%B1n-g%C3%BCc%C3%BC-c16029ae3cab?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
