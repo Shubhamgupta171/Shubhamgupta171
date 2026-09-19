@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[If You Master These 10 Prompting Principles, AI Turns Into Your Second Brain](https://medium.com/@JustSnehal/if-you-master-these-10-prompting-principles-ai-turns-into-your-second-brain-16a013ffeeb7?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Senior Engineer Deleted Half the AI-Generated Architecture Before We Shipped. Three Months L...](https://medium.com/codex/my-senior-engineer-deleted-half-the-ai-generated-architecture-before-we-shipped-three-months-later-68cdab8eec4f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building Intelligent Systems with Agentic AI: The Complete Orchestrator Framework Guide](https://medium.com/@jhanvijain052003/building-intelligent-systems-with-agentic-ai-the-complete-orchestrator-framework-guide-ad7a77f01b1f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Rehydration Stack](https://medium.com/@lenatatsumori/the-rehydration-stack-eb9e7923b8c3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Our Fastest Engineer Used AI for Everything. Then Production Broke and He Couldn’t Debug Own Co...](https://medium.com/javarevisited/our-fastest-engineer-used-ai-for-everything-then-production-broke-and-he-couldnt-debug-own-code-5f18783755ce?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Isn’t Replacing Developers — It’s De‑Architecting Cognition](https://medium.com/@josetguevara108/ai-isnt-replacing-developers-it-s-de-architecting-cognition-2c9c3a7a1615?source=rss------artificial_intelligence-5)**
-> 🔹 **[What is AI, ML, DL and DS?](https://medium.com/@dsanthoshpillai/what-is-ai-ml-dl-and-ds-0a32ad272bab?source=rss------artificial_intelligence-5)**
-> 🔹 **[Build an MVP Before Hiring Developers: A Guide for Founders](https://medium.com/@shiv.i.ghariwala/build-an-mvp-before-hiring-developers-a-guide-for-founders-f65bac200155?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Prepare for a Senior Software Engineer Interview in 3 Months](https://medium.com/@lifenoteswithpriyanka/how-to-prepare-for-a-senior-software-engineer-interview-in-3-months-975062c6bb09?source=rss------backend_development-5)**
+> 🔹 **[Google’s new transcription model scores 2.6% WER and still rewrites what you said](https://medium.com/@thenewgencoder/googles-new-transcription-model-scores-2-6-wer-and-still-rewrites-what-you-said-dfb7c860f584?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Amānah Cannot Be Delegated to a Non-Human Agent](https://medium.com/@zakipantellica/why-am%C4%81nah-cannot-be-delegated-to-a-non-human-agent-3a7eef4b23b9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Revolutionizing Pharmaceutics: How AI is Transforming Drug Delivery Systems](https://medium.com/@singhrs3589/revolutionizing-pharmaceutics-how-ai-is-transforming-drug-delivery-systems-ee26df7f2109?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Use AI to Write Better Customer Emails &lpar;With Examples&rpar;](https://medium.com/@mohitjibhkate007/how-to-use-ai-to-write-better-customer-emails-with-examples-c9afd3080727?source=rss------artificial_intelligence-5)**
+> 🔹 **[I built 73 free face measurement tools. Most never see your photo.](https://medium.com/@lverus/i-built-73-free-face-measurement-tools-most-never-see-your-photo-6122ba94e8e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Made Me Faster at Writing Code and Slower at Understanding It](https://medium.com/skillstuff/ai-made-me-faster-at-writing-code-and-slower-at-understanding-it-59716f51f03c?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is RAG? How AI Can Answer From Your Data Without Retraining the Model](https://dreamlogsdata.medium.com/what-is-rag-how-ai-can-answer-from-your-data-without-retraining-the-model-c120f3c7a2eb?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
