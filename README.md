@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Insurtech Market Size, Growth, Trends &amp; Forecast 2033](https://medium.com/@seodmr63/insurtech-market-size-growth-trends-forecast-2033-41e9ebdbd13e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The OSI Model in Cybersecurity: How Attackers Target Every Layer — And How Defenders Fight Back...](https://medium.com/@cyberfox282/the-osi-model-in-cybersecurity-how-attackers-target-every-layer-and-how-defenders-fight-back-304d4d5cd5e0?source=rss------artificial_intelligence-5)**
-> 🔹 **[I’ve been using Claude as a PM tool for months - here’s what actually changed](https://medium.com/@ghoshadave/ive-been-using-claude-as-a-pm-tool-for-months-here-s-what-actually-changed-2a287c16d666?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Actually Set Up GPU Sharing on Kubernetes With HAMi: Six Things to Know Before You Start](https://medium.com/@annem.usedu/how-to-actually-set-up-gpu-sharing-on-kubernetes-with-hami-six-things-to-know-before-you-start-b41178afd713?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Company Wants Me to Use AI to Implement Big Features in Minutes. Here is What I Feel About I...](https://medium.com/@rajmishra757/ai-coding-agents-developer-reality-and-impact-e9f8823f9328?source=rss------artificial_intelligence-5)**
-> 🔹 **[When ChatGPT Says It’s Just Fatigue: Lyme Disease and the Limits of AI Diagnosis](https://medium.com/@v3rse1/when-chatgpt-says-its-just-fatigue-lyme-disease-and-the-limits-of-ai-diagnosis-facb624e68b4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Agent’s System Prompt Is Not a Policy. Here’s What Is.](https://medium.com/@cloudpankaj/your-ai-agents-system-prompt-is-not-a-policy-here-s-what-is-746bb529b77b?source=rss------artificial_intelligence-5)**
-> 🔹 **[On the Privacy Risks of Meta’s ‘AI Glasses’ — Virtual Reconstructions of the World and Contextu...](https://medium.com/@noellemmartin/on-the-privacy-risks-of-metas-ai-glasses-virtual-reconstructions-of-the-world-and-contextual-a45a00134d8a?source=rss------artificial_intelligence-5)**
+> 🔹 **[If You Master These 10 Prompting Principles, AI Turns Into Your Second Brain](https://medium.com/@JustSnehal/if-you-master-these-10-prompting-principles-ai-turns-into-your-second-brain-16a013ffeeb7?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Senior Engineer Deleted Half the AI-Generated Architecture Before We Shipped. Three Months L...](https://medium.com/codex/my-senior-engineer-deleted-half-the-ai-generated-architecture-before-we-shipped-three-months-later-68cdab8eec4f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building Intelligent Systems with Agentic AI: The Complete Orchestrator Framework Guide](https://medium.com/@jhanvijain052003/building-intelligent-systems-with-agentic-ai-the-complete-orchestrator-framework-guide-ad7a77f01b1f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Rehydration Stack](https://medium.com/@lenatatsumori/the-rehydration-stack-eb9e7923b8c3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Our Fastest Engineer Used AI for Everything. Then Production Broke and He Couldn’t Debug Own Co...](https://medium.com/javarevisited/our-fastest-engineer-used-ai-for-everything-then-production-broke-and-he-couldnt-debug-own-code-5f18783755ce?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Isn’t Replacing Developers — It’s De‑Architecting Cognition](https://medium.com/@josetguevara108/ai-isnt-replacing-developers-it-s-de-architecting-cognition-2c9c3a7a1615?source=rss------artificial_intelligence-5)**
+> 🔹 **[What is AI, ML, DL and DS?](https://medium.com/@dsanthoshpillai/what-is-ai-ml-dl-and-ds-0a32ad272bab?source=rss------artificial_intelligence-5)**
+> 🔹 **[Build an MVP Before Hiring Developers: A Guide for Founders](https://medium.com/@shiv.i.ghariwala/build-an-mvp-before-hiring-developers-a-guide-for-founders-f65bac200155?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
