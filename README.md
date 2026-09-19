@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Django’s Authentication System, Properly Understood: From Login Forms to Custom Backends](https://python.plainenglish.io/djangos-authentication-system-properly-understood-from-login-forms-to-custom-backends-19111691ecd6?source=rss------backend_development-5)**
-> 🔹 **[What Is Jev AI? The New AI That Cannot Write a Single Word](https://medium.com/@harshiljani2002/what-is-jev-ai-the-new-ai-that-cannot-write-a-single-word-df57baa23cd5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Monolithic vs Microservices Architecture: Choosing the Right Approach](https://towardsdev.com/monolithic-vs-microservices-architecture-choosing-the-right-approach-401889110fe5?source=rss------backend_development-5)**
-> 🔹 **[Decoding the Black Box: How Anthropic Maps Claude’s Internal Circuits](https://aiadvances.org/decoding-the-black-box-how-anthropic-maps-claudes-internal-circuits-b0354f35275b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Dash, the Zero, and the Number: Designing Public State in a Multi-Tenant SaaS](https://blog.devgenius.io/the-dash-the-zero-and-the-number-designing-public-state-in-a-multi-tenant-saas-ab75b5bb905f?source=rss------system_design-5)**
-> 🔹 **[Microservices Interview Questions and Answers for Senior Engineers](https://medium.com/javarevisited/microservices-interview-questions-and-answers-for-senior-engineers-eb711f8d382d?source=rss------backend_development-5)**
-> 🔹 **[One AI Agent Can Make a Mistake. What Happens When 100 Agree?](https://veritas-stories.medium.com/one-ai-agent-can-make-a-mistake-what-happens-when-100-agree-51a49da54e0c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Will AI Actually Steal Our Jobs? How to Thrive and Lead in the AI Era](https://agcharith.medium.com/will-ai-actually-steal-our-jobs-how-to-thrive-and-lead-in-the-ai-era-fe435d8c6f3f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Insurtech Market Size, Growth, Trends &amp; Forecast 2033](https://medium.com/@seodmr63/insurtech-market-size-growth-trends-forecast-2033-41e9ebdbd13e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The OSI Model in Cybersecurity: How Attackers Target Every Layer — And How Defenders Fight Back...](https://medium.com/@cyberfox282/the-osi-model-in-cybersecurity-how-attackers-target-every-layer-and-how-defenders-fight-back-304d4d5cd5e0?source=rss------artificial_intelligence-5)**
+> 🔹 **[I’ve been using Claude as a PM tool for months - here’s what actually changed](https://medium.com/@ghoshadave/ive-been-using-claude-as-a-pm-tool-for-months-here-s-what-actually-changed-2a287c16d666?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Actually Set Up GPU Sharing on Kubernetes With HAMi: Six Things to Know Before You Start](https://medium.com/@annem.usedu/how-to-actually-set-up-gpu-sharing-on-kubernetes-with-hami-six-things-to-know-before-you-start-b41178afd713?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Company Wants Me to Use AI to Implement Big Features in Minutes. Here is What I Feel About I...](https://medium.com/@rajmishra757/ai-coding-agents-developer-reality-and-impact-e9f8823f9328?source=rss------artificial_intelligence-5)**
+> 🔹 **[When ChatGPT Says It’s Just Fatigue: Lyme Disease and the Limits of AI Diagnosis](https://medium.com/@v3rse1/when-chatgpt-says-its-just-fatigue-lyme-disease-and-the-limits-of-ai-diagnosis-facb624e68b4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Agent’s System Prompt Is Not a Policy. Here’s What Is.](https://medium.com/@cloudpankaj/your-ai-agents-system-prompt-is-not-a-policy-here-s-what-is-746bb529b77b?source=rss------artificial_intelligence-5)**
+> 🔹 **[On the Privacy Risks of Meta’s ‘AI Glasses’ — Virtual Reconstructions of the World and Contextu...](https://medium.com/@noellemmartin/on-the-privacy-risks-of-metas-ai-glasses-virtual-reconstructions-of-the-world-and-contextual-a45a00134d8a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
