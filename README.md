@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[5 MORE Remote Jobs You Can Get Without an Interview](https://medium.com/@themoneyonline_27237/5-more-remote-jobs-you-can-get-without-an-interview-b0370277de9a?source=rss------artificial_intelligence-5)**
-> 🔹 **[9 Places I Had to Turn Gemini Off, and the One That Has No Switch](https://medium.com/@adi_leviim/9-places-i-had-to-turn-gemini-off-and-the-one-that-has-no-switch-ccbe873aa618?source=rss------artificial_intelligence-5)**
-> 🔹 **[The part of making a test nobody accounts for](https://medium.com/@eduvettaofficial/the-part-of-making-a-test-nobody-accounts-for-b4a171729b04?source=rss------artificial_intelligence-5)**
-> 🔹 **[Video Face Swap vs. Real-Time Face Swap: What’s the Difference?](https://medium.com/@contact_22202/video-face-swap-vs-real-time-face-swap-whats-the-difference-71af326d4b1e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building CityVoice: An AI System for Detecting Civic Issues from Images](https://medium.com/@lsejal09/building-cityvoice-an-ai-system-for-detecting-civic-issues-from-images-39553c651b92?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Jev Was Built to Decide](https://kotrotsos.medium.com/why-jev-was-built-to-decide-7320c3aa7faa?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Used Claude AI Every Day for 90 Days. These 7 Prompts Saved Me 17 Hours a Week &lpar;I Tracked It&rpar;](https://medium.com/@ytzoom/i-used-claude-ai-every-day-for-90-days-these-7-prompts-saved-me-17-hours-a-week-i-tracked-it-cc84de81e26f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Code Has More Control Over Your PC Than You Think](https://pub.towardsai.net/claude-code-has-more-control-over-your-pc-than-you-think-92b49c9f88d3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Monitoring and Evaluation &lpar;M&amp;E&rpar; Part 4: An LLM Eval Loop, and the M&amp;E/MEL Officer](https://medium.com/@cele2emmanuel/monitoring-and-evaluation-m-e-part-4-an-llm-eval-loop-and-the-m-e-mel-officer-c1ba974d31bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Do you need 10GbE for local AI? 1GbE vs 2.5GbE vs 10GbE for multi-PC LLMs](https://medium.com/@popularai/do-you-need-10gbe-for-local-ai-1gbe-vs-2-5gbe-vs-10gbe-for-multi-pc-llms-b612fb6a11e9?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Building a Music Streaming App Taught Me About How Streaming Really Works](https://medium.com/@saini.lakshya97/what-building-a-music-streaming-app-taught-me-about-how-streaming-really-works-4e7fb4341335?source=rss------system_design-5)**
+> 🔹 **[What Building a Music Streaming App Taught Me About How Streaming Really Works](https://medium.com/@saini.lakshya97/what-building-a-music-streaming-app-taught-me-about-how-streaming-really-works-4e7fb4341335?source=rss------backend_development-5)**
+> 🔹 **[Why Your ChatGPT Work Allowance Disappears Faster Than You Expect](https://medium.com/@hm.fyrdauz/why-your-chatgpt-work-allowance-disappears-faster-than-you-expect-5b625cd2244c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building the Analyst They Wished They Had: A Diagnostic on Cohesion](https://medium.com/@dharanimuppana15/building-the-analyst-they-wished-they-had-a-diagnostic-on-cohesion-9b17614a2f79?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tried 30+ Data Scientist Courses on Udemy- Here Are My Top 5 Recommendations for 2026](https://medium.com/javarevisited/i-tried-30-data-scientist-courses-on-udemy-here-are-my-top-5-recommendations-for-2026-da97c634da82?source=rss------artificial_intelligence-5)**
+> 🔹 **[Here’s What Microsoft’s New AI Doom Loop Means for the Open Web_](https://medium.com/after-the-update/heres-what-microsoft-s-new-ai-doom-loop-means-for-the-open-web-25e27efda809?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
