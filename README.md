@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Reverse-Engineering Analog Realism](https://medium.com/@clvvssy1/reverse-engineering-analog-realism-f7cfb00e7282?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI, GPUs &amp; Water: What’s the Connection?](https://medium.com/@Lasya6/ai-gpus-water-whats-the-connection-223187e9e44c?source=rss------artificial_intelligence-5)**
-> 🔹 **[“What you can do with AI as a Designer, Coder and Developer?”](https://minhajxmehdii.medium.com/what-you-can-do-with-ai-as-a-designer-coder-and-developer-1f25b8c63e22?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Does Your Employee See at 9 AM? Rethinking the Modern Employee Workspace](https://medium.com/@versatile_satin_sardine_119/what-does-your-employee-see-at-9-am-rethinking-the-modern-employee-workspace-02e95406a1eb?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Coding Agents Cost: Why OpenAI Researchers Are Spending $7,000+ a Day on Tokens](https://pub.towardsai.net/ai-coding-agents-cost-why-openai-researchers-are-spending-7-000-a-day-on-tokens-1dfc21eca653?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Job Didn’t Get Smaller. It Moved.](https://medium.com/@poojavaidya_22075/the-job-didnt-get-smaller-it-moved-bd5d79841e1e?source=rss------system_design-5)**
-> 🔹 **[The Job Didn’t Get Smaller. It Moved.](https://medium.com/@poojavaidya_22075/the-job-didnt-get-smaller-it-moved-bd5d79841e1e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond Access: What JAIA’s Back-to-School AI Sprint Revealed About AI Enablement](https://medium.com/@jaia876tech/beyond-access-what-jaias-back-to-school-ai-sprint-revealed-about-ai-enablement-5402b962dd8f?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 MORE Remote Jobs You Can Get Without an Interview](https://medium.com/@themoneyonline_27237/5-more-remote-jobs-you-can-get-without-an-interview-b0370277de9a?source=rss------artificial_intelligence-5)**
+> 🔹 **[9 Places I Had to Turn Gemini Off, and the One That Has No Switch](https://medium.com/@adi_leviim/9-places-i-had-to-turn-gemini-off-and-the-one-that-has-no-switch-ccbe873aa618?source=rss------artificial_intelligence-5)**
+> 🔹 **[The part of making a test nobody accounts for](https://medium.com/@eduvettaofficial/the-part-of-making-a-test-nobody-accounts-for-b4a171729b04?source=rss------artificial_intelligence-5)**
+> 🔹 **[Video Face Swap vs. Real-Time Face Swap: What’s the Difference?](https://medium.com/@contact_22202/video-face-swap-vs-real-time-face-swap-whats-the-difference-71af326d4b1e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building CityVoice: An AI System for Detecting Civic Issues from Images](https://medium.com/@lsejal09/building-cityvoice-an-ai-system-for-detecting-civic-issues-from-images-39553c651b92?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Jev Was Built to Decide](https://kotrotsos.medium.com/why-jev-was-built-to-decide-7320c3aa7faa?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Used Claude AI Every Day for 90 Days. These 7 Prompts Saved Me 17 Hours a Week &lpar;I Tracked It&rpar;](https://medium.com/@ytzoom/i-used-claude-ai-every-day-for-90-days-these-7-prompts-saved-me-17-hours-a-week-i-tracked-it-cc84de81e26f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Code Has More Control Over Your PC Than You Think](https://pub.towardsai.net/claude-code-has-more-control-over-your-pc-than-you-think-92b49c9f88d3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
