@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why a Greenhouse Inventory App Refuses to Guess the Next Step](https://blog.devgenius.io/why-a-greenhouse-inventory-app-refuses-to-guess-the-next-step-1857e640d7d1?source=rss------system_design-5)**
-> 🔹 **[Evals: It Never Crashed, and It Was Still Broken](https://medium.com/@sainitesh/evals-it-never-crashed-and-it-was-still-broken-633fc50ea5cb?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Prompt Is Becoming the Interface: Inside PROMT.AZ, a 7,000+ Prompt Library Built for the AI...](https://medium.com/@allahverdiyev.tural/the-prompt-is-becoming-the-interface-inside-promt-az-a-7-000-prompt-library-built-for-the-ai-era-5a2f4e361cfa?source=rss------artificial_intelligence-5)**
-> 🔹 **[Azerbaijan Needs a Data Layer. Statix.az Is Building One.](https://medium.com/@allahverdiyev.tural/azerbaijan-needs-a-data-layer-statix-az-is-building-one-ddaeff34f161?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Future of AI in Healthcare: How It’s Changing the Way Teams Work](https://medium.com/@kennedyobodosike13/the-future-of-ai-in-healthcare-how-its-changing-the-way-teams-work-f8bce9a4e3aa?source=rss------artificial_intelligence-5)**
-> 🔹 **[How motion AI Streamlining Creative Production](https://medium.com/@oisharjorahaman/how-motion-ai-streamlining-creative-production-310888eb8414?source=rss------artificial_intelligence-5)**
-> 🔹 **[Approval Is Not a Receipt](https://medium.com/@osmankaankars/approval-is-not-a-receipt-ca4c69a4ea53?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mamba’yı Derinlemesine Anlamak: Durum, Seçicilik ve Unutmanın Gücü](https://medium.com/@meryemmcftc/mambay%C4%B1-derinlemesine-anlamak-durum-se%C3%A7icilik-ve-unutman%C4%B1n-g%C3%BCc%C3%BC-c16029ae3cab?source=rss------artificial_intelligence-5)**
+> 🔹 **[Reverse-Engineering Analog Realism](https://medium.com/@clvvssy1/reverse-engineering-analog-realism-f7cfb00e7282?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI, GPUs &amp; Water: What’s the Connection?](https://medium.com/@Lasya6/ai-gpus-water-whats-the-connection-223187e9e44c?source=rss------artificial_intelligence-5)**
+> 🔹 **[“What you can do with AI as a Designer, Coder and Developer?”](https://minhajxmehdii.medium.com/what-you-can-do-with-ai-as-a-designer-coder-and-developer-1f25b8c63e22?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Does Your Employee See at 9 AM? Rethinking the Modern Employee Workspace](https://medium.com/@versatile_satin_sardine_119/what-does-your-employee-see-at-9-am-rethinking-the-modern-employee-workspace-02e95406a1eb?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Coding Agents Cost: Why OpenAI Researchers Are Spending $7,000+ a Day on Tokens](https://pub.towardsai.net/ai-coding-agents-cost-why-openai-researchers-are-spending-7-000-a-day-on-tokens-1dfc21eca653?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Job Didn’t Get Smaller. It Moved.](https://medium.com/@poojavaidya_22075/the-job-didnt-get-smaller-it-moved-bd5d79841e1e?source=rss------system_design-5)**
+> 🔹 **[The Job Didn’t Get Smaller. It Moved.](https://medium.com/@poojavaidya_22075/the-job-didnt-get-smaller-it-moved-bd5d79841e1e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond Access: What JAIA’s Back-to-School AI Sprint Revealed About AI Enablement](https://medium.com/@jaia876tech/beyond-access-what-jaias-back-to-school-ai-sprint-revealed-about-ai-enablement-5402b962dd8f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
