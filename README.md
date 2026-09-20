@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Monitoring and Evaluation &lpar;M&amp;E&rpar; Part 4: An LLM Eval Loop, and the M&amp;E/MEL Officer](https://medium.com/@cele2emmanuel/monitoring-and-evaluation-m-e-part-4-an-llm-eval-loop-and-the-m-e-mel-officer-c1ba974d31bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Do you need 10GbE for local AI? 1GbE vs 2.5GbE vs 10GbE for multi-PC LLMs](https://medium.com/@popularai/do-you-need-10gbe-for-local-ai-1gbe-vs-2-5gbe-vs-10gbe-for-multi-pc-llms-b612fb6a11e9?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Building a Music Streaming App Taught Me About How Streaming Really Works](https://medium.com/@saini.lakshya97/what-building-a-music-streaming-app-taught-me-about-how-streaming-really-works-4e7fb4341335?source=rss------system_design-5)**
-> 🔹 **[What Building a Music Streaming App Taught Me About How Streaming Really Works](https://medium.com/@saini.lakshya97/what-building-a-music-streaming-app-taught-me-about-how-streaming-really-works-4e7fb4341335?source=rss------backend_development-5)**
-> 🔹 **[Why Your ChatGPT Work Allowance Disappears Faster Than You Expect](https://medium.com/@hm.fyrdauz/why-your-chatgpt-work-allowance-disappears-faster-than-you-expect-5b625cd2244c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building the Analyst They Wished They Had: A Diagnostic on Cohesion](https://medium.com/@dharanimuppana15/building-the-analyst-they-wished-they-had-a-diagnostic-on-cohesion-9b17614a2f79?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tried 30+ Data Scientist Courses on Udemy- Here Are My Top 5 Recommendations for 2026](https://medium.com/javarevisited/i-tried-30-data-scientist-courses-on-udemy-here-are-my-top-5-recommendations-for-2026-da97c634da82?source=rss------artificial_intelligence-5)**
-> 🔹 **[Here’s What Microsoft’s New AI Doom Loop Means for the Open Web_](https://medium.com/after-the-update/heres-what-microsoft-s-new-ai-doom-loop-means-for-the-open-web-25e27efda809?source=rss------artificial_intelligence-5)**
+> 🔹 **[Temporal Domain Generalization- A Brief Introduction](https://medium.com/@singhprashant0127/temporal-domain-generalization-a-brief-introduction-b60c2db1b0cb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Semigroup-JEPA: Can JEPA Models Actually Learn Physics?](https://medium.com/@mohamed-aymen.bouyahia/semigroup-jepa-can-jepa-models-actually-learn-physics-9af15a999a0d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Changes the Way You Think, Feel, and Act](https://medium.com/@coffeepizzaandwine/how-ai-changes-the-way-you-think-feel-and-act-45623894e847?source=rss------artificial_intelligence-5)**
+> 🔹 **[An AI Coding Assistant Got Hijacked. Malware Spread to Roughly 100 Repositories.](https://ai.plainenglish.io/an-ai-coding-assistant-got-hijacked-malware-spread-to-roughly-100-repositories-57a3da36af01?source=rss------artificial_intelligence-5)**
+> 🔹 **[California Moves Toward an AI “Kill Switch” as Newsom Accelerates Oversight Push](https://medium.com/stronger-content/california-moves-toward-an-ai-kill-switch-as-newsom-accelerates-oversight-push-4748d7876a24?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Job Where You Get Paid to Break AI — And There Aren’t Enough People Who Can Do It](https://medium.com/@akhan.adil050/the-job-where-you-get-paid-to-break-ai-and-there-arent-enough-people-who-can-do-it-7b5371b62be7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everyone Is Telling You To Start An AI Fiverr Gig. Nobody Telling You Has Ever Sold One.](https://medium.com/@fastdigitizer/everyone-is-telling-you-to-start-an-ai-fiverr-gig-nobody-telling-you-has-ever-sold-one-9abe1fcf6cbb?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Doesn’t Remove Ambiguity. It Automates It.](https://medium.com/automation-vector/ai-doesnt-remove-ambiguity-it-automates-it-29f288522906?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
