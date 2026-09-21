@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Temporal Domain Generalization- A Brief Introduction](https://medium.com/@singhprashant0127/temporal-domain-generalization-a-brief-introduction-b60c2db1b0cb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Semigroup-JEPA: Can JEPA Models Actually Learn Physics?](https://medium.com/@mohamed-aymen.bouyahia/semigroup-jepa-can-jepa-models-actually-learn-physics-9af15a999a0d?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Changes the Way You Think, Feel, and Act](https://medium.com/@coffeepizzaandwine/how-ai-changes-the-way-you-think-feel-and-act-45623894e847?source=rss------artificial_intelligence-5)**
-> 🔹 **[An AI Coding Assistant Got Hijacked. Malware Spread to Roughly 100 Repositories.](https://ai.plainenglish.io/an-ai-coding-assistant-got-hijacked-malware-spread-to-roughly-100-repositories-57a3da36af01?source=rss------artificial_intelligence-5)**
-> 🔹 **[California Moves Toward an AI “Kill Switch” as Newsom Accelerates Oversight Push](https://medium.com/stronger-content/california-moves-toward-an-ai-kill-switch-as-newsom-accelerates-oversight-push-4748d7876a24?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Job Where You Get Paid to Break AI — And There Aren’t Enough People Who Can Do It](https://medium.com/@akhan.adil050/the-job-where-you-get-paid-to-break-ai-and-there-arent-enough-people-who-can-do-it-7b5371b62be7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Everyone Is Telling You To Start An AI Fiverr Gig. Nobody Telling You Has Ever Sold One.](https://medium.com/@fastdigitizer/everyone-is-telling-you-to-start-an-ai-fiverr-gig-nobody-telling-you-has-ever-sold-one-9abe1fcf6cbb?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Doesn’t Remove Ambiguity. It Automates It.](https://medium.com/automation-vector/ai-doesnt-remove-ambiguity-it-automates-it-29f288522906?source=rss------artificial_intelligence-5)**
+> 🔹 **[Jev AI Model: What Is Jev and How Is It Different From ChatGPT?](https://medium.com/@techassistant.hub/jev-ai-model-what-is-jev-and-how-is-it-different-from-chatgpt-424b392486cb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Free AI Video Face Swap: How AI Is Changing Video Creativity](https://medium.com/@vidya_49342/free-ai-video-face-swap-how-ai-is-changing-video-creativity-239e4d8144b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Driven Knowledge Management System Market Size, Share, Trends &amp; Forecast to 2034](https://medium.com/@seodmr63/ai-driven-knowledge-management-system-market-size-share-trends-forecast-to-2034-a6435dcdb8ad?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Has Already Crawled Your Data. Here’s Why Deleting It May Not Be Enough](https://medium.com/@huahinretirement/ai-has-already-crawled-your-data-heres-why-deleting-it-may-not-be-enough-c49435f28e81?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Terminology](https://medium.com/@cpsharmaa/ai-terminology-05d9a7d0069c?source=rss------artificial_intelligence-5)**
+> 🔹 **[YOalphabet: Pioneering AIneography to Bridge Humanity and AI](https://medium.com/@7286520/yoalphabet-4bit-bytecode-ai-script-1e80c785f431?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Art of Writing Is Dead. Send My Condolences](https://medium.com/@maggietang99/the-art-of-writing-is-dead-send-my-condolences-24e1d4f6f5a7?source=rss------artificial_intelligence-5)**
+> 🔹 **[ConcurrentHashMap in a Nutshell — Backend Story](https://meiyaz.medium.com/concurrenthashmap-in-a-nutshell-backend-story-645a2ba2ac91?source=rss------backend_development-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
