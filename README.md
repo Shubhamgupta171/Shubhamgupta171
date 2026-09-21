@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Washoku Can Be a Way to Return to Your Own Senses](https://medium.com/@selftrust.mami/why-washoku-can-be-a-way-to-return-to-your-own-senses-187389ae2dd0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best Pangram Alternatives in 2026: 5 AI Detectors Compared](https://eliashaider.medium.com/best-pangram-alternatives-in-2026-5-ai-detectors-compared-456fff8ac66d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Human Oversight Fails Without the Power to Stop](https://medium.com/where-thought-bends/human-oversight-fails-without-the-power-to-stop-839594ea5edf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Our AI Support Agent Closed 82% of Tickets. Then Our Biggest Customer Asked Us to Turn It Off.](https://medium.com/codex/our-ai-support-agent-closed-82-of-tickets-then-our-biggest-customer-asked-us-to-turn-it-off-7208a4608cdd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Customer Sentiment Analysis for Better Customer Experience](https://medium.com/@info.voicekaro/customer-sentiment-analysis-for-better-customer-experience-ecc7e881bc7a?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Best Engineer Stopped Using AI for One Hour Every Morning. I Thought He Was Wasting Our Most...](https://medium.com/javarevisited/my-best-engineer-stopped-using-ai-for-one-hour-every-morning-i-thought-he-was-wasting-our-most-1dc074b1316c?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Gave Our Best Engineer an AI Agent That Could Do Almost Everything. Three Months Later, He A...](https://medium.com/javarevisited/we-gave-our-best-engineer-an-ai-agent-that-could-do-almost-everything-three-months-later-he-asked-c8224e4631bd?source=rss------artificial_intelligence-5)**
-> 🔹 **[10 Enterprise-Grade AI System Prompts Every Developer Needs &lpar;DeepSeek-R1, Cursor, Next.js 15&rpar;](https://medium.com/@gopalet01/10-enterprise-grade-ai-system-prompts-every-developer-needs-deepseek-r1-cursor-next-js-15-8ff128859f48?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Best Use Cases for Jev](https://medium.com/the-ai-brief/the-best-use-cases-for-jev-c64e3049fd3e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Human Reserved: Who Decides What Should Remain Human?](https://medium.com/@yoshimicode/human-reserved-who-decides-what-should-remain-human-d13cb428538c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Bill Nobody Reads: What the AI Race Is Quietly Charging All of Us](https://medium.com/@abhishekgglacc/the-bill-nobody-reads-what-the-ai-race-is-quietly-charging-all-of-us-2f7f2b41bd5f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Jev and the Rise of Decision Models](https://medium.com/the-ai-brief/jev-and-the-rise-of-decision-models-6e0bec9a3d74?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Code Skills vs Subagents vs Hooks vs Workflows: Which to Use in 2026](https://pub.towardsai.net/claude-code-skills-vs-subagents-vs-hooks-vs-workflows-which-to-use-in-2026-120db6ae5b3c?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is the New Porn](https://medium.com/illumination/ai-is-the-new-porn-593620870aa6?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Dating Scam That Had 4,700 Fake People Talking to 25,000 Humans](https://medium.com/@urano10/the-ai-dating-scam-that-had-4-700-fake-people-talking-to-25-000-humans-931803d87108?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Gave an AI Agent Permission to Deploy My Code. Then I Watched What It Did.](https://medium.com/@the_atomic_architect/ai-agents-devops-deploy-code-production-038428980c77?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
