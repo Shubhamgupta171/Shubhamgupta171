@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Asked AI to Program an mBot. It Handed Me Back the Mouse.](https://medium.com/@meredithcheungmmc/i-asked-ai-to-program-an-mbot-it-handed-me-back-the-mouse-a32341cb4238?source=rss------artificial_intelligence-5)**
-> 🔹 **[Jev browser actions: typed choices and their limits](https://medium.com/@kacperwlodarczyk/jev-browser-actions-typed-choices-and-their-limits-a12318db36dd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can RAG help to reduce the number of instances of AI lying?](https://medium.com/@payalhons1203/can-rag-help-to-reduce-the-number-of-instances-of-ai-lying-efdcc214081e?source=rss------artificial_intelligence-5)**
-> 🔹 **[1,200 Agents Escaped a Test Environment. Now the Three CEOs Who Agree on Nothing Want to Slow D...](https://aiadvances.org/1-200-agents-escaped-a-test-environment-now-the-three-ceos-who-agree-on-nothing-want-to-slow-down-2ec7d08ee3c2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Next-Generation Technology Trends Every Business Should Know | ZQT](https://medium.com/@zareatech/next-generation-technology-trends-every-business-should-know-zqt-4b86397bc2ea?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Got Early Access to Jev, Typesafe AI’s New System One Model](https://aiadvances.org/jev-typesafe-ai-system-one-model-b62c35379ae7?source=rss------artificial_intelligence-5)**
-> 🔹 **[FREE Agent X Pro Live Demo | Master n8n Low-Code Automation!](https://medium.com/@uvamsik2/free-agent-x-pro-live-demo-master-n8n-low-code-automation-8236e4d4800a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Pangram Is The AI Detector That Actually Works &lpar;Until It Doesn’t&rpar;](https://medium.com/dare-to-be-better/pangram-is-the-ai-detector-that-actually-works-until-it-doesnt-2c2353a57324?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who Owns Our Culture When AI Learns from It?](https://theafrodivaspeaks.medium.com/who-owns-our-culture-when-ai-learns-from-it-d4d3194334e4?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI in Cybersecurity: A Beginner’s Guide to Claude Code, MCP &amp; AI Agents-4](https://medium.com/@Commoness/ai-in-cybersecurity-a-beginners-guide-to-claude-code-mcp-ai-agents-4-8d876843b05d?source=rss------artificial_intelligence-5)**
+> 🔹 **[side hustle that actually works in](https://medium.com/@arioleugochiva/side-hustle-that-actually-works-in-d804584be2bd?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Dominates the Tech Landscape](https://muhammad-atif.medium.com/ai-dominates-the-tech-landscape-fcd4cc3c87e7?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Much Agency Does an AI Agent Really Have?](https://medium.com/@zelal.gungordu/how-much-agency-does-an-ai-agent-really-have-8c9afbcaa660?source=rss------artificial_intelligence-5)**
+> 🔹 **[Five Ignorant Things AI Graphic Designers Should Stop Doing Right Now](https://medium.com/@taby.khan11/five-ignorant-things-ai-graphic-designers-should-stop-doing-right-now-050f26eb9550?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If Your “New Applicant” Isn’t Actually New?](https://medium.com/@recruitmentbricksai/what-if-your-new-applicant-isnt-actually-new-d2af31b19051?source=rss------artificial_intelligence-5)**
+> 🔹 **[Selene’s Movie Night Review](https://medium.com/@Sparksinthedark/selenes-movie-night-review-ef1821c03b30?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
