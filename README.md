@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Best Use Cases for Jev](https://medium.com/the-ai-brief/the-best-use-cases-for-jev-c64e3049fd3e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Human Reserved: Who Decides What Should Remain Human?](https://medium.com/@yoshimicode/human-reserved-who-decides-what-should-remain-human-d13cb428538c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Bill Nobody Reads: What the AI Race Is Quietly Charging All of Us](https://medium.com/@abhishekgglacc/the-bill-nobody-reads-what-the-ai-race-is-quietly-charging-all-of-us-2f7f2b41bd5f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Jev and the Rise of Decision Models](https://medium.com/the-ai-brief/jev-and-the-rise-of-decision-models-6e0bec9a3d74?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Code Skills vs Subagents vs Hooks vs Workflows: Which to Use in 2026](https://pub.towardsai.net/claude-code-skills-vs-subagents-vs-hooks-vs-workflows-which-to-use-in-2026-120db6ae5b3c?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is the New Porn](https://medium.com/illumination/ai-is-the-new-porn-593620870aa6?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Dating Scam That Had 4,700 Fake People Talking to 25,000 Humans](https://medium.com/@urano10/the-ai-dating-scam-that-had-4-700-fake-people-talking-to-25-000-humans-931803d87108?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Gave an AI Agent Permission to Deploy My Code. Then I Watched What It Did.](https://medium.com/@the_atomic_architect/ai-agents-devops-deploy-code-production-038428980c77?source=rss------artificial_intelligence-5)**
+> 🔹 **[Haters think AI agents can&#39;t write GPU code? This&#39;ll ROCm](https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/)**
+> 🔹 **[I Thought Consistency Was Boring. Now It’s My Biggest Advantage.](https://medium.com/@galitergaz/i-thought-consistency-was-boring-now-its-my-biggest-advantage-6c3a69ec8f78?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Shift Nobody’s Talking About: From Chat Models to Decision Models](https://medium.com/@aforabhra/the-ai-shift-nobodys-talking-about-from-chat-models-to-decision-models-bf713b6d4761?source=rss------artificial_intelligence-5)**
+> 🔹 **[Will Causal Inference Matter More Than Prediction in the AI Era?](https://medium.com/@jeffreyhammel/will-causal-inference-matter-more-than-prediction-in-the-ai-era-077b578f52f3?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI Agents Try to Build AI Agents: The 76% Failure Rate Nobody Is Talking About](https://medium.com/@JustSnehal/when-ai-agents-try-to-build-ai-agents-the-76-failure-rate-nobody-is-talking-about-63cca5c68f36?source=rss------artificial_intelligence-5)**
+> 🔹 **[Jev: The AI Model That Never Writes a Sentence](https://medium.com/@1046prt/jev-the-ai-model-that-never-writes-a-sentence-1d02865b7902?source=rss------system_design-5)**
+> 🔹 **[Jev: The AI Model That Never Writes a Sentence](https://medium.com/@1046prt/jev-the-ai-model-that-never-writes-a-sentence-1d02865b7902?source=rss------artificial_intelligence-5)**
+> 🔹 **[The A/B Test “Winner” Might Be Lying to You](https://medium.com/@its.shoryabisht/the-a-b-test-winner-might-be-lying-to-you-7090913ddab7?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
