@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Haters think AI agents can&#39;t write GPU code? This&#39;ll ROCm](https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/)**
-> 🔹 **[I Thought Consistency Was Boring. Now It’s My Biggest Advantage.](https://medium.com/@galitergaz/i-thought-consistency-was-boring-now-its-my-biggest-advantage-6c3a69ec8f78?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Shift Nobody’s Talking About: From Chat Models to Decision Models](https://medium.com/@aforabhra/the-ai-shift-nobodys-talking-about-from-chat-models-to-decision-models-bf713b6d4761?source=rss------artificial_intelligence-5)**
-> 🔹 **[Will Causal Inference Matter More Than Prediction in the AI Era?](https://medium.com/@jeffreyhammel/will-causal-inference-matter-more-than-prediction-in-the-ai-era-077b578f52f3?source=rss------artificial_intelligence-5)**
-> 🔹 **[When AI Agents Try to Build AI Agents: The 76% Failure Rate Nobody Is Talking About](https://medium.com/@JustSnehal/when-ai-agents-try-to-build-ai-agents-the-76-failure-rate-nobody-is-talking-about-63cca5c68f36?source=rss------artificial_intelligence-5)**
-> 🔹 **[Jev: The AI Model That Never Writes a Sentence](https://medium.com/@1046prt/jev-the-ai-model-that-never-writes-a-sentence-1d02865b7902?source=rss------system_design-5)**
-> 🔹 **[Jev: The AI Model That Never Writes a Sentence](https://medium.com/@1046prt/jev-the-ai-model-that-never-writes-a-sentence-1d02865b7902?source=rss------artificial_intelligence-5)**
-> 🔹 **[The A/B Test “Winner” Might Be Lying to You](https://medium.com/@its.shoryabisht/the-a-b-test-winner-might-be-lying-to-you-7090913ddab7?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Asked AI to Program an mBot. It Handed Me Back the Mouse.](https://medium.com/@meredithcheungmmc/i-asked-ai-to-program-an-mbot-it-handed-me-back-the-mouse-a32341cb4238?source=rss------artificial_intelligence-5)**
+> 🔹 **[Jev browser actions: typed choices and their limits](https://medium.com/@kacperwlodarczyk/jev-browser-actions-typed-choices-and-their-limits-a12318db36dd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can RAG help to reduce the number of instances of AI lying?](https://medium.com/@payalhons1203/can-rag-help-to-reduce-the-number-of-instances-of-ai-lying-efdcc214081e?source=rss------artificial_intelligence-5)**
+> 🔹 **[1,200 Agents Escaped a Test Environment. Now the Three CEOs Who Agree on Nothing Want to Slow D...](https://aiadvances.org/1-200-agents-escaped-a-test-environment-now-the-three-ceos-who-agree-on-nothing-want-to-slow-down-2ec7d08ee3c2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Next-Generation Technology Trends Every Business Should Know | ZQT](https://medium.com/@zareatech/next-generation-technology-trends-every-business-should-know-zqt-4b86397bc2ea?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Got Early Access to Jev, Typesafe AI’s New System One Model](https://aiadvances.org/jev-typesafe-ai-system-one-model-b62c35379ae7?source=rss------artificial_intelligence-5)**
+> 🔹 **[FREE Agent X Pro Live Demo | Master n8n Low-Code Automation!](https://medium.com/@uvamsik2/free-agent-x-pro-live-demo-master-n8n-low-code-automation-8236e4d4800a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Pangram Is The AI Detector That Actually Works &lpar;Until It Doesn’t&rpar;](https://medium.com/dare-to-be-better/pangram-is-the-ai-detector-that-actually-works-until-it-doesnt-2c2353a57324?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
