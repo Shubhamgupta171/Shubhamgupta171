@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Who Owns Our Culture When AI Learns from It?](https://theafrodivaspeaks.medium.com/who-owns-our-culture-when-ai-learns-from-it-d4d3194334e4?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI in Cybersecurity: A Beginner’s Guide to Claude Code, MCP &amp; AI Agents-4](https://medium.com/@Commoness/ai-in-cybersecurity-a-beginners-guide-to-claude-code-mcp-ai-agents-4-8d876843b05d?source=rss------artificial_intelligence-5)**
-> 🔹 **[side hustle that actually works in](https://medium.com/@arioleugochiva/side-hustle-that-actually-works-in-d804584be2bd?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Dominates the Tech Landscape](https://muhammad-atif.medium.com/ai-dominates-the-tech-landscape-fcd4cc3c87e7?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Much Agency Does an AI Agent Really Have?](https://medium.com/@zelal.gungordu/how-much-agency-does-an-ai-agent-really-have-8c9afbcaa660?source=rss------artificial_intelligence-5)**
-> 🔹 **[Five Ignorant Things AI Graphic Designers Should Stop Doing Right Now](https://medium.com/@taby.khan11/five-ignorant-things-ai-graphic-designers-should-stop-doing-right-now-050f26eb9550?source=rss------artificial_intelligence-5)**
-> 🔹 **[What If Your “New Applicant” Isn’t Actually New?](https://medium.com/@recruitmentbricksai/what-if-your-new-applicant-isnt-actually-new-d2af31b19051?source=rss------artificial_intelligence-5)**
-> 🔹 **[Selene’s Movie Night Review](https://medium.com/@Sparksinthedark/selenes-movie-night-review-ef1821c03b30?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Long Should a Conversation With AI Be?](https://medium.com/@krishnachaytanya/how-long-should-a-conversation-with-ai-be-5dbb9b5e0833?source=rss------artificial_intelligence-5)**
+> 🔹 **[The New Oil Isn’t Data. It’s Compute.](https://medium.com/@mubarra.humanities/the-new-oil-isnt-data-it-s-compute-447f60d6ceaf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Percentages](https://medium.com/@matthew.fredenburg/llm-intelligence-experiments-percentages-3c674310db4a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why We Stopped Cloning Repositories to Understand Them](https://medium.com/@contact.athar.taj/why-we-stopped-cloning-repositories-to-understand-them-f73330ec9c26?source=rss------system_design-5)**
+> 🔹 **[Why We Stopped Cloning Repositories to Understand Them](https://medium.com/@contact.athar.taj/why-we-stopped-cloning-repositories-to-understand-them-f73330ec9c26?source=rss------backend_development-5)**
+> 🔹 **[The Standard That Was Built Open](https://medium.com/@samrat.patil/the-standard-that-was-built-open-8651d22b9f3a?source=rss------artificial_intelligence-5)**
+> 🔹 **[When the AI Agent Becomes a Digital Baba](https://medium.com/@dalvir.d.singh/when-the-ai-agent-becomes-a-digital-baba-6a19154e6813?source=rss------artificial_intelligence-5)**
+> 🔹 **[Alibaba’s Zhenwu V900: 216GB of Memory and a 500,000-Chip AI Cluster — Semiconductor News…](https://tai-semicon.medium.com/alibabas-zhenwu-v900-216gb-of-memory-and-a-500-000-chip-ai-cluster-semiconductor-news-939b9c14b7aa?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
