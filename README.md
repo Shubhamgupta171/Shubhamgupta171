@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How Long Should a Conversation With AI Be?](https://medium.com/@krishnachaytanya/how-long-should-a-conversation-with-ai-be-5dbb9b5e0833?source=rss------artificial_intelligence-5)**
-> 🔹 **[The New Oil Isn’t Data. It’s Compute.](https://medium.com/@mubarra.humanities/the-new-oil-isnt-data-it-s-compute-447f60d6ceaf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Percentages](https://medium.com/@matthew.fredenburg/llm-intelligence-experiments-percentages-3c674310db4a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why We Stopped Cloning Repositories to Understand Them](https://medium.com/@contact.athar.taj/why-we-stopped-cloning-repositories-to-understand-them-f73330ec9c26?source=rss------system_design-5)**
-> 🔹 **[Why We Stopped Cloning Repositories to Understand Them](https://medium.com/@contact.athar.taj/why-we-stopped-cloning-repositories-to-understand-them-f73330ec9c26?source=rss------backend_development-5)**
-> 🔹 **[The Standard That Was Built Open](https://medium.com/@samrat.patil/the-standard-that-was-built-open-8651d22b9f3a?source=rss------artificial_intelligence-5)**
-> 🔹 **[When the AI Agent Becomes a Digital Baba](https://medium.com/@dalvir.d.singh/when-the-ai-agent-becomes-a-digital-baba-6a19154e6813?source=rss------artificial_intelligence-5)**
-> 🔹 **[Alibaba’s Zhenwu V900: 216GB of Memory and a 500,000-Chip AI Cluster — Semiconductor News…](https://tai-semicon.medium.com/alibabas-zhenwu-v900-216gb-of-memory-and-a-500-000-chip-ai-cluster-semiconductor-news-939b9c14b7aa?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Opus 5.5: cheaper, faster, and it won&#39;t stop thinking](https://generativeai.pub/claude-opus-5-5-cheaper-faster-and-it-wont-stop-thinking-3d75bdfdbe0c?source=rss------artificial_intelligence-5)**
+> 🔹 **[When the Human Becomes the Robot](https://medium.com/@shankar.freelance.dataengineer/when-the-human-becomes-the-robot-8cbc655ab892?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Cloud Bill Just Got a New Problem: GPUs — Why AI Workloads Are Breaking Traditional FinOps](https://lagadhirdivyesh.medium.com/your-cloud-bill-just-got-a-new-problem-gpus-why-ai-workloads-are-breaking-traditional-finops-7c5e97f8efe9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Intelligent Document Processing Market Size, Share &amp; Growth 2034](https://medium.com/@seodmr63/intelligent-document-processing-market-size-share-growth-2034-47487de79437?source=rss------artificial_intelligence-5)**
+> 🔹 **[Multiplayer AI: Why your team &lpar;and its agents&rpar; need a group chat](https://stackoverflow.blog/2026/09/23/multiplayer-ai-why-your-team-and-its-agents-need-a-group-chat/)**
+> 🔹 **[Before You Buy That CRM, Fix Your Data](https://medium.com/technology-hits/before-you-buy-that-crm-fix-your-data-2d707fce2188?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Helps Doctors Analyze Medical Images](https://medium.com/@piecespretty4558/how-ai-helps-doctors-analyze-medical-images-f784fd3f1ce5?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If Progress Is Not Forward Motion?](https://medium.com/@m.ishii117/what-if-progress-is-not-forward-motion-6897031c5740?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
