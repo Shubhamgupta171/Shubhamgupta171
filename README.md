@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Claude Opus 5.5: cheaper, faster, and it won&#39;t stop thinking](https://generativeai.pub/claude-opus-5-5-cheaper-faster-and-it-wont-stop-thinking-3d75bdfdbe0c?source=rss------artificial_intelligence-5)**
-> 🔹 **[When the Human Becomes the Robot](https://medium.com/@shankar.freelance.dataengineer/when-the-human-becomes-the-robot-8cbc655ab892?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Cloud Bill Just Got a New Problem: GPUs — Why AI Workloads Are Breaking Traditional FinOps](https://lagadhirdivyesh.medium.com/your-cloud-bill-just-got-a-new-problem-gpus-why-ai-workloads-are-breaking-traditional-finops-7c5e97f8efe9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Intelligent Document Processing Market Size, Share &amp; Growth 2034](https://medium.com/@seodmr63/intelligent-document-processing-market-size-share-growth-2034-47487de79437?source=rss------artificial_intelligence-5)**
-> 🔹 **[Multiplayer AI: Why your team &lpar;and its agents&rpar; need a group chat](https://stackoverflow.blog/2026/09/23/multiplayer-ai-why-your-team-and-its-agents-need-a-group-chat/)**
-> 🔹 **[Before You Buy That CRM, Fix Your Data](https://medium.com/technology-hits/before-you-buy-that-crm-fix-your-data-2d707fce2188?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Helps Doctors Analyze Medical Images](https://medium.com/@piecespretty4558/how-ai-helps-doctors-analyze-medical-images-f784fd3f1ce5?source=rss------artificial_intelligence-5)**
-> 🔹 **[What If Progress Is Not Forward Motion?](https://medium.com/@m.ishii117/what-if-progress-is-not-forward-motion-6897031c5740?source=rss------artificial_intelligence-5)**
+> 🔹 **[Where AI Actually Pays Off on a Factory Floor](https://medium.com/@catalystadvisoryinfo/where-ai-actually-pays-off-on-a-factory-floor-494b0de9bfaf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Mammogram May Know More About Your Future Than We Ask It](https://medium.com/dr-michael-hunters-wellness/your-mammogram-may-know-more-about-your-future-than-we-ask-it-97049c9aefae?source=rss------artificial_intelligence-5)**
+> 🔹 **[What AI Taught Me About Why Companies Need to Collaborate More](https://medium.com/@rmsudml22/what-ai-taught-me-about-why-companies-need-to-collaborate-more-1fdddaeae520?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Automation Baseline Most Operators Skip](https://corranforce.medium.com/the-automation-baseline-most-operators-skip-c967b203da19?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Biggest Instagram Growth Mistakes — And Why Most Creators Don’t Realize They’re Making Them](https://medium.com/@msimoliunas/the-biggest-instagram-growth-mistakes-and-why-most-creators-dont-realize-they-re-making-them-a4c7a9cbef34?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Most Comprehensive List of Tokens You Can Still Get for Free Right Now](https://hackernews.medium.com/the-most-comprehensive-list-of-tokens-you-can-still-get-for-free-right-now-f76b14eafeb0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Jev: An AI Model Built to Decide, Not Talk](https://medium.com/@dilipsinghf/jev-an-ai-model-built-to-decide-not-talk-2873527a2f54?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI To Be Called Superintelligence — What It Means and Why It Matters in 2026](https://ritwik-joshi.medium.com/ai-to-be-called-superintelligence-what-it-means-and-why-it-matters-in-2026-e68351b92fbd?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
