@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Where AI Actually Pays Off on a Factory Floor](https://medium.com/@catalystadvisoryinfo/where-ai-actually-pays-off-on-a-factory-floor-494b0de9bfaf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Mammogram May Know More About Your Future Than We Ask It](https://medium.com/dr-michael-hunters-wellness/your-mammogram-may-know-more-about-your-future-than-we-ask-it-97049c9aefae?source=rss------artificial_intelligence-5)**
-> 🔹 **[What AI Taught Me About Why Companies Need to Collaborate More](https://medium.com/@rmsudml22/what-ai-taught-me-about-why-companies-need-to-collaborate-more-1fdddaeae520?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Automation Baseline Most Operators Skip](https://corranforce.medium.com/the-automation-baseline-most-operators-skip-c967b203da19?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Biggest Instagram Growth Mistakes — And Why Most Creators Don’t Realize They’re Making Them](https://medium.com/@msimoliunas/the-biggest-instagram-growth-mistakes-and-why-most-creators-dont-realize-they-re-making-them-a4c7a9cbef34?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Most Comprehensive List of Tokens You Can Still Get for Free Right Now](https://hackernews.medium.com/the-most-comprehensive-list-of-tokens-you-can-still-get-for-free-right-now-f76b14eafeb0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Jev: An AI Model Built to Decide, Not Talk](https://medium.com/@dilipsinghf/jev-an-ai-model-built-to-decide-not-talk-2873527a2f54?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI To Be Called Superintelligence — What It Means and Why It Matters in 2026](https://ritwik-joshi.medium.com/ai-to-be-called-superintelligence-what-it-means-and-why-it-matters-in-2026-e68351b92fbd?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Spent Months on AI Projects That Took Days Once I Learned These 3 Things](https://python.plainenglish.io/i-spent-months-on-ai-projects-that-took-days-once-i-learned-these-3-things-f55c884284aa?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Tools That Feel Illegal to Not Know in 2026](https://medium.com/@aiguru7/ai-tools-that-feel-illegal-to-not-know-in-2026-182e33812bd9?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI’s models wrote instructions to their future selves. Here’s how to treat AI agent memory](https://medium.com/@popularai/openais-models-wrote-instructions-to-their-future-selves-here-s-how-to-treat-ai-agent-memory-0b490bd8e6b8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Agent Egress Illusion: Inside the Google AX Wire Flaw](https://pub.towardsai.net/the-agent-egress-illusion-inside-the-google-ax-wire-flaw-199d8b3d0544?source=rss------artificial_intelligence-5)**
+> 🔹 **[RAG: How LLMs Answer Questions Using Your Data](https://medium.com/@akshay.talathi/rag-how-llms-answer-questions-using-your-data-cd42f07d66da?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Friend Showed Me What Good Notes Looked Like, So I Built a Tool to Make Mine.](https://python.plainenglish.io/a-friend-showed-me-what-good-notes-looked-like-so-i-built-a-tool-to-make-mine-8b8d7cfdf3ba?source=rss------artificial_intelligence-5)**
+> 🔹 **[Vector Databases: Why AI Applications Need a Different Kind of Search](https://medium.com/@akshay.talathi/vector-databases-why-ai-applications-need-a-different-kind-of-search-990c6ec22a9d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Python + AI: 10 Real-World Projects That Actually Teach You Something](https://python.plainenglish.io/python-ai-10-real-world-projects-that-actually-teach-you-something-72e18656b2fd?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
