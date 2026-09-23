@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Spent Months on AI Projects That Took Days Once I Learned These 3 Things](https://python.plainenglish.io/i-spent-months-on-ai-projects-that-took-days-once-i-learned-these-3-things-f55c884284aa?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Tools That Feel Illegal to Not Know in 2026](https://medium.com/@aiguru7/ai-tools-that-feel-illegal-to-not-know-in-2026-182e33812bd9?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenAI’s models wrote instructions to their future selves. Here’s how to treat AI agent memory](https://medium.com/@popularai/openais-models-wrote-instructions-to-their-future-selves-here-s-how-to-treat-ai-agent-memory-0b490bd8e6b8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Agent Egress Illusion: Inside the Google AX Wire Flaw](https://pub.towardsai.net/the-agent-egress-illusion-inside-the-google-ax-wire-flaw-199d8b3d0544?source=rss------artificial_intelligence-5)**
-> 🔹 **[RAG: How LLMs Answer Questions Using Your Data](https://medium.com/@akshay.talathi/rag-how-llms-answer-questions-using-your-data-cd42f07d66da?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Friend Showed Me What Good Notes Looked Like, So I Built a Tool to Make Mine.](https://python.plainenglish.io/a-friend-showed-me-what-good-notes-looked-like-so-i-built-a-tool-to-make-mine-8b8d7cfdf3ba?source=rss------artificial_intelligence-5)**
-> 🔹 **[Vector Databases: Why AI Applications Need a Different Kind of Search](https://medium.com/@akshay.talathi/vector-databases-why-ai-applications-need-a-different-kind-of-search-990c6ec22a9d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Python + AI: 10 Real-World Projects That Actually Teach You Something](https://python.plainenglish.io/python-ai-10-real-world-projects-that-actually-teach-you-something-72e18656b2fd?source=rss------artificial_intelligence-5)**
+> 🔹 **[I’m Not Preparing for an AI Interview. I’m Preparing to Become a Better Engineer.](https://medium.com/@jayanthi.syamala/im-not-preparing-for-an-ai-interview-i-m-preparing-to-become-a-better-engineer-ec54613bd76d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Remember the Dunning-Kruger Effect? In the Age of AI, It Just Evolved.](https://medium.com/@zhangblue/remember-the-dunning-kruger-effect-in-the-age-of-ai-it-just-evolved-9eda820abe43?source=rss------artificial_intelligence-5)**
+> 🔹 **[After the Prompt: Building a Verifiable Android AI Development Workflow](https://medium.com/@euryperez/after-the-prompt-building-a-verifiable-android-ai-development-workflow-3d606483476b?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Cartoon Video Prompts: How One Prompt Library Can Replace the Blank Page](https://medium.com/@dynamicgrowthnetwork/ai-cartoon-video-prompts-how-one-prompt-library-can-replace-the-blank-page-8693c1d760f2?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Senior Engineer Rewrote 3,000 Lines of AI Code. Six Months Later, I Realized We Had Created…](https://levelup.gitconnected.com/my-senior-engineer-rewrote-3-000-lines-of-ai-code-six-months-later-i-realized-we-had-created-80c50fe6be23?source=rss------artificial_intelligence-5)**
+> 🔹 **[Atlarix Auto: A Free AI Coding Agent That Picks the Model for Each Step](https://medium.com/@amariah.abish/atlarix-auto-a-free-ai-coding-agent-that-picks-the-model-for-each-step-9f4a7b668b0f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cómo convertir una hoja de cálculo en un dashboard en vivo con IA &lpar;sin Looker Studio ni Excel&rpar;](https://rimlauf.medium.com/c%C3%B3mo-convertir-una-hoja-de-c%C3%A1lculo-en-un-dashboard-en-vivo-con-ia-sin-looker-studio-ni-excel-4169534fe5ba?source=rss------artificial_intelligence-5)**
+> 🔹 **[PhotoID Studio voor Mac — Create ID &amp; Passport Photos on macOS](https://medium.com/@herbs-clause-envy/photoid-studio-voor-mac-create-id-passport-photos-on-macos-ac1e17fd9baf?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
