@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[When being seen as smart starts becoming almost as important as actually learning.](https://medium.com/@aarna.k3105/when-being-seen-as-smart-starts-becoming-almost-as-important-as-actually-learning-94586820e478?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Reading Finance Books Is One of the Best Investments You Can Make](https://medium.com/@aarna.k3105/why-reading-finance-books-is-one-of-the-best-investments-you-can-make-824171531af8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Difference Between NLP, LLMs and Generative AI](https://medium.com/@guptanikhil8424/the-difference-between-nlp-llms-and-generative-ai-645b1dd29947?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Real Cost of an AI Model Is the Work It Finishes](https://medium.com/@nRouter.ai/the-real-cost-of-an-ai-model-is-the-work-it-finishes-fbe1b28d5578?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Girl Who Thought She Chose the Wrong Field](https://medium.com/@fatima.batool1048/the-girl-who-thought-she-chose-the-wrong-field-2696b576fefd?source=rss------artificial_intelligence-5)**
-> 🔹 **[27 Unattended AI Jobs Run on My Laptop Every Morning. Exactly Two Know How to Retry.](https://medium.com/@SupermanKen/27-unattended-ai-jobs-run-on-my-laptop-every-morning-exactly-two-know-how-to-retry-4aad18b35f22?source=rss------artificial_intelligence-5)**
-> 🔹 **[System 1 vs. System 2 AI: How to Pair Jev With Reasoning Models](https://agrawalparth.medium.com/system-1-vs-system-2-ai-how-to-pair-jev-with-reasoning-models-927088ed4caa?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Productivity Paradox: Why Developers Feel Faster and Are More Burned Out Than Ever](https://generativeai.pub/the-ai-productivity-paradox-why-developers-feel-faster-and-are-more-burned-out-than-ever-49c5fad0406d?source=rss------artificial_intelligence-5)**
+> 🔹 **[30 Spring Boot 4 Properties You Should Set Before Production](https://medium.com/@devadiga.navya/30-spring-boot-4-properties-you-should-set-before-production-8d07ffa9de02?source=rss------backend_development-5)**
+> 🔹 **[Building a Business Around AI: Opportunities and Challenges](https://medium.com/@baharmb387/building-a-business-around-ai-opportunities-and-challenges-c36ea54edb2a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Colleague Has Work for You. Now What?](https://medium.com/people-agents-and-the-work-between-them/your-ai-colleague-has-work-for-you-now-what-5051af0f56d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bypassing AI Quotas: How a Null Value Led to Infinite AI Generation on RebelMouse](https://medium.com/@ziadabdo1255/bypassing-ai-quotas-how-a-null-value-led-to-infinite-ai-generation-on-rebelmouse-ebc56c386328?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your A/B Test Might Be Lying to You](https://medium.com/@billygareth01/your-a-b-test-might-be-lying-to-you-461fbda3d2b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Role of Human Judgment in AI-Powered Workflows](https://medium.com/@nayantaraps.online/the-role-of-human-judgment-in-ai-powered-workflows-4d52431459d8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Saga Pattern — The System Design Series](https://medium.com/@tech-logs/saga-pattern-the-system-design-series-d6c2ef0c5148?source=rss------backend_development-5)**
+> 🔹 **[Better Prompts Don’t Fix Bad Questions: What Weeks of Building the Wrong Thing Taught Me](https://medium.com/illumination/better-prompts-dont-fix-bad-questions-what-weeks-of-building-the-wrong-thing-taught-me-aa688a735607?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
