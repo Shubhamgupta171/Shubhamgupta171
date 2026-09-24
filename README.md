@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I’m Not Preparing for an AI Interview. I’m Preparing to Become a Better Engineer.](https://medium.com/@jayanthi.syamala/im-not-preparing-for-an-ai-interview-i-m-preparing-to-become-a-better-engineer-ec54613bd76d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Remember the Dunning-Kruger Effect? In the Age of AI, It Just Evolved.](https://medium.com/@zhangblue/remember-the-dunning-kruger-effect-in-the-age-of-ai-it-just-evolved-9eda820abe43?source=rss------artificial_intelligence-5)**
-> 🔹 **[After the Prompt: Building a Verifiable Android AI Development Workflow](https://medium.com/@euryperez/after-the-prompt-building-a-verifiable-android-ai-development-workflow-3d606483476b?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Cartoon Video Prompts: How One Prompt Library Can Replace the Blank Page](https://medium.com/@dynamicgrowthnetwork/ai-cartoon-video-prompts-how-one-prompt-library-can-replace-the-blank-page-8693c1d760f2?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Senior Engineer Rewrote 3,000 Lines of AI Code. Six Months Later, I Realized We Had Created…](https://levelup.gitconnected.com/my-senior-engineer-rewrote-3-000-lines-of-ai-code-six-months-later-i-realized-we-had-created-80c50fe6be23?source=rss------artificial_intelligence-5)**
-> 🔹 **[Atlarix Auto: A Free AI Coding Agent That Picks the Model for Each Step](https://medium.com/@amariah.abish/atlarix-auto-a-free-ai-coding-agent-that-picks-the-model-for-each-step-9f4a7b668b0f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cómo convertir una hoja de cálculo en un dashboard en vivo con IA &lpar;sin Looker Studio ni Excel&rpar;](https://rimlauf.medium.com/c%C3%B3mo-convertir-una-hoja-de-c%C3%A1lculo-en-un-dashboard-en-vivo-con-ia-sin-looker-studio-ni-excel-4169534fe5ba?source=rss------artificial_intelligence-5)**
-> 🔹 **[PhotoID Studio voor Mac — Create ID &amp; Passport Photos on macOS](https://medium.com/@herbs-clause-envy/photoid-studio-voor-mac-create-id-passport-photos-on-macos-ac1e17fd9baf?source=rss------artificial_intelligence-5)**
+> 🔹 **[How an AI Trading Bot Actually Works, Explained by Someone Who Builds One](https://medium.com/@jorgai_team/how-an-ai-trading-bot-actually-works-explained-by-someone-who-builds-one-6ecac1d86808?source=rss------artificial_intelligence-5)**
+> 🔹 **[Understanding AEO and GEO: How Search Is Changing Beyond Traditional SEO](https://medium.com/@rankvelt/understanding-aeo-and-geo-how-search-is-changing-beyond-traditional-seo-4b605f0ea94b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tested 100+ Claude Skills. Only 7 Survived.](https://medium.com/ai-engineering-simplified/i-tested-100-claude-skills-only-7-survived-304012a2cb2d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Going Bananas](https://medium.com/@gitanjali.diwakar/going-bananas-95557810af89?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Opus 5.5: What’s New in Anthropic’s Latest AI Model for Coding &amp; Business?](https://medium.com/@techassistant.hub/claude-opus-5-5-whats-new-in-anthropic-s-latest-ai-model-for-coding-business-bdb09a25e84c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The New AI Feature That’s Making Junior Devs Look Senior](https://medium.com/skillstuff/the-new-ai-feature-thats-making-junior-devs-look-senior-0d1a04f2ea9c?source=rss------artificial_intelligence-5)**
+> 🔹 **[SEO Career Roadmap: A Step-by-Step Guide to Becoming an SEO Specialist in 2026](https://medium.com/@kundhan1913/seo-career-roadmap-a-step-by-step-guide-to-becoming-an-seo-specialist-in-2026-abfbfad78426?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future Is Being Built Quietly](https://medium.com/@khalidkhan3398/the-future-is-being-built-quietly-fa7950bedd25?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
