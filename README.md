@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How an AI Trading Bot Actually Works, Explained by Someone Who Builds One](https://medium.com/@jorgai_team/how-an-ai-trading-bot-actually-works-explained-by-someone-who-builds-one-6ecac1d86808?source=rss------artificial_intelligence-5)**
-> 🔹 **[Understanding AEO and GEO: How Search Is Changing Beyond Traditional SEO](https://medium.com/@rankvelt/understanding-aeo-and-geo-how-search-is-changing-beyond-traditional-seo-4b605f0ea94b?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested 100+ Claude Skills. Only 7 Survived.](https://medium.com/ai-engineering-simplified/i-tested-100-claude-skills-only-7-survived-304012a2cb2d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Going Bananas](https://medium.com/@gitanjali.diwakar/going-bananas-95557810af89?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Opus 5.5: What’s New in Anthropic’s Latest AI Model for Coding &amp; Business?](https://medium.com/@techassistant.hub/claude-opus-5-5-whats-new-in-anthropic-s-latest-ai-model-for-coding-business-bdb09a25e84c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The New AI Feature That’s Making Junior Devs Look Senior](https://medium.com/skillstuff/the-new-ai-feature-thats-making-junior-devs-look-senior-0d1a04f2ea9c?source=rss------artificial_intelligence-5)**
-> 🔹 **[SEO Career Roadmap: A Step-by-Step Guide to Becoming an SEO Specialist in 2026](https://medium.com/@kundhan1913/seo-career-roadmap-a-step-by-step-guide-to-becoming-an-seo-specialist-in-2026-abfbfad78426?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Future Is Being Built Quietly](https://medium.com/@khalidkhan3398/the-future-is-being-built-quietly-fa7950bedd25?source=rss------artificial_intelligence-5)**
+> 🔹 **[When being seen as smart starts becoming almost as important as actually learning.](https://medium.com/@aarna.k3105/when-being-seen-as-smart-starts-becoming-almost-as-important-as-actually-learning-94586820e478?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Reading Finance Books Is One of the Best Investments You Can Make](https://medium.com/@aarna.k3105/why-reading-finance-books-is-one-of-the-best-investments-you-can-make-824171531af8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Difference Between NLP, LLMs and Generative AI](https://medium.com/@guptanikhil8424/the-difference-between-nlp-llms-and-generative-ai-645b1dd29947?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Real Cost of an AI Model Is the Work It Finishes](https://medium.com/@nRouter.ai/the-real-cost-of-an-ai-model-is-the-work-it-finishes-fbe1b28d5578?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Girl Who Thought She Chose the Wrong Field](https://medium.com/@fatima.batool1048/the-girl-who-thought-she-chose-the-wrong-field-2696b576fefd?source=rss------artificial_intelligence-5)**
+> 🔹 **[27 Unattended AI Jobs Run on My Laptop Every Morning. Exactly Two Know How to Retry.](https://medium.com/@SupermanKen/27-unattended-ai-jobs-run-on-my-laptop-every-morning-exactly-two-know-how-to-retry-4aad18b35f22?source=rss------artificial_intelligence-5)**
+> 🔹 **[System 1 vs. System 2 AI: How to Pair Jev With Reasoning Models](https://agrawalparth.medium.com/system-1-vs-system-2-ai-how-to-pair-jev-with-reasoning-models-927088ed4caa?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Productivity Paradox: Why Developers Feel Faster and Are More Burned Out Than Ever](https://generativeai.pub/the-ai-productivity-paradox-why-developers-feel-faster-and-are-more-burned-out-than-ever-49c5fad0406d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
