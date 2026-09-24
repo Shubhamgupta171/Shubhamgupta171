@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[30 Spring Boot 4 Properties You Should Set Before Production](https://medium.com/@devadiga.navya/30-spring-boot-4-properties-you-should-set-before-production-8d07ffa9de02?source=rss------backend_development-5)**
-> 🔹 **[Building a Business Around AI: Opportunities and Challenges](https://medium.com/@baharmb387/building-a-business-around-ai-opportunities-and-challenges-c36ea54edb2a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Colleague Has Work for You. Now What?](https://medium.com/people-agents-and-the-work-between-them/your-ai-colleague-has-work-for-you-now-what-5051af0f56d2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Bypassing AI Quotas: How a Null Value Led to Infinite AI Generation on RebelMouse](https://medium.com/@ziadabdo1255/bypassing-ai-quotas-how-a-null-value-led-to-infinite-ai-generation-on-rebelmouse-ebc56c386328?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your A/B Test Might Be Lying to You](https://medium.com/@billygareth01/your-a-b-test-might-be-lying-to-you-461fbda3d2b0?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Role of Human Judgment in AI-Powered Workflows](https://medium.com/@nayantaraps.online/the-role-of-human-judgment-in-ai-powered-workflows-4d52431459d8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Saga Pattern — The System Design Series](https://medium.com/@tech-logs/saga-pattern-the-system-design-series-d6c2ef0c5148?source=rss------backend_development-5)**
-> 🔹 **[Better Prompts Don’t Fix Bad Questions: What Weeks of Building the Wrong Thing Taught Me](https://medium.com/illumination/better-prompts-dont-fix-bad-questions-what-weeks-of-building-the-wrong-thing-taught-me-aa688a735607?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Choose a System Design Interview Platform in 2026](https://medium.com/@teamscaledojo/how-to-choose-a-system-design-interview-platform-in-2026-a4b1d9efea73?source=rss------system_design-5)**
+> 🔹 **[Meet a Professor Who Wrote 200+ Papers This Year — Using AI](https://medium.com/techx-official/meet-a-professor-who-wrote-200-papers-this-year-using-ai-792cb4377154?source=rss------artificial_intelligence-5)**
+> 🔹 **[Myślenie rozbieżne i zbieżne przez pryzmat IT i AI](https://medium.com/@nejczew/my%C5%9Blenie-rozbie%C5%BCne-i-zbie%C5%BCne-przez-pryzmat-it-i-ai-a12463b722b1?source=rss------artificial_intelligence-5)**
+> 🔹 **[In-Chat Checkout Already Failed Once. The Half That Worked Is the Half Worth Building For.](https://medium.com/@optraseven/in-chat-checkout-already-failed-once-the-half-that-worked-is-the-half-worth-building-for-be248317659f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Brazil Can Join the AI Race Without Building the Next ChatGPT](https://medium.com/@alessandro.lrsilveira/brazil-can-join-the-ai-race-without-building-the-next-chatgpt-9be602df3e5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your App Works Today. But Will It Survive 100,000 Users? A Practical Guide to System Design](https://medium.com/@codhaus./your-app-works-today-but-will-it-survive-100-000-users-a-practical-guide-to-system-design-366ecb11e40a?source=rss------system_design-5)**
+> 🔹 **[Divergent and Convergent Thinking Through the Lens of IT and AI](https://medium.com/@nejczew/divergent-and-convergent-thinking-through-the-lens-of-it-and-ai-c2f83f627821?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If We Win the AI Race and Lose Control?](https://medium.com/@pathikrit.roy/what-if-we-win-the-ai-race-and-lose-control-6e43a0a866ba?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
