@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Virtual Program Manager for Aplazo’s Tech Teams: How AI Bot Manages our Roadmap](https://medium.com/@prateekabhayjain/virtual-program-manager-for-aplazos-tech-teams-how-ai-bot-manages-our-roadmap-978bae8ae785?source=rss------artificial_intelligence-5)**
-> 🔹 **[Don’t Lick the Glass: What AI Taught Me About Governance, Part 2](https://medium.com/bluedobie-dialogues/dont-lick-the-glass-what-ai-taught-me-about-governance-part-2-f2eb78d87526?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your iPhone Can Be a Dashcam. The Save Button Is Only Half the Story.](https://medium.com/@nassersalhi98/your-iphone-can-be-a-dashcam-the-save-button-is-only-half-the-story-99afa60b7ea9?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI In India: How Businesses Are Using Artificial Intelligence In 2026](https://medium.com/@abhinav.shuklaworld/ai-in-india-how-businesses-are-using-artificial-intelligence-in-2026-5565ce9b0949?source=rss------artificial_intelligence-5)**
-> 🔹 **[Jev Has Played Doom and Mario. I Made It Play Poker](https://medium.com/@marc.bara.iniesta/jev-has-played-doom-and-mario-i-made-it-play-poker-36d19fd40797?source=rss------artificial_intelligence-5)**
-> 🔹 **[What gets quoted is a paragraph, not a page](https://medium.com/@heypilcrow/what-gets-quoted-is-a-paragraph-not-a-page-e2ddd74b477b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Put your prices on the page](https://medium.com/@heypilcrow/put-your-prices-on-the-page-dba915b6e639?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Automation Referrals Don’t Happen by Accident](https://corranforce.medium.com/ai-automation-referrals-dont-happen-by-accident-46ec7703e03d?source=rss------artificial_intelligence-5)**
+> 🔹 **[So… I Finally Started Writing](https://medium.com/@santraakash999/so-i-finally-started-writing-757f921c23d3?source=rss------backend_development-5)**
+> 🔹 **[Could AI Run Your Business While You Sleep?](https://medium.com/@khadija17saeed/could-ai-run-your-business-while-you-sleep-941d3a1e77b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why RAG Fails: Retrieval Problems Look Like LLM Problems](https://medium.com/@akshay.talathi/why-rag-fails-retrieval-problems-look-like-llm-problems-0f9d0203f71d?source=rss------artificial_intelligence-5)**
+> 🔹 **[You&#39;re Trapped in a Garden of Roses
+Imagine that one morning you woke up in a picturesque garde...](https://medium.com/@nalawadesaish2244/youre-trapped-in-a-garden-of-roses-imagine-that-one-morning-you-woke-up-in-a-picturesque-garden-d180c47ee9a3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Reranking: Why the First Search Result Should Not Always Win](https://medium.com/@akshay.talathi/reranking-why-the-first-search-result-should-not-always-win-2c349f6d801f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is Ai going to take over the world????](https://medium.com/@lifeisprecious402/is-ai-going-to-take-over-the-world-9833e50230e4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Best Local Coding Model for the $899 Mac mini](https://pub.towardsai.net/the-best-local-coding-model-for-the-899-mac-mini-2dbb4d2071ba?source=rss------artificial_intelligence-5)**
+> 🔹 **[Open AI Review of the Section 7 Excerpt from the “Building Superintelligence — Unified Intellig...](https://medium.com/@rsmith_6156/open-ai-review-of-the-section-7-excerpt-from-the-building-superintelligence-unified-intelligence-919b86ec852f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
