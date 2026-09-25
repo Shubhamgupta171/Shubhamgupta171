@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Choose a System Design Interview Platform in 2026](https://medium.com/@teamscaledojo/how-to-choose-a-system-design-interview-platform-in-2026-a4b1d9efea73?source=rss------system_design-5)**
-> 🔹 **[Meet a Professor Who Wrote 200+ Papers This Year — Using AI](https://medium.com/techx-official/meet-a-professor-who-wrote-200-papers-this-year-using-ai-792cb4377154?source=rss------artificial_intelligence-5)**
-> 🔹 **[Myślenie rozbieżne i zbieżne przez pryzmat IT i AI](https://medium.com/@nejczew/my%C5%9Blenie-rozbie%C5%BCne-i-zbie%C5%BCne-przez-pryzmat-it-i-ai-a12463b722b1?source=rss------artificial_intelligence-5)**
-> 🔹 **[In-Chat Checkout Already Failed Once. The Half That Worked Is the Half Worth Building For.](https://medium.com/@optraseven/in-chat-checkout-already-failed-once-the-half-that-worked-is-the-half-worth-building-for-be248317659f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Brazil Can Join the AI Race Without Building the Next ChatGPT](https://medium.com/@alessandro.lrsilveira/brazil-can-join-the-ai-race-without-building-the-next-chatgpt-9be602df3e5c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your App Works Today. But Will It Survive 100,000 Users? A Practical Guide to System Design](https://medium.com/@codhaus./your-app-works-today-but-will-it-survive-100-000-users-a-practical-guide-to-system-design-366ecb11e40a?source=rss------system_design-5)**
-> 🔹 **[Divergent and Convergent Thinking Through the Lens of IT and AI](https://medium.com/@nejczew/divergent-and-convergent-thinking-through-the-lens-of-it-and-ai-c2f83f627821?source=rss------artificial_intelligence-5)**
-> 🔹 **[What If We Win the AI Race and Lose Control?](https://medium.com/@pathikrit.roy/what-if-we-win-the-ai-race-and-lose-control-6e43a0a866ba?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Turn Reddit into Your Ultimate LLM Citation Engine in 2026](https://medium.com/@JustSnehal/how-to-turn-reddit-into-your-ultimate-llm-citation-engine-in-2026-c8d2ce84a78a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Papers Explained 625: Nemotron Labs IMO 2026](https://ritvik19.medium.com/papers-explained-625-nemotron-labs-imo-2026-73ce03261940?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden ROI Leak: Why AI Ecosystems Are Becoming the Ultimate Competitive Moat](https://medium.com/@aixnetwork/the-hidden-roi-leak-why-ai-ecosystems-are-becoming-the-ultimate-competitive-moat-9ce1fb50b935?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building a Custom LLM, Part 8 — Finale: How Far Could a 24M-Parameter LLM Go Against BabyLM 202...](https://medium.com/@youth_k/building-a-custom-llm-part-8-finale-how-far-could-a-24m-parameter-llm-go-against-babylm-2026-20eff0e6b62b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building a Custom LLM, Part 7: Why Did the Final Candidate Have Seven Layers?](https://medium.com/@youth_k/building-a-custom-llm-part-7-why-did-the-final-candidate-have-seven-layers-803d6622b98d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Part 1: The Hidden Cost of Digital Silos](https://medium.com/@aixnetwork/part-1-the-hidden-cost-of-digital-silos-7e88bd750c32?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI-Built App Has Security Holes. Run These 5 Prompts Before You Ship](https://medium.com/@rohanmistry231/your-ai-built-app-has-security-holes-run-these-5-prompts-before-you-ship-bd0de22beb2b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Turned a Spring Boot API Into an AI Tool. Then I Let an Agent Call It.](https://gainjavaknowledge.medium.com/i-turned-a-spring-boot-api-into-an-ai-tool-then-i-let-an-agent-call-it-1e504a4bab3e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
