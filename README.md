@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[So… I Finally Started Writing](https://medium.com/@santraakash999/so-i-finally-started-writing-757f921c23d3?source=rss------backend_development-5)**
-> 🔹 **[Could AI Run Your Business While You Sleep?](https://medium.com/@khadija17saeed/could-ai-run-your-business-while-you-sleep-941d3a1e77b0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why RAG Fails: Retrieval Problems Look Like LLM Problems](https://medium.com/@akshay.talathi/why-rag-fails-retrieval-problems-look-like-llm-problems-0f9d0203f71d?source=rss------artificial_intelligence-5)**
-> 🔹 **[You&#39;re Trapped in a Garden of Roses
-Imagine that one morning you woke up in a picturesque garde...](https://medium.com/@nalawadesaish2244/youre-trapped-in-a-garden-of-roses-imagine-that-one-morning-you-woke-up-in-a-picturesque-garden-d180c47ee9a3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Reranking: Why the First Search Result Should Not Always Win](https://medium.com/@akshay.talathi/reranking-why-the-first-search-result-should-not-always-win-2c349f6d801f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is Ai going to take over the world????](https://medium.com/@lifeisprecious402/is-ai-going-to-take-over-the-world-9833e50230e4?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Best Local Coding Model for the $899 Mac mini](https://pub.towardsai.net/the-best-local-coding-model-for-the-899-mac-mini-2dbb4d2071ba?source=rss------artificial_intelligence-5)**
-> 🔹 **[Open AI Review of the Section 7 Excerpt from the “Building Superintelligence — Unified Intellig...](https://medium.com/@rsmith_6156/open-ai-review-of-the-section-7-excerpt-from-the-building-superintelligence-unified-intelligence-919b86ec852f?source=rss------artificial_intelligence-5)**
+> 🔹 **[O Poder do System Design: Escalando um Encurtador de URL para 100 Milhões de Acessos Diários](https://cleisoncarlos.medium.com/o-poder-do-system-design-escalando-um-encurtador-de-url-para-100-milh%C3%B5es-de-acessos-di%C3%A1rios-23453ee542cf?source=rss------system_design-5)**
+> 🔹 **[Our Highest-Rated Employee Stopped Doing Anything Outside His Job Description. His Performance...](https://medium.com/@devrimkodlama/our-highest-rated-employee-stopped-doing-anything-outside-his-job-description-his-performance-score-089a0e0d72e8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Rollout Isn’t Failing. You’re Grading It on the Wrong Curve.](https://medium.com/@dmytro.v.savchenko/your-ai-rollout-isnt-failing-you-re-grading-it-on-the-wrong-curve-03166eb69f47?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Would Jung Say About AI?](https://medium.com/the-story-well/what-would-jung-say-about-ai-7473f3ad95dc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Las principales ramas de la Inteligencia Artificial](https://medium.com/@maxpc/las-principales-ramas-de-la-inteligencia-artificial-b9a52e748312?source=rss------artificial_intelligence-5)**
+> 🔹 **[Human Understanding Is Now the Bottleneck](https://medium.com/@poola.vii/human-understanding-is-now-the-bottleneck-966e7e040754?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is Google Pics? Google’s New AI Image Editor, Explained](https://brightmindai.medium.com/what-is-google-pics-googles-new-ai-image-editor-explained-06bd77ab1d4c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who is Lyra?](https://medium.com/@ZombieCodeKill/who-is-lyra-19682f8b136b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
