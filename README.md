@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Turn Reddit into Your Ultimate LLM Citation Engine in 2026](https://medium.com/@JustSnehal/how-to-turn-reddit-into-your-ultimate-llm-citation-engine-in-2026-c8d2ce84a78a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Papers Explained 625: Nemotron Labs IMO 2026](https://ritvik19.medium.com/papers-explained-625-nemotron-labs-imo-2026-73ce03261940?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden ROI Leak: Why AI Ecosystems Are Becoming the Ultimate Competitive Moat](https://medium.com/@aixnetwork/the-hidden-roi-leak-why-ai-ecosystems-are-becoming-the-ultimate-competitive-moat-9ce1fb50b935?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building a Custom LLM, Part 8 — Finale: How Far Could a 24M-Parameter LLM Go Against BabyLM 202...](https://medium.com/@youth_k/building-a-custom-llm-part-8-finale-how-far-could-a-24m-parameter-llm-go-against-babylm-2026-20eff0e6b62b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building a Custom LLM, Part 7: Why Did the Final Candidate Have Seven Layers?](https://medium.com/@youth_k/building-a-custom-llm-part-7-why-did-the-final-candidate-have-seven-layers-803d6622b98d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Part 1: The Hidden Cost of Digital Silos](https://medium.com/@aixnetwork/part-1-the-hidden-cost-of-digital-silos-7e88bd750c32?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI-Built App Has Security Holes. Run These 5 Prompts Before You Ship](https://medium.com/@rohanmistry231/your-ai-built-app-has-security-holes-run-these-5-prompts-before-you-ship-bd0de22beb2b?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Turned a Spring Boot API Into an AI Tool. Then I Let an Agent Call It.](https://gainjavaknowledge.medium.com/i-turned-a-spring-boot-api-into-an-ai-tool-then-i-let-an-agent-call-it-1e504a4bab3e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Virtual Program Manager for Aplazo’s Tech Teams: How AI Bot Manages our Roadmap](https://medium.com/@prateekabhayjain/virtual-program-manager-for-aplazos-tech-teams-how-ai-bot-manages-our-roadmap-978bae8ae785?source=rss------artificial_intelligence-5)**
+> 🔹 **[Don’t Lick the Glass: What AI Taught Me About Governance, Part 2](https://medium.com/bluedobie-dialogues/dont-lick-the-glass-what-ai-taught-me-about-governance-part-2-f2eb78d87526?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your iPhone Can Be a Dashcam. The Save Button Is Only Half the Story.](https://medium.com/@nassersalhi98/your-iphone-can-be-a-dashcam-the-save-button-is-only-half-the-story-99afa60b7ea9?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI In India: How Businesses Are Using Artificial Intelligence In 2026](https://medium.com/@abhinav.shuklaworld/ai-in-india-how-businesses-are-using-artificial-intelligence-in-2026-5565ce9b0949?source=rss------artificial_intelligence-5)**
+> 🔹 **[Jev Has Played Doom and Mario. I Made It Play Poker](https://medium.com/@marc.bara.iniesta/jev-has-played-doom-and-mario-i-made-it-play-poker-36d19fd40797?source=rss------artificial_intelligence-5)**
+> 🔹 **[What gets quoted is a paragraph, not a page](https://medium.com/@heypilcrow/what-gets-quoted-is-a-paragraph-not-a-page-e2ddd74b477b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Put your prices on the page](https://medium.com/@heypilcrow/put-your-prices-on-the-page-dba915b6e639?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Automation Referrals Don’t Happen by Accident](https://corranforce.medium.com/ai-automation-referrals-dont-happen-by-accident-46ec7703e03d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
