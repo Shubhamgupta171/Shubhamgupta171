@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The scheduling problem everyone underestimates](https://medium.com/@anshsingla9/the-scheduling-problem-everyone-underestimates-317a6a510c2d?source=rss------system_design-5)**
-> 🔹 **[Convolutional Neural Networks &lpar;CNNs&rpar;: A Comprehensive Guide](https://medium.com/@arko_sengupta/convolutional-neural-networks-cnns-a-comprehensive-guide-107eefbe5337?source=rss------artificial_intelligence-5)**
-> 🔹 **[High Level Design &lpar;Part 4&rpar; — Design WhatsApp](https://medium.com/@anjalimishraa17/high-level-design-part-4-design-whatsapp-7b3f03979fd5?source=rss------backend_development-5)**
-> 🔹 **[Artificial Intelligence will not be individuals, but single, integrated and planet-wide](https://medium.com/@stephen_ford59/artificial-intelligence-will-not-be-individuals-but-single-integrated-and-planet-wide-99a94df0f152?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Promoted Our Best Engineer. He Eventually Asked Us to Give Him His Old Job Back.](https://medium.com/javarevisited/we-promoted-our-best-engineer-he-eventually-asked-us-to-give-him-his-old-job-back-2b3b5f35c30a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Bisakah AI Membedakan SMS Biasa dan Phishing?](https://medium.com/@intanjayanti10/bisakah-ai-membedakan-sms-biasa-dan-phishing-e219434a5e23?source=rss------artificial_intelligence-5)**
-> 🔹 **[Eight Sleep CEO: How AI Runs the Company | “Our Engineers Stopped Coding a Year Ago”](https://medium.com/@huanzidage/eight-sleep-ceo-how-ai-runs-the-company-our-engineers-stopped-coding-a-year-ago-224fd7319874?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Used An AI Tool That Made Two Lead Pages Got 4,371 Visitors in 7 Weeks](https://medium.com/@ayomiposij0/how-i-used-an-ai-tool-that-made-two-lead-pages-got-4-371-visitors-in-7-weeks-661c9586062c?source=rss------artificial_intelligence-5)**
+> 🔹 **[When a Résumé Becomes Cheap, What Becomes Valuable?](https://medium.com/@namratanmagnani/when-a-r%C3%A9sum%C3%A9-becomes-cheap-what-becomes-valuable-4e948394edbd?source=rss------artificial_intelligence-5)**
+> 🔹 **[El Estado del Generative Engine Optimization &lpar;GEO&rpar; en España: La Disrupción de la IA y las Nuev...](https://medium.com/@kusiai/el-estado-del-generative-engine-optimization-geo-en-espa%C3%B1a-la-disrupci%C3%B3n-de-la-ia-y-las-nuevas-971f9a5327f2?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Gave Our Developers AI Agents. Then We Realized Their Jobs Had Quietly Changed.](https://medium.com/@developer_programmer/we-gave-our-developers-ai-agents-then-we-realized-their-jobs-had-quietly-changed-7f17d4f8a59c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The ‘AI Slowdown’ Is Utter Bullshit](https://wlockett.medium.com/the-ai-slowdown-is-utter-bullshit-fdf0dc25ac00?source=rss------artificial_intelligence-5)**
+> 🔹 **[Laya vs Gemma: Who Wins the Doom Game?](https://pub.towardsai.net/laya-vs-gemma-who-wins-the-doom-game-18d3b30f303b?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If AI Doesn’t Need to Look Human for Us to Be Asking the Wrong Questions?](https://medium.com/@jjrocco/what-if-ai-doesnt-need-to-look-human-for-us-to-be-asking-the-wrong-questions-3f876a9200fd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Our Best Engineer Stopped Taking the Hardest Projects. His Career Took Off.](https://medium.com/@developer_programmer/our-best-engineer-stopped-taking-the-hardest-projects-his-career-took-off-8be2444ea4f8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Will Robots Really Replace Us?](https://medium.com/@amirshnll/will-robots-really-replace-us-05d439c32534?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
