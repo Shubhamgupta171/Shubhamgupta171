@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Stop Prompting Opus 5.5 Like It&#39;s an Old Model](https://medium.com/@moazanmoazan216/stop-prompting-opus-5-5-like-its-an-old-model-a326c0fac9fc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the Warehouse: How AI is Reimagining Big Box Stores](https://medium.com/@practicing.ux/beyond-the-warehouse-how-ai-is-reimagining-big-box-stores-3cd02ec61887?source=rss------artificial_intelligence-5)**
-> 🔹 **[AMD Just Hit $1 Trillion — What This Means for the Future of AI Hardware](https://medium.com/illumination/amd-just-hit-1-trillion-what-this-means-for-the-future-of-ai-hardware-da694068f63b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Opus 5.5 Is Out…. And Your Opus 5 Prompts Are Quietly Costing You](https://priyalwalpita.medium.com/opus-5-5-is-out-and-your-opus-5-prompts-are-quietly-costing-you-94b1616d6cba?source=rss------artificial_intelligence-5)**
-> 🔹 **[How we Built a Zero-Touch Lead Generation System + Email drafting Engine with Apify, Gemini, an...](https://medium.com/@synapsedevs94/how-we-built-a-zero-touch-lead-generation-system-email-drafting-engine-with-apify-gemini-and-b77e7fea0ffe?source=rss------artificial_intelligence-5)**
-> 🔹 **[GPU Cloud Pricing: How to Optimize AI Infrastructure Costs in 2026](https://medium.com/@instantgpu.ai/gpu-cloud-pricing-how-to-optimize-ai-infrastructure-costs-in-2026-0540b983aacc?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Agents Are Changing Everyday Business Workflows](https://medium.com/@govindrajrcu/how-ai-agents-are-changing-everyday-business-workflows-da8cf64a0032?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Engineer Everyone Asked for Help Was the One We Almost Didn’t Promote](https://medium.com/javarevisited/the-engineer-everyone-asked-for-help-was-the-one-we-almost-didnt-promote-afa0bc0f24cc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The scheduling problem everyone underestimates](https://medium.com/@anshsingla9/the-scheduling-problem-everyone-underestimates-317a6a510c2d?source=rss------system_design-5)**
+> 🔹 **[Convolutional Neural Networks &lpar;CNNs&rpar;: A Comprehensive Guide](https://medium.com/@arko_sengupta/convolutional-neural-networks-cnns-a-comprehensive-guide-107eefbe5337?source=rss------artificial_intelligence-5)**
+> 🔹 **[High Level Design &lpar;Part 4&rpar; — Design WhatsApp](https://medium.com/@anjalimishraa17/high-level-design-part-4-design-whatsapp-7b3f03979fd5?source=rss------backend_development-5)**
+> 🔹 **[Artificial Intelligence will not be individuals, but single, integrated and planet-wide](https://medium.com/@stephen_ford59/artificial-intelligence-will-not-be-individuals-but-single-integrated-and-planet-wide-99a94df0f152?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Promoted Our Best Engineer. He Eventually Asked Us to Give Him His Old Job Back.](https://medium.com/javarevisited/we-promoted-our-best-engineer-he-eventually-asked-us-to-give-him-his-old-job-back-2b3b5f35c30a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bisakah AI Membedakan SMS Biasa dan Phishing?](https://medium.com/@intanjayanti10/bisakah-ai-membedakan-sms-biasa-dan-phishing-e219434a5e23?source=rss------artificial_intelligence-5)**
+> 🔹 **[Eight Sleep CEO: How AI Runs the Company | “Our Engineers Stopped Coding a Year Ago”](https://medium.com/@huanzidage/eight-sleep-ceo-how-ai-runs-the-company-our-engineers-stopped-coding-a-year-ago-224fd7319874?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Used An AI Tool That Made Two Lead Pages Got 4,371 Visitors in 7 Weeks](https://medium.com/@ayomiposij0/how-i-used-an-ai-tool-that-made-two-lead-pages-got-4-371-visitors-in-7-weeks-661c9586062c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
