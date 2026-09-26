@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[O Poder do System Design: Escalando um Encurtador de URL para 100 Milhões de Acessos Diários](https://cleisoncarlos.medium.com/o-poder-do-system-design-escalando-um-encurtador-de-url-para-100-milh%C3%B5es-de-acessos-di%C3%A1rios-23453ee542cf?source=rss------system_design-5)**
-> 🔹 **[Our Highest-Rated Employee Stopped Doing Anything Outside His Job Description. His Performance...](https://medium.com/@devrimkodlama/our-highest-rated-employee-stopped-doing-anything-outside-his-job-description-his-performance-score-089a0e0d72e8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Rollout Isn’t Failing. You’re Grading It on the Wrong Curve.](https://medium.com/@dmytro.v.savchenko/your-ai-rollout-isnt-failing-you-re-grading-it-on-the-wrong-curve-03166eb69f47?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Would Jung Say About AI?](https://medium.com/the-story-well/what-would-jung-say-about-ai-7473f3ad95dc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Las principales ramas de la Inteligencia Artificial](https://medium.com/@maxpc/las-principales-ramas-de-la-inteligencia-artificial-b9a52e748312?source=rss------artificial_intelligence-5)**
-> 🔹 **[Human Understanding Is Now the Bottleneck](https://medium.com/@poola.vii/human-understanding-is-now-the-bottleneck-966e7e040754?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is Google Pics? Google’s New AI Image Editor, Explained](https://brightmindai.medium.com/what-is-google-pics-googles-new-ai-image-editor-explained-06bd77ab1d4c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who is Lyra?](https://medium.com/@ZombieCodeKill/who-is-lyra-19682f8b136b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Asked ChatGPT to Teach Me Something I Didn’t Understand — Here’s What Changed](https://medium.com/@adnanjelani157/i-asked-chatgpt-to-teach-me-something-i-didnt-understand-here-s-what-changed-04f8fb9b832a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Ontological Closure at the Edge of Austin: A Dialogue Between Karl Popper and Adam Belsky](https://medium.com/@adam_1001/ontological-closure-at-the-edge-of-austin-a-dialogue-between-karl-popper-and-adam-belsky-b2dbf9e8d525?source=rss------artificial_intelligence-5)**
+> 🔹 **[If AI Helps You Work Around a Disability, Who Gets to Take It Away?](https://medium.com/@basilpuglisi/if-ai-helps-you-work-around-a-disability-who-gets-to-take-it-away-378d580a4416?source=rss------artificial_intelligence-5)**
+> 🔹 **[Consciousness First: The Wave That Stays —](https://medium.com/@dredgediver/consciousness-first-the-wave-that-stays-ae5bacf93822?source=rss------artificial_intelligence-5)**
+> 🔹 **[Spring Can Break a Circular Dependency With Three Caches. Spring Boot Turns That Off.](https://medium.com/@devadiga.navya/spring-can-break-a-circular-dependency-with-three-caches-spring-boot-turns-that-off-ae5f89d3bf94?source=rss------backend_development-5)**
+> 🔹 **[Is Human Expertise Becoming More Valuable Because AI Is Everywhere?](https://medium.com/@mauriziochirivainternati/is-human-expertise-becoming-more-valuable-because-ai-is-everywhere-f7eca84f4c15?source=rss------artificial_intelligence-5)**
+> 🔹 **[Should AI Be Our Primary Source Of Earning Money?](https://medium.com/@aleenanewman/should-ai-be-our-primary-source-of-earning-money-1fab79aa7cff?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 2026 Website &amp; App Security Checklist](https://osintteam.blog/the-2026-website-app-security-checklist-5d7a9df2879e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
