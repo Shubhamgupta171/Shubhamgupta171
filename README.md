@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Clean Code: Objects and Data Structures &lpar;Nesneler ve Veri Yapıları&rpar;](https://hilaltokgoz98.medium.com/clean-code-objects-and-data-structures-nesneler-ve-veri-yap%C4%B1lar%C4%B1-e67fa237d693?source=rss------data_structures-5)**
-> 🔹 **[The AI Gave Me Sources. I Still Had to Check Them.](https://cybernerdie.medium.com/the-ai-gave-me-sources-i-still-had-to-check-them-cb0ffcc48a76?source=rss------artificial_intelligence-5)**
-> 🔹 **[Meta Muse: Features, Price, Privacy and UAE Availability of Meta’s New AI Agent](https://medium.com/@nexploreinfo/meta-muse-features-price-privacy-and-uae-availability-of-metas-new-ai-agent-f95e86b1cc10?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Convergence Nobody’s Talking About: What Happens When AI Starts Running Your Crypto Portfol...](https://medium.com/@barronqasem/the-convergence-nobodys-talking-about-what-happens-when-ai-starts-running-your-crypto-portfolio-2229f9c7333a?source=rss------artificial_intelligence-5)**
-> 🔹 **[ShikshaPulse AI: Turning Education Data Into Decisions, Actions, and Accountability](https://medium.com/@harjotsingh97801/shikshapulse-ai-turning-education-data-into-decisions-actions-and-accountability-d470124b1c87?source=rss------artificial_intelligence-5)**
-> 🔹 **[3 Reasons Your AI Budget Is Bleeding: Why “LLM-Jacking” Attacks Are Surging &lpar;And The 8-Minute…](https://medium.com/@nanthakumar18122000/3-reasons-your-ai-budget-is-bleeding-why-llm-jacking-attacks-are-surging-and-the-8-minute-29e173f50b47?source=rss------artificial_intelligence-5)**
-> 🔹 **[ELIMINATE REPETITIVE CONTENT CREATION TASKS](https://medium.com/@candy_cyy/eliminate-repetitive-content-creation-tasks-d484d0bef99f?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Things I Wish I Knew Before Using AI](https://medium.com/@esok2743/5-things-i-wish-i-knew-before-using-ai-123f20827804?source=rss------artificial_intelligence-5)**
+> 🔹 **[Jev vs LLM: One Writes, One Decides](https://medium.com/@josephreddy07/jev-vs-llm-one-writes-one-decides-976b44c7ce83?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents in Software Engineering &amp; DevOps](https://medium.com/@nagagopi-in/ai-agents-in-software-engineering-devops-a7be01ae6415?source=rss------artificial_intelligence-5)**
+> 🔹 **[Listening Before Building: Framing a Real-World Problem Through CBL](https://medium.com/@ferdaouskachouri8/listening-before-building-framing-a-real-world-problem-through-cbl-e0f557d5f442?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Send PDFs Over 100 Pages to Claude’s API](https://kevinjztan.medium.com/how-to-send-pdfs-over-100-pages-to-claudes-api-ffb7ef6bf8e2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Attack Doesn’t Speak English: When Cybersecurity Has to Understand Context](https://medium.com/@hareemkhanNED/the-attack-doesnt-speak-english-when-cybersecurity-has-to-understand-context-52a891330c19?source=rss------artificial_intelligence-5)**
+> 🔹 **[Replacing Jira, Confluence, and a Scrum Master with Slash Commands](https://medium.com/how-we-turn-ideas-into-software-the-creative/replacing-jira-confluence-and-a-scrum-master-with-slash-commands-9cb7d1d6b00a?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tested 100 AI Prompts for Small Businesses — Here Are 5 That Saved Us 15+ Hours a Week](https://medium.com/@samstores49/i-tested-100-ai-prompts-for-small-businesses-here-are-5-that-saved-us-15-hours-a-week-745c774585e9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Networking and AI](https://shanegoodwin.medium.com/when-ai-outgrew-one-machine-the-network-became-part-of-the-job-8dbbdc9c3faf?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
