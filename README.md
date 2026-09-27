@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Monolith vs Microservices: How Backend Architecture Evolves](https://medium.com/@ayantik.sarkar2020/monolith-vs-microservices-how-backend-architecture-evolves-4704e7cf5490?source=rss------backend_development-5)**
-> 🔹 **[I Tried to Fool 5 AI Detectors With My Own Writing](https://medium.com/write-a-catalyst/i-tried-to-fool-5-ai-detectors-with-my-own-writing-a79ef482224a?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Replication to Application: What Are We Trying to Recreate?](https://medium.com/@yetiten525/from-replication-to-application-what-are-we-trying-to-recreate-3ed64bcce3ce?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI: Noise and Confusion](https://medium.com/illumination/ai-noise-and-confusion-5f1a023740f1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Four AI Labs Agreed to Slow Down. Seven Days Later They Were Sued.](https://medium.com/@marlonsteiner/four-ai-labs-agreed-to-slow-down-seven-days-later-they-were-sued-3f80ae67afc3?source=rss------artificial_intelligence-5)**
-> 🔹 **[This Windows Got More Personal. Not the Way You Think.](https://generativeai.pub/this-windows-got-more-personal-not-the-way-you-think-b29beae20c16?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Ethics We Live By &lpar;7/12&rpar;: In Technology](https://medium.com/write-your-world/the-ethics-we-live-by-7-12-in-technology-f99fb1cb00f9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Returned Perfect JSON. It Still Made the Wrong Decision.](https://medium.com/@manjunadhpadarthi/your-ai-returned-perfect-json-it-still-made-the-wrong-decision-348e17532893?source=rss------artificial_intelligence-5)**
+> 🔹 **[Designing with AI: Where We Are and How Far We Can Go](https://medium.com/@sepideh.mirtaleby/designing-with-ai-where-we-are-and-how-far-we-can-go-624490db87df?source=rss------system_design-5)**
+> 🔹 **[Good Architecture Deletes the Signals Your Agent Depends On](https://towardsdatascience.com/good-architecture-deletes-the-signals-your-agent-depends-on/)**
+> 🔹 **[Regulatory Capture Is the Design of Global AI Governance](https://medium.com/@mail17_15488/regulatory-capture-is-the-design-of-global-ai-governance-b6aae3e9c326?source=rss------artificial_intelligence-5)**
+> 🔹 **[Existence Log — Season 22 The Last Human Invention part 02](https://medium.com/@djvjdjvj/existence-log-season-22-the-last-human-invention-part-02-ab53b0e7a3b6?source=rss------artificial_intelligence-5)**
+> 🔹 **[API Security, JWT Authentication, and Authorization: What I Check Before Calling an API…](https://rsvkg.medium.com/api-security-jwt-authentication-and-authorization-what-i-check-before-calling-an-api-c7cdd39b0707?source=rss------backend_development-5)**
+> 🔹 **[Existence Log — Season 22 The Last Human Invention part 01](https://medium.com/@djvjdjvj/existence-log-season-22-the-last-human-invention-part-01-bd24b85bafa7?source=rss------artificial_intelligence-5)**
+> 🔹 **[MongoDB vs SQL -A Backend Developer’s Honest Take](https://medium.com/@tyagiabhinav43/mongodb-vs-sql-a-backend-developers-honest-take-970fded2c5a5?source=rss------backend_development-5)**
+> 🔹 **[What I Am Learning While Teaching AI Across Sri Lanka](https://samisa-abeysinghe.medium.com/what-i-am-learning-while-teaching-ai-across-sri-lanka-0aa343d826ef?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
