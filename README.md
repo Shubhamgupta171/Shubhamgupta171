@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[When a Résumé Becomes Cheap, What Becomes Valuable?](https://medium.com/@namratanmagnani/when-a-r%C3%A9sum%C3%A9-becomes-cheap-what-becomes-valuable-4e948394edbd?source=rss------artificial_intelligence-5)**
-> 🔹 **[El Estado del Generative Engine Optimization &lpar;GEO&rpar; en España: La Disrupción de la IA y las Nuev...](https://medium.com/@kusiai/el-estado-del-generative-engine-optimization-geo-en-espa%C3%B1a-la-disrupci%C3%B3n-de-la-ia-y-las-nuevas-971f9a5327f2?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Gave Our Developers AI Agents. Then We Realized Their Jobs Had Quietly Changed.](https://medium.com/@developer_programmer/we-gave-our-developers-ai-agents-then-we-realized-their-jobs-had-quietly-changed-7f17d4f8a59c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The ‘AI Slowdown’ Is Utter Bullshit](https://wlockett.medium.com/the-ai-slowdown-is-utter-bullshit-fdf0dc25ac00?source=rss------artificial_intelligence-5)**
-> 🔹 **[Laya vs Gemma: Who Wins the Doom Game?](https://pub.towardsai.net/laya-vs-gemma-who-wins-the-doom-game-18d3b30f303b?source=rss------artificial_intelligence-5)**
-> 🔹 **[What If AI Doesn’t Need to Look Human for Us to Be Asking the Wrong Questions?](https://medium.com/@jjrocco/what-if-ai-doesnt-need-to-look-human-for-us-to-be-asking-the-wrong-questions-3f876a9200fd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Our Best Engineer Stopped Taking the Hardest Projects. His Career Took Off.](https://medium.com/@developer_programmer/our-best-engineer-stopped-taking-the-hardest-projects-his-career-took-off-8be2444ea4f8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Will Robots Really Replace Us?](https://medium.com/@amirshnll/will-robots-really-replace-us-05d439c32534?source=rss------artificial_intelligence-5)**
+> 🔹 **[Monolith vs Microservices: How Backend Architecture Evolves](https://medium.com/@ayantik.sarkar2020/monolith-vs-microservices-how-backend-architecture-evolves-4704e7cf5490?source=rss------backend_development-5)**
+> 🔹 **[I Tried to Fool 5 AI Detectors With My Own Writing](https://medium.com/write-a-catalyst/i-tried-to-fool-5-ai-detectors-with-my-own-writing-a79ef482224a?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Replication to Application: What Are We Trying to Recreate?](https://medium.com/@yetiten525/from-replication-to-application-what-are-we-trying-to-recreate-3ed64bcce3ce?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI: Noise and Confusion](https://medium.com/illumination/ai-noise-and-confusion-5f1a023740f1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Four AI Labs Agreed to Slow Down. Seven Days Later They Were Sued.](https://medium.com/@marlonsteiner/four-ai-labs-agreed-to-slow-down-seven-days-later-they-were-sued-3f80ae67afc3?source=rss------artificial_intelligence-5)**
+> 🔹 **[This Windows Got More Personal. Not the Way You Think.](https://generativeai.pub/this-windows-got-more-personal-not-the-way-you-think-b29beae20c16?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Ethics We Live By &lpar;7/12&rpar;: In Technology](https://medium.com/write-your-world/the-ethics-we-live-by-7-12-in-technology-f99fb1cb00f9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Returned Perfect JSON. It Still Made the Wrong Decision.](https://medium.com/@manjunadhpadarthi/your-ai-returned-perfect-json-it-still-made-the-wrong-decision-348e17532893?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
