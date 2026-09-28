@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Jev vs LLM: One Writes, One Decides](https://medium.com/@josephreddy07/jev-vs-llm-one-writes-one-decides-976b44c7ce83?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agents in Software Engineering &amp; DevOps](https://medium.com/@nagagopi-in/ai-agents-in-software-engineering-devops-a7be01ae6415?source=rss------artificial_intelligence-5)**
-> 🔹 **[Listening Before Building: Framing a Real-World Problem Through CBL](https://medium.com/@ferdaouskachouri8/listening-before-building-framing-a-real-world-problem-through-cbl-e0f557d5f442?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Send PDFs Over 100 Pages to Claude’s API](https://kevinjztan.medium.com/how-to-send-pdfs-over-100-pages-to-claudes-api-ffb7ef6bf8e2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Attack Doesn’t Speak English: When Cybersecurity Has to Understand Context](https://medium.com/@hareemkhanNED/the-attack-doesnt-speak-english-when-cybersecurity-has-to-understand-context-52a891330c19?source=rss------artificial_intelligence-5)**
-> 🔹 **[Replacing Jira, Confluence, and a Scrum Master with Slash Commands](https://medium.com/how-we-turn-ideas-into-software-the-creative/replacing-jira-confluence-and-a-scrum-master-with-slash-commands-9cb7d1d6b00a?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested 100 AI Prompts for Small Businesses — Here Are 5 That Saved Us 15+ Hours a Week](https://medium.com/@samstores49/i-tested-100-ai-prompts-for-small-businesses-here-are-5-that-saved-us-15-hours-a-week-745c774585e9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Networking and AI](https://shanegoodwin.medium.com/when-ai-outgrew-one-machine-the-network-became-part-of-the-job-8dbbdc9c3faf?source=rss------artificial_intelligence-5)**
+> 🔹 **[UUID Works Fine… Until Your Database Gets Really Big](https://medium.com/@pramod.er90/uuid-works-fine-until-your-database-gets-really-big-97ce4cc54b89?source=rss------backend_development-5)**
+> 🔹 **[OAuth 2.1, Application Passwords or Access Tokens? How to Let an AI Agent Sign In to WordPress](https://medium.com/@wppilot/oauth-2-1-application-passwords-or-access-tokens-how-to-let-an-ai-agent-sign-in-to-wordpress-30f3c449bf93?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Upgrade Tax: Why Newer AI Models Cost More Than Their Price Tag](https://medium.com/@motormetrics/the-upgrade-tax-why-newer-ai-models-cost-more-than-their-price-tag-a54989c8b815?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Fucking Lies](https://medium.com/@leesharks00/ai-fucking-lies-40500b576563?source=rss------artificial_intelligence-5)**
+> 🔹 **[Wireless Home Security Camera Market to Surpass $24 Billion by 2030: How AI and Smart Homes Are...](https://medium.com/@santhoshtbrc/wireless-home-security-camera-market-to-surpass-24-billion-by-2030-how-ai-and-smart-homes-are-725bab6b6e65?source=rss------artificial_intelligence-5)**
+> 🔹 **[Harvey AI: When your AI supplier becomes your competitor](https://medium.com/@ruxiz2005/harvey-ai-when-your-ai-supplier-becomes-your-competitor-1cd40825084e?source=rss------artificial_intelligence-5)**
+> 🔹 **[QA in Scaled Agile &lpar;SAFe&rpar;: How to Manage Testing, Automation, and AI Across Enterprise Teams](https://medium.com/@Global_Executive/qa-in-scaled-agile-safe-how-to-manage-testing-automation-and-ai-across-enterprise-teams-593a2eee7406?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If AI Didn’t Need to Recreate the World to Understand It? Inside JEPA](https://medium.com/@maneaditya478/what-if-ai-didnt-need-to-recreate-the-world-to-understand-it-inside-jepa-c473c48916c3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
