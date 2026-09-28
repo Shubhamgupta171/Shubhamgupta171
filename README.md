@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Make Your Own JEV Model from an Open LLM](https://towardsdatascience.com/how-to-make-your-own-jev-model-from-an-open-llm/)**
-> 🔹 **[Low-Latency Telemetry Streaming and Resilient Edge Hydration: An Architectural Review of…](https://medium.com/@francisjnkozeyddn63/low-latency-telemetry-streaming-and-resilient-edge-hydration-an-architectural-review-of-f952b2d6d196?source=rss------system_design-5)**
-> 🔹 **[How good documentation lets AI close the gap in design work](https://medium.com/@cjtorresbravo/how-good-documentation-lets-ai-close-the-gap-in-design-work-79ad351869ff?source=rss------system_design-5)**
-> 🔹 **[Your Spring Boot API Is Returning 200 OK While Your System Is Already Failing](https://osintteam.blog/your-spring-boot-api-is-returning-200-ok-while-your-system-is-already-failing-6f485e79c8fc?source=rss------system_design-5)**
-> 🔹 **[Concurrency Vs Parallelism](https://medium.com/@aashigangrade06/concurrency-vs-parallelism-857c53943f96?source=rss------system_design-5)**
-> 🔹 **[Supervised Fine-Tuning &lpar;SFT&rpar;](https://medium.com/ai-safety-ethics/supervised-fine-tuning-sft-b8fa10a640eb?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Found the Kafka Bugs. Which Decisions Are Still Mine?](https://medium.com/@zoetw88/ai-found-the-kafka-bugs-which-decisions-are-still-mine-4b4a64854ae9?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Hindsight Memory Turned Chat Messages into Structured Incidents](https://medium.com/@mp7553696/how-hindsight-memory-turned-chat-messages-into-structured-incidents-5e8e2c750a1c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your First Claude Directory Submission &lpar;4 Checks the CLI Misses&rpar;](https://medium.com/@automation.labs/your-first-claude-directory-submission-4-checks-the-cli-misses-cfcf7bf05b29?source=rss------artificial_intelligence-5)**
+> 🔹 **[Designing for AI Agents: 8 UX Patterns That Build Trust in 2026](https://pub.towardsai.net/designing-for-ai-agents-ux-patterns-713a0c926933?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stories of Becoming](https://medium.com/@theus12358/stories-of-becoming-ebecd1094ae9?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT Caricature: How to Create Amazing AI Caricatures From Photos and Prompts](https://medium.com/@libansalahabdullahi/chatgpt-caricature-how-to-create-amazing-ai-caricatures-from-photos-and-prompts-a37935f9da95?source=rss------artificial_intelligence-5)**
+> 🔹 **[How a Video AI Backend Keeps Hundreds of Cameras in Sync](https://medium.com/@05mateenkhan/how-a-video-ai-backend-keeps-hundreds-of-cameras-in-sync-a7b6fc3e6b4c?source=rss------backend_development-5)**
+> 🔹 **[What Is AI? Machine Learning, Deep Learning and LLMs Explained Simply](https://medium.com/@kingdesign2014/what-is-ai-machine-learning-deep-learning-and-llms-explained-simply-a4e8f809daad?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Unshakeable Product Manager: The Definitive Leadership Constitution for the AI Era](https://medium.com/@tarikmostafaabohagar/the-unshakeable-product-manager-the-definitive-leadership-constitution-for-the-ai-era-7ad26c7f6159?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic AI and Virtual Companions: Making Autonomous AI Relatable and Practical](https://medium.com/@curiousmind1786/agentic-ai-and-virtual-companions-making-autonomous-ai-relatable-and-practical-d691aa3baa51?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
