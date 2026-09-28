@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[UUID Works Fine… Until Your Database Gets Really Big](https://medium.com/@pramod.er90/uuid-works-fine-until-your-database-gets-really-big-97ce4cc54b89?source=rss------backend_development-5)**
-> 🔹 **[OAuth 2.1, Application Passwords or Access Tokens? How to Let an AI Agent Sign In to WordPress](https://medium.com/@wppilot/oauth-2-1-application-passwords-or-access-tokens-how-to-let-an-ai-agent-sign-in-to-wordpress-30f3c449bf93?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Upgrade Tax: Why Newer AI Models Cost More Than Their Price Tag](https://medium.com/@motormetrics/the-upgrade-tax-why-newer-ai-models-cost-more-than-their-price-tag-a54989c8b815?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Fucking Lies](https://medium.com/@leesharks00/ai-fucking-lies-40500b576563?source=rss------artificial_intelligence-5)**
-> 🔹 **[Wireless Home Security Camera Market to Surpass $24 Billion by 2030: How AI and Smart Homes Are...](https://medium.com/@santhoshtbrc/wireless-home-security-camera-market-to-surpass-24-billion-by-2030-how-ai-and-smart-homes-are-725bab6b6e65?source=rss------artificial_intelligence-5)**
-> 🔹 **[Harvey AI: When your AI supplier becomes your competitor](https://medium.com/@ruxiz2005/harvey-ai-when-your-ai-supplier-becomes-your-competitor-1cd40825084e?source=rss------artificial_intelligence-5)**
-> 🔹 **[QA in Scaled Agile &lpar;SAFe&rpar;: How to Manage Testing, Automation, and AI Across Enterprise Teams](https://medium.com/@Global_Executive/qa-in-scaled-agile-safe-how-to-manage-testing-automation-and-ai-across-enterprise-teams-593a2eee7406?source=rss------artificial_intelligence-5)**
-> 🔹 **[What If AI Didn’t Need to Recreate the World to Understand It? Inside JEPA](https://medium.com/@maneaditya478/what-if-ai-didnt-need-to-recreate-the-world-to-understand-it-inside-jepa-c473c48916c3?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Make Your Own JEV Model from an Open LLM](https://towardsdatascience.com/how-to-make-your-own-jev-model-from-an-open-llm/)**
+> 🔹 **[Low-Latency Telemetry Streaming and Resilient Edge Hydration: An Architectural Review of…](https://medium.com/@francisjnkozeyddn63/low-latency-telemetry-streaming-and-resilient-edge-hydration-an-architectural-review-of-f952b2d6d196?source=rss------system_design-5)**
+> 🔹 **[How good documentation lets AI close the gap in design work](https://medium.com/@cjtorresbravo/how-good-documentation-lets-ai-close-the-gap-in-design-work-79ad351869ff?source=rss------system_design-5)**
+> 🔹 **[Your Spring Boot API Is Returning 200 OK While Your System Is Already Failing](https://osintteam.blog/your-spring-boot-api-is-returning-200-ok-while-your-system-is-already-failing-6f485e79c8fc?source=rss------system_design-5)**
+> 🔹 **[Concurrency Vs Parallelism](https://medium.com/@aashigangrade06/concurrency-vs-parallelism-857c53943f96?source=rss------system_design-5)**
+> 🔹 **[Supervised Fine-Tuning &lpar;SFT&rpar;](https://medium.com/ai-safety-ethics/supervised-fine-tuning-sft-b8fa10a640eb?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Found the Kafka Bugs. Which Decisions Are Still Mine?](https://medium.com/@zoetw88/ai-found-the-kafka-bugs-which-decisions-are-still-mine-4b4a64854ae9?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Hindsight Memory Turned Chat Messages into Structured Incidents](https://medium.com/@mp7553696/how-hindsight-memory-turned-chat-messages-into-structured-incidents-5e8e2c750a1c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
