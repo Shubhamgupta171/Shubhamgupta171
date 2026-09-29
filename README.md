@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[System Design for AI #5: The Brain of an AI Backend — AI Orchestration](https://medium.com/@kaangulergs/system-design-for-ai-5-the-brain-of-an-ai-backend-ai-orchestration-23eac526815d?source=rss------backend_development-5)**
-> 🔹 **[Reality check: LLMs prioritize responsiveness, not correctness](https://ai.plainenglish.io/reality-check-llms-prioritize-responsiveness-not-correctness-53f294a291b0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Autonomous doesn’t mean unsupervised: Trusting agentic QA without losing oversight](https://medium.com/@SmartBear/autonomous-doesnt-mean-unsupervised-trusting-agentic-qa-without-losing-oversight-a9a0b5718f03?source=rss------artificial_intelligence-5)**
-> 🔹 **[Jev is an AI Model that outputs decisions instead of text](https://ai.plainenglish.io/jev-is-an-ai-model-that-outputs-decisions-instead-of-text-5758cfe5bffd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Governing AI Is Not the Same as Trusting It](https://medium.com/the-trustworthy-ai-exchange/why-governing-ai-is-not-the-same-as-trusting-it-c054a12124ea?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Is Changing Marketing: From Personalized Ads to Smarter Customer Experiences](https://medium.com/@palakrathi1306/how-ai-is-changing-marketing-from-personalized-ads-to-smarter-customer-experiences-8f469a713d5c?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Just Discovered a CRISPR-Like Enzyme. Here Is What Happens by 2028.](https://generativeai.pub/ai-just-discovered-a-crispr-like-enzyme-here-is-what-happens-by-2028-9305e8bc5e81?source=rss------artificial_intelligence-5)**
-> 🔹 **[Five Ways to Scale AI Skill Retrieval](https://medium.com/@tsiciliani/five-ways-to-scale-ai-skill-retrieval-76711b0908d5?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Make Money Designing YouTube Thumbnails with AI: A Beginner’s Playbook for Your First $1...](https://medium.com/@netxfusion/how-to-make-money-designing-youtube-thumbnails-with-ai-a-beginners-playbook-for-your-first-100-d471fb25c983?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building a Self-Learning Incident Response System with AI-Powered Memory](https://medium.com/@nagidimohan32/building-a-self-learning-incident-response-system-with-ai-powered-memory-8a9dae3153ea?source=rss------artificial_intelligence-5)**
+> 🔹 **[BSV utility-first price map](https://lordgaudygroup.medium.com/bsv-utility-first-price-map-85b6f9108e64?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Battle of the AI Agents: Muse, Dots, and Grok Bot Are Competing for Something Bigger Than Y...](https://medium.com/@ayoleyijohnson/the-battle-of-the-ai-agents-muse-dots-and-grok-bot-are-competing-for-something-bigger-than-your-cf904726956c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Identify a Human](https://medium.com/@mtdrtgzkd/how-to-identify-a-human-a715e98870c5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Fact Standards That Survive Agentic Automations](https://medium.com/lucidryio/fact-standards-that-survive-agentic-automations-c558414c53c8?source=rss------artificial_intelligence-5)**
+> 🔹 **[PACELC Theorem](https://medium.com/@killipramodh7/pacelc-theorem-b56ae2e40073?source=rss------backend_development-5)**
+> 🔹 **[OpenAI shipped GPT-6.1 Sol at DevDay, so I one-shotted it](https://ai.sulat.com/openai-shipped-gpt-6-1-sol-at-devday-so-i-one-shotted-it-1e84dd8a1d9c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
