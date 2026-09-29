@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your phone is AI’s newest hardware](https://stackoverflow.blog/2026/09/29/your-phone-is-ai-s-newest-hardware/)**
-> 🔹 **[MCP Doesn’t Replace Your API. It Gives AI Applications a Different Way In.](https://medium.com/@ankitsemwal1122/mcp-doesnt-replace-your-api-it-gives-ai-applications-a-different-way-in-dfaa16a6102a?source=rss------backend_development-5)**
-> 🔹 **[Don’t Wait for the Ontology](https://medium.com/@hnabburu/dont-wait-for-the-ontology-e6bd9b916e03?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Best LLM Upgrade I Made Wasn’t to the LLM](https://medium.com/@shreyajoshi070/the-best-llm-upgrade-i-made-wasnt-to-the-llm-404efbf201bc?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Trade a Trending Market Without Chasing the Price](https://mehjabeenbano.medium.com/how-to-trade-a-trending-market-without-chasing-the-price-7c2090e48f79?source=rss------artificial_intelligence-5)**
-> 🔹 **[What I Think About the Future of AI](https://medium.com/new-write/what-i-think-about-the-future-of-ai-9c8fe3cba865?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence for Beginners: What Is AI and How Does It Work?](https://medium.com/@rambabubevara004/artificial-intelligence-for-beginners-what-is-ai-and-how-does-it-work-fd2cd8d65d5a?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Nobody Tells You About Choosing Coaching vs. Self-Study](https://medium.com/@shyamrathore013/what-nobody-tells-you-about-choosing-coaching-vs-self-study-c2a8818dc340?source=rss------artificial_intelligence-5)**
+> 🔹 **[System Design for AI #5: The Brain of an AI Backend — AI Orchestration](https://medium.com/@kaangulergs/system-design-for-ai-5-the-brain-of-an-ai-backend-ai-orchestration-23eac526815d?source=rss------backend_development-5)**
+> 🔹 **[Reality check: LLMs prioritize responsiveness, not correctness](https://ai.plainenglish.io/reality-check-llms-prioritize-responsiveness-not-correctness-53f294a291b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Autonomous doesn’t mean unsupervised: Trusting agentic QA without losing oversight](https://medium.com/@SmartBear/autonomous-doesnt-mean-unsupervised-trusting-agentic-qa-without-losing-oversight-a9a0b5718f03?source=rss------artificial_intelligence-5)**
+> 🔹 **[Jev is an AI Model that outputs decisions instead of text](https://ai.plainenglish.io/jev-is-an-ai-model-that-outputs-decisions-instead-of-text-5758cfe5bffd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Governing AI Is Not the Same as Trusting It](https://medium.com/the-trustworthy-ai-exchange/why-governing-ai-is-not-the-same-as-trusting-it-c054a12124ea?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Is Changing Marketing: From Personalized Ads to Smarter Customer Experiences](https://medium.com/@palakrathi1306/how-ai-is-changing-marketing-from-personalized-ads-to-smarter-customer-experiences-8f469a713d5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Just Discovered a CRISPR-Like Enzyme. Here Is What Happens by 2028.](https://generativeai.pub/ai-just-discovered-a-crispr-like-enzyme-here-is-what-happens-by-2028-9305e8bc5e81?source=rss------artificial_intelligence-5)**
+> 🔹 **[Five Ways to Scale AI Skill Retrieval](https://medium.com/@tsiciliani/five-ways-to-scale-ai-skill-retrieval-76711b0908d5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
