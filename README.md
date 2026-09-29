@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your First Claude Directory Submission &lpar;4 Checks the CLI Misses&rpar;](https://medium.com/@automation.labs/your-first-claude-directory-submission-4-checks-the-cli-misses-cfcf7bf05b29?source=rss------artificial_intelligence-5)**
-> 🔹 **[Designing for AI Agents: 8 UX Patterns That Build Trust in 2026](https://pub.towardsai.net/designing-for-ai-agents-ux-patterns-713a0c926933?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stories of Becoming](https://medium.com/@theus12358/stories-of-becoming-ebecd1094ae9?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT Caricature: How to Create Amazing AI Caricatures From Photos and Prompts](https://medium.com/@libansalahabdullahi/chatgpt-caricature-how-to-create-amazing-ai-caricatures-from-photos-and-prompts-a37935f9da95?source=rss------artificial_intelligence-5)**
-> 🔹 **[How a Video AI Backend Keeps Hundreds of Cameras in Sync](https://medium.com/@05mateenkhan/how-a-video-ai-backend-keeps-hundreds-of-cameras-in-sync-a7b6fc3e6b4c?source=rss------backend_development-5)**
-> 🔹 **[What Is AI? Machine Learning, Deep Learning and LLMs Explained Simply](https://medium.com/@kingdesign2014/what-is-ai-machine-learning-deep-learning-and-llms-explained-simply-a4e8f809daad?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Unshakeable Product Manager: The Definitive Leadership Constitution for the AI Era](https://medium.com/@tarikmostafaabohagar/the-unshakeable-product-manager-the-definitive-leadership-constitution-for-the-ai-era-7ad26c7f6159?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentic AI and Virtual Companions: Making Autonomous AI Relatable and Practical](https://medium.com/@curiousmind1786/agentic-ai-and-virtual-companions-making-autonomous-ai-relatable-and-practical-d691aa3baa51?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your phone is AI’s newest hardware](https://stackoverflow.blog/2026/09/29/your-phone-is-ai-s-newest-hardware/)**
+> 🔹 **[MCP Doesn’t Replace Your API. It Gives AI Applications a Different Way In.](https://medium.com/@ankitsemwal1122/mcp-doesnt-replace-your-api-it-gives-ai-applications-a-different-way-in-dfaa16a6102a?source=rss------backend_development-5)**
+> 🔹 **[Don’t Wait for the Ontology](https://medium.com/@hnabburu/dont-wait-for-the-ontology-e6bd9b916e03?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Best LLM Upgrade I Made Wasn’t to the LLM](https://medium.com/@shreyajoshi070/the-best-llm-upgrade-i-made-wasnt-to-the-llm-404efbf201bc?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Trade a Trending Market Without Chasing the Price](https://mehjabeenbano.medium.com/how-to-trade-a-trending-market-without-chasing-the-price-7c2090e48f79?source=rss------artificial_intelligence-5)**
+> 🔹 **[What I Think About the Future of AI](https://medium.com/new-write/what-i-think-about-the-future-of-ai-9c8fe3cba865?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence for Beginners: What Is AI and How Does It Work?](https://medium.com/@rambabubevara004/artificial-intelligence-for-beginners-what-is-ai-and-how-does-it-work-fd2cd8d65d5a?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Nobody Tells You About Choosing Coaching vs. Self-Study](https://medium.com/@shyamrathore013/what-nobody-tells-you-about-choosing-coaching-vs-self-study-c2a8818dc340?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
