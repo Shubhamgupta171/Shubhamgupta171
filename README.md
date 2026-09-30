@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Make Money Designing YouTube Thumbnails with AI: A Beginner’s Playbook for Your First $1...](https://medium.com/@netxfusion/how-to-make-money-designing-youtube-thumbnails-with-ai-a-beginners-playbook-for-your-first-100-d471fb25c983?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building a Self-Learning Incident Response System with AI-Powered Memory](https://medium.com/@nagidimohan32/building-a-self-learning-incident-response-system-with-ai-powered-memory-8a9dae3153ea?source=rss------artificial_intelligence-5)**
-> 🔹 **[BSV utility-first price map](https://lordgaudygroup.medium.com/bsv-utility-first-price-map-85b6f9108e64?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Battle of the AI Agents: Muse, Dots, and Grok Bot Are Competing for Something Bigger Than Y...](https://medium.com/@ayoleyijohnson/the-battle-of-the-ai-agents-muse-dots-and-grok-bot-are-competing-for-something-bigger-than-your-cf904726956c?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Identify a Human](https://medium.com/@mtdrtgzkd/how-to-identify-a-human-a715e98870c5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Fact Standards That Survive Agentic Automations](https://medium.com/lucidryio/fact-standards-that-survive-agentic-automations-c558414c53c8?source=rss------artificial_intelligence-5)**
-> 🔹 **[PACELC Theorem](https://medium.com/@killipramodh7/pacelc-theorem-b56ae2e40073?source=rss------backend_development-5)**
-> 🔹 **[OpenAI shipped GPT-6.1 Sol at DevDay, so I one-shotted it](https://ai.sulat.com/openai-shipped-gpt-6-1-sol-at-devday-so-i-one-shotted-it-1e84dd8a1d9c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Low-Code AI Is Hitting Its Limit — And AI Coding Agents Are the Reason](https://medium.com/@it.hhkn/low-code-ai-is-hitting-its-limit-and-ai-coding-agents-are-the-reason-3def0392676f?source=rss------artificial_intelligence-5)**
+> 🔹 **[I watched one thread update a boolean to true, and another thread kept behaving as if that upda...](https://medium.com/@sonampatel_97163/i-watched-one-thread-update-a-boolean-to-true-and-another-thread-kept-behaving-as-if-that-update-6e91cdd3fe53?source=rss------backend_development-5)**
+> 🔹 **[You Lowered Temperature to 0.2](https://swarnenduiitb2020i.medium.com/you-lowered-temperature-to-0-2-5ee727e7885d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Risk of AI Bias: Need for Systemic Backtesting and Validation](https://medium.com/@tushargadkari/the-hidden-risk-of-ai-bias-need-for-systemic-backtesting-and-validation-2cf4a264886f?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Keep the Same AI Character in Every Video Scene](https://medium.com/@facelessbrain2/how-to-keep-the-same-ai-character-in-every-video-scene-7825e6551e70?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence: A Teacher’s Assistant.](https://medium.com/@k2jcheat3/artificial-intelligence-a-teachers-assistant-098e1028ddc0?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Neural Networks to Generative AI : How Modern AI Actually work](https://aryasingh1.medium.com/from-neural-networks-to-generative-ai-how-modern-ai-actually-work-2b1d4ff02019?source=rss------artificial_intelligence-5)**
+> 🔹 **[Source of Originality](https://medium.com/@ZarionZory/source-of-originality-f91bf45893c8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
