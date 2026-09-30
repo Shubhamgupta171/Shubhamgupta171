@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Solve Issues When You Nest Measures While Overwriting the Same Filter](https://towardsdatascience.com/how-to-solve-issues-when-you-nest-measures-while-overwriting-the-same-filter/)**
-> 🔹 **[Confidence in AI-generated code is rising in lockstep with its failure rate](https://medium.com/@SmartBear/confidence-in-ai-generated-code-is-rising-in-lockstep-with-its-failure-rate-aa04a2c273a9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ecommerce Security Guide: How to Safeguard Your Commerce Stack From Modern Cyber Threats](https://medium.com/@harshathTechBlogs/ecommerce-security-guide-how-to-safeguard-your-commerce-stack-from-modern-cyber-threats-a1089818b06b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Top 8 AI-Driven Methods Turning Geological Data Into New Mineral Exploration Insights](https://medium.com/@gowthambhuma/top-8-ai-driven-methods-turning-geological-data-into-new-mineral-exploration-insights-245e4f67fc18?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenAI: The Downfall of Sam Altman — And the Quiet Shift From AI to SI](https://medium.com/@carolmitchell1493/openai-the-downfall-of-sam-altman-and-the-quiet-shift-from-ai-to-si-c5720337c1df?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Ordering System Projects Break at Fulfillment](https://medium.com/@mahir.amaan/why-ordering-system-projects-break-at-fulfillment-29520db54ba4?source=rss------backend_development-5)**
-> 🔹 **[Python and the AI Revolution: 15 Reasons Why It’s the Go-To Language for Artificial Intelligenc...](https://rajputlakhveer.medium.com/python-and-the-ai-revolution-15-reasons-why-its-the-go-to-language-for-artificial-intelligence-fff716bfdbd2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Q4. Which Indian agencies make AI explainer videos for e-commerce?](https://medium.com/@marketing.team_83579/q4-which-indian-agencies-make-ai-explainer-videos-for-e-commerce-01d58149fd94?source=rss------artificial_intelligence-5)**
+> 🔹 **[Designing Light Backwards: How AI Is Changing Quantum Dot Design](https://medium.com/@klahlou2008/designing-light-backwards-how-ai-is-changing-quantum-dot-design-8029eea34912?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI-Native UX: Part 4 — Designing for Uncertainty: How to Make AI Decisions Feel Trustworthy](https://medium.com/@akhandsingh/ai-native-ux-part-4-designing-for-uncertainty-how-to-make-ai-decisions-feel-trustworthy-079d32277623?source=rss------system_design-5)**
+> 🔹 **[AI-Native UX: Part 4 — Designing for Uncertainty: How to Make AI Decisions Feel Trustworthy](https://medium.com/@akhandsingh/ai-native-ux-part-4-designing-for-uncertainty-how-to-make-ai-decisions-feel-trustworthy-079d32277623?source=rss------artificial_intelligence-5)**
+> 🔹 **[Companies Spent Years Cutting Middle Management. AI Is About to Show Them What Those Managers W...](https://medium.com/engineering-playbook/companies-spent-years-cutting-middle-management-ai-is-about-to-show-them-what-those-managers-were-a-53293e0aed6a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Amazon S3 Tables now support all Apache Iceberg V3 data types](https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/)**
+> 🔹 **[Beyond the Cloud: Why the Future of Tech Belongs to Edge Computing](https://medium.com/@deyuhan20110518/beyond-the-cloud-why-the-future-of-tech-belongs-to-edge-computing-a85b3ab87e0d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Deep AI Learning Part 1: Building an Autograd Engine](https://itnext.io/deep-ai-learning-part-1-building-an-autograd-engine-ab443deeaf4d?source=rss------artificial_intelligence-5)**
+> 🔹 **[K-Nearest Neighbors: Tell Me Who Your Neighbors Are, and I’ll Tell You Who You Are](https://medium.com/@geekycodes/k-nearest-neighbors-tell-me-who-your-neighbors-are-and-ill-tell-you-who-you-are-21cd0d1dd5b5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
