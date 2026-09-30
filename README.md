@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Low-Code AI Is Hitting Its Limit — And AI Coding Agents Are the Reason](https://medium.com/@it.hhkn/low-code-ai-is-hitting-its-limit-and-ai-coding-agents-are-the-reason-3def0392676f?source=rss------artificial_intelligence-5)**
-> 🔹 **[I watched one thread update a boolean to true, and another thread kept behaving as if that upda...](https://medium.com/@sonampatel_97163/i-watched-one-thread-update-a-boolean-to-true-and-another-thread-kept-behaving-as-if-that-update-6e91cdd3fe53?source=rss------backend_development-5)**
-> 🔹 **[You Lowered Temperature to 0.2](https://swarnenduiitb2020i.medium.com/you-lowered-temperature-to-0-2-5ee727e7885d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Risk of AI Bias: Need for Systemic Backtesting and Validation](https://medium.com/@tushargadkari/the-hidden-risk-of-ai-bias-need-for-systemic-backtesting-and-validation-2cf4a264886f?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Keep the Same AI Character in Every Video Scene](https://medium.com/@facelessbrain2/how-to-keep-the-same-ai-character-in-every-video-scene-7825e6551e70?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence: A Teacher’s Assistant.](https://medium.com/@k2jcheat3/artificial-intelligence-a-teachers-assistant-098e1028ddc0?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Neural Networks to Generative AI : How Modern AI Actually work](https://aryasingh1.medium.com/from-neural-networks-to-generative-ai-how-modern-ai-actually-work-2b1d4ff02019?source=rss------artificial_intelligence-5)**
-> 🔹 **[Source of Originality](https://medium.com/@ZarionZory/source-of-originality-f91bf45893c8?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Solve Issues When You Nest Measures While Overwriting the Same Filter](https://towardsdatascience.com/how-to-solve-issues-when-you-nest-measures-while-overwriting-the-same-filter/)**
+> 🔹 **[Confidence in AI-generated code is rising in lockstep with its failure rate](https://medium.com/@SmartBear/confidence-in-ai-generated-code-is-rising-in-lockstep-with-its-failure-rate-aa04a2c273a9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Ecommerce Security Guide: How to Safeguard Your Commerce Stack From Modern Cyber Threats](https://medium.com/@harshathTechBlogs/ecommerce-security-guide-how-to-safeguard-your-commerce-stack-from-modern-cyber-threats-a1089818b06b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Top 8 AI-Driven Methods Turning Geological Data Into New Mineral Exploration Insights](https://medium.com/@gowthambhuma/top-8-ai-driven-methods-turning-geological-data-into-new-mineral-exploration-insights-245e4f67fc18?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI: The Downfall of Sam Altman — And the Quiet Shift From AI to SI](https://medium.com/@carolmitchell1493/openai-the-downfall-of-sam-altman-and-the-quiet-shift-from-ai-to-si-c5720337c1df?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Ordering System Projects Break at Fulfillment](https://medium.com/@mahir.amaan/why-ordering-system-projects-break-at-fulfillment-29520db54ba4?source=rss------backend_development-5)**
+> 🔹 **[Python and the AI Revolution: 15 Reasons Why It’s the Go-To Language for Artificial Intelligenc...](https://rajputlakhveer.medium.com/python-and-the-ai-revolution-15-reasons-why-its-the-go-to-language-for-artificial-intelligence-fff716bfdbd2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Q4. Which Indian agencies make AI explainer videos for e-commerce?](https://medium.com/@marketing.team_83579/q4-which-indian-agencies-make-ai-explainer-videos-for-e-commerce-01d58149fd94?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
