@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Parallel Coding Agents Overwrite Each Other’s Changes](https://medium.com/@omanyuk/why-parallel-coding-agents-overwrite-each-others-changes-e9313b566402?source=rss------artificial_intelligence-5)**
-> 🔹 **[Which Jobs Will AI Take, Which Will It Spare, and Who Will Actually Be Out of Work?](https://medium.com/@emadaldean.hs/which-jobs-will-ai-take-which-will-it-spare-and-who-will-actually-be-out-of-work-02d8e715972e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Too Many AI Approval Requests? The Human-in-the-Loop Bottleneck](https://medium.com/@omanyuk/too-many-ai-approval-requests-the-human-in-the-loop-bottleneck-699970ce8ca3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Global Anomaly Detection Market To Surpass $16 Billion By 2030 Driven By AI Threats And…](https://medium.com/@santhoshtbrc/global-anomaly-detection-market-to-surpass-16-billion-by-2030-driven-by-ai-threats-and-cde831016f46?source=rss------artificial_intelligence-5)**
-> 🔹 **[When Science Moves Inward](https://shrimpmindparadox.medium.com/when-science-moves-inward-97e7981f1865?source=rss------artificial_intelligence-5)**
-> 🔹 **[Data Centers and AI: Separating Hype from Reality](https://medium.com/phoenix-business-brief-podcast/data-centers-and-ai-separating-hype-from-reality-91e15247915a?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a Free Evaluation Suite for a Fintech Chatbot — Here’s What It Found](https://medium.com/@banututuncu/i-built-a-free-evaluation-suite-for-a-fintech-chatbot-heres-what-it-found-410e25eac462?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Edit YouTube Videos Faster Without Sacrificing Quality](https://medium.com/@vfxai_inc/how-to-edit-youtube-videos-faster-without-sacrificing-quality-d24cb70ff54d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Production Outage: What Senior Engineers Should Do in the First 15 Minutes](https://medium.com/engineering-playbook/production-outage-what-senior-engineers-should-do-in-the-first-15-minutes-e1a12c2dd470?source=rss------backend_development-5)**
+> 🔹 **[Redis Production Troubleshooting: 10 Failure Modes Senior Engineers Should Understand](https://medium.com/engineering-playbook/redis-production-troubleshooting-10-failure-modes-senior-engineers-should-understand-564b8eb2f15f?source=rss------backend_development-5)**
+> 🔹 **[Google Project Suncatcher: orbital AI computing](https://medium.com/@popularai/google-project-suncatcher-orbital-ai-computing-9f4b83adff1a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Agent Can Call Production APIs. Is It in Your NIS2 Risk Model?](https://medium.com/@stefanbb/your-ai-agent-can-call-production-apis-is-it-in-your-nis2-risk-model-4c9438113f28?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI System Design Interview: How to Design a Production-Grade RAG System at Senior Level](https://medium.com/@bybackend/ai-system-design-interview-how-to-design-a-production-grade-rag-system-at-senior-level-8302ff4003d8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Backend Performance Optimization: 12 Bottlenecks Senior Engineers Should Find Before Scaling](https://medium.com/@pixel1234/backend-performance-optimization-12-bottlenecks-senior-engineers-should-find-before-scaling-4293c027f618?source=rss------backend_development-5)**
+> 🔹 **[How to run an AI visibility audit: check if ChatGPT names your brand &lpar;in 20 minutes&rpar;](https://medium.com/@mayank_16566/ranking-1-on-google-doesnt-mean-chatgpt-will-name-you-here-s-a-20-minute-check-7ce74b496660?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Boring Work That Makes AI Useful](https://harshith-vaddiparthy.medium.com/the-boring-work-that-makes-ai-useful-bd3994a83ab6?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
