@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Designing Light Backwards: How AI Is Changing Quantum Dot Design](https://medium.com/@klahlou2008/designing-light-backwards-how-ai-is-changing-quantum-dot-design-8029eea34912?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI-Native UX: Part 4 — Designing for Uncertainty: How to Make AI Decisions Feel Trustworthy](https://medium.com/@akhandsingh/ai-native-ux-part-4-designing-for-uncertainty-how-to-make-ai-decisions-feel-trustworthy-079d32277623?source=rss------system_design-5)**
-> 🔹 **[AI-Native UX: Part 4 — Designing for Uncertainty: How to Make AI Decisions Feel Trustworthy](https://medium.com/@akhandsingh/ai-native-ux-part-4-designing-for-uncertainty-how-to-make-ai-decisions-feel-trustworthy-079d32277623?source=rss------artificial_intelligence-5)**
-> 🔹 **[Companies Spent Years Cutting Middle Management. AI Is About to Show Them What Those Managers W...](https://medium.com/engineering-playbook/companies-spent-years-cutting-middle-management-ai-is-about-to-show-them-what-those-managers-were-a-53293e0aed6a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Amazon S3 Tables now support all Apache Iceberg V3 data types](https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/)**
-> 🔹 **[Beyond the Cloud: Why the Future of Tech Belongs to Edge Computing](https://medium.com/@deyuhan20110518/beyond-the-cloud-why-the-future-of-tech-belongs-to-edge-computing-a85b3ab87e0d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Deep AI Learning Part 1: Building an Autograd Engine](https://itnext.io/deep-ai-learning-part-1-building-an-autograd-engine-ab443deeaf4d?source=rss------artificial_intelligence-5)**
-> 🔹 **[K-Nearest Neighbors: Tell Me Who Your Neighbors Are, and I’ll Tell You Who You Are](https://medium.com/@geekycodes/k-nearest-neighbors-tell-me-who-your-neighbors-are-and-ill-tell-you-who-you-are-21cd0d1dd5b5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Current AI’s Recursive Capabilities are Very Limited](https://medium.com/@Gbgrow/current-ais-recursive-capabilities-are-very-limited-fdc5b695e17d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building an AI Client for Our Internal Developer Platform &lpar;IDP&rpar;](https://medium.com/@rahulshukla_9187/building-an-ai-client-for-our-internal-developer-platform-idp-72f7b7f91109?source=rss------artificial_intelligence-5)**
+> 🔹 **[A green tick is a date, not a fact](https://medium.com/@edgarasneverdauskas/a-green-tick-is-a-date-not-a-fact-a36951bfe4cf?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Senior Engineer Used AI for 30 Days. By Day 27, He Was Faster at Coding and Worse at the Par...](https://medium.com/javarevisited/my-senior-engineer-used-ai-for-30-days-by-day-27-he-was-faster-at-coding-and-worse-at-the-part-55a2e99521b1?source=rss------artificial_intelligence-5)**
+> 🔹 **[I’m Becoming a Better Developer. I’m Just Not Sure How Much of It Is Me.](https://medium.com/@rohanrv/im-becoming-a-better-developer-i-m-just-not-sure-how-much-of-it-is-me-3ea22cf4996e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Shopping now starts before reaching your website: agentic search grows by 200%](https://medium.com/@hectormr_38921/shopping-now-starts-before-reaching-your-website-agentic-search-grows-by-200-5a1e367c7251?source=rss------artificial_intelligence-5)**
+> 🔹 **[If Your Article Can’t Pass This Simple Test, Don’t Publish It Yet.](https://medium.com/infinite-library/if-your-article-cant-pass-this-simple-test-don-t-publish-it-yet-0c12e6db5cb2?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Chatting With AI Can Cost You Your Life](https://medium.com/infinite-impulse/how-chatting-with-ai-can-cost-you-your-life-23e4210820a4?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
