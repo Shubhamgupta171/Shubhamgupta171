@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Current AI’s Recursive Capabilities are Very Limited](https://medium.com/@Gbgrow/current-ais-recursive-capabilities-are-very-limited-fdc5b695e17d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building an AI Client for Our Internal Developer Platform &lpar;IDP&rpar;](https://medium.com/@rahulshukla_9187/building-an-ai-client-for-our-internal-developer-platform-idp-72f7b7f91109?source=rss------artificial_intelligence-5)**
-> 🔹 **[A green tick is a date, not a fact](https://medium.com/@edgarasneverdauskas/a-green-tick-is-a-date-not-a-fact-a36951bfe4cf?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Senior Engineer Used AI for 30 Days. By Day 27, He Was Faster at Coding and Worse at the Par...](https://medium.com/javarevisited/my-senior-engineer-used-ai-for-30-days-by-day-27-he-was-faster-at-coding-and-worse-at-the-part-55a2e99521b1?source=rss------artificial_intelligence-5)**
-> 🔹 **[I’m Becoming a Better Developer. I’m Just Not Sure How Much of It Is Me.](https://medium.com/@rohanrv/im-becoming-a-better-developer-i-m-just-not-sure-how-much-of-it-is-me-3ea22cf4996e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Shopping now starts before reaching your website: agentic search grows by 200%](https://medium.com/@hectormr_38921/shopping-now-starts-before-reaching-your-website-agentic-search-grows-by-200-5a1e367c7251?source=rss------artificial_intelligence-5)**
-> 🔹 **[If Your Article Can’t Pass This Simple Test, Don’t Publish It Yet.](https://medium.com/infinite-library/if-your-article-cant-pass-this-simple-test-don-t-publish-it-yet-0c12e6db5cb2?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Chatting With AI Can Cost You Your Life](https://medium.com/infinite-impulse/how-chatting-with-ai-can-cost-you-your-life-23e4210820a4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Parallel Coding Agents Overwrite Each Other’s Changes](https://medium.com/@omanyuk/why-parallel-coding-agents-overwrite-each-others-changes-e9313b566402?source=rss------artificial_intelligence-5)**
+> 🔹 **[Which Jobs Will AI Take, Which Will It Spare, and Who Will Actually Be Out of Work?](https://medium.com/@emadaldean.hs/which-jobs-will-ai-take-which-will-it-spare-and-who-will-actually-be-out-of-work-02d8e715972e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Too Many AI Approval Requests? The Human-in-the-Loop Bottleneck](https://medium.com/@omanyuk/too-many-ai-approval-requests-the-human-in-the-loop-bottleneck-699970ce8ca3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Global Anomaly Detection Market To Surpass $16 Billion By 2030 Driven By AI Threats And…](https://medium.com/@santhoshtbrc/global-anomaly-detection-market-to-surpass-16-billion-by-2030-driven-by-ai-threats-and-cde831016f46?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Science Moves Inward](https://shrimpmindparadox.medium.com/when-science-moves-inward-97e7981f1865?source=rss------artificial_intelligence-5)**
+> 🔹 **[Data Centers and AI: Separating Hype from Reality](https://medium.com/phoenix-business-brief-podcast/data-centers-and-ai-separating-hype-from-reality-91e15247915a?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Free Evaluation Suite for a Fintech Chatbot — Here’s What It Found](https://medium.com/@banututuncu/i-built-a-free-evaluation-suite-for-a-fintech-chatbot-heres-what-it-found-410e25eac462?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Edit YouTube Videos Faster Without Sacrificing Quality](https://medium.com/@vfxai_inc/how-to-edit-youtube-videos-faster-without-sacrificing-quality-d24cb70ff54d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
