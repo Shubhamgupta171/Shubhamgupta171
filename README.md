@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Production Outage: What Senior Engineers Should Do in the First 15 Minutes](https://medium.com/engineering-playbook/production-outage-what-senior-engineers-should-do-in-the-first-15-minutes-e1a12c2dd470?source=rss------backend_development-5)**
-> 🔹 **[Redis Production Troubleshooting: 10 Failure Modes Senior Engineers Should Understand](https://medium.com/engineering-playbook/redis-production-troubleshooting-10-failure-modes-senior-engineers-should-understand-564b8eb2f15f?source=rss------backend_development-5)**
-> 🔹 **[Google Project Suncatcher: orbital AI computing](https://medium.com/@popularai/google-project-suncatcher-orbital-ai-computing-9f4b83adff1a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Agent Can Call Production APIs. Is It in Your NIS2 Risk Model?](https://medium.com/@stefanbb/your-ai-agent-can-call-production-apis-is-it-in-your-nis2-risk-model-4c9438113f28?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI System Design Interview: How to Design a Production-Grade RAG System at Senior Level](https://medium.com/@bybackend/ai-system-design-interview-how-to-design-a-production-grade-rag-system-at-senior-level-8302ff4003d8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Backend Performance Optimization: 12 Bottlenecks Senior Engineers Should Find Before Scaling](https://medium.com/@pixel1234/backend-performance-optimization-12-bottlenecks-senior-engineers-should-find-before-scaling-4293c027f618?source=rss------backend_development-5)**
-> 🔹 **[How to run an AI visibility audit: check if ChatGPT names your brand &lpar;in 20 minutes&rpar;](https://medium.com/@mayank_16566/ranking-1-on-google-doesnt-mean-chatgpt-will-name-you-here-s-a-20-minute-check-7ce74b496660?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Boring Work That Makes AI Useful](https://harshith-vaddiparthy.medium.com/the-boring-work-that-makes-ai-useful-bd3994a83ab6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Constraints that make developers faster](https://stackoverflow.blog/2026/10/02/constraints-that-make-developers-faster/)**
+> 🔹 **[Why E Commerce Is Moving Beyond the Online Store](https://medium.com/@mahir.amaan/why-e-commerce-is-moving-beyond-the-online-store-5bc039bb073b?source=rss------backend_development-5)**
+> 🔹 **[Idiot Greed and the Collapse of a Civilization.](https://medium.com/@lunacinis/idiot-greed-and-the-collapse-of-a-civilization-2e3e946811b4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Origin of the Data Center-Centric City Model &lpar;8&rpar;](https://medium.com/@takashi_pogi/the-origin-of-the-data-center-centric-city-model-8-855e9051ace1?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Making Us Better at Answers — and Worse at Questions](https://timepersonified.medium.com/ai-is-making-us-better-at-answers-and-worse-at-questions-67e31b88f220?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Moved the Security Bottleneck From the Patch to the Proof](https://medium.com/@faraz.ishaq/ai-moved-the-security-bottleneck-from-the-patch-to-the-proof-e261b1f4df00?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Difference Between a Reliable System and a System That Usually Works](https://medium.com/@gulsaba.fiha/the-difference-between-a-reliable-system-and-a-system-that-usually-works-14a10b2fc3b5?source=rss------system_design-5)**
+> 🔹 **[Rogue AI Agents: 7 Security Lessons for Engineers](https://medium.com/@nitink4107/rogue-ai-agents-7-security-lessons-for-engineers-5d7d69ffa78d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
