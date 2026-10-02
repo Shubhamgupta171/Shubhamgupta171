@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Designing Resilient Ingestion: Handling High-Throughput Stream Spikes Without Crashing](https://medium.com/@amamit/designing-resilient-ingestion-handling-high-throughput-stream-spikes-without-crashing-5c012c9cfc89?source=rss------backend_development-5)**
-> 🔹 **[Our Fastest API Was the First Service We Decided to Delete](https://medium.com/@coding_with_tech/our-fastest-api-was-the-first-service-we-decided-to-delete-6f042a301e00?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Generated 40 Pull Requests in a Week. Our Review Queue Barely Moved.](https://medium.com/@coding_with_tech/ai-generated-40-pull-requests-in-a-week-our-review-queue-barely-moved-8ffc4ae95bb6?source=rss------artificial_intelligence-5)**
-> 🔹 **[SMART CAMPUS](https://medium.com/@guskhrisna22/smart-campus-6d280a0371ac?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Challenged AI to a Creative Writing Contest… &lpar;Pt. 2&rpar;](https://medium.com/@devinthorpewrites/i-challenged-ai-to-a-creative-writing-contest-pt-2-def2a09f8ade?source=rss------artificial_intelligence-5)**
-> 🔹 **[What does a “Verifier” mean in AI agent evaluation?](https://medium.com/ai-safety-ethics/what-does-a-verifier-mean-in-ai-agent-evaluation-42b8b65e48c6?source=rss------artificial_intelligence-5)**
-> 🔹 **[One Prompting Habit Explains Most of the Difference in AI Output](https://www.towardsdeeplearning.com/one-prompting-habit-explains-most-of-the-difference-in-ai-output-9a1be1b7bea5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Dario “Completely Deluded”, Opposable Thumbs, Suddenly Quiet AI Releases](https://medium.com/@mikesulka/dario-completely-deluded-opposable-thumbs-suddenly-quiet-ai-releases-ded40ef7a2af?source=rss------artificial_intelligence-5)**
+> 🔹 **[Clinical AI Has an Epistemic Infrastructure Problem](https://medium.com/@savantframeworkadmin/clinical-ai-has-an-epistemic-infrastructure-problem-61a34f75401b?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Happens to Exploration When You Keep Feeding Unstructured Thoughts into Chat?](https://medium.com/@seconddeep/what-happens-to-exploration-when-you-keep-feeding-unstructured-thoughts-into-chat-934d36c418ef?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Add an Agentic Layer to Your Existing Application](https://medium.com/@jainamkajaliya8/how-to-add-an-agentic-layer-to-your-existing-application-5054edf81112?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kubernetes ServiceAccounts: Every Pod Wears a Badge](https://medium.com/@shubham.patel191295/kubernetes-serviceaccounts-every-pod-wears-a-badge-ee52dd87ee0e?source=rss------backend_development-5)**
+> 🔹 **[We Tried ISO-AdamW. AdamW Kept Its Job.](https://medium.com/@gfactor/we-tried-iso-adamw-adamw-kept-its-job-cf72d662aa16?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Fragmented Logistics Data to Governed AI Insights with Google Cloud’s Open Lakehouse](https://medium.com/google-cloud/from-fragmented-logistics-data-to-governed-ai-insights-with-google-clouds-open-lakehouse-ba1594fdc131?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Wrote the Code. The Tests Pass. That Still Tells You Almost Nothing.](https://medium.com/@srimukh88/your-ai-wrote-the-code-the-tests-pass-that-still-tells-you-almost-nothing-9cfe44ec32a5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Code with Free AI Models and Automatic Failover](https://medium.com/@brsnetalk/claude-code-with-free-ai-models-and-automatic-failover-73ab95bab3fc?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
