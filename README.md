@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Constraints that make developers faster](https://stackoverflow.blog/2026/10/02/constraints-that-make-developers-faster/)**
-> 🔹 **[Why E Commerce Is Moving Beyond the Online Store](https://medium.com/@mahir.amaan/why-e-commerce-is-moving-beyond-the-online-store-5bc039bb073b?source=rss------backend_development-5)**
-> 🔹 **[Idiot Greed and the Collapse of a Civilization.](https://medium.com/@lunacinis/idiot-greed-and-the-collapse-of-a-civilization-2e3e946811b4?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Origin of the Data Center-Centric City Model &lpar;8&rpar;](https://medium.com/@takashi_pogi/the-origin-of-the-data-center-centric-city-model-8-855e9051ace1?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Making Us Better at Answers — and Worse at Questions](https://timepersonified.medium.com/ai-is-making-us-better-at-answers-and-worse-at-questions-67e31b88f220?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Moved the Security Bottleneck From the Patch to the Proof](https://medium.com/@faraz.ishaq/ai-moved-the-security-bottleneck-from-the-patch-to-the-proof-e261b1f4df00?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Difference Between a Reliable System and a System That Usually Works](https://medium.com/@gulsaba.fiha/the-difference-between-a-reliable-system-and-a-system-that-usually-works-14a10b2fc3b5?source=rss------system_design-5)**
-> 🔹 **[Rogue AI Agents: 7 Security Lessons for Engineers](https://medium.com/@nitink4107/rogue-ai-agents-7-security-lessons-for-engineers-5d7d69ffa78d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Designing Resilient Ingestion: Handling High-Throughput Stream Spikes Without Crashing](https://medium.com/@amamit/designing-resilient-ingestion-handling-high-throughput-stream-spikes-without-crashing-5c012c9cfc89?source=rss------backend_development-5)**
+> 🔹 **[Our Fastest API Was the First Service We Decided to Delete](https://medium.com/@coding_with_tech/our-fastest-api-was-the-first-service-we-decided-to-delete-6f042a301e00?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Generated 40 Pull Requests in a Week. Our Review Queue Barely Moved.](https://medium.com/@coding_with_tech/ai-generated-40-pull-requests-in-a-week-our-review-queue-barely-moved-8ffc4ae95bb6?source=rss------artificial_intelligence-5)**
+> 🔹 **[SMART CAMPUS](https://medium.com/@guskhrisna22/smart-campus-6d280a0371ac?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Challenged AI to a Creative Writing Contest… &lpar;Pt. 2&rpar;](https://medium.com/@devinthorpewrites/i-challenged-ai-to-a-creative-writing-contest-pt-2-def2a09f8ade?source=rss------artificial_intelligence-5)**
+> 🔹 **[What does a “Verifier” mean in AI agent evaluation?](https://medium.com/ai-safety-ethics/what-does-a-verifier-mean-in-ai-agent-evaluation-42b8b65e48c6?source=rss------artificial_intelligence-5)**
+> 🔹 **[One Prompting Habit Explains Most of the Difference in AI Output](https://www.towardsdeeplearning.com/one-prompting-habit-explains-most-of-the-difference-in-ai-output-9a1be1b7bea5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Dario “Completely Deluded”, Opposable Thumbs, Suddenly Quiet AI Releases](https://medium.com/@mikesulka/dario-completely-deluded-opposable-thumbs-suddenly-quiet-ai-releases-ded40ef7a2af?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
