@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Started Measuring Java Backend Performance by Concurrency Instead of Raw Speed](https://medium.com/@maximilianoliver25/i-started-measuring-java-backend-performance-by-concurrency-instead-of-raw-speed-e551c20e3fbb?source=rss------backend_development-5)**
-> 🔹 **[Is ChatGPT Poisoning Your Brain?](https://medium.com/the-daily-draft/is-chatgpt-poisoning-your-brain-8aa26e0a3316?source=rss------artificial_intelligence-5)**
-> 🔹 **[Süper Zekâ Eşiğinde Hizalanma Problemi: Otonom Karar Mekanizmalarının İnsan Değerleriyle Sınavı](https://medium.com/@mustafacesur/s%C3%BCper-zek%C3%A2-e%C5%9Fi%C4%9Finde-hizalanma-problemi-otonom-karar-mekanizmalar%C4%B1n%C4%B1n-i%CC%87nsan-de%C4%9Ferleriyle-s%C4%B1nav%C4%B1-db01a00fc7b0?source=rss------artificial_intelligence-5)**
-> 🔹 **[RAG doesn’t have a confidentiality problem. RAG has an authorisation problem.](https://musaaib.medium.com/rag-doesnt-have-a-confidentiality-problem-rag-has-an-authorisation-problem-929913fb791a?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Start an Online Business With AI: A Beginner’s Roadmap](https://manifestvip.medium.com/how-to-start-an-online-business-with-ai-a-beginners-roadmap-3f1a9a28dee4?source=rss------artificial_intelligence-5)**
-> 🔹 **[What AI Panic Has in Common With a Man Who Refused Indoor Plumbing](https://medium.com/@HattieAmbrose/what-ai-panic-has-in-common-with-a-man-who-refused-indoor-plumbing-e1402e1b4233?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Wasting Your Claude Code Sessions: Things You Should Know](https://medium.com/@shiv.i.ghariwala/stop-wasting-your-claude-code-sessions-things-you-should-know-09afd0158298?source=rss------artificial_intelligence-5)**
-> 🔹 **[Autonomous SDLC Serisi · Bölüm 13](https://medium.com/@safak.tamses/autonomous-sdlc-serisi-b%C3%B6l%C3%BCm-13-e2a0e847d178?source=rss------artificial_intelligence-5)**
+> 🔹 **[Biometrics and AI Are Rewriting Building Security in Cyprus](https://medium.com/@paulgoll/biometrics-and-ai-are-rewriting-building-security-in-cyprus-86a9c83dd07d?source=rss------artificial_intelligence-5)**
+> 🔹 **[MENTAT: Teaching RAG Systems When to Retrieve, Connect, and Investigate](https://medium.com/@sandeeps0774/mentat-teaching-rag-systems-when-to-retrieve-connect-and-investigate-94f3458e0613?source=rss------artificial_intelligence-5)**
+> 🔹 **[UX Ethics in the Age of AI](https://medium.com/@practicing.ux/ux-ethics-in-the-age-of-ai-9e9908810ba6?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If the Layout Engineer Never Got Tired? Letting AI Lay Out My Analog OTA](https://vidaconia.medium.com/what-if-the-layout-engineer-never-got-tired-letting-ai-lay-out-my-analog-ota-9a10bed18e0a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Shortcut Learning in Vision Models: V-JEPA versus VideoMAE](https://medium.com/@tomgray291/shortcut-learning-in-vision-models-v-jepa-versus-videomae-a7827a1362bd?source=rss------artificial_intelligence-5)**
+> 🔹 **[I&#39;ve Used Claude Every Week in 2026. These 25 Prompts Can Help You Make Your First Online Sale](https://medium.com/@joshuafirst56/ive-used-claude-every-week-in-2026-these-25-prompts-can-help-you-make-your-first-online-sale-075918acb43f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Ovchinnikov Enigma](https://medium.com/the-academic/the-ovchinnikov-enigma-f2470f0d4e5d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Is Bad for Developers](https://medium.com/data-science-collective/why-ai-is-bad-for-developers-905a041cb250?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
