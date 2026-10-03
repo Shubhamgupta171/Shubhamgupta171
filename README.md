@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Claude Code vs Codex: Which One Should a Non-Coder Pay For?](https://medium.com/illumination/claude-code-vs-codex-for-non-coders-3bf60884d6ab?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Backend Shouldn’t Store Your Files](https://medium.com/@ayantik.sarkar2020/your-backend-shouldnt-store-your-files-d14bcafa8197?source=rss------backend_development-5)**
-> 🔹 **[Teaching AI to Help Students Learn: Reflections from My Berita Minggu Interview](https://medium.com/@nizamkadirteach/teaching-ai-to-help-students-learn-reflections-from-my-berita-minggu-interview-be4597f356bc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Five Months Ago, I Built an AI Development Team. It Already Looks Outdated.](https://medium.com/@naoto01182002/five-months-ago-i-built-an-ai-development-team-it-already-looks-outdated-6707c0aabfc7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ahmedabad Is Built for Business. Can It Be Built for Tech?](https://medium.com/@devpreet.xd/ahmedabad-is-built-for-business-can-it-be-built-for-tech-5ece9308c784?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Made My First $100 With ChatGPT in 7 Days - A Complete Beginner’s Guide](https://medium.com/@meghachauhan_17297/how-i-made-my-first-100-with-chatgpt-in-7-days-a-complete-beginners-guide-4673ad74e0fb?source=rss------artificial_intelligence-5)**
-> 🔹 **[WOULD YOU TRUST YOUR OWN WEBSITE?](https://medium.com/@badcocktech/would-you-trust-your-own-website-17ea043e01a4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Code Is Not Cheap: Why Software Fundamentals Matter More in the AI Era](https://medium.com/@codetune/code-is-not-cheap-why-software-fundamentals-matter-more-in-the-ai-era-04511b5a2ff4?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Started Measuring Java Backend Performance by Concurrency Instead of Raw Speed](https://medium.com/@maximilianoliver25/i-started-measuring-java-backend-performance-by-concurrency-instead-of-raw-speed-e551c20e3fbb?source=rss------backend_development-5)**
+> 🔹 **[Is ChatGPT Poisoning Your Brain?](https://medium.com/the-daily-draft/is-chatgpt-poisoning-your-brain-8aa26e0a3316?source=rss------artificial_intelligence-5)**
+> 🔹 **[Süper Zekâ Eşiğinde Hizalanma Problemi: Otonom Karar Mekanizmalarının İnsan Değerleriyle Sınavı](https://medium.com/@mustafacesur/s%C3%BCper-zek%C3%A2-e%C5%9Fi%C4%9Finde-hizalanma-problemi-otonom-karar-mekanizmalar%C4%B1n%C4%B1n-i%CC%87nsan-de%C4%9Ferleriyle-s%C4%B1nav%C4%B1-db01a00fc7b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[RAG doesn’t have a confidentiality problem. RAG has an authorisation problem.](https://musaaib.medium.com/rag-doesnt-have-a-confidentiality-problem-rag-has-an-authorisation-problem-929913fb791a?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Start an Online Business With AI: A Beginner’s Roadmap](https://manifestvip.medium.com/how-to-start-an-online-business-with-ai-a-beginners-roadmap-3f1a9a28dee4?source=rss------artificial_intelligence-5)**
+> 🔹 **[What AI Panic Has in Common With a Man Who Refused Indoor Plumbing](https://medium.com/@HattieAmbrose/what-ai-panic-has-in-common-with-a-man-who-refused-indoor-plumbing-e1402e1b4233?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Wasting Your Claude Code Sessions: Things You Should Know](https://medium.com/@shiv.i.ghariwala/stop-wasting-your-claude-code-sessions-things-you-should-know-09afd0158298?source=rss------artificial_intelligence-5)**
+> 🔹 **[Autonomous SDLC Serisi · Bölüm 13](https://medium.com/@safak.tamses/autonomous-sdlc-serisi-b%C3%B6l%C3%BCm-13-e2a0e847d178?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
