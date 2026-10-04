@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Biometrics and AI Are Rewriting Building Security in Cyprus](https://medium.com/@paulgoll/biometrics-and-ai-are-rewriting-building-security-in-cyprus-86a9c83dd07d?source=rss------artificial_intelligence-5)**
-> 🔹 **[MENTAT: Teaching RAG Systems When to Retrieve, Connect, and Investigate](https://medium.com/@sandeeps0774/mentat-teaching-rag-systems-when-to-retrieve-connect-and-investigate-94f3458e0613?source=rss------artificial_intelligence-5)**
-> 🔹 **[UX Ethics in the Age of AI](https://medium.com/@practicing.ux/ux-ethics-in-the-age-of-ai-9e9908810ba6?source=rss------artificial_intelligence-5)**
-> 🔹 **[What If the Layout Engineer Never Got Tired? Letting AI Lay Out My Analog OTA](https://vidaconia.medium.com/what-if-the-layout-engineer-never-got-tired-letting-ai-lay-out-my-analog-ota-9a10bed18e0a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Shortcut Learning in Vision Models: V-JEPA versus VideoMAE](https://medium.com/@tomgray291/shortcut-learning-in-vision-models-v-jepa-versus-videomae-a7827a1362bd?source=rss------artificial_intelligence-5)**
-> 🔹 **[I&#39;ve Used Claude Every Week in 2026. These 25 Prompts Can Help You Make Your First Online Sale](https://medium.com/@joshuafirst56/ive-used-claude-every-week-in-2026-these-25-prompts-can-help-you-make-your-first-online-sale-075918acb43f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Ovchinnikov Enigma](https://medium.com/the-academic/the-ovchinnikov-enigma-f2470f0d4e5d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Is Bad for Developers](https://medium.com/data-science-collective/why-ai-is-bad-for-developers-905a041cb250?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Importance of Data Quality in AI Model Training](https://medium.com/@silveryomanya83/the-importance-of-data-quality-in-ai-model-training-32e97142967b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Deleted Hundreds of Saved AI Prompts. These 10 Claude Prompts Survived.](https://medium.com/@imranwritess/i-deleted-hundreds-of-saved-ai-prompts-these-10-claude-prompts-survived-df706ad8800c?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 DIGITAL PRODUCTS YOU CAN CREATE THIS WEEKEND](https://medium.com/@chizuruokemark52/5-digital-products-you-can-create-this-weekend-e40b14a339b5?source=rss------artificial_intelligence-5)**
+> 🔹 **[When a RAG answer is wrong, trace the evidence before changing the model](https://medium.com/@wisegoat/when-a-rag-answer-is-wrong-trace-the-evidence-before-changing-the-model-6920146c6cdb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The YouTuber against OpenAI: PewDiePie’s Origin Story for Ajax AI](https://newsbyredstone.medium.com/the-youtuber-against-openai-pewdiepies-origin-story-for-ajax-ai-bd0c28935efd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Talking Hearts: Could one button help my grandma talk and learn?](https://medium.com/@skaterlad19/talking-hearts-could-one-button-help-my-grandma-talk-and-learn-8918b60518a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Use AI Agents Without Losing Control](https://medium.com/@kaddenuwara/how-to-use-ai-agents-beginners-guide-c6533bf70a40?source=rss------artificial_intelligence-5)**
+> 🔹 **[WARNING! According to Bill Gates, AI Could Cause a Billion Deaths!!](https://medium.com/the-gravity/warning-according-to-bill-gates-ai-could-cause-a-billion-deaths-9573c4b63386?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
