@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Meshy AI 3D Review 2026: 2,230,028 Triangles, Zero Skeletons](https://medium.com/@olwenastoria2692/meshy-ai-3d-review-2026-2-230-028-triangles-zero-skeletons-287b915e0e59?source=rss------artificial_intelligence-5)**
-> 🔹 **[Art by Carl Bond](https://medium.com/@artbycarlbond/art-by-carl-bond-787173afb6b8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Meshy AI 3D Review 2026: 15.26 MB Buys Only 254,336 Triangles](https://medium.com/@roiseeliana2486/meshy-ai-3d-review-2026-15-26-mb-buys-only-254-336-triangles-9c0666d9a941?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested 10 AI Tools in 2026. These Are the Ones I’d Actually Keep](https://medium.com/@jaampappu/i-tested-10-ai-tools-in-2026-these-are-the-ones-id-actually-keep-7a4a4641033f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Meshy AI 3D Review 2026: The Monkey Ships 2,086,002 Triangles](https://medium.com/@nimuecassandra2865/meshy-ai-3d-review-2026-the-monkey-ships-2-086-002-triangles-b99db4cd6041?source=rss------artificial_intelligence-5)**
-> 🔹 **[Meshy AI 3D Print Review 2026: 27.4 MB and No Wall Check](https://medium.com/@tinadrexel2041/meshy-ai-3d-print-review-2026-27-4-mb-and-no-wall-check-f190be833848?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence Course in Kozhikode: Syllabus, Career Scope and How to Choose](https://medium.com/@sharonshaji817/artificial-intelligence-course-in-kozhikode-syllabus-career-scope-and-how-to-choose-531c2e66d190?source=rss------artificial_intelligence-5)**
-> 🔹 **[He Recognised the Voice. He Was Right To — and That Was the Problem](https://medium.com/@neuportalai/he-recognised-the-voice-he-was-right-to-and-that-was-the-problem-8324fa59737e?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI’s CUDA Monopoly Is Starting to Crack at the Kernel Layer](https://pub.towardsai.net/ais-cuda-monopoly-is-starting-to-crack-at-the-kernel-layer-6e31e271605d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Production MMM: Why Uncalibrated Models Fail and How Meridian 2.1.0 Solves It](https://medium.com/@brian-curry-research/production-mmm-why-uncalibrated-models-fail-and-how-meridian-2-1-0-solves-it-4e5469b7d640?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Skills Demand Grew 109% in a Year. Most Freelancers Are Chasing the Wrong One.](https://medium.com/@fastdigitizer/ai-skills-demand-grew-109-in-a-year-most-freelancers-are-chasing-the-wrong-one-915cb7c2c384?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is Creativity—And How to Practice It in an AI-Transformed World](https://helenu-lifecoach.medium.com/what-is-creativity-and-how-to-practice-it-in-an-ai-transformed-world-8278d10cea1b?source=rss------artificial_intelligence-5)**
+> 🔹 **[14 Weird Things AI Does That Most People Never Talk About](https://medium.com/@simranjeetsingh1497/14-weird-things-ai-does-that-most-people-never-talk-about-394e0ce64efc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best Free AI Motion Capture in 2026: Video to 3D Animation](https://medium.com/@marocsofiane20/best-free-ai-motion-capture-in-2026-video-to-3d-animation-a0da694158c5?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Fix Was Already Shipped: Lessons From LiteLLM’s 2026](https://medium.com/@NickHystax/self-hosting-litellm-lessons-2026-1133fa37e16b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Shopify Canvas Gives Small Merchants a Wider View of Store Design](https://medium.com/@punjabitimetech/shopify-canvas-gives-small-merchants-a-wider-view-of-store-design-148860c17fbd?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
