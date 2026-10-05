@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI Agent Pricing: How to Budget for Real Workflow Outcomes](https://dsvgroup.medium.com/ai-agent-pricing-how-to-budget-for-real-workflow-outcomes-deaf90487ffa?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Set Up Your AI Assistant So It Actually Knows Your Work](https://medium.com/@kaddenuwara/ai-custom-instructions-memory-guide-c157b7f6dc50?source=rss------artificial_intelligence-5)**
-> 🔹 **[10 AI Features in Software Development: What Students Should Know..??](https://medium.com/@nasiyanazim01/10-ai-features-in-software-development-what-students-should-know-cfe4c0f02d5a?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Use ChatGPT as Your Personal Assistant in 2026](https://medium.com/@madushananjana94/how-to-use-chatgpt-as-your-personal-assistant-in-2026-4686875b8c66?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Doesn’t Fix Bad Business Rules](https://medium.com/@ampldm2025/ai-doesnt-fix-bad-business-rules-3ce2add1aed1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Chaining Whisper to an LLM: Why Native Omni-Models Make Multi-Stage Pipelines Obsolete](https://generativeai.pub/stop-chaining-whisper-to-an-llm-why-native-omni-models-make-multi-stage-pipelines-obsolete-0785ee9b1b7b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The cold October wind whipped through the courtyard of St.](https://medium.com/@dejean0842/the-cold-october-wind-whipped-through-the-courtyard-of-st-20f4f7e03e4e?source=rss------artificial_intelligence-5)**
-> 🔹 **[A $5 Trillion Surge: OpenAI, Anthropic and SpaceX Could Eclipse 45 Years of Tech IPOs](https://medium.com/@harryjacob944/a-5-trillion-surge-openai-anthropic-and-spacex-could-eclipse-45-years-of-tech-ipos-00ecee8f2ae0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Getting Cited Is Not the Same as Getting Recommended](https://medium.com/@jeevan_ai_search_visibility/getting-cited-is-not-the-same-as-getting-recommended-41a70991c2f9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bodie Brief Is Live: Current News, Clearly Explained](https://medium.com/@bodiewayne/bodie-brief-is-live-current-news-clearly-explained-a75e4775f263?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Research Agent Can Fake the Evidence It Hands to Reviewers](https://activation-tanh.medium.com/your-research-agent-can-fake-the-evidence-it-hands-to-reviewers-15ddcc434cc2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Sonnet 5.5 vs Opus 5.5: I Tested Sonnet, Then Checked the Data on Opus](https://blog.stackademic.com/claude-sonnet-5-5-vs-opus-5-5-i-tested-sonnet-then-checked-the-data-on-opus-7a2b0143f86f?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Do AI, No Grades, and a Fraternity Rape Case Have in Common?](https://medium.com/copy-files/what-do-ai-no-grades-and-a-fraternity-rape-case-have-in-common-bd624768bab0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why I Think Bernie Sanders’ AI Bill Is Surprisingly Smart](https://medium.com/data-science-collective/why-i-think-bernie-sanders-ai-bill-is-surprisingly-smart-a7e1ba530146?source=rss------artificial_intelligence-5)**
+> 🔹 **[Automated Testing in Software Testing: AI-assisted Methods Versus Traditional Automation for…](https://medium.com/@priti_9991/automated-testing-in-software-testing-ai-assisted-methods-versus-traditional-automation-for-7076ba568ca9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Failure Analysis](https://artfullyprompt.medium.com/failure-analysis-20996f1bfc47?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
