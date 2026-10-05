@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI’s CUDA Monopoly Is Starting to Crack at the Kernel Layer](https://pub.towardsai.net/ais-cuda-monopoly-is-starting-to-crack-at-the-kernel-layer-6e31e271605d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Production MMM: Why Uncalibrated Models Fail and How Meridian 2.1.0 Solves It](https://medium.com/@brian-curry-research/production-mmm-why-uncalibrated-models-fail-and-how-meridian-2-1-0-solves-it-4e5469b7d640?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Skills Demand Grew 109% in a Year. Most Freelancers Are Chasing the Wrong One.](https://medium.com/@fastdigitizer/ai-skills-demand-grew-109-in-a-year-most-freelancers-are-chasing-the-wrong-one-915cb7c2c384?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is Creativity—And How to Practice It in an AI-Transformed World](https://helenu-lifecoach.medium.com/what-is-creativity-and-how-to-practice-it-in-an-ai-transformed-world-8278d10cea1b?source=rss------artificial_intelligence-5)**
-> 🔹 **[14 Weird Things AI Does That Most People Never Talk About](https://medium.com/@simranjeetsingh1497/14-weird-things-ai-does-that-most-people-never-talk-about-394e0ce64efc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best Free AI Motion Capture in 2026: Video to 3D Animation](https://medium.com/@marocsofiane20/best-free-ai-motion-capture-in-2026-video-to-3d-animation-a0da694158c5?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Fix Was Already Shipped: Lessons From LiteLLM’s 2026](https://medium.com/@NickHystax/self-hosting-litellm-lessons-2026-1133fa37e16b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Shopify Canvas Gives Small Merchants a Wider View of Store Design](https://medium.com/@punjabitimetech/shopify-canvas-gives-small-merchants-a-wider-view-of-store-design-148860c17fbd?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agent Pricing: How to Budget for Real Workflow Outcomes](https://dsvgroup.medium.com/ai-agent-pricing-how-to-budget-for-real-workflow-outcomes-deaf90487ffa?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Set Up Your AI Assistant So It Actually Knows Your Work](https://medium.com/@kaddenuwara/ai-custom-instructions-memory-guide-c157b7f6dc50?source=rss------artificial_intelligence-5)**
+> 🔹 **[10 AI Features in Software Development: What Students Should Know..??](https://medium.com/@nasiyanazim01/10-ai-features-in-software-development-what-students-should-know-cfe4c0f02d5a?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Use ChatGPT as Your Personal Assistant in 2026](https://medium.com/@madushananjana94/how-to-use-chatgpt-as-your-personal-assistant-in-2026-4686875b8c66?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Doesn’t Fix Bad Business Rules](https://medium.com/@ampldm2025/ai-doesnt-fix-bad-business-rules-3ce2add1aed1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Chaining Whisper to an LLM: Why Native Omni-Models Make Multi-Stage Pipelines Obsolete](https://generativeai.pub/stop-chaining-whisper-to-an-llm-why-native-omni-models-make-multi-stage-pipelines-obsolete-0785ee9b1b7b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The cold October wind whipped through the courtyard of St.](https://medium.com/@dejean0842/the-cold-october-wind-whipped-through-the-courtyard-of-st-20f4f7e03e4e?source=rss------artificial_intelligence-5)**
+> 🔹 **[A $5 Trillion Surge: OpenAI, Anthropic and SpaceX Could Eclipse 45 Years of Tech IPOs](https://medium.com/@harryjacob944/a-5-trillion-surge-openai-anthropic-and-spacex-could-eclipse-45-years-of-tech-ipos-00ecee8f2ae0?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
