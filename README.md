@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Before You Use AI for Your Job Search, Do This First](https://medium.com/@jameswalkerai/before-you-use-ai-for-your-job-search-do-this-first-fdfbc44356b8?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Trusted Tool Can Still Return Something Your Agent Shouldn’t Obey](https://medium.com/@zyane/a-trusted-tool-can-still-return-something-your-agent-shouldnt-obey-214858e59b33?source=rss------artificial_intelligence-5)**
-> 🔹 **[i started using ai to save time. then time became the problem.](https://sentinelwrites.medium.com/i-started-using-ai-to-save-time-then-time-became-the-problem-50e2dfac66f1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Does ChatGPT Keep Writing One-Sentence Paragraphs?](https://medium.com/prompt-odyssey/why-does-chatgpt-keep-writing-one-sentence-paragraphs-c364aa387f01?source=rss------artificial_intelligence-5)**
-> 🔹 **[23 yaşında bir oyun şirketi kurmak: Gökyüzünde balık tutmak](https://medium.com/@a.atakog/23-ya%C5%9F%C4%B1nda-bir-oyun-%C5%9Firketi-kurmak-g%C3%B6ky%C3%BCz%C3%BCnde-bal%C4%B1k-tutmak-2ee425f5b253?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Chasing the “Best” AI Side Hustle — Find the One That Fits You](https://medium.com/@clintherman/stop-chasing-the-best-ai-side-hustle-find-the-one-that-fits-you-0c1a66c50c38?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Bureaucratic Moat: How the Ban Artificial Superintelligence Act Accidentally Cements Big Te...](https://medium.com/@adam_1001/the-bureaucratic-moat-how-the-ban-artificial-superintelligence-act-accidentally-cements-big-techs-0f3cf4b948ea?source=rss------artificial_intelligence-5)**
-> 🔹 **[Companies Are Finally Realizing the Most Expensive Thing They Give AI Isn’t Tokens.](https://medium.com/engineering-playbook/companies-are-finally-realizing-the-most-expensive-thing-they-give-ai-isnt-tokens-2c0eed423b85?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Cost of Trusting AI-Generated Market Intelligence](https://medium.com/@vidyapandita23/the-hidden-cost-of-trusting-ai-generated-market-intelligence-374c6abc9ebc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Revised Language Process Theory: A Recording Framework for Production, Reception, and Norms](https://medium.com/@izayohi/revised-language-process-theory-a-recording-framework-for-production-reception-and-norms-a8cb9addbff2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Master Playwright with AI — The Future of Test Automation!](https://medium.com/@shravankumargoud55/master-playwright-with-ai-the-future-of-test-automation-28c96ed5089f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google’s New AI Ad Labels: How To Prepare For “How This Ad Was Made” Disclosures](https://medium.com/@gilmedia_com/googles-new-ai-ad-labels-how-to-prepare-for-how-this-ad-was-made-disclosures-1ba9d42d7f9c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who Gets to Stop a Frontier Launch?](https://ion-oaie.medium.com/who-gets-to-stop-a-frontier-launch-d8e5ed6d0470?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gen AI at PwC: What the Firm’s Strategy, Tools and Hiring Signals Mean for Your Data Science Ca...](https://medium.com/@willywonkacreations/gen-ai-at-pwc-what-the-firms-strategy-tools-and-hiring-signals-mean-for-your-data-science-career-eab20901a4da?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI in Finance Course: Free Beginner’s Guide + PDF &lpar;2026&rpar;](https://medium.com/@khayyamshah2007/ai-in-finance-course-free-beginners-guide-pdf-2026-05faeea67191?source=rss------artificial_intelligence-5)**
+> 🔹 **[Three Things to Freeze Before an Agent Replay Test Means Anything](https://medium.com/@precious.chindongo/three-things-to-freeze-before-an-agent-replay-test-means-anything-b405cbc77674?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
