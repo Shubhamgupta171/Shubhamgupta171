@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Hidden Cost of Trusting AI-Generated Market Intelligence](https://medium.com/@vidyapandita23/the-hidden-cost-of-trusting-ai-generated-market-intelligence-374c6abc9ebc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Revised Language Process Theory: A Recording Framework for Production, Reception, and Norms](https://medium.com/@izayohi/revised-language-process-theory-a-recording-framework-for-production-reception-and-norms-a8cb9addbff2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Master Playwright with AI — The Future of Test Automation!](https://medium.com/@shravankumargoud55/master-playwright-with-ai-the-future-of-test-automation-28c96ed5089f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google’s New AI Ad Labels: How To Prepare For “How This Ad Was Made” Disclosures](https://medium.com/@gilmedia_com/googles-new-ai-ad-labels-how-to-prepare-for-how-this-ad-was-made-disclosures-1ba9d42d7f9c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who Gets to Stop a Frontier Launch?](https://ion-oaie.medium.com/who-gets-to-stop-a-frontier-launch-d8e5ed6d0470?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gen AI at PwC: What the Firm’s Strategy, Tools and Hiring Signals Mean for Your Data Science Ca...](https://medium.com/@willywonkacreations/gen-ai-at-pwc-what-the-firms-strategy-tools-and-hiring-signals-mean-for-your-data-science-career-eab20901a4da?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI in Finance Course: Free Beginner’s Guide + PDF &lpar;2026&rpar;](https://medium.com/@khayyamshah2007/ai-in-finance-course-free-beginners-guide-pdf-2026-05faeea67191?source=rss------artificial_intelligence-5)**
-> 🔹 **[Three Things to Freeze Before an Agent Replay Test Means Anything](https://medium.com/@precious.chindongo/three-things-to-freeze-before-an-agent-replay-test-means-anything-b405cbc77674?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Measured the Wrong Thing: Why “Time Saved by AI” Never Shows Up in Your Week](https://briefs.aiadvances.org/we-measured-the-wrong-thing-why-time-saved-by-ai-never-shows-up-in-your-week-5ffd8e977fbe?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tried Herdr Named Agents: Keep Claude Code Sessions From Mixing Jobs](https://medium.com/@aleksandardobrohotov/i-tried-herdr-named-agents-keep-claude-code-sessions-from-mixing-jobs-3ebbe76fc6db?source=rss------artificial_intelligence-5)**
+> 🔹 **[When There Is No Right Answer: How Bittensor Measures Intelligence](https://medium.com/@tushar-manaktala/when-there-is-no-right-answer-how-bittensor-measures-intelligence-a17fb9829f75?source=rss------artificial_intelligence-5)**
+> 🔹 **[Frontier AI can now reverse-engineer software binaries. Here is what that means in 2026](https://medium.com/@popularai/frontier-ai-can-now-reverse-engineer-software-binaries-here-is-what-that-means-in-2026-e33904a33ec7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why You Should Use npm ci Instead of npm install in Production](https://medium.com/@bhaveshparmar2736/why-you-should-use-npm-ci-instead-of-npm-install-in-production-b1c773260722?source=rss------backend_development-5)**
+> 🔹 **[My AI Booked 17 Advisor Meetings. I Wrote Zero Emails.](https://medium.com/@colakang/my-ai-booked-17-advisor-meetings-i-wrote-zero-emails-bb2173345d45?source=rss------artificial_intelligence-5)**
+> 🔹 **[Opus 5.5 vs GPT-6: I Made Opus 5.5 and GPT-6 Grade Each Other’s Work](https://www.towardsdeeplearning.com/opus-5-5-vs-gpt-6-i-made-opus-5-5-and-gpt-6-grade-each-others-work-779c1cc9fb57?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 90-Day Social Media Plan](https://medium.com/@tripwireonfire/the-90-day-social-media-plan-460bb5ed2df5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
