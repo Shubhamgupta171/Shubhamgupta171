@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[We Measured the Wrong Thing: Why “Time Saved by AI” Never Shows Up in Your Week](https://briefs.aiadvances.org/we-measured-the-wrong-thing-why-time-saved-by-ai-never-shows-up-in-your-week-5ffd8e977fbe?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tried Herdr Named Agents: Keep Claude Code Sessions From Mixing Jobs](https://medium.com/@aleksandardobrohotov/i-tried-herdr-named-agents-keep-claude-code-sessions-from-mixing-jobs-3ebbe76fc6db?source=rss------artificial_intelligence-5)**
-> 🔹 **[When There Is No Right Answer: How Bittensor Measures Intelligence](https://medium.com/@tushar-manaktala/when-there-is-no-right-answer-how-bittensor-measures-intelligence-a17fb9829f75?source=rss------artificial_intelligence-5)**
-> 🔹 **[Frontier AI can now reverse-engineer software binaries. Here is what that means in 2026](https://medium.com/@popularai/frontier-ai-can-now-reverse-engineer-software-binaries-here-is-what-that-means-in-2026-e33904a33ec7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why You Should Use npm ci Instead of npm install in Production](https://medium.com/@bhaveshparmar2736/why-you-should-use-npm-ci-instead-of-npm-install-in-production-b1c773260722?source=rss------backend_development-5)**
-> 🔹 **[My AI Booked 17 Advisor Meetings. I Wrote Zero Emails.](https://medium.com/@colakang/my-ai-booked-17-advisor-meetings-i-wrote-zero-emails-bb2173345d45?source=rss------artificial_intelligence-5)**
-> 🔹 **[Opus 5.5 vs GPT-6: I Made Opus 5.5 and GPT-6 Grade Each Other’s Work](https://www.towardsdeeplearning.com/opus-5-5-vs-gpt-6-i-made-opus-5-5-and-gpt-6-grade-each-others-work-779c1cc9fb57?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 90-Day Social Media Plan](https://medium.com/@tripwireonfire/the-90-day-social-media-plan-460bb5ed2df5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Rails Under the Hood #14: What Really Happens When You Use before_action in Rails?](https://medium.com/codetodeploy/rails-under-the-hood-14-what-really-happens-when-you-use-before-action-in-rails-7a2e4d4f083f?source=rss------backend_development-5)**
+> 🔹 **[The Sovereignty Threshold: When Interdependence Becomes Dependency](https://medium.com/@avion_advisors/the-sovereignty-threshold-when-interdependence-becomes-dependency-169d196ba03c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Before We Generate 1,000 Learning Missions, We’re Building the Tests First](https://medium.com/govtechsingapore/before-we-generate-1-000-learning-missions-were-building-the-tests-first-c1c50dd01682?source=rss------artificial_intelligence-5)**
+> 🔹 **[An Adaptive Semantic Chunking Framework for High-Performance Retrieval-Augmented Generation](https://medium.com/@vijaikdasari/an-adaptive-semantic-chunking-framework-for-high-performance-retrieval-augmented-generation-9df9858afb08?source=rss------artificial_intelligence-5)**
+> 🔹 **[Data Analytics in 2026: How Businesses Are Becoming Data-Driven](https://medium.com/@cispro/data-analytics-in-2026-how-businesses-are-becoming-data-driven-e63657719f69?source=rss------artificial_intelligence-5)**
+> 🔹 **[LangSmith with LangChain Tool Calling: From Black Box to Observable AI Application](https://medium.com/@sathishkumar.babu89/langsmith-with-langchain-tool-calling-from-black-box-to-observable-ai-application-99b3a0fe1eba?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Indian Legal Tech Revolution: Why We Must Stop Paying for Unnecessary AI Features](https://medium.com/@kunalmoral07/the-indian-legal-tech-revolution-why-we-must-stop-paying-for-unnecessary-ai-features-7b3615214399?source=rss------artificial_intelligence-5)**
+> 🔹 **[A FRANKLINIAN WAY FORWARD for U.S.](https://medium.com/@crob2011/a-franklinian-way-forward-for-u-s-1cb2e2bb5d7d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
