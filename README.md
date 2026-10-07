@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Chargeback Was Built for Servers. AI Agents Broke It](https://medium.com/@NickHystax/ai-agent-chargeback-shared-llm-spend-960fff461339?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Keeper of Unfinished Memories](https://medium.com/@yuchuantseng/the-keeper-of-unfinished-memories-d931608aa4b2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentic AI Course Online India: Skills, Projects &amp; Roadmap](https://medium.com/@techpratham.29/agentic-ai-course-online-india-skills-projects-roadmap-8b473bd214bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[The IVR Is a Legacy System. Modernize It Like One.](https://medium.com/@delimiterbob/the-ivr-is-a-legacy-system-modernize-it-like-one-d78fd7179610?source=rss------artificial_intelligence-5)**
-> 🔹 **[South Korea’s Bank Breaches Expose the Cost of Neglected Systems](https://medium.com/@davidsehyeonbaek/south-koreas-bank-breaches-expose-the-cost-of-neglected-systems-c7069afeca22?source=rss------artificial_intelligence-5)**
-> 🔹 **[Basic to Advanced Chunking and Retrieval Strategies for Agentic RAG on Production-Grade Systems](https://kuldeeparya3794.medium.com/basic-to-advanced-chunking-and-retrieval-strategies-for-agentic-rag-on-production-grade-systems-a9ec7ff34de5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Business Doesnt Need Another Chatbot. It Needs Someone to Do the Work](https://medium.com/@verieditai/your-business-doesnt-need-another-chatbot-it-needs-someone-to-do-the-work-c413205d6e70?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Wanted to Automate My Threads Account Without Renting Another SaaS Tool](https://medium.com/@katyrichmond37/i-wanted-to-automate-my-threads-account-without-renting-another-saas-tool-cf8e27d8825d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Spec-Driven Development with AI Agents: Spec Kit vs OpenSpec vs BMAD &lpar;Plus a Hands-On OpenSpec…](https://pub.towardsai.net/spec-driven-development-with-ai-agents-spec-kit-vs-openspec-vs-bmad-plus-a-hands-on-openspec-7b6997074582?source=rss------artificial_intelligence-5)**
+> 🔹 **[Power, Water, and the Data-Center Reckoning: What Room-Temperature Quantum — and Orbit — Change](https://medium.com/@interactiveintel/power-water-and-the-data-center-reckoning-what-room-temperature-quantum-and-orbit-change-12c31557acf0?source=rss------artificial_intelligence-5)**
+> 🔹 **[HOW TO BEAD A ROGUE ELEPHANT: The Musings Of A Jewelry Designer: Rogue Elephant](https://warren-29626.medium.com/how-to-bead-a-rogue-elephant-the-musings-of-a-jewelry-designer-rogue-elephant-5e2b61ffb486?source=rss------artificial_intelligence-5)**
+> 🔹 **[Workbench: Building an AI Content Generation and Quality Assurance System at Scale](https://medium.com/thumbtack-engineering/workbench-building-an-ai-content-generation-and-quality-assurance-system-at-scale-7a381b47c640?source=rss------artificial_intelligence-5)**
+> 🔹 **[Menjunjung Siri’ na Pacce: Filosofi dan Jati Diri Masyarakat Bugis-Makassar](https://medium.com/@luthfiahaca/menjunjung-siri-na-pacce-filosofi-dan-jati-diri-masyarakat-bugis-makassar-7df1bf888fb6?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Safely Publish AI-Assisted Content Without Getting Flagged &lpar;2026 Guide&rpar;](https://medium.com/illumination/how-to-safely-publish-ai-assisted-content-without-getting-flagged-2026-guide-cec6dcdffcb9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Are We Becoming Less Intelligent?](https://medium.com/@alexrg1994/are-we-becoming-less-intelligent-99cdade0aa13?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why So Many AI Experiences Fall Into Patterns That Stall Progress &lpar;And How to Break Them&rpar;?](https://medium.com/@curiousmind1786/why-so-many-ai-experiences-fall-into-patterns-that-stall-progress-and-how-to-break-them-9e45cd4b6618?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
