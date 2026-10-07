@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Rails Under the Hood #14: What Really Happens When You Use before_action in Rails?](https://medium.com/codetodeploy/rails-under-the-hood-14-what-really-happens-when-you-use-before-action-in-rails-7a2e4d4f083f?source=rss------backend_development-5)**
-> 🔹 **[The Sovereignty Threshold: When Interdependence Becomes Dependency](https://medium.com/@avion_advisors/the-sovereignty-threshold-when-interdependence-becomes-dependency-169d196ba03c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Before We Generate 1,000 Learning Missions, We’re Building the Tests First](https://medium.com/govtechsingapore/before-we-generate-1-000-learning-missions-were-building-the-tests-first-c1c50dd01682?source=rss------artificial_intelligence-5)**
-> 🔹 **[An Adaptive Semantic Chunking Framework for High-Performance Retrieval-Augmented Generation](https://medium.com/@vijaikdasari/an-adaptive-semantic-chunking-framework-for-high-performance-retrieval-augmented-generation-9df9858afb08?source=rss------artificial_intelligence-5)**
-> 🔹 **[Data Analytics in 2026: How Businesses Are Becoming Data-Driven](https://medium.com/@cispro/data-analytics-in-2026-how-businesses-are-becoming-data-driven-e63657719f69?source=rss------artificial_intelligence-5)**
-> 🔹 **[LangSmith with LangChain Tool Calling: From Black Box to Observable AI Application](https://medium.com/@sathishkumar.babu89/langsmith-with-langchain-tool-calling-from-black-box-to-observable-ai-application-99b3a0fe1eba?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Indian Legal Tech Revolution: Why We Must Stop Paying for Unnecessary AI Features](https://medium.com/@kunalmoral07/the-indian-legal-tech-revolution-why-we-must-stop-paying-for-unnecessary-ai-features-7b3615214399?source=rss------artificial_intelligence-5)**
-> 🔹 **[A FRANKLINIAN WAY FORWARD for U.S.](https://medium.com/@crob2011/a-franklinian-way-forward-for-u-s-1cb2e2bb5d7d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Chargeback Was Built for Servers. AI Agents Broke It](https://medium.com/@NickHystax/ai-agent-chargeback-shared-llm-spend-960fff461339?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Keeper of Unfinished Memories](https://medium.com/@yuchuantseng/the-keeper-of-unfinished-memories-d931608aa4b2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic AI Course Online India: Skills, Projects &amp; Roadmap](https://medium.com/@techpratham.29/agentic-ai-course-online-india-skills-projects-roadmap-8b473bd214bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[The IVR Is a Legacy System. Modernize It Like One.](https://medium.com/@delimiterbob/the-ivr-is-a-legacy-system-modernize-it-like-one-d78fd7179610?source=rss------artificial_intelligence-5)**
+> 🔹 **[South Korea’s Bank Breaches Expose the Cost of Neglected Systems](https://medium.com/@davidsehyeonbaek/south-koreas-bank-breaches-expose-the-cost-of-neglected-systems-c7069afeca22?source=rss------artificial_intelligence-5)**
+> 🔹 **[Basic to Advanced Chunking and Retrieval Strategies for Agentic RAG on Production-Grade Systems](https://kuldeeparya3794.medium.com/basic-to-advanced-chunking-and-retrieval-strategies-for-agentic-rag-on-production-grade-systems-a9ec7ff34de5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Business Doesnt Need Another Chatbot. It Needs Someone to Do the Work](https://medium.com/@verieditai/your-business-doesnt-need-another-chatbot-it-needs-someone-to-do-the-work-c413205d6e70?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Wanted to Automate My Threads Account Without Renting Another SaaS Tool](https://medium.com/@katyrichmond37/i-wanted-to-automate-my-threads-account-without-renting-another-saas-tool-cf8e27d8825d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
