@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Spec-Driven Development with AI Agents: Spec Kit vs OpenSpec vs BMAD &lpar;Plus a Hands-On OpenSpec…](https://pub.towardsai.net/spec-driven-development-with-ai-agents-spec-kit-vs-openspec-vs-bmad-plus-a-hands-on-openspec-7b6997074582?source=rss------artificial_intelligence-5)**
-> 🔹 **[Power, Water, and the Data-Center Reckoning: What Room-Temperature Quantum — and Orbit — Change](https://medium.com/@interactiveintel/power-water-and-the-data-center-reckoning-what-room-temperature-quantum-and-orbit-change-12c31557acf0?source=rss------artificial_intelligence-5)**
-> 🔹 **[HOW TO BEAD A ROGUE ELEPHANT: The Musings Of A Jewelry Designer: Rogue Elephant](https://warren-29626.medium.com/how-to-bead-a-rogue-elephant-the-musings-of-a-jewelry-designer-rogue-elephant-5e2b61ffb486?source=rss------artificial_intelligence-5)**
-> 🔹 **[Workbench: Building an AI Content Generation and Quality Assurance System at Scale](https://medium.com/thumbtack-engineering/workbench-building-an-ai-content-generation-and-quality-assurance-system-at-scale-7a381b47c640?source=rss------artificial_intelligence-5)**
-> 🔹 **[Menjunjung Siri’ na Pacce: Filosofi dan Jati Diri Masyarakat Bugis-Makassar](https://medium.com/@luthfiahaca/menjunjung-siri-na-pacce-filosofi-dan-jati-diri-masyarakat-bugis-makassar-7df1bf888fb6?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Safely Publish AI-Assisted Content Without Getting Flagged &lpar;2026 Guide&rpar;](https://medium.com/illumination/how-to-safely-publish-ai-assisted-content-without-getting-flagged-2026-guide-cec6dcdffcb9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Are We Becoming Less Intelligent?](https://medium.com/@alexrg1994/are-we-becoming-less-intelligent-99cdade0aa13?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why So Many AI Experiences Fall Into Patterns That Stall Progress &lpar;And How to Break Them&rpar;?](https://medium.com/@curiousmind1786/why-so-many-ai-experiences-fall-into-patterns-that-stall-progress-and-how-to-break-them-9e45cd4b6618?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Laravel API Was Fast Until the Database Hit 100K Records. Here’s What I Fixed](https://rsvkg.medium.com/my-laravel-api-was-fast-until-the-database-hit-100k-records-heres-what-i-fixed-8846e03d2e19?source=rss------backend_development-5)**
+> 🔹 **[How I’d Use AI to Challenge a Workflow Assumption Before Development](https://ai.plainenglish.io/how-id-use-ai-to-challenge-a-workflow-assumption-before-development-da9d066f4f04?source=rss------artificial_intelligence-5)**
+> 🔹 **[Jumeau fonctionnel : exécuter le comportement d&#39;un produit](https://medium.com/@audreycheyroud/jumeau-fonctionnel-ex%C3%A9cuter-le-comportement-dun-produit-419653e24f6f?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 BEST AI FOR VIBE CODERS](https://medium.com/@altinodeai/5-best-ai-for-vibe-coders-57b46ef55208?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gemma 4 latest update](https://medium.com/@inprogrammer/gemma-4-latest-update-9c839d98c7b5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building a Forecasting Agent Platform, Part 2: Agentic Forecast Workflow](https://medium.com/data-science-collective/building-a-forecasting-agent-platform-part-2-agentic-forecast-workflow-bf1b353247cc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Looking back at the last week](https://medium.com/@jimccarterjr/looking-back-at-the-last-week-ccaf0c502f3a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Field Experience of Teaching AI to the Aviation Professional in the Aviation Safety Campaign…](https://medium.com/activated-thinker/field-experience-of-teaching-ai-to-the-aviation-professional-in-the-aviation-safety-campaign-bcc32e0d69b0?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
