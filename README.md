@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Filters and Probabilistic Searching — Part 1: Introduction](https://fkereki.medium.com/filters-and-probabilistic-searching-part-1-introduction-f0a44b9e2b07?source=rss------data_structures-5)**
-> 🔹 **[The 6 design system mistakes that taught me the most](https://medium.com/@matt_bailey/the-6-design-system-mistakes-that-taught-me-the-most-e1bbdbc0fae9?source=rss------system_design-5)**
-> 🔹 **[OpenAI Says GPT-6.1 Sol “Nearly Matches” Astra at One-Fifth the Price. I Checked the Fine Print...](https://medium.com/@jahanzaib-ahmad/openai-says-gpt-6-1-sol-nearly-matches-astra-at-one-fifth-the-price-i-checked-the-fine-print-038092b31235?source=rss------artificial_intelligence-5)**
-> 🔹 **[Key Benefits of Custom AI Software for Growing Businesses](https://medium.com/@lnpinfotech/key-benefits-of-custom-ai-software-for-growing-businesses-7436b5098ec4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Meet SoDEX: the successor to DEX, and a new way people and machines reach numbers you can sign...](https://medium.com/vishwa-ai/meet-sodex-the-successor-to-dex-and-a-new-way-people-and-machines-reach-numbers-you-can-sign-off-a1cec39bc6a3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Spec Driven Development na prática: como escrever specs antes do código mudou meu fluxo](https://medium.com/@annabeatryz12345/spec-driven-development-na-pr%C3%A1tica-como-escrever-specs-antes-do-c%C3%B3digo-mudou-meu-fluxo-7198189c8d95?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenAI Safety Crisis 2026: Why David Robinson Quit — Full Timeline](https://medium.com/@jypalbishnoi90/openai-safety-crisis-2026-why-david-robinson-quit-full-timeline-3e2c3fc4145c?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Turn a Screenplay Into a Storyboard: A Practical Guide for Filmmakers](https://medium.com/@arpitcoder25/how-to-turn-a-screenplay-into-a-storyboard-a-practical-guide-for-filmmakers-e1fef06978c3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Guessing. Start Building Smarter Businesses with AI.](https://medium.com/@islamicstories1006/stop-guessing-start-building-smarter-businesses-with-ai-94b54e5fc4dd?source=rss------artificial_intelligence-5)**
+> 🔹 **[If AI can do end-to-end UX research, where is our value?](https://medium.com/design-bootcamp/if-ai-can-do-end-to-end-ux-research-where-is-our-value-bc07d20d6845?source=rss------artificial_intelligence-5)**
+> 🔹 **[Looking to AI for innovation? Here’s how you could end up with vanilla solutions](https://medium.com/@airvine/looking-to-ai-for-innovation-heres-how-you-could-end-up-with-vanilla-solutions-135d78d9376f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is GEO Replacing SEO?](https://medium.com/@laibajabeen870/is-geo-replacing-seo-b52c9e2f7ab1?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Don’t Want AI to Write Poetry. I Want It to Do My Taxes.](https://areebanotfound.medium.com/i-dont-want-ai-to-write-poetry-i-want-it-to-do-my-taxes-4662018742cf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Does AI Benefit Humanity](https://medium.com/@danclearygeologist/does-ai-benefit-humanity-c4324cceb57c?source=rss------artificial_intelligence-5)**
+> 🔹 **[09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شما...](https://medium.com/@saydablwchy2/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fd76c1256513?source=rss------artificial_intelligence-5)**
+> 🔹 **[For Wall Street, the Economy Is Booming](https://medium.com/civic-skunk-works/for-wall-street-the-economy-is-booming-e5645bb8c340?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
