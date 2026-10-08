@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[My Laravel API Was Fast Until the Database Hit 100K Records. Here’s What I Fixed](https://rsvkg.medium.com/my-laravel-api-was-fast-until-the-database-hit-100k-records-heres-what-i-fixed-8846e03d2e19?source=rss------backend_development-5)**
-> 🔹 **[How I’d Use AI to Challenge a Workflow Assumption Before Development](https://ai.plainenglish.io/how-id-use-ai-to-challenge-a-workflow-assumption-before-development-da9d066f4f04?source=rss------artificial_intelligence-5)**
-> 🔹 **[Jumeau fonctionnel : exécuter le comportement d&#39;un produit](https://medium.com/@audreycheyroud/jumeau-fonctionnel-ex%C3%A9cuter-le-comportement-dun-produit-419653e24f6f?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 BEST AI FOR VIBE CODERS](https://medium.com/@altinodeai/5-best-ai-for-vibe-coders-57b46ef55208?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gemma 4 latest update](https://medium.com/@inprogrammer/gemma-4-latest-update-9c839d98c7b5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building a Forecasting Agent Platform, Part 2: Agentic Forecast Workflow](https://medium.com/data-science-collective/building-a-forecasting-agent-platform-part-2-agentic-forecast-workflow-bf1b353247cc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Looking back at the last week](https://medium.com/@jimccarterjr/looking-back-at-the-last-week-ccaf0c502f3a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Field Experience of Teaching AI to the Aviation Professional in the Aviation Safety Campaign…](https://medium.com/activated-thinker/field-experience-of-teaching-ai-to-the-aviation-professional-in-the-aviation-safety-campaign-bcc32e0d69b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Filters and Probabilistic Searching — Part 1: Introduction](https://fkereki.medium.com/filters-and-probabilistic-searching-part-1-introduction-f0a44b9e2b07?source=rss------data_structures-5)**
+> 🔹 **[The 6 design system mistakes that taught me the most](https://medium.com/@matt_bailey/the-6-design-system-mistakes-that-taught-me-the-most-e1bbdbc0fae9?source=rss------system_design-5)**
+> 🔹 **[OpenAI Says GPT-6.1 Sol “Nearly Matches” Astra at One-Fifth the Price. I Checked the Fine Print...](https://medium.com/@jahanzaib-ahmad/openai-says-gpt-6-1-sol-nearly-matches-astra-at-one-fifth-the-price-i-checked-the-fine-print-038092b31235?source=rss------artificial_intelligence-5)**
+> 🔹 **[Key Benefits of Custom AI Software for Growing Businesses](https://medium.com/@lnpinfotech/key-benefits-of-custom-ai-software-for-growing-businesses-7436b5098ec4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Meet SoDEX: the successor to DEX, and a new way people and machines reach numbers you can sign...](https://medium.com/vishwa-ai/meet-sodex-the-successor-to-dex-and-a-new-way-people-and-machines-reach-numbers-you-can-sign-off-a1cec39bc6a3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Spec Driven Development na prática: como escrever specs antes do código mudou meu fluxo](https://medium.com/@annabeatryz12345/spec-driven-development-na-pr%C3%A1tica-como-escrever-specs-antes-do-c%C3%B3digo-mudou-meu-fluxo-7198189c8d95?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI Safety Crisis 2026: Why David Robinson Quit — Full Timeline](https://medium.com/@jypalbishnoi90/openai-safety-crisis-2026-why-david-robinson-quit-full-timeline-3e2c3fc4145c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Turn a Screenplay Into a Storyboard: A Practical Guide for Filmmakers](https://medium.com/@arpitcoder25/how-to-turn-a-screenplay-into-a-storyboard-a-practical-guide-for-filmmakers-e1fef06978c3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
