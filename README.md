@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What a $170 Billion Nvidia Swing Should Teach You](https://medium.com/@businessbitesco/what-a-170-billion-nvidia-swing-should-teach-you-51419783dd3b?source=rss------artificial_intelligence-5)**
-> 🔹 **[TOKONOMICS — The Speed Limit](https://medium.com/@madhuri.d.roy/tokonomics-the-speed-limit-68bc081578bd?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Machine Learning Basics to AI Engineering: A Complete Beginner’s Guide](https://medium.com/@kishoremurali0726/from-machine-learning-basics-to-ai-engineering-a-complete-beginners-guide-d6a4d362be05?source=rss------artificial_intelligence-5)**
-> 🔹 **[Anthropic Will Send You Unreviewed AI Bug Reports If You Opt In](https://medium.com/@chinmayshringi4/anthropic-will-send-you-unreviewed-ai-bug-reports-if-you-opt-in-82c2a99a23cf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Anthropic Is Giving Startups Thousands in Free AI Tools. But What’s the Real Opportunity?](https://medium.com/@emadaldean.hs/anthropic-is-giving-startups-thousands-in-free-ai-tools-but-whats-the-real-opportunity-93c1c8dff762?source=rss------artificial_intelligence-5)**
-> 🔹 **[Junior Developer Postings Fell Up To 70% Since 2022: AI Ate The Tickets That Trained Them](https://medium.com/@maahisoft20/junior-developer-postings-fell-up-to-70-since-2022-ai-ate-the-tickets-that-trained-them-9445a6ddc88d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Architecture of Permanence: Resolving the 1982 Stability-Plasticity Dilemma in Foundation…](https://medium.com/ai-simplified-in-plain-english/the-architecture-of-permanence-resolving-the-1982-stability-plasticity-dilemma-in-foundation-29be866fa248?source=rss------artificial_intelligence-5)**
-> 🔹 **[Using AI in gaming: When the AI label matters more than the game itself](https://medium.com/future-intelligence-think-tank/using-ai-in-gaming-when-the-ai-label-matters-more-than-the-game-itself-256588adade3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Framework That Says &quot;Not Validated&quot;: Publishing the NeoX Public Edition on SSRN](https://medium.com/@airules3/the-framework-that-says-not-validated-publishing-the-neox-public-edition-on-ssrn-5b3b5b580466?source=rss------artificial_intelligence-5)**
+> 🔹 **[He Lost His Dog. AI Helped Bring Her Home.](https://medium.com/human-offset/he-lost-his-dog-ai-helped-bring-her-home-cd2eb8ef6173?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Industrial Visibility to Intelligent Action: Understanding AIoT and Physical AI](https://medium.com/@maazmiftah01/from-industrial-visibility-to-intelligent-action-understanding-aiot-and-physical-ai-1c4efe55303d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Tickets Were Written for Humans Who Attended the Meeting](https://medium.com/@sgerhart/your-tickets-were-written-for-humans-who-attended-the-meeting-ae75a83198f5?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Call Yourself a Senior Java Developer. This Spring Boot Bug Says Otherwise.](https://medium.com/engineering-playbook/you-call-yourself-a-senior-java-developer-this-spring-boot-bug-says-otherwise-ecce0768ae93?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Works: The Multidimensional Mandelbrot Structure of Reality](https://medium.com/@ozguryatmaz/why-ai-works-the-multidimensional-mandelbrot-structure-of-reality-7fc26d44f92c?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Shopping Turns Every Product Listing Into a Promise](https://medium.com/morpheus-consulting-inc/ai-shopping-turns-every-product-listing-into-a-promise-f1e05d8478ee?source=rss------artificial_intelligence-5)**
+> 🔹 **[SUI BASECAMP 2026](https://medium.com/@ivmaladin/sui-basecamp-2026-3a70311f8a3e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
