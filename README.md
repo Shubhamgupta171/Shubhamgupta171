@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Extending Tazama: A Deep Dive &lpar;Part 3&rpar; — TCS](https://medium.com/@abdulrahimio/extending-tazama-a-deep-dive-part-3-tcs-7de9cd8c7f39?source=rss------system_design-5)**
-> 🔹 **[Why It’s Easier to Talk to an AI Than the People Who Love Us](https://medium.com/@queensteffiewrites/why-its-easier-to-talk-to-an-ai-than-the-people-who-love-us-c0b0abfe6350?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Businesses Are Using AI in 2026:](https://medium.com/@temitopeajayiassociates/how-businesses-are-using-ai-in-2026-a9ae22e447c3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Top 1% Have One Skill You Were Never Taught. AI Just Made It Mandatory.](https://medium.com/@reia.natu/the-top-1-have-one-skill-you-were-never-taught-ai-just-made-it-mandatory-d0726eb3ec9c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Image to Video AI Without Losing Your Character](https://medium.com/@llmrouterRyan/image-to-video-ai-without-losing-your-character-6e426d2d298e?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Practical Image to Video AI Workflow for Product Content](https://medium.com/@TinkererAI/a-practical-image-to-video-ai-workflow-for-product-content-a2bfd80838f2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Simple AI Video Creation From One Photo and One Voice Track](https://medium.com/@ExplorerAI/simple-ai-video-creation-from-one-photo-and-one-voice-track-bdbe99308abd?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Sell Fixed-Scope AI Chatbot Setup Packages to Small Shops &lpar;Without Selling Hours&rpar;](https://medium.com/@harrisonlineai/how-to-sell-fixed-scope-ai-chatbot-setup-packages-to-small-shops-without-selling-hours-c16fab74450e?source=rss------artificial_intelligence-5)**
+> 🔹 **[What a $170 Billion Nvidia Swing Should Teach You](https://medium.com/@businessbitesco/what-a-170-billion-nvidia-swing-should-teach-you-51419783dd3b?source=rss------artificial_intelligence-5)**
+> 🔹 **[TOKONOMICS — The Speed Limit](https://medium.com/@madhuri.d.roy/tokonomics-the-speed-limit-68bc081578bd?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Machine Learning Basics to AI Engineering: A Complete Beginner’s Guide](https://medium.com/@kishoremurali0726/from-machine-learning-basics-to-ai-engineering-a-complete-beginners-guide-d6a4d362be05?source=rss------artificial_intelligence-5)**
+> 🔹 **[Anthropic Will Send You Unreviewed AI Bug Reports If You Opt In](https://medium.com/@chinmayshringi4/anthropic-will-send-you-unreviewed-ai-bug-reports-if-you-opt-in-82c2a99a23cf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Anthropic Is Giving Startups Thousands in Free AI Tools. But What’s the Real Opportunity?](https://medium.com/@emadaldean.hs/anthropic-is-giving-startups-thousands-in-free-ai-tools-but-whats-the-real-opportunity-93c1c8dff762?source=rss------artificial_intelligence-5)**
+> 🔹 **[Junior Developer Postings Fell Up To 70% Since 2022: AI Ate The Tickets That Trained Them](https://medium.com/@maahisoft20/junior-developer-postings-fell-up-to-70-since-2022-ai-ate-the-tickets-that-trained-them-9445a6ddc88d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Architecture of Permanence: Resolving the 1982 Stability-Plasticity Dilemma in Foundation…](https://medium.com/ai-simplified-in-plain-english/the-architecture-of-permanence-resolving-the-1982-stability-plasticity-dilemma-in-foundation-29be866fa248?source=rss------artificial_intelligence-5)**
+> 🔹 **[Using AI in gaming: When the AI label matters more than the game itself](https://medium.com/future-intelligence-think-tank/using-ai-in-gaming-when-the-ai-label-matters-more-than-the-game-itself-256588adade3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
