@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Framework That Says &quot;Not Validated&quot;: Publishing the NeoX Public Edition on SSRN](https://medium.com/@airules3/the-framework-that-says-not-validated-publishing-the-neox-public-edition-on-ssrn-5b3b5b580466?source=rss------artificial_intelligence-5)**
-> 🔹 **[He Lost His Dog. AI Helped Bring Her Home.](https://medium.com/human-offset/he-lost-his-dog-ai-helped-bring-her-home-cd2eb8ef6173?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Industrial Visibility to Intelligent Action: Understanding AIoT and Physical AI](https://medium.com/@maazmiftah01/from-industrial-visibility-to-intelligent-action-understanding-aiot-and-physical-ai-1c4efe55303d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Tickets Were Written for Humans Who Attended the Meeting](https://medium.com/@sgerhart/your-tickets-were-written-for-humans-who-attended-the-meeting-ae75a83198f5?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Call Yourself a Senior Java Developer. This Spring Boot Bug Says Otherwise.](https://medium.com/engineering-playbook/you-call-yourself-a-senior-java-developer-this-spring-boot-bug-says-otherwise-ecce0768ae93?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Works: The Multidimensional Mandelbrot Structure of Reality](https://medium.com/@ozguryatmaz/why-ai-works-the-multidimensional-mandelbrot-structure-of-reality-7fc26d44f92c?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Shopping Turns Every Product Listing Into a Promise](https://medium.com/morpheus-consulting-inc/ai-shopping-turns-every-product-listing-into-a-promise-f1e05d8478ee?source=rss------artificial_intelligence-5)**
-> 🔹 **[SUI BASECAMP 2026](https://medium.com/@ivmaladin/sui-basecamp-2026-3a70311f8a3e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Every Free Listing on IndieNeed Is Still Read by a Person](https://medium.com/@allsevahelp/why-every-free-listing-on-indieneed-is-still-read-by-a-person-de17df08d0ac?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence vs Data Science: Which Career Should You Choose in Australia?](https://medium.com/@suresh25das/artificial-intelligence-vs-data-science-which-career-should-you-choose-in-australia-3dc4b226ef28?source=rss------artificial_intelligence-5)**
+> 🔹 **[References](https://medium.com/@HotLesson/references-fecf97c8dcf9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence: The Digital Yes-Goat](https://medium.com/@fararo.institute/artificial-intelligence-the-digital-yes-goat-5c0ccf92e3aa?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Best AI Workflow Is the One You Can Repeat Without Rebuilding It](https://medium.com/@SuzaanSayed/the-best-ai-workflow-is-the-one-you-can-repeat-without-rebuilding-it-51b19fd69af2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Finale](https://medium.com/@HotLesson/finale-c829742effd8?source=rss------artificial_intelligence-5)**
+> 🔹 **[A React Native-Only AI Coding Model Just Shipped.](https://mozzammeluiu.medium.com/a-react-native-only-ai-coding-model-just-shipped-2354231c7770?source=rss------artificial_intelligence-5)**
+> 🔹 **[Chapter 15: Monetizing AI Art](https://medium.com/@HotLesson/chapter-15-monetizing-ai-art-90f39d1ab68b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
