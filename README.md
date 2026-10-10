@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[吃素夠健康嗎？維特魯威運動科技在世界蔬食論壇講的答案：AI 幫你看懂「吃什麼」，也看懂「怎麼動」](https://medium.com/@vitruvianst/%E5%90%83%E7%B4%A0%E5%A4%A0%E5%81%A5%E5%BA%B7%E5%97%8E-%E7%B6%AD%E7%89%B9%E9%AD%AF%E5%A8%81%E9%81%8B%E5%8B%95%E7%A7%91%E6%8A%80%E5%9C%A8%E4%B8%96%E7%95%8C%E8%94%AC%E9%A3%9F%E8%AB%96%E5%A3%87%E8%AC%9B%E7%9A%84%E7%AD%94%E6%A1%88-ai-%E5%B9%AB%E4%BD%A0%E7%9C%8B%E6%87%82-%E5%90%83%E4%BB%80%E9%BA%BC-%E4%B9%9F%E7%9C%8B%E6%87%82-%E6%80%8E%E9%BA%BC%E5%8B%95-eb779a403201?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Works: The Recursive Geometry of Reality](https://medium.com/@ozguryatmaz/why-ai-works-the-recursive-geometry-of-reality-21cde8ca8498?source=rss------artificial_intelligence-5)**
-> 🔹 **[Turning Text into Numbers: A Beginner’s Guide to Categorical Data Encoding in Machine Learning](https://medium.com/@sunethsilva/turning-text-into-numbers-a-beginners-guide-to-categorical-data-encoding-in-machine-learning-d503b37a55a4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond Traditional SEO: How to Prepare Your Website for Generative AI Search Engines](https://medium.com/@ragdban/beyond-traditional-seo-how-to-prepare-your-website-for-generative-ai-search-engines-c7c7b4ca976c?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Asked AI 30 Simple Questions About Indian Stocks. It Got 18 Wrong.](https://future-hacker.medium.com/i-asked-ai-30-simple-questions-about-indian-stocks-it-got-18-wrong-30ea8a752e10?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Energy Arbitrage: How Big Tech Quietly Outmaneuvered the Global Electric Grid](https://medium.com/tech-and-business/the-energy-arbitrage-how-big-tech-quietly-outmaneuvered-the-global-electric-grid-7632bcfe63dd?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to compare AI ERP software when the delivery goes wrong](https://medium.com/@sunny.rathore_43000/how-to-compare-ai-erp-software-when-the-delivery-goes-wrong-f4aca571bbee?source=rss------artificial_intelligence-5)**
-> 🔹 **[The “Boring Niche” Arbitrage: How I Make $5,240/Month Selling Dumb Notion Templates Supercharge...](https://medium.com/the-times-of-chronicle/the-boring-niche-arbitrage-how-i-make-5-240-month-selling-dumb-notion-templates-supercharged-8af71c24ee54?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your $200K Software Engineer Interview Is Tomorrow. Delete Half Your Resume.](https://medium.com/@devcommando/your-200k-software-engineer-interview-is-tomorrow-delete-half-your-resume-060de3b4c9d3?source=rss------backend_development-5)**
+> 🔹 **[Why Integrated IWMS and CAFM Platforms Matter More Than Ever in 2026](https://ai.plainenglish.io/why-integrated-iwms-and-cafm-platforms-matter-more-than-ever-in-2026-21ebf342a599?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kimi K3: Open Does Not Mean Cheap](https://ai.plainenglish.io/kimi-k3-open-does-not-mean-cheap-4fec1728cb21?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT Plugins: How to Survive December 11 Without Giving Away the Secret Recipe](https://medium.com/@DaveLumAI/chatgpt-plugins-how-to-survive-december-11-without-giving-away-the-secret-recipe-24bed19fbe1e?source=rss------artificial_intelligence-5)**
+> 🔹 **[A BGP-Inspired Identity Network for Autonomous AI Agents](https://ai.plainenglish.io/a-bgp-inspired-identity-network-for-autonomous-ai-agents-804450872d2b?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Have 10 Years of Java Experience. Why Can’t You Explain a $200K Architecture Decision?](https://medium.com/engineering-playbook/you-have-10-years-of-java-experience-why-cant-you-explain-a-200k-architecture-decision-5531d17bd392?source=rss------artificial_intelligence-5)**
+> 🔹 **[The USB-C of Artificial Intelligence: What Model Context Protocol &lpar;MCP&rpar; Actually Does](https://ai.plainenglish.io/the-usb-c-of-artificial-intelligence-what-model-context-protocol-mcp-actually-does-d33f97151515?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Can Write More of Your Code Now. So Why Are Good Developers Becoming More Valuable?](https://ai.plainenglish.io/ai-can-write-more-of-your-code-now-so-why-are-good-developers-becoming-more-valuable-858d715b1069?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
