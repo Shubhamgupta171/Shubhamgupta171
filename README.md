@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Every Free Listing on IndieNeed Is Still Read by a Person](https://medium.com/@allsevahelp/why-every-free-listing-on-indieneed-is-still-read-by-a-person-de17df08d0ac?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence vs Data Science: Which Career Should You Choose in Australia?](https://medium.com/@suresh25das/artificial-intelligence-vs-data-science-which-career-should-you-choose-in-australia-3dc4b226ef28?source=rss------artificial_intelligence-5)**
-> 🔹 **[References](https://medium.com/@HotLesson/references-fecf97c8dcf9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence: The Digital Yes-Goat](https://medium.com/@fararo.institute/artificial-intelligence-the-digital-yes-goat-5c0ccf92e3aa?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Best AI Workflow Is the One You Can Repeat Without Rebuilding It](https://medium.com/@SuzaanSayed/the-best-ai-workflow-is-the-one-you-can-repeat-without-rebuilding-it-51b19fd69af2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Finale](https://medium.com/@HotLesson/finale-c829742effd8?source=rss------artificial_intelligence-5)**
-> 🔹 **[A React Native-Only AI Coding Model Just Shipped.](https://mozzammeluiu.medium.com/a-react-native-only-ai-coding-model-just-shipped-2354231c7770?source=rss------artificial_intelligence-5)**
-> 🔹 **[Chapter 15: Monetizing AI Art](https://medium.com/@HotLesson/chapter-15-monetizing-ai-art-90f39d1ab68b?source=rss------artificial_intelligence-5)**
+> 🔹 **[吃素夠健康嗎？維特魯威運動科技在世界蔬食論壇講的答案：AI 幫你看懂「吃什麼」，也看懂「怎麼動」](https://medium.com/@vitruvianst/%E5%90%83%E7%B4%A0%E5%A4%A0%E5%81%A5%E5%BA%B7%E5%97%8E-%E7%B6%AD%E7%89%B9%E9%AD%AF%E5%A8%81%E9%81%8B%E5%8B%95%E7%A7%91%E6%8A%80%E5%9C%A8%E4%B8%96%E7%95%8C%E8%94%AC%E9%A3%9F%E8%AB%96%E5%A3%87%E8%AC%9B%E7%9A%84%E7%AD%94%E6%A1%88-ai-%E5%B9%AB%E4%BD%A0%E7%9C%8B%E6%87%82-%E5%90%83%E4%BB%80%E9%BA%BC-%E4%B9%9F%E7%9C%8B%E6%87%82-%E6%80%8E%E9%BA%BC%E5%8B%95-eb779a403201?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Works: The Recursive Geometry of Reality](https://medium.com/@ozguryatmaz/why-ai-works-the-recursive-geometry-of-reality-21cde8ca8498?source=rss------artificial_intelligence-5)**
+> 🔹 **[Turning Text into Numbers: A Beginner’s Guide to Categorical Data Encoding in Machine Learning](https://medium.com/@sunethsilva/turning-text-into-numbers-a-beginners-guide-to-categorical-data-encoding-in-machine-learning-d503b37a55a4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond Traditional SEO: How to Prepare Your Website for Generative AI Search Engines](https://medium.com/@ragdban/beyond-traditional-seo-how-to-prepare-your-website-for-generative-ai-search-engines-c7c7b4ca976c?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Asked AI 30 Simple Questions About Indian Stocks. It Got 18 Wrong.](https://future-hacker.medium.com/i-asked-ai-30-simple-questions-about-indian-stocks-it-got-18-wrong-30ea8a752e10?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Energy Arbitrage: How Big Tech Quietly Outmaneuvered the Global Electric Grid](https://medium.com/tech-and-business/the-energy-arbitrage-how-big-tech-quietly-outmaneuvered-the-global-electric-grid-7632bcfe63dd?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to compare AI ERP software when the delivery goes wrong](https://medium.com/@sunny.rathore_43000/how-to-compare-ai-erp-software-when-the-delivery-goes-wrong-f4aca571bbee?source=rss------artificial_intelligence-5)**
+> 🔹 **[The “Boring Niche” Arbitrage: How I Make $5,240/Month Selling Dumb Notion Templates Supercharge...](https://medium.com/the-times-of-chronicle/the-boring-niche-arbitrage-how-i-make-5-240-month-selling-dumb-notion-templates-supercharged-8af71c24ee54?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
