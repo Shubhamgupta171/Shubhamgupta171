@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your $200K Software Engineer Interview Is Tomorrow. Delete Half Your Resume.](https://medium.com/@devcommando/your-200k-software-engineer-interview-is-tomorrow-delete-half-your-resume-060de3b4c9d3?source=rss------backend_development-5)**
-> 🔹 **[Why Integrated IWMS and CAFM Platforms Matter More Than Ever in 2026](https://ai.plainenglish.io/why-integrated-iwms-and-cafm-platforms-matter-more-than-ever-in-2026-21ebf342a599?source=rss------artificial_intelligence-5)**
-> 🔹 **[Kimi K3: Open Does Not Mean Cheap](https://ai.plainenglish.io/kimi-k3-open-does-not-mean-cheap-4fec1728cb21?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT Plugins: How to Survive December 11 Without Giving Away the Secret Recipe](https://medium.com/@DaveLumAI/chatgpt-plugins-how-to-survive-december-11-without-giving-away-the-secret-recipe-24bed19fbe1e?source=rss------artificial_intelligence-5)**
-> 🔹 **[A BGP-Inspired Identity Network for Autonomous AI Agents](https://ai.plainenglish.io/a-bgp-inspired-identity-network-for-autonomous-ai-agents-804450872d2b?source=rss------artificial_intelligence-5)**
-> 🔹 **[You Have 10 Years of Java Experience. Why Can’t You Explain a $200K Architecture Decision?](https://medium.com/engineering-playbook/you-have-10-years-of-java-experience-why-cant-you-explain-a-200k-architecture-decision-5531d17bd392?source=rss------artificial_intelligence-5)**
-> 🔹 **[The USB-C of Artificial Intelligence: What Model Context Protocol &lpar;MCP&rpar; Actually Does](https://ai.plainenglish.io/the-usb-c-of-artificial-intelligence-what-model-context-protocol-mcp-actually-does-d33f97151515?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Can Write More of Your Code Now. So Why Are Good Developers Becoming More Valuable?](https://ai.plainenglish.io/ai-can-write-more-of-your-code-now-so-why-are-good-developers-becoming-more-valuable-858d715b1069?source=rss------artificial_intelligence-5)**
+> 🔹 **[Raising Kids in the Era of AI: A Data Scientist’s Unplugged Guide Beyond Screen Time](https://medium.com/@ivy.ht.nguyen/raising-kids-in-the-era-of-ai-a-data-scientists-unplugged-guide-beyond-screen-time-d217b90e3f1b?source=rss------artificial_intelligence-5)**
+> 🔹 **[A World Without Color](https://medium.com/@davamae.md/a-world-without-color-5743f3d9373f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Dataland: Dreaming of Nature in the Age of AI](https://medium.com/@qicai1995/dataland-dreaming-of-nature-in-the-age-of-ai-a594775ea7e0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Industrial AI Depends On Trusted Data](https://medium.com/@Pilogian-Lat/why-industrial-ai-depends-on-trusted-data-b4a6bd86ec93?source=rss------artificial_intelligence-5)**
+> 🔹 **[Machines Can Provide Answers—But Who Helps Us Choose the Right Questions?](https://medium.com/@shabnamkanwar/machines-can-provide-answers-but-who-helps-us-choose-the-right-questions-2922b720e489?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 Higgsfield Alternatives Worth Trying in 2026 &lpar;and Who Each One Is For&rpar;](https://medium.com/@sorenokada/7-higgsfield-alternatives-worth-trying-in-2026-and-who-each-one-is-for-b1fe49cfae12?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents for Quality Engineering — Part 2: Mastering GitHub Copilot Agents with From Ask and P...](https://medium.com/ai-qa-nexus/ai-agents-for-quality-engineering-part-2-mastering-github-copilot-agents-with-from-ask-and-plan-25f0928ba322?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic Education: From Capturing Attention to Transforming Learning](https://medium.com/@elena.dalbonidarocha/agentic-education-from-capturing-attention-to-transforming-learning-eafc679def83?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
