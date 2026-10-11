@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Who pays for the AI emergency brake?](https://medium.com/@aiimpactlab/who-pays-for-the-ai-emergency-brake-147047f17626?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Startup Gold Rush: Building a Business or Just Following a Trend?](https://medium.com/@ecell.iare/the-ai-startup-gold-rush-building-a-business-or-just-following-a-trend-595b959adeda?source=rss------artificial_intelligence-5)**
-> 🔹 **[Detecting Three-Phase Transmission-Line Faults: Logistic Regression vs. Support Vector Machines](https://medium.com/@haiderhaseeb903/detecting-three-phase-transmission-line-faults-logistic-regression-vs-support-vector-machines-24411f769542?source=rss------artificial_intelligence-5)**
-> 🔹 **[Scaling From Zero: How a Simple Website Becomes a Distributed System](https://medium.com/@ayshashh/scaling-from-zero-how-a-simple-website-becomes-a-distributed-system-4f4ef9d49fe1?source=rss------system_design-5)**
-> 🔹 **[Vibe Coding and the Future of Developer Skills](https://medium.com/@AChandra73/vibe-coding-and-the-future-of-developer-skills-ce0f66060ce4?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Build Trustworthy Causal Models, Part 2](https://niranjan-rao.medium.com/how-to-build-trustworthy-causal-model-part-2-f7a06202ceee?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cheating Is Never Justified](https://drjoanneskiles.medium.com/cheating-is-never-justified-50144fb30432?source=rss------artificial_intelligence-5)**
-> 🔹 **[50 days ago, i launched easyui](https://medium.com/@surajmaurvanshi1000/50-days-ago-i-launched-easyui-f49ae6360f5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[I’m 18 and built an app that turns your course photos into a game](https://medium.com/@support.business18/im-18-and-built-an-app-that-turns-your-course-photos-into-a-game-3046db26cf39?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Can Write Code. So What Is the Point of Learning Programming Anymore?](https://medium.com/@adekanmiprosper/ai-can-write-code-so-what-is-the-point-of-learning-programming-anymore-3cb603844da1?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Didn’t Make 2,191 Images by Hand. I Built a System to Make Them.](https://medium.com/@nikolajsmiroienko/i-didnt-make-2-191-images-by-hand-i-built-a-system-to-make-them-91a9cd872dd7?source=rss------system_design-5)**
+> 🔹 **[I Didn’t Make 2,191 Images by Hand. I Built a System to Make Them.](https://medium.com/@nikolajsmiroienko/i-didnt-make-2-191-images-by-hand-i-built-a-system-to-make-them-91a9cd872dd7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Build Local Search for Your Data Engineering Docs with EmbeddingGemma 2](https://medium.com/dataaichronicles/build-local-search-for-your-data-engineering-docs-with-embeddinggemma-2-6d50d29112b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Story Hidden in 50 Years of Weather: Using Segment Trees to Identify Temperature Extremes](https://medium.com/@akshita.sinha_80952/the-story-hidden-in-50-years-of-weather-using-segment-trees-to-identify-temperature-extremes-af31b1347e57?source=rss------data_structures-5)**
+> 🔹 **[Marketing 7.0 and the Cybersecurity of Customer Trust](https://medium.com/@davidsehyeonbaek/marketing-7-0-and-the-cybersecurity-of-customer-trust-3e4f9a6897c3?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Day in the Life of a Data Scientist in 2026](https://medium.com/@pelletierhaden/a-day-in-the-life-of-a-data-scientist-in-2026-6f0ae42d0811?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
