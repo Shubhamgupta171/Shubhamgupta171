@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Raising Kids in the Era of AI: A Data Scientist’s Unplugged Guide Beyond Screen Time](https://medium.com/@ivy.ht.nguyen/raising-kids-in-the-era-of-ai-a-data-scientists-unplugged-guide-beyond-screen-time-d217b90e3f1b?source=rss------artificial_intelligence-5)**
-> 🔹 **[A World Without Color](https://medium.com/@davamae.md/a-world-without-color-5743f3d9373f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Dataland: Dreaming of Nature in the Age of AI](https://medium.com/@qicai1995/dataland-dreaming-of-nature-in-the-age-of-ai-a594775ea7e0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Industrial AI Depends On Trusted Data](https://medium.com/@Pilogian-Lat/why-industrial-ai-depends-on-trusted-data-b4a6bd86ec93?source=rss------artificial_intelligence-5)**
-> 🔹 **[Machines Can Provide Answers—But Who Helps Us Choose the Right Questions?](https://medium.com/@shabnamkanwar/machines-can-provide-answers-but-who-helps-us-choose-the-right-questions-2922b720e489?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 Higgsfield Alternatives Worth Trying in 2026 &lpar;and Who Each One Is For&rpar;](https://medium.com/@sorenokada/7-higgsfield-alternatives-worth-trying-in-2026-and-who-each-one-is-for-b1fe49cfae12?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agents for Quality Engineering — Part 2: Mastering GitHub Copilot Agents with From Ask and P...](https://medium.com/ai-qa-nexus/ai-agents-for-quality-engineering-part-2-mastering-github-copilot-agents-with-from-ask-and-plan-25f0928ba322?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentic Education: From Capturing Attention to Transforming Learning](https://medium.com/@elena.dalbonidarocha/agentic-education-from-capturing-attention-to-transforming-learning-eafc679def83?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who pays for the AI emergency brake?](https://medium.com/@aiimpactlab/who-pays-for-the-ai-emergency-brake-147047f17626?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Startup Gold Rush: Building a Business or Just Following a Trend?](https://medium.com/@ecell.iare/the-ai-startup-gold-rush-building-a-business-or-just-following-a-trend-595b959adeda?source=rss------artificial_intelligence-5)**
+> 🔹 **[Detecting Three-Phase Transmission-Line Faults: Logistic Regression vs. Support Vector Machines](https://medium.com/@haiderhaseeb903/detecting-three-phase-transmission-line-faults-logistic-regression-vs-support-vector-machines-24411f769542?source=rss------artificial_intelligence-5)**
+> 🔹 **[Scaling From Zero: How a Simple Website Becomes a Distributed System](https://medium.com/@ayshashh/scaling-from-zero-how-a-simple-website-becomes-a-distributed-system-4f4ef9d49fe1?source=rss------system_design-5)**
+> 🔹 **[Vibe Coding and the Future of Developer Skills](https://medium.com/@AChandra73/vibe-coding-and-the-future-of-developer-skills-ce0f66060ce4?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Build Trustworthy Causal Models, Part 2](https://niranjan-rao.medium.com/how-to-build-trustworthy-causal-model-part-2-f7a06202ceee?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cheating Is Never Justified](https://drjoanneskiles.medium.com/cheating-is-never-justified-50144fb30432?source=rss------artificial_intelligence-5)**
+> 🔹 **[50 days ago, i launched easyui](https://medium.com/@surajmaurvanshi1000/50-days-ago-i-launched-easyui-f49ae6360f5c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
