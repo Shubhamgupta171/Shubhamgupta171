@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I’m 18 and built an app that turns your course photos into a game](https://medium.com/@support.business18/im-18-and-built-an-app-that-turns-your-course-photos-into-a-game-3046db26cf39?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Can Write Code. So What Is the Point of Learning Programming Anymore?](https://medium.com/@adekanmiprosper/ai-can-write-code-so-what-is-the-point-of-learning-programming-anymore-3cb603844da1?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Didn’t Make 2,191 Images by Hand. I Built a System to Make Them.](https://medium.com/@nikolajsmiroienko/i-didnt-make-2-191-images-by-hand-i-built-a-system-to-make-them-91a9cd872dd7?source=rss------system_design-5)**
-> 🔹 **[I Didn’t Make 2,191 Images by Hand. I Built a System to Make Them.](https://medium.com/@nikolajsmiroienko/i-didnt-make-2-191-images-by-hand-i-built-a-system-to-make-them-91a9cd872dd7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Build Local Search for Your Data Engineering Docs with EmbeddingGemma 2](https://medium.com/dataaichronicles/build-local-search-for-your-data-engineering-docs-with-embeddinggemma-2-6d50d29112b0?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Story Hidden in 50 Years of Weather: Using Segment Trees to Identify Temperature Extremes](https://medium.com/@akshita.sinha_80952/the-story-hidden-in-50-years-of-weather-using-segment-trees-to-identify-temperature-extremes-af31b1347e57?source=rss------data_structures-5)**
-> 🔹 **[Marketing 7.0 and the Cybersecurity of Customer Trust](https://medium.com/@davidsehyeonbaek/marketing-7-0-and-the-cybersecurity-of-customer-trust-3e4f9a6897c3?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Day in the Life of a Data Scientist in 2026](https://medium.com/@pelletierhaden/a-day-in-the-life-of-a-data-scientist-in-2026-6f0ae42d0811?source=rss------artificial_intelligence-5)**
+> 🔹 **[Harga yang Harus Dibayar untuk Sistem Asynchronous](https://medium.com/@oktavian.aji18/harga-yang-harus-dibayar-untuk-sistem-asynchronous-12c64c43dc47?source=rss------backend_development-5)**
+> 🔹 **[Few-Shot Learning](https://medium.com/@amirshnll/few-shot-learning-cb8891100148?source=rss------artificial_intelligence-5)**
+> 🔹 **[Read all about it — but it will cost you](https://medium.com/@johnpearce650/read-all-about-it-but-it-will-cost-you-ff13b640fcc9?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If AI Could Imagine the Future Before It Happens?](https://medium.com/@maneaditya478/what-if-ai-could-imagine-the-future-before-it-happens-6373067533cf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Top 10 Artificial Intelligence Institutes in Delhi for Practical Learning](https://medium.com/@malhotrakaran11454/top-10-artificial-intelligence-institutes-in-delhi-for-practical-learning-b49d7aecbc5b?source=rss------artificial_intelligence-5)**
+> 🔹 **[How the World Will Balance AI: What the Data Says About Jobs, Energy and Rules in 2026](https://medium.com/write-a-catalyst/how-the-world-will-balance-ai-what-the-data-says-about-jobs-energy-and-rules-in-2026-70c8ff3923e2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Proximal Policy Optimization&lpar;PPO&rpar;](https://blog.gopenai.com/proximal-policy-optimization-ppo-3b3591dcc76a?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI dan Masa Depan : Peluang Besar atau Ancaman Tersembunyi?](https://medium.com/@infomediakuu/ai-dan-masa-depan-peluang-besar-atau-ancaman-tersembunyi-b2d704680604?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
