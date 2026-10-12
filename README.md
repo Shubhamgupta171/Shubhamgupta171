@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Harga yang Harus Dibayar untuk Sistem Asynchronous](https://medium.com/@oktavian.aji18/harga-yang-harus-dibayar-untuk-sistem-asynchronous-12c64c43dc47?source=rss------backend_development-5)**
-> 🔹 **[Few-Shot Learning](https://medium.com/@amirshnll/few-shot-learning-cb8891100148?source=rss------artificial_intelligence-5)**
-> 🔹 **[Read all about it — but it will cost you](https://medium.com/@johnpearce650/read-all-about-it-but-it-will-cost-you-ff13b640fcc9?source=rss------artificial_intelligence-5)**
-> 🔹 **[What If AI Could Imagine the Future Before It Happens?](https://medium.com/@maneaditya478/what-if-ai-could-imagine-the-future-before-it-happens-6373067533cf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Top 10 Artificial Intelligence Institutes in Delhi for Practical Learning](https://medium.com/@malhotrakaran11454/top-10-artificial-intelligence-institutes-in-delhi-for-practical-learning-b49d7aecbc5b?source=rss------artificial_intelligence-5)**
-> 🔹 **[How the World Will Balance AI: What the Data Says About Jobs, Energy and Rules in 2026](https://medium.com/write-a-catalyst/how-the-world-will-balance-ai-what-the-data-says-about-jobs-energy-and-rules-in-2026-70c8ff3923e2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Proximal Policy Optimization&lpar;PPO&rpar;](https://blog.gopenai.com/proximal-policy-optimization-ppo-3b3591dcc76a?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI dan Masa Depan : Peluang Besar atau Ancaman Tersembunyi?](https://medium.com/@infomediakuu/ai-dan-masa-depan-peluang-besar-atau-ancaman-tersembunyi-b2d704680604?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Short Links Actually Work](https://medium.com/@abespolovwork/how-short-links-actually-work-938e6446085a?source=rss------system_design-5)**
+> 🔹 **[Every Time You Scroll Instagram Reels, a Prediction Is Being Made](https://medium.com/@vigneshnaidu006/every-time-you-scroll-instagram-reels-a-prediction-is-being-made-82c38919ba16?source=rss------backend_development-5)**
+> 🔹 **[Your RAG pipeline processed/indexed the document. Why can’t retrieval find it?](https://medium.com/@lohithprasannateja/your-rag-pipeline-processed-indexed-the-document-why-cant-retrieval-find-it-6ad4236073c6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Votre design system n’a pas &lpar;forcément&rpar; besoin d’un MCP !](https://medium.com/@alex.vaysse/votre-design-system-na-pas-forc%C3%A9ment-besoin-d-un-mcp-b0cd6e7f9f3c?source=rss------system_design-5)**
+> 🔹 **[Stop Starting With Microservices: The Path Real Systems Actually Follow](https://medium.com/@thebytemechanics/stop-starting-with-microservices-the-path-real-systems-actually-follow-d9b73e1233ae?source=rss------system_design-5)**
+> 🔹 **[When a question names your brand, Claude’s search returns your site 33.3% of the time](https://medium.com/@minelgunesoglu/when-a-question-names-your-brand-claudes-search-returns-your-site-33-3-of-the-time-ced5cdff01e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is Agentic Commerce? A Plain-English Guide for Business Owners](https://medium.com/@waylockhq/what-is-agentic-commerce-a-plain-english-guide-for-business-owners-202b8acd1a8a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Four AI Labs Declined to Guarantee Their Guardrails. Good.](https://medium.com/@jmh_strong/four-ai-labs-declined-to-guarantee-their-guardrails-good-ffd8ac85e51a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
