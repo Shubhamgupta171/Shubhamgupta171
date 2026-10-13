@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What Happens When a Human Being and Artificial Intelligence Write a Book About What AI Cannot…](https://medium.com/@ritu/what-happens-when-a-human-being-and-artificial-intelligence-write-a-book-about-what-ai-cannot-4ff58b825246?source=rss------artificial_intelligence-5)**
-> 🔹 **[When AI Makes Us Doubt Our Own Voice](https://medium.com/illumination/when-ai-makes-us-doubt-our-own-voice-f9f250d22d13?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building a Successful AI Career in 2026: From Traditional Software Developer to Agentic AI…](https://medium.com/@myexamcloud123/building-a-successful-ai-career-in-2026-from-traditional-software-developer-to-agentic-ai-20f287499897?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Hype to Reality: Assessing the Economic Value of AI-Based Disease Diagnosis for Nigerian…](https://medium.com/@immaculate.ea001/from-hype-to-reality-assessing-the-economic-value-of-ai-based-disease-diagnosis-for-nigerian-fbc4649b7bfa?source=rss------artificial_intelligence-5)**
-> 🔹 **[Code Scanner or Co-Pilot](https://medium.com/@ciaranpmartin/code-scanner-or-co-pilot-60d458689d50?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is Intelligence Enough to Make Something Human?](https://medium.com/@editor_27614/is-intelligence-enough-to-make-something-human-d723b4b9afc1?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Automate Signature Workflows With the DocuSign API](https://medium.com/@liutan2008/how-to-automate-signature-workflows-with-the-docusign-api-bc6e79411363?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Edit Text in a Photo Without Photoshop &lpar;Keep the Look&rpar;](https://medium.com/@integem.noreply/how-to-edit-text-in-a-photo-without-photoshop-keep-the-look-631d0df07fc8?source=rss------artificial_intelligence-5)**
+> 🔹 **[How 5 Servers Agree on One Truth: Raft Consensus Explained](https://medium.com/@gaurvinayak/how-5-servers-agree-on-one-truth-raft-consensus-explained-93978677fb0d?source=rss------backend_development-5)**
+> 🔹 **[Apple HomeView Is Finally Here. Here’s What It Means for Your Smart Home](https://medium.com/@samhack11/apple-homeview-is-finally-here-heres-what-it-means-for-your-smart-home-dc90f9cb0cec?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Don’t Always See People as They Are](https://medium.com/@saadbasdot/we-dont-always-see-people-as-they-are-fee895f497a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond Commercial Detectors: A Deep Dive into Stylometry, Burstiness, and LLM Watermarking in…](https://ion-oaie.medium.com/beyond-commercial-detectors-a-deep-dive-into-stylometry-burstiness-and-llm-watermarking-in-0831c3138369?source=rss------artificial_intelligence-5)**
+> 🔹 **[Phone camera vs 35mm vs 85mm: which lens should guys name in an AI dating photo prompt?](https://medium.com/@better_shots_prompts/phone-camera-vs-35mm-vs-85mm-which-lens-should-guys-name-in-an-ai-dating-photo-prompt-a821a1386b1e?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT System Design Interview: What to Draw, What to Defend](https://medium.com/@prabhatgp2025/chatgpt-system-design-interview-c92be490f739?source=rss------system_design-5)**
+> 🔹 **[A nova economia de software](https://medium.com/collekt/a-nova-economia-de-software-7bf09d8141b1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Don’t Polish Away the Person](https://medium.com/@jodyeblum/dont-polish-away-the-person-69b546668959?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
