@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How 5 Servers Agree on One Truth: Raft Consensus Explained](https://medium.com/@gaurvinayak/how-5-servers-agree-on-one-truth-raft-consensus-explained-93978677fb0d?source=rss------backend_development-5)**
-> 🔹 **[Apple HomeView Is Finally Here. Here’s What It Means for Your Smart Home](https://medium.com/@samhack11/apple-homeview-is-finally-here-heres-what-it-means-for-your-smart-home-dc90f9cb0cec?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Don’t Always See People as They Are](https://medium.com/@saadbasdot/we-dont-always-see-people-as-they-are-fee895f497a0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond Commercial Detectors: A Deep Dive into Stylometry, Burstiness, and LLM Watermarking in…](https://ion-oaie.medium.com/beyond-commercial-detectors-a-deep-dive-into-stylometry-burstiness-and-llm-watermarking-in-0831c3138369?source=rss------artificial_intelligence-5)**
-> 🔹 **[Phone camera vs 35mm vs 85mm: which lens should guys name in an AI dating photo prompt?](https://medium.com/@better_shots_prompts/phone-camera-vs-35mm-vs-85mm-which-lens-should-guys-name-in-an-ai-dating-photo-prompt-a821a1386b1e?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT System Design Interview: What to Draw, What to Defend](https://medium.com/@prabhatgp2025/chatgpt-system-design-interview-c92be490f739?source=rss------system_design-5)**
-> 🔹 **[A nova economia de software](https://medium.com/collekt/a-nova-economia-de-software-7bf09d8141b1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Don’t Polish Away the Person](https://medium.com/@jodyeblum/dont-polish-away-the-person-69b546668959?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents in the Dark: Autonomy, Guardrails, and Real Risks](https://medium.com/@maxstoneSL/ai-agents-in-the-dark-autonomy-guardrails-and-real-risks-c07b6b6fce38?source=rss------artificial_intelligence-5)**
+> 🔹 **[One Record Changed. Can AI Tell You What Needs Rechecking?](https://medium.com/@aiofficelab/one-record-changed-can-ai-tell-you-what-needs-rechecking-48e56a41f8d9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Water Bottleneck: Why Access May Matter More Than Ownership](https://twistedbaggage.medium.com/the-water-bottleneck-why-access-may-matter-more-than-ownership-96948d599b46?source=rss------data_structures-5)**
+> 🔹 **[The Water Bottleneck: Why Access May Matter More Than Ownership](https://twistedbaggage.medium.com/the-water-bottleneck-why-access-may-matter-more-than-ownership-96948d599b46?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why 90% of Creators Fail at AI Prompting &lpar;And How to Master It on a Smartphone&rpar;](https://medium.com/@qavahdemy/why-90-of-creators-fail-at-ai-prompting-and-how-to-master-it-on-a-smartphone-c4b03c0724ae?source=rss------artificial_intelligence-5)**
+> 🔹 **[Amazon Says It Stopped Using Secret NDAs for Data Centers.](https://medium.com/@YousfiAymane/amazon-says-it-stopped-using-secret-ndas-for-data-centers-1bc753513af4?source=rss------artificial_intelligence-5)**
+> 🔹 **[On Knowledge in AI’s World](https://medium.com/@dhruv.kaushik998/on-knowledge-in-ais-world-8d7d3205678a?source=rss------artificial_intelligence-5)**
+> 🔹 **[AWS AI Concepts](https://medium.com/@rajamails19/aws-ai-concepts-b2d748b8edac?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
