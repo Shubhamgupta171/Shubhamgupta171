@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How Short Links Actually Work](https://medium.com/@abespolovwork/how-short-links-actually-work-938e6446085a?source=rss------system_design-5)**
-> 🔹 **[Every Time You Scroll Instagram Reels, a Prediction Is Being Made](https://medium.com/@vigneshnaidu006/every-time-you-scroll-instagram-reels-a-prediction-is-being-made-82c38919ba16?source=rss------backend_development-5)**
-> 🔹 **[Your RAG pipeline processed/indexed the document. Why can’t retrieval find it?](https://medium.com/@lohithprasannateja/your-rag-pipeline-processed-indexed-the-document-why-cant-retrieval-find-it-6ad4236073c6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Votre design system n’a pas &lpar;forcément&rpar; besoin d’un MCP !](https://medium.com/@alex.vaysse/votre-design-system-na-pas-forc%C3%A9ment-besoin-d-un-mcp-b0cd6e7f9f3c?source=rss------system_design-5)**
-> 🔹 **[Stop Starting With Microservices: The Path Real Systems Actually Follow](https://medium.com/@thebytemechanics/stop-starting-with-microservices-the-path-real-systems-actually-follow-d9b73e1233ae?source=rss------system_design-5)**
-> 🔹 **[When a question names your brand, Claude’s search returns your site 33.3% of the time](https://medium.com/@minelgunesoglu/when-a-question-names-your-brand-claudes-search-returns-your-site-33-3-of-the-time-ced5cdff01e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is Agentic Commerce? A Plain-English Guide for Business Owners](https://medium.com/@waylockhq/what-is-agentic-commerce-a-plain-english-guide-for-business-owners-202b8acd1a8a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Four AI Labs Declined to Guarantee Their Guardrails. Good.](https://medium.com/@jmh_strong/four-ai-labs-declined-to-guarantee-their-guardrails-good-ffd8ac85e51a?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Happens When a Human Being and Artificial Intelligence Write a Book About What AI Cannot…](https://medium.com/@ritu/what-happens-when-a-human-being-and-artificial-intelligence-write-a-book-about-what-ai-cannot-4ff58b825246?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI Makes Us Doubt Our Own Voice](https://medium.com/illumination/when-ai-makes-us-doubt-our-own-voice-f9f250d22d13?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building a Successful AI Career in 2026: From Traditional Software Developer to Agentic AI…](https://medium.com/@myexamcloud123/building-a-successful-ai-career-in-2026-from-traditional-software-developer-to-agentic-ai-20f287499897?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Hype to Reality: Assessing the Economic Value of AI-Based Disease Diagnosis for Nigerian…](https://medium.com/@immaculate.ea001/from-hype-to-reality-assessing-the-economic-value-of-ai-based-disease-diagnosis-for-nigerian-fbc4649b7bfa?source=rss------artificial_intelligence-5)**
+> 🔹 **[Code Scanner or Co-Pilot](https://medium.com/@ciaranpmartin/code-scanner-or-co-pilot-60d458689d50?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is Intelligence Enough to Make Something Human?](https://medium.com/@editor_27614/is-intelligence-enough-to-make-something-human-d723b4b9afc1?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Automate Signature Workflows With the DocuSign API](https://medium.com/@liutan2008/how-to-automate-signature-workflows-with-the-docusign-api-bc6e79411363?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Edit Text in a Photo Without Photoshop &lpar;Keep the Look&rpar;](https://medium.com/@integem.noreply/how-to-edit-text-in-a-photo-without-photoshop-keep-the-look-631d0df07fc8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
