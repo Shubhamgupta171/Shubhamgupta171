@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI Second Brain: 3 Apps Compared &lpar;By How Much Work They Leave You&rpar;](https://medium.com/@Jeremy.Kole/ai-second-brain-3-apps-compared-by-how-much-work-they-leave-you-d5abc162ba20?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Reviewed AI-Generated Code: 5 Problems Developers Should Never Ignore](https://medium.com/@sheshikiran.gone2002/i-reviewed-ai-generated-code-5-problems-developers-should-never-ignore-bf127db44fc7?source=rss------artificial_intelligence-5)**
-> 🔹 **[HoodieBot Features: The Telegram Crypto Trading Bot Built for the Robinhood Chain Ecosystem](https://medium.com/@Hoodiebot/hoodiebot-features-the-telegram-crypto-trading-bot-built-for-the-robinhood-chain-ecosystem-96c77cc901ae?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Get Your Dental Practice Recommended by ChatGPT and Google AI in 2026: 7 Steps for UK…](https://medium.com/@emp.tribe02/how-to-get-your-dental-practice-recommended-by-chatgpt-and-google-ai-in-2026-7-steps-for-uk-7790ff401b10?source=rss------artificial_intelligence-5)**
-> 🔹 **[Put the AI in Front of Your Helpdesk, Not Instead of It](https://medium.com/@kavithakanth12/put-the-ai-in-front-of-your-helpdesk-not-instead-of-it-0b36275f679a?source=rss------artificial_intelligence-5)**
-> 🔹 **[You need an agentic repo](https://medium.com/@optimalant/you-need-an-agentic-repo-d265c05ba264?source=rss------artificial_intelligence-5)**
-> 🔹 **[HoodieBot Introduces a New Approach to Telegram-Based Crypto Trading on Robinhood Chain](https://medium.com/@Hoodiebot/hoodiebot-introduces-a-new-approach-to-telegram-based-crypto-trading-on-robinhood-chain-4f76ea5c4dc7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Build vs. Buy for AI Support: The Weekend Version and the Year-Two Version](https://medium.com/@kavithakanth12/build-vs-buy-for-ai-support-the-weekend-version-and-the-year-two-version-3e6a77693db1?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Agent Said “Saved.” Nothing Was Saved.](https://medium.com/@yotambraun/my-agent-said-saved-nothing-was-saved-6018616b9a49?source=rss------artificial_intelligence-5)**
+> 🔹 **[Scientists Have Found Limits To Human Intelligence, But What Happens When We Reach Them?](https://medium.com/illumination/scientists-have-found-limits-to-human-intelligence-but-what-happens-when-we-reach-them-41f8dd12471c?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Analyzed 5 AEO Skills and Each Optimized for Different Things](https://medium.com/@BrianCarl/i-analyzed-5-aeo-skills-and-each-optimized-for-different-things-c149eca3b115?source=rss------artificial_intelligence-5)**
+> 🔹 **[Humans Are the Selection Pressure for AI](https://medium.com/@poola.vii/humans-are-the-selection-pressure-for-ai-c80028bea4e2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Motion: Anthropic Just Turned Claude Into a Motion Designer](https://pub.towardsai.net/claude-motion-anthropic-just-turned-claude-into-a-motion-designer-079f4d561471?source=rss------artificial_intelligence-5)**
+> 🔹 **[What is Responsible AI &amp; AIgenerated vs What is AI Governance &amp; AI Assisted: Each Has a Place,...](https://medium.com/@basilpuglisi/what-is-responsible-ai-aigenerated-vs-what-is-ai-governance-ai-assisted-each-has-a-place-and-930b3b6a373d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Immediately and for Everyone](https://medium.com/@andreglobal/immediately-and-for-everyone-cc643b88e5a3?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Email Personalization Needs an Evidence Gate](https://pub.towardsai.net/ai-email-personalization-needs-an-evidence-gate-4a8e01a74bbc?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
