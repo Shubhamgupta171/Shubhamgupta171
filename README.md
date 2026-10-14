@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI Assistants Are Getting Boundaries. What Does That Mean for You?](https://medium.com/@israel-durotoye/ai-assistants-are-getting-boundaries-what-does-that-mean-for-you-ffbf4d7f9a90?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Voice Agents Help Restaurants Handle More Customer Calls](https://medium.com/@meetdholariya8/how-ai-voice-agents-help-restaurants-handle-more-customer-calls-0cf90b90bc0b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Verification Debt Is Coming Due](https://briannuesi809.medium.com/the-verification-debt-is-coming-due-253b827f6d2b?source=rss------artificial_intelligence-5)**
-> 🔹 **[SDD for Pre-Sales: Value Map, State vs Flow Demo, and a Regulated-Client Objection Catalog](https://medium.com/@wasowski.jarek/sdd-for-pre-sales-value-map-state-vs-flow-demo-and-a-regulated-client-objection-catalog-589ece508040?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Demand Can Grow While Memory Profits Come Under Pressure](https://medium.com/asia-horizon-review/ai-demand-can-grow-while-memory-profits-come-under-pressure-4c64cfd28702?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Server in the Cloud, a Program on My Desk](https://jaroslav-smarda.medium.com/a-server-in-the-cloud-a-program-on-my-desk-60022dc256e0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Prompt Injection Gets the Headlines. Knowledge Poisoning Does the Damage](https://sina-manavi.medium.com/prompt-injection-gets-the-headlines-knowledge-poisoning-does-the-damage-9ad8b428bea4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Top 30 AI Concepts Every Software Engineer Should Know — Interview Questions and Answers &lpar;2026&rpar;](https://skphd.medium.com/top-30-ai-concepts-every-software-engineer-should-know-interview-questions-and-answers-2026-c0c7c17881db?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Second Brain: 3 Apps Compared &lpar;By How Much Work They Leave You&rpar;](https://medium.com/@Jeremy.Kole/ai-second-brain-3-apps-compared-by-how-much-work-they-leave-you-d5abc162ba20?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Reviewed AI-Generated Code: 5 Problems Developers Should Never Ignore](https://medium.com/@sheshikiran.gone2002/i-reviewed-ai-generated-code-5-problems-developers-should-never-ignore-bf127db44fc7?source=rss------artificial_intelligence-5)**
+> 🔹 **[HoodieBot Features: The Telegram Crypto Trading Bot Built for the Robinhood Chain Ecosystem](https://medium.com/@Hoodiebot/hoodiebot-features-the-telegram-crypto-trading-bot-built-for-the-robinhood-chain-ecosystem-96c77cc901ae?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Get Your Dental Practice Recommended by ChatGPT and Google AI in 2026: 7 Steps for UK…](https://medium.com/@emp.tribe02/how-to-get-your-dental-practice-recommended-by-chatgpt-and-google-ai-in-2026-7-steps-for-uk-7790ff401b10?source=rss------artificial_intelligence-5)**
+> 🔹 **[Put the AI in Front of Your Helpdesk, Not Instead of It](https://medium.com/@kavithakanth12/put-the-ai-in-front-of-your-helpdesk-not-instead-of-it-0b36275f679a?source=rss------artificial_intelligence-5)**
+> 🔹 **[You need an agentic repo](https://medium.com/@optimalant/you-need-an-agentic-repo-d265c05ba264?source=rss------artificial_intelligence-5)**
+> 🔹 **[HoodieBot Introduces a New Approach to Telegram-Based Crypto Trading on Robinhood Chain](https://medium.com/@Hoodiebot/hoodiebot-introduces-a-new-approach-to-telegram-based-crypto-trading-on-robinhood-chain-4f76ea5c4dc7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Build vs. Buy for AI Support: The Weekend Version and the Year-Two Version](https://medium.com/@kavithakanth12/build-vs-buy-for-ai-support-the-weekend-version-and-the-year-two-version-3e6a77693db1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
