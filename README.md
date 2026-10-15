@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The 5 Cybersecurity Skills You Need to Master in 2026](https://medium.com/@realsandeep1271/the-5-cybersecurity-skills-you-need-to-master-in-2026-5e365ccdab79?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Requirement Change Is an Impact-Analysis Problem, Not a Document Edit](https://medium.com/analysts-corner/a-requirement-change-is-an-impact-analysis-problem-not-a-document-edit-130cf414cfba?source=rss------artificial_intelligence-5)**
-> 🔹 **[Most Ecommerce AI Features Are Judged on the Wrong Number](https://medium.com/@hello_18940/most-ecommerce-ai-features-are-judged-on-the-wrong-number-707ed7c59f77?source=rss------artificial_intelligence-5)**
-> 🔹 **[Future of Technology](https://medium.com/@bintkhalid.va/future-of-technology-3000fd7806e6?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Democratisation of Human Possibility](https://gregtwemlow.medium.com/the-democratisation-of-human-possibility-f811a946197f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Breaking Down Oracle Fusion Data Intelligence 26.R3: What’s New and Why It Matters](https://medium.com/@pradeep4ece/breaking-down-oracle-fusion-data-intelligence-26-r3-whats-new-and-why-it-matters-28f3576c9faf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Govern AI Like a Product, Not a Policy PDF](https://medium.com/@anshul.nema23/govern-ai-like-a-product-not-a-policy-pdf-b4ef1f9d2510?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 Lesser-Known AI Tools Worth Knowing](https://medium.com/@mdnaimul.kadir11/7-lesser-known-ai-tools-worth-knowing-665cf721403e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Mobile Apps Become Slow as User Traffic Grows](https://medium.com/@hey.saras01/why-mobile-apps-become-slow-as-user-traffic-grows-a7d8d8cfdec4?source=rss------backend_development-5)**
+> 🔹 **[The Model You Approved Is Not Necessarily the Model That Ran](https://medium.com/@pattanaikbibhusisa/the-model-you-approved-is-not-necessarily-the-model-that-ran-2624f4859644?source=rss------artificial_intelligence-5)**
+> 🔹 **[My 50 tips for using AI](https://medium.com/@warrioraashuu/my-50-tips-for-using-ai-3e71795defaa?source=rss------artificial_intelligence-5)**
+> 🔹 **[Pelajar NU Cigemblong Sampaikan Permohonan Maaf atas Tidak Terselenggaranya Festival Hari Santr...](https://medium.com/@tedigope8/pelajar-nu-cigemblong-sampaikan-permohonan-maaf-atas-tidak-terselenggaranya-festival-hari-santri-fbce1c056be3?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI Makes Code Cheaper, SDK Architecture Matters More](https://medium.com/@michael.avoyan/when-ai-makes-code-cheaper-sdk-architecture-matters-more-7bcfecb4e5e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Study for 3 Hours Instead of 8 — Here’s My ChatGPT Setup](https://medium.com/@amishablogservice/i-study-for-3-hours-instead-of-8-heres-my-chatgpt-setup-5193e2b1242e?source=rss------artificial_intelligence-5)**
+> 🔹 **[RAG-Powered Anomaly Detection for Manufacturing: Someone Has to Read Every Batch Record First?](https://medium.com/@masihkarimialavijeh/rag-powered-anomaly-detection-for-manufacturing-someone-has-to-read-every-batch-record-first-e81e872ab33a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Votre entreprise est-elle invisible pour ChatGPT ?](https://medium.com/@dahouayoub97/votre-entreprise-est-elle-invisible-pour-chatgpt-54a9985a70f5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
