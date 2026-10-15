@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why your platform team shouldn&#39;t build an AI context layer &lpar;even though they probably could&rpar;](https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/)**
-> 🔹 **[Building a systematic AI tool guide for developers with Astro content collections, zod, and an...](https://medium.com/@encisox03/building-a-systematic-ai-tool-guide-for-developers-with-astro-content-collections-zod-and-an-ai-70b42bfa1b0a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Data Science in the Age of AI: What 2026 Taught Us](https://medium.com/@dinasarpoushan12/data-science-in-the-age-of-ai-what-2026-taught-us-602f1983977f?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Created A New Muslim Country. It Doesn’t Exist — But It Could](https://medium.com/ai-center-grow-earn-with-ai/ai-created-a-new-muslim-country-it-doesnt-exist-but-it-could-c421774ff167?source=rss------artificial_intelligence-5)**
-> 🔹 **[If You Ignore Spring Boot AI Today, You’ll Regret It in 6 Months](https://medium.com/@kotiavula6/if-you-ignore-spring-boot-ai-today-youll-regret-it-in-6-months-a38165df233f?source=rss------backend_development-5)**
-> 🔹 **[If You Ignore Spring Boot AI Today, You’ll Regret It in 6 Months](https://medium.com/@kotiavula6/if-you-ignore-spring-boot-ai-today-youll-regret-it-in-6-months-a38165df233f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Seu escritório de contabilidade aparece quando o empresário pergunta à IA sobre impostos?](https://medium.com/@andrehp/seu-escrit%C3%B3rio-de-contabilidade-aparece-quando-o-empres%C3%A1rio-pergunta-%C3%A0-ia-sobre-impostos-be2e403fdeba?source=rss------artificial_intelligence-5)**
-> 🔹 **[Como é trabalhar na sua empresa, segundo a IA? GEO para RH e marca empregadora](https://medium.com/@andrehp/como-%C3%A9-trabalhar-na-sua-empresa-segundo-a-ia-geo-para-rh-e-marca-empregadora-6b9ddde769df?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can local voice cloning replace ElevenLabs? Qwen3: TTS vs Chatterbox](https://medium.com/@popularai/can-local-voice-cloning-replace-elevenlabs-qwen3-tts-vs-chatterbox-b1a0fb1fffaa?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Apply an Art Style Without Accidentally Copying the Whole Image](https://medium.com/prompt-odyssey/how-to-apply-an-art-style-without-accidentally-copying-the-whole-image-6749f49fcb5f?source=rss------artificial_intelligence-5)**
+> 🔹 **[India has a lot of solar power, but getting that electricity to people is becoming a challenge.](https://medium.com/@ade_ghoke/india-has-a-lot-of-solar-power-but-getting-that-electricity-to-people-is-becoming-a-challenge-f127e7af3d03?source=rss------artificial_intelligence-5)**
+> 🔹 **[September 2026 AI News Roundup: Agents vs Slowdowns](https://ptpchicago.medium.com/september-2026-ai-news-roundup-agents-vs-slowdowns-8067ce5d5ccb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The End of the Busy Signal: How Voice AI is Quietly Replacing the Restaurant Takeout Cashier in...](https://medium.com/@aattarmustapha111/the-end-of-the-busy-signal-how-voice-ai-is-quietly-replacing-the-restaurant-takeout-cashier-in-f078e4836bce?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Build an Internal Tool Without Code Using AI &lpar;A Retool Alternative&rpar;](https://rimlauf.medium.com/how-to-build-an-internal-tool-without-code-using-ai-a-retool-alternative-51aa4228ff95?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Lead a Team of AI Agents Without Letting Them Break Production](https://medium.com/@vladichumachenko/how-i-lead-a-team-of-ai-agents-without-letting-them-break-production-c4fcc2e3d4dd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Calling AI “Super Intelligence” Changes the Label Before It Changes the Evidence.](https://medium.com/@khaled.adly2/calling-ai-super-intelligence-changes-the-label-before-it-changes-the-evidence-20d100022796?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
