@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Mobile Apps Become Slow as User Traffic Grows](https://medium.com/@hey.saras01/why-mobile-apps-become-slow-as-user-traffic-grows-a7d8d8cfdec4?source=rss------backend_development-5)**
-> 🔹 **[The Model You Approved Is Not Necessarily the Model That Ran](https://medium.com/@pattanaikbibhusisa/the-model-you-approved-is-not-necessarily-the-model-that-ran-2624f4859644?source=rss------artificial_intelligence-5)**
-> 🔹 **[My 50 tips for using AI](https://medium.com/@warrioraashuu/my-50-tips-for-using-ai-3e71795defaa?source=rss------artificial_intelligence-5)**
-> 🔹 **[Pelajar NU Cigemblong Sampaikan Permohonan Maaf atas Tidak Terselenggaranya Festival Hari Santr...](https://medium.com/@tedigope8/pelajar-nu-cigemblong-sampaikan-permohonan-maaf-atas-tidak-terselenggaranya-festival-hari-santri-fbce1c056be3?source=rss------artificial_intelligence-5)**
-> 🔹 **[When AI Makes Code Cheaper, SDK Architecture Matters More](https://medium.com/@michael.avoyan/when-ai-makes-code-cheaper-sdk-architecture-matters-more-7bcfecb4e5e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Study for 3 Hours Instead of 8 — Here’s My ChatGPT Setup](https://medium.com/@amishablogservice/i-study-for-3-hours-instead-of-8-heres-my-chatgpt-setup-5193e2b1242e?source=rss------artificial_intelligence-5)**
-> 🔹 **[RAG-Powered Anomaly Detection for Manufacturing: Someone Has to Read Every Batch Record First?](https://medium.com/@masihkarimialavijeh/rag-powered-anomaly-detection-for-manufacturing-someone-has-to-read-every-batch-record-first-e81e872ab33a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Votre entreprise est-elle invisible pour ChatGPT ?](https://medium.com/@dahouayoub97/votre-entreprise-est-elle-invisible-pour-chatgpt-54a9985a70f5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why your platform team shouldn&#39;t build an AI context layer &lpar;even though they probably could&rpar;](https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/)**
+> 🔹 **[Building a systematic AI tool guide for developers with Astro content collections, zod, and an...](https://medium.com/@encisox03/building-a-systematic-ai-tool-guide-for-developers-with-astro-content-collections-zod-and-an-ai-70b42bfa1b0a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Data Science in the Age of AI: What 2026 Taught Us](https://medium.com/@dinasarpoushan12/data-science-in-the-age-of-ai-what-2026-taught-us-602f1983977f?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Created A New Muslim Country. It Doesn’t Exist — But It Could](https://medium.com/ai-center-grow-earn-with-ai/ai-created-a-new-muslim-country-it-doesnt-exist-but-it-could-c421774ff167?source=rss------artificial_intelligence-5)**
+> 🔹 **[If You Ignore Spring Boot AI Today, You’ll Regret It in 6 Months](https://medium.com/@kotiavula6/if-you-ignore-spring-boot-ai-today-youll-regret-it-in-6-months-a38165df233f?source=rss------backend_development-5)**
+> 🔹 **[If You Ignore Spring Boot AI Today, You’ll Regret It in 6 Months](https://medium.com/@kotiavula6/if-you-ignore-spring-boot-ai-today-youll-regret-it-in-6-months-a38165df233f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Seu escritório de contabilidade aparece quando o empresário pergunta à IA sobre impostos?](https://medium.com/@andrehp/seu-escrit%C3%B3rio-de-contabilidade-aparece-quando-o-empres%C3%A1rio-pergunta-%C3%A0-ia-sobre-impostos-be2e403fdeba?source=rss------artificial_intelligence-5)**
+> 🔹 **[Como é trabalhar na sua empresa, segundo a IA? GEO para RH e marca empregadora](https://medium.com/@andrehp/como-%C3%A9-trabalhar-na-sua-empresa-segundo-a-ia-geo-para-rh-e-marca-empregadora-6b9ddde769df?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
