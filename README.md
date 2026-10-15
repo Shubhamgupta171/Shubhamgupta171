@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[My Agent Said “Saved.” Nothing Was Saved.](https://medium.com/@yotambraun/my-agent-said-saved-nothing-was-saved-6018616b9a49?source=rss------artificial_intelligence-5)**
-> 🔹 **[Scientists Have Found Limits To Human Intelligence, But What Happens When We Reach Them?](https://medium.com/illumination/scientists-have-found-limits-to-human-intelligence-but-what-happens-when-we-reach-them-41f8dd12471c?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Analyzed 5 AEO Skills and Each Optimized for Different Things](https://medium.com/@BrianCarl/i-analyzed-5-aeo-skills-and-each-optimized-for-different-things-c149eca3b115?source=rss------artificial_intelligence-5)**
-> 🔹 **[Humans Are the Selection Pressure for AI](https://medium.com/@poola.vii/humans-are-the-selection-pressure-for-ai-c80028bea4e2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Motion: Anthropic Just Turned Claude Into a Motion Designer](https://pub.towardsai.net/claude-motion-anthropic-just-turned-claude-into-a-motion-designer-079f4d561471?source=rss------artificial_intelligence-5)**
-> 🔹 **[What is Responsible AI &amp; AIgenerated vs What is AI Governance &amp; AI Assisted: Each Has a Place,...](https://medium.com/@basilpuglisi/what-is-responsible-ai-aigenerated-vs-what-is-ai-governance-ai-assisted-each-has-a-place-and-930b3b6a373d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Immediately and for Everyone](https://medium.com/@andreglobal/immediately-and-for-everyone-cc643b88e5a3?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Email Personalization Needs an Evidence Gate](https://pub.towardsai.net/ai-email-personalization-needs-an-evidence-gate-4a8e01a74bbc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The 5 Cybersecurity Skills You Need to Master in 2026](https://medium.com/@realsandeep1271/the-5-cybersecurity-skills-you-need-to-master-in-2026-5e365ccdab79?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Requirement Change Is an Impact-Analysis Problem, Not a Document Edit](https://medium.com/analysts-corner/a-requirement-change-is-an-impact-analysis-problem-not-a-document-edit-130cf414cfba?source=rss------artificial_intelligence-5)**
+> 🔹 **[Most Ecommerce AI Features Are Judged on the Wrong Number](https://medium.com/@hello_18940/most-ecommerce-ai-features-are-judged-on-the-wrong-number-707ed7c59f77?source=rss------artificial_intelligence-5)**
+> 🔹 **[Future of Technology](https://medium.com/@bintkhalid.va/future-of-technology-3000fd7806e6?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Democratisation of Human Possibility](https://gregtwemlow.medium.com/the-democratisation-of-human-possibility-f811a946197f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Breaking Down Oracle Fusion Data Intelligence 26.R3: What’s New and Why It Matters](https://medium.com/@pradeep4ece/breaking-down-oracle-fusion-data-intelligence-26-r3-whats-new-and-why-it-matters-28f3576c9faf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Govern AI Like a Product, Not a Policy PDF](https://medium.com/@anshul.nema23/govern-ai-like-a-product-not-a-policy-pdf-b4ef1f9d2510?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 Lesser-Known AI Tools Worth Knowing](https://medium.com/@mdnaimul.kadir11/7-lesser-known-ai-tools-worth-knowing-665cf721403e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
