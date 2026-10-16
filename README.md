@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Can local voice cloning replace ElevenLabs? Qwen3: TTS vs Chatterbox](https://medium.com/@popularai/can-local-voice-cloning-replace-elevenlabs-qwen3-tts-vs-chatterbox-b1a0fb1fffaa?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Apply an Art Style Without Accidentally Copying the Whole Image](https://medium.com/prompt-odyssey/how-to-apply-an-art-style-without-accidentally-copying-the-whole-image-6749f49fcb5f?source=rss------artificial_intelligence-5)**
-> 🔹 **[India has a lot of solar power, but getting that electricity to people is becoming a challenge.](https://medium.com/@ade_ghoke/india-has-a-lot-of-solar-power-but-getting-that-electricity-to-people-is-becoming-a-challenge-f127e7af3d03?source=rss------artificial_intelligence-5)**
-> 🔹 **[September 2026 AI News Roundup: Agents vs Slowdowns](https://ptpchicago.medium.com/september-2026-ai-news-roundup-agents-vs-slowdowns-8067ce5d5ccb?source=rss------artificial_intelligence-5)**
-> 🔹 **[The End of the Busy Signal: How Voice AI is Quietly Replacing the Restaurant Takeout Cashier in...](https://medium.com/@aattarmustapha111/the-end-of-the-busy-signal-how-voice-ai-is-quietly-replacing-the-restaurant-takeout-cashier-in-f078e4836bce?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Build an Internal Tool Without Code Using AI &lpar;A Retool Alternative&rpar;](https://rimlauf.medium.com/how-to-build-an-internal-tool-without-code-using-ai-a-retool-alternative-51aa4228ff95?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Lead a Team of AI Agents Without Letting Them Break Production](https://medium.com/@vladichumachenko/how-i-lead-a-team-of-ai-agents-without-letting-them-break-production-c4fcc2e3d4dd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Calling AI “Super Intelligence” Changes the Label Before It Changes the Evidence.](https://medium.com/@khaled.adly2/calling-ai-super-intelligence-changes-the-label-before-it-changes-the-evidence-20d100022796?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Collapse Of “Software Engineer”](https://medium.com/@akshatmtiwari/the-collapse-of-software-engineer-9796a96b8022?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building Reliable Webhooks in Django: Retries, Duplicate Events, and Idempotency](https://medium.com/@yogeshkrishnanseeniraj/building-reliable-webhooks-in-django-retries-duplicate-events-and-idempotency-50337d4353ba?source=rss------backend_development-5)**
+> 🔹 **[AWS Auto Scaling: The Complete 360-Degree Guide with Architecture, Practical Examples, and 50…](https://maliwaddevops.medium.com/aws-auto-scaling-the-complete-360-degree-guide-with-architecture-practical-examples-and-50-49119d5c845d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Freeze Watch vs. Freeze Warning vs. Frost Advisory: What Each Means](https://medium.com/@sumbalabbas45/freeze-watch-vs-freeze-warning-vs-frost-advisory-what-each-means-621635e31043?source=rss------artificial_intelligence-5)**
+> 🔹 **[Fable 5.5 Is Coming Soon? Here’s What We Actually Know](https://medium.com/@dremfind/fable-5-5-is-coming-soon-heres-what-we-actually-know-3ab9ddf4c738?source=rss------artificial_intelligence-5)**
+> 🔹 **[The NEST Lab Notes—Log 01. Note 05](https://medium.com/@yn.6197/the-nest-lab-notes-log-01-note-05-da4800557c13?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Global Perspectives and Theory of Knowledge &lpar;TOK&rpar; Matter to Me](https://medium.com/@ayamather/why-global-perspectives-and-theory-of-knowledge-tok-matter-to-me-0622c4921b90?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI &amp; sports in year 2030](https://ion-oaie.medium.com/ai-sports-in-year-2030-484ccfabdd38?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
