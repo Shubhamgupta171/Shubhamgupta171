@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Collapse Of “Software Engineer”](https://medium.com/@akshatmtiwari/the-collapse-of-software-engineer-9796a96b8022?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building Reliable Webhooks in Django: Retries, Duplicate Events, and Idempotency](https://medium.com/@yogeshkrishnanseeniraj/building-reliable-webhooks-in-django-retries-duplicate-events-and-idempotency-50337d4353ba?source=rss------backend_development-5)**
-> 🔹 **[AWS Auto Scaling: The Complete 360-Degree Guide with Architecture, Practical Examples, and 50…](https://maliwaddevops.medium.com/aws-auto-scaling-the-complete-360-degree-guide-with-architecture-practical-examples-and-50-49119d5c845d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Freeze Watch vs. Freeze Warning vs. Frost Advisory: What Each Means](https://medium.com/@sumbalabbas45/freeze-watch-vs-freeze-warning-vs-frost-advisory-what-each-means-621635e31043?source=rss------artificial_intelligence-5)**
-> 🔹 **[Fable 5.5 Is Coming Soon? Here’s What We Actually Know](https://medium.com/@dremfind/fable-5-5-is-coming-soon-heres-what-we-actually-know-3ab9ddf4c738?source=rss------artificial_intelligence-5)**
-> 🔹 **[The NEST Lab Notes—Log 01. Note 05](https://medium.com/@yn.6197/the-nest-lab-notes-log-01-note-05-da4800557c13?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Global Perspectives and Theory of Knowledge &lpar;TOK&rpar; Matter to Me](https://medium.com/@ayamather/why-global-perspectives-and-theory-of-knowledge-tok-matter-to-me-0622c4921b90?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI &amp; sports in year 2030](https://ion-oaie.medium.com/ai-sports-in-year-2030-484ccfabdd38?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Let Claude Build a Game for Me. Can It Actually Make Money?](https://heymramit.medium.com/i-let-claude-build-a-game-for-me-can-it-actually-make-money-56fa72bf6830?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Fit Gate: 6 decisions before you build](https://medium.com/@theclosedgap/the-ai-fit-gate-6-decisions-before-you-build-592956873bdd?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Roleplay vs. AI Chat: Why Amavie Keeps Them Apart](https://medium.com/@amavie_ai/ai-roleplay-vs-ai-chat-why-amavie-keeps-them-apart-b4df2e99ca07?source=rss------artificial_intelligence-5)**
+> 🔹 **[Meta’s Muse Spark Open: Can an 816B-Parameter AI Model Really Run on Your Mac?](https://medium.com/@itc26900/metas-muse-spark-open-can-an-816b-parameter-ai-model-really-run-on-your-mac-ec077fd129e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT Sites: Create and Publish a Website Without Writing Code](https://medium.com/@nithinwilson35/chatgpt-sites-create-and-publish-a-website-without-writing-code-78d0f922ff32?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Can AI Support Small Businesses and Startups in Sri Lanka?](https://medium.com/@suresh25das/how-can-ai-support-small-businesses-and-startups-in-sri-lanka-6b282b6baa1c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Estate: Building a Harness for Superintelligence](https://medium.com/@elias.pukari/the-estate-multi-agent-harness-claude-code-codex-8d1a4cdaa89a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Age of AI Builders: The Future Belongs to Those Who Know What to Build](https://medium.com/@adekanmiprosper/the-age-of-ai-builders-the-future-belongs-to-those-who-know-what-to-build-7208d9aaec90?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
