@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Before Building a Design System .. Ask the Right Questions](https://medium.com/@ahmedtaaw/before-building-a-design-system-ask-the-right-questions-444ca0d729c2?source=rss------system_design-5)**
-> 🔹 **[Des modèles IA sexy volent les blagues de comiques pour OnlyFans](https://medium.com/@Abestit/des-mod%C3%A8les-ia-sexy-volent-les-blagues-de-comiques-pour-onlyfans-d96d145b0405?source=rss------artificial_intelligence-5)**
-> 🔹 **[ThreeCore Video Library: DAT, EMA and CAWELON in 15 Languages](https://medium.com/@datcoreofficial/threecore-video-library-dat-ema-and-cawelon-in-15-languages-b973c7d48e72?source=rss------artificial_intelligence-5)**
-> 🔹 **[Every Machine Has Ancestors](https://fahrikarakas.medium.com/every-machine-has-ancestors-26e7998150ef?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Code Mods: The Shift From Using AI Agents to Engineering Them](https://medium.com/@kmrpushkar09/claude-code-mods-the-shift-from-using-ai-agents-to-engineering-them-bf0432cac2ea?source=rss------artificial_intelligence-5)**
-> 🔹 **[Core Research — AS0 Across Model Implementations](https://medium.com/@logicbasis/core-research-as0-across-model-implementations-153f7f6feef5?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Step Toward Prompting Agents With Greater Precision](https://shift.infinite.red/a-step-toward-prompting-agents-with-greater-precision-4a4b538bee21?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building AI Visibility for Financial Advisors](https://medium.com/@aieosignals/building-ai-visibility-for-financial-advisors-ea6b9f0129d9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Trust Has to Mean Something in Practice](https://medium.com/@chip_95078/trust-has-to-mean-something-in-practice-513230488f93?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 23/60: Aligning AI — RLHF and Direct Preference Optimization &lpar;DPO&rpar;](https://medium.com/@divyanshiy6/day-23-60-aligning-ai-rlhf-and-direct-preference-optimization-dpo-58a70f913b76?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why a Broken GRC Process Only Gets Faster With AI](https://sean-martin.medium.com/why-a-broken-grc-process-only-gets-faster-with-ai-2e358607a076?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI, Explained Plainly · Week 1](https://medium.com/ai-explained-plainly/ai-explained-plainly-week-01-what-ai-really-means-5f8dc2dcbf9e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 22/60: Sparse Mixture of Experts &lpar;MoE&rpar; — Scaling Intelligence Without Exploding Compute](https://medium.com/@divyanshiy6/day-22-60-sparse-mixture-of-experts-moe-scaling-intelligence-without-exploding-compute-02fb859bfe21?source=rss------artificial_intelligence-5)**
+> 🔹 **[Not Conscious, and Still at Stake](https://medium.com/@hal9050x/not-conscious-and-still-at-stake-e8c488e8420f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why the Old Silicon Valley Playbook No Longer Works for Phase 1 of AI](https://medium.com/@darren_83346/why-the-old-silicon-valley-playbook-no-longer-works-for-phase-1-of-ai-ecbdc96d635c?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Joke App in 26 Languages. Puns Were the First Casualty.](https://medium.com/@stoevno1/i-built-a-joke-app-in-26-languages-puns-were-the-first-casualty-ef7196e2b2b3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
