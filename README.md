@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Let Claude Build a Game for Me. Can It Actually Make Money?](https://heymramit.medium.com/i-let-claude-build-a-game-for-me-can-it-actually-make-money-56fa72bf6830?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Fit Gate: 6 decisions before you build](https://medium.com/@theclosedgap/the-ai-fit-gate-6-decisions-before-you-build-592956873bdd?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Roleplay vs. AI Chat: Why Amavie Keeps Them Apart](https://medium.com/@amavie_ai/ai-roleplay-vs-ai-chat-why-amavie-keeps-them-apart-b4df2e99ca07?source=rss------artificial_intelligence-5)**
-> 🔹 **[Meta’s Muse Spark Open: Can an 816B-Parameter AI Model Really Run on Your Mac?](https://medium.com/@itc26900/metas-muse-spark-open-can-an-816b-parameter-ai-model-really-run-on-your-mac-ec077fd129e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT Sites: Create and Publish a Website Without Writing Code](https://medium.com/@nithinwilson35/chatgpt-sites-create-and-publish-a-website-without-writing-code-78d0f922ff32?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Can AI Support Small Businesses and Startups in Sri Lanka?](https://medium.com/@suresh25das/how-can-ai-support-small-businesses-and-startups-in-sri-lanka-6b282b6baa1c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Estate: Building a Harness for Superintelligence](https://medium.com/@elias.pukari/the-estate-multi-agent-harness-claude-code-codex-8d1a4cdaa89a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Age of AI Builders: The Future Belongs to Those Who Know What to Build](https://medium.com/@adekanmiprosper/the-age-of-ai-builders-the-future-belongs-to-those-who-know-what-to-build-7208d9aaec90?source=rss------artificial_intelligence-5)**
+> 🔹 **[Before Building a Design System .. Ask the Right Questions](https://medium.com/@ahmedtaaw/before-building-a-design-system-ask-the-right-questions-444ca0d729c2?source=rss------system_design-5)**
+> 🔹 **[Des modèles IA sexy volent les blagues de comiques pour OnlyFans](https://medium.com/@Abestit/des-mod%C3%A8les-ia-sexy-volent-les-blagues-de-comiques-pour-onlyfans-d96d145b0405?source=rss------artificial_intelligence-5)**
+> 🔹 **[ThreeCore Video Library: DAT, EMA and CAWELON in 15 Languages](https://medium.com/@datcoreofficial/threecore-video-library-dat-ema-and-cawelon-in-15-languages-b973c7d48e72?source=rss------artificial_intelligence-5)**
+> 🔹 **[Every Machine Has Ancestors](https://fahrikarakas.medium.com/every-machine-has-ancestors-26e7998150ef?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Code Mods: The Shift From Using AI Agents to Engineering Them](https://medium.com/@kmrpushkar09/claude-code-mods-the-shift-from-using-ai-agents-to-engineering-them-bf0432cac2ea?source=rss------artificial_intelligence-5)**
+> 🔹 **[Core Research — AS0 Across Model Implementations](https://medium.com/@logicbasis/core-research-as0-across-model-implementations-153f7f6feef5?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Step Toward Prompting Agents With Greater Precision](https://shift.infinite.red/a-step-toward-prompting-agents-with-greater-precision-4a4b538bee21?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building AI Visibility for Financial Advisors](https://medium.com/@aieosignals/building-ai-visibility-for-financial-advisors-ea6b9f0129d9?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
