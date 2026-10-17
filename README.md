@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Trust Has to Mean Something in Practice](https://medium.com/@chip_95078/trust-has-to-mean-something-in-practice-513230488f93?source=rss------artificial_intelligence-5)**
-> 🔹 **[Day 23/60: Aligning AI — RLHF and Direct Preference Optimization &lpar;DPO&rpar;](https://medium.com/@divyanshiy6/day-23-60-aligning-ai-rlhf-and-direct-preference-optimization-dpo-58a70f913b76?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why a Broken GRC Process Only Gets Faster With AI](https://sean-martin.medium.com/why-a-broken-grc-process-only-gets-faster-with-ai-2e358607a076?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI, Explained Plainly · Week 1](https://medium.com/ai-explained-plainly/ai-explained-plainly-week-01-what-ai-really-means-5f8dc2dcbf9e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Day 22/60: Sparse Mixture of Experts &lpar;MoE&rpar; — Scaling Intelligence Without Exploding Compute](https://medium.com/@divyanshiy6/day-22-60-sparse-mixture-of-experts-moe-scaling-intelligence-without-exploding-compute-02fb859bfe21?source=rss------artificial_intelligence-5)**
-> 🔹 **[Not Conscious, and Still at Stake](https://medium.com/@hal9050x/not-conscious-and-still-at-stake-e8c488e8420f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why the Old Silicon Valley Playbook No Longer Works for Phase 1 of AI](https://medium.com/@darren_83346/why-the-old-silicon-valley-playbook-no-longer-works-for-phase-1-of-ai-ecbdc96d635c?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a Joke App in 26 Languages. Puns Were the First Casualty.](https://medium.com/@stoevno1/i-built-a-joke-app-in-26-languages-puns-were-the-first-casualty-ef7196e2b2b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Vision Models Fail Outside the Lab: From Data to Edge Deployment](https://medium.com/@sales_95773/why-vision-models-fail-outside-the-lab-from-data-to-edge-deployment-a3e13efeb338?source=rss------artificial_intelligence-5)**
+> 🔹 **[RippleMap: How I Built a Graph-Powered Agent to Trace Infrastructure Failures](https://medium.com/@madhanananthan.03/ripplemap-how-i-built-a-graph-powered-agent-to-trace-infrastructure-failures-a25d9da08b6b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Found 5 Claude Skills That Make AI Work Feel Surprisingly Practical](https://rasoolshah0072.medium.com/i-found-5-claude-skills-that-make-ai-work-feel-surprisingly-practical-345b2515012f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Embedding AI Assistants in iOS: Uzori vs CopilotKit for SwiftUI-Native UX](https://era-shopping.medium.com/embedding-ai-assistants-in-ios-uzori-vs-copilotkit-for-swiftui-native-ux-795243e03e26?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google Bard to Gemini: How Google Made a $100 Billion Mistake Disappear](https://thejenildgohel.medium.com/google-bard-to-gemini-how-google-made-a-100-billion-mistake-disappear-e221a0407636?source=rss------artificial_intelligence-5)**
+> 🔹 **[REBOUND: The Next Frontier in IntelligentWearable Technology](https://medium.com/@guttjags/rebound-the-next-frontier-in-intelligentwearable-technology-a7d03f5e5b5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agents or Agency: Factory AI, Handmade AI, and the Label That Tells Them Apart](https://medium.com/@basilpuglisi/agents-or-agency-factory-ai-handmade-ai-and-the-label-that-tells-them-apart-89baf93e8983?source=rss------artificial_intelligence-5)**
+> 🔹 **[“Val Kilmer Influenced This Performance”](https://medium.com/@maxg.114514/val-kilmer-influenced-this-performance-a691ce6e24c0?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
