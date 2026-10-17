@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Vision Models Fail Outside the Lab: From Data to Edge Deployment](https://medium.com/@sales_95773/why-vision-models-fail-outside-the-lab-from-data-to-edge-deployment-a3e13efeb338?source=rss------artificial_intelligence-5)**
-> 🔹 **[RippleMap: How I Built a Graph-Powered Agent to Trace Infrastructure Failures](https://medium.com/@madhanananthan.03/ripplemap-how-i-built-a-graph-powered-agent-to-trace-infrastructure-failures-a25d9da08b6b?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Found 5 Claude Skills That Make AI Work Feel Surprisingly Practical](https://rasoolshah0072.medium.com/i-found-5-claude-skills-that-make-ai-work-feel-surprisingly-practical-345b2515012f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Embedding AI Assistants in iOS: Uzori vs CopilotKit for SwiftUI-Native UX](https://era-shopping.medium.com/embedding-ai-assistants-in-ios-uzori-vs-copilotkit-for-swiftui-native-ux-795243e03e26?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google Bard to Gemini: How Google Made a $100 Billion Mistake Disappear](https://thejenildgohel.medium.com/google-bard-to-gemini-how-google-made-a-100-billion-mistake-disappear-e221a0407636?source=rss------artificial_intelligence-5)**
-> 🔹 **[REBOUND: The Next Frontier in IntelligentWearable Technology](https://medium.com/@guttjags/rebound-the-next-frontier-in-intelligentwearable-technology-a7d03f5e5b5c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agents or Agency: Factory AI, Handmade AI, and the Label That Tells Them Apart](https://medium.com/@basilpuglisi/agents-or-agency-factory-ai-handmade-ai-and-the-label-that-tells-them-apart-89baf93e8983?source=rss------artificial_intelligence-5)**
-> 🔹 **[“Val Kilmer Influenced This Performance”](https://medium.com/@maxg.114514/val-kilmer-influenced-this-performance-a691ce6e24c0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Timing Is Everything: Why Porsche Revealed the Mission S on the Same Night as the Tesla Roadste...](https://medium.com/deep-tech-innovation/timing-is-everything-why-porsche-revealed-the-mission-s-on-the-same-night-as-the-tesla-roadster-a866bd35b433?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Complete Databricks Genie Guide &lpar;2026&rpar;: 16 Articles From Pilot to Production](https://saurabhanilagrawal.medium.com/the-complete-databricks-genie-guide-2026-16-articles-from-pilot-to-production-474b9303a220?source=rss------artificial_intelligence-5)**
+> 🔹 **[I’ve Changed My Mind About AI. Again.](https://medium.com/@damani4242/ive-changed-my-mind-about-ai-again-3270c3799f07?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nicole Junkermann on AI and the Musician’s Studio](https://medium.com/@spamuraigirl/nicole-junkermann-on-ai-and-the-musicians-studio-16d9569c8cfb?source=rss------artificial_intelligence-5)**
+> 🔹 **[ZONA SYNTH INTEL: Building More Than a Trading Tool](https://medium.com/@zonasynthintel/zona-synth-intel-building-more-than-a-trading-tool-7bb04a730694?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Never Tested My Thumbnails Because Making Variants Took Too Long.](https://medium.com/@em07emmawilson/i-never-tested-my-thumbnails-because-making-variants-took-too-long-7a9a55a719ea?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nicole Junkermann on AI and the Future of the Public Library](https://medium.com/@spamuraigirl/nicole-junkermann-on-ai-and-the-future-of-the-public-library-3b7d06d12679?source=rss------artificial_intelligence-5)**
+> 🔹 **[Restoring Civil Service Purchasing Power:
+An Interactive Assessment of Nigeria&#39;s Macroeconomic…](https://medium.com/@batomated/restoring-civil-service-purchasing-power-an-interactive-assessment-of-nigerias-macroeconomic-25e7096edbf3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
