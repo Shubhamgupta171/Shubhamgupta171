@@ -34,15 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Timing Is Everything: Why Porsche Revealed the Mission S on the Same Night as the Tesla Roadste...](https://medium.com/deep-tech-innovation/timing-is-everything-why-porsche-revealed-the-mission-s-on-the-same-night-as-the-tesla-roadster-a866bd35b433?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Complete Databricks Genie Guide &lpar;2026&rpar;: 16 Articles From Pilot to Production](https://saurabhanilagrawal.medium.com/the-complete-databricks-genie-guide-2026-16-articles-from-pilot-to-production-474b9303a220?source=rss------artificial_intelligence-5)**
-> 🔹 **[I’ve Changed My Mind About AI. Again.](https://medium.com/@damani4242/ive-changed-my-mind-about-ai-again-3270c3799f07?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nicole Junkermann on AI and the Musician’s Studio](https://medium.com/@spamuraigirl/nicole-junkermann-on-ai-and-the-musicians-studio-16d9569c8cfb?source=rss------artificial_intelligence-5)**
-> 🔹 **[ZONA SYNTH INTEL: Building More Than a Trading Tool](https://medium.com/@zonasynthintel/zona-synth-intel-building-more-than-a-trading-tool-7bb04a730694?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Never Tested My Thumbnails Because Making Variants Took Too Long.](https://medium.com/@em07emmawilson/i-never-tested-my-thumbnails-because-making-variants-took-too-long-7a9a55a719ea?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nicole Junkermann on AI and the Future of the Public Library](https://medium.com/@spamuraigirl/nicole-junkermann-on-ai-and-the-future-of-the-public-library-3b7d06d12679?source=rss------artificial_intelligence-5)**
-> 🔹 **[Restoring Civil Service Purchasing Power:
-An Interactive Assessment of Nigeria&#39;s Macroeconomic…](https://medium.com/@batomated/restoring-civil-service-purchasing-power-an-interactive-assessment-of-nigerias-macroeconomic-25e7096edbf3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The More We Learn, the More We Realize We Don’t Know](https://medium.com/@melku2801/the-more-we-learn-the-more-we-realize-we-dont-know-89b02dfc4d56?source=rss------artificial_intelligence-5)**
+> 🔹 **[Crypto and AI Is Healthcare](https://medium.com/bouncin-and-behavin-blogs/crypto-and-ai-is-healthcare-e0dec48ca731?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI Gives You More Options, Someone Still Has to Choose](https://medium.com/@minuwrites/when-ai-gives-you-more-options-someone-still-has-to-choose-5855ab884323?source=rss------artificial_intelligence-5)**
+> 🔹 **[12 Distributed Systems Patterns Explained at a Coffee Shop Counter, With the Real Config Behind...](https://medium.com/system-design-architecture-deep-dives/12-distributed-systems-patterns-explained-at-a-coffee-shop-counter-with-the-real-config-behind-bf3a3df197ac?source=rss------backend_development-5)**
+> 🔹 **[Nobody’s the Good Guy: AI, the Pentagon, and the Biggest Con of 2026](https://medium.com/@keith.dealwis/nobodys-the-good-guy-ai-the-pentagon-and-the-biggest-con-of-2026-78c27b824879?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Value of Intellectual Humility in a Technological World](https://oguzhanvicil.medium.com/the-hidden-value-of-intellectual-humility-in-a-technological-world-0623d3b8f52f?source=rss------artificial_intelligence-5)**
+> 🔹 **[This Open-Source AI Tool Can Turn a Simple Idea Into a Video — Meet MoneyPrinterTurbo](https://heymramit.medium.com/this-open-source-ai-tool-can-turn-a-simple-idea-into-a-video-meet-moneyprinterturbo-534eba2c4aaa?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the First Draft: How Huko AI Makes AI-Generated Motion Graphics Editable](https://medium.com/@arpitcoder25/beyond-the-first-draft-how-huko-ai-makes-ai-generated-motion-graphics-editable-050049411bdc?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
