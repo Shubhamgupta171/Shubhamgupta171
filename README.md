@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The More We Learn, the More We Realize We Don’t Know](https://medium.com/@melku2801/the-more-we-learn-the-more-we-realize-we-dont-know-89b02dfc4d56?source=rss------artificial_intelligence-5)**
-> 🔹 **[Crypto and AI Is Healthcare](https://medium.com/bouncin-and-behavin-blogs/crypto-and-ai-is-healthcare-e0dec48ca731?source=rss------artificial_intelligence-5)**
-> 🔹 **[When AI Gives You More Options, Someone Still Has to Choose](https://medium.com/@minuwrites/when-ai-gives-you-more-options-someone-still-has-to-choose-5855ab884323?source=rss------artificial_intelligence-5)**
-> 🔹 **[12 Distributed Systems Patterns Explained at a Coffee Shop Counter, With the Real Config Behind...](https://medium.com/system-design-architecture-deep-dives/12-distributed-systems-patterns-explained-at-a-coffee-shop-counter-with-the-real-config-behind-bf3a3df197ac?source=rss------backend_development-5)**
-> 🔹 **[Nobody’s the Good Guy: AI, the Pentagon, and the Biggest Con of 2026](https://medium.com/@keith.dealwis/nobodys-the-good-guy-ai-the-pentagon-and-the-biggest-con-of-2026-78c27b824879?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Value of Intellectual Humility in a Technological World](https://oguzhanvicil.medium.com/the-hidden-value-of-intellectual-humility-in-a-technological-world-0623d3b8f52f?source=rss------artificial_intelligence-5)**
-> 🔹 **[This Open-Source AI Tool Can Turn a Simple Idea Into a Video — Meet MoneyPrinterTurbo](https://heymramit.medium.com/this-open-source-ai-tool-can-turn-a-simple-idea-into-a-video-meet-moneyprinterturbo-534eba2c4aaa?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the First Draft: How Huko AI Makes AI-Generated Motion Graphics Editable](https://medium.com/@arpitcoder25/beyond-the-first-draft-how-huko-ai-makes-ai-generated-motion-graphics-editable-050049411bdc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Solving Race Conditions in Distributed Systems Without Locks — Redis Sorted Sets &amp; Lua Scriptin...](https://medium.com/@lakshyamahawarstp/solving-race-conditions-in-distributed-systems-without-locks-redis-sorted-sets-lua-scripting-7e42635020a4?source=rss------system_design-5)**
+> 🔹 **[Why I’m Building Croptera AI](https://medium.com/@bagulyapiyush/why-im-building-croptera-ai-09fc1f1b246e?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI, Theory of Mind, and the Making of Social Agents](https://medium.com/@DrJosephBoland/ai-theory-of-mind-and-the-making-of-social-agents-8219b3209ef1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Le chaos des IA puissantes sans véritable justice ni responsabilité](https://medium.com/@Abestit/le-chaos-des-ia-puissantes-sans-v%C3%A9ritable-justice-ni-responsabilit%C3%A9-b9d1ceffe42e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Parallel ForEach Nedir? Neden Kullanılır ve Nasıl Çalışır?](https://medium.com/@mehmetemingocen188/parallel-foreach-nedir-neden-kullan%C4%B1l%C4%B1r-ve-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-6e140d4040d6?source=rss------backend_development-5)**
+> 🔹 **[AI Voice for Guided Meditation: 5 Common Problems That Make It Sound Robotic &lpar;and How to Fix Ea...](https://medium.com/@nicktsaimarketing/ai-voice-for-guided-meditation-5-common-problems-that-make-it-sound-robotic-and-how-to-fix-each-5cdb9c852284?source=rss------artificial_intelligence-5)**
+> 🔹 **[Pourquoi l’IA ne décode pas encore nos génomes dynamiques](https://medium.com/@Abestit/pourquoi-lia-ne-d%C3%A9code-pas-encore-nos-g%C3%A9nomes-dynamiques-4c81ddc3ab4a?source=rss------artificial_intelligence-5)**
+> 🔹 **[My best friend had to wait three months for an MRI.](https://medium.com/@florinaregius/my-best-friend-had-to-wait-three-months-for-an-mri-142bbc859bdc?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
