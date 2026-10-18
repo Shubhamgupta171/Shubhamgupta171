@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Python DSA Coding Interview Series:15/29 [Tree BFS, Binary Search Trees and Paths]](https://medium.com/models-to-systems/python-dsa-coding-interview-series-15-29-tree-bfs-binary-search-trees-and-paths-046c3164b77a?source=rss------data_structures-5)**
-> 🔹 **[Python DSA Coding Interview Series:14/29 [Recursion and Binary Tree DFS]](https://medium.com/models-to-systems/python-dsa-coding-interview-series-14-29-recursion-and-binary-tree-dfs-894bb73fb5b6?source=rss------data_structures-5)**
-> 🔹 **[How Can a Fraud-Detection Binary Classifier Catch Suspicious Transactions Without Punishing…](https://medium.com/@wesleyyang147/how-can-a-fraud-detection-binary-classifier-catch-suspicious-transactions-without-punishing-c6ca57f6dfe4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Python DSA Coding Interview Series:16/29[Graph Traversal: BFS and DFS on Grids and Networks]](https://medium.com/models-to-systems/python-dsa-coding-interview-series-16-29-graph-traversal-bfs-and-dfs-on-grids-and-networks-068732c9568f?source=rss------data_structures-5)**
-> 🔹 **[Python DSA Coding Interview:13/29 [Monotonic Stacks and Deques]](https://medium.com/models-to-systems/python-dsa-coding-interview-13-29-monotonic-stacks-and-deques-fad75de82ff4?source=rss------data_structures-5)**
-> 🔹 **[LLM Coding Interview Series: 21/30 [Where the GPU Memory Goes]](https://medium.com/models-to-systems/llm-coding-interview-series-21-30-where-the-gpu-memory-goes-a0b2f6df5635?source=rss------artificial_intelligence-5)**
-> 🔹 **[LLM Coding Interview Series: 20/30 [The Mock LLM Interview]](https://medium.com/models-to-systems/llm-coding-interview-series-20-30-the-mock-llm-interview-06786330645f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Electricity Doesn&#39;t End at the Power Plant](https://medium.com/@shinflking/electricity-doesnt-end-at-the-power-plant-50d57bbc8d27?source=rss------artificial_intelligence-5)**
+> 🔹 **[Giving Your AI Coding Agent X-Ray Vision: Inside REA &lpar;Reverse Engineer Anything&rpar;](https://pvdssatya.medium.com/giving-your-ai-coding-agent-x-ray-vision-inside-rea-reverse-engineer-anything-0d0f890c4172?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is Buying a DGX Spark Worth It in 2026? The Math Says No](https://medium.com/@loengnavy/is-buying-a-dgx-spark-worth-it-in-2026-the-math-says-no-6631232e3b42?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Agentic Tech Debt Tsunami: Why Machine-Generated Code Is Breaking Enterprise Foundations](https://medium.com/the-story-well/the-agentic-tech-debt-tsunami-why-machine-generated-code-is-breaking-enterprise-foundations-4ea235370003?source=rss------artificial_intelligence-5)**
+> 🔹 **[Four In Five US Businesses Still Don’t Use AI. That Gap Is the Whole Opportunity.](https://medium.com/illumination/four-in-five-us-businesses-still-dont-use-ai-that-gap-is-the-whole-opportunity-0adafba9f455?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Restore an AI Agent’s Memory on a New Computer](https://medium.com/@VectorOnchain/how-to-restore-an-ai-agents-memory-on-a-new-computer-e53466513b08?source=rss------artificial_intelligence-5)**
+> 🔹 **[MAMI Washoku Journal No.063](https://medium.com/@selftrust.mami/mami-washoku-journal-no-063-eb399ddbe8f4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Age marks on a print are surface damage — not a reason to invent a younger face](https://medium.com/@qingwancong/age-marks-on-a-print-are-surface-damage-not-a-reason-to-invent-a-younger-face-4961cf266ac5?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Code Looks Clean Until You Have to Review It.](https://medium.com/@abdalrahmantukka/ai-code-understanding-and-review-claude-code-d12da4cf1b8e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
