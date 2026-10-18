@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why AI Models Need So Much RAM and VRAM](https://medium.com/@thenatdw/why-ai-models-need-so-much-ram-and-vram-59b8f86078f2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Physics of the Sigmoid: Why the AI Correction Is a Structural Snapback, Not a Sudden Death](https://medium.com/@adam_1001/the-physics-of-the-sigmoid-why-the-ai-correction-is-a-structural-snapback-not-a-sudden-death-91381b33725d?source=rss------artificial_intelligence-5)**
-> 🔹 **[BG50 Is Back for 48 Hours: How to Choose the Right Digital Guides Without Wasting a Dollar](https://medium.com/@barronqasem/bg50-is-back-for-48-hours-how-to-choose-the-right-digital-guides-without-wasting-a-dollar-063743d3fa3e?source=rss------artificial_intelligence-5)**
-> 🔹 **[An Agent You Cannot Watch Is an Agent You Should Not Run](https://medium.com/@automatedincomelifestyle/an-agent-you-cannot-watch-is-an-agent-you-should-not-run-5ca1c7824d84?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nikesh Arora Predicts Half the Staff in Marketing, Finance and HR Within 3 Years | Podcast Insi...](https://medium.com/@huanzidage/nikesh-arora-predicts-half-the-staff-in-marketing-finance-and-hr-within-3-years-podcast-insight-18efeb539158?source=rss------artificial_intelligence-5)**
-> 🔹 **[The 15-Minute AI Task Killer: 4 Frameworks That Eliminate 5+ Hours of Weekly Drag](https://medium.com/@musausmaniofficial/the-15-minute-ai-task-killer-4-frameworks-that-eliminate-5-hours-of-weekly-drag-bb8f56f9f8fc?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agents for DevOps, Infrastructure, and Deployment](https://ai.plainenglish.io/ai-agents-for-devops-infrastructure-and-deployment-bb6376f0aed4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Qwen Image 2.1 Mood Boards: What the Crew Still Needs to Know](https://ai.plainenglish.io/qwen-image-2-1-mood-boards-what-the-crew-still-needs-to-know-7dbbb4175665?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why the real challenge of enterprise AI lies beyond algorithms, in architecture, business…](https://medium.com/@shubh.techie/why-the-real-challenge-of-enterprise-ai-lies-beyond-algorithms-in-architecture-business-4968396927f8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Anthropic Asked Its Own Staff How Fast AI Is Moving. Their Answers Look Nothing Like the Public...](https://medium.com/@ruijin.developer/anthropic-asked-its-own-staff-how-fast-ai-is-moving-their-answers-look-nothing-like-the-publics-d93d6e264c20?source=rss------artificial_intelligence-5)**
+> 🔹 **[Fruit fly brain AI is real: what MaleCNS can actually do](https://medium.com/@popularai/fruit-fly-brain-ai-is-real-what-malecns-can-actually-do-17478872b6e7?source=rss------artificial_intelligence-5)**
+> 🔹 **[I’m going to make the case for AI.](https://medium.com/@irishwingrif/im-going-to-make-the-case-for-ai-40eec0e97733?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is Artificial Intelligence Making new Crisis Worse for all living being?](https://medium.com/@rukhshandaali1/is-artificial-intelligence-making-new-crisis-worse-for-all-living-being-828e909a7050?source=rss------artificial_intelligence-5)**
+> 🔹 **[Exploración y Optimización con el Algoritmo Hill Climbing: Análisis de Pasos y Reinicios Aleato...](https://medium.com/@mirandaherreramoreno/exploraci%C3%B3n-y-optimizaci%C3%B3n-con-el-algoritmo-hill-climbing-an%C3%A1lisis-de-pasos-y-reinicios-aleatorios-8ae76494b187?source=rss------artificial_intelligence-5)**
+> 🔹 **[IA em cartórios: o que o CNJ exige para usar em 2026](https://medium.com/@dynadok/ia-em-cart%C3%B3rios-o-que-o-cnj-exige-para-usar-em-2026-f6ca26dc0870?source=rss------artificial_intelligence-5)**
+> 🔹 **[@samtheaimarketer](https://medium.com/@samtheaimarketer/samtheaimarketer-385db801274f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
