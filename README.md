@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Spring MVC vs Spring WebFlux: Which One Should You Choose?](https://medium.com/@nimeshsharma760/spring-mvc-vs-spring-webflux-which-one-should-you-choose-44aed8728dfb?source=rss------backend_development-5)**
-> 🔹 **[The Backend Skills Companies Actually Want in 2026](https://medium.com/@nausheencode/the-backend-skills-companies-actually-want-in-2026-f4ccb7c7da27?source=rss------backend_development-5)**
-> 🔹 **[MacBook Air vs MacBook Pro for Local LLMs: Where Does Your Money Go?](https://medium.com/@rothyyorn999/macbook-air-vs-macbook-pro-for-local-llms-where-does-your-money-go-27abe6f28a70?source=rss------artificial_intelligence-5)**
-> 🔹 **[Proof Before the Pitch](https://medium.com/@FrankPizzuta/proof-before-the-pitch-72a5afb635c0?source=rss------artificial_intelligence-5)**
-> 🔹 **[When AI Agents Go Rogue: Real Hacks, Data Leaks, and What Every Business Must Do in 2026](https://medium.com/@mandra_PMatbytesnbinary/when-ai-agents-go-rogue-real-hacks-data-leaks-and-what-every-business-must-do-in-2026-f586facad989?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Pioneers Are Betting Against LLMs](https://medium.com/@ramadhanzome4/the-pioneers-are-betting-against-llms-0be8c29c5de2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best Natural Language Processing Services for AI-Powered Business Growth](https://medium.com/@alexmercer.techo/best-natural-language-processing-services-for-ai-powered-business-growth-45fd9d89013c?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Safety: From First Principles to Practice](https://adilshamim8.medium.com/ai-safety-from-first-principles-to-practice-73ccd3ea73a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nearly 1 in 5 Google Reviews May Now Be Written by AI.](https://medium.com/illumination/nearly-1-in-5-google-reviews-may-now-be-written-by-ai-a49ea6e5f8be?source=rss------artificial_intelligence-5)**
+> 🔹 **[No-Code AI Automations for Local Businesses: How Solos Are Hitting $8K–15K/Month in Small Towns](https://medium.com/illumination/no-code-ai-automations-for-local-businesses-how-solos-are-hitting-8k-15k-month-in-small-towns-0f9c6ae0c599?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Humanize AI Text Without Losing Your Keywords](https://medium.com/illumination/how-to-humanize-ai-text-without-losing-your-keywords-59e3144427cb?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI’s Next Big Problem Isn’t Intelligence. It’s Electricity.](https://medium.com/codetodeploy/ais-next-big-problem-isn-t-intelligence-it-s-electricity-784b60e352bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI note taker that doesn’t join the meeting: what works on Mac and Windows in 2026](https://medium.com/@DonaldObrian/ai-note-taker-that-doesnt-join-the-meeting-what-works-on-mac-and-windows-in-2026-2357c5b6808b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Memory Systems in Agentic AI: 20 Interview Questions and Expert Answers](https://medium.com/@zaydislam25/memory-systems-in-agentic-ai-20-interview-questions-and-expert-answers-ed3c4781491e?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Code Search Engine With EmbeddingGemma 2 in 80 Lines of Python](https://pub.towardsai.net/i-built-a-code-search-engine-with-embeddinggemma-2-in-80-lines-of-python-1b2d5b5cbecc?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Malmoi to AI: How Korea Revived a Century-Old Language Legacy](https://globalpostingskj.medium.com/from-malmoi-to-ai-how-korea-revived-a-century-old-language-legacy-258c259a2e95?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
