@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Find the Right Keywords, Get More Traffic!](https://medium.com/@aiseoandgeo/find-the-right-keywords-get-more-traffic-897c9987fab0?source=rss------artificial_intelligence-5)**
-> 🔹 **[When AI Starts Taking Action](https://medium.com/the-gravity/when-ai-starts-taking-action-f4f5399d8e0f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Langfuse for Agent Observability: Stop Hand-Writing Spans](https://pub.towardsai.net/langfuse-for-agent-observability-stop-hand-writing-spans-b8d553626b22?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gemini scored 90.5% on a law exam. Then it had to explain.](https://medium.com/@ikatoch72/gemini-scored-90-5-on-a-law-exam-then-it-had-to-explain-0a7437dd7c5d?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agent HTTP 429 Retry Storms: Build a Shared Retry Budget](https://medium.com/@omanyuk/ai-agent-http-429-retry-storms-build-a-shared-retry-budget-cf1b771dfc31?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Sending Sentinels: Shut Down Asyncio Worker Queues Cleanly in Python 3.14](https://medium.com/@udit.rawat03/stop-sending-sentinels-shut-down-asyncio-worker-queues-cleanly-in-python-3-14-155b697fdc02?source=rss------backend_development-5)**
-> 🔹 **[CTOs: How Do You Decide Whether an AI Agent Is Ready for Production?](https://medium.com/@omanyuk/ctos-how-do-you-decide-whether-an-ai-agent-is-ready-for-production-14e6f3b96bfb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why I’m Building Aria to Help People Follow Through on Fitness](https://medium.com/@riteshprakash1299/why-im-building-aria-to-help-people-follow-through-on-fitness-15ff00a52af8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Spring MVC vs Spring WebFlux: Which One Should You Choose?](https://medium.com/@nimeshsharma760/spring-mvc-vs-spring-webflux-which-one-should-you-choose-44aed8728dfb?source=rss------backend_development-5)**
+> 🔹 **[The Backend Skills Companies Actually Want in 2026](https://medium.com/@nausheencode/the-backend-skills-companies-actually-want-in-2026-f4ccb7c7da27?source=rss------backend_development-5)**
+> 🔹 **[MacBook Air vs MacBook Pro for Local LLMs: Where Does Your Money Go?](https://medium.com/@rothyyorn999/macbook-air-vs-macbook-pro-for-local-llms-where-does-your-money-go-27abe6f28a70?source=rss------artificial_intelligence-5)**
+> 🔹 **[Proof Before the Pitch](https://medium.com/@FrankPizzuta/proof-before-the-pitch-72a5afb635c0?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI Agents Go Rogue: Real Hacks, Data Leaks, and What Every Business Must Do in 2026](https://medium.com/@mandra_PMatbytesnbinary/when-ai-agents-go-rogue-real-hacks-data-leaks-and-what-every-business-must-do-in-2026-f586facad989?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Pioneers Are Betting Against LLMs](https://medium.com/@ramadhanzome4/the-pioneers-are-betting-against-llms-0be8c29c5de2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best Natural Language Processing Services for AI-Powered Business Growth](https://medium.com/@alexmercer.techo/best-natural-language-processing-services-for-ai-powered-business-growth-45fd9d89013c?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Safety: From First Principles to Practice](https://adilshamim8.medium.com/ai-safety-from-first-principles-to-practice-73ccd3ea73a0?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
