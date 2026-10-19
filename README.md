@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why the real challenge of enterprise AI lies beyond algorithms, in architecture, business…](https://medium.com/@shubh.techie/why-the-real-challenge-of-enterprise-ai-lies-beyond-algorithms-in-architecture-business-4968396927f8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Anthropic Asked Its Own Staff How Fast AI Is Moving. Their Answers Look Nothing Like the Public...](https://medium.com/@ruijin.developer/anthropic-asked-its-own-staff-how-fast-ai-is-moving-their-answers-look-nothing-like-the-publics-d93d6e264c20?source=rss------artificial_intelligence-5)**
-> 🔹 **[Fruit fly brain AI is real: what MaleCNS can actually do](https://medium.com/@popularai/fruit-fly-brain-ai-is-real-what-malecns-can-actually-do-17478872b6e7?source=rss------artificial_intelligence-5)**
-> 🔹 **[I’m going to make the case for AI.](https://medium.com/@irishwingrif/im-going-to-make-the-case-for-ai-40eec0e97733?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is Artificial Intelligence Making new Crisis Worse for all living being?](https://medium.com/@rukhshandaali1/is-artificial-intelligence-making-new-crisis-worse-for-all-living-being-828e909a7050?source=rss------artificial_intelligence-5)**
-> 🔹 **[Exploración y Optimización con el Algoritmo Hill Climbing: Análisis de Pasos y Reinicios Aleato...](https://medium.com/@mirandaherreramoreno/exploraci%C3%B3n-y-optimizaci%C3%B3n-con-el-algoritmo-hill-climbing-an%C3%A1lisis-de-pasos-y-reinicios-aleatorios-8ae76494b187?source=rss------artificial_intelligence-5)**
-> 🔹 **[IA em cartórios: o que o CNJ exige para usar em 2026](https://medium.com/@dynadok/ia-em-cart%C3%B3rios-o-que-o-cnj-exige-para-usar-em-2026-f6ca26dc0870?source=rss------artificial_intelligence-5)**
-> 🔹 **[@samtheaimarketer](https://medium.com/@samtheaimarketer/samtheaimarketer-385db801274f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Find the Right Keywords, Get More Traffic!](https://medium.com/@aiseoandgeo/find-the-right-keywords-get-more-traffic-897c9987fab0?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI Starts Taking Action](https://medium.com/the-gravity/when-ai-starts-taking-action-f4f5399d8e0f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Langfuse for Agent Observability: Stop Hand-Writing Spans](https://pub.towardsai.net/langfuse-for-agent-observability-stop-hand-writing-spans-b8d553626b22?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gemini scored 90.5% on a law exam. Then it had to explain.](https://medium.com/@ikatoch72/gemini-scored-90-5-on-a-law-exam-then-it-had-to-explain-0a7437dd7c5d?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agent HTTP 429 Retry Storms: Build a Shared Retry Budget](https://medium.com/@omanyuk/ai-agent-http-429-retry-storms-build-a-shared-retry-budget-cf1b771dfc31?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Sending Sentinels: Shut Down Asyncio Worker Queues Cleanly in Python 3.14](https://medium.com/@udit.rawat03/stop-sending-sentinels-shut-down-asyncio-worker-queues-cleanly-in-python-3-14-155b697fdc02?source=rss------backend_development-5)**
+> 🔹 **[CTOs: How Do You Decide Whether an AI Agent Is Ready for Production?](https://medium.com/@omanyuk/ctos-how-do-you-decide-whether-an-ai-agent-is-ready-for-production-14e6f3b96bfb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why I’m Building Aria to Help People Follow Through on Fitness](https://medium.com/@riteshprakash1299/why-im-building-aria-to-help-people-follow-through-on-fitness-15ff00a52af8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
