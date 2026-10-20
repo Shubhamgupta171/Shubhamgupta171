@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why a Busy Supermarket Helps Explain AI’s Next Big Challenge](https://medium.com/@theinsightengineer/why-a-busy-supermarket-helps-explain-ais-next-big-challenge-47b7a25595a9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why we stopped using integers for ordering and built an infinite, conflict-free ranking system](https://medium.com/brain-boner/why-we-stopped-using-integers-for-ordering-and-built-an-infinite-conflict-free-ranking-system-5409bd18a409?source=rss------system_design-5)**
-> 🔹 **[Master System Design Interview Series #1: JWT or Server-Side Sessions, Which Should You Actuall...](https://medium.com/@zaydislam25/master-system-design-interview-series-1-jwt-or-server-side-sessions-which-should-you-actually-1fbc1724fa71?source=rss------system_design-5)**
-> 🔹 **[Let’s understand the visual medium the entire world is fascinated with](https://medium.com/@adishakti9876543210/lets-understand-the-visual-medium-the-entire-world-is-fascinated-with-de61da820a25?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Empathy Machine That Feels Nothing](https://uxmag.medium.com/the-empathy-machine-that-feels-nothing-7542456944ee?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Endpoint Is Not the Standard. The Protocol Around It Is.](https://swarnenduiitb2020i.medium.com/the-endpoint-is-not-the-standard-the-protocol-around-it-is-bb0541f8ce00?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can I Use Generative AI for University Reports?](https://medium.com/@teacherzawa/can-i-use-generative-ai-for-university-reports-86c4e2ca6711?source=rss------artificial_intelligence-5)**
-> 🔹 **[NestJS, Spring Boot y FastAPI: ¿importa tanto el lenguaje en 2026?](https://medium.com/@daniel_murillo/nestjs-spring-boot-y-fastapi-importa-tanto-el-lenguaje-en-2026-5fe8452be64c?source=rss------backend_development-5)**
+> 🔹 **[Google Cloud down — major outage across Europe hits big brands, banking apps and more](https://medium.com/@ranegirish24/google-cloud-down-major-outage-across-europe-hits-big-brands-banking-apps-and-more-d0d4fd95cbae?source=rss------system_design-5)**
+> 🔹 **[5 Best MCP Gateways in 2026: Bifrost, IBM ContextForge, Obot, Docker and Microsoft Compared](https://medium.com/@sebuzdugan/5-best-mcp-gateways-in-2026-bifrost-ibm-contextforge-obot-docker-and-microsoft-compared-03d4c566cb08?source=rss------artificial_intelligence-5)**
+> 🔹 **[What is an MCP Server?](https://dhathriblog.medium.com/what-is-an-mcp-server-c07dee72105e?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI’s Study Mode: Check What You Can Do After Closing the Chat](https://zerocodingstartup.medium.com/openais-study-mode-check-what-you-can-do-after-closing-the-chat-95a9ca43ae18?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Observability](https://medium.com/@rhutu.takle/ai-observability-2150ad43e54d?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is a Forward Deployed Engineer? The AI Job Behind Billion-Dollar Bets &lpar;and How to Get It&rpar;](https://medium.com/@dad.faheem/what-is-a-forward-deployed-engineer-the-ai-job-behind-billion-dollar-bets-and-how-to-get-it-8974a7492dd1?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Earned $132.80 on Fiverr Selling AI Services From Pakistan — Here’s the Honest Truth](https://medium.com/@ahfazfaridi/i-earned-132-80-on-fiverr-selling-ai-services-from-pakistan-heres-the-honest-truth-2a937c1e74c4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Exploring the Best AI Agent Platforms in 2026](https://medium.com/@pavlo.shevtsov_12737/exploring-the-best-ai-agent-platforms-in-2026-b9585c7d5e72?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
