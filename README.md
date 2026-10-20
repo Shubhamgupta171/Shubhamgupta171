@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Nearly 1 in 5 Google Reviews May Now Be Written by AI.](https://medium.com/illumination/nearly-1-in-5-google-reviews-may-now-be-written-by-ai-a49ea6e5f8be?source=rss------artificial_intelligence-5)**
-> 🔹 **[No-Code AI Automations for Local Businesses: How Solos Are Hitting $8K–15K/Month in Small Towns](https://medium.com/illumination/no-code-ai-automations-for-local-businesses-how-solos-are-hitting-8k-15k-month-in-small-towns-0f9c6ae0c599?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Humanize AI Text Without Losing Your Keywords](https://medium.com/illumination/how-to-humanize-ai-text-without-losing-your-keywords-59e3144427cb?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI’s Next Big Problem Isn’t Intelligence. It’s Electricity.](https://medium.com/codetodeploy/ais-next-big-problem-isn-t-intelligence-it-s-electricity-784b60e352bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI note taker that doesn’t join the meeting: what works on Mac and Windows in 2026](https://medium.com/@DonaldObrian/ai-note-taker-that-doesnt-join-the-meeting-what-works-on-mac-and-windows-in-2026-2357c5b6808b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Memory Systems in Agentic AI: 20 Interview Questions and Expert Answers](https://medium.com/@zaydislam25/memory-systems-in-agentic-ai-20-interview-questions-and-expert-answers-ed3c4781491e?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a Code Search Engine With EmbeddingGemma 2 in 80 Lines of Python](https://pub.towardsai.net/i-built-a-code-search-engine-with-embeddinggemma-2-in-80-lines-of-python-1b2d5b5cbecc?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Malmoi to AI: How Korea Revived a Century-Old Language Legacy](https://globalpostingskj.medium.com/from-malmoi-to-ai-how-korea-revived-a-century-old-language-legacy-258c259a2e95?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why a Busy Supermarket Helps Explain AI’s Next Big Challenge](https://medium.com/@theinsightengineer/why-a-busy-supermarket-helps-explain-ais-next-big-challenge-47b7a25595a9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why we stopped using integers for ordering and built an infinite, conflict-free ranking system](https://medium.com/brain-boner/why-we-stopped-using-integers-for-ordering-and-built-an-infinite-conflict-free-ranking-system-5409bd18a409?source=rss------system_design-5)**
+> 🔹 **[Master System Design Interview Series #1: JWT or Server-Side Sessions, Which Should You Actuall...](https://medium.com/@zaydislam25/master-system-design-interview-series-1-jwt-or-server-side-sessions-which-should-you-actually-1fbc1724fa71?source=rss------system_design-5)**
+> 🔹 **[Let’s understand the visual medium the entire world is fascinated with](https://medium.com/@adishakti9876543210/lets-understand-the-visual-medium-the-entire-world-is-fascinated-with-de61da820a25?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Empathy Machine That Feels Nothing](https://uxmag.medium.com/the-empathy-machine-that-feels-nothing-7542456944ee?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Endpoint Is Not the Standard. The Protocol Around It Is.](https://swarnenduiitb2020i.medium.com/the-endpoint-is-not-the-standard-the-protocol-around-it-is-bb0541f8ce00?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can I Use Generative AI for University Reports?](https://medium.com/@teacherzawa/can-i-use-generative-ai-for-university-reports-86c4e2ca6711?source=rss------artificial_intelligence-5)**
+> 🔹 **[NestJS, Spring Boot y FastAPI: ¿importa tanto el lenguaje en 2026?](https://medium.com/@daniel_murillo/nestjs-spring-boot-y-fastapi-importa-tanto-el-lenguaje-en-2026-5fe8452be64c?source=rss------backend_development-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
