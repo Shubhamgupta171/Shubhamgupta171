@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Google Cloud down — major outage across Europe hits big brands, banking apps and more](https://medium.com/@ranegirish24/google-cloud-down-major-outage-across-europe-hits-big-brands-banking-apps-and-more-d0d4fd95cbae?source=rss------system_design-5)**
-> 🔹 **[5 Best MCP Gateways in 2026: Bifrost, IBM ContextForge, Obot, Docker and Microsoft Compared](https://medium.com/@sebuzdugan/5-best-mcp-gateways-in-2026-bifrost-ibm-contextforge-obot-docker-and-microsoft-compared-03d4c566cb08?source=rss------artificial_intelligence-5)**
-> 🔹 **[What is an MCP Server?](https://dhathriblog.medium.com/what-is-an-mcp-server-c07dee72105e?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenAI’s Study Mode: Check What You Can Do After Closing the Chat](https://zerocodingstartup.medium.com/openais-study-mode-check-what-you-can-do-after-closing-the-chat-95a9ca43ae18?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Observability](https://medium.com/@rhutu.takle/ai-observability-2150ad43e54d?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is a Forward Deployed Engineer? The AI Job Behind Billion-Dollar Bets &lpar;and How to Get It&rpar;](https://medium.com/@dad.faheem/what-is-a-forward-deployed-engineer-the-ai-job-behind-billion-dollar-bets-and-how-to-get-it-8974a7492dd1?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Earned $132.80 on Fiverr Selling AI Services From Pakistan — Here’s the Honest Truth](https://medium.com/@ahfazfaridi/i-earned-132-80-on-fiverr-selling-ai-services-from-pakistan-heres-the-honest-truth-2a937c1e74c4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Exploring the Best AI Agent Platforms in 2026](https://medium.com/@pavlo.shevtsov_12737/exploring-the-best-ai-agent-platforms-in-2026-b9585c7d5e72?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Productivity Trap: Are We Actually Getting More Done?](https://medium.com/@mdtuhinhossain92666/the-ai-productivity-trap-are-we-actually-getting-more-done-2e047148bb84?source=rss------artificial_intelligence-5)**
+> 🔹 **[Scaling AI-Native Analytics Patterns at Meta](https://medium.com/@AnalyticsAtMeta/scaling-ai-native-analytics-patterns-at-meta-b29162cb46bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[My AI Agent Opened the Tab. The Work Still Wasn’t Done.](https://medium.com/@manjunadhpadarthi/my-ai-agent-opened-the-tab-the-work-still-wasnt-done-06778262838e?source=rss------artificial_intelligence-5)**
+> 🔹 **[SpaceX’s Second Report Card Lands Tonight. Here’s the Bar It Has to Clear.](https://marketliveupdates.medium.com/spacexs-second-report-card-lands-tonight-here-s-the-bar-it-has-to-clear-bf1e88116e89?source=rss------artificial_intelligence-5)**
+> 🔹 **[Developers need to get their sh#t back to CLI](https://medium.com/@yashraj.02594656/developers-need-to-get-their-sh-t-back-to-cli-d993af9b494a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services](https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/)**
+> 🔹 **[Gemini 4 Argon: What Google’s Flagship Model Really Offers](https://medium.com/@zicko.mazumder666/gemini-4-argon-what-googles-flagship-model-really-offers-91182a955afa?source=rss------artificial_intelligence-5)**
+> 🔹 **[Half the Spring Boot Jobs Disappeared in 2026 — Most Developers Still Don’t Know Why](https://medium.com/@kotiavula6/half-the-spring-boot-jobs-disappeared-in-2026-most-developers-still-dont-know-why-ea438a9bd1af?source=rss------backend_development-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
