@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The AI Productivity Trap: Are We Actually Getting More Done?](https://medium.com/@mdtuhinhossain92666/the-ai-productivity-trap-are-we-actually-getting-more-done-2e047148bb84?source=rss------artificial_intelligence-5)**
-> 🔹 **[Scaling AI-Native Analytics Patterns at Meta](https://medium.com/@AnalyticsAtMeta/scaling-ai-native-analytics-patterns-at-meta-b29162cb46bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[My AI Agent Opened the Tab. The Work Still Wasn’t Done.](https://medium.com/@manjunadhpadarthi/my-ai-agent-opened-the-tab-the-work-still-wasnt-done-06778262838e?source=rss------artificial_intelligence-5)**
-> 🔹 **[SpaceX’s Second Report Card Lands Tonight. Here’s the Bar It Has to Clear.](https://marketliveupdates.medium.com/spacexs-second-report-card-lands-tonight-here-s-the-bar-it-has-to-clear-bf1e88116e89?source=rss------artificial_intelligence-5)**
-> 🔹 **[Developers need to get their sh#t back to CLI](https://medium.com/@yashraj.02594656/developers-need-to-get-their-sh-t-back-to-cli-d993af9b494a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services](https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/)**
-> 🔹 **[Gemini 4 Argon: What Google’s Flagship Model Really Offers](https://medium.com/@zicko.mazumder666/gemini-4-argon-what-googles-flagship-model-really-offers-91182a955afa?source=rss------artificial_intelligence-5)**
-> 🔹 **[Half the Spring Boot Jobs Disappeared in 2026 — Most Developers Still Don’t Know Why](https://medium.com/@kotiavula6/half-the-spring-boot-jobs-disappeared-in-2026-most-developers-still-dont-know-why-ea438a9bd1af?source=rss------backend_development-5)**
+> 🔹 **[The Ultimate Senior Backend Engineer Interview Preparation Guide for 2027](https://medium.com/@devrimkodlama/the-ultimate-senior-backend-engineer-interview-preparation-guide-for-2027-f9783a1ff718?source=rss------backend_development-5)**
+> 🔹 **[I Never Pasted My Message Into an AI. The Person I Sent It To Might Have.](https://medium.com/@AIbatros/i-never-pasted-my-message-into-an-ai-the-person-i-sent-it-to-might-have-b2d2024fd392?source=rss------artificial_intelligence-5)**
+> 🔹 **[Chronos vs Instantly &lpar;2026&rpar;: Which Outreach Tool Fits Your Team?](https://medium.com/@shanunnadav/chronos-vs-instantly-2026-which-outreach-tool-fits-your-team-c8fb90fcbfe6?source=rss------artificial_intelligence-5)**
+> 🔹 **[O cansaço parido pelas horas](https://medium.com/@acpgat/o-cansa%C3%A7o-parido-pelas-horas-bb512def8992?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Calling MCP Tools: A Hands-On Guide to Code Mode](https://medium.com/@karthikmapalakaje/stop-calling-mcp-tools-a-hands-on-guide-to-code-mode-069997c3b526?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Asked ChatGPT, Gemini, and Claude How to Make $500 With AI.](https://medium.com/@libansalahabdullahi/i-asked-chatgpt-gemini-and-claude-how-to-make-500-with-ai-0c8b9351ecfa?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is Investing in a Franchise Still Worth It Today?](https://medium.com/@leilanavarro/is-investing-in-a-franchise-still-worth-it-today-2499feac88f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[One Prompt Infinite Possibilities](https://preciouswords.medium.com/one-prompt-infinite-possibilities-a16e850a1d81?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
