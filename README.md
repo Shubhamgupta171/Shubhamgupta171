@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Do 10x More. I Own 10x Less.](https://levelup.gitconnected.com/i-do-10x-more-i-own-10x-less-20f26ed8a671?source=rss----5517fd7b58a6---4)**
-> 🔹 **[SDD Risk Register — Eight Adoption and Operating Risks With KRIs and Owners](https://levelup.gitconnected.com/sdd-risk-register-eight-adoption-and-operating-risks-with-kris-and-owners-09ef73001dc8?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Spring Security Filters Explained: What Happens Before Your Controller Runs?](https://medium.com/@ritanshbagal/spring-security-filters-explained-what-happens-before-your-controller-runs-768497124d20?source=rss------backend_development-5)**
-> 🔹 **[Claude Code Already Reuses Your Components. A Design File Cut 6 Yellow Buttons to 1.](https://levelup.gitconnected.com/claude-code-already-reuses-your-components-a-design-file-cut-6-yellow-buttons-to-1-086cfa616800?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Object Storage in System Design: Where Do Photos and Files Actually Go?](https://levelup.gitconnected.com/object-storage-in-system-design-where-do-photos-and-files-actually-go-472242f22bee?source=rss----5517fd7b58a6---4)**
-> 🔹 **[Your AI Agent Is Only as Reliable as Its 60th Tool Call](https://levelup.gitconnected.com/your-ai-agent-is-only-as-reliable-as-its-60th-tool-call-e9cc79a73e8a?source=rss----5517fd7b58a6---4)**
-> 🔹 **[A Technical Guide to MCP](https://levelup.gitconnected.com/a-technical-guide-to-mcp-d2f81b216303?source=rss----5517fd7b58a6---4)**
-> 🔹 **[How to Read an AI Agent Trace](https://levelup.gitconnected.com/how-to-read-an-ai-agent-trace-fab8e8391506?source=rss----5517fd7b58a6---4)**
+> 🔹 **[How a trip file moves through the Ingestion API](https://medium.com/@surajit.das0320/how-a-trip-file-moves-through-the-ingestion-api-a8882685a526?source=rss------system_design-5)**
+> 🔹 **[Tenstorrent’s $1.5B Bet: Can Your Stack Run It?](https://levelup.gitconnected.com/tenstorrents-1-5b-bet-can-your-stack-run-it-25d48de98ad4?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Tenstorrent’s $1.5B Bet: Can Your Stack Run It?](https://levelup.gitconnected.com/tenstorrents-1-5b-bet-can-your-stack-run-it-25d48de98ad4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Code Was Fast. Fixing It Wasn’t: My Experience With Spec-Driven Development](https://levelup.gitconnected.com/the-code-was-fast-fixing-it-wasnt-my-experience-with-spec-driven-development-334df6b9facf?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Finding the PHP versions in your repos that need the php2shell fix](https://levelup.gitconnected.com/finding-the-php-versions-in-your-repos-that-need-the-php2shell-fix-ddfdb02efe52?source=rss----5517fd7b58a6---4)**
+> 🔹 **[I Pasted a Code Review Into the Wrong Claude Code Session](https://levelup.gitconnected.com/i-pasted-a-code-review-into-the-wrong-claude-code-session-44d4bbd3164f?source=rss----5517fd7b58a6---4)**
+> 🔹 **[We Stopped Importing Spring Into the Domain Module.](https://levelup.gitconnected.com/we-stopped-importing-spring-into-the-domain-module-304038b5af83?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Dependency Injection in .NET &lpar;1&rpar;: The built-in container, lifetimes and scopes](https://levelup.gitconnected.com/dependency-injection-in-net-1-the-built-in-container-lifetimes-and-scopes-6f190c34f790?source=rss----5517fd7b58a6---4)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
