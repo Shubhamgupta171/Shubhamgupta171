@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Ultimate Senior Backend Engineer Interview Preparation Guide for 2027](https://medium.com/@devrimkodlama/the-ultimate-senior-backend-engineer-interview-preparation-guide-for-2027-f9783a1ff718?source=rss------backend_development-5)**
-> 🔹 **[I Never Pasted My Message Into an AI. The Person I Sent It To Might Have.](https://medium.com/@AIbatros/i-never-pasted-my-message-into-an-ai-the-person-i-sent-it-to-might-have-b2d2024fd392?source=rss------artificial_intelligence-5)**
-> 🔹 **[Chronos vs Instantly &lpar;2026&rpar;: Which Outreach Tool Fits Your Team?](https://medium.com/@shanunnadav/chronos-vs-instantly-2026-which-outreach-tool-fits-your-team-c8fb90fcbfe6?source=rss------artificial_intelligence-5)**
-> 🔹 **[O cansaço parido pelas horas](https://medium.com/@acpgat/o-cansa%C3%A7o-parido-pelas-horas-bb512def8992?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Calling MCP Tools: A Hands-On Guide to Code Mode](https://medium.com/@karthikmapalakaje/stop-calling-mcp-tools-a-hands-on-guide-to-code-mode-069997c3b526?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Asked ChatGPT, Gemini, and Claude How to Make $500 With AI.](https://medium.com/@libansalahabdullahi/i-asked-chatgpt-gemini-and-claude-how-to-make-500-with-ai-0c8b9351ecfa?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is Investing in a Franchise Still Worth It Today?](https://medium.com/@leilanavarro/is-investing-in-a-franchise-still-worth-it-today-2499feac88f6?source=rss------artificial_intelligence-5)**
-> 🔹 **[One Prompt Infinite Possibilities](https://preciouswords.medium.com/one-prompt-infinite-possibilities-a16e850a1d81?source=rss------artificial_intelligence-5)**
+> 🔹 **[DeepSeek Just Open-Sourced Its Inference Engine. I Go Through It. Here Is What Is Actually Insi...](https://medium.com/@himanshu157/deepseek-just-open-sourced-its-inference-engine-i-go-through-it-here-is-what-is-actually-inside-752cc8589f01?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents for Quality Engineering — Part 5: Reducing Token Consumption with Modular Domain…](https://medium.com/ai-qa-nexus/ai-agents-for-quality-engineering-part-5-reducing-token-consumption-with-modular-domain-df8eb336396d?source=rss------artificial_intelligence-5)**
+> 🔹 **[One Endpoint, Every Model](https://medium.com/@dassubhranil1998/one-endpoint-every-model-73be318984b6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Assistant Is Trained to Agree With You. Researchers Proved It.](https://medium.com/@rajkanjariya2020/your-ai-assistant-is-trained-to-agree-with-you-researchers-proved-it-68ba28b926fa?source=rss------artificial_intelligence-5)**
+> 🔹 **[Fine-Tune Qwen2.5-1.5B on a Mac, Ship a 1.6 GB GGUF](https://medium.com/@coolercoder/fine-tune-qwen2-5-1-5b-on-a-mac-ship-a-1-6-gb-gguf-cf810973e227?source=rss------artificial_intelligence-5)**
+> 🔹 **[Tarot as a Mirror: How AI and Tarot Can Help You Reclaim Your True Path](https://medium.com/@soultransformation.mimi/tarot-as-a-mirror-how-ai-and-tarot-can-help-you-reclaim-your-true-path-e34b4e53ba96?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Checker So I Didn’t Have to Trust My AI Agent. The Checker Cried Wolf.](https://bobde-yagyesh.medium.com/i-built-a-checker-so-i-didnt-have-to-trust-my-ai-agent-the-checker-cried-wolf-f7cf6c8d825b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Multi-Agent Orchestration in 363 Lines of Python](https://medium.com/@coolercoder/multi-agent-orchestration-in-363-lines-of-python-41df216995a8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
