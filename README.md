@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[DeepSeek Just Open-Sourced Its Inference Engine. I Go Through It. Here Is What Is Actually Insi...](https://medium.com/@himanshu157/deepseek-just-open-sourced-its-inference-engine-i-go-through-it-here-is-what-is-actually-inside-752cc8589f01?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agents for Quality Engineering — Part 5: Reducing Token Consumption with Modular Domain…](https://medium.com/ai-qa-nexus/ai-agents-for-quality-engineering-part-5-reducing-token-consumption-with-modular-domain-df8eb336396d?source=rss------artificial_intelligence-5)**
-> 🔹 **[One Endpoint, Every Model](https://medium.com/@dassubhranil1998/one-endpoint-every-model-73be318984b6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Assistant Is Trained to Agree With You. Researchers Proved It.](https://medium.com/@rajkanjariya2020/your-ai-assistant-is-trained-to-agree-with-you-researchers-proved-it-68ba28b926fa?source=rss------artificial_intelligence-5)**
-> 🔹 **[Fine-Tune Qwen2.5-1.5B on a Mac, Ship a 1.6 GB GGUF](https://medium.com/@coolercoder/fine-tune-qwen2-5-1-5b-on-a-mac-ship-a-1-6-gb-gguf-cf810973e227?source=rss------artificial_intelligence-5)**
-> 🔹 **[Tarot as a Mirror: How AI and Tarot Can Help You Reclaim Your True Path](https://medium.com/@soultransformation.mimi/tarot-as-a-mirror-how-ai-and-tarot-can-help-you-reclaim-your-true-path-e34b4e53ba96?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a Checker So I Didn’t Have to Trust My AI Agent. The Checker Cried Wolf.](https://bobde-yagyesh.medium.com/i-built-a-checker-so-i-didnt-have-to-trust-my-ai-agent-the-checker-cried-wolf-f7cf6c8d825b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Multi-Agent Orchestration in 363 Lines of Python](https://medium.com/@coolercoder/multi-agent-orchestration-in-363-lines-of-python-41df216995a8?source=rss------artificial_intelligence-5)**
+> 🔹 **[How an SVG Icon Platform Supports Websites, Apps, APIs, and Design Systems](https://medium.com/@ashabbar439/how-an-svg-icon-platform-supports-websites-apps-apis-and-design-systems-52b012321eab?source=rss------system_design-5)**
+> 🔹 **[Top 5 Supabase Alternatives for Developers in 2026](https://medium.com/@aatreyaadvith/top-5-supabase-alternatives-for-developers-in-2026-222dd37661ac?source=rss------backend_development-5)**
+> 🔹 **[How to Make AI Work for End-to-End Business Processes](https://generativeai.pub/how-to-make-ai-work-for-end-to-end-business-processes-126f871fb93a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Forward Deployed Engineers: The Missing Role Between AI Demos and Enterprise Production](https://vinitpahwa.medium.com/forward-deployed-engineers-the-missing-role-between-ai-demos-and-enterprise-production-0c1f95800926?source=rss------artificial_intelligence-5)**
+> 🔹 **[LLM Routing Saves Less Than the Papers Claim. Here Is How to Measure Your Own Router](https://medium.com/@syed_ali/llm-routing-saves-less-than-the-papers-claim-here-is-how-to-measure-your-own-router-c4e06aafd50f?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT Ads Are Here. The Fight for AI Visibility Just Changed.](https://medium.com/@backtier/chatgpt-ads-are-here-the-fight-for-ai-visibility-just-changed-5d9945153e04?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can AI tell how sure an eyewitness really is?](https://medium.com/@adam_872/can-ai-tell-how-sure-an-eyewitness-really-is-5093c277deba?source=rss------artificial_intelligence-5)**
+> 🔹 **[Waiting Feels Longer When Nothing Moves](https://medium.com/@mrpeteramajor/waiting-feels-longer-when-nothing-moves-d04132087c04?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
