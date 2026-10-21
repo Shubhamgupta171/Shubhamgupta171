@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How an SVG Icon Platform Supports Websites, Apps, APIs, and Design Systems](https://medium.com/@ashabbar439/how-an-svg-icon-platform-supports-websites-apps-apis-and-design-systems-52b012321eab?source=rss------system_design-5)**
-> 🔹 **[Top 5 Supabase Alternatives for Developers in 2026](https://medium.com/@aatreyaadvith/top-5-supabase-alternatives-for-developers-in-2026-222dd37661ac?source=rss------backend_development-5)**
-> 🔹 **[How to Make AI Work for End-to-End Business Processes](https://generativeai.pub/how-to-make-ai-work-for-end-to-end-business-processes-126f871fb93a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Forward Deployed Engineers: The Missing Role Between AI Demos and Enterprise Production](https://vinitpahwa.medium.com/forward-deployed-engineers-the-missing-role-between-ai-demos-and-enterprise-production-0c1f95800926?source=rss------artificial_intelligence-5)**
-> 🔹 **[LLM Routing Saves Less Than the Papers Claim. Here Is How to Measure Your Own Router](https://medium.com/@syed_ali/llm-routing-saves-less-than-the-papers-claim-here-is-how-to-measure-your-own-router-c4e06aafd50f?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT Ads Are Here. The Fight for AI Visibility Just Changed.](https://medium.com/@backtier/chatgpt-ads-are-here-the-fight-for-ai-visibility-just-changed-5d9945153e04?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can AI tell how sure an eyewitness really is?](https://medium.com/@adam_872/can-ai-tell-how-sure-an-eyewitness-really-is-5093c277deba?source=rss------artificial_intelligence-5)**
-> 🔹 **[Waiting Feels Longer When Nothing Moves](https://medium.com/@mrpeteramajor/waiting-feels-longer-when-nothing-moves-d04132087c04?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Do 10x More. I Own 10x Less.](https://levelup.gitconnected.com/i-do-10x-more-i-own-10x-less-20f26ed8a671?source=rss----5517fd7b58a6---4)**
+> 🔹 **[SDD Risk Register — Eight Adoption and Operating Risks With KRIs and Owners](https://levelup.gitconnected.com/sdd-risk-register-eight-adoption-and-operating-risks-with-kris-and-owners-09ef73001dc8?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Spring Security Filters Explained: What Happens Before Your Controller Runs?](https://medium.com/@ritanshbagal/spring-security-filters-explained-what-happens-before-your-controller-runs-768497124d20?source=rss------backend_development-5)**
+> 🔹 **[Claude Code Already Reuses Your Components. A Design File Cut 6 Yellow Buttons to 1.](https://levelup.gitconnected.com/claude-code-already-reuses-your-components-a-design-file-cut-6-yellow-buttons-to-1-086cfa616800?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Object Storage in System Design: Where Do Photos and Files Actually Go?](https://levelup.gitconnected.com/object-storage-in-system-design-where-do-photos-and-files-actually-go-472242f22bee?source=rss----5517fd7b58a6---4)**
+> 🔹 **[Your AI Agent Is Only as Reliable as Its 60th Tool Call](https://levelup.gitconnected.com/your-ai-agent-is-only-as-reliable-as-its-60th-tool-call-e9cc79a73e8a?source=rss----5517fd7b58a6---4)**
+> 🔹 **[A Technical Guide to MCP](https://levelup.gitconnected.com/a-technical-guide-to-mcp-d2f81b216303?source=rss----5517fd7b58a6---4)**
+> 🔹 **[How to Read an AI Agent Trace](https://levelup.gitconnected.com/how-to-read-an-ai-agent-trace-fab8e8391506?source=rss----5517fd7b58a6---4)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
