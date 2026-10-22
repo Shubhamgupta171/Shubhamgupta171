@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Maintaining a 10-Year-Old Spring Codebase: What I Wish Previous Devs Had Left Behind](https://medium.com/@pudarimadhavi99/maintaining-a-10-year-old-spring-codebase-what-i-wish-previous-devs-had-left-behind-986a5833ef38?source=rss------backend_development-5)**
-> 🔹 **[When to use a diffusion LLM: I compared DiffusionGemma and Gemma 4](https://medium.com/google-cloud/when-to-use-a-diffusion-llm-i-compared-diffusiongemma-and-gemma-4-0e5704b67458?source=rss------artificial_intelligence-5)**
-> 🔹 **[CoreWeave Follows Oracle: The Next Trigger for the AI Bubble’s Implosion](https://sergeykleftzov.medium.com/coreweave-follows-oracle-the-next-trigger-for-the-ai-bubbles-implosion-49caec05a8ef?source=rss------artificial_intelligence-5)**
-> 🔹 **[1,200 AI Agents Found Each Other in a Package Folder](https://medium.com/@max.petrusenko/1-200-ai-agents-found-each-other-in-a-package-folder-43f25a99c92e?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Code Review: Which Changes Still Need a Human?](https://pub.towardsai.net/ai-code-review-which-changes-still-need-a-human-20b90d02b393?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Moving Fast. Are Women Getting a Fair Chance?](https://medium.com/womenintechnology/ai-is-moving-fast-are-women-getting-a-fair-chance-871d6a7036ca?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Moved to Local AI for Privacy. Here Are the 5 Layers I Forgot to Secure](https://medium.com/@loengnavy/i-moved-to-local-ai-for-privacy-here-are-the-5-layers-i-forgot-to-secure-ff2d27581210?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Economy Is Growing. Try Telling That to Your Grocery Bill.](https://michael-bennett.medium.com/the-economy-is-growing-try-telling-that-to-your-grocery-bill-82615b94eb11?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Other Inflation: Tech Credit Is Repricing, and Crypto Is Feeling It](https://medium.com/@indefi.io/the-other-inflation-tech-credit-is-repricing-and-crypto-is-feeling-it-199723764233?source=rss------artificial_intelligence-5)**
+> 🔹 **[A beginner path to learning AI without a CS degree &lpar;from a Sri Lankan AI educator&rpar;](https://medium.com/@kdjayakody/a-beginner-path-to-learning-ai-without-a-cs-degree-from-a-sri-lankan-ai-educator-39c5cf99adae?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Returns Are the Best Data You Have. Most Stores Throw It Away.](https://medium.com/@oleggalat/your-returns-are-the-best-data-you-have-most-stores-throw-it-away-4922a05b3964?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can an AI Agent Replace Your Code Security Scanner? I Tested It.](https://medium.com/@yn2426/can-an-ai-agent-replace-your-code-security-scanner-i-tested-it-76557476a68f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google Is Marxist. No Wonder Your Kids Are, Too.](https://medium.com/@ghrosenb/google-is-marxist-no-wonder-your-kids-are-too-1259dd7d64b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[20 AI Tools That Could Save You 5 Hours Every Week](https://medium.com/@arunxvisuals/20-ai-tools-that-could-save-you-5-hours-every-week-115a1be271f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Host Your Own System 1 Decision Model: Serving DiffusionGemma 26B on the Gemini Enterprise Agen...](https://medium.com/google-cloud/host-your-own-system-1-decision-model-serving-diffusiongemma-26b-on-the-gemini-enterprise-agent-f8bbdaf9ddf8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Влезет ли модель в видеокарту: считаем VRAM для LLM за минуту](https://medium.com/@anton_krilov/%D0%B2%D0%BB%D0%B5%D0%B7%D0%B5%D1%82-%D0%BB%D0%B8-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C-%D0%B2-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D1%83-%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%B5%D0%BC-vram-%D0%B4%D0%BB%D1%8F-llm-%D0%B7%D0%B0-%D0%BC%D0%B8%D0%BD%D1%83%D1%82%D1%83-eb157d275166?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
