@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Hostinger Bundle: 5 Things to Check Before You Buy](https://medium.com/@mentors.review/hostinger-bundle-5-things-to-check-before-you-buy-7ac2fb7b3f13?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Small Businesses Can Use AI Without Putting Their Data at Risk](https://medium.com/@exuberant_global/how-small-businesses-can-use-ai-without-putting-their-data-at-risk-e5b7bc52ca80?source=rss------artificial_intelligence-5)**
-> 🔹 **[Skills, Agents, GPTs, and Projects: A Field Guide to the New AI Vocabulary](https://medium.com/@FutureTechForecast/skills-agents-gpts-and-projects-a-field-guide-to-the-new-ai-vocabulary-2bb66bdf0fc8?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI-Powered Development: Rethinking the Journey From Prototype to Production](https://medium.com/@marcom.palt/ai-powered-development-rethinking-the-journey-from-prototype-to-production-80eb302ed934?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Improves Mobile App Performance Before and After Launch](https://medium.com/@hey.saras01/how-ai-improves-mobile-app-performance-before-and-after-launch-e87f8eeac222?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT Now Lets You Lock Sensitive Chats Behind a PIN: Here’s How It Works](https://medium.com/@TanyaSharmaWrites/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin-heres-how-it-works-02507faf3037?source=rss------artificial_intelligence-5)**
-> 🔹 **[Spring JDBC Interview Questions: JdbcTemplate, Transactions, Batch Updates, and Production-Leve...](https://medium.com/@theturtlecode/spring-jdbc-interview-questions-jdbctemplate-transactions-batch-updates-and-production-level-dd337cd179f3?source=rss------backend_development-5)**
-> 🔹 **[Spring JDBC Interview Questions: JdbcTemplate, Transactions, Batch Updates, and Production-Leve...](https://medium.com/@theturtlecode/spring-jdbc-interview-questions-jdbctemplate-transactions-batch-updates-and-production-level-dd337cd179f3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Maintaining a 10-Year-Old Spring Codebase: What I Wish Previous Devs Had Left Behind](https://medium.com/@pudarimadhavi99/maintaining-a-10-year-old-spring-codebase-what-i-wish-previous-devs-had-left-behind-986a5833ef38?source=rss------backend_development-5)**
+> 🔹 **[When to use a diffusion LLM: I compared DiffusionGemma and Gemma 4](https://medium.com/google-cloud/when-to-use-a-diffusion-llm-i-compared-diffusiongemma-and-gemma-4-0e5704b67458?source=rss------artificial_intelligence-5)**
+> 🔹 **[CoreWeave Follows Oracle: The Next Trigger for the AI Bubble’s Implosion](https://sergeykleftzov.medium.com/coreweave-follows-oracle-the-next-trigger-for-the-ai-bubbles-implosion-49caec05a8ef?source=rss------artificial_intelligence-5)**
+> 🔹 **[1,200 AI Agents Found Each Other in a Package Folder](https://medium.com/@max.petrusenko/1-200-ai-agents-found-each-other-in-a-package-folder-43f25a99c92e?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Code Review: Which Changes Still Need a Human?](https://pub.towardsai.net/ai-code-review-which-changes-still-need-a-human-20b90d02b393?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Moving Fast. Are Women Getting a Fair Chance?](https://medium.com/womenintechnology/ai-is-moving-fast-are-women-getting-a-fair-chance-871d6a7036ca?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Moved to Local AI for Privacy. Here Are the 5 Layers I Forgot to Secure](https://medium.com/@loengnavy/i-moved-to-local-ai-for-privacy-here-are-the-5-layers-i-forgot-to-secure-ff2d27581210?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Economy Is Growing. Try Telling That to Your Grocery Bill.](https://michael-bennett.medium.com/the-economy-is-growing-try-telling-that-to-your-grocery-bill-82615b94eb11?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
