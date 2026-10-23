@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Jev “Can’t Hallucinate.” It Can Still Be Confidently Wrong.](https://medium.com/@jithprime/jev-cant-hallucinate-it-can-still-be-confidently-wrong-323084eaaec2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Category Mismatch Risk: When an Influencer’s Audience Doesn’t Match Your Buyer](https://medium.com/@officialajmal36/the-category-mismatch-risk-when-an-influencers-audience-doesn-t-match-your-buyer-56851aa71322?source=rss------artificial_intelligence-5)**
-> 🔹 **[We’re Becoming Better at Prompting and Worse at Thinking. Are We?](https://medium.com/@negiavnish1000/were-becoming-better-at-prompting-and-worse-at-thinking-are-we-4761615ab1fc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Set Up an Always-On Monday Digest with QwenWork](https://alibaba-cloud.medium.com/set-up-an-always-on-monday-digest-with-qwenwork-043412107813?source=rss------artificial_intelligence-5)**
-> 🔹 **[PHP2Shell: Anatomy of a 20-Year-Old PHP RCE](https://medium.com/@N33b_0x1/php2shell-anatomy-of-a-20-year-old-php-rce-e3f754c12b43?source=rss------artificial_intelligence-5)**
-> 🔹 **[Clean, Analyze, and Chart Messy Sales Data with QwenWork](https://alibaba-cloud.medium.com/clean-analyze-and-chart-messy-sales-data-with-qwenwork-333aace904bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Simple AI Study Workflow That Actually Helps You Learn](https://medium.com/@davidwilliams1710/simple-ai-study-workflow-that-actually-helps-you-learn-eda49682dca9?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Stopped Speaking. Did the Calendar Task Finish?](https://riku0325.medium.com/the-ai-stopped-speaking-did-the-calendar-task-finish-3db2c46d9bb2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Are We Months Away From AI Improving Itself? A New Report Says Yes](https://medium.com/@virtualguild.ai/are-we-months-away-from-ai-improving-itself-a-new-report-says-yes-ff7c85176373?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Token Cost Estimates: Why Caching Makes Them Too High](https://medium.com/@archiqlabs/ai-token-cost-estimates-why-caching-makes-them-too-high-6e7beba4bae0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Every Component Was Approved. The Screen Was Still Wrong.](https://medium.com/enterprise-experience-architecture/every-component-was-approved-the-screen-was-still-wrong-6e57d800940f?source=rss------artificial_intelligence-5)**
+> 🔹 **[La “pregunta” constituye el mundo](https://medium.com/@davidramirezszpigiel/la-pregunta-constituye-el-mundo-50030d3ff674?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Creating an Abundance of Execution. It Is Not Creating an Abundance of Intent.](https://timhourigan.medium.com/ai-is-creating-an-abundance-of-execution-it-is-not-creating-an-abundance-of-intent-accbc7ddff4b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why AI Keeps Changing Your Objects Between Scenes](https://medium.com/@yusranaeem/why-ai-keeps-changing-your-objects-between-scenes-1d545c4bdd67?source=rss------artificial_intelligence-5)**
+> 🔹 **[Harness Engineering in Under 3 Mins: How to Make AI Coding Agents Reliable](https://medium.com/@serkankorkut/harness-engineering-in-under-3-mins-336e18813a41?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Ask for a LinkedIn Recommendation That Actually Gets Written](https://swiftovicconnect.medium.com/how-to-ask-for-a-linkedin-recommendation-that-actually-gets-written-abf37d3951e6?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
