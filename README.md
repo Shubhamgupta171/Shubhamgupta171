@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Redis Internals Explained: From In-Memory Caching to Spring Boot](https://medium.com/@TechDeepDive/redis-internals-explained-from-in-memory-caching-to-spring-boot-6dcda3963e27?source=rss------system_design-5)**
-> 🔹 **[How to Make Sure AI-Generated Code Is Actually Correct](https://medium.com/@karthik.joshi103/how-to-make-sure-ai-generated-code-is-actually-correct-3c0fae5f0c4f?source=rss------backend_development-5)**
-> 🔹 **[Your Next Opportunity Starts With Your Next Challenge](https://medium.com/@ipuls/your-next-opportunity-starts-with-your-next-challenge-a71040269eb7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mastering Regression Test Cases: How to Build, Prioritize, and Automate for Continuous Delivery](https://medium.com/@Global_Executive/mastering-regression-test-cases-how-to-build-prioritize-and-automate-for-continuous-delivery-54128828eb39?source=rss------artificial_intelligence-5)**
-> 🔹 **[Zoho Books Autoscan limits: 50, 200 or 1,000 a month](https://medium.com/@invoreg/zoho-books-autoscan-limits-50-200-or-1-000-a-month-7ca54275ee21?source=rss------artificial_intelligence-5)**
-> 🔹 **[Muse Invite Code + Honest Review: What Meta’s AI Agent Actually Does All Day](https://medium.com/@lrlnet168/muse-invite-code-honest-review-what-metas-ai-agent-actually-does-all-day-abd743d1b3aa?source=rss------artificial_intelligence-5)**
-> 🔹 **[LIVE AN ENCOURAGING LIFE: BECOME A REASON SOMEONE KEEPS GOING](https://medium.com/@nwaorgueze566/live-an-encouraging-life-become-a-reason-someone-keeps-going-9cba7d91cb6d?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I built a tool that finds jobs, matches them to my résumé, and keeps the AI from making thi...](https://medium.com/@kapil10kumar2004/how-i-built-a-tool-that-finds-jobs-matches-them-to-my-r%C3%A9sum%C3%A9-and-keeps-the-ai-from-making-things-1a9f39771ac7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Jev “Can’t Hallucinate.” It Can Still Be Confidently Wrong.](https://medium.com/@jithprime/jev-cant-hallucinate-it-can-still-be-confidently-wrong-323084eaaec2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Category Mismatch Risk: When an Influencer’s Audience Doesn’t Match Your Buyer](https://medium.com/@officialajmal36/the-category-mismatch-risk-when-an-influencers-audience-doesn-t-match-your-buyer-56851aa71322?source=rss------artificial_intelligence-5)**
+> 🔹 **[We’re Becoming Better at Prompting and Worse at Thinking. Are We?](https://medium.com/@negiavnish1000/were-becoming-better-at-prompting-and-worse-at-thinking-are-we-4761615ab1fc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Set Up an Always-On Monday Digest with QwenWork](https://alibaba-cloud.medium.com/set-up-an-always-on-monday-digest-with-qwenwork-043412107813?source=rss------artificial_intelligence-5)**
+> 🔹 **[PHP2Shell: Anatomy of a 20-Year-Old PHP RCE](https://medium.com/@N33b_0x1/php2shell-anatomy-of-a-20-year-old-php-rce-e3f754c12b43?source=rss------artificial_intelligence-5)**
+> 🔹 **[Clean, Analyze, and Chart Messy Sales Data with QwenWork](https://alibaba-cloud.medium.com/clean-analyze-and-chart-messy-sales-data-with-qwenwork-333aace904bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Simple AI Study Workflow That Actually Helps You Learn](https://medium.com/@davidwilliams1710/simple-ai-study-workflow-that-actually-helps-you-learn-eda49682dca9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Stopped Speaking. Did the Calendar Task Finish?](https://riku0325.medium.com/the-ai-stopped-speaking-did-the-calendar-task-finish-3db2c46d9bb2?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
