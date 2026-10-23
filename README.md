@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Other Inflation: Tech Credit Is Repricing, and Crypto Is Feeling It](https://medium.com/@indefi.io/the-other-inflation-tech-credit-is-repricing-and-crypto-is-feeling-it-199723764233?source=rss------artificial_intelligence-5)**
-> 🔹 **[A beginner path to learning AI without a CS degree &lpar;from a Sri Lankan AI educator&rpar;](https://medium.com/@kdjayakody/a-beginner-path-to-learning-ai-without-a-cs-degree-from-a-sri-lankan-ai-educator-39c5cf99adae?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Returns Are the Best Data You Have. Most Stores Throw It Away.](https://medium.com/@oleggalat/your-returns-are-the-best-data-you-have-most-stores-throw-it-away-4922a05b3964?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can an AI Agent Replace Your Code Security Scanner? I Tested It.](https://medium.com/@yn2426/can-an-ai-agent-replace-your-code-security-scanner-i-tested-it-76557476a68f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google Is Marxist. No Wonder Your Kids Are, Too.](https://medium.com/@ghrosenb/google-is-marxist-no-wonder-your-kids-are-too-1259dd7d64b3?source=rss------artificial_intelligence-5)**
-> 🔹 **[20 AI Tools That Could Save You 5 Hours Every Week](https://medium.com/@arunxvisuals/20-ai-tools-that-could-save-you-5-hours-every-week-115a1be271f6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Host Your Own System 1 Decision Model: Serving DiffusionGemma 26B on the Gemini Enterprise Agen...](https://medium.com/google-cloud/host-your-own-system-1-decision-model-serving-diffusiongemma-26b-on-the-gemini-enterprise-agent-f8bbdaf9ddf8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Влезет ли модель в видеокарту: считаем VRAM для LLM за минуту](https://medium.com/@anton_krilov/%D0%B2%D0%BB%D0%B5%D0%B7%D0%B5%D1%82-%D0%BB%D0%B8-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C-%D0%B2-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D1%83-%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%B5%D0%BC-vram-%D0%B4%D0%BB%D1%8F-llm-%D0%B7%D0%B0-%D0%BC%D0%B8%D0%BD%D1%83%D1%82%D1%83-eb157d275166?source=rss------artificial_intelligence-5)**
+> 🔹 **[Redis Internals Explained: From In-Memory Caching to Spring Boot](https://medium.com/@TechDeepDive/redis-internals-explained-from-in-memory-caching-to-spring-boot-6dcda3963e27?source=rss------system_design-5)**
+> 🔹 **[How to Make Sure AI-Generated Code Is Actually Correct](https://medium.com/@karthik.joshi103/how-to-make-sure-ai-generated-code-is-actually-correct-3c0fae5f0c4f?source=rss------backend_development-5)**
+> 🔹 **[Your Next Opportunity Starts With Your Next Challenge](https://medium.com/@ipuls/your-next-opportunity-starts-with-your-next-challenge-a71040269eb7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mastering Regression Test Cases: How to Build, Prioritize, and Automate for Continuous Delivery](https://medium.com/@Global_Executive/mastering-regression-test-cases-how-to-build-prioritize-and-automate-for-continuous-delivery-54128828eb39?source=rss------artificial_intelligence-5)**
+> 🔹 **[Zoho Books Autoscan limits: 50, 200 or 1,000 a month](https://medium.com/@invoreg/zoho-books-autoscan-limits-50-200-or-1-000-a-month-7ca54275ee21?source=rss------artificial_intelligence-5)**
+> 🔹 **[Muse Invite Code + Honest Review: What Meta’s AI Agent Actually Does All Day](https://medium.com/@lrlnet168/muse-invite-code-honest-review-what-metas-ai-agent-actually-does-all-day-abd743d1b3aa?source=rss------artificial_intelligence-5)**
+> 🔹 **[LIVE AN ENCOURAGING LIFE: BECOME A REASON SOMEONE KEEPS GOING](https://medium.com/@nwaorgueze566/live-an-encouraging-life-become-a-reason-someone-keeps-going-9cba7d91cb6d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I built a tool that finds jobs, matches them to my résumé, and keeps the AI from making thi...](https://medium.com/@kapil10kumar2004/how-i-built-a-tool-that-finds-jobs-matches-them-to-my-r%C3%A9sum%C3%A9-and-keeps-the-ai-from-making-things-1a9f39771ac7?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
