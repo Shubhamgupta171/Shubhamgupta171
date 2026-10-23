@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Are We Months Away From AI Improving Itself? A New Report Says Yes](https://medium.com/@virtualguild.ai/are-we-months-away-from-ai-improving-itself-a-new-report-says-yes-ff7c85176373?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Token Cost Estimates: Why Caching Makes Them Too High](https://medium.com/@archiqlabs/ai-token-cost-estimates-why-caching-makes-them-too-high-6e7beba4bae0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Every Component Was Approved. The Screen Was Still Wrong.](https://medium.com/enterprise-experience-architecture/every-component-was-approved-the-screen-was-still-wrong-6e57d800940f?source=rss------artificial_intelligence-5)**
-> 🔹 **[La “pregunta” constituye el mundo](https://medium.com/@davidramirezszpigiel/la-pregunta-constituye-el-mundo-50030d3ff674?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Creating an Abundance of Execution. It Is Not Creating an Abundance of Intent.](https://timhourigan.medium.com/ai-is-creating-an-abundance-of-execution-it-is-not-creating-an-abundance-of-intent-accbc7ddff4b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why AI Keeps Changing Your Objects Between Scenes](https://medium.com/@yusranaeem/why-ai-keeps-changing-your-objects-between-scenes-1d545c4bdd67?source=rss------artificial_intelligence-5)**
-> 🔹 **[Harness Engineering in Under 3 Mins: How to Make AI Coding Agents Reliable](https://medium.com/@serkankorkut/harness-engineering-in-under-3-mins-336e18813a41?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Ask for a LinkedIn Recommendation That Actually Gets Written](https://swiftovicconnect.medium.com/how-to-ask-for-a-linkedin-recommendation-that-actually-gets-written-abf37d3951e6?source=rss------artificial_intelligence-5)**
+> 🔹 **[The $0 AI Toolkit Every Blogger, YouTuber, and Podcaster Should Bookmark](https://medium.com/@arunxvisuals/the-0-ai-toolkit-every-blogger-youtuber-and-podcaster-should-bookmark-53f777dab4bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Growing Businesses Need More Than Just a Website](https://medium.com/@smsh595/why-growing-businesses-need-more-than-just-a-website-085d2b924c9b?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Everyday People Use AI to Get More Done in Half the Time](https://medium.com/illumination/how-everyday-people-use-ai-to-get-more-done-in-half-the-time-b58e20b8dd32?source=rss------artificial_intelligence-5)**
+> 🔹 **[Do Not Make the User Wait: A Practical Guide to Queues and Background Jobs, and Why Your Job Wi...](https://dtechwizard.medium.com/do-not-make-the-user-wait-a-practical-guide-to-queues-and-background-jobs-and-why-your-job-will-fcf459494bbf?source=rss------backend_development-5)**
+> 🔹 **[Anthropic Studied Its Own Workforce, and Junior Technical Hires Fell From 27% to 9%](https://medium.com/illumination/anthropic-studied-its-own-workforce-and-junior-technical-hires-fell-from-27-to-9-5ffbef0daaa4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building Medical Superintelligence](https://medium.com/@YousfiAymane/building-medical-superintelligence-0700b9f3dd61?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Fence Is No Longer Hidden](https://medium.com/@ricisipjr/the-fence-is-no-longer-hidden-32a5faae344a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Architecture Behind a More Accountable AI Coding Workflow](https://medium.com/@pubudut/the-architecture-behind-a-more-accountable-ai-coding-workflow-1f93ff84b5dd?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
