@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Replace Repeated Django Lookups with in_bulk](https://medium.com/@djangowiki/replace-repeated-django-lookups-with-in-bulk-79ca7a437c9a?source=rss------backend_development-5)**
-> 🔹 **[AI Jobs Without Coding: 5 Paths to a Six-Figure Career](https://medium.com/ai-simplified-in-plain-english/ai-jobs-without-coding-5-paths-to-a-six-figure-career-e1ab8f24a18d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Companion Knows Too Much: What Happens to Your Chats When the Company Is Sold?](https://medium.com/@watan4be7/your-ai-companion-knows-too-much-what-happens-to-your-chats-when-the-company-is-sold-9b79c50fd87a?source=rss------artificial_intelligence-5)**
-> 🔹 **[When Code Becomes as Cheap as Light, What Will Be Valuable?](https://medium.com/@iyakin.yz/when-code-becomes-as-cheap-as-light-what-will-be-valuable-34683b5794bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Vendor Showed You a Demo. Here Are 4 Questions That Actually Matter.](https://medium.com/@asynk.in/your-ai-vendor-showed-you-a-demo-here-are-4-questions-that-actually-matter-2c49c531f72e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The New Era of Digital Marketing for Businesses](https://medium.com/@trackpi/the-new-era-of-digital-marketing-for-businesses-c902438cacda?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Got Into Meta&#39;s $1M Global AI Developer Hackathon](https://medium.com/@hari12.nhk/i-got-into-metas-1m-global-ai-developer-hackathon-56be6bc81075?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Sell AI-Generated Music Online for Free &lpar;Legally and Commercially&rpar;](https://medium.com/@sevenskytech1/how-to-sell-ai-generated-music-online-for-free-legally-and-commercially-f23aa036f3af?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kafka Backpressure and the Rebalance Storm Nobody Warns You About](https://medium.com/@CyberScribe/kafka-backpressure-and-the-rebalance-storm-nobody-warns-you-about-e72f54f1c34b?source=rss------backend_development-5)**
+> 🔹 **[Upgrade Your Testing Skills with Playwright with AI!](https://medium.com/@shravankumargoud55/upgrade-your-testing-skills-with-playwright-with-ai-f189b96df27b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Online Earning in Pakistan:](https://medium.com/@zee291124/online-earning-in-pakistan-dcf24a89d2dc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Productivity Boom Has a Hidden Bill](https://medium.com/navigating-the-ai-revolution/your-ai-productivity-boom-has-a-hidden-bill-ce97f7c25703?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Switch](https://medium.com/@warwickhumphries/the-switch-0437bf6fbf48?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who Decided What Your Life Is For?](https://medium.com/@dcorrupts/who-decided-what-your-life-is-for-491e8be75124?source=rss------artificial_intelligence-5)**
+> 🔹 **[Two Rulebooks](https://medium.com/@BarbaraD.Maxwell/two-rulebooks-98a96355c1ce?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building memory for a machine that forgets: a debugging diary](https://grydin.medium.com/building-memory-for-a-machine-that-forgets-a-debugging-diary-104632b9816d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
