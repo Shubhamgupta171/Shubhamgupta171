@@ -34,14 +34,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Kafka Backpressure and the Rebalance Storm Nobody Warns You About](https://medium.com/@CyberScribe/kafka-backpressure-and-the-rebalance-storm-nobody-warns-you-about-e72f54f1c34b?source=rss------backend_development-5)**
-> 🔹 **[Upgrade Your Testing Skills with Playwright with AI!](https://medium.com/@shravankumargoud55/upgrade-your-testing-skills-with-playwright-with-ai-f189b96df27b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Online Earning in Pakistan:](https://medium.com/@zee291124/online-earning-in-pakistan-dcf24a89d2dc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Productivity Boom Has a Hidden Bill](https://medium.com/navigating-the-ai-revolution/your-ai-productivity-boom-has-a-hidden-bill-ce97f7c25703?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Switch](https://medium.com/@warwickhumphries/the-switch-0437bf6fbf48?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who Decided What Your Life Is For?](https://medium.com/@dcorrupts/who-decided-what-your-life-is-for-491e8be75124?source=rss------artificial_intelligence-5)**
-> 🔹 **[Two Rulebooks](https://medium.com/@BarbaraD.Maxwell/two-rulebooks-98a96355c1ce?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building memory for a machine that forgets: a debugging diary](https://grydin.medium.com/building-memory-for-a-machine-that-forgets-a-debugging-diary-104632b9816d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Trying AI Is Not the Same as Knowing It Helps](https://medium.com/@emergentinnovationco/trying-ai-is-not-the-same-as-knowing-it-helps-3c336750ccc4?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Autonomous Shift: When Artificial Intelligence Stops Responding and Starts Acting
+For decad...](https://medium.com/@mobinmajidi24/the-autonomous-shift-when-artificial-intelligence-stops-responding-and-starts-acting-for-decades-a40926df4360?source=rss------artificial_intelligence-5)**
+> 🔹 **[DDD in .NET 10: Explained](https://medium.com/@aselakotagama/ddd-in-net-10-explained-38a92d3ddf72?source=rss------backend_development-5)**
+> 🔹 **[AI-Assisted Software Delivery: From Code to Production](https://medium.com/@shahbazalisyed/ai-assisted-software-delivery-from-code-to-production-b910d37c721e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Tidio Alternatives in 2026: 4 Options When Lyro’s Conversation Quotas Add Up](https://medium.com/@appierun/tidio-alternatives-in-2026-4-options-when-lyros-conversation-quotas-add-up-ca8534edd43a?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Best Free Coursera Courses to Learn AI in 2026–27 &lpar;from Google and IBM&rpar;](https://medium.com/free-programming-books-and-courses/5-best-free-coursera-courses-to-learn-ai-in-2026-27-from-google-and-ibm-db0624413182?source=rss------artificial_intelligence-5)**
+> 🔹 **[You Already Paid for That Customer. Do Not Let Them Leave Quietly.](https://medium.com/@automatedincomelifestyle/you-already-paid-for-that-customer-do-not-let-them-leave-quietly-829bef190cfa?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Universe Keeps Leaving Notes in Odd Places](https://fahrikarakas.medium.com/the-universe-keeps-leaving-notes-in-odd-places-f2a26ed5aafb?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
