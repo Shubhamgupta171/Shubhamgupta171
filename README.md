@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[An agent that may only work on the front of the queue](https://medium.com/mobilebytesensei/an-agent-that-may-only-work-on-the-front-of-the-queue-e8bf8f170def?source=rss------artificial_intelligence-5)**
-> 🔹 **[An evaluator with two outcomes will pick one](https://medium.com/mobilebytesensei/an-evaluator-with-two-outcomes-will-pick-one-242a3b78c188?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agents Are Not the Problem. Our Relationship with Digital Services Is Changing.](https://medium.com/@ncaraliceanews/ai-agents-are-not-the-problem-our-relationship-with-digital-services-is-changing-ec6e37ff991e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop counting findings and start counting empty rounds](https://medium.com/mobilebytesensei/stop-counting-findings-and-start-counting-empty-rounds-ebfa82d3086a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can you take your selfies back? 8 questions about deleting what you uploaded to an AI photo too...](https://medium.com/@better_shots_ai_tools/can-you-take-your-selfies-back-8-questions-about-deleting-what-you-uploaded-to-an-ai-photo-tool-ec2f3c2dcf0c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Say what you truncated or the report is a lie](https://medium.com/mobilebytesensei/say-what-you-truncated-or-the-report-is-a-lie-4e97a3adb48d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Reshoot or switch to AI? 7 questions for men whose phone photos keep falling short](https://medium.com/@better_shots_phone_photography/reshoot-or-switch-to-ai-7-questions-for-men-whose-phone-photos-keep-falling-short-1a6ca3442c61?source=rss------artificial_intelligence-5)**
-> 🔹 **[What a full AI tool stack costs in 2026, and 5 ways to pay less](https://medium.com/@lukassoftware/what-a-full-ai-tool-stack-costs-in-2026-and-5-ways-to-pay-less-9057bab33c23?source=rss------artificial_intelligence-5)**
+> 🔹 **[PSLF Appeals Dropped: What to Check](https://medium.com/@sumbalabbas45/pslf-appeals-dropped-what-to-check-018aa4601b86?source=rss------artificial_intelligence-5)**
+> 🔹 **[Hugging Face Just Shipped a $399 Robot Duck. Here’s What It Actually Means for NVIDIA.](https://medium.com/@omshree0709/hugging-face-just-shipped-a-399-robot-duck-heres-what-it-actually-means-for-nvidia-44e50518c65c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nvidia Now Ships an AI Data Center on the Back of a Truck](https://medium.com/@harish_75257/nvidia-now-ships-an-ai-data-center-on-the-back-of-a-truck-c8c54e92e460?source=rss------artificial_intelligence-5)**
+> 🔹 **[27 Seconds vs. 247 Days: Cybersecurity Is a Race Against Time, and AI Is Changing the Math](https://medium.com/@anseldsouza068/27-seconds-vs-247-days-cybersecurity-is-a-race-against-time-and-ai-is-changing-the-math-8928d6147b79?source=rss------artificial_intelligence-5)**
+> 🔹 **[30 AI Concepts I Tested Instead of Just Explaining](https://medium.com/@hari12.nhk/30-ai-concepts-i-tested-instead-of-just-explaining-871ad955b032?source=rss------artificial_intelligence-5)**
+> 🔹 **[Rust for Backend Development: When It’s Worth It &lpar;and When It Isn’t&rpar;](https://medium.com/@i_plus_t_solution/rust-for-backend-development-when-its-worth-it-and-when-it-isn-t-378df3ffffd2?source=rss------backend_development-5)**
+> 🔹 **[Claude Duet vs Grok Bot vs Muse vs Dots: Always-On AI Agents Compared &lpar;2026&rpar;](https://medium.com/@ishank.iandroid/claude-duet-vs-grok-bot-vs-muse-vs-dots-always-on-ai-agents-compared-2026-887563c2d19e?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Moving Fast. Are We Leading Fast Enough?](https://medium.com/@denisara/ai-is-moving-fast-are-we-leading-fast-enough-5ea31e9329b7?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
