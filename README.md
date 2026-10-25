@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What is System Design](https://medium.com/@gagankumar2050/what-is-system-design-74589629bd53?source=rss------system_design-5)**
-> 🔹 **[The Bug Survived Every Test. Then Two Customers Bought the Last Item.](https://medium.com/engineering-playbook/the-bug-survived-every-test-then-two-customers-bought-the-last-item-d791b6f035b0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cloud in the AI Era](https://ai.plainenglish.io/cloud-in-the-ai-era-b6297f3f4304?source=rss------artificial_intelligence-5)**
-> 🔹 **[Rule #1 for Developers: Never Trust User Input](https://kheangpanda.medium.com/rule-1-for-developers-never-trust-user-input-a7d37fad0c5d?source=rss------backend_development-5)**
-> 🔹 **[Rev90 AI: Find a $5,000 Business Problem Worth Solving](https://medium.com/@Vibing-With-The-Universe/rev90-ai-find-a-5-000-business-problem-worth-solving-17fb7b24bdca?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Content Automation Workflows for Agencies in 2026](https://medium.com/@sjdigitalmarketinga/ai-content-automation-workflows-for-agencies-in-2026-7691403ebf1e?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Took the Keyboard. You Kept the Blame.](https://medium.com/@basel.issmail/ai-took-the-keyboard-you-kept-the-blame-b269e872c3d9?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Weekly - Claude Duet, Kimi K3.1 Pro and Major Model Leaks](https://medium.com/the-ai-brief/ai-weekly-claude-duet-kimi-k3-1-pro-and-major-model-leaks-92910a3bc62d?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Does Science Fiction Become an Engineering Problem?](https://medium.com/@sfnord1/when-does-science-fiction-become-an-engineering-problem-289fea656733?source=rss------artificial_intelligence-5)**
+> 🔹 **[Silicon Valley Builds on Chinese Open AI. The Next Version Might Not Be.](https://medium.com/the-manifest-archive/silicon-valley-builds-on-chinese-open-ai-the-next-version-might-not-be-e835da1b6078?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Local Businesses Can Show Up in ChatGPT and Google’s AI Answers &lpar;2026&rpar;](https://medium.com/@growthmasala/how-local-businesses-can-show-up-in-chatgpt-and-googles-ai-answers-2026-16ee511890f2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Signing up to an AI photo tool without leaving a trail: a screen-by-screen walkthrough for men](https://medium.com/@better_shots_ai_tools/signing-up-to-an-ai-photo-tool-without-leaving-a-trail-a-screen-by-screen-walkthrough-for-men-df051376d812?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Accidental Abhidhammist: How Jensen Huang Rebuilt the Five Aggregates Out of Silicon](https://medium.com/@dharmakirti/the-accidental-abhidhammist-how-jensen-huang-rebuilt-the-five-aggregates-out-of-silicon-4048b21475ff?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI, Machine Learning, and Deep Learning Are Not a Ladder](https://medium.com/@mizcausevic/ai-machine-learning-and-deep-learning-are-not-a-ladder-d020e0ec5ebc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Explained Like You Are 10](https://medium.com/@isaacpowell.agents/claude-explained-like-you-are-10-789e56b3d8b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[# The End of the Robotics Barrier: How GCODE Co-Pilot and Decentralized DePIN Are Democratizing...](https://medium.com/@nrvnetworkio/the-end-of-the-robotics-barrier-how-gcode-co-pilot-and-decentralized-depin-are-democratizing-ace1ff2efa30?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
