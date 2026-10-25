@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[PSLF Appeals Dropped: What to Check](https://medium.com/@sumbalabbas45/pslf-appeals-dropped-what-to-check-018aa4601b86?source=rss------artificial_intelligence-5)**
-> 🔹 **[Hugging Face Just Shipped a $399 Robot Duck. Here’s What It Actually Means for NVIDIA.](https://medium.com/@omshree0709/hugging-face-just-shipped-a-399-robot-duck-heres-what-it-actually-means-for-nvidia-44e50518c65c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nvidia Now Ships an AI Data Center on the Back of a Truck](https://medium.com/@harish_75257/nvidia-now-ships-an-ai-data-center-on-the-back-of-a-truck-c8c54e92e460?source=rss------artificial_intelligence-5)**
-> 🔹 **[27 Seconds vs. 247 Days: Cybersecurity Is a Race Against Time, and AI Is Changing the Math](https://medium.com/@anseldsouza068/27-seconds-vs-247-days-cybersecurity-is-a-race-against-time-and-ai-is-changing-the-math-8928d6147b79?source=rss------artificial_intelligence-5)**
-> 🔹 **[30 AI Concepts I Tested Instead of Just Explaining](https://medium.com/@hari12.nhk/30-ai-concepts-i-tested-instead-of-just-explaining-871ad955b032?source=rss------artificial_intelligence-5)**
-> 🔹 **[Rust for Backend Development: When It’s Worth It &lpar;and When It Isn’t&rpar;](https://medium.com/@i_plus_t_solution/rust-for-backend-development-when-its-worth-it-and-when-it-isn-t-378df3ffffd2?source=rss------backend_development-5)**
-> 🔹 **[Claude Duet vs Grok Bot vs Muse vs Dots: Always-On AI Agents Compared &lpar;2026&rpar;](https://medium.com/@ishank.iandroid/claude-duet-vs-grok-bot-vs-muse-vs-dots-always-on-ai-agents-compared-2026-887563c2d19e?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Moving Fast. Are We Leading Fast Enough?](https://medium.com/@denisara/ai-is-moving-fast-are-we-leading-fast-enough-5ea31e9329b7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Founder Algorithm &lpar;Part 2&rpar;: The Loop That Changes Everything](https://chandani-kapoor.medium.com/the-founder-algorithm-part-2-the-loop-that-changes-everything-c6c1e1385eeb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Exception Queue Is the Deliverable: What a Custom Workflow Build Actually Hands You](https://medium.com/@ujjwal07dubey/the-exception-queue-is-the-deliverable-what-a-custom-workflow-build-actually-hands-you-7647959bcebd?source=rss------artificial_intelligence-5)**
+> 🔹 **[The agent timed out. Should you retry?](https://medium.com/@kiranyenaganti9/the-agent-timed-out-should-you-retry-75683401d414?source=rss------artificial_intelligence-5)**
+> 🔹 **[Sort Django Tickets with Case and When](https://medium.com/@djangowiki/sort-django-tickets-with-case-and-when-639d60bc7f22?source=rss------backend_development-5)**
+> 🔹 **[The Paperwork Before the Appointment: Automating Intake Forms for US Studios, Tutors and Servic...](https://medium.com/@ujjwal07dubey/the-paperwork-before-the-appointment-automating-intake-forms-for-us-studios-tutors-and-service-959aa814b43f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Five-Minute Friday Check: How a UK Owner Can Tell an Automation Is Still Behaving](https://medium.com/@ujjwal07dubey/the-five-minute-friday-check-how-a-uk-owner-can-tell-an-automation-is-still-behaving-6b7bce7c29e8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Best Social Apps in the Age of AI: Top 12 List for 2027](https://medium.com/@socialmediaapp/the-best-social-apps-in-the-age-of-ai-top-12-list-for-2027-1772e161d863?source=rss------artificial_intelligence-5)**
+> 🔹 **[Prompt Engineering Is Dead. Long Live Context Engineering.](https://medium.com/@smitshah4080/prompt-engineering-is-dead-long-live-context-engineering-93f7276c760b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
