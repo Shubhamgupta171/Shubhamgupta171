@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Founder Algorithm &lpar;Part 2&rpar;: The Loop That Changes Everything](https://chandani-kapoor.medium.com/the-founder-algorithm-part-2-the-loop-that-changes-everything-c6c1e1385eeb?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Exception Queue Is the Deliverable: What a Custom Workflow Build Actually Hands You](https://medium.com/@ujjwal07dubey/the-exception-queue-is-the-deliverable-what-a-custom-workflow-build-actually-hands-you-7647959bcebd?source=rss------artificial_intelligence-5)**
-> 🔹 **[The agent timed out. Should you retry?](https://medium.com/@kiranyenaganti9/the-agent-timed-out-should-you-retry-75683401d414?source=rss------artificial_intelligence-5)**
-> 🔹 **[Sort Django Tickets with Case and When](https://medium.com/@djangowiki/sort-django-tickets-with-case-and-when-639d60bc7f22?source=rss------backend_development-5)**
-> 🔹 **[The Paperwork Before the Appointment: Automating Intake Forms for US Studios, Tutors and Servic...](https://medium.com/@ujjwal07dubey/the-paperwork-before-the-appointment-automating-intake-forms-for-us-studios-tutors-and-service-959aa814b43f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Five-Minute Friday Check: How a UK Owner Can Tell an Automation Is Still Behaving](https://medium.com/@ujjwal07dubey/the-five-minute-friday-check-how-a-uk-owner-can-tell-an-automation-is-still-behaving-6b7bce7c29e8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Best Social Apps in the Age of AI: Top 12 List for 2027](https://medium.com/@socialmediaapp/the-best-social-apps-in-the-age-of-ai-top-12-list-for-2027-1772e161d863?source=rss------artificial_intelligence-5)**
-> 🔹 **[Prompt Engineering Is Dead. Long Live Context Engineering.](https://medium.com/@smitshah4080/prompt-engineering-is-dead-long-live-context-engineering-93f7276c760b?source=rss------artificial_intelligence-5)**
+> 🔹 **[What is System Design](https://medium.com/@gagankumar2050/what-is-system-design-74589629bd53?source=rss------system_design-5)**
+> 🔹 **[The Bug Survived Every Test. Then Two Customers Bought the Last Item.](https://medium.com/engineering-playbook/the-bug-survived-every-test-then-two-customers-bought-the-last-item-d791b6f035b0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cloud in the AI Era](https://ai.plainenglish.io/cloud-in-the-ai-era-b6297f3f4304?source=rss------artificial_intelligence-5)**
+> 🔹 **[Rule #1 for Developers: Never Trust User Input](https://kheangpanda.medium.com/rule-1-for-developers-never-trust-user-input-a7d37fad0c5d?source=rss------backend_development-5)**
+> 🔹 **[Rev90 AI: Find a $5,000 Business Problem Worth Solving](https://medium.com/@Vibing-With-The-Universe/rev90-ai-find-a-5-000-business-problem-worth-solving-17fb7b24bdca?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Content Automation Workflows for Agencies in 2026](https://medium.com/@sjdigitalmarketinga/ai-content-automation-workflows-for-agencies-in-2026-7691403ebf1e?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Took the Keyboard. You Kept the Blame.](https://medium.com/@basel.issmail/ai-took-the-keyboard-you-kept-the-blame-b269e872c3d9?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Weekly - Claude Duet, Kimi K3.1 Pro and Major Model Leaks](https://medium.com/the-ai-brief/ai-weekly-claude-duet-kimi-k3-1-pro-and-major-model-leaks-92910a3bc62d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
