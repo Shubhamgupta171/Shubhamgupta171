@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[A 2015 CNN Beat GPT-6 Astra at Skin Cancer Diagnosis.](https://medium.com/@chinmayshringi4/a-2015-cnn-beat-gpt-6-astra-at-skin-cancer-diagnosis-8e263f1de0c8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Endgame: AI Can Now Reproduce Itself](https://medium.com/@research.mlbox/the-endgame-ai-can-now-reproduce-itself-84ed261d235b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nobody Is Going to Hand You a Job in 2026. Here Are 10 Ways to Build One From Your Laptop.](https://medium.com/@Nestora/nobody-is-going-to-hand-you-a-job-in-2026-here-are-10-ways-to-build-one-from-your-laptop-506012b238b9?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Share One AI Subscription Across Your Team &lpar;No Per-Seat Pricing&rpar;](https://rimlauf.medium.com/how-to-share-one-ai-subscription-across-your-team-no-per-seat-pricing-4703d0e3fb5e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Kafka Event Ordering in Production: Guarantees, Retries, Consumer Concurrency, and How to Preve...](https://medium.com/@theturtlecode/kafka-event-ordering-in-production-guarantees-retries-consumer-concurrency-and-how-to-prevent-96d3c4286c6b?source=rss------backend_development-5)**
-> 🔹 **[Why Does ChatGPT Give Different Recommendations When I Ask the Same Question?](https://medium.com/@gotfoundnow/why-does-chatgpt-give-different-recommendations-when-i-ask-the-same-question-eb6d557433f2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Answer Gap: What an Energy Company Just Taught Us About AI Search](https://joshlevineceo.medium.com/the-answer-gap-what-an-energy-company-just-taught-us-about-ai-search-a8d1bb9311d4?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Artificial Intelligence Is Quietly Changing Our Daily Lives in 2026](https://medium.com/@seo.guestpost.pk134/how-artificial-intelligence-is-quietly-changing-our-daily-lives-in-2026-4299a87d68d5?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Dirty DOM Trap: Why Web-Scraping for LLMs Fails &lpar;and How to Fix It&rpar;](https://medium.com/@mdconvertorg/the-dirty-dom-trap-why-web-scraping-for-llms-fails-and-how-to-fix-it-2955c9323479?source=rss------artificial_intelligence-5)**
+> 🔹 **[Vietnam’s First Chip Fab Hits Trouble: No ASML Deal, 2027 Trial Production in Doubt &lpar;Oct 27, 20...](https://tai-semicon.medium.com/vietnams-first-chip-fab-hits-trouble-no-asml-deal-2027-trial-production-in-doubt-oct-27-2026-ac720d346ecf?source=rss------artificial_intelligence-5)**
+> 🔹 **[In the AI Era, Information Is Cheap. Decisions Are the Asset.](https://medium.com/@mrhotfix/in-the-ai-era-information-is-cheap-decisions-are-the-asset-71f68ece557c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Gap Closed: Why Open Weights Make the Personal Node Inevitable](https://medium.com/pond-foundation/the-gap-closed-why-open-weights-make-the-personal-node-inevitable-cbb17a51fa85?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Find Company Records Worth Discussing With an AI Data Buyer](https://medium.com/@origindatapartners/how-to-find-company-records-worth-discussing-with-an-ai-data-buyer-08271dea4cee?source=rss------artificial_intelligence-5)**
+> 🔹 **[Automate Gmail Attachments: Organize Files in Google Drive and Notify Telegram](https://medium.com/@a.lencmanis/automate-gmail-attachments-organize-files-in-google-drive-and-notify-telegram-504d04a4c1ca?source=rss------artificial_intelligence-5)**
+> 🔹 **[Big Artificial: First Our Bodies. Then Our Hearts. Now Our Minds.](https://medium.com/@brian.magnus/big-artificial-first-our-bodies-then-our-hearts-now-our-minds-cfb1ec0504c8?source=rss------artificial_intelligence-5)**
+> 🔹 **[What is a Forward Deployed Engineer?](https://medium.com/data-science-collective/what-is-a-forward-deployed-engineer-12cf2d27a13a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
