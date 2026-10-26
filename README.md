@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[When Does Science Fiction Become an Engineering Problem?](https://medium.com/@sfnord1/when-does-science-fiction-become-an-engineering-problem-289fea656733?source=rss------artificial_intelligence-5)**
-> 🔹 **[Silicon Valley Builds on Chinese Open AI. The Next Version Might Not Be.](https://medium.com/the-manifest-archive/silicon-valley-builds-on-chinese-open-ai-the-next-version-might-not-be-e835da1b6078?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Local Businesses Can Show Up in ChatGPT and Google’s AI Answers &lpar;2026&rpar;](https://medium.com/@growthmasala/how-local-businesses-can-show-up-in-chatgpt-and-googles-ai-answers-2026-16ee511890f2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Signing up to an AI photo tool without leaving a trail: a screen-by-screen walkthrough for men](https://medium.com/@better_shots_ai_tools/signing-up-to-an-ai-photo-tool-without-leaving-a-trail-a-screen-by-screen-walkthrough-for-men-df051376d812?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Accidental Abhidhammist: How Jensen Huang Rebuilt the Five Aggregates Out of Silicon](https://medium.com/@dharmakirti/the-accidental-abhidhammist-how-jensen-huang-rebuilt-the-five-aggregates-out-of-silicon-4048b21475ff?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI, Machine Learning, and Deep Learning Are Not a Ladder](https://medium.com/@mizcausevic/ai-machine-learning-and-deep-learning-are-not-a-ladder-d020e0ec5ebc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Explained Like You Are 10](https://medium.com/@isaacpowell.agents/claude-explained-like-you-are-10-789e56b3d8b0?source=rss------artificial_intelligence-5)**
-> 🔹 **[# The End of the Robotics Barrier: How GCODE Co-Pilot and Decentralized DePIN Are Democratizing...](https://medium.com/@nrvnetworkio/the-end-of-the-robotics-barrier-how-gcode-co-pilot-and-decentralized-depin-are-democratizing-ace1ff2efa30?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Agent Didn’t Retry the Refund. It Rewrote It.](https://medium.com/@jaberadam2001/your-ai-agent-didnt-retry-the-refund-it-rewrote-it-8a8fe5faf147?source=rss------backend_development-5)**
+> 🔹 **[How to Stop Burning Hours on Competitor Research and Build a Free AI-Powered Market Analysis…](https://medium.com/@stylekuasa/how-to-stop-burning-hours-on-competitor-research-and-build-a-free-ai-powered-market-analysis-30a9dc66a3a7?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Data to Decisions: The Role of RIZZ in Building More Informed Health Habits](https://medium.com/@anjalishukla97608/from-data-to-decisions-the-role-of-rizz-in-building-more-informed-health-habits-4a4a1d361012?source=rss------artificial_intelligence-5)**
+> 🔹 **[THE Dark SIDE OF chatGPT| ABROT from AI](https://medium.com/@khwajanooruddinkhwajanooruddin/the-dark-side-of-chatgpt-abrot-from-ai-0c69bfee5480?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Started Making $1,000+ Working Just 2 Hours a Day Online &lpar;No Experience Needed!&rpar;](https://medium.com/write-your-world/how-i-started-making-1-000-working-just-2-hours-a-day-online-no-experience-needed-3915f9024853?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Can Data Science Students Gain Practical Experience Without an Internship in Sri Lanka?](https://medium.com/@suresh25das/how-can-data-science-students-gain-practical-experience-without-an-internship-in-sri-lanka-3b89b765a20b?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Automate Cash Application: Match Payments to Invoices](https://medium.com/@kramiknakrani100/how-to-automate-cash-application-match-payments-to-invoices-b47524954228?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Duet Explained: The AI Agent That Messages You Before You Open Chat](https://medium.com/productivityspot/claude-duet-explained-the-ai-agent-that-messages-you-before-you-open-chat-73a1953a1624?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
