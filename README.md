@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your AI Agent Didn’t Retry the Refund. It Rewrote It.](https://medium.com/@jaberadam2001/your-ai-agent-didnt-retry-the-refund-it-rewrote-it-8a8fe5faf147?source=rss------backend_development-5)**
-> 🔹 **[How to Stop Burning Hours on Competitor Research and Build a Free AI-Powered Market Analysis…](https://medium.com/@stylekuasa/how-to-stop-burning-hours-on-competitor-research-and-build-a-free-ai-powered-market-analysis-30a9dc66a3a7?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Data to Decisions: The Role of RIZZ in Building More Informed Health Habits](https://medium.com/@anjalishukla97608/from-data-to-decisions-the-role-of-rizz-in-building-more-informed-health-habits-4a4a1d361012?source=rss------artificial_intelligence-5)**
-> 🔹 **[THE Dark SIDE OF chatGPT| ABROT from AI](https://medium.com/@khwajanooruddinkhwajanooruddin/the-dark-side-of-chatgpt-abrot-from-ai-0c69bfee5480?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Started Making $1,000+ Working Just 2 Hours a Day Online &lpar;No Experience Needed!&rpar;](https://medium.com/write-your-world/how-i-started-making-1-000-working-just-2-hours-a-day-online-no-experience-needed-3915f9024853?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Can Data Science Students Gain Practical Experience Without an Internship in Sri Lanka?](https://medium.com/@suresh25das/how-can-data-science-students-gain-practical-experience-without-an-internship-in-sri-lanka-3b89b765a20b?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Automate Cash Application: Match Payments to Invoices](https://medium.com/@kramiknakrani100/how-to-automate-cash-application-match-payments-to-invoices-b47524954228?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Duet Explained: The AI Agent That Messages You Before You Open Chat](https://medium.com/productivityspot/claude-duet-explained-the-ai-agent-that-messages-you-before-you-open-chat-73a1953a1624?source=rss------artificial_intelligence-5)**
+> 🔹 **[A 2015 CNN Beat GPT-6 Astra at Skin Cancer Diagnosis.](https://medium.com/@chinmayshringi4/a-2015-cnn-beat-gpt-6-astra-at-skin-cancer-diagnosis-8e263f1de0c8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Endgame: AI Can Now Reproduce Itself](https://medium.com/@research.mlbox/the-endgame-ai-can-now-reproduce-itself-84ed261d235b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nobody Is Going to Hand You a Job in 2026. Here Are 10 Ways to Build One From Your Laptop.](https://medium.com/@Nestora/nobody-is-going-to-hand-you-a-job-in-2026-here-are-10-ways-to-build-one-from-your-laptop-506012b238b9?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Share One AI Subscription Across Your Team &lpar;No Per-Seat Pricing&rpar;](https://rimlauf.medium.com/how-to-share-one-ai-subscription-across-your-team-no-per-seat-pricing-4703d0e3fb5e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kafka Event Ordering in Production: Guarantees, Retries, Consumer Concurrency, and How to Preve...](https://medium.com/@theturtlecode/kafka-event-ordering-in-production-guarantees-retries-consumer-concurrency-and-how-to-prevent-96d3c4286c6b?source=rss------backend_development-5)**
+> 🔹 **[Why Does ChatGPT Give Different Recommendations When I Ask the Same Question?](https://medium.com/@gotfoundnow/why-does-chatgpt-give-different-recommendations-when-i-ask-the-same-question-eb6d557433f2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Answer Gap: What an Energy Company Just Taught Us About AI Search](https://joshlevineceo.medium.com/the-answer-gap-what-an-energy-company-just-taught-us-about-ai-search-a8d1bb9311d4?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Artificial Intelligence Is Quietly Changing Our Daily Lives in 2026](https://medium.com/@seo.guestpost.pk134/how-artificial-intelligence-is-quietly-changing-our-daily-lives-in-2026-4299a87d68d5?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
