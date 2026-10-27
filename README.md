@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The RFI Nobody Answered: How Small Questions Become Large Overruns](https://medium.com/@carla_1448/the-rfi-nobody-answered-how-small-questions-become-large-overruns-73910681b96d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can ChatGPT or Claude file my taxes?](https://medium.com/@max_28033/can-chatgpt-or-claude-file-my-taxes-460fd289739d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Federated Learning and Membership Inference Attacks.](https://medium.com/@I_am_Saint/federated-learning-and-membership-inference-attacks-d459e8d82019?source=rss------artificial_intelligence-5)**
-> 🔹 **[DesignOps : l’ingrédient invisible de la réussite d’un Design System](https://medium.com/@ArnaudSaunier/designops-lingr%C3%A9dient-invisible-de-la-r%C3%A9ussite-d-un-design-system-68ecffddd185?source=rss------system_design-5)**
-> 🔹 **[Never Trust an AI That Says “I’ve Checked”](https://medium.com/@jichitaiwatch.official/never-trust-an-ai-that-says-ive-checked-9050c40cf282?source=rss------artificial_intelligence-5)**
-> 🔹 **[“I wish to God these calculations had been executed by steam.”](https://ifiokedet.medium.com/i-wish-to-god-these-calculations-had-been-executed-by-steam-ab75dc4ba603?source=rss------artificial_intelligence-5)**
-> 🔹 **[Organisational memory: preserving decisions, context and outcomes](https://medium.com/@oneclarity/organisational-memory-preserving-decisions-context-and-outcomes-40a4f27662dd?source=rss------artificial_intelligence-5)**
-> 🔹 **[India’s Law on AI Needs to Risk Catching a Falling Knife](https://medium.com/@EashanGhosh/indias-law-on-ai-needs-to-risk-catching-a-falling-knife-22713656a040?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Counted 30 Days of My Claude Code Tokens. 98% Were Cache Reads.](https://medium.com/write-a-catalyst/i-counted-30-days-of-my-claude-code-tokens-98-were-cache-reads-f8463af4515d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Did OpenAI just break a fundamental rule of computer science? What its AI proofs actually show](https://medium.com/@popularai/did-openai-just-break-a-fundamental-rule-of-computer-science-what-its-ai-proofs-actually-show-b994dccd60ee?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Elevator Ride](https://walter-j-robinson.medium.com/the-elevator-ride-29480fd8e4be?source=rss------artificial_intelligence-5)**
+> 🔹 **[What I Learned Trying to Rank a Brand-New Site for a Michigan SEO Keyword](https://medium.com/@jordanmckinney806/what-i-learned-trying-to-rank-a-brand-new-site-for-a-michigan-seo-keyword-67ec8f3b58a2?source=rss------artificial_intelligence-5)**
+> 🔹 **[PostSniper Erfahrungen 2026: Lohnt sich das KI-Tool für Instagram und Affiliate-Marketing?](https://medium.com/@Testarena/postsniper-erfahrungen-2026-lohnt-sich-das-ki-tool-f%C3%BCr-instagram-und-affiliate-marketing-12c111a25603?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Best Backend Engineer Used AI for Everything. Then He Couldn’t Explain His Own Code](https://medium.com/javarevisited/my-best-backend-engineer-used-ai-for-everything-then-he-couldnt-explain-his-own-code-e77c48137bee?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Saves Time. How Much of It Should Go Back Into Quality Control?](https://medium.com/@aiofficelab/ai-saves-time-how-much-of-it-should-go-back-into-quality-control-d82f61784047?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why HBM is Crushing the Cost Curve: AI Chips, Memory Economics, and the New Semiconductor Parad...](https://globalpostingskj.medium.com/why-hbm-is-crushing-the-cost-curve-ai-chips-memory-economics-and-the-new-semiconductor-paradigm-b10b5759bac0?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
