@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Dirty DOM Trap: Why Web-Scraping for LLMs Fails &lpar;and How to Fix It&rpar;](https://medium.com/@mdconvertorg/the-dirty-dom-trap-why-web-scraping-for-llms-fails-and-how-to-fix-it-2955c9323479?source=rss------artificial_intelligence-5)**
-> 🔹 **[Vietnam’s First Chip Fab Hits Trouble: No ASML Deal, 2027 Trial Production in Doubt &lpar;Oct 27, 20...](https://tai-semicon.medium.com/vietnams-first-chip-fab-hits-trouble-no-asml-deal-2027-trial-production-in-doubt-oct-27-2026-ac720d346ecf?source=rss------artificial_intelligence-5)**
-> 🔹 **[In the AI Era, Information Is Cheap. Decisions Are the Asset.](https://medium.com/@mrhotfix/in-the-ai-era-information-is-cheap-decisions-are-the-asset-71f68ece557c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Gap Closed: Why Open Weights Make the Personal Node Inevitable](https://medium.com/pond-foundation/the-gap-closed-why-open-weights-make-the-personal-node-inevitable-cbb17a51fa85?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Find Company Records Worth Discussing With an AI Data Buyer](https://medium.com/@origindatapartners/how-to-find-company-records-worth-discussing-with-an-ai-data-buyer-08271dea4cee?source=rss------artificial_intelligence-5)**
-> 🔹 **[Automate Gmail Attachments: Organize Files in Google Drive and Notify Telegram](https://medium.com/@a.lencmanis/automate-gmail-attachments-organize-files-in-google-drive-and-notify-telegram-504d04a4c1ca?source=rss------artificial_intelligence-5)**
-> 🔹 **[Big Artificial: First Our Bodies. Then Our Hearts. Now Our Minds.](https://medium.com/@brian.magnus/big-artificial-first-our-bodies-then-our-hearts-now-our-minds-cfb1ec0504c8?source=rss------artificial_intelligence-5)**
-> 🔹 **[What is a Forward Deployed Engineer?](https://medium.com/data-science-collective/what-is-a-forward-deployed-engineer-12cf2d27a13a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Elevators, toasters, and the birth of Java](https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/)**
+> 🔹 **[BFS vs A*: comparando dos formas de resolver un laberinto](https://medium.com/@jcanuldedios/bfs-vs-a-comparando-dos-formas-de-resolver-un-laberinto-de09aa0d31d5?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Risk Management in DeFi: What It Can and Can’t Do](https://medium.com/coinmonks/ai-risk-management-in-defi-what-it-can-and-cant-do-9823c9e43742?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Underrated AI Tools That Could Build a Million-Dollar Business](https://medium.com/activated-thinker/5-underrated-ai-tools-that-could-build-a-million-dollar-business-d69b5da99a11?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond Fitness Tracking: The Rise of Intelligent Personal Wellness](https://medium.com/@saurabhsinghania531/beyond-fitness-tracking-the-rise-of-intelligent-personal-wellness-12f0c711943c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Heating Bill Help 2026–27: How to Apply](https://medium.com/@sumbalabbas45/heating-bill-help-2026-27-how-to-apply-846fd611d205?source=rss------artificial_intelligence-5)**
+> 🔹 **[Vibe Coding vs Wild Coding](https://medium.com/@shrey.poky/vibe-coding-vs-wild-coding-12c3110a645d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Team Doesn’t Need More Tools. It Needs Better Workflows.](https://medium.com/@versatile_satin_sardine_119/your-team-doesnt-need-more-tools-it-needs-better-workflows-fae76759d913?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
