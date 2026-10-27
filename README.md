@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Elevators, toasters, and the birth of Java](https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/)**
-> 🔹 **[BFS vs A*: comparando dos formas de resolver un laberinto](https://medium.com/@jcanuldedios/bfs-vs-a-comparando-dos-formas-de-resolver-un-laberinto-de09aa0d31d5?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Risk Management in DeFi: What It Can and Can’t Do](https://medium.com/coinmonks/ai-risk-management-in-defi-what-it-can-and-cant-do-9823c9e43742?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Underrated AI Tools That Could Build a Million-Dollar Business](https://medium.com/activated-thinker/5-underrated-ai-tools-that-could-build-a-million-dollar-business-d69b5da99a11?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond Fitness Tracking: The Rise of Intelligent Personal Wellness](https://medium.com/@saurabhsinghania531/beyond-fitness-tracking-the-rise-of-intelligent-personal-wellness-12f0c711943c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Heating Bill Help 2026–27: How to Apply](https://medium.com/@sumbalabbas45/heating-bill-help-2026-27-how-to-apply-846fd611d205?source=rss------artificial_intelligence-5)**
-> 🔹 **[Vibe Coding vs Wild Coding](https://medium.com/@shrey.poky/vibe-coding-vs-wild-coding-12c3110a645d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Team Doesn’t Need More Tools. It Needs Better Workflows.](https://medium.com/@versatile_satin_sardine_119/your-team-doesnt-need-more-tools-it-needs-better-workflows-fae76759d913?source=rss------artificial_intelligence-5)**
+> 🔹 **[The RFI Nobody Answered: How Small Questions Become Large Overruns](https://medium.com/@carla_1448/the-rfi-nobody-answered-how-small-questions-become-large-overruns-73910681b96d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can ChatGPT or Claude file my taxes?](https://medium.com/@max_28033/can-chatgpt-or-claude-file-my-taxes-460fd289739d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Federated Learning and Membership Inference Attacks.](https://medium.com/@I_am_Saint/federated-learning-and-membership-inference-attacks-d459e8d82019?source=rss------artificial_intelligence-5)**
+> 🔹 **[DesignOps : l’ingrédient invisible de la réussite d’un Design System](https://medium.com/@ArnaudSaunier/designops-lingr%C3%A9dient-invisible-de-la-r%C3%A9ussite-d-un-design-system-68ecffddd185?source=rss------system_design-5)**
+> 🔹 **[Never Trust an AI That Says “I’ve Checked”](https://medium.com/@jichitaiwatch.official/never-trust-an-ai-that-says-ive-checked-9050c40cf282?source=rss------artificial_intelligence-5)**
+> 🔹 **[“I wish to God these calculations had been executed by steam.”](https://ifiokedet.medium.com/i-wish-to-god-these-calculations-had-been-executed-by-steam-ab75dc4ba603?source=rss------artificial_intelligence-5)**
+> 🔹 **[Organisational memory: preserving decisions, context and outcomes](https://medium.com/@oneclarity/organisational-memory-preserving-decisions-context-and-outcomes-40a4f27662dd?source=rss------artificial_intelligence-5)**
+> 🔹 **[India’s Law on AI Needs to Risk Catching a Falling Knife](https://medium.com/@EashanGhosh/indias-law-on-ai-needs-to-risk-catching-a-falling-knife-22713656a040?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
