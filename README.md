@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[I Counted 30 Days of My Claude Code Tokens. 98% Were Cache Reads.](https://medium.com/write-a-catalyst/i-counted-30-days-of-my-claude-code-tokens-98-were-cache-reads-f8463af4515d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Did OpenAI just break a fundamental rule of computer science? What its AI proofs actually show](https://medium.com/@popularai/did-openai-just-break-a-fundamental-rule-of-computer-science-what-its-ai-proofs-actually-show-b994dccd60ee?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Elevator Ride](https://walter-j-robinson.medium.com/the-elevator-ride-29480fd8e4be?source=rss------artificial_intelligence-5)**
-> 🔹 **[What I Learned Trying to Rank a Brand-New Site for a Michigan SEO Keyword](https://medium.com/@jordanmckinney806/what-i-learned-trying-to-rank-a-brand-new-site-for-a-michigan-seo-keyword-67ec8f3b58a2?source=rss------artificial_intelligence-5)**
-> 🔹 **[PostSniper Erfahrungen 2026: Lohnt sich das KI-Tool für Instagram und Affiliate-Marketing?](https://medium.com/@Testarena/postsniper-erfahrungen-2026-lohnt-sich-das-ki-tool-f%C3%BCr-instagram-und-affiliate-marketing-12c111a25603?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Best Backend Engineer Used AI for Everything. Then He Couldn’t Explain His Own Code](https://medium.com/javarevisited/my-best-backend-engineer-used-ai-for-everything-then-he-couldnt-explain-his-own-code-e77c48137bee?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Saves Time. How Much of It Should Go Back Into Quality Control?](https://medium.com/@aiofficelab/ai-saves-time-how-much-of-it-should-go-back-into-quality-control-d82f61784047?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why HBM is Crushing the Cost Curve: AI Chips, Memory Economics, and the New Semiconductor Parad...](https://globalpostingskj.medium.com/why-hbm-is-crushing-the-cost-curve-ai-chips-memory-economics-and-the-new-semiconductor-paradigm-b10b5759bac0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Running a real business on four long-running Claude Code agents](https://medium.com/@wrg32786/running-a-real-business-on-four-long-running-claude-code-agents-b6839e8d4ccb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Gap Between Knowing and Doing: Why Real Projects Build Career-Ready Skills](https://medium.com/@ipuls/the-gap-between-knowing-and-doing-why-real-projects-build-career-ready-skills-2fa57acc5dcc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Insurance Career Skill Nobody Lists: Translating Between AI Teams and the Business](https://medium.com/@yaswanth.vepachadu/the-insurance-career-skill-nobody-lists-translating-between-ai-teams-and-the-business-fe470c1ef558?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI &amp; DISRUPTIVE TECH WATCH](https://peexee.medium.com/ai-disruptive-tech-watch-9c7900702822?source=rss------artificial_intelligence-5)**
+> 🔹 **[Every API Endpoint Deserves Its Own Lock](https://medium.com/@marketing_57115/every-api-endpoint-deserves-its-own-lock-c3818518b211?source=rss------backend_development-5)**
+> 🔹 **[The Real ROI of AI Projects in 2026: A Practical Measurement Framework](https://medium.com/@support_57749/the-real-roi-of-ai-projects-in-2026-a-practical-measurement-framework-cd59bd2d9e0d?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT Ads Are Now in 89 Countries: What It Means for Users, Businesses, and the Future of Sea...](https://medium.com/@ascendrixtech/chatgpt-ads-are-now-in-89-countries-what-it-means-for-users-businesses-and-the-future-of-search-77d11253a960?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why 84% of Professionals Feel Unprepared for the AI Job Market &lpar;Even When They Use AI Every Day...](https://medium.com/@hrinc2/why-84-of-professionals-feel-unprepared-for-the-ai-job-market-even-when-they-use-ai-every-day-56c8b023993a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
