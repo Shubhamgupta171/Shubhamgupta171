@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Multi-Agent AI Systems Explained: When One Agent Isn’t Enough](https://medium.com/@satasiya252/multi-agent-ai-systems-explained-when-one-agent-isnt-enough-61a464ae8277?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Does It Really Cost to Put AI to Work in Insurance Claims?](https://alliancetek.medium.com/what-does-it-really-cost-to-put-ai-to-work-in-insurance-claims-22f73b1334a8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Fragments: October 28](https://martinfowler.com/fragments/2026-10-28.html)**
-> 🔹 **[Are we auditing AI now?](https://thesagekhan.medium.com/are-we-auditing-ai-now-d01603c7a11b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Software Valuations: What Justifies a PE Premium?](https://youssbm.medium.com/software-valuations-what-justifies-a-pe-premium-9635e5ceb3f4?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built an AI Assistant That Actually Controls Windows &lpar;And It Can Run Entirely on Your PC&rpar;](https://elanchezhiyan-p.medium.com/i-built-an-ai-assistant-that-actually-controls-windows-and-it-can-run-entirely-on-your-pc-d0a9e272363c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hallucination of Velocity: Why Naive Micro-Sprints Collapse](https://medium.com/@dqj1998/the-hallucination-of-velocity-why-naive-micro-sprints-collapse-eff94b286627?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a Tiny AI Company Inside My Laptop. Then I Tested Whether I Needed It.](https://medium.com/@anjubarai004/i-built-a-tiny-ai-company-inside-my-laptop-then-i-tested-whether-i-needed-it-1cda65fee377?source=rss------artificial_intelligence-5)**
+> 🔹 **[Malicious Downloads Can Hijack AI Coding Agents and Steal Tokens](https://medium.com/@umarcreator/malicious-downloads-can-hijack-ai-coding-agents-and-steal-tokens-76ff0a11b881?source=rss------artificial_intelligence-5)**
+> 🔹 **[Vozo Made Japanese Video Translation Usable. Finishing It Was a Different Task.](https://medium.com/@ic-eight/vozo-made-japanese-video-translation-usable-finishing-it-was-a-different-task-0a0c55392b6a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Parseur Normalized the Documents. Silent Blanks Kept Accounting Review in the Loop.](https://medium.com/@ic-eight/parseur-normalized-the-documents-silent-blanks-kept-accounting-review-in-the-loop-033488fe7970?source=rss------artificial_intelligence-5)**
+> 🔹 **[Will Hybrid Intelligence Solve Our Compute Shortage?](https://changes.medium.com/will-hybrid-intelligence-solve-our-compute-shortage-62601fce34e8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Will AI Replace Human Judgment? Serafim&#39;s Books Explain](https://medium.com/@constantineleoserafim1254/will-ai-replace-human-judgment-serafims-books-explain-182ee88093da?source=rss------artificial_intelligence-5)**
+> 🔹 **[atama plus: an AI tutor that rebuilds each student’s path through cram school](https://medium.com/@nodoguro04/atama-plus-an-ai-tutor-that-rebuilds-each-students-path-through-cram-school-3e8d2d0bcf1d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gitingest and GitDiagram: Two Shortcuts for Exploring a GitHub Repository](https://medium.com/@grbulegoda/gitingest-and-gitdiagram-two-shortcuts-for-exploring-a-github-repository-aa79635be00e?source=rss------artificial_intelligence-5)**
+> 🔹 **[2050 OR 2076?](https://medium.com/@The2050mars/2050-or-2076-3f3e4e0f4997?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
