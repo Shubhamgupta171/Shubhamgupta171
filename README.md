@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Running a real business on four long-running Claude Code agents](https://medium.com/@wrg32786/running-a-real-business-on-four-long-running-claude-code-agents-b6839e8d4ccb?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Gap Between Knowing and Doing: Why Real Projects Build Career-Ready Skills](https://medium.com/@ipuls/the-gap-between-knowing-and-doing-why-real-projects-build-career-ready-skills-2fa57acc5dcc?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Insurance Career Skill Nobody Lists: Translating Between AI Teams and the Business](https://medium.com/@yaswanth.vepachadu/the-insurance-career-skill-nobody-lists-translating-between-ai-teams-and-the-business-fe470c1ef558?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI &amp; DISRUPTIVE TECH WATCH](https://peexee.medium.com/ai-disruptive-tech-watch-9c7900702822?source=rss------artificial_intelligence-5)**
-> 🔹 **[Every API Endpoint Deserves Its Own Lock](https://medium.com/@marketing_57115/every-api-endpoint-deserves-its-own-lock-c3818518b211?source=rss------backend_development-5)**
-> 🔹 **[The Real ROI of AI Projects in 2026: A Practical Measurement Framework](https://medium.com/@support_57749/the-real-roi-of-ai-projects-in-2026-a-practical-measurement-framework-cd59bd2d9e0d?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT Ads Are Now in 89 Countries: What It Means for Users, Businesses, and the Future of Sea...](https://medium.com/@ascendrixtech/chatgpt-ads-are-now-in-89-countries-what-it-means-for-users-businesses-and-the-future-of-search-77d11253a960?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why 84% of Professionals Feel Unprepared for the AI Job Market &lpar;Even When They Use AI Every Day...](https://medium.com/@hrinc2/why-84-of-professionals-feel-unprepared-for-the-ai-job-market-even-when-they-use-ai-every-day-56c8b023993a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Multi-Agent AI Systems Explained: When One Agent Isn’t Enough](https://medium.com/@satasiya252/multi-agent-ai-systems-explained-when-one-agent-isnt-enough-61a464ae8277?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Does It Really Cost to Put AI to Work in Insurance Claims?](https://alliancetek.medium.com/what-does-it-really-cost-to-put-ai-to-work-in-insurance-claims-22f73b1334a8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Fragments: October 28](https://martinfowler.com/fragments/2026-10-28.html)**
+> 🔹 **[Are we auditing AI now?](https://thesagekhan.medium.com/are-we-auditing-ai-now-d01603c7a11b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Software Valuations: What Justifies a PE Premium?](https://youssbm.medium.com/software-valuations-what-justifies-a-pe-premium-9635e5ceb3f4?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built an AI Assistant That Actually Controls Windows &lpar;And It Can Run Entirely on Your PC&rpar;](https://elanchezhiyan-p.medium.com/i-built-an-ai-assistant-that-actually-controls-windows-and-it-can-run-entirely-on-your-pc-d0a9e272363c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hallucination of Velocity: Why Naive Micro-Sprints Collapse](https://medium.com/@dqj1998/the-hallucination-of-velocity-why-naive-micro-sprints-collapse-eff94b286627?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a Tiny AI Company Inside My Laptop. Then I Tested Whether I Needed It.](https://medium.com/@anjubarai004/i-built-a-tiny-ai-company-inside-my-laptop-then-i-tested-whether-i-needed-it-1cda65fee377?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
