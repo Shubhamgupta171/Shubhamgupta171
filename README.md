@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[5 AI Prompts You’ll Have To Use For Marketing](https://medium.com/codetodeploy/5-ai-prompts-youll-have-to-use-for-marketing-54dcf1685069?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Use ChatGPT for Content Marketing and SEO in 2026](https://medium.com/@clickonitsolution/how-to-use-chatgpt-for-content-marketing-and-seo-in-2026-5deea3af3d4e?source=rss------artificial_intelligence-5)**
-> 🔹 **[BUILD YOUR FUTURE WITH ARTIFICIAL INTELLIGENCE!](https://medium.com/@gokulemexo/build-your-future-with-artificial-intelligence-74afe8e9799e?source=rss------artificial_intelligence-5)**
-> 🔹 **[BFS vs DFS: dos formas de recorrer un mapa de ciudades](https://medium.com/@jcanuldedios/bfs-vs-dfs-dos-formas-de-recorrer-un-mapa-de-ciudades-38a01856579e?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI and Automation in Medical Billing: The 2025 Transformation](https://medium.com/@kanizaashfaq571/ai-and-automation-in-medical-billing-the-2025-transformation-8dc3eeec7cbc?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Transformation Roadmap: From Pilot Chaos to Scalable Execution](https://medium.com/@support_57749/ai-transformation-roadmap-from-pilot-chaos-to-scalable-execution-008dbe5dddb7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Numbers, Variables and Functions: The Language AI Uses](https://medium.com/@piyas.de/numbers-variables-and-functions-the-language-ai-uses-a3a0606a0a90?source=rss------artificial_intelligence-5)**
-> 🔹 **[My website is built. How do I put it online? I had AI move it onto a server](https://medium.com/@zhumingjun/my-website-is-built-how-do-i-put-it-online-i-had-ai-move-it-onto-a-server-77028cfcb0dd?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Prevent Duplicate Actions in AI Automation Workflows](https://medium.com/@ahmedbuilds/how-to-prevent-duplicate-actions-in-ai-automation-workflows-323c3a309295?source=rss------backend_development-5)**
+> 🔹 **[What a Pentester Must Prove About a Scanner Alert](https://medium.com/@pjdunn2016/what-a-pentester-must-prove-about-a-scanner-alert-d38887bc3f3c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Code for SEO: 5 Workflows I Ran, With the Real Output](https://medium.com/@mdayan8/claude-code-for-seo-a4e27a9cf53b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Before You Train AI, Put a Clock Next to Every Feature](https://medium.com/@christos_53817/before-you-train-ai-put-a-clock-next-to-every-feature-239412dd6cbf?source=rss------artificial_intelligence-5)**
+> 🔹 **[My AI Has a Dream. So Do I.](https://medium.com/@hiroj/my-ai-has-a-dream-so-do-i-dd401798a489?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Quiet Erosion of Mind: How AI Reliance Threatens Human Agency](https://medium.com/@thenextchapterguide/the-quiet-erosion-of-mind-how-ai-reliance-threatens-human-agency-21654a7a8805?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Subscription You Use Twice a Month Might Still Earn Its Place](https://medium.com/@broniversetech/the-ai-subscription-you-use-twice-a-month-might-still-earn-its-place-9b7bf3f122bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Can Build It. But I Miss Building It.](https://medium.com/@karanhotwani15/ai-can-build-it-but-i-miss-building-it-d0cd201cdf5b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
