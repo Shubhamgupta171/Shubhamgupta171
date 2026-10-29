@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Prevent Duplicate Actions in AI Automation Workflows](https://medium.com/@ahmedbuilds/how-to-prevent-duplicate-actions-in-ai-automation-workflows-323c3a309295?source=rss------backend_development-5)**
-> 🔹 **[What a Pentester Must Prove About a Scanner Alert](https://medium.com/@pjdunn2016/what-a-pentester-must-prove-about-a-scanner-alert-d38887bc3f3c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Code for SEO: 5 Workflows I Ran, With the Real Output](https://medium.com/@mdayan8/claude-code-for-seo-a4e27a9cf53b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Before You Train AI, Put a Clock Next to Every Feature](https://medium.com/@christos_53817/before-you-train-ai-put-a-clock-next-to-every-feature-239412dd6cbf?source=rss------artificial_intelligence-5)**
-> 🔹 **[My AI Has a Dream. So Do I.](https://medium.com/@hiroj/my-ai-has-a-dream-so-do-i-dd401798a489?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Quiet Erosion of Mind: How AI Reliance Threatens Human Agency](https://medium.com/@thenextchapterguide/the-quiet-erosion-of-mind-how-ai-reliance-threatens-human-agency-21654a7a8805?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Subscription You Use Twice a Month Might Still Earn Its Place](https://medium.com/@broniversetech/the-ai-subscription-you-use-twice-a-month-might-still-earn-its-place-9b7bf3f122bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Can Build It. But I Miss Building It.](https://medium.com/@karanhotwani15/ai-can-build-it-but-i-miss-building-it-d0cd201cdf5b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude’a Altı Ay Boyunca Yanlışlarımızı Anlattım](https://medium.com/@kamilklkn/claudea-alt%C4%B1-ay-boyunca-yanl%C4%B1%C5%9Flar%C4%B1m%C4%B1z%C4%B1-anlatt%C4%B1m-3049a9466501?source=rss------artificial_intelligence-5)**
+> 🔹 **[Most Handsome Man in the Chicago Area](https://medium.com/@ndsimon214/most-handsome-man-in-the-chicago-area-d6ee97d01c86?source=rss------artificial_intelligence-5)**
+> 🔹 **[The reports of Stack Overflow&#39;s death are greatly exaggerated](https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/)**
+> 🔹 **[Beyond the Amish: What Bill Gates Really Said About the Next 20 Years](https://pub.towardsai.net/beyond-the-amish-what-bill-gates-really-said-about-the-next-20-years-4c5bf21e9866?source=rss------artificial_intelligence-5)**
+> 🔹 **[An ML Engineer From Amazon Died After Taking ChatGPT’s Health Advice](https://levelup.gitconnected.com/an-ml-engineer-from-amazon-died-after-taking-chatgpts-health-advice-3a6c3b267a1c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Score Text-to-Video Clips Before I Hit Publish](https://medium.com/@support_45375/how-i-score-text-to-video-clips-before-i-hit-publish-0d5d0dfa75da?source=rss------artificial_intelligence-5)**
+> 🔹 **[Giving AI Pain: The Architecture of Synthetic Scars &amp; The Rapid-Regret Miner](https://medium.com/@realmerlyn/https-dev-to-gde-giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740-c372730fc1e3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Designers Can Build More of What They Design](https://medium.com/@burak.sahin/designers-can-build-more-of-what-they-design-b685f152aaae?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
