@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Malicious Downloads Can Hijack AI Coding Agents and Steal Tokens](https://medium.com/@umarcreator/malicious-downloads-can-hijack-ai-coding-agents-and-steal-tokens-76ff0a11b881?source=rss------artificial_intelligence-5)**
-> 🔹 **[Vozo Made Japanese Video Translation Usable. Finishing It Was a Different Task.](https://medium.com/@ic-eight/vozo-made-japanese-video-translation-usable-finishing-it-was-a-different-task-0a0c55392b6a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Parseur Normalized the Documents. Silent Blanks Kept Accounting Review in the Loop.](https://medium.com/@ic-eight/parseur-normalized-the-documents-silent-blanks-kept-accounting-review-in-the-loop-033488fe7970?source=rss------artificial_intelligence-5)**
-> 🔹 **[Will Hybrid Intelligence Solve Our Compute Shortage?](https://changes.medium.com/will-hybrid-intelligence-solve-our-compute-shortage-62601fce34e8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Will AI Replace Human Judgment? Serafim&#39;s Books Explain](https://medium.com/@constantineleoserafim1254/will-ai-replace-human-judgment-serafims-books-explain-182ee88093da?source=rss------artificial_intelligence-5)**
-> 🔹 **[atama plus: an AI tutor that rebuilds each student’s path through cram school](https://medium.com/@nodoguro04/atama-plus-an-ai-tutor-that-rebuilds-each-students-path-through-cram-school-3e8d2d0bcf1d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gitingest and GitDiagram: Two Shortcuts for Exploring a GitHub Repository](https://medium.com/@grbulegoda/gitingest-and-gitdiagram-two-shortcuts-for-exploring-a-github-repository-aa79635be00e?source=rss------artificial_intelligence-5)**
-> 🔹 **[2050 OR 2076?](https://medium.com/@The2050mars/2050-or-2076-3f3e4e0f4997?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 AI Prompts You’ll Have To Use For Marketing](https://medium.com/codetodeploy/5-ai-prompts-youll-have-to-use-for-marketing-54dcf1685069?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Use ChatGPT for Content Marketing and SEO in 2026](https://medium.com/@clickonitsolution/how-to-use-chatgpt-for-content-marketing-and-seo-in-2026-5deea3af3d4e?source=rss------artificial_intelligence-5)**
+> 🔹 **[BUILD YOUR FUTURE WITH ARTIFICIAL INTELLIGENCE!](https://medium.com/@gokulemexo/build-your-future-with-artificial-intelligence-74afe8e9799e?source=rss------artificial_intelligence-5)**
+> 🔹 **[BFS vs DFS: dos formas de recorrer un mapa de ciudades](https://medium.com/@jcanuldedios/bfs-vs-dfs-dos-formas-de-recorrer-un-mapa-de-ciudades-38a01856579e?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI and Automation in Medical Billing: The 2025 Transformation](https://medium.com/@kanizaashfaq571/ai-and-automation-in-medical-billing-the-2025-transformation-8dc3eeec7cbc?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Transformation Roadmap: From Pilot Chaos to Scalable Execution](https://medium.com/@support_57749/ai-transformation-roadmap-from-pilot-chaos-to-scalable-execution-008dbe5dddb7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Numbers, Variables and Functions: The Language AI Uses](https://medium.com/@piyas.de/numbers-variables-and-functions-the-language-ai-uses-a3a0606a0a90?source=rss------artificial_intelligence-5)**
+> 🔹 **[My website is built. How do I put it online? I had AI move it onto a server](https://medium.com/@zhumingjun/my-website-is-built-how-do-i-put-it-online-i-had-ai-move-it-onto-a-server-77028cfcb0dd?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
