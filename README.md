@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Claude’a Altı Ay Boyunca Yanlışlarımızı Anlattım](https://medium.com/@kamilklkn/claudea-alt%C4%B1-ay-boyunca-yanl%C4%B1%C5%9Flar%C4%B1m%C4%B1z%C4%B1-anlatt%C4%B1m-3049a9466501?source=rss------artificial_intelligence-5)**
-> 🔹 **[Most Handsome Man in the Chicago Area](https://medium.com/@ndsimon214/most-handsome-man-in-the-chicago-area-d6ee97d01c86?source=rss------artificial_intelligence-5)**
-> 🔹 **[The reports of Stack Overflow&#39;s death are greatly exaggerated](https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/)**
-> 🔹 **[Beyond the Amish: What Bill Gates Really Said About the Next 20 Years](https://pub.towardsai.net/beyond-the-amish-what-bill-gates-really-said-about-the-next-20-years-4c5bf21e9866?source=rss------artificial_intelligence-5)**
-> 🔹 **[An ML Engineer From Amazon Died After Taking ChatGPT’s Health Advice](https://levelup.gitconnected.com/an-ml-engineer-from-amazon-died-after-taking-chatgpts-health-advice-3a6c3b267a1c?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Score Text-to-Video Clips Before I Hit Publish](https://medium.com/@support_45375/how-i-score-text-to-video-clips-before-i-hit-publish-0d5d0dfa75da?source=rss------artificial_intelligence-5)**
-> 🔹 **[Giving AI Pain: The Architecture of Synthetic Scars &amp; The Rapid-Regret Miner](https://medium.com/@realmerlyn/https-dev-to-gde-giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740-c372730fc1e3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Designers Can Build More of What They Design](https://medium.com/@burak.sahin/designers-can-build-more-of-what-they-design-b685f152aaae?source=rss------artificial_intelligence-5)**
+> 🔹 **[It’s ok that computers are &lpar;sometimes&rpar; better than us](https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/)**
+> 🔹 **[Human-in-the-Loop AI: Who Should Approve the Planning Decision?](https://medium.com/@aniruddha.b22/human-in-the-loop-ai-who-should-approve-the-planning-decision-e9ff24b4c8de?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the Frontier — Episode 89 — When Answers Become Cheap, Who Gets to Choose the Questions?](https://medium.com/@cammerdarcy/beyond-the-frontier-episode-89-when-answers-become-cheap-who-gets-to-choose-the-questions-4f5ca0a65468?source=rss------artificial_intelligence-5)**
+> 🔹 **[What “Super Intelligence” is supposed to mean](https://medium.com/@alabimercy_/what-super-intelligence-is-supposed-to-mean-ea86b978e942?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Daily Insights](https://medium.com/the-daily-insights/the-daily-insights-7e0953f75adf?source=rss------artificial_intelligence-5)**
+> 🔹 **[What an AI customer service chatbot really costs to run each month](https://medium.com/@sushil_25082/what-an-ai-customer-service-chatbot-really-costs-to-run-each-month-df1b51248f54?source=rss------artificial_intelligence-5)**
+> 🔹 **[When a Chatbot Interviews You: How to Get Through AI Job Screens Without Losing Yourself](https://documantra.medium.com/when-a-chatbot-interviews-you-how-to-get-through-ai-job-screens-without-losing-yourself-34c78eded9fc?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Exposing the Limits of Traditional Application Architecture](https://medium.com/@kbvresearch.official/ai-limits-traditional-application-architecture-c3ef49d450a9?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
