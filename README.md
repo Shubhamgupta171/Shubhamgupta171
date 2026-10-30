@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Além do @Autowired: como a Injeção de Dependência realmente funciona no Spring Boot &lpar;e por que...](https://medium.com/@milenafelix_17907/al%C3%A9m-do-autowired-como-a-inje%C3%A7%C3%A3o-de-depend%C3%AAncia-realmente-funciona-no-spring-boot-e-por-que-voc%C3%AA-e4f8623cc49a?source=rss------backend_development-5)**
-> 🔹 **[How Big Companies Search in Every Language with AI: Building It with BGE-M3, Ollama, Gemma 3…](https://medium.com/@yashkoladiya004/how-big-companies-search-in-every-language-with-ai-building-it-with-bge-m3-ollama-gemma-3-798acbb32d41?source=rss------system_design-5)**
-> 🔹 **[The phone screen is where good candidates quietly disappear](https://medium.com/@emilysmithai370/the-phone-screen-is-where-good-candidates-quietly-disappear-d6ecfa452296?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Leapfrog Moment: Why Mobile-First AI Could Reshape Africa’s Economy](https://medium.com/unlocking-the-power-of-emerging-technologies/the-leapfrog-moment-why-mobile-first-ai-could-reshape-africas-economy-9afccb53194e?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Our Child. And One Day, It May Ask Us Why We Created It.](https://medium.com/@sidpawar1010/ai-is-our-child-and-one-day-it-may-ask-us-why-we-created-it-10aae8efe797?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI and its Industrialized Hope Era](https://medium.com/@EashanGhosh/ai-and-its-industrialized-hope-era-bf94a58e3e58?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Add an FAQ Section to an Existing HTML Page with AI](https://medium.com/@htmldrag/how-to-add-an-faq-section-to-an-existing-html-page-with-ai-51bc9fab5b9b?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI in Marketing: Use Cases, Business Impact, and Implementation Costs](https://xicomofficial.medium.com/ai-in-marketing-use-cases-business-impact-and-implementation-costs-077e24864854?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can Artificial Intelligence Be Innovative and Make Discoveries?](https://medium.com/@marketing_30607/can-artificial-intelligence-be-innovative-and-make-discoveries-a7ceb2b4d8af?source=rss------artificial_intelligence-5)**
+> 🔹 **[Happy Halloween. I Celebrate Allhallowtide Because the World’s Too Weird for One Day…](https://medium.com/@chriscallahan313/happy-halloween-i-celebrate-allhallowtide-because-the-worlds-too-weird-for-one-day-2049781ef864?source=rss------artificial_intelligence-5)**
+> 🔹 **[Part 7 | Linked List — Zero to Hero : Dummy Node Technique](https://medium.com/@pavan-pithdiya/part-7-linked-list-zero-to-hero-dummy-node-technique-d3097f71eaa5?source=rss------data_structures-5)**
+> 🔹 **[Bridging the planning-execution divide: AI’s next frontier in distribution and logistics](https://medium.com/zs-associates/bridging-the-planning-execution-divide-ais-next-frontier-in-distribution-and-logistics-ba054eb7f289?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond Tree Planting: How Environmental Monitoring Supports Healthier Forests](https://medium.com/@szj17trades/beyond-tree-planting-how-environmental-monitoring-supports-healthier-forests-5046930db217?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If a Ghost Is Just a Mathematical Discontinuity?](https://medium.com/@warric11/what-if-a-ghost-is-just-a-mathematical-discontinuity-0ad9322bf3a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Algoritmos de Problemas de Búsqueda](https://medium.com/@maxpc/algoritmos-de-problemas-de-b%C3%BAsqueda-47cee3f7bb58?source=rss------artificial_intelligence-5)**
+> 🔹 **[Shipping &amp; Beyond: What to Do the Day After Launch](https://medium.com/@buildwithkstar/shipping-beyond-what-to-do-the-day-after-launch-9b8066c1d4e6?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
