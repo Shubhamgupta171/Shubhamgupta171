@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[It’s ok that computers are &lpar;sometimes&rpar; better than us](https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/)**
-> 🔹 **[Human-in-the-Loop AI: Who Should Approve the Planning Decision?](https://medium.com/@aniruddha.b22/human-in-the-loop-ai-who-should-approve-the-planning-decision-e9ff24b4c8de?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the Frontier — Episode 89 — When Answers Become Cheap, Who Gets to Choose the Questions?](https://medium.com/@cammerdarcy/beyond-the-frontier-episode-89-when-answers-become-cheap-who-gets-to-choose-the-questions-4f5ca0a65468?source=rss------artificial_intelligence-5)**
-> 🔹 **[What “Super Intelligence” is supposed to mean](https://medium.com/@alabimercy_/what-super-intelligence-is-supposed-to-mean-ea86b978e942?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Daily Insights](https://medium.com/the-daily-insights/the-daily-insights-7e0953f75adf?source=rss------artificial_intelligence-5)**
-> 🔹 **[What an AI customer service chatbot really costs to run each month](https://medium.com/@sushil_25082/what-an-ai-customer-service-chatbot-really-costs-to-run-each-month-df1b51248f54?source=rss------artificial_intelligence-5)**
-> 🔹 **[When a Chatbot Interviews You: How to Get Through AI Job Screens Without Losing Yourself](https://documantra.medium.com/when-a-chatbot-interviews-you-how-to-get-through-ai-job-screens-without-losing-yourself-34c78eded9fc?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Exposing the Limits of Traditional Application Architecture](https://medium.com/@kbvresearch.official/ai-limits-traditional-application-architecture-c3ef49d450a9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Além do @Autowired: como a Injeção de Dependência realmente funciona no Spring Boot &lpar;e por que...](https://medium.com/@milenafelix_17907/al%C3%A9m-do-autowired-como-a-inje%C3%A7%C3%A3o-de-depend%C3%AAncia-realmente-funciona-no-spring-boot-e-por-que-voc%C3%AA-e4f8623cc49a?source=rss------backend_development-5)**
+> 🔹 **[How Big Companies Search in Every Language with AI: Building It with BGE-M3, Ollama, Gemma 3…](https://medium.com/@yashkoladiya004/how-big-companies-search-in-every-language-with-ai-building-it-with-bge-m3-ollama-gemma-3-798acbb32d41?source=rss------system_design-5)**
+> 🔹 **[The phone screen is where good candidates quietly disappear](https://medium.com/@emilysmithai370/the-phone-screen-is-where-good-candidates-quietly-disappear-d6ecfa452296?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Leapfrog Moment: Why Mobile-First AI Could Reshape Africa’s Economy](https://medium.com/unlocking-the-power-of-emerging-technologies/the-leapfrog-moment-why-mobile-first-ai-could-reshape-africas-economy-9afccb53194e?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Our Child. And One Day, It May Ask Us Why We Created It.](https://medium.com/@sidpawar1010/ai-is-our-child-and-one-day-it-may-ask-us-why-we-created-it-10aae8efe797?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI and its Industrialized Hope Era](https://medium.com/@EashanGhosh/ai-and-its-industrialized-hope-era-bf94a58e3e58?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Add an FAQ Section to an Existing HTML Page with AI](https://medium.com/@htmldrag/how-to-add-an-faq-section-to-an-existing-html-page-with-ai-51bc9fab5b9b?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI in Marketing: Use Cases, Business Impact, and Implementation Costs](https://xicomofficial.medium.com/ai-in-marketing-use-cases-business-impact-and-implementation-costs-077e24864854?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
