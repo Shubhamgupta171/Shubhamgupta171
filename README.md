@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Beyond Chatbots: Anthropic Introduces Claude DUET](https://medium.com/@robi.tomar72/beyond-chatbots-anthropic-introduces-claude-duet-ae447045acc6?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 Free AI Tools That Can Actually Make You Money in 2026](https://medium.com/@aiincomelab/7-free-ai-tools-that-can-actually-make-you-money-in-2026-58a2080a2c84?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Was Built to Answer Questions. Now People Are Using It to Understand Themselves.](https://ai.plainenglish.io/ai-was-built-to-answer-questions-now-people-are-using-it-to-understand-themselves-a3afbb2c308e?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Can Write Code in Seconds. So Why Are Developers Still Needed?](https://medium.com/@pottelisowmyasree/ai-can-write-code-in-seconds-so-why-are-developers-still-needed-05ec2685f954?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Agent Now Has Its Own Browser, and It Isn’t Running on Your Laptop](https://medium.com/@donk8r/your-ai-agent-now-has-its-own-browser-and-it-isnt-running-on-your-laptop-948951461e75?source=rss------artificial_intelligence-5)**
-> 🔹 **[Disappearing Moats](https://timhanewich.medium.com/disappearing-moats-2599abbbb1db?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Makes an AI Professional Job-Ready After Artificial Intelligence Training in Mumbai?](https://medium.com/@boston.mahanta/what-makes-an-ai-professional-job-ready-after-artificial-intelligence-training-in-mumbai-04c0af856b8d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Real Cost of Remote Teams: Quiet Quitting and $35M AI Compliance Fines](https://medium.com/@paulspades_98782/the-real-cost-of-remote-teams-quiet-quitting-and-35m-ai-compliance-fines-5f1ffd33cd55?source=rss------artificial_intelligence-5)**
+> 🔹 **[Technology as Power](https://medium.com/@syedmuntasir/technology-as-power-8a150a77328a?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Gets 93.2% of Brand Facts Right. Its Errors Often Sit on the Pages It Cites](https://medium.com/@minelgunesoglu/ai-gets-93-2-of-brand-facts-right-its-errors-often-sit-on-the-pages-it-cites-fa767613ff74?source=rss------artificial_intelligence-5)**
+> 🔹 **[Seeking Wisdom in a Time of AI](https://tomfranklin-38940.medium.com/seeking-wisdom-in-a-time-of-ai-2fdc26b80911?source=rss------artificial_intelligence-5)**
+> 🔹 **[Semantic Search: How AI Understands the Meaning Behind Your Search](https://medium.com/@myneogroup1/semantic-search-how-ai-understands-the-meaning-behind-your-search-4be6b6859800?source=rss------artificial_intelligence-5)**
+> 🔹 **[Veri Bilimi İle Şehirleri Akıllandırmak: Python Kullanarak Rota Optimizasyonu Algoritması…](https://medium.com/@muhammedakay1228/veri-bilimi-i%CC%87le-%C5%9Fehirleri-ak%C4%B1lland%C4%B1rmak-python-kullanarak-rota-optimizasyonu-algoritmas%C4%B1-2a42767629dc?source=rss------artificial_intelligence-5)**
+> 🔹 **[MRR vs Recall@k vs Precision@k](https://harshitdawar.medium.com/mrr-vs-recall-k-vs-precision-k-c96a35d70df7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Silent Business Killer: How Operational Friction Drains Your Creative Capital](https://medium.com/@eomdoart/the-silent-business-killer-how-operational-friction-drains-your-creative-capital-00b21d05aa63?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Don’t Want Another AI Gadget. I Want the Devices I Already Own to Work Together](https://medium.com/@reetainraina/wearable-interoperability-48a81127ca91?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
