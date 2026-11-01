@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[PayMeGPT’s Stack Now Includes OpenAi’s dots, GrokBot &amp; Muse from Meta](https://medium.com/@Chatbotking/paymegpts-stack-now-includes-openai-s-dots-grokbot-muse-from-meta-4d781dd8ec8b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Scariest Bug in Enterprise RAG Isn’t Hallucination. It’s Cross-Tenant Leakage.](https://chaitanyagaur7.medium.com/the-scariest-bug-in-enterprise-rag-isnt-hallucination-it-s-cross-tenant-leakage-784d8b69c82a?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Job Panic Has a Second Act, and Nobody Is Talking About It](https://medium.com/@taeefnajib/the-ai-job-panic-has-a-second-act-and-nobody-is-talking-about-it-0b13f1ae0961?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Get the Ontario AI Training Grant: Upskilling Your Team for Agentic Workflows](https://medium.com/the-islands-edition/how-to-get-the-ontario-ai-training-grant-upskilling-your-team-for-agentic-workflows-16717985bc7e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can a Small LLM Be Trusted With Your Numbers?](https://medium.com/@charfibilel/can-a-small-llm-be-trusted-with-your-numbers-3f75629532ec?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Built SharkMind, an AI-Powered Startup Validation Tool, Using Google AI Studio](https://medium.com/@kadiscas23/how-i-built-sharkmind-an-ai-powered-startup-validation-tool-using-google-ai-studio-5c8d6be7dc59?source=rss------artificial_intelligence-5)**
-> 🔹 **[Evolución en Código: experimentando con algoritmos genéticos](https://medium.com/@cupilmarisa18/evoluci%C3%B3n-en-c%C3%B3digo-experimentando-con-algoritmos-gen%C3%A9ticos-68ecb30cce5a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Car Is Learning to See in Every Direction](https://medium.com/@kbvresearch.official/how-ai-multi-camera-systems-are-transforming-road-safety-84394ed13f5a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Paying Twice for the Same Vector: Spark Meets the LRU Cache](https://medium.com/@soberdataengineer/stop-paying-twice-for-the-same-vector-spark-meets-the-lru-cache-f873ec252137?source=rss------data_structures-5)**
+> 🔹 **[Manufacturing Pleasure: Astroturfing, Bot Swarms, and the Illusion of Consensus](https://medium.com/@pedroagjr10/manufacturing-pleasure-astroturfing-bot-swarms-and-the-illusion-of-consensus-d2387606e427?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Now Covers 2 of the 3 Steps](https://ryangtanaka.medium.com/claude-now-covers-2-of-the-3-steps-a3ab25218a50?source=rss------artificial_intelligence-5)**
+> 🔹 **[What 16 Papers and a 3,000-Team Kaggle Contest Taught Me About Recommenders](https://medium.com/@mutellipiqbal/what-16-papers-and-a-3-000-team-kaggle-contest-taught-me-about-recommenders-5b1f0fdaf256?source=rss------artificial_intelligence-5)**
+> 🔹 **[What to Log When Your AI Agent Retries: A Production Tracing Checklist](https://medium.com/@promptmastershop/what-to-log-when-your-ai-agent-retries-a-production-tracing-checklist-528e22c06e1a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Enterprise: Data to Operations](https://medium.com/@haryakshbhardwaj/enterprise-data-to-operations-97ac3d37d1b7?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Much Does an AI Agent Actually Cost in 2026? An Honest Breakdown](https://medium.com/@aleyaai/how-much-does-an-ai-agent-actually-cost-in-2026-an-honest-breakdown-dba05ec9c1fe?source=rss------artificial_intelligence-5)**
+> 🔹 **[PART 10 | CYCLE DETECTION](https://medium.com/@pavan-pithdiya/part-10-cycle-detection-2ac6bc7fe90b?source=rss------data_structures-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
