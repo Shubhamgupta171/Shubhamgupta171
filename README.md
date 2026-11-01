@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Stop Paying Twice for the Same Vector: Spark Meets the LRU Cache](https://medium.com/@soberdataengineer/stop-paying-twice-for-the-same-vector-spark-meets-the-lru-cache-f873ec252137?source=rss------data_structures-5)**
-> 🔹 **[Manufacturing Pleasure: Astroturfing, Bot Swarms, and the Illusion of Consensus](https://medium.com/@pedroagjr10/manufacturing-pleasure-astroturfing-bot-swarms-and-the-illusion-of-consensus-d2387606e427?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Now Covers 2 of the 3 Steps](https://ryangtanaka.medium.com/claude-now-covers-2-of-the-3-steps-a3ab25218a50?source=rss------artificial_intelligence-5)**
-> 🔹 **[What 16 Papers and a 3,000-Team Kaggle Contest Taught Me About Recommenders](https://medium.com/@mutellipiqbal/what-16-papers-and-a-3-000-team-kaggle-contest-taught-me-about-recommenders-5b1f0fdaf256?source=rss------artificial_intelligence-5)**
-> 🔹 **[What to Log When Your AI Agent Retries: A Production Tracing Checklist](https://medium.com/@promptmastershop/what-to-log-when-your-ai-agent-retries-a-production-tracing-checklist-528e22c06e1a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Enterprise: Data to Operations](https://medium.com/@haryakshbhardwaj/enterprise-data-to-operations-97ac3d37d1b7?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Much Does an AI Agent Actually Cost in 2026? An Honest Breakdown](https://medium.com/@aleyaai/how-much-does-an-ai-agent-actually-cost-in-2026-an-honest-breakdown-dba05ec9c1fe?source=rss------artificial_intelligence-5)**
-> 🔹 **[PART 10 | CYCLE DETECTION](https://medium.com/@pavan-pithdiya/part-10-cycle-detection-2ac6bc7fe90b?source=rss------data_structures-5)**
+> 🔹 **[The Same AI Can Find the Yes or the No. Medicare Just Showed Us Who Decides.](https://medium.com/@yankudinova/the-same-ai-can-find-the-yes-or-the-no-medicare-just-showed-us-who-decides-9c3200edbf0c?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI-Native Financial Infrastructure: Rebuilding the Future of Institutional Finance](https://medium.com/@myneogroup1/ai-native-financial-infrastructure-rebuilding-the-future-of-institutional-finance-1379cf38eb73?source=rss------artificial_intelligence-5)**
+> 🔹 **[A retórica do inevitável: inteligência artificial e o futuro da democracia](https://medium.com/@simonemarques_38909/a-ret%C3%B3rica-do-inevit%C3%A1vel-intelig%C3%AAncia-artificial-e-o-futuro-da-democracia-af9d440ec959?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond Time Management: Why Solopreneurs Need a Work System, Not a Calendar](https://medium.com/@eomdoart/beyond-time-management-why-solopreneurs-need-a-work-system-not-a-calendar-14cac1c8e10b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Local AI Is Moving Back Onto Your Own Computer](https://medium.com/@etsy3dperson/local-ai-is-moving-back-onto-your-own-computer-605dbac348b5?source=rss------artificial_intelligence-5)**
+> 🔹 **[How many AI photos should a man generate before he picks one? A stopping rule for dating profil...](https://medium.com/@better_shots_ai_tools/how-many-ai-photos-should-a-man-generate-before-he-picks-one-a-stopping-rule-for-dating-profiles-9f9a08b7da3b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Too shy for a photoshoot? What AI photos can and can’t stand in for when you’re the quiet one](https://medium.com/@better_shots_introvert/too-shy-for-a-photoshoot-what-ai-photos-can-and-cant-stand-in-for-when-you-re-the-quiet-one-f532b746b643?source=rss------artificial_intelligence-5)**
+> 🔹 **[Role of Artificial Intelligence Healthcare and medical insurance](https://medium.com/@tjodebola/role-of-artificial-intelligence-healthcare-and-medical-insurance-44ab8f910f9f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
