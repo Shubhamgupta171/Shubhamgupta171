@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Technology as Power](https://medium.com/@syedmuntasir/technology-as-power-8a150a77328a?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Gets 93.2% of Brand Facts Right. Its Errors Often Sit on the Pages It Cites](https://medium.com/@minelgunesoglu/ai-gets-93-2-of-brand-facts-right-its-errors-often-sit-on-the-pages-it-cites-fa767613ff74?source=rss------artificial_intelligence-5)**
-> 🔹 **[Seeking Wisdom in a Time of AI](https://tomfranklin-38940.medium.com/seeking-wisdom-in-a-time-of-ai-2fdc26b80911?source=rss------artificial_intelligence-5)**
-> 🔹 **[Semantic Search: How AI Understands the Meaning Behind Your Search](https://medium.com/@myneogroup1/semantic-search-how-ai-understands-the-meaning-behind-your-search-4be6b6859800?source=rss------artificial_intelligence-5)**
-> 🔹 **[Veri Bilimi İle Şehirleri Akıllandırmak: Python Kullanarak Rota Optimizasyonu Algoritması…](https://medium.com/@muhammedakay1228/veri-bilimi-i%CC%87le-%C5%9Fehirleri-ak%C4%B1lland%C4%B1rmak-python-kullanarak-rota-optimizasyonu-algoritmas%C4%B1-2a42767629dc?source=rss------artificial_intelligence-5)**
-> 🔹 **[MRR vs Recall@k vs Precision@k](https://harshitdawar.medium.com/mrr-vs-recall-k-vs-precision-k-c96a35d70df7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Silent Business Killer: How Operational Friction Drains Your Creative Capital](https://medium.com/@eomdoart/the-silent-business-killer-how-operational-friction-drains-your-creative-capital-00b21d05aa63?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Don’t Want Another AI Gadget. I Want the Devices I Already Own to Work Together](https://medium.com/@reetainraina/wearable-interoperability-48a81127ca91?source=rss------artificial_intelligence-5)**
+> 🔹 **[PayMeGPT’s Stack Now Includes OpenAi’s dots, GrokBot &amp; Muse from Meta](https://medium.com/@Chatbotking/paymegpts-stack-now-includes-openai-s-dots-grokbot-muse-from-meta-4d781dd8ec8b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Scariest Bug in Enterprise RAG Isn’t Hallucination. It’s Cross-Tenant Leakage.](https://chaitanyagaur7.medium.com/the-scariest-bug-in-enterprise-rag-isnt-hallucination-it-s-cross-tenant-leakage-784d8b69c82a?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Job Panic Has a Second Act, and Nobody Is Talking About It](https://medium.com/@taeefnajib/the-ai-job-panic-has-a-second-act-and-nobody-is-talking-about-it-0b13f1ae0961?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Get the Ontario AI Training Grant: Upskilling Your Team for Agentic Workflows](https://medium.com/the-islands-edition/how-to-get-the-ontario-ai-training-grant-upskilling-your-team-for-agentic-workflows-16717985bc7e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can a Small LLM Be Trusted With Your Numbers?](https://medium.com/@charfibilel/can-a-small-llm-be-trusted-with-your-numbers-3f75629532ec?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Built SharkMind, an AI-Powered Startup Validation Tool, Using Google AI Studio](https://medium.com/@kadiscas23/how-i-built-sharkmind-an-ai-powered-startup-validation-tool-using-google-ai-studio-5c8d6be7dc59?source=rss------artificial_intelligence-5)**
+> 🔹 **[Evolución en Código: experimentando con algoritmos genéticos](https://medium.com/@cupilmarisa18/evoluci%C3%B3n-en-c%C3%B3digo-experimentando-con-algoritmos-gen%C3%A9ticos-68ecb30cce5a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Car Is Learning to See in Every Direction](https://medium.com/@kbvresearch.official/how-ai-multi-camera-systems-are-transforming-road-safety-84394ed13f5a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
