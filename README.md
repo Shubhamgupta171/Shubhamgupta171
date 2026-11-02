@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Same AI Can Find the Yes or the No. Medicare Just Showed Us Who Decides.](https://medium.com/@yankudinova/the-same-ai-can-find-the-yes-or-the-no-medicare-just-showed-us-who-decides-9c3200edbf0c?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI-Native Financial Infrastructure: Rebuilding the Future of Institutional Finance](https://medium.com/@myneogroup1/ai-native-financial-infrastructure-rebuilding-the-future-of-institutional-finance-1379cf38eb73?source=rss------artificial_intelligence-5)**
-> 🔹 **[A retórica do inevitável: inteligência artificial e o futuro da democracia](https://medium.com/@simonemarques_38909/a-ret%C3%B3rica-do-inevit%C3%A1vel-intelig%C3%AAncia-artificial-e-o-futuro-da-democracia-af9d440ec959?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond Time Management: Why Solopreneurs Need a Work System, Not a Calendar](https://medium.com/@eomdoart/beyond-time-management-why-solopreneurs-need-a-work-system-not-a-calendar-14cac1c8e10b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Local AI Is Moving Back Onto Your Own Computer](https://medium.com/@etsy3dperson/local-ai-is-moving-back-onto-your-own-computer-605dbac348b5?source=rss------artificial_intelligence-5)**
-> 🔹 **[How many AI photos should a man generate before he picks one? A stopping rule for dating profil...](https://medium.com/@better_shots_ai_tools/how-many-ai-photos-should-a-man-generate-before-he-picks-one-a-stopping-rule-for-dating-profiles-9f9a08b7da3b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Too shy for a photoshoot? What AI photos can and can’t stand in for when you’re the quiet one](https://medium.com/@better_shots_introvert/too-shy-for-a-photoshoot-what-ai-photos-can-and-cant-stand-in-for-when-you-re-the-quiet-one-f532b746b643?source=rss------artificial_intelligence-5)**
-> 🔹 **[Role of Artificial Intelligence Healthcare and medical insurance](https://medium.com/@tjodebola/role-of-artificial-intelligence-healthcare-and-medical-insurance-44ab8f910f9f?source=rss------artificial_intelligence-5)**
+> 🔹 **[System Design in 12 Lines, Explained With Real Code](https://pixicstudio.medium.com/system-design-in-12-lines-explained-with-real-code-74d2c7e9f615?source=rss------backend_development-5)**
+> 🔹 **[EU AI Act Timeline and News: Every Date After the Digital Omnibus](https://medium.com/@mcthkayaa/eu-ai-act-timeline-and-news-every-date-after-the-digital-omnibus-1a7b78b6ef52?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gemini API CLI Explained: How Google’s New AI Developer Tool Works](https://medium.com/@techassistant.hub/gemini-api-cli-explained-how-googles-new-ai-developer-tool-works-4077b140c6d8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Act of Storytelling Is the Most Underrated Path to Go Viral](https://medium.com/@aicreatorscoach/the-act-of-storytelling-is-the-most-underrated-path-to-go-viral-94c942f32f51?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond Spreadsheets: Why CFOs Are Embracing AI for Financial Close Optimization](https://medium.com/@optimustech/beyond-spreadsheets-why-cfos-are-embracing-ai-for-financial-close-optimization-737974068b03?source=rss------artificial_intelligence-5)**
+> 🔹 **[I choose anarcho-socialism as my system, with a lot of love.](https://medium.com/@denisovarsene/i-choose-anarcho-socialism-as-my-system-with-a-lot-of-love-7e2cf479415f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Attention Is Not What You Need: What If AI Has Been Looking at Language the Wrong Way?](https://medium.com/@ammanakhtar8/attention-is-not-what-you-need-what-if-ai-has-been-looking-at-language-the-wrong-way-02999719d2a0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Ten from the weekend 10/31: A few interesting reads that I came across](https://gopivikranth.medium.com/ten-from-the-weekend-10-31-a-few-interesting-reads-that-i-came-across-6d0e9023344f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
