@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[System Design in 12 Lines, Explained With Real Code](https://pixicstudio.medium.com/system-design-in-12-lines-explained-with-real-code-74d2c7e9f615?source=rss------backend_development-5)**
-> 🔹 **[EU AI Act Timeline and News: Every Date After the Digital Omnibus](https://medium.com/@mcthkayaa/eu-ai-act-timeline-and-news-every-date-after-the-digital-omnibus-1a7b78b6ef52?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gemini API CLI Explained: How Google’s New AI Developer Tool Works](https://medium.com/@techassistant.hub/gemini-api-cli-explained-how-googles-new-ai-developer-tool-works-4077b140c6d8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Act of Storytelling Is the Most Underrated Path to Go Viral](https://medium.com/@aicreatorscoach/the-act-of-storytelling-is-the-most-underrated-path-to-go-viral-94c942f32f51?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond Spreadsheets: Why CFOs Are Embracing AI for Financial Close Optimization](https://medium.com/@optimustech/beyond-spreadsheets-why-cfos-are-embracing-ai-for-financial-close-optimization-737974068b03?source=rss------artificial_intelligence-5)**
-> 🔹 **[I choose anarcho-socialism as my system, with a lot of love.](https://medium.com/@denisovarsene/i-choose-anarcho-socialism-as-my-system-with-a-lot-of-love-7e2cf479415f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Attention Is Not What You Need: What If AI Has Been Looking at Language the Wrong Way?](https://medium.com/@ammanakhtar8/attention-is-not-what-you-need-what-if-ai-has-been-looking-at-language-the-wrong-way-02999719d2a0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ten from the weekend 10/31: A few interesting reads that I came across](https://gopivikranth.medium.com/ten-from-the-weekend-10-31-a-few-interesting-reads-that-i-came-across-6d0e9023344f?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Added One Server and Our Cache Started Falling Apart](https://medium.com/@theturtlecode/we-added-one-server-and-our-cache-started-falling-apart-891148ea7863?source=rss------backend_development-5)**
+> 🔹 **[AI-Powered DDoS Attacks in 2026: How Artificial Intelligence Is Transforming Cyber Threats and...](https://medium.com/@asadmohsin760/ai-powered-ddos-attacks-in-2026-how-artificial-intelligence-is-transforming-cyber-threats-and-the-aa87c6f1aa07?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic workflows for Designers: How to build your own AI design team](https://medium.com/@uxraspberry/agentic-workflows-for-designers-how-to-build-your-own-ai-design-team-6334f0adae5a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Java Thread Pools in Production: Queue Capacity, Rejection Policies, Thread Starvation, and the...](https://medium.com/@theturtlecode/java-thread-pools-in-production-queue-capacity-rejection-policies-thread-starvation-and-the-bba644eaff2b?source=rss------backend_development-5)**
+> 🔹 **[Every release cut off the answers our AI agents were writing.](https://medium.com/@nuveki.ai/every-release-cut-off-the-answers-our-ai-agents-were-writing-6a2ff4bcdb25?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google Just Admitted AI Mode Makes Less Money. That’s the Biggest SEO Story of the Year.](https://medium.com/@furqan_30984/google-just-admitted-ai-mode-makes-less-money-thats-the-biggest-seo-story-of-the-year-bc6013fef27f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Self Attention vs Multi-Head Attention:What’s the difference ?](https://medium.com/@shahnazfassy97/self-attention-vs-multi-head-attention-whats-the-difference-aaa76d4ef378?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Can Do the Analysis. So Why Do Companies Still Hire Consultants?](https://medium.com/@naoto01182002/ai-can-do-the-analysis-so-why-do-companies-still-hire-consultants-b76f701a2d36?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
