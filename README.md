@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[We Added One Server and Our Cache Started Falling Apart](https://medium.com/@theturtlecode/we-added-one-server-and-our-cache-started-falling-apart-891148ea7863?source=rss------backend_development-5)**
-> 🔹 **[AI-Powered DDoS Attacks in 2026: How Artificial Intelligence Is Transforming Cyber Threats and...](https://medium.com/@asadmohsin760/ai-powered-ddos-attacks-in-2026-how-artificial-intelligence-is-transforming-cyber-threats-and-the-aa87c6f1aa07?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentic workflows for Designers: How to build your own AI design team](https://medium.com/@uxraspberry/agentic-workflows-for-designers-how-to-build-your-own-ai-design-team-6334f0adae5a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Java Thread Pools in Production: Queue Capacity, Rejection Policies, Thread Starvation, and the...](https://medium.com/@theturtlecode/java-thread-pools-in-production-queue-capacity-rejection-policies-thread-starvation-and-the-bba644eaff2b?source=rss------backend_development-5)**
-> 🔹 **[Every release cut off the answers our AI agents were writing.](https://medium.com/@nuveki.ai/every-release-cut-off-the-answers-our-ai-agents-were-writing-6a2ff4bcdb25?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google Just Admitted AI Mode Makes Less Money. That’s the Biggest SEO Story of the Year.](https://medium.com/@furqan_30984/google-just-admitted-ai-mode-makes-less-money-thats-the-biggest-seo-story-of-the-year-bc6013fef27f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Self Attention vs Multi-Head Attention:What’s the difference ?](https://medium.com/@shahnazfassy97/self-attention-vs-multi-head-attention-whats-the-difference-aaa76d4ef378?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Can Do the Analysis. So Why Do Companies Still Hire Consultants?](https://medium.com/@naoto01182002/ai-can-do-the-analysis-so-why-do-companies-still-hire-consultants-b76f701a2d36?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Turn Reviewer Comments Into a Revision Plan Without Panicking](https://medium.com/@mayareyes_/how-to-turn-reviewer-comments-into-a-revision-plan-without-panicking-8c69d545c86f?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Can Google’s Elephant-Goldfish Plugin Catch Before an AI Agent Writes Code?](https://blog.stackademic.com/what-can-googles-elephant-goldfish-plugin-catch-before-an-ai-agent-writes-code-11b2dbede22b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Microsoft intelligent-terminal: Windows&#39; Official Built-in Agent CLI](https://githubdaily.medium.com/microsoft-intelligent-terminal-windows-official-built-in-agent-cli-6fcab67ea915?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Build a Tines Workflow for Phishing Triage](https://medium.com/@liutan2008/how-to-build-a-tines-workflow-for-phishing-triage-7cdc68a92879?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Invariance of Sovereign Silicon: Shattering the Cloud Monolith with the SOMALA 25-Model…](https://medium.com/ai-simplified-in-plain-english/the-invariance-of-sovereign-silicon-shattering-the-cloud-monolith-with-the-somala-25-model-fab7c269e626?source=rss------artificial_intelligence-5)**
+> 🔹 **[Make Agents Critique and Correct Each Other: Build Reflection Workflows with LangGraph and Hugg...](https://generativeai.pub/make-agents-critique-and-correct-each-other-build-reflection-workflows-with-langgraph-and-hugging-d1126e12e453?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Roko’s Basilisk to Grok, Meta, and Gemini: AI Tools Actually Helped](https://medium.com/@anancysilver/from-rokos-basilisk-to-grok-meta-and-gemini-ai-tools-actually-helped-b8c6d925dee5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Polymarket AI Bots &#39;Turn $1 Into $3.3M.&#39; Median User Loses $2.](https://medium.com/@automation.labs/polymarket-ai-bots-turn-1-into-3-3m-median-user-loses-2-fabcad03118f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
