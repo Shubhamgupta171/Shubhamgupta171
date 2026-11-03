@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Turn Reviewer Comments Into a Revision Plan Without Panicking](https://medium.com/@mayareyes_/how-to-turn-reviewer-comments-into-a-revision-plan-without-panicking-8c69d545c86f?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Can Google’s Elephant-Goldfish Plugin Catch Before an AI Agent Writes Code?](https://blog.stackademic.com/what-can-googles-elephant-goldfish-plugin-catch-before-an-ai-agent-writes-code-11b2dbede22b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Microsoft intelligent-terminal: Windows&#39; Official Built-in Agent CLI](https://githubdaily.medium.com/microsoft-intelligent-terminal-windows-official-built-in-agent-cli-6fcab67ea915?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Build a Tines Workflow for Phishing Triage](https://medium.com/@liutan2008/how-to-build-a-tines-workflow-for-phishing-triage-7cdc68a92879?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Invariance of Sovereign Silicon: Shattering the Cloud Monolith with the SOMALA 25-Model…](https://medium.com/ai-simplified-in-plain-english/the-invariance-of-sovereign-silicon-shattering-the-cloud-monolith-with-the-somala-25-model-fab7c269e626?source=rss------artificial_intelligence-5)**
-> 🔹 **[Make Agents Critique and Correct Each Other: Build Reflection Workflows with LangGraph and Hugg...](https://generativeai.pub/make-agents-critique-and-correct-each-other-build-reflection-workflows-with-langgraph-and-hugging-d1126e12e453?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Roko’s Basilisk to Grok, Meta, and Gemini: AI Tools Actually Helped](https://medium.com/@anancysilver/from-rokos-basilisk-to-grok-meta-and-gemini-ai-tools-actually-helped-b8c6d925dee5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Polymarket AI Bots &#39;Turn $1 Into $3.3M.&#39; Median User Loses $2.](https://medium.com/@automation.labs/polymarket-ai-bots-turn-1-into-3-3m-median-user-loses-2-fabcad03118f?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI drew the side panel. Should it update when the filter changes?](https://medium.com/@tishsingh3/ai-drew-the-side-panel-should-it-update-when-the-filter-changes-5ba53d2cc9d0?source=rss------system_design-5)**
+> 🔹 **[AWS Infinity: How Rust Can Keep 75,000 AI Agents in 8 GB of Memory](https://medium.com/@rothyyorn9/aws-infinity-how-rust-can-keep-75-000-ai-agents-in-8-gb-of-memory-a283018fd467?source=rss------artificial_intelligence-5)**
+> 🔹 **[Rust Web Development Is Taking a Different Path: What Comes After WebAssembly?](https://medium.com/@thyzmile24/rust-web-development-is-taking-a-different-path-what-comes-after-webassembly-a5d431010f85?source=rss------artificial_intelligence-5)**
+> 🔹 **[Getting Started with Custom Extraction Models in Azure Document Intelligence Studio](https://medium.com/@sansi.1372/getting-started-with-custom-extraction-models-in-azure-document-intelligence-studio-70aee4cf4644?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Can AI Deliver Measurable Impact?](https://medium.com/@jjdspence/how-can-ai-deliver-measurable-impact-d01e8b03ebc0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Lumentum Sold Out of Lasers. Is Marvell’s Takeover a Blessing or a Curse?](https://medium.com/@dolphin_research_/lumentum-sold-out-of-lasers-is-marvells-takeover-a-blessing-or-a-curse-7601d4fe3b1e?source=rss------artificial_intelligence-5)**
+> 🔹 **[TryHackMe’s Agentic AI Security Learning Path: My Review After Completing All 24 Rooms](https://medium.com/@hasnainalimagwa/tryhackmes-agentic-ai-security-learning-path-my-review-after-completing-all-24-rooms-6bd58b63ed8a?source=rss------artificial_intelligence-5)**
+> 🔹 **[A New Challenger to Nvidia’s GPUs and Google’s TPUs?](https://medium.com/@merperspective/a-new-challenger-to-nvidias-gpus-and-google-s-tpus-e2d125ade1a7?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
