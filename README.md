@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI drew the side panel. Should it update when the filter changes?](https://medium.com/@tishsingh3/ai-drew-the-side-panel-should-it-update-when-the-filter-changes-5ba53d2cc9d0?source=rss------system_design-5)**
-> 🔹 **[AWS Infinity: How Rust Can Keep 75,000 AI Agents in 8 GB of Memory](https://medium.com/@rothyyorn9/aws-infinity-how-rust-can-keep-75-000-ai-agents-in-8-gb-of-memory-a283018fd467?source=rss------artificial_intelligence-5)**
-> 🔹 **[Rust Web Development Is Taking a Different Path: What Comes After WebAssembly?](https://medium.com/@thyzmile24/rust-web-development-is-taking-a-different-path-what-comes-after-webassembly-a5d431010f85?source=rss------artificial_intelligence-5)**
-> 🔹 **[Getting Started with Custom Extraction Models in Azure Document Intelligence Studio](https://medium.com/@sansi.1372/getting-started-with-custom-extraction-models-in-azure-document-intelligence-studio-70aee4cf4644?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Can AI Deliver Measurable Impact?](https://medium.com/@jjdspence/how-can-ai-deliver-measurable-impact-d01e8b03ebc0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Lumentum Sold Out of Lasers. Is Marvell’s Takeover a Blessing or a Curse?](https://medium.com/@dolphin_research_/lumentum-sold-out-of-lasers-is-marvells-takeover-a-blessing-or-a-curse-7601d4fe3b1e?source=rss------artificial_intelligence-5)**
-> 🔹 **[TryHackMe’s Agentic AI Security Learning Path: My Review After Completing All 24 Rooms](https://medium.com/@hasnainalimagwa/tryhackmes-agentic-ai-security-learning-path-my-review-after-completing-all-24-rooms-6bd58b63ed8a?source=rss------artificial_intelligence-5)**
-> 🔹 **[A New Challenger to Nvidia’s GPUs and Google’s TPUs?](https://medium.com/@merperspective/a-new-challenger-to-nvidias-gpus-and-google-s-tpus-e2d125ade1a7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Our Staff Engineer Cut API Latency by 90%. Then We Discovered What His Redis Cache Was Hiding](https://medium.com/javarevisited/our-staff-engineer-cut-api-latency-by-90-then-we-discovered-what-his-redis-cache-was-hiding-f1b3c798d67b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Fake IDs, GPS Spoofing, and Stolen Supercomputers](https://hattyhats.medium.com/fake-ids-gps-spoofing-and-stolen-supercomputers-e0dbb6aa82d9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Research Papers on LLMs and Deep Learning: A Comprehensive Reading Guide](https://medium.com/techaion/research-papers-on-llms-and-deep-learning-a-comprehensive-reading-guide-08f32265128c?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Tag Is Not a Person](https://medium.com/@hal9050x/a-tag-is-not-a-person-27745f210f51?source=rss------artificial_intelligence-5)**
+> 🔹 **[Enterprise AI Adoption: Turning AI Experiments into Scalable Business Impact](https://medium.com/@myneogroup1/enterprise-ai-adoption-turning-ai-experiments-into-scalable-business-impact-74fb313690f8?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Six Things to Fix Today, Before Anything Else](https://medium.com/@buildwithkstar/the-six-things-to-fix-today-before-anything-else-105bacc15cbe?source=rss------artificial_intelligence-5)**
+> 🔹 **[Models Are Perishable, Architecture Is Permanent: The CEO’s Guide to AI Strategy and ROI](https://kapilrajyaguru.medium.com/models-are-perishable-architecture-is-permanent-the-ceos-guide-to-ai-strategy-and-roi-bac9651086ec?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Singing Voice Generator: What It Actually Does, and How to Choose One in 2026](https://medium.com/@voicestars.ai/ai-singing-voice-generator-what-it-actually-does-and-how-to-choose-one-in-2026-011e37fc29bc?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
