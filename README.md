@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[From Dashboard to Decision: How AI Is Transforming Logistics Control Towers](https://medium.com/@samta.aitech/from-dashboard-to-decision-how-ai-is-transforming-logistics-control-towers-e188e2a017e2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best AI Digital Marketing Expert in Royapettah on Using ChatGPT for Marketing Without Sounding...](https://medium.com/@dilseabu/best-ai-digital-marketing-expert-in-royapettah-on-using-chatgpt-for-marketing-without-sounding-like-fdc4d60c8ee1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stop Paying for Tokens: The 2026 Guide to Free AI APIs and Runtimes](https://medium.com/@aavetech/stop-paying-for-tokens-the-2026-guide-to-free-ai-apis-and-runtimes-d94f07b59b4e?source=rss------artificial_intelligence-5)**
-> 🔹 **[I measured how many tokens Claude Code &amp; Cursor waste on SaaS plumbing &lpar;and built 4 commands to...](https://medium.com/@nagulamalyalasaiteja4/i-measured-how-many-tokens-claude-code-cursor-waste-on-saas-plumbing-and-built-4-commands-to-8c8e59ae37a6?source=rss------artificial_intelligence-5)**
-> 🔹 **[CMO Spend Survey: AI Budgets Outrun AI Readiness](https://medium.com/@rohitprabhakarseo/cmo-spend-survey-ai-budgets-outrun-ai-readiness-f1483d4e9e32?source=rss------artificial_intelligence-5)**
-> 🔹 **[EEG-Based User Emotion Prediction for Emotional Context in Large Language Models](https://medium.com/@chaloemchai.ai/eeg-based-user-emotion-prediction-for-emotional-context-in-large-language-models-2dfd162f6112?source=rss------artificial_intelligence-5)**
-> 🔹 **[The $10 Billion AI Agent That Made Me Question the Entire AI Boom](https://medium.com/@colin.moreno.burgess/the-10-billion-ai-agent-that-made-me-question-the-entire-ai-boom-3f08d61291eb?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Is a GPU? Why Does AI Need It So Much? ️](https://growthexpert.medium.com/what-is-a-gpu-why-does-ai-need-it-so-much-%EF%B8%8F-dc80fee5289c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Le PDoom proche de zéro selon le CEO de Hugging Face](https://medium.com/@Abestit/le-pdoom-proche-de-z%C3%A9ro-selon-le-ceo-de-hugging-face-7ebb83594dc1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Mistral Large 4 Gives Europe a New Choice in Open-Weight AI](https://pub.towardsai.net/mistral-large-4-gives-europe-a-new-choice-in-open-weight-ai-574355cbf8c1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Connected Automotive Factory Why Real-Time Visibility is More Critical Than Ever](https://medium.com/@szj17trades/connected-automotive-factory-why-real-time-visibility-is-more-critical-than-ever-579cf7f9fef6?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Voice Agents Authenticate Callers &lpar;and Where They Fail&rpar;](https://medium.com/@palak_26149/how-ai-voice-agents-authenticate-callers-and-where-they-fail-c4bcd16e7fa7?source=rss------artificial_intelligence-5)**
+> 🔹 **[They Laid You Off for AI. Now They Want You Back. Here Is How to Negotiate the Return.](https://medium.com/@mmalbroughiii/they-laid-you-off-for-ai-now-they-want-you-back-here-is-how-to-negotiate-the-return-af1bb1e8fb94?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best AI Player Support Platforms for Game Studios in 2026](https://medium.com/@palak_26149/best-ai-player-support-platforms-for-game-studios-in-2026-cbcaf3160f83?source=rss------artificial_intelligence-5)**
+> 🔹 **[Data Centers: The Factories Powering Digital Life](https://medium.com/@samoalfred/data-centers-the-invisible-factories-powering-digital-life-70986e63945d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Handle Player Support During a Game Launch](https://medium.com/@palak_26149/how-to-handle-player-support-during-a-game-launch-604fbd70ee1d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
