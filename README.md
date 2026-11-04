@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Our Staff Engineer Cut API Latency by 90%. Then We Discovered What His Redis Cache Was Hiding](https://medium.com/javarevisited/our-staff-engineer-cut-api-latency-by-90-then-we-discovered-what-his-redis-cache-was-hiding-f1b3c798d67b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Fake IDs, GPS Spoofing, and Stolen Supercomputers](https://hattyhats.medium.com/fake-ids-gps-spoofing-and-stolen-supercomputers-e0dbb6aa82d9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Research Papers on LLMs and Deep Learning: A Comprehensive Reading Guide](https://medium.com/techaion/research-papers-on-llms-and-deep-learning-a-comprehensive-reading-guide-08f32265128c?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Tag Is Not a Person](https://medium.com/@hal9050x/a-tag-is-not-a-person-27745f210f51?source=rss------artificial_intelligence-5)**
-> 🔹 **[Enterprise AI Adoption: Turning AI Experiments into Scalable Business Impact](https://medium.com/@myneogroup1/enterprise-ai-adoption-turning-ai-experiments-into-scalable-business-impact-74fb313690f8?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Six Things to Fix Today, Before Anything Else](https://medium.com/@buildwithkstar/the-six-things-to-fix-today-before-anything-else-105bacc15cbe?source=rss------artificial_intelligence-5)**
-> 🔹 **[Models Are Perishable, Architecture Is Permanent: The CEO’s Guide to AI Strategy and ROI](https://kapilrajyaguru.medium.com/models-are-perishable-architecture-is-permanent-the-ceos-guide-to-ai-strategy-and-roi-bac9651086ec?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Singing Voice Generator: What It Actually Does, and How to Choose One in 2026](https://medium.com/@voicestars.ai/ai-singing-voice-generator-what-it-actually-does-and-how-to-choose-one-in-2026-011e37fc29bc?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Dashboard to Decision: How AI Is Transforming Logistics Control Towers](https://medium.com/@samta.aitech/from-dashboard-to-decision-how-ai-is-transforming-logistics-control-towers-e188e2a017e2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best AI Digital Marketing Expert in Royapettah on Using ChatGPT for Marketing Without Sounding...](https://medium.com/@dilseabu/best-ai-digital-marketing-expert-in-royapettah-on-using-chatgpt-for-marketing-without-sounding-like-fdc4d60c8ee1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stop Paying for Tokens: The 2026 Guide to Free AI APIs and Runtimes](https://medium.com/@aavetech/stop-paying-for-tokens-the-2026-guide-to-free-ai-apis-and-runtimes-d94f07b59b4e?source=rss------artificial_intelligence-5)**
+> 🔹 **[I measured how many tokens Claude Code &amp; Cursor waste on SaaS plumbing &lpar;and built 4 commands to...](https://medium.com/@nagulamalyalasaiteja4/i-measured-how-many-tokens-claude-code-cursor-waste-on-saas-plumbing-and-built-4-commands-to-8c8e59ae37a6?source=rss------artificial_intelligence-5)**
+> 🔹 **[CMO Spend Survey: AI Budgets Outrun AI Readiness](https://medium.com/@rohitprabhakarseo/cmo-spend-survey-ai-budgets-outrun-ai-readiness-f1483d4e9e32?source=rss------artificial_intelligence-5)**
+> 🔹 **[EEG-Based User Emotion Prediction for Emotional Context in Large Language Models](https://medium.com/@chaloemchai.ai/eeg-based-user-emotion-prediction-for-emotional-context-in-large-language-models-2dfd162f6112?source=rss------artificial_intelligence-5)**
+> 🔹 **[The $10 Billion AI Agent That Made Me Question the Entire AI Boom](https://medium.com/@colin.moreno.burgess/the-10-billion-ai-agent-that-made-me-question-the-entire-ai-boom-3f08d61291eb?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Is a GPU? Why Does AI Need It So Much? ️](https://growthexpert.medium.com/what-is-a-gpu-why-does-ai-need-it-so-much-%EF%B8%8F-dc80fee5289c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
