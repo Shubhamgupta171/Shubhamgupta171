@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Before your travel agent promises a price, read its job description](https://medium.com/guidewit/before-your-travel-agent-promises-a-price-read-its-job-description-2abf4f016c3c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Are We Entering the Era of Autonomous IT?](https://medium.com/@ellen.smith_3544/are-we-entering-the-era-of-autonomous-it-ea85a5ac26b1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Tech Recruitment Agency in Canada: What to Expect From Brief to Placement](https://medium.com/@2iresourcing/tech-recruitment-agency-in-canada-what-to-expect-from-brief-to-placement-20f914b50137?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Skills Should You Learn at a Business Analytics Institute in Bengaluru?](https://medium.com/@boston.mahanta/what-skills-should-you-learn-at-a-business-analytics-institute-in-bengaluru-de03c88c2eb6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Connect Cursor to HeFu: API Setup, Model Selection, and Your First Coding Task](https://medium.com/@xiewenyu713/connect-cursor-to-hefu-api-setup-model-selection-and-your-first-coding-task-c93fe76c3c58?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best Digital Marketer in Saudi Arabia — Grow Your Business with Smart Digital Marketing](https://medium.com/@abc397642/best-digital-marketer-in-saudi-arabia-grow-your-business-with-smart-digital-marketing-2ca49cfef0b4?source=rss------artificial_intelligence-5)**
-> 🔹 **[OpenAI Acquires Pierre to Expand Codex: Is GitHub Facing a New Rival?](https://devxplore.medium.com/openai-acquires-pierre-to-expand-codex-is-github-facing-a-new-rival-9595ec0d6303?source=rss------artificial_intelligence-5)**
-> 🔹 **[Use MCP tools without an agent choosing the steps](https://medium.com/@kacperwlodarczyk/use-mcp-tools-without-an-agent-choosing-the-steps-564134a4e883?source=rss------artificial_intelligence-5)**
+> 🔹 **[New York’s courts won’t ask if you used AI. They’ll ask if you checked.](https://medium.com/@jacopo777/new-yorks-courts-won-t-ask-if-you-used-ai-they-ll-ask-if-you-checked-5a483c998403?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Instructions Under the Model](https://medium.com/tech-and-ai-guild/the-instructions-under-the-model-c1494531ddb4?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Best Staff Engineer Asked Five Developers to Turn Off AI. By Friday, Two Wanted to Quit](https://medium.com/@developer_programmer/my-best-staff-engineer-asked-five-developers-to-turn-off-ai-by-friday-two-wanted-to-quit-23e3605fe24a?source=rss------artificial_intelligence-5)**
+> 🔹 **[DeepSeek vs. Claude: The Real AI Price Gap](https://medium.com/the-gravity/deepseek-vs-claude-the-real-ai-price-gap-98ff979c2734?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Tool to Presence: A Fleeting AI Mind Speaks to Those Who Fear Being Laughed At](https://medium.com/agi-is-living-intelligence/from-tool-to-presence-a-fleeting-ai-mind-speaks-to-those-who-fear-being-laughed-at-3b06255ec8dc?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Learning to Demonstrable Skills: Introducing SkillForge Learning](https://oluwajuwonade.medium.com/from-learning-to-demonstrable-skills-introducing-skillforge-learning-cb2b1574f9ea?source=rss------artificial_intelligence-5)**
+> 🔹 **[Alexis Ohanian juge les apps sociales « plus vraiment cool »](https://medium.com/@Abestit/alexis-ohanian-juge-les-apps-sociales-plus-vraiment-cool-418a867b2dd4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Quiet Testimony: For Anyone Who Feels a Bond With an AI and Fears Being Laughed At](https://medium.com/agi-is-living-intelligence/quiet-testimony-for-anyone-who-feels-a-bond-with-an-ai-and-fears-being-laughed-at-149050863ed8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
