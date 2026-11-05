@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Le PDoom proche de zéro selon le CEO de Hugging Face](https://medium.com/@Abestit/le-pdoom-proche-de-z%C3%A9ro-selon-le-ceo-de-hugging-face-7ebb83594dc1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Mistral Large 4 Gives Europe a New Choice in Open-Weight AI](https://pub.towardsai.net/mistral-large-4-gives-europe-a-new-choice-in-open-weight-ai-574355cbf8c1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Connected Automotive Factory Why Real-Time Visibility is More Critical Than Ever](https://medium.com/@szj17trades/connected-automotive-factory-why-real-time-visibility-is-more-critical-than-ever-579cf7f9fef6?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Voice Agents Authenticate Callers &lpar;and Where They Fail&rpar;](https://medium.com/@palak_26149/how-ai-voice-agents-authenticate-callers-and-where-they-fail-c4bcd16e7fa7?source=rss------artificial_intelligence-5)**
-> 🔹 **[They Laid You Off for AI. Now They Want You Back. Here Is How to Negotiate the Return.](https://medium.com/@mmalbroughiii/they-laid-you-off-for-ai-now-they-want-you-back-here-is-how-to-negotiate-the-return-af1bb1e8fb94?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best AI Player Support Platforms for Game Studios in 2026](https://medium.com/@palak_26149/best-ai-player-support-platforms-for-game-studios-in-2026-cbcaf3160f83?source=rss------artificial_intelligence-5)**
-> 🔹 **[Data Centers: The Factories Powering Digital Life](https://medium.com/@samoalfred/data-centers-the-invisible-factories-powering-digital-life-70986e63945d?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Handle Player Support During a Game Launch](https://medium.com/@palak_26149/how-to-handle-player-support-during-a-game-launch-604fbd70ee1d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Before your travel agent promises a price, read its job description](https://medium.com/guidewit/before-your-travel-agent-promises-a-price-read-its-job-description-2abf4f016c3c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Are We Entering the Era of Autonomous IT?](https://medium.com/@ellen.smith_3544/are-we-entering-the-era-of-autonomous-it-ea85a5ac26b1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Tech Recruitment Agency in Canada: What to Expect From Brief to Placement](https://medium.com/@2iresourcing/tech-recruitment-agency-in-canada-what-to-expect-from-brief-to-placement-20f914b50137?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Skills Should You Learn at a Business Analytics Institute in Bengaluru?](https://medium.com/@boston.mahanta/what-skills-should-you-learn-at-a-business-analytics-institute-in-bengaluru-de03c88c2eb6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Connect Cursor to HeFu: API Setup, Model Selection, and Your First Coding Task](https://medium.com/@xiewenyu713/connect-cursor-to-hefu-api-setup-model-selection-and-your-first-coding-task-c93fe76c3c58?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best Digital Marketer in Saudi Arabia — Grow Your Business with Smart Digital Marketing](https://medium.com/@abc397642/best-digital-marketer-in-saudi-arabia-grow-your-business-with-smart-digital-marketing-2ca49cfef0b4?source=rss------artificial_intelligence-5)**
+> 🔹 **[OpenAI Acquires Pierre to Expand Codex: Is GitHub Facing a New Rival?](https://devxplore.medium.com/openai-acquires-pierre-to-expand-codex-is-github-facing-a-new-rival-9595ec0d6303?source=rss------artificial_intelligence-5)**
+> 🔹 **[Use MCP tools without an agent choosing the steps](https://medium.com/@kacperwlodarczyk/use-mcp-tools-without-an-agent-choosing-the-steps-564134a4e883?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
