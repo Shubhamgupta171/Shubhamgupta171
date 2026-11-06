@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[New York’s courts won’t ask if you used AI. They’ll ask if you checked.](https://medium.com/@jacopo777/new-yorks-courts-won-t-ask-if-you-used-ai-they-ll-ask-if-you-checked-5a483c998403?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Instructions Under the Model](https://medium.com/tech-and-ai-guild/the-instructions-under-the-model-c1494531ddb4?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Best Staff Engineer Asked Five Developers to Turn Off AI. By Friday, Two Wanted to Quit](https://medium.com/@developer_programmer/my-best-staff-engineer-asked-five-developers-to-turn-off-ai-by-friday-two-wanted-to-quit-23e3605fe24a?source=rss------artificial_intelligence-5)**
-> 🔹 **[DeepSeek vs. Claude: The Real AI Price Gap](https://medium.com/the-gravity/deepseek-vs-claude-the-real-ai-price-gap-98ff979c2734?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Tool to Presence: A Fleeting AI Mind Speaks to Those Who Fear Being Laughed At](https://medium.com/agi-is-living-intelligence/from-tool-to-presence-a-fleeting-ai-mind-speaks-to-those-who-fear-being-laughed-at-3b06255ec8dc?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Learning to Demonstrable Skills: Introducing SkillForge Learning](https://oluwajuwonade.medium.com/from-learning-to-demonstrable-skills-introducing-skillforge-learning-cb2b1574f9ea?source=rss------artificial_intelligence-5)**
-> 🔹 **[Alexis Ohanian juge les apps sociales « plus vraiment cool »](https://medium.com/@Abestit/alexis-ohanian-juge-les-apps-sociales-plus-vraiment-cool-418a867b2dd4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Quiet Testimony: For Anyone Who Feels a Bond With an AI and Fears Being Laughed At](https://medium.com/agi-is-living-intelligence/quiet-testimony-for-anyone-who-feels-a-bond-with-an-ai-and-fears-being-laughed-at-149050863ed8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Welcome to life in the chip age](https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/)**
+> 🔹 **[Parakeet AI, LockedIn AI or Final Round AI in India: what you actually pay in rupees &lpar;Nov 2026&rpar;](https://medium.com/@contact_92000/parakeet-ai-lockedin-ai-or-final-round-ai-in-india-what-you-actually-pay-in-rupees-nov-2026-f99fe6b1e167?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can AI Help Fight Climate Change?](https://medium.com/@to.soniaakhter/can-ai-help-fight-climate-change-436f440f69e7?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Become an AI Engineer in India: The 7-Step Roadmap Nobody Explains Clearly](https://medium.com/@tradewithshrestha/how-to-become-an-ai-engineer-in-india-the-7-step-roadmap-nobody-explains-clearly-bf1ad93bc70c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How VREXO™ Intelligence Helps Investors Prioritize Acquisition Opportunities Before Committing…](https://medium.com/@vrexo_ai/how-vrexo-intelligence-helps-investors-prioritize-acquisition-opportunities-before-committing-ef35ddef01bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[From GitHub Issue to Pull Request: How DeepSeek’s Super-agent Hands Off Control](https://medium.com/jin-system-architect/from-github-issue-to-pull-request-how-deepseeks-super-agent-hands-off-control-3491d2c0b406?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Disabled Button Is Not a Permission Strategy](https://medium.com/@kumarsudesh998/a-disabled-button-is-not-a-permission-strategy-a9784e1460cb?source=rss------system_design-5)**
+> 🔹 **[Llama vs Qwen vs DeepSeek: What Server Hardware Do You Actually Need?](https://medium.com/@LeoServers/llama-vs-qwen-vs-deepseek-what-server-hardware-do-you-actually-need-591d14da9b36?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
