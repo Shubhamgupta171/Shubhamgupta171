@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Welcome to life in the chip age](https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/)**
-> 🔹 **[Parakeet AI, LockedIn AI or Final Round AI in India: what you actually pay in rupees &lpar;Nov 2026&rpar;](https://medium.com/@contact_92000/parakeet-ai-lockedin-ai-or-final-round-ai-in-india-what-you-actually-pay-in-rupees-nov-2026-f99fe6b1e167?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can AI Help Fight Climate Change?](https://medium.com/@to.soniaakhter/can-ai-help-fight-climate-change-436f440f69e7?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Become an AI Engineer in India: The 7-Step Roadmap Nobody Explains Clearly](https://medium.com/@tradewithshrestha/how-to-become-an-ai-engineer-in-india-the-7-step-roadmap-nobody-explains-clearly-bf1ad93bc70c?source=rss------artificial_intelligence-5)**
-> 🔹 **[How VREXO™ Intelligence Helps Investors Prioritize Acquisition Opportunities Before Committing…](https://medium.com/@vrexo_ai/how-vrexo-intelligence-helps-investors-prioritize-acquisition-opportunities-before-committing-ef35ddef01bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[From GitHub Issue to Pull Request: How DeepSeek’s Super-agent Hands Off Control](https://medium.com/jin-system-architect/from-github-issue-to-pull-request-how-deepseeks-super-agent-hands-off-control-3491d2c0b406?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Disabled Button Is Not a Permission Strategy](https://medium.com/@kumarsudesh998/a-disabled-button-is-not-a-permission-strategy-a9784e1460cb?source=rss------system_design-5)**
-> 🔹 **[Llama vs Qwen vs DeepSeek: What Server Hardware Do You Actually Need?](https://medium.com/@LeoServers/llama-vs-qwen-vs-deepseek-what-server-hardware-do-you-actually-need-591d14da9b36?source=rss------artificial_intelligence-5)**
+> 🔹 **[Seven Digital Marketing Myths That Quietly Drain Your Budget](https://medium.com/@dreamexpansion7293/seven-digital-marketing-myths-that-quietly-drain-your-budget-4a38e2dda505?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Coding Agent Your Developer Uses Matters More Than the Demo](https://medium.com/@rickleffke/the-coding-agent-your-developer-uses-matters-more-than-the-demo-eb64e9260874?source=rss------artificial_intelligence-5)**
+> 🔹 **[Medical AI Benefits Depend on User Expertise: What New Research Reveals](https://medium.com/@abhishek_30212/medical-ai-benefits-depend-on-user-expertise-what-new-research-reveals-9ef84a391634?source=rss------artificial_intelligence-5)**
+> 🔹 **[Silenced by contract: why AI whistleblowers need a right to warn](https://medium.com/enrique-dans/silenced-by-contract-why-ai-whistleblowers-need-a-right-to-warn-626d4f64598f?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Data Center Backlash Exposes the AI Boom’s Narrow Vision of Wealth](https://medium.com/@alexycliu/the-data-center-backlash-exposes-the-ai-booms-narrow-vision-of-wealth-47dd0cd3a216?source=rss------artificial_intelligence-5)**
+> 🔹 **[2026 Delta Fellowship Wrap Up: Building for Social Good!](https://medium.com/deltanalytics/2026-delta-fellowship-wrap-up-building-for-social-good-005ee749ffee?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Turn AI Art Styles Into a Labeled Visual Reference Library](https://medium.com/@ttrimm/how-i-turn-ai-art-styles-into-a-labeled-visual-reference-library-3159d37140ec?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Assistant Gives Answers. But Can Your Team Trust Them?](https://medium.com/@pinnacloid/your-ai-assistant-gives-answers-but-can-your-team-trust-them-a06a0a1a5371?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
