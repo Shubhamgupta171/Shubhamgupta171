@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How a TLS Fingerprint Can Reject a Bot Before bcrypt Ever Runs.](https://pixicstudio.medium.com/tls-fingerprint-credential-stuffing-513484f446f6?source=rss------backend_development-5)**
-> 🔹 **[The Spider It Never Wrote](https://medium.com/data-science-collective/the-spider-it-never-wrote-00d819a416d5?source=rss------artificial_intelligence-5)**
-> 🔹 **[A Browser Built for Agents: No Code Changes, 16x Less Memory](https://githubdaily.medium.com/a-browser-built-for-agents-no-code-changes-16x-less-memory-9ac1a4b22f28?source=rss------artificial_intelligence-5)**
-> 🔹 **[What If We Connected Every Plant to AI? Could We Build a Planet-Wide Plant Intelligence Network...](https://medium.com/@maneaditya478/what-if-we-connected-every-plant-to-ai-could-we-build-a-planet-wide-plant-intelligence-network-4d3d687b6b17?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Search Engines to Intelligent Discovery: How AI Is Revolutionising Information Retrieval](https://blog.cubed.run/from-search-engines-to-intelligent-discovery-how-ai-is-revolutionising-information-retrieval-a1d66b06a81d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Quantum Computing — The Future is Already Here](https://medium.com/@zobariakhann/quantum-computing-the-future-is-already-here-c568f1302eae?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Your RAG Application Retrieves the Wrong Documents](https://medium.com/@gulsaba.fiha/why-your-rag-application-retrieves-the-wrong-documents-68d6e8c728fd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google Lost Nearly $500 Billion in a Day. Wall Street Is Finally Asking About AI Returns](https://medium.com/skillstuff/google-lost-nearly-500-billion-in-a-day-wall-street-is-finally-asking-about-ai-returns-c85993490d9f?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Prioritize Product Feedback by Revenue at Risk](https://towardsdatascience.com/how-to-prioritize-product-feedback-by-revenue-at-risk/)**
+> 🔹 **[We Hired a $350,000 Principal Engineer. His First Question Put Our CTO’s Job at Risk](https://medium.com/engineering-playbook/we-hired-a-350-000-principal-engineer-his-first-question-put-our-ctos-job-at-risk-240676039887?source=rss------artificial_intelligence-5)**
+> 🔹 **[Coordinated Omission in Go: Why Your Load Tests Underestimate Latency](https://medium.com/@serifcolakel/coordinated-omission-in-go-why-your-load-tests-underestimate-latency-8cf437e0b7a9?source=rss------backend_development-5)**
+> 🔹 **[Qwen 4 Almost Here! Alibaba Teases a 2,300-Year-Old Fish, Testers Claim Half DeepSeek’s Tokens?](https://medium.com/@mikesulka/qwen-4-almost-here-alibaba-teases-a-2-300-year-old-fish-testers-claim-half-deepseeks-tokens-bc4c3c9ff1f9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Which AI chatbot builder fits your knowledge workflow?](https://medium.com/@trelvek/which-ai-chatbot-builder-fits-your-knowledge-workflow-f4ba3f1923e7?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Rejected a $290,000 Staff Engineer. Six Months Later, He Was Reviewing Our Acquisition](https://medium.com/engineering-playbook/we-rejected-a-290-000-staff-engineer-six-months-later-he-was-reviewing-our-acquisition-19002d3c20de?source=rss------artificial_intelligence-5)**
+> 🔹 **[Learn AI Tools Before They Learn Your Job](https://medium.com/@kinzych826/learn-ai-tools-before-they-learn-your-job-d1fcb81d7de7?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Jewelry Photography: One Photo, Every Metal, and the Engraving That Almost Disappeared](https://medium.com/@ahmedhamdise/ai-jewelry-photography-one-photo-every-metal-and-the-engraving-that-almost-disappeared-2bef49340c69?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
