@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Seven Digital Marketing Myths That Quietly Drain Your Budget](https://medium.com/@dreamexpansion7293/seven-digital-marketing-myths-that-quietly-drain-your-budget-4a38e2dda505?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Coding Agent Your Developer Uses Matters More Than the Demo](https://medium.com/@rickleffke/the-coding-agent-your-developer-uses-matters-more-than-the-demo-eb64e9260874?source=rss------artificial_intelligence-5)**
-> 🔹 **[Medical AI Benefits Depend on User Expertise: What New Research Reveals](https://medium.com/@abhishek_30212/medical-ai-benefits-depend-on-user-expertise-what-new-research-reveals-9ef84a391634?source=rss------artificial_intelligence-5)**
-> 🔹 **[Silenced by contract: why AI whistleblowers need a right to warn](https://medium.com/enrique-dans/silenced-by-contract-why-ai-whistleblowers-need-a-right-to-warn-626d4f64598f?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Data Center Backlash Exposes the AI Boom’s Narrow Vision of Wealth](https://medium.com/@alexycliu/the-data-center-backlash-exposes-the-ai-booms-narrow-vision-of-wealth-47dd0cd3a216?source=rss------artificial_intelligence-5)**
-> 🔹 **[2026 Delta Fellowship Wrap Up: Building for Social Good!](https://medium.com/deltanalytics/2026-delta-fellowship-wrap-up-building-for-social-good-005ee749ffee?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Turn AI Art Styles Into a Labeled Visual Reference Library](https://medium.com/@ttrimm/how-i-turn-ai-art-styles-into-a-labeled-visual-reference-library-3159d37140ec?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Assistant Gives Answers. But Can Your Team Trust Them?](https://medium.com/@pinnacloid/your-ai-assistant-gives-answers-but-can-your-team-trust-them-a06a0a1a5371?source=rss------artificial_intelligence-5)**
+> 🔹 **[How a TLS Fingerprint Can Reject a Bot Before bcrypt Ever Runs.](https://pixicstudio.medium.com/tls-fingerprint-credential-stuffing-513484f446f6?source=rss------backend_development-5)**
+> 🔹 **[The Spider It Never Wrote](https://medium.com/data-science-collective/the-spider-it-never-wrote-00d819a416d5?source=rss------artificial_intelligence-5)**
+> 🔹 **[A Browser Built for Agents: No Code Changes, 16x Less Memory](https://githubdaily.medium.com/a-browser-built-for-agents-no-code-changes-16x-less-memory-9ac1a4b22f28?source=rss------artificial_intelligence-5)**
+> 🔹 **[What If We Connected Every Plant to AI? Could We Build a Planet-Wide Plant Intelligence Network...](https://medium.com/@maneaditya478/what-if-we-connected-every-plant-to-ai-could-we-build-a-planet-wide-plant-intelligence-network-4d3d687b6b17?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Search Engines to Intelligent Discovery: How AI Is Revolutionising Information Retrieval](https://blog.cubed.run/from-search-engines-to-intelligent-discovery-how-ai-is-revolutionising-information-retrieval-a1d66b06a81d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Quantum Computing — The Future is Already Here](https://medium.com/@zobariakhann/quantum-computing-the-future-is-already-here-c568f1302eae?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Your RAG Application Retrieves the Wrong Documents](https://medium.com/@gulsaba.fiha/why-your-rag-application-retrieves-the-wrong-documents-68d6e8c728fd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google Lost Nearly $500 Billion in a Day. Wall Street Is Finally Asking About AI Returns](https://medium.com/skillstuff/google-lost-nearly-500-billion-in-a-day-wall-street-is-finally-asking-about-ai-returns-c85993490d9f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
