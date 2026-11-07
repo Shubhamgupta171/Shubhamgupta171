@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Prioritize Product Feedback by Revenue at Risk](https://towardsdatascience.com/how-to-prioritize-product-feedback-by-revenue-at-risk/)**
-> 🔹 **[We Hired a $350,000 Principal Engineer. His First Question Put Our CTO’s Job at Risk](https://medium.com/engineering-playbook/we-hired-a-350-000-principal-engineer-his-first-question-put-our-ctos-job-at-risk-240676039887?source=rss------artificial_intelligence-5)**
-> 🔹 **[Coordinated Omission in Go: Why Your Load Tests Underestimate Latency](https://medium.com/@serifcolakel/coordinated-omission-in-go-why-your-load-tests-underestimate-latency-8cf437e0b7a9?source=rss------backend_development-5)**
-> 🔹 **[Qwen 4 Almost Here! Alibaba Teases a 2,300-Year-Old Fish, Testers Claim Half DeepSeek’s Tokens?](https://medium.com/@mikesulka/qwen-4-almost-here-alibaba-teases-a-2-300-year-old-fish-testers-claim-half-deepseeks-tokens-bc4c3c9ff1f9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Which AI chatbot builder fits your knowledge workflow?](https://medium.com/@trelvek/which-ai-chatbot-builder-fits-your-knowledge-workflow-f4ba3f1923e7?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Rejected a $290,000 Staff Engineer. Six Months Later, He Was Reviewing Our Acquisition](https://medium.com/engineering-playbook/we-rejected-a-290-000-staff-engineer-six-months-later-he-was-reviewing-our-acquisition-19002d3c20de?source=rss------artificial_intelligence-5)**
-> 🔹 **[Learn AI Tools Before They Learn Your Job](https://medium.com/@kinzych826/learn-ai-tools-before-they-learn-your-job-d1fcb81d7de7?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Jewelry Photography: One Photo, Every Metal, and the Engraving That Almost Disappeared](https://medium.com/@ahmedhamdise/ai-jewelry-photography-one-photo-every-metal-and-the-engraving-that-almost-disappeared-2bef49340c69?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 30/60: The Mathematics of Compression — Principal Component Analysis &lpar;PCA&rpar;](https://medium.com/@vrkksharma/day-30-60-the-mathematics-of-compression-principal-component-analysis-pca-16fe3cba37b7?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Chronicles of Kael](https://medium.com/@enderdiril/the-chronicles-of-kael-e467d88664c8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Our Most Important Software Was Maintained by a Man We Had Never Paid](https://medium.com/engineering-playbook/our-most-important-software-was-maintained-by-a-man-we-had-never-paid-fc7074f60f94?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Raised Our SaaS Prices by 40%. Our Biggest Customer Sent Us a GitHub Repository](https://medium.com/engineering-playbook/we-raised-our-saas-prices-by-40-our-biggest-customer-sent-us-a-github-repository-fdb8084c5b11?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Code for non-coders and non-coding tasks: what works, what doesn&#39;t, and what to run for...](https://medium.com/@marcellhavlik_83469/claude-code-for-non-coders-and-non-coding-tasks-what-works-what-doesnt-and-what-to-run-for-the-251f7e5dcd02?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI Writes Code, Engineers Must Own the Decisions](https://medium.com/nextgen-dev-ai-code/when-ai-writes-code-engineers-must-own-the-decisions-fdde3bd27311?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 29/60: The Chicken and the Egg — Expectation-Maximization &lpar;EM&rpar; Algorithm](https://medium.com/@vrkksharma/day-29-60-the-chicken-and-the-egg-expectation-maximization-em-algorithm-8e2799cfee15?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Rejected a 52-Year-Old Engineer. Three Months Later, We Hired Him to Fix Our Biggest Mistake](https://blog.stackademic.com/we-rejected-a-52-year-old-engineer-three-months-later-we-hired-him-to-fix-our-biggest-mistake-68cfda0ea411?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
