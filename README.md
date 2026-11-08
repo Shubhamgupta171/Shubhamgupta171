@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Augmented Intelligence Cycle: 5 Steps to Think and Co-Create with AI](https://medium.com/@Fransantolo/the-augmented-intelligence-cycle-5-steps-to-think-and-co-create-with-ai-6502ed432a39?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Observability: The Invisible Job Nobody Expected AI to Create](https://medium.com/@jeetlahauk/ai-observability-the-invisible-job-nobody-expected-ai-to-create-fad6f89f00db?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Built a RAG Evaluation Pipeline to Find Out Why My AI Was Hallucinating](https://medium.com/@gulsaba.fiha/i-built-a-rag-evaluation-pipeline-to-find-out-why-my-ai-was-hallucinating-9c1f634a7c65?source=rss------artificial_intelligence-5)**
-> 🔹 **[RAG for Decision Models: What Parallel’s Decisions API Changes for AI Engineers](https://medium.com/@pankaj_pandey/rag-for-decision-models-what-parallels-decisions-api-changes-for-ai-engineers-7f6e1679e88f?source=rss------artificial_intelligence-5)**
-> 🔹 **[ATAF™ — AI Transaction Authorization Firewall](https://medium.com/@bidyutmazumdar/ataf-ai-transaction-authorization-firewall-c7ca82b3a605?source=rss------artificial_intelligence-5)**
-> 🔹 **[Dynamic Queries in Spring Data JPA Without Repository Method Explosion](https://czetsuya.medium.com/dynamic-queries-spring-data-jpa-without-repository-method-explosion-d2cfc2777480?source=rss------backend_development-5)**
-> 🔹 **[Stop Guessing: How to Build an LLM Recommender for Agentic AI into Any Web App](https://eraoftech.medium.com/stop-guessing-how-to-build-an-llm-recommender-for-agentic-ai-into-any-web-app-a0fec9f00f56?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Features Aren’t a Moat Anymore](https://chetanchanna.medium.com/your-features-arent-a-moat-anymore-f2b59232f98e?source=rss------artificial_intelligence-5)**
+> 🔹 **[CRDTs, Explained Simply](https://medium.com/@javidanalizada99/crdts-explained-simply-fd3b7a50e98a?source=rss------system_design-5)**
+> 🔹 **[Could AI Reliability Ever Be Insured?](https://medium.com/@carla_1448/could-ai-reliability-ever-be-insured-5f0cd4d30153?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Psychology of Last Impressions](https://medium.com/@psychologyfacts611/the-psychology-of-last-impressions-dc6dd263e2df?source=rss------artificial_intelligence-5)**
+> 🔹 **[Forget PI Agent. DeepSeek Super Agent Harness 10x Better](https://medium.com/@GaoDalie_AI/forget-pi-agent-deepseek-super-agent-harness-10x-better-fb1136d7ae13?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Insanely Useful Ways to Use This Trending GitHub Repo With Claude Code](https://medium.com/@theexplainer/5-insanely-useful-ways-to-use-this-trending-github-repo-with-claude-code-6dfa49c3ebec?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Made the Trending Malfoy TS in Naia Studio and Chatted with Her in Naia Shell](https://medium.com/@naia.nextain/i-made-the-trending-malfoy-ts-in-naia-studio-and-chatted-with-her-in-naia-shell-68dae98b51f7?source=rss------artificial_intelligence-5)**
+> 🔹 **[JARVIS Doesn’t Know You: How to Give Your AI Copilot Context](https://digitalcommercecapsule.medium.com/jarvis-doesnt-know-you-how-to-give-your-ai-copilot-context-bf2efb42ba80?source=rss------artificial_intelligence-5)**
+> 🔹 **[YouTube Automation in 2026: What to Automate and What to Keep Human](https://theearth6.medium.com/youtube-automation-in-2026-what-to-automate-and-what-to-keep-human-a39cd941c6b3?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
