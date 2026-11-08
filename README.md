@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[CRDTs, Explained Simply](https://medium.com/@javidanalizada99/crdts-explained-simply-fd3b7a50e98a?source=rss------system_design-5)**
-> 🔹 **[Could AI Reliability Ever Be Insured?](https://medium.com/@carla_1448/could-ai-reliability-ever-be-insured-5f0cd4d30153?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Psychology of Last Impressions](https://medium.com/@psychologyfacts611/the-psychology-of-last-impressions-dc6dd263e2df?source=rss------artificial_intelligence-5)**
-> 🔹 **[Forget PI Agent. DeepSeek Super Agent Harness 10x Better](https://medium.com/@GaoDalie_AI/forget-pi-agent-deepseek-super-agent-harness-10x-better-fb1136d7ae13?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Insanely Useful Ways to Use This Trending GitHub Repo With Claude Code](https://medium.com/@theexplainer/5-insanely-useful-ways-to-use-this-trending-github-repo-with-claude-code-6dfa49c3ebec?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Made the Trending Malfoy TS in Naia Studio and Chatted with Her in Naia Shell](https://medium.com/@naia.nextain/i-made-the-trending-malfoy-ts-in-naia-studio-and-chatted-with-her-in-naia-shell-68dae98b51f7?source=rss------artificial_intelligence-5)**
-> 🔹 **[JARVIS Doesn’t Know You: How to Give Your AI Copilot Context](https://digitalcommercecapsule.medium.com/jarvis-doesnt-know-you-how-to-give-your-ai-copilot-context-bf2efb42ba80?source=rss------artificial_intelligence-5)**
-> 🔹 **[YouTube Automation in 2026: What to Automate and What to Keep Human](https://theearth6.medium.com/youtube-automation-in-2026-what-to-automate-and-what-to-keep-human-a39cd941c6b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[My first interviewer wasn’t human…so i built something of my own](https://pushkkalgupta.medium.com/my-first-interviewer-wasnt-human-so-i-built-something-of-my-own-5f5a6dd34d2c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Stop Working All Day Without Making Money as a Freelancer &lpar;Using AI Workflows&rpar;](https://medium.com/@eomdoart/how-to-stop-working-all-day-without-making-money-as-a-freelancer-using-ai-workflows-f460af8b3ba0?source=rss------artificial_intelligence-5)**
+> 🔹 **[The free lunch in open source is ending](https://medium.com/@christian_87026/the-free-lunch-in-open-source-is-ending-e83713452d19?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Chatbot Is Not a Vault: 13 Things to Keep Out of ChatGPT, Claude and Gemini Before a Judge...](https://pub.towardsai.net/things-never-tell-ai-chatbot-chats-not-private-5e73d3428256?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Cost of Writing Code Is Approaching Zero. What Becomes Valuable Now?](https://medium.com/@yashbatra11111/the-cost-of-writing-code-is-approaching-zero-what-becomes-valuable-now-10615116dc36?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Made Developers Faster. Why Are Engineering Teams Not Getting More Done?](https://medium.com/@yashbatra11111/ai-made-developers-faster-why-are-engineering-teams-not-getting-more-done-e6f26bf52b41?source=rss------artificial_intelligence-5)**
+> 🔹 **[EB-1A in 2026: Why Strong Evidence Matters More Than Ever as USCIS Tightens Its Initial Filing…](https://medium.com/@scholartouch247/eb-1a-in-2026-why-strong-evidence-matters-more-than-ever-as-uscis-tightens-its-initial-filing-bfd37a038eba?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Can Generate 1,000 Lines of Code in Seconds. Who’s Going to Maintain Them?](https://medium.com/@yashbatra11111/ai-can-generate-1-000-lines-of-code-in-seconds-whos-going-to-maintain-them-7216f2dd2846?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
