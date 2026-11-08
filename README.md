@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Day 30/60: The Mathematics of Compression — Principal Component Analysis &lpar;PCA&rpar;](https://medium.com/@vrkksharma/day-30-60-the-mathematics-of-compression-principal-component-analysis-pca-16fe3cba37b7?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Chronicles of Kael](https://medium.com/@enderdiril/the-chronicles-of-kael-e467d88664c8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Our Most Important Software Was Maintained by a Man We Had Never Paid](https://medium.com/engineering-playbook/our-most-important-software-was-maintained-by-a-man-we-had-never-paid-fc7074f60f94?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Raised Our SaaS Prices by 40%. Our Biggest Customer Sent Us a GitHub Repository](https://medium.com/engineering-playbook/we-raised-our-saas-prices-by-40-our-biggest-customer-sent-us-a-github-repository-fdb8084c5b11?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Code for non-coders and non-coding tasks: what works, what doesn&#39;t, and what to run for...](https://medium.com/@marcellhavlik_83469/claude-code-for-non-coders-and-non-coding-tasks-what-works-what-doesnt-and-what-to-run-for-the-251f7e5dcd02?source=rss------artificial_intelligence-5)**
-> 🔹 **[When AI Writes Code, Engineers Must Own the Decisions](https://medium.com/nextgen-dev-ai-code/when-ai-writes-code-engineers-must-own-the-decisions-fdde3bd27311?source=rss------artificial_intelligence-5)**
-> 🔹 **[Day 29/60: The Chicken and the Egg — Expectation-Maximization &lpar;EM&rpar; Algorithm](https://medium.com/@vrkksharma/day-29-60-the-chicken-and-the-egg-expectation-maximization-em-algorithm-8e2799cfee15?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Rejected a 52-Year-Old Engineer. Three Months Later, We Hired Him to Fix Our Biggest Mistake](https://blog.stackademic.com/we-rejected-a-52-year-old-engineer-three-months-later-we-hired-him-to-fix-our-biggest-mistake-68cfda0ea411?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Augmented Intelligence Cycle: 5 Steps to Think and Co-Create with AI](https://medium.com/@Fransantolo/the-augmented-intelligence-cycle-5-steps-to-think-and-co-create-with-ai-6502ed432a39?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Observability: The Invisible Job Nobody Expected AI to Create](https://medium.com/@jeetlahauk/ai-observability-the-invisible-job-nobody-expected-ai-to-create-fad6f89f00db?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Built a RAG Evaluation Pipeline to Find Out Why My AI Was Hallucinating](https://medium.com/@gulsaba.fiha/i-built-a-rag-evaluation-pipeline-to-find-out-why-my-ai-was-hallucinating-9c1f634a7c65?source=rss------artificial_intelligence-5)**
+> 🔹 **[RAG for Decision Models: What Parallel’s Decisions API Changes for AI Engineers](https://medium.com/@pankaj_pandey/rag-for-decision-models-what-parallels-decisions-api-changes-for-ai-engineers-7f6e1679e88f?source=rss------artificial_intelligence-5)**
+> 🔹 **[ATAF™ — AI Transaction Authorization Firewall](https://medium.com/@bidyutmazumdar/ataf-ai-transaction-authorization-firewall-c7ca82b3a605?source=rss------artificial_intelligence-5)**
+> 🔹 **[Dynamic Queries in Spring Data JPA Without Repository Method Explosion](https://czetsuya.medium.com/dynamic-queries-spring-data-jpa-without-repository-method-explosion-d2cfc2777480?source=rss------backend_development-5)**
+> 🔹 **[Stop Guessing: How to Build an LLM Recommender for Agentic AI into Any Web App](https://eraoftech.medium.com/stop-guessing-how-to-build-an-llm-recommender-for-agentic-ai-into-any-web-app-a0fec9f00f56?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Features Aren’t a Moat Anymore](https://chetanchanna.medium.com/your-features-arent-a-moat-anymore-f2b59232f98e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
