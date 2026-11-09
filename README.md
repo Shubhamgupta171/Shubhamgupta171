@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Build a RAG Application Using Python: A Practical Guide](https://medium.com/@chandrasekharkondeti417/how-to-build-a-rag-application-using-python-a-practical-guide-1bef4f1d4c5b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Of Course It Should Work](https://medium.com/@arturormk/of-course-it-should-work-3deb71bf6d7f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the Base Case: How VREXO™ Intelligence Supports More Resilient Acquisition Decisions](https://medium.com/@vrexo_ai/beyond-the-base-case-how-vrexo-intelligence-supports-more-resilient-acquisition-decisions-d2c077286c33?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Use AI Coding Assistants Without Becoming a Worse Programmer](https://medium.com/@info_39707/how-to-use-ai-coding-assistants-without-becoming-a-worse-programmer-7595ead1b213?source=rss------artificial_intelligence-5)**
-> 🔹 **[Knowing a Resource ID Doesn’t Mean You Own It: A Better Way to Handle Authorization](https://abdulakeemabdulafeez.medium.com/knowing-a-resource-id-doesnt-mean-you-own-it-a-better-way-to-handle-authorization-f8d1eb9fe356?source=rss------backend_development-5)**
-> 🔹 **[CHINA IS USING ARTIFICIAL INTELLIGENCE TO GRADE STUDENTS’ EXAMS AND HOMEWORK](https://medium.com/@abdulalitp/china-is-using-artificial-intelligence-to-grade-students-exams-and-homework-b4cb05886bd4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cut, Rotate, Cache: What Happens to a Word Before Attention &lpar;Part 2&rpar;](https://medium.com/@himanshuit3036/cut-rotate-cache-what-happens-to-a-word-before-attention-part-2-de5fcc1ba871?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Share of Voice to Share of Citation: The New PR Metric](https://medium.com/@anastasia.dzhogola/from-share-of-voice-to-share-of-citation-the-new-pr-metric-e56f14081bd1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Level Up Your Feed: 15 Viral Social Media Template Bundles for 2026](https://medium.com/@davidrodriguez1915/level-up-your-feed-15-viral-social-media-template-bundles-for-2026-820df3c949e4?source=rss------artificial_intelligence-5)**
+> 🔹 **[From an 18-Month Effort to a Seven-Month Sprint: How AI Adoption Rewired Java Modernization at…](https://medium.com/@jcbsignup/from-an-18-month-effort-to-a-seven-month-sprint-how-ai-adoption-rewired-java-modernization-at-43f6df51861d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Run Your Small Business with AI](https://medium.com/@oluyoriphilip/how-to-run-your-small-business-with-ai-e96d1dcea49e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Ground Truth Problem](https://medium.com/@john_blackport/the-ground-truth-problem-945e825aef31?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Quiet Point of No Return](https://highervista.medium.com/the-quiet-point-of-no-return-88035c909752?source=rss------artificial_intelligence-5)**
+> 🔹 **[Kazakhstan’s Tech Leap](https://medium.com/@salemdianagoi/kazakhstans-tech-leap-c88aa9186977?source=rss------artificial_intelligence-5)**
+> 🔹 **[Ahora todos somos “diseñadores”](https://medium.com/santiagobustelo/ahora-todos-somos-dise%C3%B1adores-ee577f3dd9f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[NVIDIA’s World Model Lets a Robot Act Inside the Video](https://medium.com/@Pop123/nvidias-world-model-lets-a-robot-act-inside-the-video-8cccf053d092?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
