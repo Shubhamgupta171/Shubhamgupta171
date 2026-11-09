@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[My first interviewer wasn’t human…so i built something of my own](https://pushkkalgupta.medium.com/my-first-interviewer-wasnt-human-so-i-built-something-of-my-own-5f5a6dd34d2c?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Stop Working All Day Without Making Money as a Freelancer &lpar;Using AI Workflows&rpar;](https://medium.com/@eomdoart/how-to-stop-working-all-day-without-making-money-as-a-freelancer-using-ai-workflows-f460af8b3ba0?source=rss------artificial_intelligence-5)**
-> 🔹 **[The free lunch in open source is ending](https://medium.com/@christian_87026/the-free-lunch-in-open-source-is-ending-e83713452d19?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Chatbot Is Not a Vault: 13 Things to Keep Out of ChatGPT, Claude and Gemini Before a Judge...](https://pub.towardsai.net/things-never-tell-ai-chatbot-chats-not-private-5e73d3428256?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Cost of Writing Code Is Approaching Zero. What Becomes Valuable Now?](https://medium.com/@yashbatra11111/the-cost-of-writing-code-is-approaching-zero-what-becomes-valuable-now-10615116dc36?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Made Developers Faster. Why Are Engineering Teams Not Getting More Done?](https://medium.com/@yashbatra11111/ai-made-developers-faster-why-are-engineering-teams-not-getting-more-done-e6f26bf52b41?source=rss------artificial_intelligence-5)**
-> 🔹 **[EB-1A in 2026: Why Strong Evidence Matters More Than Ever as USCIS Tightens Its Initial Filing…](https://medium.com/@scholartouch247/eb-1a-in-2026-why-strong-evidence-matters-more-than-ever-as-uscis-tightens-its-initial-filing-bfd37a038eba?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Can Generate 1,000 Lines of Code in Seconds. Who’s Going to Maintain Them?](https://medium.com/@yashbatra11111/ai-can-generate-1-000-lines-of-code-in-seconds-whos-going-to-maintain-them-7216f2dd2846?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Build a RAG Application Using Python: A Practical Guide](https://medium.com/@chandrasekharkondeti417/how-to-build-a-rag-application-using-python-a-practical-guide-1bef4f1d4c5b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Of Course It Should Work](https://medium.com/@arturormk/of-course-it-should-work-3deb71bf6d7f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the Base Case: How VREXO™ Intelligence Supports More Resilient Acquisition Decisions](https://medium.com/@vrexo_ai/beyond-the-base-case-how-vrexo-intelligence-supports-more-resilient-acquisition-decisions-d2c077286c33?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Use AI Coding Assistants Without Becoming a Worse Programmer](https://medium.com/@info_39707/how-to-use-ai-coding-assistants-without-becoming-a-worse-programmer-7595ead1b213?source=rss------artificial_intelligence-5)**
+> 🔹 **[Knowing a Resource ID Doesn’t Mean You Own It: A Better Way to Handle Authorization](https://abdulakeemabdulafeez.medium.com/knowing-a-resource-id-doesnt-mean-you-own-it-a-better-way-to-handle-authorization-f8d1eb9fe356?source=rss------backend_development-5)**
+> 🔹 **[CHINA IS USING ARTIFICIAL INTELLIGENCE TO GRADE STUDENTS’ EXAMS AND HOMEWORK](https://medium.com/@abdulalitp/china-is-using-artificial-intelligence-to-grade-students-exams-and-homework-b4cb05886bd4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cut, Rotate, Cache: What Happens to a Word Before Attention &lpar;Part 2&rpar;](https://medium.com/@himanshuit3036/cut-rotate-cache-what-happens-to-a-word-before-attention-part-2-de5fcc1ba871?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Share of Voice to Share of Citation: The New PR Metric](https://medium.com/@anastasia.dzhogola/from-share-of-voice-to-share-of-citation-the-new-pr-metric-e56f14081bd1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
