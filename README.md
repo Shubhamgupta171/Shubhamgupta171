@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Level Up Your Feed: 15 Viral Social Media Template Bundles for 2026](https://medium.com/@davidrodriguez1915/level-up-your-feed-15-viral-social-media-template-bundles-for-2026-820df3c949e4?source=rss------artificial_intelligence-5)**
-> 🔹 **[From an 18-Month Effort to a Seven-Month Sprint: How AI Adoption Rewired Java Modernization at…](https://medium.com/@jcbsignup/from-an-18-month-effort-to-a-seven-month-sprint-how-ai-adoption-rewired-java-modernization-at-43f6df51861d?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Run Your Small Business with AI](https://medium.com/@oluyoriphilip/how-to-run-your-small-business-with-ai-e96d1dcea49e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Ground Truth Problem](https://medium.com/@john_blackport/the-ground-truth-problem-945e825aef31?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Quiet Point of No Return](https://highervista.medium.com/the-quiet-point-of-no-return-88035c909752?source=rss------artificial_intelligence-5)**
-> 🔹 **[Kazakhstan’s Tech Leap](https://medium.com/@salemdianagoi/kazakhstans-tech-leap-c88aa9186977?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ahora todos somos “diseñadores”](https://medium.com/santiagobustelo/ahora-todos-somos-dise%C3%B1adores-ee577f3dd9f6?source=rss------artificial_intelligence-5)**
-> 🔹 **[NVIDIA’s World Model Lets a Robot Act Inside the Video](https://medium.com/@Pop123/nvidias-world-model-lets-a-robot-act-inside-the-video-8cccf053d092?source=rss------artificial_intelligence-5)**
+> 🔹 **[Customer support is the gnarliest AI problem](https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/)**
+> 🔹 **[Design Systems Are Not Neutral](https://www.designsystemscollective.com/design-systems-are-not-neutral-f38cd4f3b623?source=rss------system_design-5)**
+> 🔹 **[The Context Tax: Why AI Agents Get Slower as They Get Smarter](https://medium.com/@chandi.academic/the-context-tax-why-ai-agents-get-slower-as-they-get-smarter-37b41683a3eb?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Should Design Systems Support Component Variants?](https://medium.com/@marketingtd64/when-should-design-systems-support-component-variants-124b5a9c7974?source=rss------system_design-5)**
+> 🔹 **[The Most Expensive Part of UI Design Is Solving the Same Problem Twice](https://www.designsystemscollective.com/the-most-expensive-part-of-ui-design-is-solving-the-same-problem-twice-ce6f4f5c95e2?source=rss------system_design-5)**
+> 🔹 **[The Skill I’m Learning Because AI Can’t Do It for Me](https://medium.com/@marcus-veld/the-skill-im-learning-because-ai-can-t-do-it-for-me-23b0157f38bc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Our brand blue failed accessibility. The fix wasn’t a new blue.](https://www.designsystemscollective.com/our-brand-blue-failed-accessibility-the-fix-wasnt-a-new-blue-948c0ee34bf3?source=rss------system_design-5)**
+> 🔹 **[7 AI Skills Worth Learning Before 2027](https://medium.com/@zoeparker080/7-ai-skills-worth-learning-before-2027-933e9b3d64e1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
