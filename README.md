@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your Kafka Consumer Passed Every Test. Then Production Replayed 4 Million Events](https://medium.com/@codexlab/your-kafka-consumer-passed-every-test-then-production-replayed-4-million-events-6c1a221c9650?source=rss------system_design-5)**
-> 🔹 **[The Staff Engineer Interview Went Sideways When the Interviewer Asked About a Cache Miss](https://medium.com/engineering-playbook/the-staff-engineer-interview-went-sideways-when-the-interviewer-asked-about-a-cache-miss-cc87ddff90a1?source=rss------system_design-5)**
-> 🔹 **[9 Senior System Design Interview Questions That Expose Weak Database Sharding Skills](https://medium.com/engineering-playbook/9-senior-system-design-interview-questions-that-expose-weak-database-sharding-skills-ae2a83756fbd?source=rss------system_design-5)**
-> 🔹 **[Your Senior System Design Interview Is Going Fine Until the Interviewer Kills Redis](https://medium.com/engineering-playbook/your-senior-system-design-interview-is-going-fine-until-the-interviewer-kills-redis-ad32641b8eef?source=rss------system_design-5)**
-> 🔹 **[The Two-Word Test to Predict Your Future](https://medium.com/ssn-nextchapter/the-two-word-test-to-predict-your-future-b44d7b15b7ee?source=rss------artificial_intelligence-5)**
-> 🔹 **[De RAG a agentes en producción: anatomía de la Agent Landing Zone de Azure](https://medium.com/@elazouan/de-rag-a-agentes-en-producci%C3%B3n-anatom%C3%ADa-de-la-agent-landing-zone-de-azure-42ae7f60ce9d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Invisible Influence of AI: How Everyday Interactions Are Quietly Reshaping Human Thinking a...](https://blog.cubed.run/the-invisible-influence-of-ai-how-everyday-interactions-are-quietly-reshaping-human-thinking-and-08542ca753ba?source=rss------artificial_intelligence-5)**
-> 🔹 **[The New Workplace Partnership: What Happens When Humans and AI Become Each Other’s Thinking…](https://medium.com/technology-hits/the-new-workplace-partnership-what-happens-when-humans-and-ai-become-each-others-thinking-52d82c466eeb?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Blueprint for a Distributed E-Commerce Architecture in Java and Spring Cloud](https://medium.com/@tanu.tanbirul/the-blueprint-for-a-distributed-e-commerce-architecture-in-java-and-spring-cloud-e7d9797ffcd0?source=rss------system_design-5)**
+> 🔹 **[Claude Fable 5.2 คุ้มไหม? อ่านตัวเลข ข้อจำกัด และวิธีเลือกใช้ ก่อนจ่าย $40 ต่อล้าน token](https://medium.com/@Kittiphon_Kamnuan/claude-fable-5-2-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B9%84%E0%B8%AB%E0%B8%A1-%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B8%82-%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%88%E0%B8%B3%E0%B8%81%E0%B8%B1%E0%B8%94-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89-%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2-40-%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99-token-7d4be364be93?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI news briefing : 11 November 2026](https://medium.com/ai-briefing-room/ai-news-briefing-11-november-2026-3bed3215e9ac?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Detect Evaluation Drift in a Client-Facing AI Pilot](https://medium.com/@marygsdcouncil12/how-to-detect-evaluation-drift-in-a-client-facing-ai-pilot-ca0476bc619a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Every call answered. Every job booked.](https://medium.com/@chirpybellau/every-call-answered-every-job-booked-86a9663c84bf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Fable 5.2: Pricing, Benchmarks and Mythos Explained](https://medium.com/code-your-own-path/claude-fable-5-2-pricing-benchmarks-and-mythos-explained-168a5c1ac992?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Says Sorry Too Much](https://medium.com/prompt-pixel/your-ai-says-sorry-too-much-5eef6e61cb8c?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI-DLC vs SDLC: How AI Is Transforming the Software Development Life Cycle](https://medium.com/@mandra_PMatbytesnbinary/ai-dlc-vs-sdlc-how-ai-is-transforming-the-software-development-life-cycle-99f9985a69f6?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
