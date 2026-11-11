@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Blueprint for a Distributed E-Commerce Architecture in Java and Spring Cloud](https://medium.com/@tanu.tanbirul/the-blueprint-for-a-distributed-e-commerce-architecture-in-java-and-spring-cloud-e7d9797ffcd0?source=rss------system_design-5)**
-> 🔹 **[Claude Fable 5.2 คุ้มไหม? อ่านตัวเลข ข้อจำกัด และวิธีเลือกใช้ ก่อนจ่าย $40 ต่อล้าน token](https://medium.com/@Kittiphon_Kamnuan/claude-fable-5-2-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B9%84%E0%B8%AB%E0%B8%A1-%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B8%82-%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%88%E0%B8%B3%E0%B8%81%E0%B8%B1%E0%B8%94-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89-%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2-40-%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99-token-7d4be364be93?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI news briefing : 11 November 2026](https://medium.com/ai-briefing-room/ai-news-briefing-11-november-2026-3bed3215e9ac?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Detect Evaluation Drift in a Client-Facing AI Pilot](https://medium.com/@marygsdcouncil12/how-to-detect-evaluation-drift-in-a-client-facing-ai-pilot-ca0476bc619a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Every call answered. Every job booked.](https://medium.com/@chirpybellau/every-call-answered-every-job-booked-86a9663c84bf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Fable 5.2: Pricing, Benchmarks and Mythos Explained](https://medium.com/code-your-own-path/claude-fable-5-2-pricing-benchmarks-and-mythos-explained-168a5c1ac992?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Says Sorry Too Much](https://medium.com/prompt-pixel/your-ai-says-sorry-too-much-5eef6e61cb8c?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI-DLC vs SDLC: How AI Is Transforming the Software Development Life Cycle](https://medium.com/@mandra_PMatbytesnbinary/ai-dlc-vs-sdlc-how-ai-is-transforming-the-software-development-life-cycle-99f9985a69f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Browser agents in 2026: pilotfish vs Browserbase vs Browser Use](https://medium.com/@kushal19971997/browser-agents-in-2026-pilotfish-vs-browserbase-vs-browser-use-a91185fd20c4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nobody Is Grading Your Process](https://medium.com/@testimportemails01/nobody-is-grading-your-process-64072ea80179?source=rss------artificial_intelligence-5)**
+> 🔹 **[Inkling 2 Small: A Coding Model With 594 Billion Parameters and a Timing Catch](https://medium.com/@ibokkon/inkling-2-small-a-coding-model-with-594-billion-parameters-and-a-timing-catch-4cf6de753c07?source=rss------artificial_intelligence-5)**
+> 🔹 **[Do TCC ao produto no ar: o que mudou em dez anos de VegAM](https://medium.com/@barbaraannitza/do-tcc-ao-produto-no-ar-o-que-mudou-em-dez-anos-de-vegam-eb4132c3da28?source=rss------artificial_intelligence-5)**
+> 🔹 **[Ripple-65B Preview: The Open Coding Model With a Revealing Analytics Result](https://medium.com/@ibokkon/ripple-65b-preview-the-open-coding-model-with-a-revealing-analytics-result-1582457c57ba?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Keys to the Kingdom](https://medium.com/@khadeejah.syeda/the-keys-to-the-kingdom-36ac68b588d7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Day 3: How to Identify Microservice Boundaries — Breaking a Monolith into the Right Services](https://medium.com/@neravatisudheer/day-3-how-to-identify-microservice-boundaries-breaking-a-monolith-into-the-right-services-f31f99e71369?source=rss------backend_development-5)**
+> 🔹 **[Deep Residual Learning: How ResNet Made Very Deep Networks Easier to Train](https://medium.com/@elsa.rose/deep-residual-learning-how-resnet-made-very-deep-networks-easier-to-train-1f1165ac1401?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
