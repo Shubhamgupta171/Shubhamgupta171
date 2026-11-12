@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Browser agents in 2026: pilotfish vs Browserbase vs Browser Use](https://medium.com/@kushal19971997/browser-agents-in-2026-pilotfish-vs-browserbase-vs-browser-use-a91185fd20c4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nobody Is Grading Your Process](https://medium.com/@testimportemails01/nobody-is-grading-your-process-64072ea80179?source=rss------artificial_intelligence-5)**
-> 🔹 **[Inkling 2 Small: A Coding Model With 594 Billion Parameters and a Timing Catch](https://medium.com/@ibokkon/inkling-2-small-a-coding-model-with-594-billion-parameters-and-a-timing-catch-4cf6de753c07?source=rss------artificial_intelligence-5)**
-> 🔹 **[Do TCC ao produto no ar: o que mudou em dez anos de VegAM](https://medium.com/@barbaraannitza/do-tcc-ao-produto-no-ar-o-que-mudou-em-dez-anos-de-vegam-eb4132c3da28?source=rss------artificial_intelligence-5)**
-> 🔹 **[Ripple-65B Preview: The Open Coding Model With a Revealing Analytics Result](https://medium.com/@ibokkon/ripple-65b-preview-the-open-coding-model-with-a-revealing-analytics-result-1582457c57ba?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Keys to the Kingdom](https://medium.com/@khadeejah.syeda/the-keys-to-the-kingdom-36ac68b588d7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Day 3: How to Identify Microservice Boundaries — Breaking a Monolith into the Right Services](https://medium.com/@neravatisudheer/day-3-how-to-identify-microservice-boundaries-breaking-a-monolith-into-the-right-services-f31f99e71369?source=rss------backend_development-5)**
-> 🔹 **[Deep Residual Learning: How ResNet Made Very Deep Networks Easier to Train](https://medium.com/@elsa.rose/deep-residual-learning-how-resnet-made-very-deep-networks-easier-to-train-1f1165ac1401?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Makes Interactive Artificial Intelligence Different From Traditional AI?](https://medium.com/@shanitha.va/what-makes-interactive-artificial-intelligence-different-from-traditional-ai-b4bc77040b5d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Coursera Plus or Pay per Certificate? When the Subscription Pays Off](https://medium.com/@jaafarmourtada/coursera-plus-or-pay-per-certificate-when-the-subscription-pays-off-1a2f3b71422c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Architecture Mistakes I Made in My First Full-Stack App &lpar;So You Don’t Have To&rpar;](https://medium.com/@justmhiu/architecture-mistakes-i-made-in-my-first-full-stack-app-so-you-dont-have-to-27e61cc9c421?source=rss------backend_development-5)**
+> 🔹 **[My Friend Can’t Code. He Built His Company’s Collections System in a Single HTML File.](https://medium.com/@amomsoffice/my-friend-cant-code-he-built-his-company-s-collections-system-in-a-single-html-file-8b6ec8afc4a7?source=rss------artificial_intelligence-5)**
+> 🔹 **[We Asked Who Owned the AI Agents Running in Production. Nobody Put Their Hand Up](https://medium.com/lets-code-future/we-asked-who-owned-the-ai-agents-running-in-production-nobody-put-their-hand-up-341b093e608a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic AI Explained: How AI Agents Plan and Work Together](https://medium.com/@c.sriram.619/agentic-ai-explained-how-ai-agents-plan-and-work-together-aa5248a0b413?source=rss------artificial_intelligence-5)**
+> 🔹 **[Shadow AI at Work: A Practical 30-Day Plan to Stop Data Leaks](https://medium.com/@kazemmortazavi/shadow-ai-at-work-a-practical-30-day-plan-to-stop-data-leaks-54f350c4b20a?source=rss------artificial_intelligence-5)**
+> 🔹 **[DeepSeek Can Read 1 Million Tokens. Should You Feed It Your Entire Codebase?](https://medium.com/@moekthona01/deepseek-can-read-1-million-tokens-should-you-feed-it-your-entire-codebase-b202b406caf9?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
