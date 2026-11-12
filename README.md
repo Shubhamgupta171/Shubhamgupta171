@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What Makes Interactive Artificial Intelligence Different From Traditional AI?](https://medium.com/@shanitha.va/what-makes-interactive-artificial-intelligence-different-from-traditional-ai-b4bc77040b5d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Coursera Plus or Pay per Certificate? When the Subscription Pays Off](https://medium.com/@jaafarmourtada/coursera-plus-or-pay-per-certificate-when-the-subscription-pays-off-1a2f3b71422c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Architecture Mistakes I Made in My First Full-Stack App &lpar;So You Don’t Have To&rpar;](https://medium.com/@justmhiu/architecture-mistakes-i-made-in-my-first-full-stack-app-so-you-dont-have-to-27e61cc9c421?source=rss------backend_development-5)**
-> 🔹 **[My Friend Can’t Code. He Built His Company’s Collections System in a Single HTML File.](https://medium.com/@amomsoffice/my-friend-cant-code-he-built-his-company-s-collections-system-in-a-single-html-file-8b6ec8afc4a7?source=rss------artificial_intelligence-5)**
-> 🔹 **[We Asked Who Owned the AI Agents Running in Production. Nobody Put Their Hand Up](https://medium.com/lets-code-future/we-asked-who-owned-the-ai-agents-running-in-production-nobody-put-their-hand-up-341b093e608a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentic AI Explained: How AI Agents Plan and Work Together](https://medium.com/@c.sriram.619/agentic-ai-explained-how-ai-agents-plan-and-work-together-aa5248a0b413?source=rss------artificial_intelligence-5)**
-> 🔹 **[Shadow AI at Work: A Practical 30-Day Plan to Stop Data Leaks](https://medium.com/@kazemmortazavi/shadow-ai-at-work-a-practical-30-day-plan-to-stop-data-leaks-54f350c4b20a?source=rss------artificial_intelligence-5)**
-> 🔹 **[DeepSeek Can Read 1 Million Tokens. Should You Feed It Your Entire Codebase?](https://medium.com/@moekthona01/deepseek-can-read-1-million-tokens-should-you-feed-it-your-entire-codebase-b202b406caf9?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Label AI Art Comparisons Without Covering or Recreating the Artwork](https://medium.com/tanda-ai-art-library/how-to-label-ai-art-comparisons-without-covering-or-recreating-the-artwork-221f627c6098?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Question of AI](https://medium.com/@AuNaturel/the-question-of-ai-74d774a5e3fb?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Price Freelance Projects Without Undercharging &lpar;Using AI Systems&rpar;](https://medium.com/@eomdoart/how-to-price-freelance-projects-without-undercharging-using-ai-systems-bdf9ec71eff1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Almost 1 in 5 AI tools from 2025 is gone: we re-checked 1,031 of them](https://medium.com/@vladislavgerasimchuk/almost-1-in-5-ai-tools-from-2025-is-gone-we-re-checked-1-031-of-them-02163c515520?source=rss------artificial_intelligence-5)**
+> 🔹 **[Design Twitch: The System Design Interview, Explained Simply](https://medium.com/@shubham.patel191295/design-twitch-the-system-design-interview-explained-simply-c31a2955e730?source=rss------backend_development-5)**
+> 🔹 **[Working with AGENTS.md: What I Learned](https://azamsharp.medium.com/working-with-agents-md-what-i-learned-640c8fb7a5b4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude Wants to Be the Place Your Software Lives](https://medium.com/@drronniestrand/claude-wants-to-be-the-place-your-software-lives-7b64d66193ba?source=rss------artificial_intelligence-5)**
+> 🔹 **[4 Claude Skills Every Data Scientist Needs in 2027](https://medium.com/@marketing_30607/4-claude-skills-every-data-scientist-needs-in-2027-042f7bcec19a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
