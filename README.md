@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Label AI Art Comparisons Without Covering or Recreating the Artwork](https://medium.com/tanda-ai-art-library/how-to-label-ai-art-comparisons-without-covering-or-recreating-the-artwork-221f627c6098?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Question of AI](https://medium.com/@AuNaturel/the-question-of-ai-74d774a5e3fb?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Price Freelance Projects Without Undercharging &lpar;Using AI Systems&rpar;](https://medium.com/@eomdoart/how-to-price-freelance-projects-without-undercharging-using-ai-systems-bdf9ec71eff1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Almost 1 in 5 AI tools from 2025 is gone: we re-checked 1,031 of them](https://medium.com/@vladislavgerasimchuk/almost-1-in-5-ai-tools-from-2025-is-gone-we-re-checked-1-031-of-them-02163c515520?source=rss------artificial_intelligence-5)**
-> 🔹 **[Design Twitch: The System Design Interview, Explained Simply](https://medium.com/@shubham.patel191295/design-twitch-the-system-design-interview-explained-simply-c31a2955e730?source=rss------backend_development-5)**
-> 🔹 **[Working with AGENTS.md: What I Learned](https://azamsharp.medium.com/working-with-agents-md-what-i-learned-640c8fb7a5b4?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude Wants to Be the Place Your Software Lives](https://medium.com/@drronniestrand/claude-wants-to-be-the-place-your-software-lives-7b64d66193ba?source=rss------artificial_intelligence-5)**
-> 🔹 **[4 Claude Skills Every Data Scientist Needs in 2027](https://medium.com/@marketing_30607/4-claude-skills-every-data-scientist-needs-in-2027-042f7bcec19a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic search doesn&#39;t find pages, it assembles answers](https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/)**
+> 🔹 **[How I Run a One-Person Business With Muse &lpar;My Exact Daily Workflow in 2026&rpar;](https://farhadaliofficial.medium.com/how-i-run-a-one-person-business-with-muse-my-exact-daily-workflow-in-2026-f90ad052329f?source=rss------artificial_intelligence-5)**
+> 🔹 **[How NexaStack and ElixirData Enable a Private AI Assistant Powered by an LLM Council](https://medium.com/xenonstack-ai/how-nexastack-and-elixirdata-enable-a-private-ai-assistant-powered-by-an-llm-council-9fd9462ad3c9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Nvidia Records That Stop Before the Answer](https://medium.com/activated-thinker/the-nvidia-records-that-stop-before-the-answer-b05d83b5f620?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI and Friday the 13th](https://ion-oaie.medium.com/ai-and-friday-the-13th-a3aed285474b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Corix Partners Friday Reading List — November 13, 2026](https://medium.com/the-corix-partners-friday-reading-list/the-corix-partners-friday-reading-list-november-13-2026-744d41d243af?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Ultimate AI/ML Roadmap: From Your First Python Program to Production Systems](https://medium.com/@manoj_wickramanayake/the-ultimate-ai-ml-roadmap-from-your-first-python-program-to-production-systems-643ad40c0635?source=rss------artificial_intelligence-5)**
+> 🔹 **[Google’s November 2026 Core Update, Gemini 4 Hydrogen and ChatGPT Click Data: What Changed This...](https://medium.com/@rishabgusain642/googles-november-2026-core-update-gemini-4-hydrogen-and-chatgpt-click-data-what-changed-this-1761befe0435?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
