@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Agentic search doesn&#39;t find pages, it assembles answers](https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/)**
-> 🔹 **[How I Run a One-Person Business With Muse &lpar;My Exact Daily Workflow in 2026&rpar;](https://farhadaliofficial.medium.com/how-i-run-a-one-person-business-with-muse-my-exact-daily-workflow-in-2026-f90ad052329f?source=rss------artificial_intelligence-5)**
-> 🔹 **[How NexaStack and ElixirData Enable a Private AI Assistant Powered by an LLM Council](https://medium.com/xenonstack-ai/how-nexastack-and-elixirdata-enable-a-private-ai-assistant-powered-by-an-llm-council-9fd9462ad3c9?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Nvidia Records That Stop Before the Answer](https://medium.com/activated-thinker/the-nvidia-records-that-stop-before-the-answer-b05d83b5f620?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI and Friday the 13th](https://ion-oaie.medium.com/ai-and-friday-the-13th-a3aed285474b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Corix Partners Friday Reading List — November 13, 2026](https://medium.com/the-corix-partners-friday-reading-list/the-corix-partners-friday-reading-list-november-13-2026-744d41d243af?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Ultimate AI/ML Roadmap: From Your First Python Program to Production Systems](https://medium.com/@manoj_wickramanayake/the-ultimate-ai-ml-roadmap-from-your-first-python-program-to-production-systems-643ad40c0635?source=rss------artificial_intelligence-5)**
-> 🔹 **[Google’s November 2026 Core Update, Gemini 4 Hydrogen and ChatGPT Click Data: What Changed This...](https://medium.com/@rishabgusain642/googles-november-2026-core-update-gemini-4-hydrogen-and-chatgpt-click-data-what-changed-this-1761befe0435?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Coding Without the Confusion — Part 4 &lpar;Doubts &amp; Decisions&rpar;](https://medium.com/@archie7/ai-coding-without-the-confusion-part-4-doubts-decisions-e393534842ee?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Tested the Latest AI Models for 7 Days - Here Is the Brutal Truth](https://medium.com/@nolancaldwell/i-tested-the-latest-ai-models-for-7-days-here-is-the-brutal-truth-471152142216?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Do We Know When to Say Eureka?](https://medium.com/@pgarcia14180/how-do-we-know-when-to-say-eureka-9702325739a2?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nvidia Became the Backbone of AI. Then Its Biggest Vulnerability Turned Out to Be Human.](https://medium.com/skillstuff/nvidia-became-the-backbone-of-ai-then-its-biggest-vulnerability-turned-out-to-be-human-134f496d574d?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Art of Asking Questions: How AI Can Expand Human Intelligence](https://medium.com/illumination/the-art-of-asking-questions-how-ai-can-expand-human-intelligence-1ece227dc881?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic AI in B2B Sales: How AI Agents Are Reshaping Demand Generation and Revenue Operations](https://medium.com/@wasim.a_19605/agentic-ai-in-b2b-sales-how-ai-agents-are-reshaping-demand-generation-and-revenue-operations-1759bef33930?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Future of Data Science and Analytics Engineering at Klaviyo](https://klaviyo.tech/the-future-of-data-science-and-analytics-engineering-at-klaviyo-fa2c3af63e1b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Who Really Shapes an AI Model?](https://medium.com/@shir75532/who-really-shapes-an-ai-model-d8ec38491165?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
