@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI Coding Without the Confusion — Part 4 &lpar;Doubts &amp; Decisions&rpar;](https://medium.com/@archie7/ai-coding-without-the-confusion-part-4-doubts-decisions-e393534842ee?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Tested the Latest AI Models for 7 Days - Here Is the Brutal Truth](https://medium.com/@nolancaldwell/i-tested-the-latest-ai-models-for-7-days-here-is-the-brutal-truth-471152142216?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Do We Know When to Say Eureka?](https://medium.com/@pgarcia14180/how-do-we-know-when-to-say-eureka-9702325739a2?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nvidia Became the Backbone of AI. Then Its Biggest Vulnerability Turned Out to Be Human.](https://medium.com/skillstuff/nvidia-became-the-backbone-of-ai-then-its-biggest-vulnerability-turned-out-to-be-human-134f496d574d?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Art of Asking Questions: How AI Can Expand Human Intelligence](https://medium.com/illumination/the-art-of-asking-questions-how-ai-can-expand-human-intelligence-1ece227dc881?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentic AI in B2B Sales: How AI Agents Are Reshaping Demand Generation and Revenue Operations](https://medium.com/@wasim.a_19605/agentic-ai-in-b2b-sales-how-ai-agents-are-reshaping-demand-generation-and-revenue-operations-1759bef33930?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Future of Data Science and Analytics Engineering at Klaviyo](https://klaviyo.tech/the-future-of-data-science-and-analytics-engineering-at-klaviyo-fa2c3af63e1b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Who Really Shapes an AI Model?](https://medium.com/@shir75532/who-really-shapes-an-ai-model-d8ec38491165?source=rss------artificial_intelligence-5)**
+> 🔹 **[“Machang, I Pasted the Whole Customer List Into ChatGPT.”](https://medium.com/@kdjayakody/machang-i-pasted-the-whole-customer-list-into-chatgpt-f05ac9c297b3?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Writes the Code Now. Here Are the 7 Jobs It Quietly Left for You](https://davishaal.medium.com/the-ai-writes-the-code-now-here-are-the-7-jobs-it-quietly-left-for-you-d852ea092b28?source=rss------artificial_intelligence-5)**
+> 🔹 **[Cheaper GPUs Aren&#39;t Enough: AI Infrastructure Needs Better Data Access](https://medium.com/@abubakar133/cheaper-gpus-arent-enough-ai-infrastructure-needs-better-data-access-a4b7058de794?source=rss------artificial_intelligence-5)**
+> 🔹 **[An Analytical Critique of Artificial Intelligence as a Model of Human Cognition.](https://medium.com/@olajidemuh/an-analytical-critique-of-artificial-intelligence-as-a-model-of-human-cognition-ad1c1c47e7de?source=rss------artificial_intelligence-5)**
+> 🔹 **[When AI Becomes the Hacker: 6 Surprising Facts About the New Cybersecurity Landscape](https://nutmegdigitalnusantara.medium.com/when-ai-becomes-the-hacker-6-surprising-facts-about-the-new-cybersecurity-landscape-2673fb201d3c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Play Your AI Video on a Phone Speaker Before You Export](https://medium.com/@metachain.art/play-your-ai-video-on-a-phone-speaker-before-you-export-42e989550eae?source=rss------artificial_intelligence-5)**
+> 🔹 **[Gemini 4 Carbon available to developers , and Google November Core Update](https://medium.com/@searchprex/gemini-4-carbon-available-to-developers-and-google-november-core-update-19a4270004bd?source=rss------artificial_intelligence-5)**
+> 🔹 **[System Design Is the Skill AI Can’t Replace, and This Book Is How I Learned It](https://pixicstudio.medium.com/system-design-is-the-skill-ai-cant-replace-and-this-book-is-how-i-learned-it-0c0b5904c8b4?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
