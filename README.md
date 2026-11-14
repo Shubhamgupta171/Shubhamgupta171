@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Your AI Agent Starts Every Morning From Zero. Fast Teams Don’t.](https://ranyel.medium.com/your-ai-agent-starts-every-morning-from-zero-fast-teams-dont-406f32c37a6b?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Advisor to Butler: How AI Went from Answering to Acting](https://medium.com/@jainrishika073/from-advisor-to-butler-how-ai-went-from-answering-to-acting-573c9baf74a1?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Started Building a Personal Finance App Because Managing Money Shouldn’t Be So Complicated](https://medium.com/@josebcn90/i-started-building-a-personal-finance-app-because-managing-money-shouldnt-be-so-complicated-d4216b78fe3f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can Artificial Intelligence Ever Replace Human Creativity?](https://medium.com/@ikhushippatel/can-artificial-intelligence-ever-replace-human-creativity-f210ca8cc9d8?source=rss------artificial_intelligence-5)**
-> 🔹 **[ChatGPT File Upload Limit Reached? What to Check First](https://medium.com/@dibyajyotikabi/chatgpt-file-upload-limit-reached-what-to-check-first-2a39eac014c6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Stack Has 17 Apps and Absolutely No Plan](https://medium.com/@astoldbycris/your-ai-stack-has-17-apps-and-absolutely-no-plan-db0e70310d71?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Read Anthropic’s IPO Prospectus as a Claude Code User.](https://medium.com/neuralnotions/i-read-anthropics-ipo-prospectus-as-a-claude-code-user-7b3d21c8fea2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Workflow Didn’t Die. It Got Demoted to Infrastructure.](https://medium.com/jin-system-architect/the-workflow-didnt-die-it-got-demoted-to-infrastructure-ccced41d702e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Best AI on a $20 Plan Passed Just 12% of a Real Work Exam. Which One Is Worth Paying For?](https://medium.com/@anair3107/the-best-ai-on-a-20-plan-passed-just-12-of-a-real-work-exam-which-one-is-worth-paying-for-3d24a42b9e71?source=rss------artificial_intelligence-5)**
+> 🔹 **[My Downtime](https://medium.com/@thanmayeeshetty/my-downtime-1e13bd7ce9f1?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Jobs Will Actually Exist In This AI Age?](https://thrivealong.medium.com/what-jobs-will-actually-exist-in-this-ai-age-629ec004b731?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Mac’s New Siri Runs Partly on Google’s Servers. Read This First - 1/3](https://medium.com/macoclock/your-macs-new-siri-runs-partly-on-google-s-servers-read-this-first-1-3-d8502f9e72d0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Two Big Outages in Two Days Both Started With a Planned Change](https://abduljaleelkavungal.medium.com/two-big-outages-in-two-days-both-started-with-a-planned-change-710e42765b1c?source=rss------artificial_intelligence-5)**
+> 🔹 **[一个人 + AI 的 30 天真账：Git 说 1.2 亿行，挤完水只剩 57 万](https://medium.com/@engningarchitect/%E4%B8%80%E4%B8%AA%E4%BA%BA-ai-%E7%9A%84-30-%E5%A4%A9%E7%9C%9F%E8%B4%A6-git-%E8%AF%B4-1-2-%E4%BA%BF%E8%A1%8C-%E6%8C%A4%E5%AE%8C%E6%B0%B4%E5%8F%AA%E5%89%A9-57-%E4%B8%87-d326618ad662?source=rss------artificial_intelligence-5)**
+> 🔹 **[Reduce Before You Automate: Why I Launched RPR](https://medium.com/@patrickanguet/reduce-before-you-automate-why-i-launched-rpr-416589efe315?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Assistant to Collaborator: When AI Is Part of the Team](https://medium.com/@Fransantolo/from-assistant-to-collaborator-when-ai-is-part-of-the-team-c1c96077e308?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
