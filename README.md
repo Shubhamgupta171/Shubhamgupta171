@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[“Machang, I Pasted the Whole Customer List Into ChatGPT.”](https://medium.com/@kdjayakody/machang-i-pasted-the-whole-customer-list-into-chatgpt-f05ac9c297b3?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Writes the Code Now. Here Are the 7 Jobs It Quietly Left for You](https://davishaal.medium.com/the-ai-writes-the-code-now-here-are-the-7-jobs-it-quietly-left-for-you-d852ea092b28?source=rss------artificial_intelligence-5)**
-> 🔹 **[Cheaper GPUs Aren&#39;t Enough: AI Infrastructure Needs Better Data Access](https://medium.com/@abubakar133/cheaper-gpus-arent-enough-ai-infrastructure-needs-better-data-access-a4b7058de794?source=rss------artificial_intelligence-5)**
-> 🔹 **[An Analytical Critique of Artificial Intelligence as a Model of Human Cognition.](https://medium.com/@olajidemuh/an-analytical-critique-of-artificial-intelligence-as-a-model-of-human-cognition-ad1c1c47e7de?source=rss------artificial_intelligence-5)**
-> 🔹 **[When AI Becomes the Hacker: 6 Surprising Facts About the New Cybersecurity Landscape](https://nutmegdigitalnusantara.medium.com/when-ai-becomes-the-hacker-6-surprising-facts-about-the-new-cybersecurity-landscape-2673fb201d3c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Play Your AI Video on a Phone Speaker Before You Export](https://medium.com/@metachain.art/play-your-ai-video-on-a-phone-speaker-before-you-export-42e989550eae?source=rss------artificial_intelligence-5)**
-> 🔹 **[Gemini 4 Carbon available to developers , and Google November Core Update](https://medium.com/@searchprex/gemini-4-carbon-available-to-developers-and-google-november-core-update-19a4270004bd?source=rss------artificial_intelligence-5)**
-> 🔹 **[System Design Is the Skill AI Can’t Replace, and This Book Is How I Learned It](https://pixicstudio.medium.com/system-design-is-the-skill-ai-cant-replace-and-this-book-is-how-i-learned-it-0c0b5904c8b4?source=rss------system_design-5)**
+> 🔹 **[Your AI Agent Starts Every Morning From Zero. Fast Teams Don’t.](https://ranyel.medium.com/your-ai-agent-starts-every-morning-from-zero-fast-teams-dont-406f32c37a6b?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Advisor to Butler: How AI Went from Answering to Acting](https://medium.com/@jainrishika073/from-advisor-to-butler-how-ai-went-from-answering-to-acting-573c9baf74a1?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Started Building a Personal Finance App Because Managing Money Shouldn’t Be So Complicated](https://medium.com/@josebcn90/i-started-building-a-personal-finance-app-because-managing-money-shouldnt-be-so-complicated-d4216b78fe3f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can Artificial Intelligence Ever Replace Human Creativity?](https://medium.com/@ikhushippatel/can-artificial-intelligence-ever-replace-human-creativity-f210ca8cc9d8?source=rss------artificial_intelligence-5)**
+> 🔹 **[ChatGPT File Upload Limit Reached? What to Check First](https://medium.com/@dibyajyotikabi/chatgpt-file-upload-limit-reached-what-to-check-first-2a39eac014c6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Stack Has 17 Apps and Absolutely No Plan](https://medium.com/@astoldbycris/your-ai-stack-has-17-apps-and-absolutely-no-plan-db0e70310d71?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Read Anthropic’s IPO Prospectus as a Claude Code User.](https://medium.com/neuralnotions/i-read-anthropics-ipo-prospectus-as-a-claude-code-user-7b3d21c8fea2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Workflow Didn’t Die. It Got Demoted to Infrastructure.](https://medium.com/jin-system-architect/the-workflow-didnt-die-it-got-demoted-to-infrastructure-ccced41d702e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
