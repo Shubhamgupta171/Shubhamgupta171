@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Best AI on a $20 Plan Passed Just 12% of a Real Work Exam. Which One Is Worth Paying For?](https://medium.com/@anair3107/the-best-ai-on-a-20-plan-passed-just-12-of-a-real-work-exam-which-one-is-worth-paying-for-3d24a42b9e71?source=rss------artificial_intelligence-5)**
-> 🔹 **[My Downtime](https://medium.com/@thanmayeeshetty/my-downtime-1e13bd7ce9f1?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Jobs Will Actually Exist In This AI Age?](https://thrivealong.medium.com/what-jobs-will-actually-exist-in-this-ai-age-629ec004b731?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Mac’s New Siri Runs Partly on Google’s Servers. Read This First - 1/3](https://medium.com/macoclock/your-macs-new-siri-runs-partly-on-google-s-servers-read-this-first-1-3-d8502f9e72d0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Two Big Outages in Two Days Both Started With a Planned Change](https://abduljaleelkavungal.medium.com/two-big-outages-in-two-days-both-started-with-a-planned-change-710e42765b1c?source=rss------artificial_intelligence-5)**
-> 🔹 **[一个人 + AI 的 30 天真账：Git 说 1.2 亿行，挤完水只剩 57 万](https://medium.com/@engningarchitect/%E4%B8%80%E4%B8%AA%E4%BA%BA-ai-%E7%9A%84-30-%E5%A4%A9%E7%9C%9F%E8%B4%A6-git-%E8%AF%B4-1-2-%E4%BA%BF%E8%A1%8C-%E6%8C%A4%E5%AE%8C%E6%B0%B4%E5%8F%AA%E5%89%A9-57-%E4%B8%87-d326618ad662?source=rss------artificial_intelligence-5)**
-> 🔹 **[Reduce Before You Automate: Why I Launched RPR](https://medium.com/@patrickanguet/reduce-before-you-automate-why-i-launched-rpr-416589efe315?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Assistant to Collaborator: When AI Is Part of the Team](https://medium.com/@Fransantolo/from-assistant-to-collaborator-when-ai-is-part-of-the-team-c1c96077e308?source=rss------artificial_intelligence-5)**
+> 🔹 **[YouTube Shorts 2026: 20+ Statistics That Will Surprise You](https://medium.com/@akankshachaudhari51/youtube-shorts-2026-20-statistics-that-will-surprise-you-8ce13da7ff10?source=rss------artificial_intelligence-5)**
+> 🔹 **[What 3 Years of Using AI Agents in Corporate Codebases Taught Me](https://medium.com/data-science-collective/what-3-years-of-using-ai-agents-in-corporate-codebases-taught-me-dbe82f397fbe?source=rss------artificial_intelligence-5)**
+> 🔹 **[Spring Boot Without the Mess: Controller, Service, Repository, and Where Everything Goes](https://ayshashh.medium.com/spring-boot-without-the-mess-a-beginners-guide-to-structuring-your-first-backend-eb9c5484ae65?source=rss------backend_development-5)**
+> 🔹 **[Your Spring Boot Application Is Slow, but Your Database Is Fine: The Hidden Cost of Connection…](https://medium.com/@theturtlecode/your-spring-boot-application-is-slow-but-your-database-is-fine-the-hidden-cost-of-connection-fe5b026249de?source=rss------backend_development-5)**
+> 🔹 **[The Perpetual Grid: Why AI Needs Clean Power That Never Sleeps](https://medium.com/@contact_76449/the-perpetual-grid-why-ai-needs-clean-power-that-never-sleeps-598c10944aa7?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Just Learned to Repair AI.](https://medium.com/@jeetlahauk/ai-just-learned-to-repair-ai-43245936d3d2?source=rss------artificial_intelligence-5)**
+> 🔹 **[How much water does AI Data Center Need?](https://medium.com/data-science-in-your-pocket/how-much-water-does-ai-data-center-need-43da7c2a033a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Twenty Megawatts Is Not the Whole Threshold](https://medium.com/@contact_76449/twenty-megawatts-is-not-the-whole-threshold-ce4f62b700dd?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
