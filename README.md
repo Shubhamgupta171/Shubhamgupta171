@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Automated Request Routing: When Simple Rules Beat AI](https://medium.com/@socialathen/automated-request-routing-when-simple-rules-beat-ai-3f1866b8f54e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Vector Databases Explained: How AI Stores and Searches Knowledge](https://medium.com/@missnaziya10/vector-databases-explained-how-ai-stores-and-searches-knowledge-04712f734f8b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Java AI Powered Java Full Stack Course in Telugu: Learn Java Full Stack from Scratch](https://medium.com/@seenukumardmp/java-ai-powered-java-full-stack-course-in-telugu-learn-java-full-stack-from-scratch-5f5c63545b45?source=rss------backend_development-5)**
-> 🔹 **[A $29 Price Should Survive an Image Translation](https://medium.com/@mchfollow/a-29-price-should-survive-an-image-translation-4acd88905724?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Choose a Digital Marketing Course with AI in Varanasi in 2026?](https://medium.com/@rukastrudra/why-choose-a-digital-marketing-course-with-ai-in-varanasi-in-2026-3925b417821e?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Decompile a JAR File and Let Claude Code Read It](https://mohammadmd1383.medium.com/how-to-decompile-a-jar-file-and-let-claude-code-read-it-2eb3ed853efa?source=rss------artificial_intelligence-5)**
-> 🔹 **[GEO Serisi 2: Yapay Zekâ Sizi Anıyor mu? Önce Ölçün](https://medium.com/@sonerer132/geo-serisi-2-yapay-zek%C3%A2-sizi-an%C4%B1yor-mu-%C3%B6nce-%C3%B6l%C3%A7%C3%BCn-dfdd596bea60?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Search Playbook: Why Your Brand Is Invisible and How to Fix It](https://medium.com/daiom/the-ai-search-playbook-why-your-brand-is-invisible-and-how-to-fix-it-05568d488dc4?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is realism really more immersive?](https://medium.com/@quantgamer.dev/is-realism-really-more-immersive-fcfac464d147?source=rss------artificial_intelligence-5)**
+> 🔹 **[Bring your own AI key: what it means for cost and data](https://medium.com/@victor_8736/bring-your-own-ai-key-what-it-means-for-cost-and-data-dcd3b13a389c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How AI Writing Tools Transformed My Content Workflow &lpar;And Why Writesonic Stands Out&rpar;](https://medium.com/@jayalalperera075/how-ai-writing-tools-transformed-my-content-workflow-and-why-writesonic-stands-out-d3c05abb57fc?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic Commerce wordt nu echt! Kan een Agent aankopen in jouw webshop doen? Check deze vijf pu...](https://basprins.medium.com/agentic-commerce-wordt-nu-echt-kan-een-agent-aankopen-in-jouw-webshop-doen-check-deze-vijf-punten-35d92ad58785?source=rss------artificial_intelligence-5)**
+> 🔹 **[Observer Coherence: The Information Physics of Quantum Subjective Science](https://medium.com/@galindokristine/observer-coherence-the-information-physics-of-quantum-subjective-science-df7eae02c771?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 GitHub Repos That Fill the Gaps in Your Claude Code Setup](https://bysoyeb.medium.com/7-github-repos-that-fill-the-gaps-in-your-claude-code-setup-834068477e91?source=rss------artificial_intelligence-5)**
+> 🔹 **[Not Everything That Counts Can Be Billed](https://medium.com/@rimdutt369/not-everything-that-counts-can-be-billed-149ab0cb2b7c?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Solved 400+ LeetCode Problems. Here’s What I Wish I Knew Earlier.](https://medium.com/@dineshv.public/i-solved-400-leetcode-problems-heres-what-i-wish-i-knew-earlier-07ad0714b059?source=rss------data_structures-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
