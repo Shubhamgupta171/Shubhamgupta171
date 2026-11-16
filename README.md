@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Waiting Costs You: Reaching $10K Months Before AI Calls the Shots](https://medium.com/@joshuafirst56/why-waiting-costs-you-reaching-10k-months-before-ai-calls-the-shots-b0c871550237?source=rss------artificial_intelligence-5)**
-> 🔹 **[Human in the loop AI agents and when a person must approve](https://medium.com/@tirth_bigcircle/human-in-the-loop-ai-agents-and-when-a-person-must-approve-961769f48b6d?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI-Powered Content Extraction](https://medium.com/@scarlet02111304/ai-powered-content-extraction-7eeccd819935?source=rss------artificial_intelligence-5)**
-> 🔹 **[Are We Being Replaced, or Are We Standing Still?](https://medium.com/@dgolden456/are-we-being-replaced-or-are-we-standing-still-410c7a40ba7c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Missing Layer in McKinsey’s Physical AI Map](https://danieldavenport.medium.com/the-missing-layer-in-mckinseys-physical-ai-map-3261fa0c6781?source=rss------artificial_intelligence-5)**
-> 🔹 **[Are We Moving Toward Mass Unemployment?](https://thrivealong.medium.com/are-we-moving-toward-mass-unemployment-6b85e9ee8fa4?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Governance: The Missing Link Between Innovation, Trust and Accountability](https://nagvekar.medium.com/ai-governance-the-missing-link-between-innovation-trust-and-accountability-daddbe184df2?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Happens When AI Can Shop for You? Welcome to the Era of Agentic Commerce](https://medium.com/@poojaborade7022/what-happens-when-ai-can-shop-for-you-welcome-to-the-era-of-agentic-commerce-354b380a2d9b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Automated Request Routing: When Simple Rules Beat AI](https://medium.com/@socialathen/automated-request-routing-when-simple-rules-beat-ai-3f1866b8f54e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Vector Databases Explained: How AI Stores and Searches Knowledge](https://medium.com/@missnaziya10/vector-databases-explained-how-ai-stores-and-searches-knowledge-04712f734f8b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Java AI Powered Java Full Stack Course in Telugu: Learn Java Full Stack from Scratch](https://medium.com/@seenukumardmp/java-ai-powered-java-full-stack-course-in-telugu-learn-java-full-stack-from-scratch-5f5c63545b45?source=rss------backend_development-5)**
+> 🔹 **[A $29 Price Should Survive an Image Translation](https://medium.com/@mchfollow/a-29-price-should-survive-an-image-translation-4acd88905724?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Choose a Digital Marketing Course with AI in Varanasi in 2026?](https://medium.com/@rukastrudra/why-choose-a-digital-marketing-course-with-ai-in-varanasi-in-2026-3925b417821e?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Decompile a JAR File and Let Claude Code Read It](https://mohammadmd1383.medium.com/how-to-decompile-a-jar-file-and-let-claude-code-read-it-2eb3ed853efa?source=rss------artificial_intelligence-5)**
+> 🔹 **[GEO Serisi 2: Yapay Zekâ Sizi Anıyor mu? Önce Ölçün](https://medium.com/@sonerer132/geo-serisi-2-yapay-zek%C3%A2-sizi-an%C4%B1yor-mu-%C3%B6nce-%C3%B6l%C3%A7%C3%BCn-dfdd596bea60?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Search Playbook: Why Your Brand Is Invisible and How to Fix It](https://medium.com/daiom/the-ai-search-playbook-why-your-brand-is-invisible-and-how-to-fix-it-05568d488dc4?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
