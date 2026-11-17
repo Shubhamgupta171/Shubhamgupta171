@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Is realism really more immersive?](https://medium.com/@quantgamer.dev/is-realism-really-more-immersive-fcfac464d147?source=rss------artificial_intelligence-5)**
-> 🔹 **[Bring your own AI key: what it means for cost and data](https://medium.com/@victor_8736/bring-your-own-ai-key-what-it-means-for-cost-and-data-dcd3b13a389c?source=rss------artificial_intelligence-5)**
-> 🔹 **[How AI Writing Tools Transformed My Content Workflow &lpar;And Why Writesonic Stands Out&rpar;](https://medium.com/@jayalalperera075/how-ai-writing-tools-transformed-my-content-workflow-and-why-writesonic-stands-out-d3c05abb57fc?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentic Commerce wordt nu echt! Kan een Agent aankopen in jouw webshop doen? Check deze vijf pu...](https://basprins.medium.com/agentic-commerce-wordt-nu-echt-kan-een-agent-aankopen-in-jouw-webshop-doen-check-deze-vijf-punten-35d92ad58785?source=rss------artificial_intelligence-5)**
-> 🔹 **[Observer Coherence: The Information Physics of Quantum Subjective Science](https://medium.com/@galindokristine/observer-coherence-the-information-physics-of-quantum-subjective-science-df7eae02c771?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 GitHub Repos That Fill the Gaps in Your Claude Code Setup](https://bysoyeb.medium.com/7-github-repos-that-fill-the-gaps-in-your-claude-code-setup-834068477e91?source=rss------artificial_intelligence-5)**
-> 🔹 **[Not Everything That Counts Can Be Billed](https://medium.com/@rimdutt369/not-everything-that-counts-can-be-billed-149ab0cb2b7c?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Solved 400+ LeetCode Problems. Here’s What I Wish I Knew Earlier.](https://medium.com/@dineshv.public/i-solved-400-leetcode-problems-heres-what-i-wish-i-knew-earlier-07ad0714b059?source=rss------data_structures-5)**
+> 🔹 **[The pioneering coding tricks that built Doom and Quake](https://stackoverflow.blog/2026/11/17/coding-tricks-that-built-doom-and-quake/)**
+> 🔹 **[Your Rate Limiter Has a Race Condition - Fix It With 16 Lines of Lua](https://kunalbhatia2601.medium.com/your-rate-limiter-has-a-race-condition-fix-it-with-16-lines-of-lua-2a59488e8acd?source=rss------backend_development-5)**
+> 🔹 **[What I Learned About Securing Backend APIs with OAuth2 and JWT](https://medium.com/@theelvace/what-i-learned-about-securing-backend-apis-with-oauth2-and-jwt-4a78f5fac75b?source=rss------backend_development-5)**
+> 🔹 **[AI Can Help You Think. It Can’t Write Your Assignment for You.](https://medium.com/@edwardmsia/ai-can-help-you-think-it-cant-write-your-assignment-for-you-eddcd8c81fa1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Forgetting is not a bug](https://medium.com/@je_colin/forgetting-is-not-a-bug-9f777fb257f1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Speed to Lead Is the Cheapest Growth Lever You’re Ignoring](https://medium.com/@perry_98075/speed-to-lead-is-the-cheapest-growth-lever-youre-ignoring-7c3e30c13bd7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Title:She Cried For Her Father. Then AI Did Something No Human Could.](https://medium.com/@memoonas726/title-she-cried-for-her-father-then-ai-did-something-no-human-could-a7953db5f7ca?source=rss------artificial_intelligence-5)**
+> 🔹 **[Should You Decimate or Retopologize a 3D Model in Blender?](https://medium.com/@tingtingmo0321/should-you-decimate-or-retopologize-a-3d-model-in-blender-0d51a0801000?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
