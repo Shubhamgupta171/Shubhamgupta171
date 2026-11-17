@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The pioneering coding tricks that built Doom and Quake](https://stackoverflow.blog/2026/11/17/coding-tricks-that-built-doom-and-quake/)**
-> 🔹 **[Your Rate Limiter Has a Race Condition - Fix It With 16 Lines of Lua](https://kunalbhatia2601.medium.com/your-rate-limiter-has-a-race-condition-fix-it-with-16-lines-of-lua-2a59488e8acd?source=rss------backend_development-5)**
-> 🔹 **[What I Learned About Securing Backend APIs with OAuth2 and JWT](https://medium.com/@theelvace/what-i-learned-about-securing-backend-apis-with-oauth2-and-jwt-4a78f5fac75b?source=rss------backend_development-5)**
-> 🔹 **[AI Can Help You Think. It Can’t Write Your Assignment for You.](https://medium.com/@edwardmsia/ai-can-help-you-think-it-cant-write-your-assignment-for-you-eddcd8c81fa1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Forgetting is not a bug](https://medium.com/@je_colin/forgetting-is-not-a-bug-9f777fb257f1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Speed to Lead Is the Cheapest Growth Lever You’re Ignoring](https://medium.com/@perry_98075/speed-to-lead-is-the-cheapest-growth-lever-youre-ignoring-7c3e30c13bd7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Title:She Cried For Her Father. Then AI Did Something No Human Could.](https://medium.com/@memoonas726/title-she-cried-for-her-father-then-ai-did-something-no-human-could-a7953db5f7ca?source=rss------artificial_intelligence-5)**
-> 🔹 **[Should You Decimate or Retopologize a 3D Model in Blender?](https://medium.com/@tingtingmo0321/should-you-decimate-or-retopologize-a-3d-model-in-blender-0d51a0801000?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 Database Design Mistakes That Become Expensive as Applications Grow](https://medium.com/skillstuff/7-database-design-mistakes-that-become-expensive-as-applications-grow-591c4aaa0451?source=rss------backend_development-5)**
+> 🔹 **[Don’t Build an AI Startup – Sell This Simple AI Service Instead](https://medium.com/@toyinojo552/dont-build-an-ai-startup-sell-this-simple-ai-service-instead-f0c01f3a0496?source=rss------artificial_intelligence-5)**
+> 🔹 **[Where Capability Meets Machine: Redefining Career Paths and Executive Roles in AI-Driven…](https://medium.com/@curiousmind1786/where-capability-meets-machine-redefining-career-paths-and-executive-roles-in-ai-driven-8eec264ef900?source=rss------artificial_intelligence-5)**
+> 🔹 **[10 AI Engineering Skills You Need to Learn in 2027 Before Everyone Else Does](https://medium.com/write-a-catalyst/10-ai-engineering-skills-you-need-to-learn-in-2027-before-everyone-else-does-5d2b3842229c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Pourquoi l’attaque d’OpenAI renforce l’optimisme IA de Clément Delangue](https://medium.com/@Abestit/pourquoi-lattaque-d-openai-renforce-l-optimisme-ia-de-cl%C3%A9ment-delangue-659503790f87?source=rss------artificial_intelligence-5)**
+> 🔹 **[Our Biggest Customer Offered Us $1.2M. One Engineer Told Us to Walk Away](https://medium.com/engineering-playbook/our-biggest-customer-offered-us-1-2m-one-engineer-told-us-to-walk-away-9c1dfdeebaea?source=rss------artificial_intelligence-5)**
+> 🔹 **[JULY 2025. OPENAI ACKNOWLEDGED MY CONCERNS.](https://medium.com/@Kyledolby/july-2025-openai-acknowledged-my-concerns-0bdf35e22211?source=rss------artificial_intelligence-5)**
+> 🔹 **[Dear ChatGPT, Can a Bot Replace a Therapist?](https://medium.com/write-a-catalyst/dear-chatgpt-can-a-bot-replace-a-therapist-fb73ca4b8b3a?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
