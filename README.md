@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[7 Database Design Mistakes That Become Expensive as Applications Grow](https://medium.com/skillstuff/7-database-design-mistakes-that-become-expensive-as-applications-grow-591c4aaa0451?source=rss------backend_development-5)**
-> 🔹 **[Don’t Build an AI Startup – Sell This Simple AI Service Instead](https://medium.com/@toyinojo552/dont-build-an-ai-startup-sell-this-simple-ai-service-instead-f0c01f3a0496?source=rss------artificial_intelligence-5)**
-> 🔹 **[Where Capability Meets Machine: Redefining Career Paths and Executive Roles in AI-Driven…](https://medium.com/@curiousmind1786/where-capability-meets-machine-redefining-career-paths-and-executive-roles-in-ai-driven-8eec264ef900?source=rss------artificial_intelligence-5)**
-> 🔹 **[10 AI Engineering Skills You Need to Learn in 2027 Before Everyone Else Does](https://medium.com/write-a-catalyst/10-ai-engineering-skills-you-need-to-learn-in-2027-before-everyone-else-does-5d2b3842229c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Pourquoi l’attaque d’OpenAI renforce l’optimisme IA de Clément Delangue](https://medium.com/@Abestit/pourquoi-lattaque-d-openai-renforce-l-optimisme-ia-de-cl%C3%A9ment-delangue-659503790f87?source=rss------artificial_intelligence-5)**
-> 🔹 **[Our Biggest Customer Offered Us $1.2M. One Engineer Told Us to Walk Away](https://medium.com/engineering-playbook/our-biggest-customer-offered-us-1-2m-one-engineer-told-us-to-walk-away-9c1dfdeebaea?source=rss------artificial_intelligence-5)**
-> 🔹 **[JULY 2025. OPENAI ACKNOWLEDGED MY CONCERNS.](https://medium.com/@Kyledolby/july-2025-openai-acknowledged-my-concerns-0bdf35e22211?source=rss------artificial_intelligence-5)**
-> 🔹 **[Dear ChatGPT, Can a Bot Replace a Therapist?](https://medium.com/write-a-catalyst/dear-chatgpt-can-a-bot-replace-a-therapist-fb73ca4b8b3a?source=rss------artificial_intelligence-5)**
+> 🔹 **[45% of German Shoppers Switched Retailers Because an AI Told Them To](https://medium.com/@luigilugmayr/45-of-german-shoppers-switched-retailers-because-an-ai-told-them-to-eb9e16e00e7f?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPT-6.2 Sol Cut the Bill in Plotly’s Test. Where Should the Savings Go?](https://medium.com/@liaojiwoo/gpt-6-2-sol-cut-the-bill-in-plotlys-test-where-should-the-savings-go-ddbfbb53c2cb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Speculative Decoding: LLM’ler Çıktı Dağılımını Bozmadan Nasıl Hızlanır?](https://medium.com/@emin.kltklt/speculative-decoding-llmler-%C3%A7%C4%B1kt%C4%B1-da%C4%9F%C4%B1l%C4%B1m%C4%B1n%C4%B1-bozmadan-nas%C4%B1l-h%C4%B1zlan%C4%B1r-3a288cf08dc4?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI news briefing : 18 November 2026](https://medium.com/ai-briefing-room/ai-news-briefing-18-november-2026-9c743a196287?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Not Replacing Software Engineers. It’s Exposing What Good Engineering Actually Means.](https://medium.com/@ssahu.shashank/ai-is-not-replacing-software-engineers-its-exposing-what-good-engineering-actually-means-ff1f2ff1e12c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best AI Course in NIBM, Pune — Learn Artificial Intelligence, Generative AI &amp; Modern AI Tools a...](https://medium.com/@nexifydigitseowork/best-ai-course-in-nibm-pune-learn-artificial-intelligence-generative-ai-modern-ai-tools-at-7b34e3eef3c7?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Build an Always-On Agent You Can Trust at Work](https://medium.com/ai-all-in/how-to-build-an-always-on-agent-you-can-trust-at-work-cb8debd5bbae?source=rss------artificial_intelligence-5)**
+> 🔹 **[Style, Pose, and Text: Telling Filter Rewrites Apart From Model Limits](https://medium.com/@andytan-links/style-pose-and-text-telling-filter-rewrites-apart-from-model-limits-1be37a8a609f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
