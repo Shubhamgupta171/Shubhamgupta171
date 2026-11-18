@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[45% of German Shoppers Switched Retailers Because an AI Told Them To](https://medium.com/@luigilugmayr/45-of-german-shoppers-switched-retailers-because-an-ai-told-them-to-eb9e16e00e7f?source=rss------artificial_intelligence-5)**
-> 🔹 **[GPT-6.2 Sol Cut the Bill in Plotly’s Test. Where Should the Savings Go?](https://medium.com/@liaojiwoo/gpt-6-2-sol-cut-the-bill-in-plotlys-test-where-should-the-savings-go-ddbfbb53c2cb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Speculative Decoding: LLM’ler Çıktı Dağılımını Bozmadan Nasıl Hızlanır?](https://medium.com/@emin.kltklt/speculative-decoding-llmler-%C3%A7%C4%B1kt%C4%B1-da%C4%9F%C4%B1l%C4%B1m%C4%B1n%C4%B1-bozmadan-nas%C4%B1l-h%C4%B1zlan%C4%B1r-3a288cf08dc4?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI news briefing : 18 November 2026](https://medium.com/ai-briefing-room/ai-news-briefing-18-november-2026-9c743a196287?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Is Not Replacing Software Engineers. It’s Exposing What Good Engineering Actually Means.](https://medium.com/@ssahu.shashank/ai-is-not-replacing-software-engineers-its-exposing-what-good-engineering-actually-means-ff1f2ff1e12c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best AI Course in NIBM, Pune — Learn Artificial Intelligence, Generative AI &amp; Modern AI Tools a...](https://medium.com/@nexifydigitseowork/best-ai-course-in-nibm-pune-learn-artificial-intelligence-generative-ai-modern-ai-tools-at-7b34e3eef3c7?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Build an Always-On Agent You Can Trust at Work](https://medium.com/ai-all-in/how-to-build-an-always-on-agent-you-can-trust-at-work-cb8debd5bbae?source=rss------artificial_intelligence-5)**
-> 🔹 **[Style, Pose, and Text: Telling Filter Rewrites Apart From Model Limits](https://medium.com/@andytan-links/style-pose-and-text-telling-filter-rewrites-apart-from-model-limits-1be37a8a609f?source=rss------artificial_intelligence-5)**
+> 🔹 **[What AI Says About Us](https://medium.com/@vcgdhsrhw/what-ai-says-about-us-10e03b678edf?source=rss------artificial_intelligence-5)**
+> 🔹 **[Which Version Did Your AI Assistant Read?](https://medium.com/@kaspars.jurjans/which-version-did-your-ai-assistant-read-6370aae8b31f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your Google Ads Agency Has a Score Now, and It Has Nothing to Do With Your Rankings](https://medium.com/@pomazkova/your-google-ads-agency-has-a-score-now-and-it-has-nothing-to-do-with-your-rankings-213bd731b56b?source=rss------artificial_intelligence-5)**
+> 🔹 **[I built an iPhone app that listens to conversations and forgets the audio](https://medium.com/@r00tb33r/i-built-an-iphone-app-that-listens-to-conversations-and-forgets-the-audio-f04712e89a2a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Constitution in Silicon](https://medium.com/@leogouk/constitution-in-silicon-52eaceeabf45?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Much Does an AI Chatbot Cost for a Small Business in 2026? An Honest Breakdown](https://medium.com/@muhammadshahidshakil1872/how-much-does-an-ai-chatbot-cost-for-a-small-business-in-2026-an-honest-breakdown-f4e48bd5091d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Build an MCP Server from Scratch | From REST APIs to Muse](https://medium.com/@martin.jurado.p/how-to-build-an-mcp-server-from-scratch-from-rest-apis-to-muse-9b520253bbda?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is Software Dead? I Looked Closer. Here’s What’s Happening.](https://medium.com/codex/is-software-dead-i-looked-closer-heres-what-s-happening-7d3ab1ab1d4b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
