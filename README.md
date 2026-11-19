@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Building Scalable PHP Applications: When to Use Queues, Background Jobs and Scheduled Tasks](https://medium.com/@soumoghsh78/building-scalable-php-applications-when-to-use-queues-background-jobs-and-scheduled-tasks-fea0e4cb2979?source=rss------backend_development-5)**
-> 🔹 **[Building Multi-Branch Inventory Software: Managing Stock Transfers, Reservations and Audit Trai...](https://medium.com/@soumoghsh78/building-multi-branch-inventory-software-managing-stock-transfers-reservations-and-audit-trails-9e18f6f85e07?source=rss------backend_development-5)**
-> 🔹 **[How to Build an MCP Server](https://medium.com/@heuai/how-to-build-an-mcp-server-352f1511baaa?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Can a Computer Understand Human Language?](https://medium.com/@pranova2508/how-can-a-computer-understand-human-language-79c42d0a9120?source=rss------artificial_intelligence-5)**
-> 🔹 **[Lovable Says Its Leaky Apps Are the Old Ones. The SQL Mostly Agrees.](https://medium.com/@granerog.ai/lovable-says-its-leaky-apps-are-the-old-ones-the-sql-mostly-agrees-e1dd345229c2?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Pretty-Printed JSON Trap: How Whitespace, CJK, and Emoji Quietly Eat Your LLM Context Windo...](https://medium.com/@g.small.seven/the-pretty-printed-json-trap-how-whitespace-cjk-and-emoji-quietly-eat-your-llm-context-window-106d271e8f91?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is online proctoring legal? Data privacy, compliance and responsible AI](https://medium.com/@TatvaOne_AI/is-online-proctoring-legal-data-privacy-compliance-and-responsible-ai-18be9309fd48?source=rss------artificial_intelligence-5)**
-> 🔹 **[Apple Creator Studio Just Got a Major Update: 7 New Features Mac Creators Should Know](https://medium.com/@AppleTheory/apple-creator-studio-just-got-a-major-update-7-new-features-mac-creators-should-know-39f28c73833d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Physical AI Is Connecting Intelligence With the Real World](https://medium.com/@maryamhussaini4504/how-physical-ai-is-connecting-intelligence-with-the-real-world-018336ff45df?source=rss------artificial_intelligence-5)**
+> 🔹 **[Sinusoidal Positional Encodings: From Integer and Binary Position Codes to the Rotation Idea Th...](https://medium.com/@mdsajid84388/sinusoidal-positional-encodings-from-integer-and-binary-position-codes-to-the-rotation-idea-that-9cf941f9cb99?source=rss------artificial_intelligence-5)**
+> 🔹 **[System Design Interview Questions Top US Tech Companies Ask in 2026](https://medium.com/codetodeploy/system-design-interview-questions-top-us-tech-companies-ask-in-2026-c8a3302ffa87?source=rss------backend_development-5)**
+> 🔹 **[Five agents talking lost to five answers and a vote](https://medium.com/@karthickrajam18/five-agents-talking-lost-to-five-answers-and-a-vote-d15690013740?source=rss------artificial_intelligence-5)**
+> 🔹 **[Power BI vs a Custom Operations Dashboard: Which in 2026?](https://medium.com/@dknightunicorn/power-bi-vs-a-custom-operations-dashboard-which-in-2026-4ef4e7ed4463?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Hidden Cost of Poor Inventory Management and How Technology Can Help](https://medium.com/@maryamhussaini4504/the-hidden-cost-of-poor-inventory-management-and-how-technology-can-help-c97743efb87f?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Use AI Every Day, But I Never Outsource My Intelligence to It.](https://medium.com/@aliuame/i-use-ai-every-day-but-i-never-outsource-my-intelligence-to-it-21fe10a35bcb?source=rss------artificial_intelligence-5)**
+> 🔹 **[Antes de la inteligencia artificial: cómo la humanidad construyó el mundo que hoy piensa con…](https://medium.com/@elmontevideanolabs/antes-de-la-inteligencia-artificial-c%C3%B3mo-la-humanidad-construy%C3%B3-el-mundo-que-hoy-piensa-con-cc6d776e029f?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
