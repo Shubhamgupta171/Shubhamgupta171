@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[What AI Says About Us](https://medium.com/@vcgdhsrhw/what-ai-says-about-us-10e03b678edf?source=rss------artificial_intelligence-5)**
-> 🔹 **[Which Version Did Your AI Assistant Read?](https://medium.com/@kaspars.jurjans/which-version-did-your-ai-assistant-read-6370aae8b31f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your Google Ads Agency Has a Score Now, and It Has Nothing to Do With Your Rankings](https://medium.com/@pomazkova/your-google-ads-agency-has-a-score-now-and-it-has-nothing-to-do-with-your-rankings-213bd731b56b?source=rss------artificial_intelligence-5)**
-> 🔹 **[I built an iPhone app that listens to conversations and forgets the audio](https://medium.com/@r00tb33r/i-built-an-iphone-app-that-listens-to-conversations-and-forgets-the-audio-f04712e89a2a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Constitution in Silicon](https://medium.com/@leogouk/constitution-in-silicon-52eaceeabf45?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Much Does an AI Chatbot Cost for a Small Business in 2026? An Honest Breakdown](https://medium.com/@muhammadshahidshakil1872/how-much-does-an-ai-chatbot-cost-for-a-small-business-in-2026-an-honest-breakdown-f4e48bd5091d?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Build an MCP Server from Scratch | From REST APIs to Muse](https://medium.com/@martin.jurado.p/how-to-build-an-mcp-server-from-scratch-from-rest-apis-to-muse-9b520253bbda?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is Software Dead? I Looked Closer. Here’s What’s Happening.](https://medium.com/codex/is-software-dead-i-looked-closer-heres-what-s-happening-7d3ab1ab1d4b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building Scalable PHP Applications: When to Use Queues, Background Jobs and Scheduled Tasks](https://medium.com/@soumoghsh78/building-scalable-php-applications-when-to-use-queues-background-jobs-and-scheduled-tasks-fea0e4cb2979?source=rss------backend_development-5)**
+> 🔹 **[Building Multi-Branch Inventory Software: Managing Stock Transfers, Reservations and Audit Trai...](https://medium.com/@soumoghsh78/building-multi-branch-inventory-software-managing-stock-transfers-reservations-and-audit-trails-9e18f6f85e07?source=rss------backend_development-5)**
+> 🔹 **[How to Build an MCP Server](https://medium.com/@heuai/how-to-build-an-mcp-server-352f1511baaa?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Can a Computer Understand Human Language?](https://medium.com/@pranova2508/how-can-a-computer-understand-human-language-79c42d0a9120?source=rss------artificial_intelligence-5)**
+> 🔹 **[Lovable Says Its Leaky Apps Are the Old Ones. The SQL Mostly Agrees.](https://medium.com/@granerog.ai/lovable-says-its-leaky-apps-are-the-old-ones-the-sql-mostly-agrees-e1dd345229c2?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Pretty-Printed JSON Trap: How Whitespace, CJK, and Emoji Quietly Eat Your LLM Context Windo...](https://medium.com/@g.small.seven/the-pretty-printed-json-trap-how-whitespace-cjk-and-emoji-quietly-eat-your-llm-context-window-106d271e8f91?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is online proctoring legal? Data privacy, compliance and responsible AI](https://medium.com/@TatvaOne_AI/is-online-proctoring-legal-data-privacy-compliance-and-responsible-ai-18be9309fd48?source=rss------artificial_intelligence-5)**
+> 🔹 **[Apple Creator Studio Just Got a Major Update: 7 New Features Mac Creators Should Know](https://medium.com/@AppleTheory/apple-creator-studio-just-got-a-major-update-7-new-features-mac-creators-should-know-39f28c73833d?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
