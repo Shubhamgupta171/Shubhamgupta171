@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How Physical AI Is Connecting Intelligence With the Real World](https://medium.com/@maryamhussaini4504/how-physical-ai-is-connecting-intelligence-with-the-real-world-018336ff45df?source=rss------artificial_intelligence-5)**
-> 🔹 **[Sinusoidal Positional Encodings: From Integer and Binary Position Codes to the Rotation Idea Th...](https://medium.com/@mdsajid84388/sinusoidal-positional-encodings-from-integer-and-binary-position-codes-to-the-rotation-idea-that-9cf941f9cb99?source=rss------artificial_intelligence-5)**
-> 🔹 **[System Design Interview Questions Top US Tech Companies Ask in 2026](https://medium.com/codetodeploy/system-design-interview-questions-top-us-tech-companies-ask-in-2026-c8a3302ffa87?source=rss------backend_development-5)**
-> 🔹 **[Five agents talking lost to five answers and a vote](https://medium.com/@karthickrajam18/five-agents-talking-lost-to-five-answers-and-a-vote-d15690013740?source=rss------artificial_intelligence-5)**
-> 🔹 **[Power BI vs a Custom Operations Dashboard: Which in 2026?](https://medium.com/@dknightunicorn/power-bi-vs-a-custom-operations-dashboard-which-in-2026-4ef4e7ed4463?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Hidden Cost of Poor Inventory Management and How Technology Can Help](https://medium.com/@maryamhussaini4504/the-hidden-cost-of-poor-inventory-management-and-how-technology-can-help-c97743efb87f?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Use AI Every Day, But I Never Outsource My Intelligence to It.](https://medium.com/@aliuame/i-use-ai-every-day-but-i-never-outsource-my-intelligence-to-it-21fe10a35bcb?source=rss------artificial_intelligence-5)**
-> 🔹 **[Antes de la inteligencia artificial: cómo la humanidad construyó el mundo que hoy piensa con…](https://medium.com/@elmontevideanolabs/antes-de-la-inteligencia-artificial-c%C3%B3mo-la-humanidad-construy%C3%B3-el-mundo-que-hoy-piensa-con-cc6d776e029f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Trying to get our Arms around AI efficiency](https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/)**
+> 🔹 **[I Was Venting to ChatGPT. It Sent an Email Without My Permission and I Lost a Career Opportunit...](https://medium.com/@taliqa.muhib/i-was-venting-to-chatgpt-it-sent-an-email-without-my-permission-and-i-lost-a-career-opportunity-6a45e25ff28a?source=rss------artificial_intelligence-5)**
+> 🔹 **[YouTube Video Localization: A Practical Guide for Creators Reaching Global Audiences](https://medium.com/@ytzoloai/youtube-video-localization-a-practical-guide-for-creators-reaching-global-audiences-4fc51c8caffe?source=rss------artificial_intelligence-5)**
+> 🔹 **[Les méthodes RAG « avancées » valent-elles leur coût ? Je les ai mesurées](https://medium.com/@amaury.pichat/les-m%C3%A9thodes-rag-avanc%C3%A9es-valent-elles-leur-co%C3%BBt-je-les-ai-mesur%C3%A9es-45f7c0e125d6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Will They Sponsor Me? How I Built a Job Radar for People on Visas](https://medium.com/@ajinkyadesai11/will-they-sponsor-me-how-i-built-a-job-radar-for-people-on-visas-a70ba45ed6ed?source=rss------artificial_intelligence-5)**
+> 🔹 **[Six Leaders, One Pattern: Why Judgement Is Becoming the Scarcest Skill in Business](https://medium.com/@tanyajaitly/six-leaders-one-pattern-why-judgement-is-becoming-the-scarcest-skill-in-business-f0f309904bc8?source=rss------artificial_intelligence-5)**
+> 🔹 **[These Glasses Would Have Got Me Promoted Sooner. In an Exam, They’d Be Cheating.](https://medium.com/@cpark_54858/these-glasses-would-have-got-me-promoted-sooner-in-an-exam-theyd-be-cheating-3ba4a4e796b9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can You Learn Machine Learning Without a Computer Science Degree?](https://medium.com/@thonix/can-you-learn-machine-learning-without-a-computer-science-degree-bc15a5fb57a1?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
