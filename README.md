@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Trying to get our Arms around AI efficiency](https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/)**
-> 🔹 **[I Was Venting to ChatGPT. It Sent an Email Without My Permission and I Lost a Career Opportunit...](https://medium.com/@taliqa.muhib/i-was-venting-to-chatgpt-it-sent-an-email-without-my-permission-and-i-lost-a-career-opportunity-6a45e25ff28a?source=rss------artificial_intelligence-5)**
-> 🔹 **[YouTube Video Localization: A Practical Guide for Creators Reaching Global Audiences](https://medium.com/@ytzoloai/youtube-video-localization-a-practical-guide-for-creators-reaching-global-audiences-4fc51c8caffe?source=rss------artificial_intelligence-5)**
-> 🔹 **[Les méthodes RAG « avancées » valent-elles leur coût ? Je les ai mesurées](https://medium.com/@amaury.pichat/les-m%C3%A9thodes-rag-avanc%C3%A9es-valent-elles-leur-co%C3%BBt-je-les-ai-mesur%C3%A9es-45f7c0e125d6?source=rss------artificial_intelligence-5)**
-> 🔹 **[Will They Sponsor Me? How I Built a Job Radar for People on Visas](https://medium.com/@ajinkyadesai11/will-they-sponsor-me-how-i-built-a-job-radar-for-people-on-visas-a70ba45ed6ed?source=rss------artificial_intelligence-5)**
-> 🔹 **[Six Leaders, One Pattern: Why Judgement Is Becoming the Scarcest Skill in Business](https://medium.com/@tanyajaitly/six-leaders-one-pattern-why-judgement-is-becoming-the-scarcest-skill-in-business-f0f309904bc8?source=rss------artificial_intelligence-5)**
-> 🔹 **[These Glasses Would Have Got Me Promoted Sooner. In an Exam, They’d Be Cheating.](https://medium.com/@cpark_54858/these-glasses-would-have-got-me-promoted-sooner-in-an-exam-theyd-be-cheating-3ba4a4e796b9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can You Learn Machine Learning Without a Computer Science Degree?](https://medium.com/@thonix/can-you-learn-machine-learning-without-a-computer-science-degree-bc15a5fb57a1?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Cloudflare WAF protects against ruby2shell &lpar;CVE-2026-132825&rpar;](https://blog.cloudflare.com/ruby2shell-waf-protection/)**
+> 🔹 **[AI Is Taking Engineering Budgets Before It Takes Engineering Jobs](https://medium.com/@siddhantnitin/ai-is-taking-engineering-budgets-before-it-takes-engineering-jobs-a69a66debf28?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agent’ların Token Tüketimini Nasıl Azaltabiliriz? Context Engineering ve Optimizasyon Teknik...](https://medium.com/@hasann.kucuk/ai-agentlar%C4%B1n-token-t%C3%BCketimini-nas%C4%B1l-azaltabiliriz-context-engineering-ve-optimizasyon-teknikleri-35c07f19c688?source=rss------artificial_intelligence-5)**
+> 🔹 **[Rust vs C++ in 2026: Which Builds Safer, More Reliable Software?](https://medium.com/codex/rust-vs-c-in-2026-which-builds-safer-more-reliable-software-7ed1dfda144c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Nvidia Is Now Underwriting the AI Boom It Sells Into](https://medium.com/@siddhantnitin/nvidia-is-now-underwriting-the-ai-boom-it-sells-into-8a12a026546b?source=rss------artificial_intelligence-5)**
+> 🔹 **[What is Quantaira? A plain-English guide](https://medium.com/@cryptomoneymakr/what-is-quantaira-a-plain-english-guide-57d1a48944b9?source=rss------artificial_intelligence-5)**
+> 🔹 **[Claude May Have Proved the Riemann Hypothesis. Nobody Can Say Yet.](https://medium.com/@siddhantnitin/claude-may-have-proved-the-riemann-hypothesis-nobody-can-say-yet-8fd0171a4357?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I am building Haunted Homework with Kiro](https://medium.com/@smrejuanuli/how-i-am-building-haunted-homework-with-kiro-d4ee59504ba8?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
