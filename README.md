@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Building Your First REST API With Rust and Axum](https://medium.com/@k.keaphirunphirchhoeun/building-your-first-rest-api-with-rust-and-axum-e5b28702b5fe?source=rss------backend_development-5)**
-> 🔹 **[From CRUD to CUDA: How “AI” Is Reshaping Enterprise Software Architecture](https://medium.com/@rachanna/from-crud-to-cuda-how-ai-is-reshaping-enterprise-software-architecture-d640946dd42b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Artificial Intelligence: Its Impact on Student Life](https://medium.com/@unaizabashir9/artificial-intelligence-its-impact-on-student-life-f7dbcaaee842?source=rss------artificial_intelligence-5)**
-> 🔹 **[Why Rust Is Becoming an Interesting Choice for Backend Development](https://medium.com/@k.keaphirunphirchhoeun/why-rust-is-becoming-an-interesting-choice-for-backend-development-2694a3be1771?source=rss------backend_development-5)**
-> 🔹 **[Why Rust Is Becoming an Interesting Choice for Backend Development](https://medium.com/@k.keaphirunphirchhoeun/why-rust-is-becoming-an-interesting-choice-for-backend-development-2694a3be1771?source=rss------artificial_intelligence-5)**
-> 🔹 **[Thanksgiving Gas Prices &amp; Trip Cost | Breaking USA News](https://medium.com/@sumbalabbas45/thanksgiving-gas-prices-trip-cost-breaking-usa-news-845cc734c4d3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Is Life Getting More Complicated As We Trying To Make It Easier?](https://medium.com/@divyaworks369/is-life-getting-more-complicated-as-we-trying-to-make-it-easier-6569e11714ee?source=rss------artificial_intelligence-5)**
-> 🔹 **[Will AI Find Your Business?](https://medium.com/@kishoredhoka.jain/will-ai-find-your-business-85ef9a2a4c58?source=rss------artificial_intelligence-5)**
+> 🔹 **[Should You Pay for AI Video From a Product Photo?](https://medium.com/@hungryclaw/should-you-pay-for-ai-video-from-a-product-photo-3000f695018b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building an AI-Powered Cyber Defence System with Reinforcement Learning](https://medium.com/@issra.akrout/building-an-ai-powered-cyber-defence-system-with-reinforcement-learning-87bf4baf5ae5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Panduan Arsitektur Operasional dan Optimasi Biaya Grok Bot serta Sistem Agen Rumah Sakit](https://medium.com/@drferdiiskandar/panduan-arsitektur-operasional-dan-optimasi-biaya-grok-bot-serta-sistem-agen-rumah-sakit-e56b4631689e?source=rss------artificial_intelligence-5)**
+> 🔹 **[TubeMagic vs. vidIQ vs. TubeBuddy vs. ChatGPT: Which AI YouTube Tool Is Actually Worth Buying?](https://medium.com/@suleymanlord21/tubemagic-vs-vidiq-vs-tubebuddy-vs-chatgpt-which-ai-youtube-tool-is-actually-worth-buying-276166aed004?source=rss------artificial_intelligence-5)**
+> 🔹 **[The OpenRouter MiniMax Warning: Who Really Handles Your AI Prompts?](https://medium.com/@digioffly/the-openrouter-minimax-warning-who-really-handles-your-ai-prompts-7e7279a4ba57?source=rss------artificial_intelligence-5)**
+> 🔹 **[MCP Explained With a Thai Food Court Card](https://medium.com/@sanookai55/mcp-explained-with-a-thai-food-court-card-85f20d627c4d?source=rss------artificial_intelligence-5)**
+> 🔹 **[I Asked Codex to Create a Tiny World Simulation](https://medium.com/@catshorrorphilosophy/i-asked-codex-to-create-a-tiny-world-simulation-69db8a36f1bd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Can AI Build a Complete ML Pipeline? The Real Answer](https://pub.towardsai.net/can-ai-build-a-complete-ml-pipeline-the-real-answer-e7835223dbfd?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
