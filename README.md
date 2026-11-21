@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How Cloudflare WAF protects against ruby2shell &lpar;CVE-2026-132825&rpar;](https://blog.cloudflare.com/ruby2shell-waf-protection/)**
-> 🔹 **[AI Is Taking Engineering Budgets Before It Takes Engineering Jobs](https://medium.com/@siddhantnitin/ai-is-taking-engineering-budgets-before-it-takes-engineering-jobs-a69a66debf28?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agent’ların Token Tüketimini Nasıl Azaltabiliriz? Context Engineering ve Optimizasyon Teknik...](https://medium.com/@hasann.kucuk/ai-agentlar%C4%B1n-token-t%C3%BCketimini-nas%C4%B1l-azaltabiliriz-context-engineering-ve-optimizasyon-teknikleri-35c07f19c688?source=rss------artificial_intelligence-5)**
-> 🔹 **[Rust vs C++ in 2026: Which Builds Safer, More Reliable Software?](https://medium.com/codex/rust-vs-c-in-2026-which-builds-safer-more-reliable-software-7ed1dfda144c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Nvidia Is Now Underwriting the AI Boom It Sells Into](https://medium.com/@siddhantnitin/nvidia-is-now-underwriting-the-ai-boom-it-sells-into-8a12a026546b?source=rss------artificial_intelligence-5)**
-> 🔹 **[What is Quantaira? A plain-English guide](https://medium.com/@cryptomoneymakr/what-is-quantaira-a-plain-english-guide-57d1a48944b9?source=rss------artificial_intelligence-5)**
-> 🔹 **[Claude May Have Proved the Riemann Hypothesis. Nobody Can Say Yet.](https://medium.com/@siddhantnitin/claude-may-have-proved-the-riemann-hypothesis-nobody-can-say-yet-8fd0171a4357?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I am building Haunted Homework with Kiro](https://medium.com/@smrejuanuli/how-i-am-building-haunted-homework-with-kiro-d4ee59504ba8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building Your First REST API With Rust and Axum](https://medium.com/@k.keaphirunphirchhoeun/building-your-first-rest-api-with-rust-and-axum-e5b28702b5fe?source=rss------backend_development-5)**
+> 🔹 **[From CRUD to CUDA: How “AI” Is Reshaping Enterprise Software Architecture](https://medium.com/@rachanna/from-crud-to-cuda-how-ai-is-reshaping-enterprise-software-architecture-d640946dd42b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Artificial Intelligence: Its Impact on Student Life](https://medium.com/@unaizabashir9/artificial-intelligence-its-impact-on-student-life-f7dbcaaee842?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Rust Is Becoming an Interesting Choice for Backend Development](https://medium.com/@k.keaphirunphirchhoeun/why-rust-is-becoming-an-interesting-choice-for-backend-development-2694a3be1771?source=rss------backend_development-5)**
+> 🔹 **[Why Rust Is Becoming an Interesting Choice for Backend Development](https://medium.com/@k.keaphirunphirchhoeun/why-rust-is-becoming-an-interesting-choice-for-backend-development-2694a3be1771?source=rss------artificial_intelligence-5)**
+> 🔹 **[Thanksgiving Gas Prices &amp; Trip Cost | Breaking USA News](https://medium.com/@sumbalabbas45/thanksgiving-gas-prices-trip-cost-breaking-usa-news-845cc734c4d3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Is Life Getting More Complicated As We Trying To Make It Easier?](https://medium.com/@divyaworks369/is-life-getting-more-complicated-as-we-trying-to-make-it-easier-6569e11714ee?source=rss------artificial_intelligence-5)**
+> 🔹 **[Will AI Find Your Business?](https://medium.com/@kishoredhoka.jain/will-ai-find-your-business-85ef9a2a4c58?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
