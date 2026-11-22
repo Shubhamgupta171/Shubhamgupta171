@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Should You Pay for AI Video From a Product Photo?](https://medium.com/@hungryclaw/should-you-pay-for-ai-video-from-a-product-photo-3000f695018b?source=rss------artificial_intelligence-5)**
-> 🔹 **[Building an AI-Powered Cyber Defence System with Reinforcement Learning](https://medium.com/@issra.akrout/building-an-ai-powered-cyber-defence-system-with-reinforcement-learning-87bf4baf5ae5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Panduan Arsitektur Operasional dan Optimasi Biaya Grok Bot serta Sistem Agen Rumah Sakit](https://medium.com/@drferdiiskandar/panduan-arsitektur-operasional-dan-optimasi-biaya-grok-bot-serta-sistem-agen-rumah-sakit-e56b4631689e?source=rss------artificial_intelligence-5)**
-> 🔹 **[TubeMagic vs. vidIQ vs. TubeBuddy vs. ChatGPT: Which AI YouTube Tool Is Actually Worth Buying?](https://medium.com/@suleymanlord21/tubemagic-vs-vidiq-vs-tubebuddy-vs-chatgpt-which-ai-youtube-tool-is-actually-worth-buying-276166aed004?source=rss------artificial_intelligence-5)**
-> 🔹 **[The OpenRouter MiniMax Warning: Who Really Handles Your AI Prompts?](https://medium.com/@digioffly/the-openrouter-minimax-warning-who-really-handles-your-ai-prompts-7e7279a4ba57?source=rss------artificial_intelligence-5)**
-> 🔹 **[MCP Explained With a Thai Food Court Card](https://medium.com/@sanookai55/mcp-explained-with-a-thai-food-court-card-85f20d627c4d?source=rss------artificial_intelligence-5)**
-> 🔹 **[I Asked Codex to Create a Tiny World Simulation](https://medium.com/@catshorrorphilosophy/i-asked-codex-to-create-a-tiny-world-simulation-69db8a36f1bd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Can AI Build a Complete ML Pipeline? The Real Answer](https://pub.towardsai.net/can-ai-build-a-complete-ml-pipeline-the-real-answer-e7835223dbfd?source=rss------artificial_intelligence-5)**
+> 🔹 **[My AI Story Started With a Bang](https://medium.com/@burakob/my-ai-story-started-with-a-bang-05494908b00f?source=rss------artificial_intelligence-5)**
+> 🔹 **[From What AI Has Learned to Paintings No One Has Ever Painted](https://medium.com/@nirvana_shamrock_bear_975/from-what-ai-has-learned-to-paintings-no-one-has-ever-painted-f741e997d13e?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Didn’t Create the Bias. It Made the Bias Scalable.](https://medium.com/@ahamadgaus/the-ai-didnt-create-the-bias-it-made-the-bias-scalable-a970538f21ef?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Thundering Herd Problem: Why 1,000 Users Can Kill Your Server &lpar;And How Facebook Fixed It&rpar;](https://medium.com/@sunilshekhawat772/the-thundering-herd-problem-why-1-000-users-can-kill-your-server-and-how-facebook-fixed-it-95c59b7de7b0?source=rss------system_design-5)**
+> 🔹 **[The Thundering Herd Problem: Why 1,000 Users Can Kill Your Server &lpar;And How Facebook Fixed It&rpar;](https://medium.com/@sunilshekhawat772/the-thundering-herd-problem-why-1-000-users-can-kill-your-server-and-how-facebook-fixed-it-95c59b7de7b0?source=rss------backend_development-5)**
+> 🔹 **[AI Engineering + Lord of the Rings: I Built a Habit Tracker That Forgives Me](https://medium.com/@nick.tdr19/ai-engineering-lord-of-the-rings-i-built-a-habit-tracker-that-forgives-me-d471b7631082?source=rss------artificial_intelligence-5)**
+> 🔹 **[IF AI DESIGNED IT, WHO OWNS THE CREDIT?](https://thefashionlawchronicles.medium.com/if-ai-designed-it-who-owns-the-credit-9fa70a674c7a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Open-Book AI: The Complete Guide to Retrieval-Augmented Generation](https://medium.com/@gargyash.105/open-book-ai-the-complete-guide-to-retrieval-augmented-generation-fe66fa76df1c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
