@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[My AI Story Started With a Bang](https://medium.com/@burakob/my-ai-story-started-with-a-bang-05494908b00f?source=rss------artificial_intelligence-5)**
-> 🔹 **[From What AI Has Learned to Paintings No One Has Ever Painted](https://medium.com/@nirvana_shamrock_bear_975/from-what-ai-has-learned-to-paintings-no-one-has-ever-painted-f741e997d13e?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Didn’t Create the Bias. It Made the Bias Scalable.](https://medium.com/@ahamadgaus/the-ai-didnt-create-the-bias-it-made-the-bias-scalable-a970538f21ef?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Thundering Herd Problem: Why 1,000 Users Can Kill Your Server &lpar;And How Facebook Fixed It&rpar;](https://medium.com/@sunilshekhawat772/the-thundering-herd-problem-why-1-000-users-can-kill-your-server-and-how-facebook-fixed-it-95c59b7de7b0?source=rss------system_design-5)**
-> 🔹 **[The Thundering Herd Problem: Why 1,000 Users Can Kill Your Server &lpar;And How Facebook Fixed It&rpar;](https://medium.com/@sunilshekhawat772/the-thundering-herd-problem-why-1-000-users-can-kill-your-server-and-how-facebook-fixed-it-95c59b7de7b0?source=rss------backend_development-5)**
-> 🔹 **[AI Engineering + Lord of the Rings: I Built a Habit Tracker That Forgives Me](https://medium.com/@nick.tdr19/ai-engineering-lord-of-the-rings-i-built-a-habit-tracker-that-forgives-me-d471b7631082?source=rss------artificial_intelligence-5)**
-> 🔹 **[IF AI DESIGNED IT, WHO OWNS THE CREDIT?](https://thefashionlawchronicles.medium.com/if-ai-designed-it-who-owns-the-credit-9fa70a674c7a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Open-Book AI: The Complete Guide to Retrieval-Augmented Generation](https://medium.com/@gargyash.105/open-book-ai-the-complete-guide-to-retrieval-augmented-generation-fe66fa76df1c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Use Claude to Build Things I Don’t Know How to Build](https://medium.com/artificial-corner/how-i-use-claude-to-build-things-i-dont-know-how-to-build-2460a3f2ec22?source=rss------artificial_intelligence-5)**
+> 🔹 **[Anthropic’s $1.5 Trillion IPO: Real Business or the Peak of the AI Bubble?](https://medium.com/@aryanraj2912n/anthropics-1-5-trillion-ipo-real-business-or-the-peak-of-the-ai-bubble-fa83fe4d215b?source=rss------artificial_intelligence-5)**
+> 🔹 **[What I still need to decide when I design with AI](https://medium.com/@driss.chelouati/what-i-still-need-to-decide-when-i-design-with-ai-826288b6f62d?source=rss------artificial_intelligence-5)**
+> 🔹 **[7 AI Tools That Feel Like Unfair Advantages &lpar;And Aren’t Just Recycled ChatGPT Wrappers&rpar;](https://thezeeshabbir.medium.com/7-ai-tools-that-feel-like-unfair-advantages-and-arent-just-recycled-chatgpt-wrappers-1630b82a6a00?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Use AI for Corporate Office Work &lpar;Without Looking Like You’re Cheating&rpar;](https://kotakmdshahil.medium.com/how-to-use-ai-for-corporate-office-work-without-looking-like-youre-cheating-8b5dc7446450?source=rss------artificial_intelligence-5)**
+> 🔹 **[The XOR Function. A Story of Hidden Perceptrons and Unhappy Hens.](https://medium.com/@alessandro.scalmani/the-xor-function-a-story-of-hidden-perceptrons-and-unhappy-hens-61ff0ab1bc18?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI File Search: How to Find Information Inside Your Business Documents](https://medium.com/@greg_86289/ai-file-search-how-to-find-information-inside-your-business-documents-6313343fd2e8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Through, Back, Around: The Easiest Way to Remember Caching Strategies](https://medium.com/@khushiverma1037/through-back-around-the-easiest-way-to-remember-caching-strategies-a0f4605801e7?source=rss------system_design-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
