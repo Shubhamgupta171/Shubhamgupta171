@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How I Use Claude to Build Things I Don’t Know How to Build](https://medium.com/artificial-corner/how-i-use-claude-to-build-things-i-dont-know-how-to-build-2460a3f2ec22?source=rss------artificial_intelligence-5)**
-> 🔹 **[Anthropic’s $1.5 Trillion IPO: Real Business or the Peak of the AI Bubble?](https://medium.com/@aryanraj2912n/anthropics-1-5-trillion-ipo-real-business-or-the-peak-of-the-ai-bubble-fa83fe4d215b?source=rss------artificial_intelligence-5)**
-> 🔹 **[What I still need to decide when I design with AI](https://medium.com/@driss.chelouati/what-i-still-need-to-decide-when-i-design-with-ai-826288b6f62d?source=rss------artificial_intelligence-5)**
-> 🔹 **[7 AI Tools That Feel Like Unfair Advantages &lpar;And Aren’t Just Recycled ChatGPT Wrappers&rpar;](https://thezeeshabbir.medium.com/7-ai-tools-that-feel-like-unfair-advantages-and-arent-just-recycled-chatgpt-wrappers-1630b82a6a00?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Use AI for Corporate Office Work &lpar;Without Looking Like You’re Cheating&rpar;](https://kotakmdshahil.medium.com/how-to-use-ai-for-corporate-office-work-without-looking-like-youre-cheating-8b5dc7446450?source=rss------artificial_intelligence-5)**
-> 🔹 **[The XOR Function. A Story of Hidden Perceptrons and Unhappy Hens.](https://medium.com/@alessandro.scalmani/the-xor-function-a-story-of-hidden-perceptrons-and-unhappy-hens-61ff0ab1bc18?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI File Search: How to Find Information Inside Your Business Documents](https://medium.com/@greg_86289/ai-file-search-how-to-find-information-inside-your-business-documents-6313343fd2e8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Through, Back, Around: The Easiest Way to Remember Caching Strategies](https://medium.com/@khushiverma1037/through-back-around-the-easiest-way-to-remember-caching-strategies-a0f4605801e7?source=rss------system_design-5)**
+> 🔹 **[First Principles of API Design, Revisited for Machine Callers](https://medium.com/@andrewwhans/first-principles-of-api-design-revisited-for-machine-callers-336da05c3f47?source=rss------system_design-5)**
+> 🔹 **[A retry key in my AI spending ledger let 13 model calls share one charge](https://medium.com/@azhar.great/a-retry-key-in-my-ai-spending-ledger-let-13-model-calls-share-one-charge-5b96a8a7261e?source=rss------backend_development-5)**
+> 🔹 **[Gemini 4 Explained: Carbon, Hydrogen, and Neon, and What You Actually Pay](https://medium.com/@mansi.more943/gemini-4-explained-carbon-hydrogen-and-neon-and-what-you-actually-pay-606bcab00f5b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Most Valuable Thing on the Internet Was Given Away](https://medium.com/pen-with-paper/the-most-valuable-thing-on-the-internet-was-given-away-aa4ab9165e2c?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Bug I Hid, the Guard That Failed, and the Joke My AI Told](https://medium.com/@minalborse10/the-bug-i-hid-the-guard-that-failed-and-the-joke-my-ai-told-7519762970f7?source=rss------artificial_intelligence-5)**
+> 🔹 **[Hackers Have AI Agents Now. “We’ll Update It Next Sprint” Just Got Dangerous.](https://medium.com/@anshulrajput046/hackers-have-ai-agents-now-well-update-it-next-sprint-just-got-dangerous-87b5e61d1cf1?source=rss------artificial_intelligence-5)**
+> 🔹 **[NCM: What If AI Didn’t Have to Predict the Next Word?](https://medium.com/@singh.prachi2309/ncm-what-if-ai-didnt-have-to-predict-the-next-word-3b1df160236f?source=rss------artificial_intelligence-5)**
+> 🔹 **[From Classifying Flowers to Generating Language: Understanding the Evolution of Machine Learnin...](https://medium.com/@pranova2508/from-classifying-flowers-to-generating-language-understanding-the-evolution-of-machine-learning-68e7951d0819?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
