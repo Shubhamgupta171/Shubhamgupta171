@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[First Principles of API Design, Revisited for Machine Callers](https://medium.com/@andrewwhans/first-principles-of-api-design-revisited-for-machine-callers-336da05c3f47?source=rss------system_design-5)**
-> 🔹 **[A retry key in my AI spending ledger let 13 model calls share one charge](https://medium.com/@azhar.great/a-retry-key-in-my-ai-spending-ledger-let-13-model-calls-share-one-charge-5b96a8a7261e?source=rss------backend_development-5)**
-> 🔹 **[Gemini 4 Explained: Carbon, Hydrogen, and Neon, and What You Actually Pay](https://medium.com/@mansi.more943/gemini-4-explained-carbon-hydrogen-and-neon-and-what-you-actually-pay-606bcab00f5b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Most Valuable Thing on the Internet Was Given Away](https://medium.com/pen-with-paper/the-most-valuable-thing-on-the-internet-was-given-away-aa4ab9165e2c?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Bug I Hid, the Guard That Failed, and the Joke My AI Told](https://medium.com/@minalborse10/the-bug-i-hid-the-guard-that-failed-and-the-joke-my-ai-told-7519762970f7?source=rss------artificial_intelligence-5)**
-> 🔹 **[Hackers Have AI Agents Now. “We’ll Update It Next Sprint” Just Got Dangerous.](https://medium.com/@anshulrajput046/hackers-have-ai-agents-now-well-update-it-next-sprint-just-got-dangerous-87b5e61d1cf1?source=rss------artificial_intelligence-5)**
-> 🔹 **[NCM: What If AI Didn’t Have to Predict the Next Word?](https://medium.com/@singh.prachi2309/ncm-what-if-ai-didnt-have-to-predict-the-next-word-3b1df160236f?source=rss------artificial_intelligence-5)**
-> 🔹 **[From Classifying Flowers to Generating Language: Understanding the Evolution of Machine Learnin...](https://medium.com/@pranova2508/from-classifying-flowers-to-generating-language-understanding-the-evolution-of-machine-learning-68e7951d0819?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Is Getting Cheaper. So Why Are Companies Spending More on It?](https://medium.com/prodrescue-business/ai-is-getting-cheaper-so-why-are-companies-spending-more-on-it-80e54cdd2ae5?source=rss------artificial_intelligence-5)**
+> 🔹 **[Local LLMs: Running Faster on Less](https://medium.com/@irizarryjc/local-llms-running-faster-on-less-5100e68033f1?source=rss------artificial_intelligence-5)**
+> 🔹 **[AI Agents Are Becoming a Security Nightmare for Enterprise Engineering Teams](https://medium.com/prodrescue-business/ai-agents-are-becoming-a-security-nightmare-for-enterprise-engineering-teams-6af9330c6d7d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Don’t Buy Expensive Smoke, Part 48 — When the Guardrail Is Inside the Machine.](https://medium.com/@josetguevara108/dont-buy-expensive-smoke-part-48-when-the-guardrail-is-inside-the-machine-56fb9537ce33?source=rss------artificial_intelligence-5)**
+> 🔹 **[When Optimization is Suboptimal](https://medium.com/@michael.eric.stramaglia/when-optimization-is-suboptimal-e96e17af6e86?source=rss------artificial_intelligence-5)**
+> 🔹 **[The tests were green. The app was broken. Building Chores Star with AI agents](https://medium.com/@mahmudulhoque/the-tests-were-green-the-app-was-broken-building-chores-star-with-ai-agents-bf151a5df7da?source=rss------artificial_intelligence-5)**
+> 🔹 **[¿Qué piden las ofertas de IA para juniors y qué enseñan las carreras? Un informe con datos](https://medium.com/@matuchalin/qu%C3%A9-piden-las-ofertas-de-ia-para-juniors-y-qu%C3%A9-ense%C3%B1an-las-carreras-un-informe-con-datos-0af6bde6066e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Stablecoins Are a Bridge Between the Dollar and Blockchains](https://hermessocraticus.medium.com/stablecoins-are-a-bridge-between-the-dollar-and-blockchains-b1497ae21f0b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
