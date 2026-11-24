@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[AI Is Getting Cheaper. So Why Are Companies Spending More on It?](https://medium.com/prodrescue-business/ai-is-getting-cheaper-so-why-are-companies-spending-more-on-it-80e54cdd2ae5?source=rss------artificial_intelligence-5)**
-> 🔹 **[Local LLMs: Running Faster on Less](https://medium.com/@irizarryjc/local-llms-running-faster-on-less-5100e68033f1?source=rss------artificial_intelligence-5)**
-> 🔹 **[AI Agents Are Becoming a Security Nightmare for Enterprise Engineering Teams](https://medium.com/prodrescue-business/ai-agents-are-becoming-a-security-nightmare-for-enterprise-engineering-teams-6af9330c6d7d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Don’t Buy Expensive Smoke, Part 48 — When the Guardrail Is Inside the Machine.](https://medium.com/@josetguevara108/dont-buy-expensive-smoke-part-48-when-the-guardrail-is-inside-the-machine-56fb9537ce33?source=rss------artificial_intelligence-5)**
-> 🔹 **[When Optimization is Suboptimal](https://medium.com/@michael.eric.stramaglia/when-optimization-is-suboptimal-e96e17af6e86?source=rss------artificial_intelligence-5)**
-> 🔹 **[The tests were green. The app was broken. Building Chores Star with AI agents](https://medium.com/@mahmudulhoque/the-tests-were-green-the-app-was-broken-building-chores-star-with-ai-agents-bf151a5df7da?source=rss------artificial_intelligence-5)**
-> 🔹 **[¿Qué piden las ofertas de IA para juniors y qué enseñan las carreras? Un informe con datos](https://medium.com/@matuchalin/qu%C3%A9-piden-las-ofertas-de-ia-para-juniors-y-qu%C3%A9-ense%C3%B1an-las-carreras-un-informe-con-datos-0af6bde6066e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Stablecoins Are a Bridge Between the Dollar and Blockchains](https://hermessocraticus.medium.com/stablecoins-are-a-bridge-between-the-dollar-and-blockchains-b1497ae21f0b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Building ResearchX: An Autonomous Multi-Agent Research Platform](https://medium.com/@visheshkakralia/building-researchx-an-autonomous-multi-agent-research-platform-e6cd8714d863?source=rss------backend_development-5)**
+> 🔹 **[Why Your Breast Ultrasound AI Model Fails Before Training Even Starts](https://medium.com/@pariedoliasystem/why-your-breast-ultrasound-ai-model-fails-before-training-even-starts-c3c3d3edb4c1?source=rss------artificial_intelligence-5)**
+> 🔹 **[Keyless AI Agents on Google Cloud: A Practical Guide to Agent Identity, Auth Manager and…](https://prabhakaranjm.medium.com/keyless-ai-agents-on-google-cloud-a-practical-guide-to-agent-identity-auth-manager-and-e988e04f1466?source=rss------artificial_intelligence-5)**
+> 🔹 **[10 Hidden MCP Servers That Will Transform Your Developer Setup](https://medium.com/@JustSnehal/10-hidden-mcp-servers-that-will-transform-your-developer-setup-dc43d323dcff?source=rss------artificial_intelligence-5)**
+> 🔹 **[Hardware Portability &amp; Local MoE Streaming: What Nov 24 Signals for AI Engineering.](https://jhparmar.medium.com/hardware-portability-local-moe-streaming-what-nov-24-signals-for-ai-engineering-b46a994314ed?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Better AI Gets, the Harder It Becomes to Know If You’re a Good Engineer](https://medium.com/javarevisited/the-better-ai-gets-the-harder-it-becomes-to-know-if-youre-a-good-engineer-38cfaa338673?source=rss------artificial_intelligence-5)**
+> 🔹 **[Beyond the Singularity: The Ground for Silicon Consciousness Is Already Here](https://medium.com/@youth_k/beyond-the-singularity-the-ground-for-silicon-consciousness-is-already-here-6bd99d537029?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agent Evaluation Engineering: Why AI Agents Need a Data Quality Framework](https://medium.com/@sendoamoronta/agent-evaluation-engineering-why-ai-agents-need-a-data-quality-framework-71a6c17bde91?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
