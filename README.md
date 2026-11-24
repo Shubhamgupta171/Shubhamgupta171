@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Building ResearchX: An Autonomous Multi-Agent Research Platform](https://medium.com/@visheshkakralia/building-researchx-an-autonomous-multi-agent-research-platform-e6cd8714d863?source=rss------backend_development-5)**
-> 🔹 **[Why Your Breast Ultrasound AI Model Fails Before Training Even Starts](https://medium.com/@pariedoliasystem/why-your-breast-ultrasound-ai-model-fails-before-training-even-starts-c3c3d3edb4c1?source=rss------artificial_intelligence-5)**
-> 🔹 **[Keyless AI Agents on Google Cloud: A Practical Guide to Agent Identity, Auth Manager and…](https://prabhakaranjm.medium.com/keyless-ai-agents-on-google-cloud-a-practical-guide-to-agent-identity-auth-manager-and-e988e04f1466?source=rss------artificial_intelligence-5)**
-> 🔹 **[10 Hidden MCP Servers That Will Transform Your Developer Setup](https://medium.com/@JustSnehal/10-hidden-mcp-servers-that-will-transform-your-developer-setup-dc43d323dcff?source=rss------artificial_intelligence-5)**
-> 🔹 **[Hardware Portability &amp; Local MoE Streaming: What Nov 24 Signals for AI Engineering.](https://jhparmar.medium.com/hardware-portability-local-moe-streaming-what-nov-24-signals-for-ai-engineering-b46a994314ed?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Better AI Gets, the Harder It Becomes to Know If You’re a Good Engineer](https://medium.com/javarevisited/the-better-ai-gets-the-harder-it-becomes-to-know-if-youre-a-good-engineer-38cfaa338673?source=rss------artificial_intelligence-5)**
-> 🔹 **[Beyond the Singularity: The Ground for Silicon Consciousness Is Already Here](https://medium.com/@youth_k/beyond-the-singularity-the-ground-for-silicon-consciousness-is-already-here-6bd99d537029?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agent Evaluation Engineering: Why AI Agents Need a Data Quality Framework](https://medium.com/@sendoamoronta/agent-evaluation-engineering-why-ai-agents-need-a-data-quality-framework-71a6c17bde91?source=rss------artificial_intelligence-5)**
+> 🔹 **[Find the Error Before the Hint — Weekly Notes for EdTech Platform Builders, November 23, 2026](https://medium.com/@benjaminmeindl/find-the-error-before-the-hint-weekly-notes-for-edtech-platform-builders-november-23-2026-b1a85aad5b5b?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Happens When Perplexity Falls Below 0.70? — Part II](https://medium.com/@bill.giannakopoulos/what-happens-when-perplexity-falls-below-0-70-part-ii-bd8eed05afcd?source=rss------artificial_intelligence-5)**
+> 🔹 **[Designing for the AI agent customer](https://uxdesign.cc/designing-ux-for-agentic-commerce-digital-marketing-for-personal-ai-agents-c8c99e1b0b37?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best AI Tools for YouTube Creators in 2026 &lpar;A Beginner&#39;s Guide&rpar;](https://medium.com/@salamabdullatif120/best-ai-tools-for-youtube-creators-in-2026-a-beginners-guide-ae03e911de51?source=rss------artificial_intelligence-5)**
+> 🔹 **[“Fractal Calculus Engine &amp; Qualitative Economics with Area &amp; Volume of Investment”](https://medium.com/@tonygoldenhawaii/fractal-calculus-engine-qualitative-economics-with-area-volume-of-investment-317e4d094724?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Smartest Minds on Earth Are Locked in the Basement](https://medium.com/@richwalker_23575/the-smartest-minds-on-earth-are-locked-in-the-basement-3f11d232617f?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Figma Make habits I wish I’d known before my first prototype](https://medium.com/design-bootcamp/5-figma-make-habits-i-wish-id-known-before-my-first-prototype-c894759605cc?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Riemann Hypothesis Stood for 167 Years. Claude Took 41 Days.](https://medium.com/predict/the-riemann-hypothesis-stood-for-167-years-claude-took-41-days-176034811b5c?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
