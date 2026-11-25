@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Become a Full Stack Developer in 2026: A Practical Roadmap](https://medium.com/@carolinestacy13/how-to-become-a-full-stack-developer-in-2026-a-practical-roadmap-0822759e0fc4?source=rss------backend_development-5)**
-> 🔹 **[Inkling 2 Mini vs Qwen 3.8 27B: Which One Should You Run on Your Laptop?](https://medium.com/data-science-collective/inkling-2-mini-vs-qwen-3-8-27b-which-one-should-you-run-on-your-laptop-213e0aae22c3?source=rss------artificial_intelligence-5)**
-> 🔹 **[Taste Skill: 116k developers starred a skill that teaches AI agents design taste.](https://medium.com/@mahamadaliyevbotirjon184/taste-skill-116k-developers-starred-a-skill-that-teaches-ai-agents-design-taste-84723d38a056?source=rss------artificial_intelligence-5)**
-> 🔹 **[RAG Architecture: What Happens Between Uploading a Document and Getting an Answer?](https://ai-coding.medium.com/rag-architecture-what-happens-between-uploading-a-document-and-getting-an-answer-a48fab445d65?source=rss------artificial_intelligence-5)**
-> 🔹 **[25 LeetCode Interview Questions That Teach You How to Think Under Pressure](https://medium.com/engineering-playbook/25-leetcode-interview-questions-that-teach-you-how-to-think-under-pressure-8dc0b4e96064?source=rss------data_structures-5)**
-> 🔹 **[Synthetic Audiences and Digital Twins in Marketing: Simulating Consumer Reactions Before Campai...](https://medium.com/@terapage.ai/synthetic-audiences-and-digital-twins-in-marketing-simulating-consumer-reactions-before-campaign-28d3ae46053e?source=rss------artificial_intelligence-5)**
-> 🔹 **[Agentic AI: The Layered Map](https://medium.com/@kcak11/agentic-ai-the-layered-map-d93d8bf7068b?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Illusion of the 200 OK: Why Core Banking QA Lives and Dies in the Database](https://prantakunduqa.medium.com/the-illusion-of-the-200-ok-why-core-banking-qa-lives-and-dies-in-the-database-0f98af175415?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Deploy an MCP Server Using Docker: A Step-by-Step Guide](https://medium.com/@ashish.anand_24342/how-to-deploy-an-mcp-server-using-docker-a-step-by-step-guide-da4392139c7d?source=rss------artificial_intelligence-5)**
+> 🔹 **[Faceless Video Generator: How to Make Faceless Videos with AI &lpar;Complete Guide, 2026&rpar;](https://medium.com/@support_26832/faceless-video-generator-how-to-make-faceless-videos-with-ai-complete-guide-2026-b228b92c6dc9?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Observer Effect in AI Safety](https://medium.com/@dhruvpradeep/the-observer-effect-in-ai-safety-0bf5e1e6fbc8?source=rss------artificial_intelligence-5)**
+> 🔹 **[Microsoft Foundry Hosted Agents: What to Check Before Moving AI Agents to Production](https://medium.com/@chaturvedideep/microsoft-foundry-hosted-agents-what-to-check-before-moving-ai-agents-to-production-8f372994a07c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Denisovism is fundamentally communist, and I am a communist, with a lot of love.](https://medium.com/@denisovarsene/denisovism-is-fundamentally-communist-and-i-am-a-communist-with-a-lot-of-love-e5dd8d39b0c6?source=rss------artificial_intelligence-5)**
+> 🔹 **[China’s AI Labs Are Losing Access to Both Chips and Tokens](https://medium.com/@fasthero/chinas-ai-labs-are-losing-access-to-both-chips-and-tokens-a73c9a780648?source=rss------artificial_intelligence-5)**
+> 🔹 **[THE STANDING](https://medium.com/@lukepiety2/the-standing-20956f6b2893?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best AI Receptionist for a Flooring Store? We Priced 9 of Them](https://medium.com/@meesamimran523/best-ai-receptionist-for-a-flooring-store-we-priced-9-of-them-88639ac62843?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
