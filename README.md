@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Find the Error Before the Hint — Weekly Notes for EdTech Platform Builders, November 23, 2026](https://medium.com/@benjaminmeindl/find-the-error-before-the-hint-weekly-notes-for-edtech-platform-builders-november-23-2026-b1a85aad5b5b?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Happens When Perplexity Falls Below 0.70? — Part II](https://medium.com/@bill.giannakopoulos/what-happens-when-perplexity-falls-below-0-70-part-ii-bd8eed05afcd?source=rss------artificial_intelligence-5)**
-> 🔹 **[Designing for the AI agent customer](https://uxdesign.cc/designing-ux-for-agentic-commerce-digital-marketing-for-personal-ai-agents-c8c99e1b0b37?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best AI Tools for YouTube Creators in 2026 &lpar;A Beginner&#39;s Guide&rpar;](https://medium.com/@salamabdullatif120/best-ai-tools-for-youtube-creators-in-2026-a-beginners-guide-ae03e911de51?source=rss------artificial_intelligence-5)**
-> 🔹 **[“Fractal Calculus Engine &amp; Qualitative Economics with Area &amp; Volume of Investment”](https://medium.com/@tonygoldenhawaii/fractal-calculus-engine-qualitative-economics-with-area-volume-of-investment-317e4d094724?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Smartest Minds on Earth Are Locked in the Basement](https://medium.com/@richwalker_23575/the-smartest-minds-on-earth-are-locked-in-the-basement-3f11d232617f?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Figma Make habits I wish I’d known before my first prototype](https://medium.com/design-bootcamp/5-figma-make-habits-i-wish-id-known-before-my-first-prototype-c894759605cc?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Riemann Hypothesis Stood for 167 Years. Claude Took 41 Days.](https://medium.com/predict/the-riemann-hypothesis-stood-for-167-years-claude-took-41-days-176034811b5c?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Become a Full Stack Developer in 2026: A Practical Roadmap](https://medium.com/@carolinestacy13/how-to-become-a-full-stack-developer-in-2026-a-practical-roadmap-0822759e0fc4?source=rss------backend_development-5)**
+> 🔹 **[Inkling 2 Mini vs Qwen 3.8 27B: Which One Should You Run on Your Laptop?](https://medium.com/data-science-collective/inkling-2-mini-vs-qwen-3-8-27b-which-one-should-you-run-on-your-laptop-213e0aae22c3?source=rss------artificial_intelligence-5)**
+> 🔹 **[Taste Skill: 116k developers starred a skill that teaches AI agents design taste.](https://medium.com/@mahamadaliyevbotirjon184/taste-skill-116k-developers-starred-a-skill-that-teaches-ai-agents-design-taste-84723d38a056?source=rss------artificial_intelligence-5)**
+> 🔹 **[RAG Architecture: What Happens Between Uploading a Document and Getting an Answer?](https://ai-coding.medium.com/rag-architecture-what-happens-between-uploading-a-document-and-getting-an-answer-a48fab445d65?source=rss------artificial_intelligence-5)**
+> 🔹 **[25 LeetCode Interview Questions That Teach You How to Think Under Pressure](https://medium.com/engineering-playbook/25-leetcode-interview-questions-that-teach-you-how-to-think-under-pressure-8dc0b4e96064?source=rss------data_structures-5)**
+> 🔹 **[Synthetic Audiences and Digital Twins in Marketing: Simulating Consumer Reactions Before Campai...](https://medium.com/@terapage.ai/synthetic-audiences-and-digital-twins-in-marketing-simulating-consumer-reactions-before-campaign-28d3ae46053e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Agentic AI: The Layered Map](https://medium.com/@kcak11/agentic-ai-the-layered-map-d93d8bf7068b?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Illusion of the 200 OK: Why Core Banking QA Lives and Dies in the Database](https://prantakunduqa.medium.com/the-illusion-of-the-200-ok-why-core-banking-qa-lives-and-dies-in-the-database-0f98af175415?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
