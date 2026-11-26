@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[How to Deploy an MCP Server Using Docker: A Step-by-Step Guide](https://medium.com/@ashish.anand_24342/how-to-deploy-an-mcp-server-using-docker-a-step-by-step-guide-da4392139c7d?source=rss------artificial_intelligence-5)**
-> 🔹 **[Faceless Video Generator: How to Make Faceless Videos with AI &lpar;Complete Guide, 2026&rpar;](https://medium.com/@support_26832/faceless-video-generator-how-to-make-faceless-videos-with-ai-complete-guide-2026-b228b92c6dc9?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Observer Effect in AI Safety](https://medium.com/@dhruvpradeep/the-observer-effect-in-ai-safety-0bf5e1e6fbc8?source=rss------artificial_intelligence-5)**
-> 🔹 **[Microsoft Foundry Hosted Agents: What to Check Before Moving AI Agents to Production](https://medium.com/@chaturvedideep/microsoft-foundry-hosted-agents-what-to-check-before-moving-ai-agents-to-production-8f372994a07c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Denisovism is fundamentally communist, and I am a communist, with a lot of love.](https://medium.com/@denisovarsene/denisovism-is-fundamentally-communist-and-i-am-a-communist-with-a-lot-of-love-e5dd8d39b0c6?source=rss------artificial_intelligence-5)**
-> 🔹 **[China’s AI Labs Are Losing Access to Both Chips and Tokens](https://medium.com/@fasthero/chinas-ai-labs-are-losing-access-to-both-chips-and-tokens-a73c9a780648?source=rss------artificial_intelligence-5)**
-> 🔹 **[THE STANDING](https://medium.com/@lukepiety2/the-standing-20956f6b2893?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best AI Receptionist for a Flooring Store? We Priced 9 of Them](https://medium.com/@meesamimran523/best-ai-receptionist-for-a-flooring-store-we-priced-9-of-them-88639ac62843?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Model Got Better. My Agent Workflow Had to Change.](https://jinlow.medium.com/the-model-got-better-my-agent-workflow-had-to-change-a1bbc6b31b3d?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Mobile App Development Solutions Improve Customer Engagement](https://robertworks.medium.com/how-mobile-app-development-solutions-improve-customer-engagement-0fe4696ee7be?source=rss------backend_development-5)**
+> 🔹 **[Teach Your AI to Take No for an Answer](https://netanelnirmohoni.medium.com/teach-your-ai-to-take-no-for-an-answer-b3aa06116c8a?source=rss------artificial_intelligence-5)**
+> 🔹 **[Best AI Dental Receptionist: 7 Features That Separate the Leaders From the Rest in 2026](https://medium.com/@briloaiseo/best-ai-dental-receptionist-7-features-that-separate-the-leaders-from-the-rest-in-2026-fbd8c1038675?source=rss------artificial_intelligence-5)**
+> 🔹 **[The AI Experiment Failed](https://medium.com/ai-ai-oh/the-ai-experiment-failed-b963f84eb080?source=rss------artificial_intelligence-5)**
+> 🔹 **[How a Drop of Tin Becomes the Light That Prints AI Chips](https://medium.com/wafer-to-watt/how-a-drop-of-tin-becomes-the-light-that-prints-ai-chips-58bc9bb7a998?source=rss------artificial_intelligence-5)**
+> 🔹 **[How Can Lucidpic Help Create Professional AI Headshots?](https://medium.com/@saasfinderhub/how-can-lucidpic-help-create-professional-ai-headshots-5c56fdbc4bec?source=rss------artificial_intelligence-5)**
+> 🔹 **[Choose a Smarter Workday Alternative for Streamlined HR and Workforce Management](https://medium.com/@adhirajnovelvista/choose-a-smarter-workday-alternative-for-streamlined-hr-and-workforce-management-f66d3070f36b?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
