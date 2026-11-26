@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[The Model Got Better. My Agent Workflow Had to Change.](https://jinlow.medium.com/the-model-got-better-my-agent-workflow-had-to-change-a1bbc6b31b3d?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Mobile App Development Solutions Improve Customer Engagement](https://robertworks.medium.com/how-mobile-app-development-solutions-improve-customer-engagement-0fe4696ee7be?source=rss------backend_development-5)**
-> 🔹 **[Teach Your AI to Take No for an Answer](https://netanelnirmohoni.medium.com/teach-your-ai-to-take-no-for-an-answer-b3aa06116c8a?source=rss------artificial_intelligence-5)**
-> 🔹 **[Best AI Dental Receptionist: 7 Features That Separate the Leaders From the Rest in 2026](https://medium.com/@briloaiseo/best-ai-dental-receptionist-7-features-that-separate-the-leaders-from-the-rest-in-2026-fbd8c1038675?source=rss------artificial_intelligence-5)**
-> 🔹 **[The AI Experiment Failed](https://medium.com/ai-ai-oh/the-ai-experiment-failed-b963f84eb080?source=rss------artificial_intelligence-5)**
-> 🔹 **[How a Drop of Tin Becomes the Light That Prints AI Chips](https://medium.com/wafer-to-watt/how-a-drop-of-tin-becomes-the-light-that-prints-ai-chips-58bc9bb7a998?source=rss------artificial_intelligence-5)**
-> 🔹 **[How Can Lucidpic Help Create Professional AI Headshots?](https://medium.com/@saasfinderhub/how-can-lucidpic-help-create-professional-ai-headshots-5c56fdbc4bec?source=rss------artificial_intelligence-5)**
-> 🔹 **[Choose a Smarter Workday Alternative for Streamlined HR and Workforce Management](https://medium.com/@adhirajnovelvista/choose-a-smarter-workday-alternative-for-streamlined-hr-and-workforce-management-f66d3070f36b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why Data Center Faults Make Ultrasound Long Before They Make Heat?](https://medium.com/@facilityops_team/why-data-center-faults-make-ultrasound-long-before-they-make-heat-a2b9c96c312f?source=rss------artificial_intelligence-5)**
+> 🔹 **[Crypto compliance that remembers: what Coinpliance does, and what Basira changes](https://medium.com/@social_37617/crypto-compliance-that-remembers-what-coinpliance-does-and-what-basira-changes-d0c23f13ca92?source=rss------artificial_intelligence-5)**
+> 🔹 **[How I Summarize 50-Page PDFs and Lecture Notes in Under 2 Minutes &lpar;Free AI Workflow&rpar;](https://medium.com/@imnorahadid/how-i-summarize-50-page-pdfs-and-lecture-notes-in-under-2-minutes-free-ai-workflow-6515b3a32e87?source=rss------artificial_intelligence-5)**
+> 🔹 **[Data Access Mistakes in Spring Boot: DataSource, JPA, MongoDB and Redis](https://medium.com/modern-web/data-access-mistakes-in-spring-boot-datasource-jpa-mongodb-and-redis-73bdb17f51f7?source=rss------backend_development-5)**
+> 🔹 **[How Long Does an AI Appeal Actually Take? From 24 Hours to 97 Days in Limbo](https://medium.com/@jiarex/how-long-does-an-ai-appeal-actually-take-from-24-hours-to-97-days-in-limbo-0f444adab56d?source=rss------artificial_intelligence-5)**
+> 🔹 **[It Works. But Is It Good? Why QA Is About More Than Bugs](https://medium.com/@tomecosabs/it-works-but-is-it-good-why-qa-is-about-more-than-bugs-49a8313bc5c3?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Proofread Freelance Work Faster Without Missing Errors Using AI](https://medium.com/@eomdoart/how-to-proofread-freelance-work-faster-without-missing-errors-using-ai-e45e1cd354da?source=rss------artificial_intelligence-5)**
+> 🔹 **[Learning to Develop with AI: The Engineering Protocol](https://medium.com/@antonio.merkulov/learning-to-develop-with-ai-the-engineering-protocol-3acd4aec9d06?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
