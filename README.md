@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Sandboxes, secure inference, and keeping agents from going rogue](https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/)**
-> 🔹 **[I Built 19 AI Agents to Run a Factory. Here’s What They Found That No Dashboard Could.](https://medium.com/@minalborse10/i-built-19-ai-agents-to-run-a-factory-heres-what-they-found-that-no-dashboard-could-fc8d4b60dcdf?source=rss------artificial_intelligence-5)**
-> 🔹 **[What Eye Shape Do I Have? My Face Scan Finds Your Eye Corners, and Still Won’t Name Your Eye Sh...](https://medium.com/@man0l/what-eye-shape-do-i-have-my-face-scan-finds-your-eye-corners-and-still-wont-name-your-eye-shape-815b1901ec74?source=rss------artificial_intelligence-5)**
-> 🔹 **[Your AI Agent Doesn’t Have a Model Problem It Has a Plumbing Problem.](https://pub.towardsai.net/your-ai-agent-doesnt-have-a-model-problem-it-has-a-plumbing-problem-0f188f273b0e?source=rss------artificial_intelligence-5)**
-> 🔹 **[GPU Servers for Businesses in India: AI, Machine Learning and the Future of Computing](https://medium.com/@DNHvineetkunal30/gpu-servers-for-businesses-in-india-ai-machine-learning-and-the-future-of-computing-43febeba9e21?source=rss------artificial_intelligence-5)**
-> 🔹 **[Everything we know about MAGI-2: Sand AI’s 480B video model, from MAGI-1 to real-world tests](https://medium.com/@renoiseai/everything-we-know-about-magi-2-sand-ais-480b-video-model-from-magi-1-to-real-world-tests-326aaea6159c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Antigravity Is Changing Its AI Lineup on November 30. Will Your Favorite Model Disappear?](https://medium.com/pen-with-paper/antigravity-is-changing-its-ai-lineup-on-november-30-will-your-favorite-model-disappear-31fac273f22e?source=rss------artificial_intelligence-5)**
-> 🔹 **[5 Ways to Build Useful AI When You Don’t Have Enough Data](https://medium.com/skillstuff/5-ways-to-build-useful-ai-when-you-dont-have-enough-data-8dfaa0ab1dd6?source=rss------artificial_intelligence-5)**
+> 🔹 **[Observability for AI Agents: Tracing Decisions, Tool Calls, Failures and Runtime Behavior](https://nexgentech.medium.com/observability-for-ai-agents-tracing-decisions-tool-calls-failures-and-runtime-behavior-c0a1b30fe647?source=rss------artificial_intelligence-5)**
+> 🔹 **[The Real Cost of Running a Private LLM for 100 Employees](https://medium.com/prodrescue-business/the-real-cost-of-running-a-private-llm-for-100-employees-bf249a74ba57?source=rss------artificial_intelligence-5)**
+> 🔹 **[How to Organize Messy Freelance Files and Find Assets Fast Using AI](https://medium.com/@eomdoart/how-to-organize-messy-freelance-files-and-find-assets-fast-using-ai-6d8aba4c707b?source=rss------artificial_intelligence-5)**
+> 🔹 **[MAGI-2 vs Wan 2.5 vs Vidu Q1: The Open-Weights Question in AI Video &lpar;Late 2026&rpar;](https://medium.com/@magi2aidev/magi-2-vs-wan-2-5-vs-vidu-q1-the-open-weights-question-in-ai-video-late-2026-8ee4fdc17e31?source=rss------artificial_intelligence-5)**
+> 🔹 **[Non siamo a New York. Non siamo a Chicago. Non siamo a Miami. Siamo a Maui](https://theitalianadvantage.medium.com/non-siamo-a-new-york-non-siamo-a-chicago-non-siamo-a-miami-siamo-a-maui-a661e6cb6733?source=rss------artificial_intelligence-5)**
+> 🔹 **[Confessing the Machine](https://medium.com/@eaarthnet/confessing-the-machine-1a9826e0f7e0?source=rss------artificial_intelligence-5)**
+> 🔹 **[Fanciest AI Scored 51.37%. Always Guessing &quot;Up&quot; Scored 51.4%.](https://medium.com/@aaronkmug7/fanciest-ai-scored-51-37-always-guessing-up-scored-51-4-addfd191c39c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Exploring how to Measure an AI Software Factory: From Activity to Actionable Evidence](https://medium.com/@sainitesh/exploring-how-to-measure-an-ai-software-factory-from-activity-to-actionable-evidence-97881efd9a7e?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
