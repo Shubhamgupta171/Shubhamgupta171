@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Why Data Center Faults Make Ultrasound Long Before They Make Heat?](https://medium.com/@facilityops_team/why-data-center-faults-make-ultrasound-long-before-they-make-heat-a2b9c96c312f?source=rss------artificial_intelligence-5)**
-> 🔹 **[Crypto compliance that remembers: what Coinpliance does, and what Basira changes](https://medium.com/@social_37617/crypto-compliance-that-remembers-what-coinpliance-does-and-what-basira-changes-d0c23f13ca92?source=rss------artificial_intelligence-5)**
-> 🔹 **[How I Summarize 50-Page PDFs and Lecture Notes in Under 2 Minutes &lpar;Free AI Workflow&rpar;](https://medium.com/@imnorahadid/how-i-summarize-50-page-pdfs-and-lecture-notes-in-under-2-minutes-free-ai-workflow-6515b3a32e87?source=rss------artificial_intelligence-5)**
-> 🔹 **[Data Access Mistakes in Spring Boot: DataSource, JPA, MongoDB and Redis](https://medium.com/modern-web/data-access-mistakes-in-spring-boot-datasource-jpa-mongodb-and-redis-73bdb17f51f7?source=rss------backend_development-5)**
-> 🔹 **[How Long Does an AI Appeal Actually Take? From 24 Hours to 97 Days in Limbo](https://medium.com/@jiarex/how-long-does-an-ai-appeal-actually-take-from-24-hours-to-97-days-in-limbo-0f444adab56d?source=rss------artificial_intelligence-5)**
-> 🔹 **[It Works. But Is It Good? Why QA Is About More Than Bugs](https://medium.com/@tomecosabs/it-works-but-is-it-good-why-qa-is-about-more-than-bugs-49a8313bc5c3?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Proofread Freelance Work Faster Without Missing Errors Using AI](https://medium.com/@eomdoart/how-to-proofread-freelance-work-faster-without-missing-errors-using-ai-e45e1cd354da?source=rss------artificial_intelligence-5)**
-> 🔹 **[Learning to Develop with AI: The Engineering Protocol](https://medium.com/@antonio.merkulov/learning-to-develop-with-ai-the-engineering-protocol-3acd4aec9d06?source=rss------artificial_intelligence-5)**
+> 🔹 **[Sandboxes, secure inference, and keeping agents from going rogue](https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/)**
+> 🔹 **[I Built 19 AI Agents to Run a Factory. Here’s What They Found That No Dashboard Could.](https://medium.com/@minalborse10/i-built-19-ai-agents-to-run-a-factory-heres-what-they-found-that-no-dashboard-could-fc8d4b60dcdf?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Eye Shape Do I Have? My Face Scan Finds Your Eye Corners, and Still Won’t Name Your Eye Sh...](https://medium.com/@man0l/what-eye-shape-do-i-have-my-face-scan-finds-your-eye-corners-and-still-wont-name-your-eye-shape-815b1901ec74?source=rss------artificial_intelligence-5)**
+> 🔹 **[Your AI Agent Doesn’t Have a Model Problem It Has a Plumbing Problem.](https://pub.towardsai.net/your-ai-agent-doesnt-have-a-model-problem-it-has-a-plumbing-problem-0f188f273b0e?source=rss------artificial_intelligence-5)**
+> 🔹 **[GPU Servers for Businesses in India: AI, Machine Learning and the Future of Computing](https://medium.com/@DNHvineetkunal30/gpu-servers-for-businesses-in-india-ai-machine-learning-and-the-future-of-computing-43febeba9e21?source=rss------artificial_intelligence-5)**
+> 🔹 **[Everything we know about MAGI-2: Sand AI’s 480B video model, from MAGI-1 to real-world tests](https://medium.com/@renoiseai/everything-we-know-about-magi-2-sand-ais-480b-video-model-from-magi-1-to-real-world-tests-326aaea6159c?source=rss------artificial_intelligence-5)**
+> 🔹 **[Antigravity Is Changing Its AI Lineup on November 30. Will Your Favorite Model Disappear?](https://medium.com/pen-with-paper/antigravity-is-changing-its-ai-lineup-on-november-30-will-your-favorite-model-disappear-31fac273f22e?source=rss------artificial_intelligence-5)**
+> 🔹 **[5 Ways to Build Useful AI When You Don’t Have Enough Data](https://medium.com/skillstuff/5-ways-to-build-useful-ai-when-you-dont-have-enough-data-8dfaa0ab1dd6?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
