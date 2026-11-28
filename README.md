@@ -34,14 +34,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-> 🔹 **[Observability for AI Agents: Tracing Decisions, Tool Calls, Failures and Runtime Behavior](https://nexgentech.medium.com/observability-for-ai-agents-tracing-decisions-tool-calls-failures-and-runtime-behavior-c0a1b30fe647?source=rss------artificial_intelligence-5)**
-> 🔹 **[The Real Cost of Running a Private LLM for 100 Employees](https://medium.com/prodrescue-business/the-real-cost-of-running-a-private-llm-for-100-employees-bf249a74ba57?source=rss------artificial_intelligence-5)**
-> 🔹 **[How to Organize Messy Freelance Files and Find Assets Fast Using AI](https://medium.com/@eomdoart/how-to-organize-messy-freelance-files-and-find-assets-fast-using-ai-6d8aba4c707b?source=rss------artificial_intelligence-5)**
-> 🔹 **[MAGI-2 vs Wan 2.5 vs Vidu Q1: The Open-Weights Question in AI Video &lpar;Late 2026&rpar;](https://medium.com/@magi2aidev/magi-2-vs-wan-2-5-vs-vidu-q1-the-open-weights-question-in-ai-video-late-2026-8ee4fdc17e31?source=rss------artificial_intelligence-5)**
-> 🔹 **[Non siamo a New York. Non siamo a Chicago. Non siamo a Miami. Siamo a Maui](https://theitalianadvantage.medium.com/non-siamo-a-new-york-non-siamo-a-chicago-non-siamo-a-miami-siamo-a-maui-a661e6cb6733?source=rss------artificial_intelligence-5)**
-> 🔹 **[Confessing the Machine](https://medium.com/@eaarthnet/confessing-the-machine-1a9826e0f7e0?source=rss------artificial_intelligence-5)**
-> 🔹 **[Fanciest AI Scored 51.37%. Always Guessing &quot;Up&quot; Scored 51.4%.](https://medium.com/@aaronkmug7/fanciest-ai-scored-51-37-always-guessing-up-scored-51-4-addfd191c39c?source=rss------artificial_intelligence-5)**
-> 🔹 **[Exploring how to Measure an AI Software Factory: From Activity to Actionable Evidence](https://medium.com/@sainitesh/exploring-how-to-measure-an-ai-software-factory-from-activity-to-actionable-evidence-97881efd9a7e?source=rss------artificial_intelligence-5)**
+> 🔹 **[Home Insurance Costs: What the Data Say | Breaking USA News](https://medium.com/@sumbalabbas45/home-insurance-costs-what-the-data-say-breaking-usa-news-021e1ea46d0b?source=rss------artificial_intelligence-5)**
+> 🔹 **[Why ChatGPT Quotes Some Websites and Ignores Yours](https://medium.com/@ZafarSEO/why-chatgpt-quotes-some-websites-and-ignores-yours-6d9d8dd12091?source=rss------artificial_intelligence-5)**
+> 🔹 **[Retiring the Night Shift: How We Turned 40 People Converting Spreadsheets into an Event Pipelin...](https://medium.com/@ankitgupta.work/retiring-the-night-shift-how-we-turned-40-people-converting-spreadsheets-into-an-event-pipeline-909fe553123f?source=rss------system_design-5)**
+> 🔹 **[SEO vs. GEO: Understanding the Difference Between Traditional Search and AI Search](https://medium.com/@hexalearnsolutions/seo-vs-geo-understanding-the-difference-between-traditional-search-and-ai-search-ec83af3bdb9e?source=rss------artificial_intelligence-5)**
+> 🔹 **[AthenaHQ vs Profound AI &lpar;Nov 2026&rpar;: 9-Model Agility vs Enterprise Telemetry](https://medium.com/@humanswith.ai/athenahq-vs-profound-ai-nov-2026-9-model-agility-vs-enterprise-telemetry-26ef3f946351?source=rss------artificial_intelligence-5)**
+> 🔹 **[why my assistant no longer asks google’s permission …4,399 emails, one popup storm, and what…](https://medium.com/@aigeek_56945/why-my-assistant-no-longer-asks-googles-permission-4-399-emails-one-popup-storm-and-what-0d5e49bfbbf9?source=rss------artificial_intelligence-5)**
+> 🔹 **[What Should an AI Agent Ask Your Permission For? A Checklist Before You Give One Your Accounts](https://medium.com/@sandman_26591/what-should-an-ai-agent-ask-your-permission-for-a-checklist-before-you-give-one-your-accounts-5e00e18ce4f6?source=rss------artificial_intelligence-5)**
+> 🔹 **[BEYOND USEFULNESS](https://medium.com/@mahaboobarshadshaik/beyond-usefulness-a21fd6a6f793?source=rss------artificial_intelligence-5)**
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
